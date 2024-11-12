@@ -67,7 +67,7 @@ pip install -r requirements.txt
 
 ## Filling the Neo4j Databases
 
-Before proceeding, ensure that you have Neo4j installed and a database set up and running. For detailed setup instructions, please refer to the [Neo4j Setup Guide](https://github.com/fnavarro94/NZTA-GraphRAG/tree/main).
+Before proceeding, ensure that you have Neo4j installed and a database set up and running. For detailed setup instructions, please refer to the [NZTA GraphRAG Instructins section 3](https://github.com/fnavarro94/NZTA-GraphRAG/tree/main).
 
 ### Loading Data into Neo4j
 
