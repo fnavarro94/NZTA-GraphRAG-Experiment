@@ -77,7 +77,7 @@ Before loading the data into Neo4j, you need to patch the llamaindex files.
 2. Run the patch script:
 
 ```bash
-python patch_llama_index.py
+python patch.py
 ```
 
 This script will backup the original `base.py` file and replace it with your patched version.
