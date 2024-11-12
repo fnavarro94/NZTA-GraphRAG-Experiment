@@ -75,17 +75,17 @@ This project requires **two separate Neo4j databases**: one for the **OIA** data
 
 - To upload the **OIA data**, run the notebook:
 
-  |||
+  ```
   kg_loader_oia.ipynb
-  |||
+  ```
 
 - To upload the **SP-CoT data**, run the notebook:
 
-  |||
+  ```
   kg_loader_sp_cot.ipynb
-  |||
+  ```
 
-Make sure your Neo4j instance is running and your `.env` file is correctly configured before executing these notebooks.
+Make sure your Neo4j instance is running and your `.env` file is correctly configured before executing these notebooks. Also make sure to stop the current database and start the next when switching from uploading from one database to the other.
 
 
 
