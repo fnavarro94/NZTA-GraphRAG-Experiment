@@ -73,13 +73,13 @@ Before proceeding, ensure that you have Neo4j installed and a database set up an
 
 This project requires **two separate Neo4j databases**: one for the **OIA** data and another for the **SP-CoT** data. You should load the data into each database **one at a time** using the provided Jupyter notebooks:
 
-- To upload the **OIA data**, run the notebook:
+- To upload the **OIA data**, run the notebook use:
 
   ```
   kg_loader_oia.ipynb
   ```
 
-- To upload the **SP-CoT data**, run the notebook:
+- To upload the **SP-CoT data**, run the notebook use:
 
   ```
   kg_loader_sp_cot.ipynb
