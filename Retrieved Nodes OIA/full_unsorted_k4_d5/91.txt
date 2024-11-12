@@ -1,0 +1,36 @@
+How many times has the Milford Rd closed each year for the past 5 years?
+None
+Seed: 5 years
+Seed: vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas
+Seed: resignations by year since 2014
+Seed: Milford Alliance
+[5 years]: Transport Service Licences --[ACTIVE_FOR]-> 5 years 0.8066335916519165
+[5 years]: Transport Service Licences --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7455906867980957
+[5 years]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7566347122192383
+[5 years]: New Zealand Transport Agency --[BASED]-> Wellington 0.7568411231040955
+[5 years]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7673767805099487
+[5 years]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.76405930519104
+[5 years]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7463212013244629
+[5 years]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7539725303649902
+[5 years]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7634271383285522
+[5 years]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7653471231460571
+[5 years]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7713269591331482
+[5 years]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7714185118675232
+[5 years]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7487161755561829
+[5 years]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.740364670753479
+[5 years]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7538676261901855
+[5 years]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7699737548828125
+[5 years]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7468113899230957
+[5 years]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7555220127105713
+[5 years]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.754898190498352
+[5 years]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7421143054962158
+[5 years]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7499548196792603
+[5 years]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7788959741592407
+[5 years]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7423916459083557
+[5 years]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7548964023590088
+[5 years]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7419009804725647
+[5 years]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7536665201187134
+[5 years]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7623432874679565
+[5 years]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7387217283248901
+[5 years]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7606226801872253
+[5 years]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.739570140838623

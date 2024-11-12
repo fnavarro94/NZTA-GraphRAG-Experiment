@@ -1,0 +1,30 @@
+What are the two types of toll revenue for the Tākitimu Drive Toll Road?
+None
+Seed: Takitimu Drive Toll Road
+Seed: Toll Revenue
+Seed: toll revenue
+Seed: paid toll revenues
+[Takitimu Drive Toll Road]: Takitimu Drive Toll Road --[PROVIDES]-> Toll Revenue 0.9322882294654846
+[Takitimu Drive Toll Road]: Tauranga Eastern Link Toll Road --[PROVIDES]-> Toll Revenue 0.852565586566925
+[Takitimu Drive Toll Road]: Northern Gateway Toll Road --[PROVIDES]-> Toll Revenue 0.8446418642997742
+[Takitimu Drive Toll Road]: Northern Gateway Toll Road --[DEBT_REPAYMENT]-> 35 years 0.8155136108398438
+[Takitimu Drive Toll Road]: Northern Gateway Toll Road --[ESTIMATED_END_DATE]-> 2045 0.8091853857040405
+[Toll Revenue]: Takitimu Drive Toll Road --[PROVIDES]-> Toll Revenue 0.9322882294654846
+[Toll Revenue]: Tauranga Eastern Link Toll Road --[PROVIDES]-> Toll Revenue 0.852565586566925
+[Toll Revenue]: Northern Gateway Toll Road --[PROVIDES]-> Toll Revenue 0.8446418642997742
+[Toll Revenue]: Northern Gateway Toll Road --[DEBT_REPAYMENT]-> 35 years 0.8155136108398438
+[Toll Revenue]: Northern Gateway Toll Road --[ESTIMATED_END_DATE]-> 2045 0.8091853857040405
+[toll revenue]: toll revenue --[OPERATES]-> toll road 0.8738489747047424
+[toll revenue]: toll road --[COST]-> $45 million 0.8521485924720764
+[toll revenue]: toll road --[GENERATED]-> $53 million 0.8393721580505371
+[toll revenue]: toll road --[NET_GAIN]-> $15,729,860 0.8377547264099121
+[toll revenue]: toll road --[MAINTENANCE]-> $579,000 0.8370535969734192
+[toll revenue]: toll road --[REQUIRES]-> operation money 0.8281347751617432
+[toll revenue]: NZTA --[RETAINS]-> toll revenue 0.813494861125946
+[paid toll revenues]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.8399506211280823
+[paid toll revenues]: paid toll revenues --[AVAILABLE_IN]-> Annual Reports 0.826978325843811
+[paid toll revenues]: Annual Reports --[CONTAINS]-> paid toll revenues 0.8261942863464355
+[paid toll revenues]: transport infrastructure --[SERVED_BY]-> Waka Kotahi 0.8246510028839111
+[paid toll revenues]: Regional Public Transport Plans --[DEVELOPED_BY]-> Waka Kotahi 0.8187986016273499
+[paid toll revenues]: Waka Kotahi --[PARTNER]-> Regional Public Transport Plans 0.8131356835365295
+[paid toll revenues]: fuel excise duty --[PAID_TO]-> Waka Kotahi 0.8098717927932739

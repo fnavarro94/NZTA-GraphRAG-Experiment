@@ -1,0 +1,36 @@
+What suburb does Te Ara I Whiti (Lightpath) connect to from the city that is home to the Te Ara I Whiti (Lightpath) project, which has transformed underutilized spaces into vibrant cycling and pedestrian pathways, CBD?
+None
+Seed: Multiple routes linking it to surrounding suburbs and the auckland cbd
+Seed: Auckland cbd
+Seed: Commuters to cbd
+Seed: Dedicated cycle lanes and pedestrian pathways
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Has]-> Multiple routes linking it to surrounding suburbs and the auckland cbd 0.8053060173988342
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Is]-> Near state highway 20 0.717438280582428
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Has]-> Encouraged more sustainable travel options 0.7222728729248047
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Is]-> Strategically located near major arterial routes 0.7373204231262207
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Has]-> Enhanced the overall efficiency of public transport 0.7155998945236206
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Has]-> Key point for maritime trade 0.6957378387451172
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Has]-> Integration of bus and rail services 0.7384935617446899
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Promotes]-> Active transport 0.7367390394210815
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: New zealand --[Promotes]-> Active transport 0.7649909257888794
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Has]-> Dedicated cycle lanes and pedestrian pathways 0.779625415802002
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Is]-> Served by the auckland public transport network 0.735336422920227
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Was]-> Vital port town 0.7234770059585571
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Is]-> Suburb located approximately 12 kilometers southwest of auckland's central business district 0.7634390592575073
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Contributes to]-> City's goals of reducing carbon emissions and enhancing public health 0.7444372773170471
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Has]-> Seen significant improvements in cycling and walking infrastructure 0.7572973370552063
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Is]-> Well-served by an extensive bus network 0.7154305577278137
+[Auckland cbd]: Te ara i whiti --[Links]-> Auckland cbd 0.8644683361053467
+[Auckland cbd]: Te ara i whiti --[Is]-> Lightpath 0.8454588651657104
+[Auckland cbd]: Te ara i whiti --[Repurposed for]-> Non-motorized transport users 0.8112813234329224
+[Auckland cbd]: Te ara i whiti --[Links]-> Grey lynn 0.7837189435958862
+[Auckland cbd]: Te ara i whiti --[Opened in]-> 2015 0.8029878735542297
+[Auckland cbd]: Electronic stability control --[Required in]-> 2015 0.6838598847389221
+[Auckland cbd]: Health and safety at work act --[Year]-> 2015 0.69328773021698
+[Auckland cbd]: Te ara i whiti --[Constructed on]-> Former railway corridor 0.8218223452568054
+[Auckland cbd]: Te ara i whiti --[Located in]-> Auckland 0.8239569067955017
+[Auckland cbd]: Auckland --[Has]-> Public transport system 0.7736486792564392
+[Auckland cbd]: Auckland --[Has]-> Pedestrian-friendly projects 0.8092018365859985
+[Auckland cbd]: Auckland --[Has]-> Network of cycle lanes and shared paths 0.8118571043014526
+[Auckland cbd]: Auckland --[Has]-> Bus network with extensive coverage 0.7498922944068909
+[Auckland cbd]: Auckland --[Has]-> Rail network with several lines 0.7797976732254028

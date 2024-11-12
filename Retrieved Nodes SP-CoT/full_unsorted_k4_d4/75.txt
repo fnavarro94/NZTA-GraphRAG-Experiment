@@ -1,0 +1,36 @@
+Which major urban center is located to the south of the city in the region known for its Metlink services, which focus on providing comprehensive coverage across the region?
+None
+Seed: To connect urban centers with rural areas
+Seed: Major urban centers
+Seed: Urban centers and rural communities
+Seed: Key urban centers
+[To connect urban centers with rural areas]: New zealand --[Needs]-> To connect urban centers with rural areas 0.7892208695411682
+[To connect urban centers with rural areas]: New zealand --[Has]-> Transport projects 0.7427352666854858
+[To connect urban centers with rural areas]: New zealand transport agency --[Oversees]-> Transport projects 0.7221408486366272
+[To connect urban centers with rural areas]: New zealand --[Has]-> New zealand transport agency 0.7337362766265869
+[To connect urban centers with rural areas]: New zealand transport agency --[Is]-> Forefront of promoting active transport 0.7293925285339355
+[To connect urban centers with rural areas]: New zealand transport agency --[Is]-> Government agency 0.7147971391677856
+[To connect urban centers with rural areas]: New zealand transport agency --[Is]-> Key stakeholder 0.7183516025543213
+[To connect urban centers with rural areas]: New zealand transport agency --[Is]-> Primary authority 0.7286680936813354
+[To connect urban centers with rural areas]: New zealand transport agency --[Is]-> Developing integrated transport solutions 0.7335325479507446
+[To connect urban centers with rural areas]: New zealand transport agency --[Is]-> Collaborating with technology providers 0.7432346940040588
+[To connect urban centers with rural areas]: New zealand transport agency --[Implemented]-> Initiatives 0.7356294393539429
+[To connect urban centers with rural areas]: New zealand transport agency --[Responsible for]-> Management and regulation of transport systems 0.7227820158004761
+[To connect urban centers with rural areas]: New zealand transport agency --[Responsible for]-> Management and regulation of the transport system in new zealand 0.7224680185317993
+[To connect urban centers with rural areas]: New zealand transport agency --[Ensures]-> Policies align with national transport objectives 0.7203654050827026
+[To connect urban centers with rural areas]: New zealand transport agency --[Ensures]-> Voices of all road users are considered in decision-making processes 0.7080518007278442
+[To connect urban centers with rural areas]: New zealand transport agency --[Mandates]-> Regular audits 0.6928024291992188
+[To connect urban centers with rural areas]: New zealand transport agency --[Promotes]-> Road safety 0.7071378231048584
+[To connect urban centers with rural areas]: New zealand transport agency --[Aims]-> Reduce greenhouse gas emissions 0.6964023113250732
+[To connect urban centers with rural areas]: New zealand transport agency --[Plays]-> A crucial role in funding and promoting cycling infrastructure projects 0.746503472328186
+[To connect urban centers with rural areas]: New zealand transport agency --[Plays]-> Pivotal role in conducting forecasts 0.7448090314865112
+[To connect urban centers with rural areas]: New zealand transport agency --[Plays]-> Pivotal role in facilitating road user engagement 0.7453744411468506
+[To connect urban centers with rural areas]: New zealand transport agency --[Plays]-> Crucial role in developing guidelines 0.7320201396942139
+[To connect urban centers with rural areas]: New zealand transport agency --[Plays]-> Crucial role in developing standards 0.7373942136764526
+[To connect urban centers with rural areas]: New zealand transport agency --[Plays]-> Pivotal role 0.7382831573486328
+[To connect urban centers with rural areas]: New zealand transport agency --[Is responsible for]-> Promoting public transport initiatives 0.7264703512191772
+[To connect urban centers with rural areas]: New zealand transport agency --[Is responsible for]-> State highway network 0.7390227317810059
+[To connect urban centers with rural areas]: New zealand transport agency --[Is responsible for]-> Managing state highway network 0.7400039434432983
+[To connect urban centers with rural areas]: New zealand transport agency --[Is responsible for]-> Funding local road projects 0.7337633967399597
+[To connect urban centers with rural areas]: New zealand transport agency --[Is responsible for]-> Road networks 0.7438420057296753
+[To connect urban centers with rural areas]: New zealand transport agency --[Manages]-> National land transport fund 0.7237242460250854

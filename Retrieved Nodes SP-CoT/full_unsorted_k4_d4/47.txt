@@ -1,0 +1,36 @@
+In what year did the organization that provides free emergency medical services to residents in the Wellington region first establish its services in New Zealand?
+None
+Seed: First free ambulance service
+Seed: Healthcare providers
+Seed: Emergency medical services
+Seed: Delivering high-quality pre-hospital care
+[First free ambulance service]: Wellington free ambulance --[Is]-> First free ambulance service 0.9068116545677185
+[First free ambulance service]: Wellington free ambulance --[Engages in]-> Community education programs 0.8765830397605896
+[First free ambulance service]: Wellington free ambulance --[Operates]-> Rapid response vehicles 0.8473877310752869
+[First free ambulance service]: Wellington free ambulance --[Offers]-> Services without charge 0.8735775351524353
+[First free ambulance service]: Wellington free ambulance --[Funded by]-> Grants 0.8789377808570862
+[First free ambulance service]: Wellington free ambulance --[Continues to]-> Evolve 0.8679842948913574
+[First free ambulance service]: Wellington free ambulance --[Collaborates with]-> Healthcare providers 0.8935640454292297
+[First free ambulance service]: Wellington free ambulance --[Promotes]-> Safety 0.8688491582870483
+[First free ambulance service]: Automated data collection --[Enhances]-> Safety 0.6856489181518555
+[First free ambulance service]: Automated data collection --[Is]-> Technology 0.6791579723358154
+[First free ambulance service]: Freight and logistics --[Utilizes]-> Automated data collection 0.6929428577423096
+[First free ambulance service]: Public transport --[Integrates]-> Automated data collection 0.7118166089057922
+[First free ambulance service]: Automated data collection --[Faces challenges]-> Privacy concerns 0.6759435534477234
+[First free ambulance service]: Automated data collection --[Optimizes]-> Resource allocation 0.6692496538162231
+[First free ambulance service]: Automated data collection --[Improves]-> Decision-making 0.6639299392700195
+[First free ambulance service]: Transport in new zealand --[Has]-> Automated data collection 0.7645213603973389
+[First free ambulance service]: Automated data collection --[Used in]-> Transport in new zealand 0.7645794153213501
+[First free ambulance service]: Automated data collection --[Uses]-> Advanced sensors and cameras 0.6922734975814819
+[First free ambulance service]: Safety --[Paramount concern]-> School transport 0.7154889106750488
+[First free ambulance service]: Transport accident investigation commission --[Enhances]-> Safety 0.7132059335708618
+[First free ambulance service]: Transport safety regulations --[Governed by]-> Transport accident investigation commission 0.7226232290267944
+[First free ambulance service]: Transport accident investigation commission --[Investigates]-> Transport accidents 0.7304834127426147
+[First free ambulance service]: Traffic safety audits --[Assess]-> Safety 0.6925613284111023
+[First free ambulance service]: Traffic safety audits --[Ensure]-> Meet established safety standards 0.6959716081619263
+[First free ambulance service]: Traffic safety audits --[Are]-> Evaluations 0.7019756436347961
+[First free ambulance service]: Traffic safety audits --[Proactive]-> Approach 0.7197355628013611
+[First free ambulance service]: Traffic safety audits --[Align]-> New zealand road safety strategy 0.7565896511077881
+[First free ambulance service]: Traffic safety audits --[Conducted]-> Various stages 0.714907705783844
+[First free ambulance service]: Traffic safety audits --[Play]-> Crucial role 0.7068579792976379
+[First free ambulance service]: Traffic safety audits --[Recommend]-> Improvements 0.6940414309501648

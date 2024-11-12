@@ -1,0 +1,11 @@
+In what year did the legislation overseen by the Transport and Infrastructure Committee in relation to road safety come into effect in New Zealand?
+None
+Seed: Legislative framework for road safety initiatives
+Seed: Significant shift in new zealand's approach to road safety
+Seed: Road safety legislation
+Seed: New zealand's road safety initiatives
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Provides]-> Legislative framework for road safety initiatives 0.8685125708580017
+[Significant shift in new zealand's approach to road safety]: Safer journeys strategy --[Marked]-> Significant shift in new zealand's approach to road safety 0.8703483939170837
+[Road safety legislation]: Road safety legislation --[Is]-> New zealand 0.9217135310173035
+[Road safety legislation]: Road safety legislation --[Governed by]-> Land transport act 1998 0.8867605924606323
+[New zealand's road safety initiatives]: Vienna convention on road traffic --[Influenced]-> New zealand's road safety initiatives 0.891042172908783

@@ -1,0 +1,36 @@
+I'm sorry, but the raw question you provided is incomplete. Could you please provide the missing information so I can form a complete and accurate natural question for you?
+None
+Seed: Paramount importance
+Seed: Cultural factors
+Seed: Ecological factors
+Seed: Environmental concerns
+[Paramount importance]: Road infrastructure resilience --[Is]-> Paramount importance 0.7861039042472839
+[Paramount importance]: Road infrastructure resilience --[Encompasses]-> Technological innovation 0.7580190300941467
+[Paramount importance]: Road infrastructure resilience --[Refers to]-> Capacity of road networks 0.7579627633094788
+[Paramount importance]: Road infrastructure resilience --[Emphasizes]-> Community engagement 0.7673280239105225
+[Paramount importance]: Auckland cycling network plan --[Primary objectives]-> Community engagement 0.7594065070152283
+[Paramount importance]: Auckland cycling network plan --[Seeks to]-> Create cycling network 0.7352834939956665
+[Paramount importance]: Auckland cycling network plan --[Developed by]-> Auckland transport 0.7315731048583984
+[Paramount importance]: Auckland cycling network plan --[Introduced in]-> Early 2010s 0.7373800277709961
+[Paramount importance]: Auckland cycling network plan --[Aligns with]-> New zealand's national transport objectives 0.7137331962585449
+[Paramount importance]: Auckland cycling network plan --[Primary objectives]-> Safety improvements 0.7449852228164673
+[Paramount importance]: Auckland cycling network plan --[Part of]-> Broader effort 0.7321224212646484
+[Paramount importance]: Auckland cycling network plan --[Primary objectives]-> Infrastructure development 0.7547694444656372
+[Paramount importance]: Auckland cycling network plan --[Is]-> Strategic initiative 0.7146741151809692
+[Paramount importance]: Auckland cycling network plan --[Primary objectives]-> Promotion of cycling 0.7658076286315918
+[Paramount importance]: Road safety authority --[Encourages]-> Community engagement 0.7250441908836365
+[Paramount importance]: Road safety authority --[Collaborates with]-> Law enforcement agencies 0.7073250412940979
+[Paramount importance]: Road safety authority --[Operates under]-> Ministry of transport 0.720045804977417
+[Paramount importance]: Road safety authority --[Advocates for]-> Infrastructure improvements 0.7323551774024963
+[Paramount importance]: Road safety authority --[Emphasizes]-> Need for holistic view of road safety 0.7388218641281128
+[Paramount importance]: Road safety authority --[Is]-> Government agency 0.7294214963912964
+[Paramount importance]: Road safety authority --[Employs]-> Data-driven approach 0.7349559664726257
+[Paramount importance]: Road safety authority --[Collaborates with]-> Community organizations 0.7313095331192017
+[Paramount importance]: Road safety authority --[Aims to]-> Educate the public 0.7269715666770935
+[Paramount importance]: Road safety authority --[Works towards]-> Vision of safer new zealand 0.7017743587493896
+[Paramount importance]: Road safety authority --[Publishes]-> Reports and statistics 0.7437230348587036
+[Paramount importance]: Road safety authority --[Focuses on]-> Education 0.729636549949646
+[Paramount importance]: Road safety authority --[Fosters]-> Culture of safety and responsibility 0.7172749042510986
+[Paramount importance]: Road safety authority --[Collaborates with]-> Local councils 0.7291732430458069
+[Paramount importance]: Road safety authority --[Responsible for]-> Promoting road safety 0.730682909488678
+[Paramount importance]: Road safety authority --[Focuses on]-> Enforcement 0.7186144590377808

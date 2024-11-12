@@ -1,0 +1,36 @@
+In what year did the organization that operates the rail network in New Zealand, primarily serving freight and providing passenger services in metropolitan areas, become established as a state-owned enterprise in New Zealand?
+None
+Seed: State-owned enterprise
+Seed: Extensive network of passenger and freight services
+Seed: Rail network
+Seed: Rail networks
+[State-owned enterprise]: Kiwirail group --[Is]-> State-owned enterprise 0.8966468572616577
+[State-owned enterprise]: Kiwirail group --[Provides]-> Essential services 0.8282061815261841
+[State-owned enterprise]: Kiwirail group --[Provides]-> Efficient transport 0.8244171142578125
+[State-owned enterprise]: Kiwirail group --[Provides]-> Sustainable transport 0.8266804814338684
+[State-owned enterprise]: Kiwirail group --[Addresses]-> Environmental concerns 0.804250955581665
+[State-owned enterprise]: Kiwirail group --[Addresses]-> Road congestion 0.7959564328193665
+[State-owned enterprise]: Kiwirail group --[Responsible for]-> Rail transport 0.8556243181228638
+[State-owned enterprise]: Kiwirail group --[Responsible for]-> Freight services 0.8513907790184021
+[State-owned enterprise]: Kiwirail group --[Promotes]-> Integrated transport solutions 0.8229056596755981
+[State-owned enterprise]: Kiwirail group --[Promotes]-> Economic growth 0.8266671299934387
+[State-owned enterprise]: Kiwirail group --[Aims to]-> Rail transport 0.8298122882843018
+[State-owned enterprise]: Kiwirail group --[Aims to]-> Increase modal share 0.7782747745513916
+[State-owned enterprise]: Kiwirail group --[Connects]-> Ports 0.8168421387672424
+[State-owned enterprise]: Kiwirail group --[Connects]-> Regional centers 0.8312662243843079
+[State-owned enterprise]: Kiwirail group --[Connects]-> Major cities 0.8348184823989868
+[State-owned enterprise]: Kiwirail group --[Plays]-> Pivotal role 0.8411227464675903
+[State-owned enterprise]: Kiwirail group --[Plays]-> Transport landscape 0.8340885639190674
+[State-owned enterprise]: Kiwirail group --[Facilitates]-> Movement of passengers 0.8140870332717896
+[State-owned enterprise]: Kiwirail group --[Facilitates]-> Movement of goods 0.8459978699684143
+[State-owned enterprise]: Kiwirail group --[Manages]-> Rail network 0.8487518429756165
+[State-owned enterprise]: Kiwirail group --[Prioritizes]-> Innovation 0.8137946128845215
+[State-owned enterprise]: Kiwirail group --[Prioritizes]-> Sustainability 0.8140707612037659
+[State-owned enterprise]: Kiwirail group --[Supports]-> Economy 0.83516526222229
+[State-owned enterprise]: Kiwirail group --[Supports]-> Community 0.8210725784301758
+[State-owned enterprise]: Kiwirail group --[Attracts]-> International tourists 0.7951706051826477
+[State-owned enterprise]: Kiwirail group --[Attracts]-> Domestic tourists 0.8069217205047607
+[State-owned enterprise]: Kiwirail group --[Known for]-> Northern explorer 0.8153433799743652
+[State-owned enterprise]: Kiwirail group --[Known for]-> Tranzalpine 0.8026953935623169
+[State-owned enterprise]: Kiwirail group --[Operates]-> Majority of rail services 0.8509636521339417
+[State-owned enterprise]: Kiwirail group --[Operates]-> Freight services 0.8611978888511658

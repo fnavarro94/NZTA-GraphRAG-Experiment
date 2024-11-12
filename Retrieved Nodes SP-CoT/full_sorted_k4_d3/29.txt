@@ -1,0 +1,34 @@
+Under which regional council does the entity responsible for planning and delivering public transport services in Auckland operate?
+None
+Seed: Regional councils and local authorities
+Seed: Local councils and new zealand transport agency
+Seed: Local government initiatives
+Seed: Regional transport initiatives
+[Regional councils and local authorities]: Wellington regional public transport plan --[Established under]-> Land transport management act 2003 0.8675822019577026
+[Regional councils and local authorities]: Waka kotahi nz transport agency --[Responsible for]-> Planning 0.8541800379753113
+[Regional councils and local authorities]: Waka kotahi nz transport agency --[Works collaboratively with]-> Local councils 0.8518006801605225
+[Regional councils and local authorities]: Waka kotahi nz transport agency --[Works collaboratively with]-> Regional authorities 0.8512728214263916
+[Regional councils and local authorities]: Waka kotahi nz transport agency --[Responsible for]-> Management 0.8393911719322205
+[Regional councils and local authorities]: New zealand --[Has]-> Land transport management act 2003 0.8391190767288208
+[Regional councils and local authorities]: Waka kotahi nz transport agency --[Responsible for]-> Managing national land transport system 0.8383433222770691
+[Local councils and new zealand transport agency]: Auckland transport --[Responsible for]-> Managing public transport services 0.9115564823150635
+[Local councils and new zealand transport agency]: Greater wellington regional council --[Responsible for]-> Managing public transport services 0.898626446723938
+[Local councils and new zealand transport agency]: Wellington --[Transport system managed by]-> Greater wellington regional council 0.8760177493095398
+[Local councils and new zealand transport agency]: Greater wellington regional council --[Oversees]-> Integrated transport system 0.8756875991821289
+[Local councils and new zealand transport agency]: Wellington public transport plan --[Developed by]-> Greater wellington regional council 0.8755894899368286
+[Local councils and new zealand transport agency]: Greater wellington regional council --[Collaborates with]-> Local councils and new zealand transport agency 0.8677164912223816
+[Local councils and new zealand transport agency]: Wellington --[Has]-> Public transport services 0.8578674793243408
+[Local government initiatives]: Auckland transport --[Responsible for]-> Managing public transport services 0.9115564823150635
+[Local government initiatives]: Auckland transport --[Responsible for]-> Planning 0.908024787902832
+[Local government initiatives]: Auckland transport --[Operates under]-> Auckland council 0.9078306555747986
+[Local government initiatives]: Auckland transport --[Responsible for]-> Management 0.9018652439117432
+[Local government initiatives]: Auckland transport --[Manages]-> Public transport 0.8966811895370483
+[Local government initiatives]: Auckland transport --[Responsible for]-> Development 0.8940640687942505
+[Local government initiatives]: Auckland transport --[Manages]-> Public transport in auckland 0.8929963111877441
+[Regional transport initiatives]: New zealand transport agency --[Collaborates with]-> Regional councils 0.8959763646125793
+[Regional transport initiatives]: New zealand transport agency --[Collaborates with]-> Local councils 0.8753365874290466
+[Regional transport initiatives]: New zealand transport agency --[Responsible for]-> Management and regulation of transport systems 0.8750778436660767
+[Regional transport initiatives]: New zealand transport agency --[Responsible for]-> Management and regulation of the transport system in new zealand 0.8721939325332642
+[Regional transport initiatives]: New zealand transport agency --[Works with]-> Local councils 0.871807336807251
+[Regional transport initiatives]: New zealand transport agency --[Is responsible for]-> Promoting public transport initiatives 0.8696786165237427
+[Regional transport initiatives]: Auckland transport --[Collaborates with]-> New zealand transport agency 0.868565559387207

@@ -1,0 +1,36 @@
+What is Waka Kotahi's current estimate for the potential increase in the number of street lighting assets after their audit?
+None
+Seed: Waka Kotahi Senior Project Manager
+Seed: Waka Kotahi
+Seed: street lighting assets
+Seed: information to Waka Kotahi
+[Waka Kotahi Senior Project Manager]: Waka Kotahi Senior Project Manager --[MANAGES]-> State Highway 25A Rebuild Project 0.8245724439620972
+[Waka Kotahi]: Response --[CONTAINS]-> Waka Kotahi 0.8066532611846924
+[Waka Kotahi]: Waka Kotahi --[PUBLISHES]-> Response 0.8355955481529236
+[Waka Kotahi]: response --[CONTAINS]-> Waka Kotahi 0.8167203068733215
+[Waka Kotahi]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.8389667272567749
+[Waka Kotahi]: Charles Ronaldson --[SIGNED]-> response 0.7304043769836426
+[Waka Kotahi]: Lauren Cooke --[SIGNED]-> response 0.7301424741744995
+[Waka Kotahi]: Waka Kotahi --[PUBLISHED_BY]-> response 0.8174153566360474
+[Waka Kotahi]: Ministry --[PROVIDE]-> response 0.741383969783783
+[Waka Kotahi]: response --[REMOVED]-> personal information 0.6938097476959229
+[Waka Kotahi]: Waka Kotahi website --[CONTAINS]-> response 0.7853672504425049
+[Waka Kotahi]: New Zealand Transport Agency --[DISCUSSES]-> response 0.7587513327598572
+[Waka Kotahi]: response --[IS_A]-> letter 0.7090775966644287
+[Waka Kotahi]: Waka Kotahi --[FOLLOWS]-> response 0.8124776482582092
+[Waka Kotahi]: New Zealand Transport Agency --[PUBLISH]-> response 0.7713837623596191
+[Waka Kotahi]: New Zealand Transport Agency --[PUBLISHES]-> response 0.7712335586547852
+[Waka Kotahi]: response --[IS]-> response letter 0.7093324065208435
+[Waka Kotahi]: response letter --[IS]-> response 0.7079672813415527
+[Waka Kotahi]: response --[CONTAINS]-> contact details for the Ombudsman 0.7298488616943359
+[Waka Kotahi]: response --[CONTAINS]-> Jamie Ensor 0.7263814210891724
+[Waka Kotahi]: response --[RELATES_TO]-> personal information removed 0.6916072368621826
+[Waka Kotahi]: Conan Young --[RECEIVES]-> response 0.7287780046463013
+[Waka Kotahi]: oia-14650-response-letter.pdf --[CONTAINS]-> response 0.7208375334739685
+[Waka Kotahi]: response --[IS]-> sincerely 0.7119651436805725
+[Waka Kotahi]: NZTA --[REPLY]-> response 0.7313119769096375
+[Waka Kotahi]: response --[REMOVE]-> personal information 0.6769379377365112
+[Waka Kotahi]: Waka Kotahi --[PUBLISHED]-> response 0.8319788575172424
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> response 0.8154697418212891
+[Waka Kotahi]: response --[IS_PUBLISHED_ON]-> website 0.7221555709838867
+[Waka Kotahi]: personal information --[REMOVED]-> response 0.6992566585540771

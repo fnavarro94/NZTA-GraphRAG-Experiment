@@ -1,0 +1,36 @@
+What is the abbreviation commonly used for the method that involves the use of advanced sensors and cameras to gather real-time data on road conditions in the context of transport systems in New Zealand?
+None
+Seed: Advanced sensors and cameras
+Seed: Cameras and sensors
+Seed: Real-time tracking of buses and trains
+Seed: Systematic collection and analysis of data related to the physical state of roadways
+[Advanced sensors and cameras]: Automated data collection --[Uses]-> Advanced sensors and cameras 0.8507516980171204
+[Advanced sensors and cameras]: Automated data collection --[Is]-> Technology 0.8083797693252563
+[Advanced sensors and cameras]: Waka kotahi --[Leverages]-> Technology 0.7634514570236206
+[Advanced sensors and cameras]: Freight and logistics --[Utilizes]-> Automated data collection 0.8102697134017944
+[Advanced sensors and cameras]: Public transport --[Integrates]-> Automated data collection 0.8277570009231567
+[Advanced sensors and cameras]: Auckland transport --[Manages]-> Public transport 0.8180972337722778
+[Advanced sensors and cameras]: Wellington --[Relies heavily on]-> Public transport 0.7976170778274536
+[Advanced sensors and cameras]: New zealand transport strategy --[Promotes]-> Public transport 0.8096625804901123
+[Advanced sensors and cameras]: Auckland transport --[Oversees]-> Public transport 0.8106036186218262
+[Advanced sensors and cameras]: Ministry of transport --[Oversees]-> Public transport 0.7829205393791199
+[Advanced sensors and cameras]: Integrated transport strategies --[Promote]-> Public transport 0.7781781554222107
+[Advanced sensors and cameras]: Christchurch --[Has]-> Public transport 0.8162779808044434
+[Advanced sensors and cameras]: Sustainable urban transport --[Key component]-> Public transport 0.8146971464157104
+[Advanced sensors and cameras]: Sustainability and resilience --[Includes]-> Public transport 0.7894483208656311
+[Advanced sensors and cameras]: New zealand --[Has]-> Public transport 0.8352037668228149
+[Advanced sensors and cameras]: Public transport innovations --[Transform]-> Public transport 0.8155712485313416
+[Advanced sensors and cameras]: Public transport --[Varies significantly]-> Between urban and rural areas 0.7783809900283813
+[Advanced sensors and cameras]: Public transport --[Characterized by]-> Transition 0.8089767694473267
+[Advanced sensors and cameras]: Public transport --[Underwent]-> Significant evolution 0.7907538414001465
+[Advanced sensors and cameras]: Automated data collection --[Enhances]-> Safety 0.7867028117179871
+[Advanced sensors and cameras]: Wellington free ambulance --[Promotes]-> Safety 0.7682607173919678
+[Advanced sensors and cameras]: Safety --[Paramount concern]-> School transport 0.7717815637588501
+[Advanced sensors and cameras]: Transport accident investigation commission --[Enhances]-> Safety 0.7818403244018555
+[Advanced sensors and cameras]: Traffic safety audits --[Assess]-> Safety 0.793499231338501
+[Advanced sensors and cameras]: Intelligent transport systems --[Improve]-> Safety 0.8153696060180664
+[Advanced sensors and cameras]: Vehicle technology advancements --[Enhanced]-> Safety 0.8003576993942261
+[Advanced sensors and cameras]: Vehicle import regulations --[Apply to]-> Safety 0.78636634349823
+[Advanced sensors and cameras]: Smart mobility solutions --[Enhance]-> Safety 0.7960937023162842
+[Advanced sensors and cameras]: Road safety initiatives --[Focus on]-> Safety 0.8042727708816528
+[Advanced sensors and cameras]: Intelligent transport systems --[Enhance]-> Safety 0.808635413646698

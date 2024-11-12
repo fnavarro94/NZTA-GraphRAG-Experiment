@@ -1,0 +1,29 @@
+What is the abbreviation for the program that includes the expressway project aimed at improving freight transport efficiency in the region in New Zealand?
+None
+Seed: Efficiency of freight transport in region
+Seed: Regional transport initiatives
+Seed: Significant transport infrastructure project
+Seed: Enhancement of new zealand's transport infrastructure
+[Efficiency of freight transport in region]: Waikato expressway --[Significantly enhances]-> Efficiency of freight transport in region 0.8931275606155396
+[Efficiency of freight transport in region]: New zealand --[Has]-> Transport projects 0.8823741674423218
+[Efficiency of freight transport in region]: Waikato expressway --[Is part of]-> National land transport programme 0.879420816898346
+[Efficiency of freight transport in region]: New zealand --[Has]-> Transport infrastructure development 0.8776222467422485
+[Efficiency of freight transport in region]: New zealand --[Has]-> Regional transport planning 0.8750200271606445
+[Efficiency of freight transport in region]: New zealand transport agency --[Initiated]-> Programs aimed at improving transport access 0.872393012046814
+[Efficiency of freight transport in region]: New zealand --[Has]-> Transport infrastructure 0.8687088489532471
+[Regional transport initiatives]: Waikato expressway --[Significantly enhances]-> Efficiency of freight transport in region 0.8931275606155396
+[Regional transport initiatives]: New zealand --[Has]-> Transport projects 0.8823741674423218
+[Regional transport initiatives]: Waikato expressway --[Is part of]-> National land transport programme 0.879420816898346
+[Regional transport initiatives]: New zealand --[Has]-> Transport infrastructure development 0.8776222467422485
+[Regional transport initiatives]: New zealand --[Has]-> Regional transport planning 0.8750200271606445
+[Regional transport initiatives]: New zealand transport agency --[Initiated]-> Programs aimed at improving transport access 0.872393012046814
+[Regional transport initiatives]: Freight transport in new zealand --[Driven by]-> Need for efficiency 0.8719545006752014
+[Significant transport infrastructure project]: New zealand --[Has]-> Transport projects 0.8823741674423218
+[Significant transport infrastructure project]: Waikato expressway --[Is part of]-> National land transport programme 0.879420816898346
+[Significant transport infrastructure project]: New zealand --[Has]-> Transport infrastructure development 0.8776222467422485
+[Significant transport infrastructure project]: New zealand --[Has]-> Regional transport planning 0.8750200271606445
+[Significant transport infrastructure project]: New zealand transport agency --[Initiated]-> Programs aimed at improving transport access 0.872393012046814
+[Significant transport infrastructure project]: New zealand --[Has]-> Transport infrastructure 0.8687088489532471
+[Significant transport infrastructure project]: National land transport programme --[Is]-> Key component of new zealand's transport planning framework 0.8686312437057495
+[Enhancement of new zealand's transport infrastructure]: Nltf --[Has significantly contributed to]-> Enhancement of new zealand's transport infrastructure 0.8551494479179382
+[Enhancement of new zealand's transport infrastructure]: Nltf --[Expected to play pivotal role in]-> Addressing emerging transport challenges 0.8084802627563477

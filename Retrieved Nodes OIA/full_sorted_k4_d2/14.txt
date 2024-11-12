@@ -1,0 +1,34 @@
+Does NZTA impose a quality assurance or performance clause for pothole repair work, and if so, where can it be found?
+None
+Seed: pothole repair specifications
+Seed: request for pothole repair cost information
+Seed: https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf
+Seed: potholes
+[pothole repair specifications]: pothole repair specifications --[FROM]-> NZTA 0.9272093772888184
+[pothole repair specifications]: https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf --[ACCESS]-> pothole repair specifications 0.8869953751564026
+[pothole repair specifications]: NZTA --[SETS]-> quality standards 0.8805959820747375
+[pothole repair specifications]: NZTA --[PROVIDES]-> maintenance specifications 0.8799540996551514
+[pothole repair specifications]: website --[LINKS]-> https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf 0.8628110885620117
+[pothole repair specifications]: NZTA --[POLICY]-> publish response on website 0.8445296287536621
+[pothole repair specifications]: National Manager Infrastructure Delivery --[AT]-> NZTA 0.8384033441543579
+[request for pothole repair cost information]: New Zealand Transport Agency --[CONSIDERS]-> request for pothole repair cost information 0.8871679902076721
+[request for pothole repair cost information]: New Zealand Transport Agency --[REFUSES]-> request for pothole repair cost information 0.8752009272575378
+[request for pothole repair cost information]: road maintenance --[PERFORMED_BY]-> New Zealand Transport Agency 0.8661874532699585
+[request for pothole repair cost information]: New Zealand Transport Agency --[RESPONSIBLE_FOR]-> road maintenance 0.8613021969795227
+[request for pothole repair cost information]: request for pothole repair cost information --[SUBJECT_TO]-> section 18(f) of the Act 0.8596761226654053
+[request for pothole repair cost information]: request for pothole repair cost information --[SUBJECT_TO]-> sections 18A and 18B of the Act 0.8585008382797241
+[request for pothole repair cost information]: Network Outcomes Contract --[USED_BY]-> New Zealand Transport Agency 0.8577773571014404
+[https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf]: pothole repair specifications --[FROM]-> NZTA 0.9272093772888184
+[https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf]: https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf --[ACCESS]-> pothole repair specifications 0.8869953751564026
+[https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf]: website --[LINKS]-> https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf 0.8628110885620117
+[https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8165701627731323
+[https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf]: maintenance specifications --[AVAILABLE]-> website 0.8083298206329346
+[https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf]: Waka Kotahi policy --[PUBLISHED]-> website 0.7967675924301147
+[https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf]: response --[IS_PUBLISHED_ON]-> website 0.7862260341644287
+[potholes]: State Highway 1 --[REPAIRS]-> potholes 0.8354532718658447
+[potholes]: funding for road maintenance --[ASSOCIATED_WITH]-> State Highway 1 0.8208820819854736
+[potholes]: funding for road maintenance --[FOR]-> State Highway 1 0.8171426653862
+[potholes]: State Highway 1 --[OVERDUE]-> road maintenance 0.8135694861412048
+[potholes]: road maintenance --[ASSOCIATED_WITH]-> State Highway 1 0.8128604292869568
+[potholes]: State Highway 1 --[ASSOCIATED_WITH]-> road maintenance 0.8060171008110046
+[potholes]: New Zealand Transport Agency --[MANAGES]-> State Highway 1 0.8053522109985352

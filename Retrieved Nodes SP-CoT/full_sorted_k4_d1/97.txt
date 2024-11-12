@@ -1,0 +1,10 @@
+Which organization has utilized one of the commonly used traffic simulation models in a specific field for visualizing traffic patterns and assessing the impact of new developments to assess the performance of its public transport system in response to the needs of a growing population?
+None
+Seed: Adopting integrated transport planning approaches that consider active transport modes
+Seed: Innovative traffic management strategies
+Seed: Adopting integrated transport planning approaches that consider public transport
+Seed: Impact of technologies on traffic congestion
+[Adopting integrated transport planning approaches that consider active transport modes]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider active transport modes 0.8208843469619751
+[Innovative traffic management strategies]: New zealand --[Has]-> Innovative traffic management strategies 0.8402736186981201
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider public transport 0.8247180581092834
+[Impact of technologies on traffic congestion]: Technology and road user behavior --[Focus on]-> Impact of technologies on traffic congestion 0.8137990236282349

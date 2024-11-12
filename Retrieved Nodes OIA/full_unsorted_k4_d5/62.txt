@@ -1,0 +1,36 @@
+What is required for obtaining an I endorsement, and how are criminal convictions considered during the process?
+None
+Seed: information related to criminal convictions of driving instructor (I) endorsement holders
+Seed: criminal convictions
+Seed: applications for I endorsements
+Seed: Applicant 7
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Michael Morrah --[REQUESTS]-> information related to criminal convictions of driving instructor (I) endorsement holders 0.8631559610366821
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Michael Morrah --[SUBMITTED]-> request for information 0.7815238833427429
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[RESPONDS]-> request for information 0.7621119022369385
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7415778636932373
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[BASED]-> Wellington 0.7430368661880493
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7221651077270508
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Golden Mile --[LOCATED]-> Wellington 0.7270693778991699
+[information related to criminal convictions of driving instructor (I) endorsement holders]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7449380159378052
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7542967796325684
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7128777503967285
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7104942798614502
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Wellington --[PART_OF]-> Wellington Region 0.7355170249938965
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand --[HAS_CAPITAL]-> Wellington 0.754298746585846
+[information related to criminal convictions of driving instructor (I) endorsement holders]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.6980305910110474
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Wellington --[HAS]-> tunnel 0.7256876230239868
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7050349116325378
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.725286066532135
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Wellington --[POSTCODE]-> 6141 0.6908928751945496
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7321606874465942
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Wellington --[IS_PART_OF]-> New Zealand 0.7446786165237427
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.730178952217102
+[information related to criminal convictions of driving instructor (I) endorsement holders]: 50 Victoria Street --[IN]-> Wellington 0.7066454291343689
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7497339248657227
+[information related to criminal convictions of driving instructor (I) endorsement holders]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7081573605537415
+[information related to criminal convictions of driving instructor (I) endorsement holders]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7260985970497131
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7076656222343445
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7159855365753174
+[information related to criminal convictions of driving instructor (I) endorsement holders]: NZ Transport Agency --[LOCATED]-> Wellington 0.7344940900802612
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7179161310195923
+[information related to criminal convictions of driving instructor (I) endorsement holders]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7094513773918152

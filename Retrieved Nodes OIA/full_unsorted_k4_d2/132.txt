@@ -1,0 +1,36 @@
+What was the objective of the Safe Limits campaign regarding speed limits?
+None
+Seed: comparing the number of accidents under the 100km speed limit versus the current 80km speed rate
+Seed: wider objectives in Regional Public Transport Plans
+Seed: Setting of Speed Limits Rule 2017
+Seed: speed limit zones
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[INTERESTED_IN]-> comparing the number of accidents under the 100km speed limit versus the current 80km speed rate 0.8275731205940247
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[EMAILS]-> NZ Transport Agency 0.7626992464065552
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[REQUESTS]-> annual accident rate on SH16 0.7722885608673096
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[LIVES]-> New Zealand 0.6941666603088379
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[WRITES]-> email to the NZ Transport Agency 0.745938777923584
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[WRITES]-> email dated 30 April 2018 0.7226035594940186
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[REQUESTS]-> information under the Official Information Act 1982 0.7481383681297302
+[wider objectives in Regional Public Transport Plans]: underlying principles of the current policy --[CONTRIBUTES]-> wider objectives in Regional Public Transport Plans 0.8214088082313538
+[wider objectives in Regional Public Transport Plans]: national farebox recovery target --[REPLACED_BY]-> underlying principles of the current policy 0.7866144776344299
+[wider objectives in Regional Public Transport Plans]: wider objectives in Regional Public Transport Plans --[CONTRIBUTES]-> government's transport priorities 0.8207579851150513
+[wider objectives in Regional Public Transport Plans]: government's transport priorities --[INCLUDES]-> fares play an important role in helping cover the cost of public transport within available budgets 0.774955153465271
+[Setting of Speed Limits Rule 2017]: Setting of Speed Limits Rule 2017 --[APPLIES_TO]-> speed review process 0.8445148468017578
+[Setting of Speed Limits Rule 2017]: speed review process --[INVOLVES]-> stakeholders 0.7986931204795837
+[Setting of Speed Limits Rule 2017]: consultation --[PART_OF]-> speed review process 0.781754732131958
+[Setting of Speed Limits Rule 2017]: Waka Kotahi --[CONDUCTS]-> speed review process 0.7598185539245605
+[Setting of Speed Limits Rule 2017]: speed review process --[AFFECTS]-> communities 0.7765883803367615
+[Setting of Speed Limits Rule 2017]: decision making --[PART_OF]-> speed review process 0.7852752208709717
+[Setting of Speed Limits Rule 2017]: speed review process --[AFFECTS]-> road safety 0.8354967832565308
+[Setting of Speed Limits Rule 2017]: speed review process --[REQUIRES]-> consultation 0.7874020934104919
+[Setting of Speed Limits Rule 2017]: Waka Kotahi --[FOLLOWS]-> Setting of Speed Limits Rule 2017 0.7993307113647461
+[Setting of Speed Limits Rule 2017]: Response --[CONTAINS]-> Waka Kotahi 0.7108176350593567
+[Setting of Speed Limits Rule 2017]: response --[CONTAINS]-> Waka Kotahi 0.7010254263877869
+[Setting of Speed Limits Rule 2017]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.7326110005378723
+[Setting of Speed Limits Rule 2017]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.7180594205856323
+[Setting of Speed Limits Rule 2017]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7249853610992432
+[Setting of Speed Limits Rule 2017]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7273392081260681
+[Setting of Speed Limits Rule 2017]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.7234259843826294
+[Setting of Speed Limits Rule 2017]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7368794083595276
+[Setting of Speed Limits Rule 2017]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.7310371398925781
+[Setting of Speed Limits Rule 2017]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.7676619291305542

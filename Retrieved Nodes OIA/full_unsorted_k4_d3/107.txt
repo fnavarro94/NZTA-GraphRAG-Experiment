@@ -1,0 +1,36 @@
+What are the occupancy protection requirements for commercial buses in New Zealand?
+None
+Seed: 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.
+Seed: occupancy protection
+Seed: Occupancy Protection
+Seed: Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act).
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. --[OFFICIAL_INFORMATION]-> I am refusing this part of your request under section 18(d) of the Act as the information is publicly available. 0.8845202326774597
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: I will respond to each of your questions in turn. --[OFFICIAL_INFORMATION]-> 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. 0.8943002223968506
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act). --[OFFICIAL_INFORMATION]-> I will respond to each of your questions in turn. 0.8374080061912537
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: Request made under the Official Information Act 1982 --[OFFICIAL_INFORMATION]-> Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act). 0.8401494026184082
+[occupancy protection]: occupancy protection --[CONCERN]-> light motorhomes 0.8854310512542725
+[occupancy protection]: light motorhomes --[DIFFERENT_SUSPENSION]-> heavy motorhomes 0.776342511177063
+[occupancy protection]: heavy motorhomes --[CARRYING_CAPACITY]-> 4.5t GVM 0.7837541699409485
+[occupancy protection]: light motorhomes --[SAME_STRUCTURE]-> heavy motorhomes 0.7724598050117493
+[occupancy protection]: occupancy protection --[CONCERN]-> heavy motorhomes 0.8816101551055908
+[occupancy protection]: light motorhomes --[CARRYING_CAPACITY]-> 3.5t GVM 0.7859143018722534
+[Occupancy Protection]: Occupancy Protection --[ASSOCIATED_WITH]-> Cab Cut-out Vehicles 0.8716310858726501
+[Occupancy Protection]: Cab Cut-out Vehicles --[POSES_RISK]-> Occupancy Protection Risk 0.860526978969574
+[Occupancy Protection]: Occupancy Protection Risk --[EVIDENCED_BY]-> Publicly Available Information 0.8590070009231567
+[Occupancy Protection]: Transport Services --[RELATES_TO]-> Occupancy Protection 0.8877240419387817
+[Occupancy Protection]: OIA-8452 --[RELATES_TO]-> Transport Services 0.8162089586257935
+[Occupancy Protection]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA-8452 0.8452388644218445
+[Occupancy Protection]: Danica MacLean --[SUBMITTED_REQUEST]-> OIA-8452 0.749428927898407
+[Occupancy Protection]: OIA-8452 --[SUBMITTED_BY]-> Danica MacLean 0.7645281553268433
+[Occupancy Protection]: OIA-8452 --[ANSWERED_BY]-> New Zealand Transport Agency 0.8715474605560303
+[Occupancy Protection]: Transport Services --[PROVIDED_BY]-> New Zealand Transport Agency 0.8559074401855469
+[Occupancy Protection]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8531495928764343
+[Occupancy Protection]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8524817824363708
+[Occupancy Protection]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8469098210334778
+[Occupancy Protection]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.8362941741943359
+[Occupancy Protection]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.8568598628044128
+[Occupancy Protection]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.8539408445358276
+[Occupancy Protection]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.857553243637085
+[Occupancy Protection]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.8585623502731323
+[Occupancy Protection]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8509751558303833
+[Occupancy Protection]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8380365967750549

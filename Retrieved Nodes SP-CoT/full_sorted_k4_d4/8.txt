@@ -1,0 +1,28 @@
+Which city is linked to the urban area in New Zealand that has experienced significant investment in public transport infrastructure alongside Auckland and Wellington by State Highway 1 to the north?
+None
+Seed: Transport link between wellington and northern regions of north island
+Seed: Significant investment in public transport infrastructure
+Seed: New zealand's transport network
+Seed: Addressing transport challenges in auckland
+[Transport link between wellington and northern regions of north island]: New zealand --[Has]-> Transport infrastructure investment 0.9011587500572205
+[Transport link between wellington and northern regions of north island]: New zealand --[Has]-> Urban-centric transport system 0.8887932300567627
+[Transport link between wellington and northern regions of north island]: New zealand --[Has]-> Transport infrastructure 0.8873845338821411
+[Transport link between wellington and northern regions of north island]: New zealand --[Has]-> Transport infrastructure development 0.887237548828125
+[Transport link between wellington and northern regions of north island]: New zealand --[Has]-> Public transport development 0.8839156627655029
+[Transport link between wellington and northern regions of north island]: New zealand --[Has]-> Transport projects 0.8823251724243164
+[Transport link between wellington and northern regions of north island]: New zealand --[Has]-> Transport infrastructure funding 0.881171464920044
+[Significant investment in public transport infrastructure]: New zealand --[Has]-> Transport infrastructure investment 0.9011587500572205
+[Significant investment in public transport infrastructure]: New zealand --[Has]-> Urban-centric transport system 0.8887932300567627
+[Significant investment in public transport infrastructure]: Auckland --[Has]-> Transport infrastructure 0.8880151510238647
+[Significant investment in public transport infrastructure]: New zealand --[Has]-> Transport infrastructure 0.8873845338821411
+[Significant investment in public transport infrastructure]: New zealand --[Has]-> Transport infrastructure development 0.887237548828125
+[Significant investment in public transport infrastructure]: Auckland --[Has]-> Significant transport hub 0.8861252665519714
+[Significant investment in public transport infrastructure]: New zealand --[Has]-> Public transport development 0.8839156627655029
+[New zealand's transport network]: Road infrastructure projects --[Play crucial role in]-> New zealand's transport network 0.8776376843452454
+[Addressing transport challenges in auckland]: Auckland city rail link --[Funded by]-> Government investment 0.8782851696014404
+[Addressing transport challenges in auckland]: Auckland city rail link --[Is]-> Significant infrastructure project 0.8743039965629578
+[Addressing transport challenges in auckland]: Auckland city rail link --[Funded by]-> Public-private partnerships 0.8666914701461792
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Aligning transport investments 0.8630427718162537
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On enhancing road infrastructure 0.8624625205993652
+[Addressing transport challenges in auckland]: Auckland city rail link --[Expected to]-> Encourage use of public transport 0.8590733408927917
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On improving public transport 0.8576145172119141

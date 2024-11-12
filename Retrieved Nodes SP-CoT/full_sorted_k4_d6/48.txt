@@ -1,0 +1,34 @@
+What type of fixed-wing aircraft is used by the organization in New Zealand that operates a fleet of helicopters and fixed-wing aircraft to provide rapid transport for critically ill patients to specialized care facilities?
+None
+Seed: Fleet of helicopters and fixed-wing aircraft
+Seed: Diverse fleet of aircraft
+Seed: Modern fleet of aircraft
+Seed: Rapid response and advanced medical care
+[Fleet of helicopters and fixed-wing aircraft]: New zealand air ambulance service --[Operates]-> Fleet of helicopters and fixed-wing aircraft 0.9247332811355591
+[Fleet of helicopters and fixed-wing aircraft]: New zealand air ambulance service --[Utilizes]-> Diverse fleet of aircraft 0.8999338150024414
+[Fleet of helicopters and fixed-wing aircraft]: New zealand air ambulance service --[Is]-> Critical component of emergency medical transport system 0.8788267374038696
+[Fleet of helicopters and fixed-wing aircraft]: New zealand air ambulance service --[Provides]-> Rapid response and advanced medical care 0.8751427531242371
+[Fleet of helicopters and fixed-wing aircraft]: New zealand air ambulance service --[Plays]-> Vital role in broader transport network of new zealand 0.8663311004638672
+[Fleet of helicopters and fixed-wing aircraft]: New zealand air ambulance service --[Established]-> Late 20th century 0.8599321246147156
+[Fleet of helicopters and fixed-wing aircraft]: Wellington free ambulance --[Operates]-> Rapid response vehicles 0.8486578464508057
+[Diverse fleet of aircraft]: New zealand air ambulance service --[Operates]-> Fleet of helicopters and fixed-wing aircraft 0.9247332811355591
+[Diverse fleet of aircraft]: New zealand air ambulance service --[Utilizes]-> Diverse fleet of aircraft 0.8999338150024414
+[Diverse fleet of aircraft]: New zealand air ambulance service --[Is]-> Critical component of emergency medical transport system 0.8788267374038696
+[Diverse fleet of aircraft]: New zealand air ambulance service --[Provides]-> Rapid response and advanced medical care 0.8751427531242371
+[Diverse fleet of aircraft]: New zealand air ambulance service --[Plays]-> Vital role in broader transport network of new zealand 0.8663311004638672
+[Diverse fleet of aircraft]: New zealand air ambulance service --[Established]-> Late 20th century 0.8599321246147156
+[Diverse fleet of aircraft]: Wellington free ambulance --[Operates]-> Rapid response vehicles 0.8486578464508057
+[Modern fleet of aircraft]: Air new zealand --[Operates]-> Modern fleet of aircraft 0.8795093297958374
+[Modern fleet of aircraft]: Air new zealand --[Operates]-> Airbus a320s 0.8585879802703857
+[Modern fleet of aircraft]: Air new zealand --[Introduced]-> Jet aircraft 0.8578460216522217
+[Modern fleet of aircraft]: New zealand --[Has]-> Air transport 0.8571817874908447
+[Modern fleet of aircraft]: Air new zealand --[Is]-> Flagship airline of new zealand 0.8523603677749634
+[Modern fleet of aircraft]: Air new zealand --[Known for]-> Innovative approach to customer service and safety 0.8519563674926758
+[Modern fleet of aircraft]: Air new zealand --[Operates]-> Boeing 787 dreamliners 0.8517757058143616
+[Rapid response and advanced medical care]: New zealand air ambulance service --[Operates]-> Fleet of helicopters and fixed-wing aircraft 0.9247332811355591
+[Rapid response and advanced medical care]: New zealand air ambulance service --[Utilizes]-> Diverse fleet of aircraft 0.8999338150024414
+[Rapid response and advanced medical care]: New zealand air ambulance service --[Is]-> Critical component of emergency medical transport system 0.8788267374038696
+[Rapid response and advanced medical care]: New zealand air ambulance service --[Provides]-> Rapid response and advanced medical care 0.8751427531242371
+[Rapid response and advanced medical care]: New zealand air ambulance service --[Plays]-> Vital role in broader transport network of new zealand 0.8663311004638672
+[Rapid response and advanced medical care]: New zealand air ambulance service --[Established]-> Late 20th century 0.8599321246147156
+[Rapid response and advanced medical care]: Wellington free ambulance --[Operates]-> Rapid response vehicles 0.8486578464508057

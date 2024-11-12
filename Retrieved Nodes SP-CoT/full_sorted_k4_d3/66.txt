@@ -1,0 +1,31 @@
+Which southern city is connected to the major urban area in New Zealand that employs advanced traffic signal control systems alongside the city experiencing increasing urbanization and requiring innovative solutions to manage congestion and improve public transport services by State Highway 1?
+None
+Seed: Critical link between southern suburbs and central business district
+Seed: Increasing congestion in urban areas
+Seed: Urban areas
+Seed: Addressing transport challenges in auckland
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Is]-> Significant transport infrastructure project 0.8695375323295593
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Designed to]-> Enhance efficiency of road transport 0.8680583238601685
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Serves as]-> Critical link between southern suburbs and central business district 0.8634152412414551
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Located in]-> South island of new zealand 0.862392783164978
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Was developed]-> To improve access to southern suburbs and city center 0.8621050119400024
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Construction began]-> Early 2000s 0.8548353314399719
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Part of]-> New zealand government's broader strategy 0.8546755313873291
+[Increasing congestion in urban areas]: New zealand's transport system --[Faces]-> Increasing congestion in urban areas 0.8844836354255676
+[Increasing congestion in urban areas]: New zealand's transport system --[Faces]-> Need for significant investment 0.8463296890258789
+[Increasing congestion in urban areas]: New zealand's transport system --[Faces]-> Aging infrastructure 0.8349422216415405
+[Increasing congestion in urban areas]: New zealand --[Faces]-> Aging infrastructure 0.8146047592163086
+[Urban areas]: New zealand --[Has]-> Innovative traffic management strategies 0.8818532824516296
+[Urban areas]: New zealand --[Has]-> Urban-centric transport system 0.8799984455108643
+[Urban areas]: New zealand --[Has]-> Urban congestion 0.8777230978012085
+[Urban areas]: New zealand --[Has]-> Challenges such as traffic congestion 0.8736305236816406
+[Urban areas]: New zealand --[Needs]-> To manage traffic congestion 0.8714447617530823
+[Urban areas]: Auckland --[Has]-> Southern motorway and northern motorway 0.8711878061294556
+[Urban areas]: New zealand --[Has]-> Regional transport planning 0.8686695098876953
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Reduce congestion 0.8562098741531372
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On enhancing road infrastructure 0.8540483713150024
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Development of comprehensive transport network 0.8536906838417053
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On improving public transport 0.8525044322013855
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Improve efficiency and effectiveness of transport system 0.8501571416854858
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Create unified transport network 0.8483825325965881
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Addressing transport challenges in auckland 0.8456321954727173

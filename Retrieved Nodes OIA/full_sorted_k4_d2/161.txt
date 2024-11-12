@@ -1,0 +1,27 @@
+How many complaints were made to the NZTA regarding threats or attacks against examiners during driving tests in recent years?
+None
+Seed: Speed and Drunk Driving Enforcement
+Seed: 196 complaints about Uber drivers
+Seed: national, regional and local road safety promotion and education campaigns
+Seed: information related to criminal convictions of driving instructor (I) endorsement holders
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[PROVIDES]-> https://www.nzta.govt.nz/assets/resources/road-policing-programme/docs/rpp-2021-24.pdf 0.827177882194519
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[DOUBLES]-> Speed and Drunk Driving Enforcement 0.7969679832458496
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[FOCUSES_ON]-> Restraints, Impairment, Distraction, Speed 0.7843165397644043
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[PROVIDES]-> Road Policing Activities 0.7802242636680603
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[ALLOCATES]-> $1.24 billion 0.7560480237007141
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.806984543800354
+[196 complaints about Uber drivers]: Waka Kotahi --[INVESTIGATES]-> ride share operator complaints 0.806934118270874
+[196 complaints about Uber drivers]: tests --[CONDUCTED_BY]-> Waka Kotahi 0.8032113909721375
+[196 complaints about Uber drivers]: Waka Kotahi --[RECEIVES]-> 196 complaints about Uber drivers 0.7992056012153625
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[ASSOCIATED]-> Waka Kotahi 0.7987985610961914
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[IS]-> Waka Kotahi 0.7972170114517212
+[196 complaints about Uber drivers]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.7967473268508911
+[national, regional and local road safety promotion and education campaigns]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8324542045593262
+[national, regional and local road safety promotion and education campaigns]: public transport fare policy review --[CONDUCTED_BY]-> Waka Kotahi NZ Transport Agency 0.8271560668945312
+[national, regional and local road safety promotion and education campaigns]: Crash Analysis --[PERFORMED_BY]-> Waka Kotahi NZ Transport Agency 0.8261415362358093
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.8224936723709106
+[national, regional and local road safety promotion and education campaigns]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.8206778168678284
+[national, regional and local road safety promotion and education campaigns]: www.nzta.govt.nz --[OF]-> Waka Kotahi NZ Transport Agency 0.8165869116783142
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.8162912726402283
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Michael Morrah --[REQUESTS]-> information related to criminal convictions of driving instructor (I) endorsement holders 0.8200572729110718
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Michael Morrah --[SUBMITTED]-> request for information 0.7563769221305847

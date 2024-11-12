@@ -1,0 +1,36 @@
+What is the abbreviation commonly used for the initiative that the New Zealand government has launched to develop dedicated cycling infrastructure in New Zealand?
+None
+Seed: Cycling infrastructure and public transport initiatives
+Seed: A crucial role in funding and promoting cycling infrastructure projects
+Seed: Development of cycling infrastructure
+Seed: Government initiative
+[Cycling infrastructure and public transport initiatives]: North island --[Features]-> Cycling infrastructure and public transport initiatives 0.8427839279174805
+[Cycling infrastructure and public transport initiatives]: North island --[Has]-> Growing emphasis on sustainable transport options 0.7718919515609741
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Plays]-> A crucial role in funding and promoting cycling infrastructure projects 0.8729434609413147
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> New zealand transport agency 0.8470843434333801
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Transport projects 0.8575445413589478
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Oversees]-> Transport projects 0.8361676335334778
+[A crucial role in funding and promoting cycling infrastructure projects]: Auckland --[Has]-> Transport projects 0.8246159553527832
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.828890323638916
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Diverse transport network 0.8320282697677612
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Post-incident review 0.7836612462997437
+[A crucial role in funding and promoting cycling infrastructure projects]: Post-incident review --[Crucial for]-> Improving operational efficiency 0.7295683026313782
+[A crucial role in funding and promoting cycling infrastructure projects]: Post-incident review --[Crucial for]-> Fostering culture of continuous improvement 0.7387688159942627
+[A crucial role in funding and promoting cycling infrastructure projects]: Post-incident review --[Aimed at]-> Recommending measures 0.7226732969284058
+[A crucial role in funding and promoting cycling infrastructure projects]: Post-incident review --[Crucial for]-> Enhancing safety 0.7315616011619568
+[A crucial role in funding and promoting cycling infrastructure projects]: Post-incident review --[Is]-> Systematic process 0.7460147142410278
+[A crucial role in funding and promoting cycling infrastructure projects]: Post-incident review --[Conducted]-> Following an incident 0.7365115880966187
+[A crucial role in funding and promoting cycling infrastructure projects]: Post-incident review --[Aimed at]-> Analyzing circumstances 0.7314878106117249
+[A crucial role in funding and promoting cycling infrastructure projects]: Post-incident review --[Aimed at]-> Identifying contributing factors 0.733212947845459
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.8389580845832825
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.8104480504989624
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Broader environmental policies 0.8034074902534485
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Traffic congestion 0.8189446926116943
+[A crucial role in funding and promoting cycling infrastructure projects]: Auckland --[Faces challenges]-> Traffic congestion 0.7894989848136902
+[A crucial role in funding and promoting cycling infrastructure projects]: Wellington public transport plan --[Initiated in response to]-> Traffic congestion 0.8228328824043274
+[A crucial role in funding and promoting cycling infrastructure projects]: Auckland --[Has]-> Traffic congestion 0.7936428189277649
+[A crucial role in funding and promoting cycling infrastructure projects]: Wellington --[Has]-> Traffic congestion 0.800150454044342
+[A crucial role in funding and promoting cycling infrastructure projects]: Wellington public transport spine study --[Initiated in response to]-> Traffic congestion 0.8023762702941895
+[A crucial role in funding and promoting cycling infrastructure projects]: Sustainable urban transport --[Faces challenges]-> Traffic congestion 0.7596867680549622
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Face]-> Traffic congestion 0.8030635118484497
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Address]-> Traffic congestion 0.8151100873947144

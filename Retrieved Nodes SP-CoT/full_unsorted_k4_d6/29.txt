@@ -1,0 +1,36 @@
+Under which regional council does the entity responsible for planning and delivering public transport services in Auckland operate?
+None
+Seed: Regional councils and local authorities
+Seed: Local councils and new zealand transport agency
+Seed: Local government initiatives
+Seed: Regional transport initiatives
+[Regional councils and local authorities]: National land transport programme --[Developed in consultation with]-> Regional councils and local authorities 0.8255428075790405
+[Regional councils and local authorities]: National land transport programme --[Is]-> Key component of new zealand's transport planning framework 0.8358884453773499
+[Regional councils and local authorities]: National land transport programme --[Updated]-> Every three years 0.770031213760376
+[Regional councils and local authorities]: National land transport programme --[Promotes]-> Environmental sustainability 0.7723351120948792
+[Regional councils and local authorities]: Government objectives --[Include]-> Environmental sustainability 0.7330392003059387
+[Regional councils and local authorities]: Government objectives --[Include]-> Social equity 0.7324202060699463
+[Regional councils and local authorities]: New zealand transport strategy --[Aligned with]-> Government objectives 0.8412314653396606
+[Regional councils and local authorities]: New zealand transport strategy --[Emphasizes]-> Multimodal approach 0.8336852192878723
+[Regional councils and local authorities]: New zealand transport strategy --[Promotes]-> Public transport 0.8461849093437195
+[Regional councils and local authorities]: Auckland transport --[Manages]-> Public transport 0.8966811895370483
+[Regional councils and local authorities]: Public transport --[Integrates]-> Automated data collection 0.7823672294616699
+[Regional councils and local authorities]: Wellington --[Relies heavily on]-> Public transport 0.8269593119621277
+[Regional councils and local authorities]: Auckland transport --[Oversees]-> Public transport 0.891193687915802
+[Regional councils and local authorities]: Ministry of transport --[Oversees]-> Public transport 0.8249980211257935
+[Regional councils and local authorities]: Integrated transport strategies --[Promote]-> Public transport 0.7860169410705566
+[Regional councils and local authorities]: Christchurch --[Has]-> Public transport 0.8420863747596741
+[Regional councils and local authorities]: Sustainable urban transport --[Key component]-> Public transport 0.7986733317375183
+[Regional councils and local authorities]: Sustainability and resilience --[Includes]-> Public transport 0.7952939867973328
+[Regional councils and local authorities]: New zealand --[Has]-> Public transport 0.8532132506370544
+[Regional councils and local authorities]: Public transport innovations --[Transform]-> Public transport 0.7804324626922607
+[Regional councils and local authorities]: Public transport --[Varies significantly]-> Between urban and rural areas 0.7829993963241577
+[Regional councils and local authorities]: Public transport --[Characterized by]-> Transition 0.7704967856407166
+[Regional councils and local authorities]: Public transport --[Underwent]-> Significant evolution 0.7934906482696533
+[Regional councils and local authorities]: New zealand transport strategy --[Aims]-> Sustainable transport network 0.8276602625846863
+[Regional councils and local authorities]: Waka kotahi --[Ensures]-> Sustainable transport network 0.7883275747299194
+[Regional councils and local authorities]: Auckland western ring route --[Represents]-> Sustainable transport network 0.8290412425994873
+[Regional councils and local authorities]: New zealand transport strategy --[Is]-> Comprehensive framework 0.8324308395385742
+[Regional councils and local authorities]: New zealand road safety strategy --[Is]-> Comprehensive framework 0.7852725982666016
+[Regional councils and local authorities]: Transport skills strategy --[Is]-> Comprehensive framework 0.7685793042182922
+[Regional councils and local authorities]: Speed management guide --[Is]-> Comprehensive framework 0.7447753548622131

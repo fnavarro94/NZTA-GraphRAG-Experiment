@@ -1,0 +1,36 @@
+Who developed the software that is one of the commonly used traffic simulation models in New Zealand for visualizing traffic patterns and assessing the impact of new developments, used in New Zealand for transport planning?
+None
+Seed: Analyze and predict traffic flow
+Seed: Road traffic simulation models
+Seed: Modeling and analyzing complex traffic scenarios
+Seed: Traffic simulation model
+[Analyze and predict traffic flow]: Road traffic simulation models --[Are essential tools]-> Analyze and predict traffic flow 0.8712893724441528
+[Analyze and predict traffic flow]: Road traffic simulation models --[Play crucial role]-> Urban planning 0.869951605796814
+[Analyze and predict traffic flow]: Urban planning --[Has]-> Embraced principles of active transport 0.7758990526199341
+[Analyze and predict traffic flow]: Road traffic simulation models --[Play crucial role]-> Environmental impact assessments 0.8533721566200256
+[Analyze and predict traffic flow]: Road traffic simulation models --[Play crucial role]-> Infrastructure development 0.8613307476043701
+[Analyze and predict traffic flow]: Auckland cycling network plan --[Primary objectives]-> Infrastructure development 0.8074244856834412
+[Analyze and predict traffic flow]: Auckland cycling network plan --[Seeks to]-> Create cycling network 0.7906461358070374
+[Analyze and predict traffic flow]: Auckland cycling network plan --[Developed by]-> Auckland transport 0.8376696109771729
+[Analyze and predict traffic flow]: Auckland transport --[Has]-> Vision to support growth 0.8124510645866394
+[Analyze and predict traffic flow]: Auckland transport --[Has]-> Vision to minimize environmental impact 0.8145773410797119
+[Analyze and predict traffic flow]: Auckland transport --[Has]-> Vision to create efficient transport system 0.8332376480102539
+[Analyze and predict traffic flow]: Auckland transport --[Has]-> Vision to create integrated transport system 0.8246767520904541
+[Analyze and predict traffic flow]: Auckland transport --[Has]-> Long-term vision 0.833906888961792
+[Analyze and predict traffic flow]: New zealand transport strategy --[Outlines]-> Long-term vision 0.8484029769897461
+[Analyze and predict traffic flow]: Auckland transport --[Has]-> Vision to create safe transport system 0.8128701448440552
+[Analyze and predict traffic flow]: Auckland transport --[Focused on]-> Promoting active transport modes 0.8263370990753174
+[Analyze and predict traffic flow]: Auckland transport --[Focused on]-> Promoting cycling 0.808608889579773
+[Analyze and predict traffic flow]: Auckland transport --[Focused on]-> Promoting walking 0.8194044828414917
+[Analyze and predict traffic flow]: Auckland transport --[Is]-> Primary agency 0.8177171945571899
+[Analyze and predict traffic flow]: Waka kotahi --[Is]-> Primary agency 0.7154810428619385
+[Analyze and predict traffic flow]: Auckland transport --[Implemented]-> Cycling infrastructure projects 0.8341838121414185
+[Analyze and predict traffic flow]: Auckland transport --[Implemented]-> Dedicated bike lanes 0.8253801465034485
+[Analyze and predict traffic flow]: Sustainable urban transport --[Key component]-> Dedicated bike lanes 0.7884130477905273
+[Analyze and predict traffic flow]: Auckland transport --[Implemented]-> Cycleways 0.8394383192062378
+[Analyze and predict traffic flow]: Christchurch --[Served by]-> Cycleways 0.7899221777915955
+[Analyze and predict traffic flow]: Auckland transport --[Introduced]-> Auckland integrated ticketing system 0.8230354189872742
+[Analyze and predict traffic flow]: Auckland transport --[Responsible for]-> Managing public transport services 0.8114209175109863
+[Analyze and predict traffic flow]: Greater wellington regional council --[Responsible for]-> Managing public transport services 0.780653715133667
+[Analyze and predict traffic flow]: Auckland transport --[Responsible for]-> Development 0.8133549690246582
+[Analyze and predict traffic flow]: Waka kotahi --[Plays crucial role in]-> Development 0.7349900007247925

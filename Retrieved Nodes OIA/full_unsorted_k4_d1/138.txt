@@ -1,0 +1,10 @@
+Why were the amounts of the payments made to WGP withheld?
+None
+Seed: reason for withholding
+Seed: amounts of payments
+Seed: Some information has been withheld under section 9(2)(f)(iv)
+Seed: Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)
+[reason for withholding]: New Zealand Transport Agency --[PROVIDES]-> reason for withholding 0.8481088876724243
+[amounts of payments]: Waka Kotahi --[WITHHOLDS]-> amounts of payments 0.8500487804412842
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[IS]-> Some information has been withheld under section 9(2)(f)(iv) 0.8161119222640991
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[IS]-> Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv) 0.809429943561554

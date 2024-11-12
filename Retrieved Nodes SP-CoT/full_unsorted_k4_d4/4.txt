@@ -1,0 +1,36 @@
+Which island does the city in New Zealand known for its Metlink services, which focus on providing comprehensive coverage across the region, the capital city of New Zealand, belong to?
+None
+Seed: Largest city in south island
+Seed: Largest city in new zealand
+Seed: Transport link between wellington and northern regions of north island
+Seed: Connecting new zealand's remote regions with major urban centers
+[Largest city in south island]: Christchurch --[Is]-> Largest city in south island 0.8325684070587158
+[Largest city in south island]: Christchurch --[Has]-> Cycling initiatives 0.7746877670288086
+[Largest city in south island]: Christchurch --[Has]-> Metro system 0.8037614226341248
+[Largest city in south island]: Christchurch --[Linked to]-> Dunedin 0.8105871081352234
+[Largest city in south island]: Christchurch --[Connected to]-> Dunedin 0.8072273135185242
+[Largest city in south island]: Christchurch --[Has]-> Potential development of light rail system 0.7571926116943359
+[Largest city in south island]: Christchurch --[Served by]-> Tranzalpine train service 0.7657526731491089
+[Largest city in south island]: Christchurch --[Has]-> Walking initiatives 0.7767539024353027
+[Largest city in south island]: Christchurch --[Served by]-> Main south line 0.7808553576469421
+[Largest city in south island]: Christchurch --[Has]-> Road infrastructure 0.790270209312439
+[Largest city in south island]: Christchurch --[Linked to]-> Picton 0.7882119417190552
+[Largest city in south island]: Christchurch --[Connected by]-> State highways 0.7869687080383301
+[Largest city in south island]: Christchurch --[Has]-> Focus on enhancing bus services 0.7664153575897217
+[Largest city in south island]: Christchurch --[Has]-> New bus network 0.7761287689208984
+[Largest city in south island]: Christchurch --[Has]-> Public transport system 0.7964160442352295
+[Largest city in south island]: Christchurch --[Has]-> Second-busiest airport in new zealand 0.7715431451797485
+[Largest city in south island]: Christchurch --[Has]-> Shuttles 0.7697219848632812
+[Largest city in south island]: Christchurch --[Has]-> Focus on promoting active transport options 0.759709358215332
+[Largest city in south island]: Christchurch --[Has]-> Focus on expanding public transport networks 0.7719271183013916
+[Largest city in south island]: Christchurch --[Has]-> International travelers 0.792494535446167
+[Largest city in south island]: Christchurch --[Has]-> Public transport 0.797605574131012
+[Largest city in south island]: Christchurch --[Has]-> Plans for future enhancements 0.7508247494697571
+[Largest city in south island]: Christchurch --[Has]-> Focus on improving road infrastructure 0.7621585130691528
+[Largest city in south island]: Christchurch --[Has]-> Upgrades 0.7704042196273804
+[Largest city in south island]: Christchurch --[Has]-> Airport 0.791075587272644
+[Largest city in south island]: Christchurch --[Has]-> Buses 0.789688766002655
+[Largest city in south island]: Christchurch --[Has]-> Christchurch international airport 0.7786160707473755
+[Largest city in south island]: Christchurch --[Has]-> Taxis 0.7774127125740051
+[Largest city in south island]: Christchurch --[Served by]-> Cycleways 0.7802042365074158
+[Largest city in south island]: Christchurch --[Focusing on]-> Enhancing transport infrastructure 0.7794238328933716

@@ -1,0 +1,36 @@
+What is Waka Kotahi's current estimate for the potential increase in the number of street lighting assets after their audit?
+None
+Seed: Waka Kotahi Senior Project Manager
+Seed: Waka Kotahi
+Seed: street lighting assets
+Seed: information to Waka Kotahi
+[Waka Kotahi Senior Project Manager]: Waka Kotahi Senior Project Manager --[MANAGES]-> State Highway 25A Rebuild Project 0.8245724439620972
+[Waka Kotahi]: Response --[CONTAINS]-> Waka Kotahi 0.8066532611846924
+[Waka Kotahi]: Waka Kotahi --[PUBLISHES]-> Response 0.8355955481529236
+[Waka Kotahi]: response --[CONTAINS]-> Waka Kotahi 0.8167203068733215
+[Waka Kotahi]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.8389667272567749
+[Waka Kotahi]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.8245379328727722
+[Waka Kotahi]: New Zealand Transport Agency --[BASED]-> Wellington 0.746558666229248
+[Waka Kotahi]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7462327480316162
+[Waka Kotahi]: Golden Mile --[LOCATED]-> Wellington 0.7535048127174377
+[Waka Kotahi]: State Highway 1 --[LOCATED_IN]-> Wellington 0.728705883026123
+[Waka Kotahi]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7355428338050842
+[Waka Kotahi]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.761093020439148
+[Waka Kotahi]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7353405952453613
+[Waka Kotahi]: Wellington --[PART_OF]-> Wellington Region 0.7350336313247681
+[Waka Kotahi]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7476789951324463
+[Waka Kotahi]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7466695308685303
+[Waka Kotahi]: Wellington --[HAS]-> tunnel 0.7306162118911743
+[Waka Kotahi]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.8211100101470947
+[Waka Kotahi]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7344895005226135
+[Waka Kotahi]: Wellington --[POSTCODE]-> 6141 0.7131619453430176
+[Waka Kotahi]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7422029972076416
+[Waka Kotahi]: Wellington --[IS_PART_OF]-> New Zealand 0.7301411628723145
+[Waka Kotahi]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7653185129165649
+[Waka Kotahi]: 50 Victoria Street --[IN]-> Wellington 0.7568329572677612
+[Waka Kotahi]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7309030294418335
+[Waka Kotahi]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7572311162948608
+[Waka Kotahi]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7448288202285767
+[Waka Kotahi]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.811237633228302
+[Waka Kotahi]: NZ Transport Agency --[LOCATED]-> Wellington 0.744374692440033
+[Waka Kotahi]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7515386343002319

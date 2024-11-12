@@ -1,0 +1,36 @@
+Where can information on driver licensing trends and related statistics be found?
+None
+Seed: information on vehicle and driver registration and licensing
+Seed: information on visiting drivers survey
+Seed: Speed and Drunk Driving Enforcement
+Seed: summary of the visiting drivers survey
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[PROVIDES]-> information on vehicle and driver registration and licensing 0.8537337779998779
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.771797776222229
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[BASED]-> Wellington 0.7746231555938721
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7638927102088928
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.7600389719009399
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7697248458862305
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7602947354316711
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.765288233757019
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7787739634513855
+[information on vehicle and driver registration and licensing]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7765707969665527
+[information on vehicle and driver registration and licensing]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7733865976333618
+[information on vehicle and driver registration and licensing]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7703095078468323
+[information on vehicle and driver registration and licensing]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7806292772293091
+[information on vehicle and driver registration and licensing]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7602590918540955
+[information on vehicle and driver registration and licensing]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.784049928188324
+[information on vehicle and driver registration and licensing]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8034350275993347
+[information on vehicle and driver registration and licensing]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.777722954750061
+[information on vehicle and driver registration and licensing]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7833062410354614
+[information on vehicle and driver registration and licensing]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7859736680984497
+[information on vehicle and driver registration and licensing]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.766651451587677
+[information on vehicle and driver registration and licensing]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7675061225891113
+[information on vehicle and driver registration and licensing]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7923715710639954
+[information on vehicle and driver registration and licensing]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7460977435112
+[information on vehicle and driver registration and licensing]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7876993417739868
+[information on vehicle and driver registration and licensing]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7839363813400269
+[information on vehicle and driver registration and licensing]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7841650247573853
+[information on vehicle and driver registration and licensing]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7498471140861511
+[information on vehicle and driver registration and licensing]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7635900974273682
+[information on vehicle and driver registration and licensing]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7821466326713562
+[information on vehicle and driver registration and licensing]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.751289963722229

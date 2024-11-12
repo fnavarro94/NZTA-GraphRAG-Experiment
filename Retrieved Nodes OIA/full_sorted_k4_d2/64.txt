@@ -1,0 +1,22 @@
+What are the limitations of the data recorded in the Crash Analysis System (CAS) for non-fatal crashes?
+None
+Seed: figures on drivers involved in fatal crashes
+Seed: Guide for the interpretation of coded crash reports
+Seed: 1 fatal crash, 3 serious crashes, 8 minor crashes, 12 non-injury crashes, 24 total crashes
+Seed: Crash Analysis System
+[figures on drivers involved in fatal crashes]: AA --[PROVIDES]-> figures on drivers involved in fatal crashes 0.8498460054397583
+[Guide for the interpretation of coded crash reports]: https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf --[ACCESSIBLE]-> online 0.8480107188224792
+[Guide for the interpretation of coded crash reports]: Transport Agency --[PROVIDES]-> Guide for the interpretation of coded crash reports 0.8453308343887329
+[Guide for the interpretation of coded crash reports]: Guide for the interpretation of coded crash reports --[AVAILABLE_AT]-> https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf 0.8423925638198853
+[Guide for the interpretation of coded crash reports]: Transport Agency --[GETS_INFORMATION]-> Traffic Crash Reports 0.8422801494598389
+[Guide for the interpretation of coded crash reports]: Transport Agency --[CROSS_REFERENCES]-> CAS 0.8231185078620911
+[Guide for the interpretation of coded crash reports]: frequency --[ANALYZED]-> Transport Agency 0.8188873529434204
+[Guide for the interpretation of coded crash reports]: frequency --[ANALYZED_BY]-> Transport Agency 0.8166756629943848
+[1 fatal crash, 3 serious crashes, 8 minor crashes, 12 non-injury crashes, 24 total crashes]: 01/10/2020 to 26/05/2021 --[HAS_CRASHES]-> 1 fatal crash, 3 serious crashes, 8 minor crashes, 12 non-injury crashes, 24 total crashes 0.8414783477783203
+[Crash Analysis System]: Crash Analysis System --[RECORDS]-> seven non-injury crashes 0.8928710222244263
+[Crash Analysis System]: Crash Analysis System --[PROVIDES]-> Data 0.8923947811126709
+[Crash Analysis System]: Crash Analysis System --[PROVIDES]-> traffic crash data 0.8922253251075745
+[Crash Analysis System]: Crash Analysis System --[PROVIDES]-> road accident data 0.8864731788635254
+[Crash Analysis System]: Crash Analysis System --[PROVIDES]-> data on road traffic crashes 0.8856304883956909
+[Crash Analysis System]: Crash Analysis System --[PROVIDES]-> Traffic Crash Report 0.8806885480880737
+[Crash Analysis System]: Crash Analysis System --[MANAGED_BY]-> New Zealand Transport Agency 0.8801709413528442

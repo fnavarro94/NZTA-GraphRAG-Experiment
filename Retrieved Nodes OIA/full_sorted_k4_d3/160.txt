@@ -1,0 +1,28 @@
+What were some of the key software or apps developed by NZTA's Connected Journey Solutions (CJS)?
+None
+Seed: successful applications
+Seed: multi-tenanted platform
+Seed: projects for New Zealand Transport Agency
+Seed: Connected Journey Solutions
+[successful applications]: Connected Journey Solutions --[IS_PART_OF]-> New Zealand Transport Agency 0.8742916584014893
+[successful applications]: New Zealand Transport Agency --[PROVIDES]-> Connected Journey Solutions 0.8693881034851074
+[successful applications]: Connected Journeys --[PART_OF]-> New Zealand Transport Agency 0.8630843162536621
+[successful applications]: NZTA Website --[OPERATED_BY]-> New Zealand Transport Agency 0.8262712955474854
+[successful applications]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> nzta_dev 0.8209012150764465
+[successful applications]: New Zealand Transport Agency --[PROVIDES]-> Customer Service Centre 0.8177361488342285
+[successful applications]: Service Supply Management --[PART_OF]-> New Zealand Transport Agency 0.8168549537658691
+[multi-tenanted platform]: multi-tenanted platform --[DELIVERS]-> delivery 0.7871434688568115
+[projects for New Zealand Transport Agency]: Connected Journey Solutions --[IS_PART_OF]-> New Zealand Transport Agency 0.8742916584014893
+[projects for New Zealand Transport Agency]: New Zealand Transport Agency --[PROVIDES]-> Connected Journey Solutions 0.8693881034851074
+[projects for New Zealand Transport Agency]: Connected Journeys --[PART_OF]-> New Zealand Transport Agency 0.8630843162536621
+[projects for New Zealand Transport Agency]: NZTA Website --[OPERATED_BY]-> New Zealand Transport Agency 0.8262712955474854
+[projects for New Zealand Transport Agency]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> nzta_dev 0.8209012150764465
+[projects for New Zealand Transport Agency]: New Zealand Transport Agency --[PROVIDES]-> Customer Service Centre 0.8177361488342285
+[projects for New Zealand Transport Agency]: Service Supply Management --[PART_OF]-> New Zealand Transport Agency 0.8168549537658691
+[Connected Journey Solutions]: Connected Journey Solutions --[IS_PART_OF]-> New Zealand Transport Agency 0.8742916584014893
+[Connected Journey Solutions]: New Zealand Transport Agency --[PROVIDES]-> Connected Journey Solutions 0.8693881034851074
+[Connected Journey Solutions]: Connected Journey Solutions --[EXPLORES]-> new technologies, products and services 0.8685968518257141
+[Connected Journey Solutions]: Connected Journey Solutions --[ESTABLISHED]-> July 2017 0.8671510219573975
+[Connected Journey Solutions]: Connected Journeys --[PART_OF]-> New Zealand Transport Agency 0.8630843162536621
+[Connected Journey Solutions]: Connected Journeys --[DEVELOPS]-> MobilityOS 0.8615267276763916
+[Connected Journey Solutions]: New Zealand Business Number (NZBN) integration --[DEVELOPED_BY]-> Connected Journeys 0.860740602016449

@@ -1,0 +1,32 @@
+Who developed the software that is one of the commonly used traffic simulation models in New Zealand for visualizing traffic patterns and assessing the impact of new developments, used in New Zealand for transport planning?
+None
+Seed: Analyze and predict traffic flow
+Seed: Road traffic simulation models
+Seed: Modeling and analyzing complex traffic scenarios
+Seed: Traffic simulation model
+[Analyze and predict traffic flow]: Road traffic simulation models --[Play crucial role]-> Traffic management 0.8720670342445374
+[Analyze and predict traffic flow]: Road traffic simulation models --[Are essential tools]-> Analyze and predict traffic flow 0.8712893724441528
+[Analyze and predict traffic flow]: Road traffic simulation models --[Play crucial role]-> Urban planning 0.869951605796814
+[Analyze and predict traffic flow]: Road traffic simulation models --[Play crucial role]-> Infrastructure development 0.8613307476043701
+[Analyze and predict traffic flow]: Road traffic simulation models --[Play crucial role]-> Environmental impact assessments 0.8533721566200256
+[Road traffic simulation models]: Road traffic simulation models --[Play crucial role]-> Traffic management 0.8720670342445374
+[Road traffic simulation models]: Road traffic simulation models --[Are essential tools]-> Analyze and predict traffic flow 0.8712893724441528
+[Road traffic simulation models]: Road traffic simulation models --[Play crucial role]-> Urban planning 0.869951605796814
+[Road traffic simulation models]: Road traffic simulation models --[Play crucial role]-> Infrastructure development 0.8613307476043701
+[Road traffic simulation models]: Road traffic simulation models --[Play crucial role]-> Environmental impact assessments 0.8533721566200256
+[Road traffic simulation models]: Auckland western ring route --[Optimizes]-> Traffic management 0.8411990404129028
+[Road traffic simulation models]: Traffic management --[Uses]-> Automated data collection systems 0.8371564149856567
+[Modeling and analyzing complex traffic scenarios]: Vissim --[Application in various projects]-> Shaping the future of transport in new zealand 0.8740569949150085
+[Modeling and analyzing complex traffic scenarios]: Vissim --[Is]-> Traffic simulation model 0.8559534549713135
+[Modeling and analyzing complex traffic scenarios]: Vissim --[Is]-> Microscopic traffic simulation software 0.8507580757141113
+[Modeling and analyzing complex traffic scenarios]: Vissim --[Essential tool for]-> Modeling and analyzing complex traffic scenarios 0.8502295017242432
+[Modeling and analyzing complex traffic scenarios]: Vissim --[Simulates]-> Mixed traffic conditions 0.8381750583648682
+[Modeling and analyzing complex traffic scenarios]: Vissim --[Widely utilized in]-> Traffic engineering 0.8380995988845825
+[Modeling and analyzing complex traffic scenarios]: Vissim --[Widely utilized in]-> Transport planning 0.8371515274047852
+[Traffic simulation model]: Vissim --[Application in various projects]-> Shaping the future of transport in new zealand 0.8740569949150085
+[Traffic simulation model]: Aimsun --[Is]-> Traffic simulation model 0.8571641445159912
+[Traffic simulation model]: Vissim --[Is]-> Traffic simulation model 0.8559534549713135
+[Traffic simulation model]: Vissim --[Is]-> Microscopic traffic simulation software 0.8507580757141113
+[Traffic simulation model]: Vissim --[Essential tool for]-> Modeling and analyzing complex traffic scenarios 0.8502295017242432
+[Traffic simulation model]: Paramics --[Is]-> Traffic simulation model 0.8494869470596313
+[Traffic simulation model]: Vissim --[Simulates]-> Mixed traffic conditions 0.8381750583648682

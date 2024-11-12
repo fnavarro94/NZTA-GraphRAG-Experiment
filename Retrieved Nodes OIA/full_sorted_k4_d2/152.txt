@@ -1,0 +1,34 @@
+Which companies were involved in the development of the Greater Christchurch Mass Rapid Transit Business Case?
+None
+Seed: costing information for Greater Christchurch Mass Rapid Transit
+Seed: cost breakdown for Greater Christchurch Mass Rapid Transit
+Seed: investigating transport companies
+Seed: Investigating transport companies
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[PROVIDES]-> costing information for Greater Christchurch Mass Rapid Transit 0.8558987379074097
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[PROVIDES]-> cost breakdown for Greater Christchurch Mass Rapid Transit 0.8455146551132202
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[POLICY]-> Investigating transport companies 0.8445966839790344
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Michael Hayward 0.8429969549179077
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[MANAGES]-> investigating transport companies 0.8421095609664917
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[MANAGES]-> transport companies 0.8417444825172424
+[costing information for Greater Christchurch Mass Rapid Transit]: Higgins Group Holdings Limited --[CONTRACTED]-> New Zealand Transport Agency 0.8408933877944946
+[cost breakdown for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[PROVIDES]-> costing information for Greater Christchurch Mass Rapid Transit 0.8558987379074097
+[cost breakdown for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[PROVIDES]-> cost breakdown for Greater Christchurch Mass Rapid Transit 0.8455146551132202
+[cost breakdown for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[POLICY]-> Investigating transport companies 0.8445966839790344
+[cost breakdown for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Michael Hayward 0.8429969549179077
+[cost breakdown for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[MANAGES]-> investigating transport companies 0.8421095609664917
+[cost breakdown for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[MANAGES]-> transport companies 0.8417444825172424
+[cost breakdown for Greater Christchurch Mass Rapid Transit]: Higgins Group Holdings Limited --[CONTRACTED]-> New Zealand Transport Agency 0.8408933877944946
+[investigating transport companies]: New Zealand Transport Agency --[PROVIDES]-> costing information for Greater Christchurch Mass Rapid Transit 0.8558987379074097
+[investigating transport companies]: New Zealand Transport Agency --[PROVIDES]-> cost breakdown for Greater Christchurch Mass Rapid Transit 0.8455146551132202
+[investigating transport companies]: New Zealand Transport Agency --[POLICY]-> Investigating transport companies 0.8445966839790344
+[investigating transport companies]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Michael Hayward 0.8429969549179077
+[investigating transport companies]: New Zealand Transport Agency --[MANAGES]-> investigating transport companies 0.8421095609664917
+[investigating transport companies]: New Zealand Transport Agency --[MANAGES]-> transport companies 0.8417444825172424
+[investigating transport companies]: Higgins Group Holdings Limited --[CONTRACTED]-> New Zealand Transport Agency 0.8408933877944946
+[Investigating transport companies]: New Zealand Transport Agency --[PROVIDES]-> costing information for Greater Christchurch Mass Rapid Transit 0.8558987379074097
+[Investigating transport companies]: New Zealand Transport Agency --[PROVIDES]-> cost breakdown for Greater Christchurch Mass Rapid Transit 0.8455146551132202
+[Investigating transport companies]: New Zealand Transport Agency --[POLICY]-> Investigating transport companies 0.8445966839790344
+[Investigating transport companies]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Michael Hayward 0.8429969549179077
+[Investigating transport companies]: New Zealand Transport Agency --[MANAGES]-> investigating transport companies 0.8421095609664917
+[Investigating transport companies]: New Zealand Transport Agency --[MANAGES]-> transport companies 0.8417444825172424
+[Investigating transport companies]: Higgins Group Holdings Limited --[CONTRACTED]-> New Zealand Transport Agency 0.8408933877944946

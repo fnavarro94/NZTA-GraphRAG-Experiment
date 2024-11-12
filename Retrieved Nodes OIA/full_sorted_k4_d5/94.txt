@@ -1,0 +1,34 @@
+Where can more information about the retroreflective sheeting for registration plates be found?
+None
+Seed: information on retroreflective sheeting
+Seed: retroreflective sheeting for use in New Zealand
+Seed: retroreflective sheeting
+Seed: https://www.nzta.govt.nz/resources/retroflective-sheeting/
+[information on retroreflective sheeting]: information on retroreflective sheeting --[RELATES]-> retroreflective sheeting 0.9330810308456421
+[information on retroreflective sheeting]: https://www.nzta.govt.nz/resources/retroflective-sheeting/ --[PROVIDES]-> information on retroreflective sheeting 0.9210338592529297
+[information on retroreflective sheeting]: retroreflective sheeting for use in New Zealand --[RELATES]-> retroreflective sheeting 0.9122075438499451
+[information on retroreflective sheeting]: NZTA M25 Retroreflective sheeting --[AVAILABLE]-> https://www.nzta.govt.nz/resources/retroflective-sheeting/ 0.9051926136016846
+[information on retroreflective sheeting]: retroreflective materials and devices for road traffic control purposes --[RELATES]-> retroreflective sheeting 0.9051313400268555
+[information on retroreflective sheeting]: NZTA M25 Retroreflective sheeting --[PROVIDES]-> guidance for manufacturers 0.9009207487106323
+[information on retroreflective sheeting]: AS 1906.1 2017 --[LISTS]-> NZTA M25 Retroreflective sheeting 0.9001421928405762
+[retroreflective sheeting for use in New Zealand]: information on retroreflective sheeting --[RELATES]-> retroreflective sheeting 0.9330810308456421
+[retroreflective sheeting for use in New Zealand]: https://www.nzta.govt.nz/resources/retroflective-sheeting/ --[PROVIDES]-> information on retroreflective sheeting 0.9210338592529297
+[retroreflective sheeting for use in New Zealand]: retroreflective sheeting for use in New Zealand --[RELATES]-> retroreflective sheeting 0.9122075438499451
+[retroreflective sheeting for use in New Zealand]: NZTA M25 Retroreflective sheeting --[AVAILABLE]-> https://www.nzta.govt.nz/resources/retroflective-sheeting/ 0.9051926136016846
+[retroreflective sheeting for use in New Zealand]: retroreflective materials and devices for road traffic control purposes --[RELATES]-> retroreflective sheeting 0.9051313400268555
+[retroreflective sheeting for use in New Zealand]: NZTA M25 Retroreflective sheeting --[PROVIDES]-> guidance for manufacturers 0.9009207487106323
+[retroreflective sheeting for use in New Zealand]: AS 1906.1 2017 --[LISTS]-> NZTA M25 Retroreflective sheeting 0.9001421928405762
+[retroreflective sheeting]: information on retroreflective sheeting --[RELATES]-> retroreflective sheeting 0.9330810308456421
+[retroreflective sheeting]: https://www.nzta.govt.nz/resources/retroflective-sheeting/ --[PROVIDES]-> information on retroreflective sheeting 0.9210338592529297
+[retroreflective sheeting]: retroreflective sheeting for use in New Zealand --[RELATES]-> retroreflective sheeting 0.9122075438499451
+[retroreflective sheeting]: NZTA M25 Retroreflective sheeting --[AVAILABLE]-> https://www.nzta.govt.nz/resources/retroflective-sheeting/ 0.9051926136016846
+[retroreflective sheeting]: retroreflective materials and devices for road traffic control purposes --[RELATES]-> retroreflective sheeting 0.9051313400268555
+[retroreflective sheeting]: NZTA M25 Retroreflective sheeting --[PROVIDES]-> guidance for manufacturers 0.9009207487106323
+[retroreflective sheeting]: AS 1906.1 2017 --[LISTS]-> NZTA M25 Retroreflective sheeting 0.9001421928405762
+[https://www.nzta.govt.nz/resources/retroflective-sheeting/]: information on retroreflective sheeting --[RELATES]-> retroreflective sheeting 0.9330810308456421
+[https://www.nzta.govt.nz/resources/retroflective-sheeting/]: https://www.nzta.govt.nz/resources/retroflective-sheeting/ --[PROVIDES]-> information on retroreflective sheeting 0.9210338592529297
+[https://www.nzta.govt.nz/resources/retroflective-sheeting/]: retroreflective sheeting for use in New Zealand --[RELATES]-> retroreflective sheeting 0.9122075438499451
+[https://www.nzta.govt.nz/resources/retroflective-sheeting/]: NZTA M25 Retroreflective sheeting --[AVAILABLE]-> https://www.nzta.govt.nz/resources/retroflective-sheeting/ 0.9051926136016846
+[https://www.nzta.govt.nz/resources/retroflective-sheeting/]: retroreflective materials and devices for road traffic control purposes --[RELATES]-> retroreflective sheeting 0.9051313400268555
+[https://www.nzta.govt.nz/resources/retroflective-sheeting/]: NZTA M25 Retroreflective sheeting --[PROVIDES]-> guidance for manufacturers 0.9009207487106323
+[https://www.nzta.govt.nz/resources/retroflective-sheeting/]: AS 1906.1 2017 --[LISTS]-> NZTA M25 Retroreflective sheeting 0.9001421928405762

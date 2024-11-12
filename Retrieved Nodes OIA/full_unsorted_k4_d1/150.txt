@@ -1,0 +1,19 @@
+What is the reason for the toll on the Northern Gateway Toll Road?
+None
+Seed: Northern Gateway Toll Road
+Seed: information on tolls and road maintenance
+Seed: toll roads
+Seed: toll tariffs
+[Northern Gateway Toll Road]: Northern Gateway Toll Road --[PROVIDES]-> Toll Revenue 0.9063264727592468
+[Northern Gateway Toll Road]: Northern Gateway Toll Road --[DEBT_REPAYMENT]-> 35 years 0.8850504159927368
+[Northern Gateway Toll Road]: Northern Gateway Toll Road --[ESTIMATED_END_DATE]-> 2045 0.9006482362747192
+[information on tolls and road maintenance]: response from New Zealand Transport Agency --[CONTAINS]-> information on tolls and road maintenance 0.8385605216026306
+[information on tolls and road maintenance]: information on tolls and road maintenance --[RELATES]-> New Zealand Transport Agency 0.8419116735458374
+[toll roads]: toll roads --[INCLUDE]-> administration fee 0.8471037745475769
+[toll roads]: unpaid tolls --[ASSOCIATED_WITH]-> toll roads 0.837440013885498
+[toll roads]: toll roads --[COLLECTS]-> toll tariffs 0.8514741063117981
+[toll roads]: New Zealand Transport Agency --[MANAGES]-> toll roads 0.8435932397842407
+[toll tariffs]: toll tariffs --[USED_FOR]-> road maintenance 0.8485562801361084
+[toll tariffs]: toll tariffs --[SPENT_ON]-> road maintenance 0.8537792563438416
+[toll tariffs]: road maintenance --[FUNDED_BY]-> toll tariffs 0.8546658158302307
+[toll tariffs]: toll roads --[COLLECTS]-> toll tariffs 0.8514741063117981

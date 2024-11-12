@@ -1,0 +1,36 @@
+What is the annual accident rate on State Highway 16 (SH16) over the last decade for the 80km/h and 100km/h speed limits?
+None
+Seed: annual accident rate on SH16
+Seed: comparing the number of accidents under the 100km speed limit versus the current 80km speed rate
+Seed: vehicle accidents
+Seed: information on vehicle accidents
+[annual accident rate on SH16]: Debrin Foxcroft --[REQUESTS]-> annual accident rate on SH16 0.8697636723518372
+[annual accident rate on SH16]: Debrin Foxcroft --[EMAILS]-> NZ Transport Agency 0.745874285697937
+[annual accident rate on SH16]: NZ Transport Agency --[ASSOCIATED]-> Andrew Knackstedt 0.7516719102859497
+[annual accident rate on SH16]: response --[ASSOCIATED_WITH]-> Andrew Knackstedt 0.7329225540161133
+[annual accident rate on SH16]: web --[ASSOCIATED_WITH]-> Andrew Knackstedt 0.7276204228401184
+[annual accident rate on SH16]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Andrew Knackstedt 0.7572524547576904
+[annual accident rate on SH16]: Andrew Knackstedt --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7459211945533752
+[annual accident rate on SH16]: Andrew Knackstedt --[ASSOCIATED_WITH]-> response 0.7151228189468384
+[annual accident rate on SH16]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.7212643623352051
+[annual accident rate on SH16]: New Zealand Transport Agency --[EMPLOYS]-> Andrew Knackstedt 0.7387306690216064
+[annual accident rate on SH16]: contact details --[PROVIDES]-> Andrew Knackstedt 0.7163515090942383
+[annual accident rate on SH16]: Andrew Knackstedt --[EMAIL]-> andrew.knackstedt@nzta.govt.nz 0.7371121048927307
+[annual accident rate on SH16]: Dylan Hunt --[DISCUSS]-> Andrew Knackstedt 0.6680635213851929
+[annual accident rate on SH16]: New Zealand Transport Agency --[DISCUSS]-> Andrew Knackstedt 0.7395440340042114
+[annual accident rate on SH16]: Wayne Oldfield --[DISCUSS]-> Andrew Knackstedt 0.7026875019073486
+[annual accident rate on SH16]: NZ Transport Agency --[DISCUSS]-> Andrew Knackstedt 0.7431172132492065
+[annual accident rate on SH16]: Waka Kotahi --[DISCUSS]-> Andrew Knackstedt 0.7065408229827881
+[annual accident rate on SH16]: request --[DISCUSS]-> Andrew Knackstedt 0.7190983295440674
+[annual accident rate on SH16]: Paul Giles --[DISCUSS]-> Andrew Knackstedt 0.693877100944519
+[annual accident rate on SH16]: Letter --[DISCUSS]-> Andrew Knackstedt 0.7176967859268188
+[annual accident rate on SH16]: Andrew Knackstedt --[DISCUSS]-> New Zealand Transport Agency 0.7318648099899292
+[annual accident rate on SH16]: Andrew Knackstedt --[DISCUSS]-> Dylan Hunt 0.6652513742446899
+[annual accident rate on SH16]: Andrew Knackstedt --[DISCUSS]-> Waka Kotahi 0.71551114320755
+[annual accident rate on SH16]: Andrew Knackstedt --[DISCUSS]-> NZ Transport Agency 0.7327532768249512
+[annual accident rate on SH16]: Andrew Knackstedt --[DISCUSS]-> Wayne Oldfield 0.7030623555183411
+[annual accident rate on SH16]: Andrew Knackstedt --[DISCUSS]-> request 0.7149044871330261
+[annual accident rate on SH16]: Andrew Knackstedt --[DISCUSS]-> Paul Giles 0.6905454397201538
+[annual accident rate on SH16]: Andrew Knackstedt --[DISCUSS]-> Letter 0.69903564453125
+[annual accident rate on SH16]: Transport Agency --[CONTACT]-> Andrew Knackstedt 0.7607064247131348
+[annual accident rate on SH16]: Andrew Knackstedt --[CONTACT]-> Waka Kotahi 0.7433267831802368

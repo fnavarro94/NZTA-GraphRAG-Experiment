@@ -1,0 +1,36 @@
+What is the Mobility Marketplace platform and when was it anticipated to go live?
+None
+Seed: Mobility Marketplace concept
+Seed: Mobility Marketplace
+Seed: who is developing the AT Mobile app and what is it?
+Seed: multi-tenanted platform
+[Mobility Marketplace concept]: Choice app --[DEVELOPED_FOR]-> Mobility Marketplace concept 0.8811706900596619
+[Mobility Marketplace concept]: RideMate app --[DEVELOPED_FOR]-> Mobility Marketplace concept 0.8808578252792358
+[Mobility Marketplace concept]: RideMate app --[DEVELOPMENT_COST]-> $1,000,000 0.8148412108421326
+[Mobility Marketplace]: Mobility Marketplace --[TESTED_IN]-> New Zealand 0.8689186573028564
+[Mobility Marketplace]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7822842001914978
+[Mobility Marketplace]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.774546205997467
+[Mobility Marketplace]: New Zealand Transport Agency --[BASED]-> Wellington 0.7690310478210449
+[Mobility Marketplace]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7441637516021729
+[Mobility Marketplace]: Golden Mile --[LOCATED]-> Wellington 0.723347544670105
+[Mobility Marketplace]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7284400463104248
+[Mobility Marketplace]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7117728590965271
+[Mobility Marketplace]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7300408482551575
+[Mobility Marketplace]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7176802754402161
+[Mobility Marketplace]: Wellington --[PART_OF]-> Wellington Region 0.7121134996414185
+[Mobility Marketplace]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7309970259666443
+[Mobility Marketplace]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7424649596214294
+[Mobility Marketplace]: Wellington --[HAS]-> tunnel 0.7304037809371948
+[Mobility Marketplace]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7664966583251953
+[Mobility Marketplace]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7321790456771851
+[Mobility Marketplace]: Wellington --[POSTCODE]-> 6141 0.6996324062347412
+[Mobility Marketplace]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7658982872962952
+[Mobility Marketplace]: Wellington --[IS_PART_OF]-> New Zealand 0.7154881954193115
+[Mobility Marketplace]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.757554829120636
+[Mobility Marketplace]: 50 Victoria Street --[IN]-> Wellington 0.7200287580490112
+[Mobility Marketplace]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7098888754844666
+[Mobility Marketplace]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7230240106582642
+[Mobility Marketplace]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7373719215393066
+[Mobility Marketplace]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7757588624954224
+[Mobility Marketplace]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7712460160255432
+[Mobility Marketplace]: NZ Transport Agency --[LOCATED]-> Wellington 0.769161581993103

@@ -1,0 +1,36 @@
+What is the abbreviation commonly used for the method that involves the use of advanced sensors and cameras to gather real-time data on road conditions in the context of transport systems in New Zealand?
+None
+Seed: Advanced sensors and cameras
+Seed: Cameras and sensors
+Seed: Real-time tracking of buses and trains
+Seed: Systematic collection and analysis of data related to the physical state of roadways
+[Advanced sensors and cameras]: Automated data collection --[Uses]-> Advanced sensors and cameras 0.8507516980171204
+[Advanced sensors and cameras]: Automated data collection --[Is]-> Technology 0.8083797693252563
+[Advanced sensors and cameras]: Waka kotahi --[Leverages]-> Technology 0.7634514570236206
+[Advanced sensors and cameras]: Waka kotahi --[Has]-> Road to zero  strategy 0.742881178855896
+[Advanced sensors and cameras]: Waka kotahi --[Is]-> Primary agency 0.7579777240753174
+[Advanced sensors and cameras]: Auckland transport --[Is]-> Primary agency 0.8276799321174622
+[Advanced sensors and cameras]: Auckland transport --[Has]-> Vision to support growth 0.7856886386871338
+[Advanced sensors and cameras]: Auckland transport --[Has]-> Vision to minimize environmental impact 0.8005957007408142
+[Advanced sensors and cameras]: Auckland transport --[Has]-> Vision to create efficient transport system 0.8192452788352966
+[Advanced sensors and cameras]: Auckland transport --[Has]-> Vision to create integrated transport system 0.8100484609603882
+[Advanced sensors and cameras]: Auckland transport --[Has]-> Long-term vision 0.8259226083755493
+[Advanced sensors and cameras]: Auckland transport --[Has]-> Vision to create safe transport system 0.804009199142456
+[Advanced sensors and cameras]: Auckland transport --[Focused on]-> Promoting active transport modes 0.835708737373352
+[Advanced sensors and cameras]: Auckland transport --[Focused on]-> Promoting cycling 0.8076907396316528
+[Advanced sensors and cameras]: Auckland transport --[Focused on]-> Promoting walking 0.8100333213806152
+[Advanced sensors and cameras]: Auckland transport --[Implemented]-> Cycling infrastructure projects 0.828506588935852
+[Advanced sensors and cameras]: Auckland transport --[Implemented]-> Dedicated bike lanes 0.8209179639816284
+[Advanced sensors and cameras]: Auckland transport --[Implemented]-> Cycleways 0.8336309790611267
+[Advanced sensors and cameras]: Auckland transport --[Introduced]-> Auckland integrated ticketing system 0.8225539922714233
+[Advanced sensors and cameras]: Auckland transport --[Responsible for]-> Managing public transport services 0.8151513934135437
+[Advanced sensors and cameras]: Auckland transport --[Responsible for]-> Development 0.8140043020248413
+[Advanced sensors and cameras]: Auckland transport --[Responsible for]-> Management 0.8055992126464844
+[Advanced sensors and cameras]: Auckland transport --[Responsible for]-> Planning 0.8269170522689819
+[Advanced sensors and cameras]: Auckland transport --[Ensures]-> Transport planning aligns with urban development goals 0.7999475598335266
+[Advanced sensors and cameras]: Auckland transport --[Plays]-> Crucial role 0.8261648416519165
+[Advanced sensors and cameras]: Auckland transport --[Manages]-> Public transport in auckland 0.7972894906997681
+[Advanced sensors and cameras]: Auckland transport --[Manages]-> Public transport 0.8180972337722778
+[Advanced sensors and cameras]: Auckland transport --[Oversees]-> Ferries 0.7899693250656128
+[Advanced sensors and cameras]: Auckland transport --[Oversees]-> Trains 0.7953436374664307
+[Advanced sensors and cameras]: Auckland transport --[Oversees]-> Buses 0.8034573793411255

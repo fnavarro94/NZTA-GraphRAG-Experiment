@@ -1,0 +1,36 @@
+When were the safety cameras in the Waterview Tunnel last calibrated for accuracy?
+None
+Seed: MINO -1042 Waterview Tunnel
+Seed: information on traffic light cameras and speed cameras
+Seed: information on traffic light cameras
+Seed: Lyttelton tunnel
+[MINO -1042 Waterview Tunnel]: MINO -1042 Waterview Tunnel --[WARNING]-> 19 April 2024 0.8536930680274963
+[MINO -1042 Waterview Tunnel]: 19 April 2024 --[RELEASED]-> Released in full 0.7138846516609192
+[MINO -1042 Waterview Tunnel]: 29 April 2024 --[RELEASED]-> Released in full 0.7134437561035156
+[MINO -1042 Waterview Tunnel]: MINO -1047 Driver instructors --[TESTING]-> 29 April 2024 0.767119288444519
+[MINO -1042 Waterview Tunnel]: 30 April 2024 --[RELEASED]-> Released in full 0.7116948366165161
+[MINO -1042 Waterview Tunnel]: MINO -1051 Supporting information --[DEBATE]-> 30 April 2024 0.7479780912399292
+[MINO -1042 Waterview Tunnel]: Ministers Report --[IS]-> Released in full 0.7265564799308777
+[MINO -1042 Waterview Tunnel]: Ministers Report --[DATE]-> 8 April 2024 0.7383515238761902
+[MINO -1042 Waterview Tunnel]: Ministers Report --[IS]-> Ministers Report 0.7149537801742554
+[MINO -1042 Waterview Tunnel]: 8 April 2024 --[RELEASED]-> Released in full 0.7217720150947571
+[MINO -1042 Waterview Tunnel]: MINO -1029 Minister Office's --[QUERY]-> 8 April 2024 0.7443828582763672
+[MINO -1042 Waterview Tunnel]: MIN-4449 --[IS]-> Released in full 0.7420194149017334
+[MINO -1042 Waterview Tunnel]: MIN-4449 --[DATE]-> 17 April 2024 0.7400461435317993
+[MINO -1042 Waterview Tunnel]: MIN-4449 --[IS]-> Average cost of resurfacing and rehabilitation 0.7350986003875732
+[MINO -1042 Waterview Tunnel]: 22 April 2024 --[RELEASED]-> Released in full 0.7178851962089539
+[MINO -1042 Waterview Tunnel]: MINO -1039 Road User Charges --[REVENUE]-> 22 April 2024 0.7273976802825928
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.7930383682250977
+[information on traffic light cameras and speed cameras]: Response --[CONTAINS]-> Waka Kotahi 0.719293475151062
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PUBLISHES]-> Response 0.7068082690238953
+[information on traffic light cameras and speed cameras]: response --[CONTAINS]-> Waka Kotahi 0.7053399085998535
+[information on traffic light cameras and speed cameras]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.7199184894561768
+[information on traffic light cameras and speed cameras]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.7247430086135864
+[information on traffic light cameras and speed cameras]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.6964605450630188
+[information on traffic light cameras and speed cameras]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7074836492538452
+[information on traffic light cameras and speed cameras]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.7143147587776184
+[information on traffic light cameras and speed cameras]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7274354696273804
+[information on traffic light cameras and speed cameras]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.7131176590919495
+[information on traffic light cameras and speed cameras]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.7361042499542236
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7218862771987915
+[information on traffic light cameras and speed cameras]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.7385420799255371

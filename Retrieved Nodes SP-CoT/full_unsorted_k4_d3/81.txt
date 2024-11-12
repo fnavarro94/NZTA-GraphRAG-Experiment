@@ -1,0 +1,36 @@
+What nickname is commonly associated with the cities that are implementing extensive cycling networks and pedestrian-friendly infrastructure to address traffic congestion, in the country where individuals must be at least 16 years old to apply for a learner's permit, which is the first stage of the driver licensing process that can be obtained at the age of 16, highlighting Auckland's maritime culture?
+None
+Seed: Driver licensing and vehicle registration
+Seed: Licensing of drivers and vehicles
+Seed: Legal framework for licensing of drivers
+Seed: Age of 16
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Provisions on]-> Driver licensing and vehicle registration 0.8103563189506531
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Aiming to]-> Reduce road traffic accidents and fatalities 0.7898603081703186
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Reflected in]-> Land transport act 1998 0.8023087978363037
+[Driver licensing and vehicle registration]: Road transport safety --[Governed by]-> Land transport act 1998 0.7907605767250061
+[Driver licensing and vehicle registration]: Land transport act 1998 --[Establishes]-> Legal framework for enforcement of road rules 0.7826801538467407
+[Driver licensing and vehicle registration]: Land transport act 1998 --[Establishes]-> Legal framework for registration of vehicles 0.7950716614723206
+[Driver licensing and vehicle registration]: Road safety legislation --[Governed by]-> Land transport act 1998 0.7817813754081726
+[Driver licensing and vehicle registration]: Land transport act 1998 --[Establishes]-> Legal framework for licensing of drivers 0.8143637180328369
+[Driver licensing and vehicle registration]: Land transport act 1998 --[Complemented by]-> Land transport (road user 0.8012259602546692
+[Driver licensing and vehicle registration]: Vehicle maintenance standards --[Are set forth in]-> Land transport act 1998 0.7539212107658386
+[Driver licensing and vehicle registration]: Land transport act 1998 --[Provides]-> Legislative framework for road safety initiatives 0.7775769233703613
+[Driver licensing and vehicle registration]: Land transport act 1998 --[Provides]-> Legal foundation 0.7834545969963074
+[Driver licensing and vehicle registration]: New zealand --[Has]-> Land transport act 1998 0.813856303691864
+[Driver licensing and vehicle registration]: Land transport act 1998 --[Outlines]-> Driver licensing 0.8160527944564819
+[Driver licensing and vehicle registration]: Land transport act 1998 --[Outlines]-> Rules for vehicle operation 0.777461051940918
+[Driver licensing and vehicle registration]: Land transport act 1998 --[Outlines]-> Road safety 0.7709113359451294
+[Driver licensing and vehicle registration]: Vehicle safety standards --[Are overseen by]-> Land transport act 1998 0.7624426484107971
+[Driver licensing and vehicle registration]: New zealand --[Governed by]-> Land transport act 1998 0.8117159008979797
+[Driver licensing and vehicle registration]: Land transport act 1998 --[Complemented by]-> Resource management act 1991 0.7638911008834839
+[Driver licensing and vehicle registration]: Land transport act 1998 --[Provides]-> Foundation for vehicle standards and compliance 0.7693316340446472
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Emphasis on]-> Standardized road signs and signals 0.7923619151115417
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Aimed at]-> Facilitating international road traffic 0.805122435092926
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Integrated into]-> New zealand's national road traffic laws 0.8343735337257385
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Ratified by]-> Numerous countries 0.8011582493782043
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Aimed at]-> Promoting road safety 0.7969268560409546
+[Driver licensing and vehicle registration]: Road safety authority --[Responsible for]-> Promoting road safety 0.7912474274635315
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Adopted]-> Graduated licensing system 0.8217018842697144
+[Driver licensing and vehicle registration]: New zealand --[Has]-> Graduated licensing system 0.8374353647232056
+[Driver licensing and vehicle registration]: Graduated licensing system --[Ensures]-> New drivers acquire skills 0.8188847899436951
+[Driver licensing and vehicle registration]: Graduated licensing system --[Aims]-> Improve road safety 0.8042181134223938

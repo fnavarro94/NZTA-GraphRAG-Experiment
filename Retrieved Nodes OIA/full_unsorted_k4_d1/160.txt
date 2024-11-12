@@ -1,0 +1,18 @@
+What were some of the key software or apps developed by NZTA's Connected Journey Solutions (CJS)?
+None
+Seed: successful applications
+Seed: multi-tenanted platform
+Seed: projects for New Zealand Transport Agency
+Seed: Connected Journey Solutions
+[successful applications]: innovation-fund/innovation-fund-round-one-successful-applicants.pdf --[PROVIDES]-> successful applications 0.7706074118614197
+[successful applications]: successful applications --[LISTS]-> Hoe ki angitū – Innovation Fund 0.7845091223716736
+[multi-tenanted platform]: multi-tenanted platform --[DELIVERS]-> delivery 0.7871434688568115
+[projects for New Zealand Transport Agency]: Higgins Wellington --[CONTRACTED_FOR]-> projects for New Zealand Transport Agency 0.7805662155151367
+[projects for New Zealand Transport Agency]: Higgins Ltd --[CONTRACTED_FOR]-> projects for New Zealand Transport Agency 0.7834208607673645
+[Connected Journey Solutions]: Connected Journey Solutions --[DELIVERS]-> innovative transport solutions 0.853222131729126
+[Connected Journey Solutions]: Connected Journey Solutions --[TASKED_WITH]-> pre-existing software development 0.8318052291870117
+[Connected Journey Solutions]: Connected Journey Solutions --[IS_PART_OF]-> New Zealand Transport Agency 0.8742916584014893
+[Connected Journey Solutions]: Connected Journey Solutions --[ESTABLISHED]-> July 2017 0.8671510219573975
+[Connected Journey Solutions]: New Zealand Transport Agency --[PROVIDES]-> Connected Journey Solutions 0.8693881034851074
+[Connected Journey Solutions]: Connected Journey Solutions --[EXPLORES]-> new technologies, products and services 0.8685968518257141
+[Connected Journey Solutions]: Connected Journey Solutions --[TASKED_WITH]-> new digital initiatives 0.8430699110031128

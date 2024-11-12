@@ -1,0 +1,34 @@
+How many speeding offences were detected by speed cameras for NZTA vehicles in 2021?
+None
+Seed: information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021
+Seed: no notifications of offences detected by speed cameras
+Seed: information on traffic light cameras and speed cameras
+Seed: information on speed cameras
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.8546799421310425
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[PROVIDES]-> information on speed cameras 0.8309118747711182
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.8197308778762817
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[RECEIVED]-> no notifications of offences detected by speed cameras 0.8183416724205017
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.8140126466751099
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.811719536781311
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[FOLLOWS]-> Setting of Speed Limits Rule 2017 0.811680257320404
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.8546799421310425
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[PROVIDES]-> information on speed cameras 0.8309118747711182
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.8197308778762817
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[RECEIVED]-> no notifications of offences detected by speed cameras 0.8183416724205017
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.8140126466751099
+[no notifications of offences detected by speed cameras]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.811719536781311
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[FOLLOWS]-> Setting of Speed Limits Rule 2017 0.811680257320404
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.8546799421310425
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on speed cameras 0.8309118747711182
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.8197308778762817
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[RECEIVED]-> no notifications of offences detected by speed cameras 0.8183416724205017
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.8140126466751099
+[information on traffic light cameras and speed cameras]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.811719536781311
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[FOLLOWS]-> Setting of Speed Limits Rule 2017 0.811680257320404
+[information on speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.8546799421310425
+[information on speed cameras]: Waka Kotahi --[PROVIDES]-> information on speed cameras 0.8309118747711182
+[information on speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.8197308778762817
+[information on speed cameras]: Waka Kotahi --[RECEIVED]-> no notifications of offences detected by speed cameras 0.8183416724205017
+[information on speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.8140126466751099
+[information on speed cameras]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.811719536781311
+[information on speed cameras]: Waka Kotahi --[FOLLOWS]-> Setting of Speed Limits Rule 2017 0.811680257320404

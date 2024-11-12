@@ -1,0 +1,36 @@
+What is the Mobility Marketplace platform and when was it anticipated to go live?
+None
+Seed: Mobility Marketplace concept
+Seed: Mobility Marketplace
+Seed: who is developing the AT Mobile app and what is it?
+Seed: multi-tenanted platform
+[Mobility Marketplace concept]: Choice app --[DEVELOPED_FOR]-> Mobility Marketplace concept 0.8811706900596619
+[Mobility Marketplace concept]: RideMate app --[DEVELOPED_FOR]-> Mobility Marketplace concept 0.8808578252792358
+[Mobility Marketplace concept]: RideMate app --[DEVELOPMENT_COST]-> $1,000,000 0.8148412108421326
+[Mobility Marketplace]: Mobility Marketplace --[TESTED_IN]-> New Zealand 0.8689186573028564
+[Mobility Marketplace]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7822842001914978
+[Mobility Marketplace]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.774546205997467
+[Mobility Marketplace]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7799170017242432
+[Mobility Marketplace]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7871050238609314
+[Mobility Marketplace]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7921690344810486
+[Mobility Marketplace]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7735041379928589
+[Mobility Marketplace]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7696910500526428
+[Mobility Marketplace]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7756859064102173
+[Mobility Marketplace]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7742288112640381
+[Mobility Marketplace]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7614009976387024
+[Mobility Marketplace]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7332570552825928
+[Mobility Marketplace]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7594054937362671
+[Mobility Marketplace]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7889254093170166
+[Mobility Marketplace]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7665011882781982
+[Mobility Marketplace]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7644126415252686
+[Mobility Marketplace]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7566354274749756
+[Mobility Marketplace]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7571479678153992
+[Mobility Marketplace]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.741754412651062
+[Mobility Marketplace]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7790398597717285
+[Mobility Marketplace]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.736890435218811
+[Mobility Marketplace]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7554106712341309
+[Mobility Marketplace]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7476358413696289
+[Mobility Marketplace]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.757494330406189
+[Mobility Marketplace]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7487667202949524
+[Mobility Marketplace]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7615818977355957
+[Mobility Marketplace]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.763796329498291

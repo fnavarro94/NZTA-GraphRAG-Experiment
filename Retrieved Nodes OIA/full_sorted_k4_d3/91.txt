@@ -1,0 +1,34 @@
+How many times has the Milford Rd closed each year for the past 5 years?
+None
+Seed: 5 years
+Seed: vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas
+Seed: resignations by year since 2014
+Seed: Milford Alliance
+[5 years]: Transport Service Licences --[ACTIVE_FOR]-> 5 years 0.8066335916519165
+[5 years]: New Zealand Transport Agency --[PROVIDES]-> vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas 0.7861930131912231
+[5 years]: roads --[MAINTAINED]-> New Zealand Transport Agency 0.7855600118637085
+[5 years]: New Zealand Transport Agency --[OFFICE]-> Level 5, The Majestic Centre 0.7823576927185059
+[5 years]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.782194972038269
+[5 years]: New Zealand Transport Agency --[PROVIDES]-> accident or crash history 0.7798143625259399
+[5 years]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> road maintenance 0.7797662615776062
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Milford Alliance --[DEVELOPED_BY]-> Connected Journeys 0.8118149042129517
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Transport Service Licences --[ACTIVE_FOR]-> 5 years 0.8066335916519165
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Connected Journeys --[DEVELOPS]-> Milford Alliance 0.7938207387924194
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Queenstown Lakes and Central Otago --[PART_OF]-> New Zealand 0.7929685115814209
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: road renewal --[OVERDUE]-> road maintenance 0.7922957539558411
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Environment Canterbury --[TRANSITIONS]-> NTS 0.7895168662071228
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Galina Mitchelhill --[CONTACT]-> matt.hendry@nzta.govt.nz 0.7886056900024414
+[resignations by year since 2014]: Milford Alliance --[DEVELOPED_BY]-> Connected Journeys 0.8118149042129517
+[resignations by year since 2014]: Transport Service Licences --[ACTIVE_FOR]-> 5 years 0.8066335916519165
+[resignations by year since 2014]: Connected Journeys --[DEVELOPS]-> Milford Alliance 0.7938207387924194
+[resignations by year since 2014]: Queenstown Lakes and Central Otago --[PART_OF]-> New Zealand 0.7929685115814209
+[resignations by year since 2014]: road renewal --[OVERDUE]-> road maintenance 0.7922957539558411
+[resignations by year since 2014]: Environment Canterbury --[TRANSITIONS]-> NTS 0.7895168662071228
+[resignations by year since 2014]: Galina Mitchelhill --[CONTACT]-> matt.hendry@nzta.govt.nz 0.7886056900024414
+[Milford Alliance]: Milford Alliance --[DEVELOPED_BY]-> Connected Journeys 0.8118149042129517
+[Milford Alliance]: Connected Journeys --[DEVELOPS]-> Milford Alliance 0.7938207387924194
+[Milford Alliance]: New Zealand Transport Agency --[PROVIDES]-> vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas 0.7861930131912231
+[Milford Alliance]: roads --[MAINTAINED]-> New Zealand Transport Agency 0.7855600118637085
+[Milford Alliance]: New Zealand Transport Agency --[OFFICE]-> Level 5, The Majestic Centre 0.7823576927185059
+[Milford Alliance]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.782194972038269
+[Milford Alliance]: New Zealand Transport Agency --[PROVIDES]-> accident or crash history 0.7798143625259399

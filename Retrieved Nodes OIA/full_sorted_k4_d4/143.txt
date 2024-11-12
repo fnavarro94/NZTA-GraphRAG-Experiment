@@ -1,0 +1,18 @@
+How is the number of lives saved from Road to Zero investments calculated?
+None
+Seed: zero road deaths by 2050
+Seed: Road to Zero – Road safety promotion
+Seed: total amount approved for investment
+Seed: Road to Zero – Safety infrastructure
+[zero road deaths by 2050]: zero deaths and serious injuries --[PROMOTED_BY]-> Road to Zero strategy 0.867179811000824
+[zero road deaths by 2050]: Road to Zero strategy --[INFORMATION]-> www.transport.govt.nz/area-of-inte rest/safety/road-to-zero/ 0.8577099442481995
+[zero road deaths by 2050]: Road to Zero strategy --[GOAL]-> 40 percent reduction in deaths and serious injuries 0.8569697737693787
+[zero road deaths by 2050]: Ministry of Transport --[PROJECT]-> Road to Zero strategy 0.8522421717643738
+[zero road deaths by 2050]: Road to Zero strategy --[BY]-> Ministry of Transport 0.8513191938400269
+[zero road deaths by 2050]: Road to Zero strategy --[TARGET]-> 40 percent reduction in deaths and serious injuries 0.8502551913261414
+[zero road deaths by 2050]: Road to Zero strategy --[INFORMATION]-> Ministry of Transport 0.8498382568359375
+[Road to Zero – Road safety promotion]: Road to Zero – Road safety promotion --[INVESTMENT]-> 36.8 million 0.8762533664703369
+[Road to Zero – Road safety promotion]: Road to Zero – Road safety promotion --[INVESTMENT]-> 32.1 million 0.8760060667991638
+[total amount approved for investment]: NLTP --[PROVIDES]-> total amount approved for investment 0.7992339134216309
+[Road to Zero – Safety infrastructure]: Road to Zero – Safety infrastructure --[INVESTMENT]-> 134.1 million 0.8747742176055908
+[Road to Zero – Safety infrastructure]: Road to Zero – Safety infrastructure --[INVESTMENT]-> 278 million 0.8604328632354736

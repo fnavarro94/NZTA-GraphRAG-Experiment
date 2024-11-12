@@ -1,0 +1,36 @@
+What region does the Northern Motorway from the country known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, provide access to?
+None
+Seed: Critical component of new zealand's transport strategy
+Seed: Socio-economic indicators
+Seed: Critical aspect of transportation planning
+Seed: Critical aspect of transport management in new zealand
+[Critical component of new zealand's transport strategy]: Road safety education --[Is]-> Critical component of new zealand's transport strategy 0.8235154747962952
+[Critical component of new zealand's transport strategy]: Nzta --[Promotes]-> Road safety education 0.7912883758544922
+[Critical component of new zealand's transport strategy]: Nzta --[Plays a pivotal role in]-> The development and implementation of these systems 0.7832670211791992
+[Critical component of new zealand's transport strategy]: Nzta --[Actively exploring]-> Connected and autonomous vehicles 0.7958652377128601
+[Critical component of new zealand's transport strategy]: Nzta --[Actively exploring]-> The potential of emerging technologies 0.7851029634475708
+[Critical component of new zealand's transport strategy]: Nzta --[Actively exploring]-> Improving road safety 0.8196865916252136
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Influenced by]-> Improving road safety 0.7613917589187622
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Designed to]-> Enhance vehicle stability 0.7428603172302246
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Is]-> Advanced safety feature 0.7343592047691345
+[Critical component of new zealand's transport strategy]: Vehicle safety technologies --[Include]-> Electronic stability control 0.7466651797294617
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Utilize]-> Sensors 0.738186776638031
+[Critical component of new zealand's transport strategy]: New zealand --[Has adopted]-> Electronic stability control 0.7594557404518127
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Helps]-> Reduce skidding 0.7370296716690063
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Helps]-> Reduce rollovers 0.7423378229141235
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Helps]-> Maintain control 0.7185882329940796
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Mandatory]-> New zealand 0.7559887170791626
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Mandatory]-> New vehicles 0.7581893801689148
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Contributed to]-> Challenging driving conditions 0.7671975493431091
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Contributed to]-> Improved road safety 0.7742636799812317
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Contributed to]-> Rural areas 0.7821396589279175
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Particularly relevant in]-> New zealand 0.7688553333282471
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Range from]-> Mountainous terrains 0.7576885223388672
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Range from]-> Urban environments 0.7512131333351135
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Range from]-> Rural roads 0.791555643081665
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Monitor]-> Vehicle's direction 0.7614634037017822
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Monitor]-> Vehicle's speed 0.7552958130836487
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Intervene]-> When necessary 0.7099783420562744
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Prevent]-> Loss of control 0.7021425366401672
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Prevent]-> Skidding 0.7214947938919067
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Especially during]-> Adverse weather conditions 0.7383620738983154

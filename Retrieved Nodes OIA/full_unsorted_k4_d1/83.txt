@@ -1,0 +1,10 @@
+How many driver licenses have been granted annually over the last ten years?
+None
+Seed: driver licenses
+Seed: Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019
+Seed: information related to criminal convictions of driving instructor (I) endorsement holders
+Seed: information on vehicle and driver registration and licensing
+[driver licenses]: driver licenses --[CONTAINS]-> annual data 0.874234139919281
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Data --[IS]-> Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019 0.8293493986129761
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Michael Morrah --[REQUESTS]-> information related to criminal convictions of driving instructor (I) endorsement holders 0.8088971972465515
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[PROVIDES]-> information on vehicle and driver registration and licensing 0.793445348739624

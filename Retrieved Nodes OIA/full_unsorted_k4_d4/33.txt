@@ -1,0 +1,36 @@
+What percentage of a project's total budget is typically allocated to communications and public engagement on large roading projects?
+None
+Seed: 32 percent of the roading network
+Seed: wider objectives in Regional Public Transport Plans
+Seed: manage fare revenue and public transport budgets within current funding allocations
+Seed: itemised breakdown of all spending on public consultation for Golden Mile upgrades
+[32 percent of the roading network]: road maintenance data --[OVERDUE]-> 32 percent of the roading network 0.839047908782959
+[32 percent of the roading network]: New Zealand Transport Agency --[PROVIDES]-> road maintenance data 0.776996374130249
+[32 percent of the roading network]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7499825954437256
+[32 percent of the roading network]: New Zealand Transport Agency --[BASED]-> Wellington 0.76177978515625
+[32 percent of the roading network]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7328144311904907
+[32 percent of the roading network]: Golden Mile --[LOCATED]-> Wellington 0.7363350987434387
+[32 percent of the roading network]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7432088851928711
+[32 percent of the roading network]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7038651704788208
+[32 percent of the roading network]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7512034773826599
+[32 percent of the roading network]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7352445721626282
+[32 percent of the roading network]: Wellington --[PART_OF]-> Wellington Region 0.7599902153015137
+[32 percent of the roading network]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7451719045639038
+[32 percent of the roading network]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7636542320251465
+[32 percent of the roading network]: Wellington --[HAS]-> tunnel 0.7389843463897705
+[32 percent of the roading network]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7196457982063293
+[32 percent of the roading network]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7320950031280518
+[32 percent of the roading network]: Wellington --[POSTCODE]-> 6141 0.6940543055534363
+[32 percent of the roading network]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.746584415435791
+[32 percent of the roading network]: Wellington --[IS_PART_OF]-> New Zealand 0.7416263222694397
+[32 percent of the roading network]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.764045238494873
+[32 percent of the roading network]: 50 Victoria Street --[IN]-> Wellington 0.7251031994819641
+[32 percent of the roading network]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7031944990158081
+[32 percent of the roading network]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7434390783309937
+[32 percent of the roading network]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7316962480545044
+[32 percent of the roading network]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7205567359924316
+[32 percent of the roading network]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7283786535263062
+[32 percent of the roading network]: NZ Transport Agency --[LOCATED]-> Wellington 0.7455954551696777
+[32 percent of the roading network]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7530803680419922
+[32 percent of the roading network]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7201046943664551
+[32 percent of the roading network]: New Zealand --[CONTAINS]-> Wellington 0.7252905368804932

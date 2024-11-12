@@ -1,0 +1,14 @@
+Has Waka Kotahi carried out tests comparing steel reinforcement versus fiberglass or wood in cab cut-outs?
+None
+Seed: fibreglass or wood
+Seed: 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.
+Seed: steel is present reinforcing the ca b cut-out
+Seed: information to Waka Kotahi
+[fibreglass or wood]: fibreglass or wood --[TESTED]-> tests 0.8713247776031494
+[fibreglass or wood]: steel is present reinforcing the ca b cut-out --[VS]-> fibreglass or wood 0.880901038646698
+[fibreglass or wood]: steel --[VS]-> fibreglass or wood 0.8725225925445557
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. --[OFFICIAL_INFORMATION]-> I am refusing this part of your request under section 18(d) of the Act as the information is publicly available. 0.8131290674209595
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: I will respond to each of your questions in turn. --[OFFICIAL_INFORMATION]-> 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. 0.8394453525543213
+[steel is present reinforcing the ca b cut-out]: comparable tests --[WHERE]-> steel is present reinforcing the ca b cut-out 0.87354576587677
+[steel is present reinforcing the ca b cut-out]: steel is present reinforcing the ca b cut-out --[VS]-> fibreglass or wood 0.880901038646698
+[information to Waka Kotahi]: New Zealand Transport Agency --[PROVIDES]-> information to Waka Kotahi 0.804025411605835

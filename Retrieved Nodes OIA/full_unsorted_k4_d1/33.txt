@@ -1,0 +1,13 @@
+What percentage of a project's total budget is typically allocated to communications and public engagement on large roading projects?
+None
+Seed: 32 percent of the roading network
+Seed: wider objectives in Regional Public Transport Plans
+Seed: manage fare revenue and public transport budgets within current funding allocations
+Seed: itemised breakdown of all spending on public consultation for Golden Mile upgrades
+[32 percent of the roading network]: road maintenance data --[OVERDUE]-> 32 percent of the roading network 0.839047908782959
+[32 percent of the roading network]: 32 percent of the roading network --[PAST_DESIGN_LIFE]-> design life 0.8453732132911682
+[wider objectives in Regional Public Transport Plans]: underlying principles of the current policy --[CONTRIBUTES]-> wider objectives in Regional Public Transport Plans 0.8128712177276611
+[wider objectives in Regional Public Transport Plans]: wider objectives in Regional Public Transport Plans --[CONTRIBUTES]-> government's transport priorities 0.8237691521644592
+[manage fare revenue and public transport budgets within current funding allocations]: manage fare revenue and public transport budgets within current funding allocations --[REQUIRES]-> standard cost scope adjustment process 0.8184453845024109
+[manage fare revenue and public transport budgets within current funding allocations]: councils --[MUST]-> manage fare revenue and public transport budgets within current funding allocations 0.8148019313812256
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[ITEMISED]-> itemised breakdown of all spending on public consultation for Golden Mile upgrades 0.8118395805358887

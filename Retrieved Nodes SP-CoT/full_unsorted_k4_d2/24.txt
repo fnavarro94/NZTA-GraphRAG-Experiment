@@ -1,0 +1,36 @@
+What is the abbreviation for the program that includes the expressway project aimed at improving freight transport efficiency in the region in New Zealand?
+None
+Seed: Efficiency of freight transport in region
+Seed: Regional transport initiatives
+Seed: Significant transport infrastructure project
+Seed: Enhancement of new zealand's transport infrastructure
+[Efficiency of freight transport in region]: Waikato expressway --[Significantly enhances]-> Efficiency of freight transport in region 0.8931275606155396
+[Efficiency of freight transport in region]: Waikato expressway --[Is part of]-> National land transport programme 0.879420816898346
+[Efficiency of freight transport in region]: Waikato expressway --[Aims to improve]-> Travel times and safety between auckland and hamilton 0.852462887763977
+[Efficiency of freight transport in region]: Waikato expressway --[Includes]-> Several new sections of road and upgrades to existing routes 0.8251656889915466
+[Regional transport initiatives]: Local councils --[Contribute to]-> Regional transport initiatives 0.8136478662490845
+[Regional transport initiatives]: Road safety authority --[Collaborates with]-> Local councils 0.765701174736023
+[Regional transport initiatives]: Waka kotahi --[Works with]-> Local councils 0.7553306818008423
+[Regional transport initiatives]: Waka kotahi --[Collaborates with]-> Local councils 0.7547962069511414
+[Regional transport initiatives]: Waka kotahi nz transport agency --[Works collaboratively with]-> Local councils 0.8133144378662109
+[Regional transport initiatives]: Community transport services --[Operated by]-> Local councils 0.79547119140625
+[Regional transport initiatives]: Local councils --[Implement]-> Tra 0.7855170369148254
+[Regional transport initiatives]: New zealand transport agency --[Collaborates with]-> Local councils 0.8308775424957275
+[Regional transport initiatives]: New zealand transport agency --[Works with]-> Local councils 0.827621340751648
+[Regional transport initiatives]: Local councils --[Develop]-> Long-term plans 0.7736533880233765
+[Regional transport initiatives]: Local councils --[Develop]-> Regional land transport plans 0.8123642206192017
+[Regional transport initiatives]: Regional transport committees --[Consist of]-> Local councils 0.7946006059646606
+[Regional transport initiatives]: Local councils --[Are]-> Responsible for implementation 0.7536389827728271
+[Regional transport initiatives]: Local councils --[Ensure]-> Compliance with road design guidelines 0.7784023880958557
+[Regional transport initiatives]: Local councils --[Oversees]-> Road maintenance 0.7830847501754761
+[Regional transport initiatives]: Local councils --[Contribute to]-> Transport funding 0.7934297323226929
+[Significant transport infrastructure project]: Christchurch southern motorway --[Is]-> Significant transport infrastructure project 0.8477859497070312
+[Significant transport infrastructure project]: Christchurch southern motorway --[Serves as]-> Critical link between southern suburbs and central business district 0.7979016304016113
+[Significant transport infrastructure project]: Christchurch southern motorway --[Located in]-> South island of new zealand 0.8110424280166626
+[Significant transport infrastructure project]: Christchurch southern motorway --[Designed to]-> Enhance efficiency of road transport 0.8585169315338135
+[Significant transport infrastructure project]: Christchurch southern motorway --[Ends at]-> Intersection with christchurch northern corridor 0.7907419800758362
+[Significant transport infrastructure project]: Christchurch southern motorway --[Construction began]-> Early 2000s 0.8241804838180542
+[Significant transport infrastructure project]: Christchurch southern motorway --[Extends]-> Approximately 20 kilometers 0.7936583757400513
+[Significant transport infrastructure project]: Christchurch southern motorway --[Key component of]-> Christchurch transport strategic plan 0.844982385635376
+[Significant transport infrastructure project]: Christchurch southern motorway --[Part of]-> New zealand government's broader strategy 0.8483372926712036
+[Significant transport infrastructure project]: Christchurch southern motorway --[Begins at]-> Intersection of state highway 1 and state highway 76 0.7906247973442078

@@ -1,0 +1,10 @@
+Who is the acting National Manager responsible for the reply on Automatic Number Plate Recognition cameras?
+None
+Seed: Acting Senior Manager, Media
+Seed: no notifications of offences detected by speed cameras
+Seed: National Manager, Education and Marketing
+Seed: National correspondent
+[Acting Senior Manager, Media]: Jasmine Higginson --[IS]-> Acting Senior Manager, Media 0.7676956653594971
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[RECEIVED]-> no notifications of offences detected by speed cameras 0.7788748145103455
+[National Manager, Education and Marketing]: Lauren Cooke --[IS]-> National Manager, Education and Marketing 0.7595024704933167
+[National correspondent]: Charlie Mitchell --[CORRESPONDENT]-> National correspondent 0.7810790538787842

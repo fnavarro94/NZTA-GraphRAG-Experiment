@@ -1,0 +1,34 @@
+What specific type of endorsement is mentioned in the OIA-2127 document?
+None
+Seed: applications for I endorsements
+Seed: standards for all licence endorsement holders
+Seed: I endorsement holders
+Seed: renewals of existing endorsement holders
+[applications for I endorsements]: Mathew Dearnaley --[ASSOCIATED_WITH]-> oia-2127-mathew-dearnaley.pdf 0.8663731813430786
+[applications for I endorsements]: oia-2127-mathew-dearnaley.pdf --[ASSOCIATED_WITH]-> Mathew Dearnaley 0.8543742895126343
+[applications for I endorsements]: Mathew Dearnaley --[ASSOCIATED_WITH]-> OIA-2127 0.8484744429588318
+[applications for I endorsements]: Transport Agency --[ASSESS]-> applications for I endorsements 0.8482099175453186
+[applications for I endorsements]: Transport Agency --[GRANT]-> I endorsements 0.8473284244537354
+[applications for I endorsements]: Andrew McFarlane --[ASSOCIATED_WITH]-> oia-4903-Andrew-Mcfarlane.pdf 0.8459520936012268
+[applications for I endorsements]: oia-4903-Andrew-Mcfarlane.pdf --[ASSOCIATED_WITH]-> Andrew McFarlane 0.8449056148529053
+[standards for all licence endorsement holders]: Mathew Dearnaley --[ASSOCIATED_WITH]-> oia-2127-mathew-dearnaley.pdf 0.8663731813430786
+[standards for all licence endorsement holders]: OIA-2127 --[ASSOCIATED_WITH]-> /Users/felipenavarro/Documents/Auckland/nzta/nzta_dev/NZTA-GraphRAG/transport_data/sample_files/nzta/temp_files/oia-2127-mathew-dearnaley.pdf 0.8547675013542175
+[standards for all licence endorsement holders]: oia-2127-mathew-dearnaley.pdf --[ASSOCIATED_WITH]-> Mathew Dearnaley 0.8543742895126343
+[standards for all licence endorsement holders]: Mathew Dearnaley --[ASSOCIATED_WITH]-> OIA-2127 0.8484744429588318
+[standards for all licence endorsement holders]: Transport Agency --[ASSESS]-> applications for I endorsements 0.8482099175453186
+[standards for all licence endorsement holders]: Transport Agency --[GRANT]-> I endorsements 0.8473284244537354
+[standards for all licence endorsement holders]: Andrew McFarlane --[ASSOCIATED_WITH]-> oia-4903-Andrew-Mcfarlane.pdf 0.8459520936012268
+[I endorsement holders]: Mathew Dearnaley --[ASSOCIATED_WITH]-> oia-2127-mathew-dearnaley.pdf 0.8663731813430786
+[I endorsement holders]: OIA-2127 --[ASSOCIATED_WITH]-> /Users/felipenavarro/Documents/Auckland/nzta/nzta_dev/NZTA-GraphRAG/transport_data/sample_files/nzta/temp_files/oia-2127-mathew-dearnaley.pdf 0.8547675013542175
+[I endorsement holders]: oia-2127-mathew-dearnaley.pdf --[ASSOCIATED_WITH]-> Mathew Dearnaley 0.8543742895126343
+[I endorsement holders]: Mathew Dearnaley --[ASSOCIATED_WITH]-> OIA-2127 0.8484744429588318
+[I endorsement holders]: Transport Agency --[ASSESS]-> applications for I endorsements 0.8482099175453186
+[I endorsement holders]: Transport Agency --[GRANT]-> I endorsements 0.8473284244537354
+[I endorsement holders]: Andrew McFarlane --[ASSOCIATED_WITH]-> oia-4903-Andrew-Mcfarlane.pdf 0.8459520936012268
+[renewals of existing endorsement holders]: Transport Agency --[ASSESS]-> applications for I endorsements 0.8482099175453186
+[renewals of existing endorsement holders]: Transport Agency --[GRANT]-> I endorsements 0.8473284244537354
+[renewals of existing endorsement holders]: applications for I endorsements --[INCLUDE]-> renewals of existing endorsement holders 0.8447509407997131
+[renewals of existing endorsement holders]: New Zealand Transport Agency --[MONITORS]-> I endorsement holders 0.8374952077865601
+[renewals of existing endorsement holders]: oia-15834-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.833626925945282
+[renewals of existing endorsement holders]: response letter --[ASSOCIATED_WITH]-> oia-12115-response-letter.pdf 0.8329958915710449
+[renewals of existing endorsement holders]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8320310115814209

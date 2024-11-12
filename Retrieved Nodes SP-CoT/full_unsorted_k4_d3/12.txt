@@ -1,0 +1,36 @@
+What international agreement does the program, established in 2010, which requires periodic testing of older vehicles to ensure they meet emissions standards throughout their operational life, align with to help limit global warming and reduce carbon emissions?
+None
+Seed: Vehicles meet specific emissions standards
+Seed: International agreements
+Seed: Paris agreement
+Seed: Commitment to reducing carbon emissions
+[Vehicles meet specific emissions standards]: Nzta --[Ensures]-> Vehicles meet specific emissions standards 0.8418089151382446
+[Vehicles meet specific emissions standards]: Nzta --[Plays a pivotal role in]-> The development and implementation of these systems 0.7434272766113281
+[Vehicles meet specific emissions standards]: Nzta --[Actively exploring]-> Connected and autonomous vehicles 0.7741276621818542
+[Vehicles meet specific emissions standards]: Nzta --[Actively exploring]-> The potential of emerging technologies 0.7467508912086487
+[Vehicles meet specific emissions standards]: Nzta --[Actively exploring]-> Improving road safety 0.7577587366104126
+[Vehicles meet specific emissions standards]: Electronic stability control --[Influenced by]-> Improving road safety 0.7589055895805359
+[Vehicles meet specific emissions standards]: New zealand transport agency --[Primary objectives include]-> Improving road safety 0.7483078837394714
+[Vehicles meet specific emissions standards]: Waka kotahi --[Focuses on]-> Improving road safety 0.7457661628723145
+[Vehicles meet specific emissions standards]: New zealand --[Made strides]-> Improving road safety 0.7293819189071655
+[Vehicles meet specific emissions standards]: Nzta --[Actively exploring]-> Enhancing traffic management capabilities 0.7719435095787048
+[Vehicles meet specific emissions standards]: Nzta --[Works in collaboration with]-> Local councils and other stakeholders 0.7437331080436707
+[Vehicles meet specific emissions standards]: Nzta --[Responsible for]-> Administering nltf and prioritizing projects 0.7445530891418457
+[Vehicles meet specific emissions standards]: Nzta --[Collaborates with]-> Stakeholders 0.7509450912475586
+[Vehicles meet specific emissions standards]: Waka kotahi --[Works with]-> Stakeholders 0.7442907094955444
+[Vehicles meet specific emissions standards]: Nzta --[Encourages]-> Safe driving practices 0.7605822086334229
+[Vehicles meet specific emissions standards]: New zealand police --[Promoting]-> Safe driving practices 0.740935742855072
+[Vehicles meet specific emissions standards]: Vienna convention on road traffic --[Promotes]-> Safe driving practices 0.7572687864303589
+[Vehicles meet specific emissions standards]: Theory test --[Assesses]-> Safe driving practices 0.7638749480247498
+[Vehicles meet specific emissions standards]: Road safety education --[Covers]-> Safe driving practices 0.756790816783905
+[Vehicles meet specific emissions standards]: Diverse terrain and weather conditions --[Can complicate]-> Safe driving practices 0.7736614346504211
+[Vehicles meet specific emissions standards]: Nzta --[Promotes]-> Road safety education 0.7463271617889404
+[Vehicles meet specific emissions standards]: Road safety education --[Includes]-> Practical demonstrations 0.7583606243133545
+[Vehicles meet specific emissions standards]: Road safety education --[Implemented by]-> Non-governmental organizations 0.7619887590408325
+[Vehicles meet specific emissions standards]: Road safety education --[Includes]-> Use of technology 0.7596074938774109
+[Vehicles meet specific emissions standards]: Road safety education --[Covers]-> Cycling 0.7410458922386169
+[Vehicles meet specific emissions standards]: Road safety education --[Includes]-> Classroom activities 0.736969530582428
+[Vehicles meet specific emissions standards]: Road safety education --[Faces challenges]-> Pedestrians and cyclists 0.727992057800293
+[Vehicles meet specific emissions standards]: Road safety education --[Targets]-> Children and young adults 0.7417722940444946
+[Vehicles meet specific emissions standards]: Road safety education --[Includes]-> Community engagement 0.7569684386253357
+[Vehicles meet specific emissions standards]: Road safety education --[Includes]-> Events such as road safety week 0.7436338663101196

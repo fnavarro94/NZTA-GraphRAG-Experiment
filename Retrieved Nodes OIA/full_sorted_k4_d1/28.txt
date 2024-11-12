@@ -1,0 +1,17 @@
+Does Waka Kotahi NZTA have information on the weight or amount of rubbish collected along state highways?
+None
+Seed: information regarding amount of litter collected and disposed
+Seed: request for weight/amount of rubbish cleaned up
+Seed: Waka Kotahi N Z Transport Agency
+Seed: Waka Kotahi NZ Transport Agency
+[information regarding amount of litter collected and disposed]: Waka Kotahi NZ Transport Agency --[DOES_NOT_HOLD]-> information regarding amount of litter collected and disposed 0.8885825276374817
+[request for weight/amount of rubbish cleaned up]: Waka Kotahi NZ Transport Agency --[REFUSES]-> request for weight/amount of rubbish cleaned up 0.8862603306770325
+[Waka Kotahi N Z Transport Agency]: Data --[PROVIDED]-> Waka Kotahi N Z Transport Agency 0.8702329993247986
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINS]-> Waka Kotahi N Z Transport Agency 0.8243070840835571
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8895785808563232
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[DOES_NOT_HOLD]-> information regarding amount of litter collected and disposed 0.8885825276374817
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[REFUSES]-> request for weight/amount of rubbish cleaned up 0.8862603306770325
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.8852757811546326
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.8810381889343262
+[Waka Kotahi NZ Transport Agency]: www.nzta.govt.nz --[OF]-> Waka Kotahi NZ Transport Agency 0.8799619674682617
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.8798589706420898

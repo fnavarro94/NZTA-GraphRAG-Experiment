@@ -1,0 +1,36 @@
+What passenger service on the rail line in New Zealand that has been enhanced as part of the government's investment in upgrading rail infrastructure to support sustainable freight solutions provides commuter services between the headquarters of the organization in New Zealand that operates the majority of the country's rail services and has launched campaigns to promote rail safety located and Palmerston North?
+None
+Seed: Majority of rail services
+Seed: Passenger rail services
+Seed: Initiatives to promote sustainable transport solutions
+Seed: Both freight and passenger services
+[Majority of rail services]: Kiwirail group --[Operates]-> Majority of rail services 0.8645260334014893
+[Majority of rail services]: Kiwirail group --[Is]-> State-owned enterprise 0.8431292772293091
+[Majority of rail services]: Kiwirail group --[Provides]-> Essential services 0.8503888845443726
+[Majority of rail services]: Kiwirail group --[Provides]-> Efficient transport 0.8412779569625854
+[Majority of rail services]: Kiwirail group --[Provides]-> Sustainable transport 0.8583709001541138
+[Majority of rail services]: Kiwirail group --[Addresses]-> Environmental concerns 0.8337332606315613
+[Majority of rail services]: Kiwirail group --[Addresses]-> Road congestion 0.813521146774292
+[Majority of rail services]: Kiwirail group --[Responsible for]-> Rail transport 0.8553303480148315
+[Majority of rail services]: Kiwirail group --[Responsible for]-> Freight services 0.8602915406227112
+[Majority of rail services]: Kiwirail group --[Promotes]-> Integrated transport solutions 0.8446188569068909
+[Majority of rail services]: Kiwirail group --[Promotes]-> Economic growth 0.8416001200675964
+[Majority of rail services]: Kiwirail group --[Aims to]-> Rail transport 0.8409375548362732
+[Majority of rail services]: Kiwirail group --[Aims to]-> Increase modal share 0.8079801797866821
+[Majority of rail services]: Kiwirail group --[Connects]-> Ports 0.8221325278282166
+[Majority of rail services]: Kiwirail group --[Connects]-> Regional centers 0.8215910196304321
+[Majority of rail services]: Kiwirail group --[Connects]-> Major cities 0.8251280784606934
+[Majority of rail services]: Kiwirail group --[Plays]-> Pivotal role 0.8505765795707703
+[Majority of rail services]: Kiwirail group --[Plays]-> Transport landscape 0.8467316627502441
+[Majority of rail services]: Kiwirail group --[Facilitates]-> Movement of passengers 0.8437397480010986
+[Majority of rail services]: Kiwirail group --[Facilitates]-> Movement of goods 0.8543223738670349
+[Majority of rail services]: Kiwirail group --[Manages]-> Rail network 0.8331919312477112
+[Majority of rail services]: Kiwirail group --[Prioritizes]-> Innovation 0.8230499029159546
+[Majority of rail services]: Kiwirail group --[Prioritizes]-> Sustainability 0.8413276672363281
+[Majority of rail services]: Kiwirail group --[Supports]-> Economy 0.8392491340637207
+[Majority of rail services]: Kiwirail group --[Supports]-> Community 0.8334136605262756
+[Majority of rail services]: Kiwirail group --[Attracts]-> International tourists 0.8146756887435913
+[Majority of rail services]: Kiwirail group --[Attracts]-> Domestic tourists 0.8163492679595947
+[Majority of rail services]: Kiwirail group --[Known for]-> Northern explorer 0.8156249523162842
+[Majority of rail services]: Kiwirail group --[Known for]-> Tranzalpine 0.8063302636146545
+[Majority of rail services]: Kiwirail group --[Operates]-> Freight services 0.8637909293174744

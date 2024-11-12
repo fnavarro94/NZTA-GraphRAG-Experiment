@@ -1,0 +1,21 @@
+How are flooding-related road repair costs defined in the OIA-9194 request?
+None
+Seed: request for pothole repair cost information
+Seed: funding for road maintenance
+Seed: committee managing the Kopa Hill Road repair process
+Seed: Costs
+[request for pothole repair cost information]: sections 18A and 18B of the Act --[APPLIES_TO]-> request for pothole repair cost information 0.8560464382171631
+[request for pothole repair cost information]: request for pothole repair cost information --[SUBJECT_TO]-> sections 18A and 18B of the Act 0.8622651696205139
+[request for pothole repair cost information]: New Zealand Transport Agency --[CONSIDERS]-> request for pothole repair cost information 0.8621183633804321
+[request for pothole repair cost information]: New Zealand Transport Agency --[REFUSES]-> request for pothole repair cost information 0.8198597431182861
+[request for pothole repair cost information]: section 18(f) of the Act --[APPLIES_TO]-> request for pothole repair cost information 0.8645605444908142
+[request for pothole repair cost information]: request for pothole repair cost information --[SUBJECT_TO]-> section 18(f) of the Act 0.8684461116790771
+[funding for road maintenance]: New Zealand Transport Agency --[APPROVES]-> funding for road maintenance 0.8302812576293945
+[funding for road maintenance]: New Zealand Transport Agency --[PROVIDES]-> funding for road maintenance 0.8505431413650513
+[funding for road maintenance]: funding for road maintenance --[FOR]-> State Highway 1 0.8564450740814209
+[funding for road maintenance]: Waka Kotahi NZ Transport Agency --[APPROVES]-> funding for road maintenance 0.8042647242546082
+[funding for road maintenance]: funding for road maintenance --[ASSOCIATED_WITH]-> State Highway 1 0.8631728887557983
+[funding for road maintenance]: New Zealand Transport Agency --[APPROVED]-> funding for road maintenance 0.8341097235679626
+[committee managing the Kopa Hill Road repair process]: committee managing the Kopa Hill Road repair process --[MANAGES]-> New Zealand Transport Agency 0.8184638619422913
+[committee managing the Kopa Hill Road repair process]: New Zealand Transport Agency --[MANAGES]-> committee managing the Kopa Hill Road repair process 0.8115351796150208
+[Costs]: Costs --[IS_RECORDABLE]-> asset management system 0.8039313554763794

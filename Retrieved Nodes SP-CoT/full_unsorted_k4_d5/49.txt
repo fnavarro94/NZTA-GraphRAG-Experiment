@@ -1,0 +1,36 @@
+In what year did the construction of the Raurimu Spiral, a significant engineering feature of the key transport corridor in the country that is critical for freight and passenger movement and runs through the North Island, get completed?
+None
+Seed: Key railway corridor
+Seed: Both passenger and freight transport across the cook strait
+Seed: Transport link between wellington and northern regions of north island
+Seed: Raurimu spiral
+[Key railway corridor]: North island main trunk line --[Is]-> Key railway corridor 0.8684636354446411
+[Key railway corridor]: North island main trunk line --[Focus]-> Improve efficiency 0.8005486130714417
+[Key railway corridor]: North island main trunk railway --[Upgraded]-> Improve efficiency 0.8116190433502197
+[Key railway corridor]: North island main trunk railway --[Supports]-> Tourism 0.8322222232818604
+[Key railway corridor]: North island main trunk railway --[Supports]-> Industry 0.8279069066047668
+[Key railway corridor]: North island main trunk railway --[Holds]-> Efficiency 0.8080254793167114
+[Key railway corridor]: Tms --[Drives]-> Efficiency 0.6990602016448975
+[Key railway corridor]: Tms --[Enhances]-> Efficiency 0.6840096712112427
+[Key railway corridor]: Auckland city rail link --[Improves]-> Efficiency 0.7652127742767334
+[Key railway corridor]: Vehicle fleet optimization --[Improve]-> Efficiency 0.7333765625953674
+[Key railway corridor]: Ruei --[Aimed at]-> Efficiency 0.6987994909286499
+[Key railway corridor]: Vehicle technology advancements --[Enhanced]-> Efficiency 0.7311911582946777
+[Key railway corridor]: Smart mobility solutions --[Enhance]-> Efficiency 0.717360258102417
+[Key railway corridor]: Intelligent transport systems --[Enhance]-> Efficiency 0.7396991848945618
+[Key railway corridor]: Road maintenance strategies --[Ensure]-> Efficiency 0.7366736531257629
+[Key railway corridor]: North island main trunk railway --[Fosters]-> Movement of people 0.8419544696807861
+[Key railway corridor]: Kiwirail --[Facilitates]-> Movement of people 0.8033869862556458
+[Key railway corridor]: North island main trunk railway --[Holds]-> Vital link 0.8283176422119141
+[Key railway corridor]: Hamilton --[Is]-> Vital link 0.7202336192131042
+[Key railway corridor]: North island main trunk railway --[Features]-> Makatote viaduct 0.8318045735359192
+[Key railway corridor]: North island main trunk line --[Features]-> Makatote viaduct 0.8248397707939148
+[Key railway corridor]: North island main trunk railway --[Features]-> Hapuakohe viaduct 0.8436868786811829
+[Key railway corridor]: North island main trunk railway --[Upgraded]-> Improve safety 0.8118180632591248
+[Key railway corridor]: Electric and autonomous vehicles --[Potential]-> Improve safety 0.7224533557891846
+[Key railway corridor]: North island main trunk railway --[Holds]-> Sustainability 0.8304272294044495
+[Key railway corridor]: Auckland ferry network --[Commitment to]-> Sustainability 0.8126695156097412
+[Key railway corridor]: Wellington public transport plan --[Objectives include]-> Sustainability 0.7760903239250183
+[Key railway corridor]: North island main trunk line --[Enhances]-> Sustainability 0.8363937139511108
+[Key railway corridor]: Auckland airport --[Committed]-> Sustainability 0.7851566076278687
+[Key railway corridor]: Kiwirail group --[Prioritizes]-> Sustainability 0.7779708504676819

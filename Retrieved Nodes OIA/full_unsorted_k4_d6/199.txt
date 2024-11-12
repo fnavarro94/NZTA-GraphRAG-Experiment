@@ -1,0 +1,36 @@
+How did the number of direct reports to the NZTA Chief Executive change from 2014 to 2016?
+None
+Seed: Annual Reports
+Seed: Annual Monitoring Report 2020
+Seed: resignations by year since 2014
+Seed: Chief Financial Officer
+[Annual Reports]: Waka Kotahi --[PUBLISHES]-> Annual Reports 0.8086501955986023
+[Annual Reports]: Response --[CONTAINS]-> Waka Kotahi 0.7506688833236694
+[Annual Reports]: Waka Kotahi --[PUBLISHES]-> Response 0.7597728371620178
+[Annual Reports]: response --[CONTAINS]-> Waka Kotahi 0.7444789409637451
+[Annual Reports]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.810771644115448
+[Annual Reports]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7796506285667419
+[Annual Reports]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.7778118252754211
+[Annual Reports]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.7706154584884644
+[Annual Reports]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> list of LGWM construction contracts 0.756932258605957
+[Annual Reports]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> public transport fare policy review 0.7756373286247253
+[Annual Reports]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.7754281759262085
+[Annual Reports]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.7858032584190369
+[Annual Reports]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.7653026580810547
+[Annual Reports]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.7855900526046753
+[Annual Reports]: Waka Kotahi NZ Transport Agency --[FAX]-> F 64 4 894 6100 0.7671166658401489
+[Annual Reports]: Andrew Knackstedt --[CONTACT]-> Waka Kotahi NZ Transport Agency 0.7800261974334717
+[Annual Reports]: Waka Kotahi NZ Transport Agency --[CONTACT]-> T 64 4 894 5400 0.7650763988494873
+[Annual Reports]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7815832495689392
+[Annual Reports]: Chris Marshall --[REQUESTS]-> Waka Kotahi NZ Transport Agency 0.7709653377532959
+[Annual Reports]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.8051363229751587
+[Annual Reports]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.7728754878044128
+[Annual Reports]: Waka Kotahi NZ Transport Agency --[ANNOUNCED]-> Road to Zero 0.7874746322631836
+[Annual Reports]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.7930399179458618
+[Annual Reports]: Road to Zero --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.7925878167152405
+[Annual Reports]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.7853034734725952
+[Annual Reports]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7864092588424683
+[Annual Reports]: New Zealand --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7976835370063782
+[Annual Reports]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.7913464307785034
+[Annual Reports]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7570750713348389
+[Annual Reports]: www.nzta.govt.nz --[OF]-> Waka Kotahi NZ Transport Agency 0.8141132593154907

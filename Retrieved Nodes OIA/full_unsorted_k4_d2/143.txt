@@ -1,0 +1,14 @@
+How is the number of lives saved from Road to Zero investments calculated?
+None
+Seed: zero road deaths by 2050
+Seed: Road to Zero – Road safety promotion
+Seed: total amount approved for investment
+Seed: Road to Zero – Safety infrastructure
+[zero road deaths by 2050]: Sweden --[TARGETS]-> zero road deaths by 2050 0.8161327242851257
+[zero road deaths by 2050]: Sweden --[ACHIEVED]-> 50 percent reduction in deaths and serious injuries between 2007 and 2020 0.7667937874794006
+[zero road deaths by 2050]: Sweden --[ADOPTED]-> Vision Zero 0.784661591053009
+[Road to Zero – Road safety promotion]: Road to Zero – Road safety promotion --[INVESTMENT]-> 36.8 million 0.8762533664703369
+[Road to Zero – Road safety promotion]: Road to Zero – Road safety promotion --[INVESTMENT]-> 32.1 million 0.8760060667991638
+[total amount approved for investment]: NLTP --[PROVIDES]-> total amount approved for investment 0.7992339134216309
+[Road to Zero – Safety infrastructure]: Road to Zero – Safety infrastructure --[INVESTMENT]-> 278 million 0.8604328632354736
+[Road to Zero – Safety infrastructure]: Road to Zero – Safety infrastructure --[INVESTMENT]-> 134.1 million 0.8747742176055908

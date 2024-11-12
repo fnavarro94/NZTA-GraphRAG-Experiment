@@ -1,0 +1,36 @@
+How does the proportion of 80km/h zone length compare to the 100km/h zone length on SH16?
+None
+Seed: comparing the number of accidents under the 100km speed limit versus the current 80km speed rate
+Seed: annual accident rate on SH16
+Seed: 100M
+Seed: Discuss this reply with the NZ Transport Agency
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[INTERESTED_IN]-> comparing the number of accidents under the 100km speed limit versus the current 80km speed rate 0.8331906795501709
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[EMAILS]-> NZ Transport Agency 0.7453160285949707
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: NZ Transport Agency --[ASSOCIATED]-> Andrew Knackstedt 0.7352811694145203
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Andrew Knackstedt --[ASSOCIATED]-> NZ Transport Agency 0.746031641960144
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: NZ Transport Agency --[ASSOCIATED]-> oia-4596 0.7705804109573364
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: NZ Transport Agency --[ANTICIPATE]-> work on the payment option 0.7307735681533813
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: oia-4596 --[ASSOCIATED]-> NZ Transport Agency 0.7660490274429321
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: NZ Transport Agency --[REVIEWS]-> risk rating 0.765263557434082
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: risk rating --[REVIEWED_BY]-> NZ Transport Agency 0.7695193886756897
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: NZ Transport Agency --[RESPONSIBLE_FOR]-> risk rating 0.7590855360031128
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: NZ Transport Agency --[CONDUCTS]-> vehicle inspection 0.755450427532196
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: vehicle inspection --[CONDUCTED_BY]-> NZ Transport Agency 0.7646782994270325
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: risk rating --[ASSIGNED_BY]-> NZ Transport Agency 0.7653471231460571
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: NZ Transport Agency --[DISCUSS]-> Paul Giles 0.7477672696113586
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Letter --[DISCUSS]-> NZ Transport Agency 0.7633708119392395
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: NZ Transport Agency --[PUBLISHES]-> Response to OIA Request 0.7623074054718018
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: NZ Transport Agency --[ADVERTISES]-> Road Safety Campaigns 0.7441901564598083
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: crash data --[RELATES_TO]-> NZ Transport Agency 0.7877852916717529
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: NZ Transport Agency --[PROVIDES]-> response to the request 0.7652018070220947
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: questions and responses --[FROM]-> NZ Transport Agency 0.7927862405776978
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: full and correct crash records --[AVAILABLE]-> NZ Transport Agency 0.7737982869148254
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: NZ Transport Agency --[DECLINE]-> summary of the visiting drivers survey 0.7547620534896851
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: NZ Transport Agency --[PROACTIVELY_RELEASED]-> Waka Kotahi 0.7534851431846619
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Waka Kotahi --[PROACTIVELY_RELEASED]-> NZ Transport Agency 0.7449067831039429
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Kane Patena --[SIGNED]-> NZ Transport Agency 0.6912885904312134
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: NZ Transport Agency --[DISCUSS]-> Kalpana Narsi-Brown 0.7307138442993164
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Kane Patena --[DISCUSS]-> NZ Transport Agency 0.7141202688217163
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Georgina Campbell --[REQUESTS]-> NZ Transport Agency 0.7343594431877136
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: NZ Transport Agency --[PROVIDES]-> 23 documents 0.7645887136459351
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: NZ Transport Agency --[DOES_NOT]-> support the Agency Approach 0.7503653764724731

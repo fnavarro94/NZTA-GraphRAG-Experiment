@@ -1,0 +1,34 @@
+What international agreement does the program, established in 2010, which requires periodic testing of older vehicles to ensure they meet emissions standards throughout their operational life, align with to help limit global warming and reduce carbon emissions?
+None
+Seed: Vehicles meet specific emissions standards
+Seed: International agreements
+Seed: Paris agreement
+Seed: Commitment to reducing carbon emissions
+[Vehicles meet specific emissions standards]: Vehicle emissions regulations --[Shaped by]-> International agreements 0.8741125464439392
+[Vehicles meet specific emissions standards]: Vehicles --[Must meet]-> Emissions standards 0.8580855131149292
+[Vehicles meet specific emissions standards]: Vehicle import regulations --[Apply to]-> Emissions 0.8420361876487732
+[Vehicles meet specific emissions standards]: Nzta --[Ensures]-> Vehicles meet specific emissions standards 0.8418089151382446
+[Vehicles meet specific emissions standards]: Vehicle import regulations --[Require]-> Compliance with emissions standards 0.840793251991272
+[Vehicles meet specific emissions standards]: Vehicle import regulations --[Require]-> Emissions standards 0.8397294282913208
+[Vehicles meet specific emissions standards]: Vehicle maintenance standards --[Aim to]-> Reduce environmental impact 0.8347881436347961
+[International agreements]: Vehicle exhaust emissions testing programme --[Aligns with]-> Paris agreement 0.8780202865600586
+[International agreements]: Vehicle emissions regulations --[Shaped by]-> International agreements 0.8741125464439392
+[International agreements]: Vehicle exhaust emissions testing programme --[Established]-> 2010 0.8711043000221252
+[International agreements]: Vehicle exhaust emissions testing programme --[Aligns with]-> International standards 0.8700082898139954
+[International agreements]: Vehicle exhaust emissions testing programme --[Mandates]-> Periodic testing of older vehicles 0.8684349656105042
+[International agreements]: Vehicles --[Must meet]-> Emissions standards 0.8580855131149292
+[International agreements]: Vehicle exhaust emissions testing programme --[Ensures]-> Vehicles continue to meet emissions standards 0.8567639589309692
+[Paris agreement]: Vehicle exhaust emissions testing programme --[Aligns with]-> Paris agreement 0.8780202865600586
+[Paris agreement]: Vehicle exhaust emissions testing programme --[Established]-> 2010 0.8711043000221252
+[Paris agreement]: Vehicle exhaust emissions testing programme --[Aligns with]-> International standards 0.8700082898139954
+[Paris agreement]: Vehicle exhaust emissions testing programme --[Mandates]-> Periodic testing of older vehicles 0.8684349656105042
+[Paris agreement]: Vehicle exhaust emissions testing programme --[Ensures]-> Vehicles continue to meet emissions standards 0.8567639589309692
+[Paris agreement]: Vehicle exhaust emissions testing programme --[Is]-> Regulatory initiative 0.8507691025733948
+[Paris agreement]: Vehicle exhaust emissions testing programme --[Has]-> Objectives 0.8499549627304077
+[Commitment to reducing carbon emissions]: Vehicle exhaust emissions testing programme --[Aligns with]-> Paris agreement 0.8780202865600586
+[Commitment to reducing carbon emissions]: Vehicle emissions regulations --[Shaped by]-> International agreements 0.8741125464439392
+[Commitment to reducing carbon emissions]: Vehicle exhaust emissions testing programme --[Established]-> 2010 0.8711043000221252
+[Commitment to reducing carbon emissions]: Vehicle exhaust emissions testing programme --[Aligns with]-> International standards 0.8700082898139954
+[Commitment to reducing carbon emissions]: Vehicle exhaust emissions testing programme --[Mandates]-> Periodic testing of older vehicles 0.8684349656105042
+[Commitment to reducing carbon emissions]: Vehicles --[Must meet]-> Emissions standards 0.8580855131149292
+[Commitment to reducing carbon emissions]: Vehicle exhaust emissions testing programme --[Ensures]-> Vehicles continue to meet emissions standards 0.8567639589309692

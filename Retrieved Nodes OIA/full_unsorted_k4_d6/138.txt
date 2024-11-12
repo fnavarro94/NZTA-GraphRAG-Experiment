@@ -1,0 +1,36 @@
+Why were the amounts of the payments made to WGP withheld?
+None
+Seed: reason for withholding
+Seed: amounts of payments
+Seed: Some information has been withheld under section 9(2)(f)(iv)
+Seed: Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)
+[reason for withholding]: New Zealand Transport Agency --[PROVIDES]-> reason for withholding 0.8481088876724243
+[reason for withholding]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7539439797401428
+[reason for withholding]: New Zealand Transport Agency --[BASED]-> Wellington 0.7615920305252075
+[reason for withholding]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7584842443466187
+[reason for withholding]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.7543155550956726
+[reason for withholding]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7556266188621521
+[reason for withholding]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7368078827857971
+[reason for withholding]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7445993423461914
+[reason for withholding]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7476462125778198
+[reason for withholding]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7631700038909912
+[reason for withholding]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7582964897155762
+[reason for withholding]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7738785743713379
+[reason for withholding]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7803410291671753
+[reason for withholding]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7741476893424988
+[reason for withholding]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7703965902328491
+[reason for withholding]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7703186869621277
+[reason for withholding]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7601350545883179
+[reason for withholding]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7905396223068237
+[reason for withholding]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7936077117919922
+[reason for withholding]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7657488584518433
+[reason for withholding]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7618164420127869
+[reason for withholding]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7898198366165161
+[reason for withholding]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7676363587379456
+[reason for withholding]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7903622388839722
+[reason for withholding]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7858330607414246
+[reason for withholding]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.793704092502594
+[reason for withholding]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7604712247848511
+[reason for withholding]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7868542671203613
+[reason for withholding]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7819262742996216
+[reason for withholding]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7660709619522095

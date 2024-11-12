@@ -1,0 +1,29 @@
+What is the purpose of the "Mixed? Don't Drive" campaign by Waka Kotahi?
+None
+Seed: Mixed? Don’t Drive campaign
+Seed: Waka Kotahi policy
+Seed: Waka Kotahi N Z Transport Agency
+Seed: Waka Kotahi Board
+[Mixed? Don’t Drive campaign]: Mixed? Don’t Drive campaign --[MEASURES]-> ongoing advertising tracking 0.8297359943389893
+[Mixed? Don’t Drive campaign]: ongoing advertising tracking --[TRACKS]-> public attitude 0.7411656379699707
+[Waka Kotahi policy]: Waka Kotahi --[ENGAGES]-> community 0.8487256765365601
+[Waka Kotahi policy]: Waka Kotahi --[SUPPORTS]-> Road to Zero strategy 0.8479807376861572
+[Waka Kotahi policy]: Waka Kotahi --[PROVIDES]-> public interest 0.8432149887084961
+[Waka Kotahi policy]: Waka Kotahi --[MONITORS]-> advertising campaigns 0.8385233879089355
+[Waka Kotahi policy]: Waka Kotahi --[WORKING_WITH]-> development of the next Road to Zero Action Plan 0.8375738263130188
+[Waka Kotahi policy]: New Zealand Transport Agency --[POLICY]-> Waka Kotahi policy 0.8372913599014282
+[Waka Kotahi policy]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8355166912078857
+[Waka Kotahi N Z Transport Agency]: Data --[PROVIDED]-> Waka Kotahi N Z Transport Agency 0.8006901741027832
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.7910289168357849
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.7722795009613037
+[Waka Kotahi N Z Transport Agency]: New Zealand Transport Agency Waka Kotahi --[MAINTAINS]-> Crash Analysis System 0.7718586921691895
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINS]-> Waka Kotahi N Z Transport Agency 0.7674852609634399
+[Waka Kotahi N Z Transport Agency]: Drivers of motorbikes --[EXCLUDED]-> Data 0.7550250887870789
+[Waka Kotahi N Z Transport Agency]: Data --[IS]-> Standard condition of drivers under 20 subject to zero alcohol level are not included 0.7533881664276123
+[Waka Kotahi Board]: Waka Kotahi --[COLLABORATES_WITH]-> Auckland Transport 0.8264671564102173
+[Waka Kotahi Board]: Waka Kotahi Board --[SIGNED_OFF]-> Auckland Transport 0.778784990310669
+[Waka Kotahi Board]: Auckland Transport --[SIGNED_OFF]-> Waka Kotahi Board 0.7777014374732971
+[Waka Kotahi Board]: Auckland Transport --[CONTRIBUTED]-> No 0.7619995474815369
+[Waka Kotahi Board]: Auckland Transport --[RESPONSIBLE_FOR]-> AT Mobile app 0.7588194608688354
+[Waka Kotahi Board]: Auckland Transport --[DEVELOPS]-> AT Mobile app 0.7539239525794983
+[Waka Kotahi Board]: public transport --[PROVIDED_BY]-> Auckland Transport 0.7471430897712708

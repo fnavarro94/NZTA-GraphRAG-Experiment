@@ -1,0 +1,36 @@
+What region does the Northern Motorway from the country where an initiative aiming to achieve a significant reduction in road deaths and serious injuries by promoting a "Safe System" approach to road safety is implemented to reduce road traffic injuries and fatalities provide access to?
+None
+Seed: Crucial role in promoting road safety
+Seed: Significant shift in new zealand's approach to road safety
+Seed: Commitment to reducing road traffic injuries and fatalities
+Seed: Achieve significant reduction in road deaths and serious injuries
+[Crucial role in promoting road safety]: Education and awareness programs --[Play]-> Crucial role in promoting road safety 0.8559138774871826
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about dangers of distracted driving 0.806066632270813
+[Crucial role in promoting road safety]: Education and awareness programs --[Include]-> Belt up campaign 0.7600776553153992
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about safe driving practices 0.8355350494384766
+[Crucial role in promoting road safety]: Education and awareness programs --[Include]-> Road safety week 0.8373737931251526
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about importance of seatbelt use 0.8005192279815674
+[Significant shift in new zealand's approach to road safety]: Safer journeys strategy --[Marked]-> Significant shift in new zealand's approach to road safety 0.8583922982215881
+[Significant shift in new zealand's approach to road safety]: Safer journeys strategy --[Focused on]-> Safer vehicles 0.8518428802490234
+[Significant shift in new zealand's approach to road safety]: Road transport safety --[Focus on]-> Safer vehicles 0.854875385761261
+[Significant shift in new zealand's approach to road safety]: Road transport safety --[Focus on]-> Safer roads 0.8684189319610596
+[Significant shift in new zealand's approach to road safety]: Road transport safety --[Focus on]-> Safer road users 0.8595327734947205
+[Significant shift in new zealand's approach to road safety]: Road transport safety --[Governed by]-> Land transport act 1998 0.8456780314445496
+[Significant shift in new zealand's approach to road safety]: Vienna convention on road traffic --[Reflected in]-> Land transport act 1998 0.8062195777893066
+[Significant shift in new zealand's approach to road safety]: Land transport act 1998 --[Establishes]-> Legal framework for enforcement of road rules 0.8115216493606567
+[Significant shift in new zealand's approach to road safety]: Land transport act 1998 --[Establishes]-> Legal framework for registration of vehicles 0.785033106803894
+[Significant shift in new zealand's approach to road safety]: Road safety legislation --[Governed by]-> Land transport act 1998 0.8445854783058167
+[Significant shift in new zealand's approach to road safety]: Land transport act 1998 --[Establishes]-> Legal framework for licensing of drivers 0.7909104824066162
+[Significant shift in new zealand's approach to road safety]: Land transport act 1998 --[Complemented by]-> Land transport (road user 0.8030484318733215
+[Significant shift in new zealand's approach to road safety]: Vehicle maintenance standards --[Are set forth in]-> Land transport act 1998 0.7746707201004028
+[Significant shift in new zealand's approach to road safety]: Land transport act 1998 --[Provides]-> Legislative framework for road safety initiatives 0.8548099994659424
+[Significant shift in new zealand's approach to road safety]: Land transport act 1998 --[Provides]-> Legal foundation 0.7882735729217529
+[Significant shift in new zealand's approach to road safety]: New zealand --[Has]-> Land transport act 1998 0.7936865091323853
+[Significant shift in new zealand's approach to road safety]: Land transport act 1998 --[Outlines]-> Driver licensing 0.7805426716804504
+[Significant shift in new zealand's approach to road safety]: Land transport act 1998 --[Outlines]-> Rules for vehicle operation 0.7949278354644775
+[Significant shift in new zealand's approach to road safety]: Land transport act 1998 --[Outlines]-> Road safety 0.834521472454071
+[Significant shift in new zealand's approach to road safety]: Vehicle safety standards --[Are overseen by]-> Land transport act 1998 0.815521240234375
+[Significant shift in new zealand's approach to road safety]: New zealand --[Governed by]-> Land transport act 1998 0.7854604721069336
+[Significant shift in new zealand's approach to road safety]: Land transport act 1998 --[Complemented by]-> Resource management act 1991 0.7911476492881775
+[Significant shift in new zealand's approach to road safety]: Land transport act 1998 --[Provides]-> Foundation for vehicle standards and compliance 0.7879458665847778
+[Significant shift in new zealand's approach to road safety]: Safer journeys strategy --[Focused on]-> Safer roads and roadsides 0.870535135269165

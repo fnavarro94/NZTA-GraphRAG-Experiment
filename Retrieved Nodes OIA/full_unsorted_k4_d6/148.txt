@@ -1,0 +1,36 @@
+Where can data about daily traffic volumes on Hewletts Road be found?
+None
+Seed: Open Data portal for information about daily traffic volumes on Hewletts Road
+Seed: traffic counter sites on Hewletts Road
+Seed: Road Traffic Volumes
+Seed: traffic on the roads
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.908386766910553
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7891364097595215
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand Transport Agency --[BASED]-> Wellington 0.8047282099723816
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8087242841720581
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7926117777824402
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.8012871146202087
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.7770920991897583
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7829983234405518
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8091233968734741
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7935537099838257
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.8016754388809204
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7850542664527893
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7763092517852783
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7830124497413635
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7884001135826111
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Wellington --[CONTAINS]-> Private Bag 6995 0.783606231212616
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8003132939338684
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Golden Mile --[LOCATED]-> Wellington 0.7856370210647583
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: State Highway 1 --[LOCATED_IN]-> Wellington 0.8196960091590881
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: road safety --[ENHANCED_BY]-> State Highway 1 0.7969980239868164
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: State Highway 1 --[REPAIRS]-> potholes 0.7754715085029602
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Road Safety Initiatives --[IMPROVES]-> State Highway 1 0.7813377380371094
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: road maintenance --[OVERDUE]-> State Highway 1 0.8050174713134766
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: State Highway 1 --[OVERDUE]-> road maintenance 0.8092838525772095
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: State Highway 1 --[IN]-> Bay of Plenty 0.8037446737289429
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: State Highway 1 --[IMPROVES]-> safety 0.779495358467102
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: 100M --[ALLOCATED_FOR]-> State Highway 1 0.8079771995544434
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: State Highway 1 --[IS_PART_OF]-> New Zealand 0.8039283752441406
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: road maintenance --[ASSOCIATED_WITH]-> State Highway 1 0.812391996383667
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: funding for road maintenance --[FOR]-> State Highway 1 0.8057517409324646

@@ -1,0 +1,34 @@
+Since when does the NZ Transport Agency have records of directives or requests to process OIA requests with urgency?
+None
+Seed: information about the NZ Transport Agency's Information Technology (IT) projects
+Seed: New Zealand Transport Agency
+Seed: reply with NZ Transport Agency Waka Kotahi (NZTA)
+Seed: information to New Zealand Transport Agency Waka Kotahi
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[DISCUSSES]-> OIA request 0.9307509064674377
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[PROVIDES]-> response to OIA request 0.9205774068832397
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA requests 0.9205530881881714
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA request 0.9197360277175903
+[information about the NZ Transport Agency's Information Technology (IT) projects]: OIA-8452 --[ANSWERED_BY]-> New Zealand Transport Agency 0.9192745685577393
+[information about the NZ Transport Agency's Information Technology (IT) projects]: OIA request --[SUBMITTED_TO]-> New Zealand Transport Agency 0.917543888092041
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[RESPONDS]-> OIA-10752 0.9163401126861572
+[New Zealand Transport Agency]: NZ Transport Agency --[PUBLISHES]-> Response to OIA Request 0.9309089779853821
+[New Zealand Transport Agency]: New Zealand Transport Agency --[DISCUSSES]-> OIA request 0.9307509064674377
+[New Zealand Transport Agency]: New Zealand Transport Agency --[PROVIDES]-> response to OIA request 0.9205774068832397
+[New Zealand Transport Agency]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA requests 0.9205530881881714
+[New Zealand Transport Agency]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA request 0.9197360277175903
+[New Zealand Transport Agency]: OIA-8452 --[ANSWERED_BY]-> New Zealand Transport Agency 0.9192745685577393
+[New Zealand Transport Agency]: OIA request --[SUBMITTED_TO]-> New Zealand Transport Agency 0.917543888092041
+[reply with NZ Transport Agency Waka Kotahi (NZTA)]: New Zealand Transport Agency --[DISCUSSES]-> OIA request 0.9307509064674377
+[reply with NZ Transport Agency Waka Kotahi (NZTA)]: New Zealand Transport Agency --[PROVIDES]-> response to OIA request 0.9205774068832397
+[reply with NZ Transport Agency Waka Kotahi (NZTA)]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA requests 0.9205530881881714
+[reply with NZ Transport Agency Waka Kotahi (NZTA)]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA request 0.9197360277175903
+[reply with NZ Transport Agency Waka Kotahi (NZTA)]: OIA-8452 --[ANSWERED_BY]-> New Zealand Transport Agency 0.9192745685577393
+[reply with NZ Transport Agency Waka Kotahi (NZTA)]: OIA request --[SUBMITTED_TO]-> New Zealand Transport Agency 0.917543888092041
+[reply with NZ Transport Agency Waka Kotahi (NZTA)]: New Zealand Transport Agency --[RESPONDS]-> OIA-10752 0.9163401126861572
+[information to New Zealand Transport Agency Waka Kotahi]: New Zealand Transport Agency --[DISCUSSES]-> OIA request 0.9307509064674377
+[information to New Zealand Transport Agency Waka Kotahi]: New Zealand Transport Agency --[PROVIDES]-> response to OIA request 0.9205774068832397
+[information to New Zealand Transport Agency Waka Kotahi]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA requests 0.9205530881881714
+[information to New Zealand Transport Agency Waka Kotahi]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA request 0.9197360277175903
+[information to New Zealand Transport Agency Waka Kotahi]: OIA-8452 --[ANSWERED_BY]-> New Zealand Transport Agency 0.9192745685577393
+[information to New Zealand Transport Agency Waka Kotahi]: OIA request --[SUBMITTED_TO]-> New Zealand Transport Agency 0.917543888092041
+[information to New Zealand Transport Agency Waka Kotahi]: New Zealand Transport Agency --[RESPONDS]-> OIA-10752 0.9163401126861572

@@ -1,0 +1,36 @@
+What are the limitations of the data recorded in the Crash Analysis System (CAS) for non-fatal crashes?
+None
+Seed: figures on drivers involved in fatal crashes
+Seed: Guide for the interpretation of coded crash reports
+Seed: 1 fatal crash, 3 serious crashes, 8 minor crashes, 12 non-injury crashes, 24 total crashes
+Seed: Crash Analysis System
+[figures on drivers involved in fatal crashes]: AA --[PROVIDES]-> figures on drivers involved in fatal crashes 0.8498460054397583
+[Guide for the interpretation of coded crash reports]: Guide for the interpretation of coded crash reports --[AVAILABLE_AT]-> https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf 0.8423925638198853
+[Guide for the interpretation of coded crash reports]: https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf --[ACCESSIBLE]-> online 0.8480107188224792
+[Guide for the interpretation of coded crash reports]: Transport Agency --[PROVIDES]-> Guide for the interpretation of coded crash reports 0.8453308343887329
+[Guide for the interpretation of coded crash reports]: www.ombudsman.parliament.nz --[PROVIDES]-> Transport Agency 0.7577100992202759
+[Guide for the interpretation of coded crash reports]: Transport Agency --[PROVIDES]-> summary of survey results 0.8052492141723633
+[Guide for the interpretation of coded crash reports]: Transport Agency --[PROVIDES]-> summary of exit interview results 0.791396975517273
+[Guide for the interpretation of coded crash reports]: Transport Agency --[PROVIDES]-> summary of engagement survey results 0.7867287397384644
+[Guide for the interpretation of coded crash reports]: Transport Agency --[PROVIDES]-> contact details for the Ombudsman 0.7528185248374939
+[Guide for the interpretation of coded crash reports]: Transport Agency --[PROVIDES]-> EAP 0.7754924893379211
+[Guide for the interpretation of coded crash reports]: Transport Agency --[PROVIDES]-> response to this request on our website 0.7786243557929993
+[Guide for the interpretation of coded crash reports]: Transport Agency --[PROVIDES]-> summary of exit interview results since March 2016 0.7622145414352417
+[Guide for the interpretation of coded crash reports]: Transport Agency --[PROVIDES]-> Contact Details 0.776893138885498
+[Guide for the interpretation of coded crash reports]: Transport Agency --[PROVIDES]-> address of the Office of the Ombudsmen 0.7159254550933838
+[Guide for the interpretation of coded crash reports]: Transport Agency --[PROVIDES]-> contact details 0.776893138885498
+[Guide for the interpretation of coded crash reports]: Transport Agency --[PROVIDES]-> reply 0.779323935508728
+[Guide for the interpretation of coded crash reports]: Transport Agency --[WITHHOLDS]-> exact copies of staff exit interview notes 0.7563271522521973
+[Guide for the interpretation of coded crash reports]: Transport Agency --[WITHHOLDS]-> information 0.7888174653053284
+[Guide for the interpretation of coded crash reports]: Kevin Reid --[DISCUSS]-> Transport Agency 0.7507483959197998
+[Guide for the interpretation of coded crash reports]: Transport Agency --[DISCUSS]-> HVSCs 0.7896673679351807
+[Guide for the interpretation of coded crash reports]: Andrew Knackstedt --[CONTACT]-> Transport Agency 0.7536895275115967
+[Guide for the interpretation of coded crash reports]: Transport Agency --[CONTACT]-> Andrew Knackstedt 0.7559771537780762
+[Guide for the interpretation of coded crash reports]: Transport Agency --[PUBLISHES]-> response to this request on our website 0.7836438417434692
+[Guide for the interpretation of coded crash reports]: Transport Agency --[MAINTAINS]-> database 0.8011685609817505
+[Guide for the interpretation of coded crash reports]: Transport Agency --[COLLABORATES_WITH]-> Wellington City Council 0.7275687456130981
+[Guide for the interpretation of coded crash reports]: Andrew Knackstedt --[EMPLOYER]-> Transport Agency 0.7372021675109863
+[Guide for the interpretation of coded crash reports]: OIA-6026 --[REFUSED]-> Transport Agency 0.7449154257774353
+[Guide for the interpretation of coded crash reports]: Transport Agency --[REFUSED]-> section 18(e) of the Act 0.7552260160446167
+[Guide for the interpretation of coded crash reports]: Transport Agency --[REFUSED]-> information request 0.7905741930007935
+[Guide for the interpretation of coded crash reports]: Mobility Marketplace --[ESTABLISHED]-> Transport Agency 0.7402663826942444

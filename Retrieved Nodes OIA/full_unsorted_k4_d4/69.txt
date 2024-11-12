@@ -1,0 +1,36 @@
+How many road and street signs were stolen or vandalized in Hamilton over the last three years?
+None
+Seed: road/street signs
+Seed: one crossing near Daniell Street
+Seed: Theft Ex Car (Over $100)
+Seed: one crossing near SH2/Lyon Street/Birdwood Street intersection
+[road/street signs]: road/street signs --[VANDALISED]-> last three years 0.901990532875061
+[road/street signs]: street name signs --[STOLEN]-> last three years 0.8956465125083923
+[road/street signs]: street name signs --[VANDALISED]-> last three years 0.8899542093276978
+[road/street signs]: others --[STOLEN]-> last three years 0.8566558957099915
+[road/street signs]: road/street signs --[STOLEN]-> last three years 0.918391227722168
+[road/street signs]: others --[VANDALISED]-> last three years 0.8568940162658691
+[one crossing near Daniell Street]: Featherston --[RAISED_CROSSINGS]-> one crossing near Daniell Street 0.7939562201499939
+[one crossing near Daniell Street]: Featherston --[RAISED_CROSSINGS]-> staged way over time 0.7594492435455322
+[one crossing near Daniell Street]: Featherston --[RANKING]-> not in the top 200 high risk intersections 0.7659838199615479
+[one crossing near Daniell Street]: Featherston --[RAISED_CROSSINGS]-> five 0.759194016456604
+[one crossing near Daniell Street]: Featherston --[RAISED_CROSSINGS]-> one crossing near SH2/Lyon Street/Birdwood Street intersection 0.7846695780754089
+[one crossing near Daniell Street]: Featherston --[PART_OF]-> New Zealand 0.7619412541389465
+[one crossing near Daniell Street]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7647326588630676
+[one crossing near Daniell Street]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7729842066764832
+[one crossing near Daniell Street]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.765958845615387
+[one crossing near Daniell Street]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7789356708526611
+[one crossing near Daniell Street]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7674975991249084
+[one crossing near Daniell Street]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7660298347473145
+[one crossing near Daniell Street]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7762038707733154
+[one crossing near Daniell Street]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7783948183059692
+[one crossing near Daniell Street]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7719860076904297
+[one crossing near Daniell Street]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7517119646072388
+[one crossing near Daniell Street]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7611854076385498
+[one crossing near Daniell Street]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7633665800094604
+[one crossing near Daniell Street]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7752271294593811
+[one crossing near Daniell Street]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7591834664344788
+[one crossing near Daniell Street]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7692784070968628
+[one crossing near Daniell Street]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7665404677391052
+[one crossing near Daniell Street]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7510637044906616
+[one crossing near Daniell Street]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7808987498283386

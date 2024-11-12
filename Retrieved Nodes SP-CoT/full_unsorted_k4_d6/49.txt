@@ -1,0 +1,36 @@
+In what year did the construction of the Raurimu Spiral, a significant engineering feature of the key transport corridor in the country that is critical for freight and passenger movement and runs through the North Island, get completed?
+None
+Seed: Key railway corridor
+Seed: Both passenger and freight transport across the cook strait
+Seed: Transport link between wellington and northern regions of north island
+Seed: Raurimu spiral
+[Key railway corridor]: North island main trunk line --[Is]-> Key railway corridor 0.8684636354446411
+[Key railway corridor]: North island main trunk line --[Focus]-> Improve efficiency 0.8005486130714417
+[Key railway corridor]: North island main trunk railway --[Upgraded]-> Improve efficiency 0.8116190433502197
+[Key railway corridor]: North island main trunk railway --[Supports]-> Tourism 0.8322222232818604
+[Key railway corridor]: North island main trunk railway --[Supports]-> Industry 0.8279069066047668
+[Key railway corridor]: North island main trunk railway --[Holds]-> Efficiency 0.8080254793167114
+[Key railway corridor]: Tms --[Drives]-> Efficiency 0.6990602016448975
+[Key railway corridor]: Tms --[Integrates with]-> Iot devices 0.7016040086746216
+[Key railway corridor]: Tms --[Improves]-> Customer satisfaction 0.688866376876831
+[Key railway corridor]: Tms --[Requires]-> Investment 0.7021584510803223
+[Key railway corridor]: Tms --[Enhances]-> Decision-making processes 0.6848810315132141
+[Key railway corridor]: Tms --[Leads to]-> Cost savings 0.6864845752716064
+[Key railway corridor]: Tms --[Includes]-> Freight tracking 0.7542632818222046
+[Key railway corridor]: Tms --[Designed for]-> Execution 0.6985073089599609
+[Key railway corridor]: Tms --[Beneficial for]-> Managing logistics 0.7487291097640991
+[Key railway corridor]: Tms --[Includes]-> Performance analytics 0.7001636624336243
+[Key railway corridor]: Tms --[Shaped by]-> Artificial intelligence 0.6887822151184082
+[Key railway corridor]: Tms --[Enhances]-> Effectiveness 0.6852583289146423
+[Key railway corridor]: Tms --[Enables]-> Data-driven decisions 0.6935387253761292
+[Key railway corridor]: Tms --[Automates]-> Routine tasks 0.6860721111297607
+[Key railway corridor]: Tms --[Adoption hindered by]-> Digital maturity 0.6818007230758667
+[Key railway corridor]: Tms --[Provides]-> Real-time data 0.7088401317596436
+[Key railway corridor]: Tms --[Leads to]-> Operational efficiency 0.7044705152511597
+[Key railway corridor]: Tms --[Shapes]-> Future of transport 0.7601101398468018
+[Key railway corridor]: Tms --[Designed for]-> Optimization 0.6946777105331421
+[Key railway corridor]: Tms --[Designed for]-> Planning 0.7212627530097961
+[Key railway corridor]: Tms --[Shaped by]-> Advancements 0.718231737613678
+[Key railway corridor]: Tms --[Manages]-> Fleets 0.7310118079185486
+[Key railway corridor]: Tms --[Reduces]-> Costs 0.6775780320167542
+[Key railway corridor]: Tms --[Is]-> Software solution 0.697227954864502

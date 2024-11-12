@@ -1,0 +1,34 @@
+What is the typical early termination notice period for Let's Get Wellington Moving contracts?
+None
+Seed: clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: Let's Get Wellington Moving
+Seed: information on LGWM construction contracts
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Higgins Wellington --[CONTRACTED_BY]-> New Zealand Transport Agency 0.8600204586982727
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: New Zealand Transport Agency --[BASED]-> Wellington 0.8568458557128906
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Let's Get Wellington Moving --[COLLABORATES_WITH]-> New Zealand Transport Agency 0.852062463760376
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: New Zealand Transport Agency --[CONTACT]-> Wellington 6141 0.8498679399490356
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: New Zealand Transport Agency --[ASSOCIATED]-> Business-as-usual legal advice 0.8490430116653442
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Higgins Wellington --[CONTRACTED]-> New Zealand Transport Agency 0.8486484289169312
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi --[FOLLOWS]-> clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement 0.8482562303543091
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Higgins Wellington --[CONTRACTED_BY]-> New Zealand Transport Agency 0.8600204586982727
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[BASED]-> Wellington 0.8568458557128906
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Let's Get Wellington Moving --[COLLABORATES_WITH]-> New Zealand Transport Agency 0.852062463760376
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[CONTACT]-> Wellington 6141 0.8498679399490356
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[ASSOCIATED]-> Business-as-usual legal advice 0.8490430116653442
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Higgins Wellington --[CONTRACTED]-> New Zealand Transport Agency 0.8486484289169312
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8466311693191528
+[Let's Get Wellington Moving]: Let's Get Wellington Moving --[HAS_COMPONENT]-> Early Delivery Thorndon Quay and Hutt Road 0.8729327917098999
+[Let's Get Wellington Moving]: Let's Get Wellington Moving --[EXTENDED]-> submission period 0.8615013957023621
+[Let's Get Wellington Moving]: Higgins Wellington --[CONTRACTED_BY]-> New Zealand Transport Agency 0.8600204586982727
+[Let's Get Wellington Moving]: New Zealand Transport Agency --[BASED]-> Wellington 0.8568458557128906
+[Let's Get Wellington Moving]: Wellington City Council --[TRANSFERS_REQUEST]-> Waka Kotahi NZ Transport Agency 0.8567559719085693
+[Let's Get Wellington Moving]: Let's Get Wellington Moving --[HAS_COMPONENT]-> Early Delivery Golden Mile 0.8557116985321045
+[Let's Get Wellington Moving]: Let's Get Wellington Moving --[COLLABORATES_WITH]-> New Zealand Transport Agency 0.852062463760376
+[information on LGWM construction contracts]: New Zealand Transport Agency --[BASED]-> Wellington 0.8568458557128906
+[information on LGWM construction contracts]: Wellington City Council --[TRANSFERS_REQUEST]-> Waka Kotahi NZ Transport Agency 0.8567559719085693
+[information on LGWM construction contracts]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8466311693191528
+[information on LGWM construction contracts]: NZ Transport Agency --[LOCATED]-> Wellington 0.8463139533996582
+[information on LGWM construction contracts]: LGWM construction contracts --[ASSOCIATED_WITH]-> Wellington City Council 0.845638632774353
+[information on LGWM construction contracts]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.8449970483779907
+[information on LGWM construction contracts]: Wellington --[PART_OF]-> New Zealand 0.8345078229904175

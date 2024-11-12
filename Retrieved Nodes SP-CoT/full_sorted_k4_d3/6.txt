@@ -1,0 +1,25 @@
+In what year did the Onehunga Line get reintroduced, enhancing the connection between the two locations connected by the first railway line constructed in New Zealand in 1873?
+None
+Seed: First railway line between auckland and onehunga in 1873
+Seed: Onehunga to the wider auckland rail network
+Seed: 1873
+Seed: Ongoing evolution of transport in new zealand
+[First railway line between auckland and onehunga in 1873]: New zealand --[Had]-> First railway line between auckland and onehunga in 1873 0.9465609192848206
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Developing rail network 0.8471730947494507
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Railways 0.8412001132965088
+[First railway line between auckland and onehunga in 1873]: Auckland --[Has]-> Rail network with several lines 0.8382218480110168
+[First railway line between auckland and onehunga in 1873]: New zealand --[Composed of]-> Rail networks 0.8351947069168091
+[First railway line between auckland and onehunga in 1873]: Auckland --[Has]-> Rail network 0.8333912491798401
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Rail transport 0.8331774473190308
+[Onehunga to the wider auckland rail network]: Onehunga line --[Connects]-> Onehunga to the wider auckland rail network 0.8747345805168152
+[Onehunga to the wider auckland rail network]: Onehunga line --[Has]-> Been instrumental in promoting public transport use 0.8333762288093567
+[Onehunga to the wider auckland rail network]: Onehunga line --[Has]-> Been instrumental in alleviating road congestion 0.8332298994064331
+[Onehunga to the wider auckland rail network]: Onehunga line --[Has]-> Been instrumental in reducing travel times for commuters 0.82525634765625
+[1873]: Railway line --[Opened]-> 1873 0.8641853332519531
+[Ongoing evolution of transport in new zealand]: New zealand --[Had]-> First railway line between auckland and onehunga in 1873 0.9465609192848206
+[Ongoing evolution of transport in new zealand]: New zealand --[Has]-> Developing rail network 0.8471730947494507
+[Ongoing evolution of transport in new zealand]: New zealand --[Has]-> Railways 0.8412001132965088
+[Ongoing evolution of transport in new zealand]: Auckland --[Has]-> Rail network with several lines 0.8382218480110168
+[Ongoing evolution of transport in new zealand]: New zealand --[Composed of]-> Rail networks 0.8351947069168091
+[Ongoing evolution of transport in new zealand]: Auckland --[Has]-> Rail network 0.8333912491798401
+[Ongoing evolution of transport in new zealand]: New zealand --[Has]-> Rail transport 0.8331774473190308

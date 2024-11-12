@@ -1,0 +1,36 @@
+How many potential mobile phone use offenses were detected during the hidden texting camera trial?
+None
+Seed: criminal history
+Seed: Attempted Burglary
+Seed: no notifications of offences detected by speed cameras
+Seed: one infringement for failing to comply with the instructions given by a steady red-light signal
+[criminal history]: criminal history --[PART_OF]-> fitness and propriety factors 0.7947542667388916
+[criminal history]: fitness and propriety factors --[SET]-> sections 30C and 30D of the Land Transport Act 1998 0.7244278192520142
+[criminal history]: sections 30C and 30D of the Land Transport Act 1998 --[LINK]-> https://www.nzta.govt.nz/driver-licences/getting-an-endorsement/getting-an-endorsement-pvio/fit-and-proper-person-check-vio-endorsements/ 0.755620539188385
+[criminal history]: fit and proper person assessments --[FORM]-> criminal history 0.7980396747589111
+[criminal history]: Transport Agency --[REQUIRE]-> fit and proper person assessments 0.7448262572288513
+[criminal history]: www.ombudsman.parliament.nz --[PROVIDES]-> Transport Agency 0.7533485889434814
+[criminal history]: www.ombudsman.parliament.nz --[LINKS_TO]-> Ombudsman 0.7628060579299927
+[criminal history]: right to ask the Ombudsman to review --[IS_GRANTED_BY]-> Ombudsman 0.7111703157424927
+[criminal history]: right to ask the Ombudsman to review --[EXERCISED_BY]-> requester 0.7429198622703552
+[criminal history]: section 28 of the Act --[GRANTS]-> right to ask the Ombudsman to review 0.7406560182571411
+[criminal history]: Ombudsman --[REVIEW_REQUEST]-> decision 0.7415746450424194
+[criminal history]: decision --[REFUSES]-> request 0.713135838508606
+[criminal history]: request --[REFUSE]-> decision 0.7347990870475769
+[criminal history]: decision --[REVIEW]-> Ombudsman 0.7495279312133789
+[criminal history]: decision --[REFUSE]-> request 0.7236452698707581
+[criminal history]: decision --[WITHHOLD]-> information 0.7273869514465332
+[criminal history]: Kevin Reid --[REVIEW]-> decision 0.7453179955482483
+[criminal history]: Ombudsman --[REVIEW]-> decision 0.7469319701194763
+[criminal history]: Waka Kotahi --[MAKES]-> decision 0.7043618559837341
+[criminal history]: Ombudsman --[REVIEW]-> decision to withhold information 0.7549097537994385
+[criminal history]: Ombudsman --[PROVIDES]-> New Zealand Transport Agency 0.7245806455612183
+[criminal history]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7215641736984253
+[criminal history]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7284786105155945
+[criminal history]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7270479202270508
+[criminal history]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.722472071647644
+[criminal history]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7189053893089294
+[criminal history]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7159521579742432
+[criminal history]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7237576246261597
+[criminal history]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7279224395751953
+[criminal history]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7487629652023315

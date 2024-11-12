@@ -1,0 +1,25 @@
+In what year did the Onehunga Line get reintroduced, enhancing the connection between the two locations connected by the first railway line constructed in the country in 1873?
+None
+Seed: First railway line between auckland and onehunga in 1873
+Seed: Onehunga to the wider auckland rail network
+Seed: 1873
+Seed: Rich history of rail transport
+[First railway line between auckland and onehunga in 1873]: New zealand --[Had]-> First railway line between auckland and onehunga in 1873 0.9145550727844238
+[First railway line between auckland and onehunga in 1873]: Onehunga --[Has]-> Integration of bus and rail services 0.8458544015884399
+[First railway line between auckland and onehunga in 1873]: Onehunga --[Is]-> Strategically located near major arterial routes 0.8219717144966125
+[First railway line between auckland and onehunga in 1873]: New zealand railways --[Facilitated]-> Movement of goods 0.8213814496994019
+[First railway line between auckland and onehunga in 1873]: Onehunga --[Has]-> Key point for maritime trade 0.8210843801498413
+[First railway line between auckland and onehunga in 1873]: Onehunga --[Is]-> Served by the auckland public transport network 0.8210364580154419
+[First railway line between auckland and onehunga in 1873]: Onehunga --[Was]-> Vital port town 0.820462703704834
+[Onehunga to the wider auckland rail network]: Onehunga line --[Connects]-> Onehunga to the wider auckland rail network 0.847040593624115
+[Onehunga to the wider auckland rail network]: Onehunga line --[Has]-> Been instrumental in alleviating road congestion 0.8463435769081116
+[Onehunga to the wider auckland rail network]: Onehunga line --[Has]-> Been instrumental in promoting public transport use 0.8435794115066528
+[Onehunga to the wider auckland rail network]: Onehunga line --[Has]-> Been instrumental in reducing travel times for commuters 0.8318623304367065
+[1873]: Railway line --[Opened]-> 1873 0.8723945021629333
+[Rich history of rail transport]: New zealand --[Had]-> First railway line between auckland and onehunga in 1873 0.9145550727844238
+[Rich history of rail transport]: New zealand railways --[Facilitated]-> Movement of goods 0.8213814496994019
+[Rich history of rail transport]: Te ara i whiti --[Constructed on]-> Former railway corridor 0.8167054057121277
+[Rich history of rail transport]: North island main trunk railway --[Began]-> 1880s 0.8098545074462891
+[Rich history of rail transport]: North island main trunk railway --[Facilitates]-> Regional connectivity 0.80938321352005
+[Rich history of rail transport]: New zealand --[Has]-> Developing rail network 0.8074407577514648
+[Rich history of rail transport]: Wellington regional rail plan --[Developed in response to]-> Increasing urbanization 0.8045046329498291

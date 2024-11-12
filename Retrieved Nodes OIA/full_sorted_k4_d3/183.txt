@@ -1,0 +1,29 @@
+What is the purpose of the "Mixed? Don't Drive" campaign by Waka Kotahi?
+None
+Seed: Mixed? Don’t Drive campaign
+Seed: Waka Kotahi policy
+Seed: Waka Kotahi N Z Transport Agency
+Seed: Waka Kotahi Board
+[Mixed? Don’t Drive campaign]: Mixed? Don’t Drive campaign --[MEASURES]-> ongoing advertising tracking 0.8297359943389893
+[Mixed? Don’t Drive campaign]: ongoing advertising tracking --[TRACKS]-> public attitude 0.7411656379699707
+[Waka Kotahi policy]: Waka Kotahi --[ENGAGES]-> community 0.8487256765365601
+[Waka Kotahi policy]: Waka Kotahi --[SUPPORTS]-> Road to Zero strategy 0.8479807376861572
+[Waka Kotahi policy]: Waka Kotahi --[PROVIDES]-> public interest 0.8432149887084961
+[Waka Kotahi policy]: Waka Kotahi --[MONITORS]-> advertising campaigns 0.8385233879089355
+[Waka Kotahi policy]: Waka Kotahi --[WORKING_WITH]-> development of the next Road to Zero Action Plan 0.8375738263130188
+[Waka Kotahi policy]: New Zealand Transport Agency --[POLICY]-> Waka Kotahi policy 0.8372913599014282
+[Waka Kotahi policy]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8355166912078857
+[Waka Kotahi N Z Transport Agency]: New Zealand Transport Agency --[POLICY]-> Waka Kotahi policy 0.8372913599014282
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8355166912078857
+[Waka Kotahi N Z Transport Agency]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8354437947273254
+[Waka Kotahi N Z Transport Agency]: Road to Zero --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8319125175476074
+[Waka Kotahi N Z Transport Agency]: NZ Transport Agency Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8284091353416443
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.8276911973953247
+[Waka Kotahi N Z Transport Agency]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.8272650241851807
+[Waka Kotahi Board]: Waka Kotahi --[ENGAGES]-> community 0.8487256765365601
+[Waka Kotahi Board]: Waka Kotahi --[SUPPORTS]-> Road to Zero strategy 0.8479807376861572
+[Waka Kotahi Board]: Waka Kotahi --[PROVIDES]-> public interest 0.8432149887084961
+[Waka Kotahi Board]: Waka Kotahi --[MONITORS]-> advertising campaigns 0.8385233879089355
+[Waka Kotahi Board]: Waka Kotahi --[WORKING_WITH]-> development of the next Road to Zero Action Plan 0.8375738263130188
+[Waka Kotahi Board]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8355166912078857
+[Waka Kotahi Board]: Waka Kotahi --[COLLABORATES_WITH]-> Ministry of Transport 0.8343455791473389

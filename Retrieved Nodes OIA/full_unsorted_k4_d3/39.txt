@@ -1,0 +1,36 @@
+What does the term "Road Widening Works" mean in the context of SH1 Brynderwyn repairs?
+None
+Seed: Road Widening Works
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: one crossing near SH2/Lyon Street/Birdwood Street intersection
+Seed: information on LGWM construction contracts
+[Road Widening Works]: Attachment 3 --[TITLE]-> Road Widening Works 0.873195469379425
+[Road Widening Works]: Road Widening Works --[MEANS]-> creating space or a shoulder to repair future damage caused by weather events 0.8930172324180603
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUESTS]-> detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) 0.7940411567687988
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Joel MacManus --[REQUEST]-> Request made under the Official Information Act 1982 0.7393392324447632
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Joel MacManus --[EMAIL]-> joel.macmanus@stuff.co.nz 0.7003341317176819
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Joel MacManus --[REQUESTED]-> information under the Official Information Act 1982 0.7248579263687134
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Joel MacManus --[DATE]-> 4 September 2020 0.6758051514625549
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Joel MacManus --[EMAIL]-> 28 July 2020 0.69121253490448
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Joel MacManus --[REF]-> REF: OIA -6939 0.7164582014083862
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Joel MacManus --[ITEMISED]-> itemised list of all Let’s Get Wellington Moving spending in 2020 to date 0.7417030930519104
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Joel MacManus --[DEAR]-> Dear Joel 0.6971088647842407
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Joel MacManus --[ITEMISED]-> itemised breakdown of all spending on public consultation for Golden Mile upgrades 0.7566831111907959
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUEST_DATE]-> 30 October 2018 0.742035984992981
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUESTED_BY]-> Thomas Coughlan 0.7532039880752563
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Thomas Coughlan --[REQUESTS]-> information under the Official Information Act 1982 0.7476769685745239
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Newsroom --[EMPLOYS]-> Thomas Coughlan 0.710271418094635
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Thomas Coughlan --[EMPLOYER]-> Newsroom Pro 0.7312420606613159
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Thomas Coughlan --[EMAIL]-> Thomas.Coughlan@newsroom.co.nz 0.7301880121231079
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.7466725707054138
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUESTS]-> New Zealand Transport Agency 0.7745711803436279
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7672785520553589
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7627067565917969
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7696086168289185
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7381661534309387
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7615571022033691
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7705390453338623
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7800078988075256
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.789696991443634
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7691249847412109
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7684861421585083

@@ -1,0 +1,36 @@
+How much did NZTA spend on online advertising for road safety campaigns in 2017-2018?
+None
+Seed: cost of the current Road to Zero advertising campaign
+Seed: national, regional and local road safety promotion and education campaigns
+Seed: Road Safety Campaigns
+Seed: Advertising Media Spend 2017-2018
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[COST]-> cost of the current Road to Zero advertising campaign 0.8610615730285645
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[LAUNCHED_BY]-> New Zealand Transport Agency 0.852624773979187
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8080057501792908
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[BASED]-> Wellington 0.8199425935745239
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8167152404785156
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.8171461820602417
+[cost of the current Road to Zero advertising campaign]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7778807878494263
+[cost of the current Road to Zero advertising campaign]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.777411937713623
+[cost of the current Road to Zero advertising campaign]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7745572328567505
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.816309928894043
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.8217088580131531
+[cost of the current Road to Zero advertising campaign]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7919341325759888
+[cost of the current Road to Zero advertising campaign]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7718863487243652
+[cost of the current Road to Zero advertising campaign]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7720922231674194
+[cost of the current Road to Zero advertising campaign]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7345640659332275
+[cost of the current Road to Zero advertising campaign]: Wellington --[CONTAINS]-> Private Bag 6995 0.7862219214439392
+[cost of the current Road to Zero advertising campaign]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8306481838226318
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8193049430847168
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.8028509616851807
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.793073296546936
+[cost of the current Road to Zero advertising campaign]: 50 Victoria Street --[IN]-> Wellington 0.7553569674491882
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.8081340193748474
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[LOCATED]-> 50 Victoria Street 0.8181976675987244
+[cost of the current Road to Zero advertising campaign]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7720205187797546
+[cost of the current Road to Zero advertising campaign]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7648295164108276
+[cost of the current Road to Zero advertising campaign]: Wellington --[CONTAINS]-> 50 Victoria Street 0.772507905960083
+[cost of the current Road to Zero advertising campaign]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7531090378761292
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7881079912185669
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.8191548585891724
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[CONTACT]-> Wellington 6141 0.8083001971244812

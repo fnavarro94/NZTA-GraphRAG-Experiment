@@ -1,0 +1,12 @@
+Which organizations have been contracted to provide advice on the long tunnel option for Wellington?
+None
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: proposed long tunnel option for Wellington
+Seed: information on LGWM construction contracts
+Seed: bid for NZ Transport Agency funding
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) --[CONTRACTS]-> consultants 0.9082121849060059
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUESTS]-> detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) 0.8865446448326111
+[proposed long tunnel option for Wellington]: technical feasibility and cost --[FOR]-> proposed long tunnel option for Wellington 0.9153547883033752
+[proposed long tunnel option for Wellington]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.9075899124145508
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.8253099918365479
+[bid for NZ Transport Agency funding]: Auckland Transport --[SUBMITS]-> bid for NZ Transport Agency funding 0.8363803625106812

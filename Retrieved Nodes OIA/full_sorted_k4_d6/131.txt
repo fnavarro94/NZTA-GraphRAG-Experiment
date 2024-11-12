@@ -1,0 +1,34 @@
+How much was spent on the Safe Limits campaign, including the radio and other media advertising?
+None
+Seed: cost of the current Road to Zero advertising campaign
+Seed: Advertising Media Spend 2017-2018
+Seed: Total Media Costs
+Seed: advertising campaigns
+[cost of the current Road to Zero advertising campaign]: radio ads --[DEVELOPED]-> campaign 0.8579043745994568
+[cost of the current Road to Zero advertising campaign]: Road Safety Campaigns --[USES]-> Radio 0.839464545249939
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[COST]-> cost of the current Road to Zero advertising campaign 0.832727313041687
+[cost of the current Road to Zero advertising campaign]: Road Safety Campaigns --[USES]-> TV 0.8237110376358032
+[cost of the current Road to Zero advertising campaign]: Response to OIA Request --[CONTAINS]-> Advertising Media Spend 2017-2018 0.821976363658905
+[cost of the current Road to Zero advertising campaign]: Road Safety Campaigns --[USES]-> Traditional Media 0.8186712861061096
+[cost of the current Road to Zero advertising campaign]: Road to Zero --[CAMPAIGN]-> public awareness campaign 0.8070628643035889
+[Advertising Media Spend 2017-2018]: Individual Campaigns --[BREAKDOWN]-> Radio 0.8409055471420288
+[Advertising Media Spend 2017-2018]: Road Safety Campaigns --[USES]-> Radio 0.839464545249939
+[Advertising Media Spend 2017-2018]: Road To Zero campaign --[COST]-> cost of the current Road to Zero advertising campaign 0.832727313041687
+[Advertising Media Spend 2017-2018]: Advertising Media Spend 2017-2018 --[SHOWS]-> Individual Campaigns 0.8319486379623413
+[Advertising Media Spend 2017-2018]: Road Safety Campaigns --[USES]-> TV 0.8237110376358032
+[Advertising Media Spend 2017-2018]: Response to OIA Request --[CONTAINS]-> Advertising Media Spend 2017-2018 0.821976363658905
+[Advertising Media Spend 2017-2018]: Road Safety Campaigns --[USES]-> Traditional Media 0.8186712861061096
+[Total Media Costs]: Campaign --[HAS]-> Total Media Costs 0.8649366497993469
+[Total Media Costs]: Ad Campaign --[DECREASES]-> Media Costs 0.845474898815155
+[Total Media Costs]: Total Media Costs --[AMOUNT]-> $949,154.00 0.8405280113220215
+[Total Media Costs]: Campaign --[HAS]-> Total Production Costs 0.8223394155502319
+[Total Media Costs]: Ad Campaign --[AIRS]-> High Frequency 0.8214314579963684
+[Total Media Costs]: Ad Campaign --[AIRS]-> Longer Time Period 0.812293291091919
+[Total Media Costs]: Campaign --[LAUNCHES]-> Ad Campaign 0.805098831653595
+[advertising campaigns]: radio ads --[DEVELOPED]-> campaign 0.8579043745994568
+[advertising campaigns]: Individual Campaigns --[BREAKDOWN]-> Radio 0.8409055471420288
+[advertising campaigns]: Road Safety Campaigns --[USES]-> Radio 0.839464545249939
+[advertising campaigns]: Road To Zero campaign --[COST]-> cost of the current Road to Zero advertising campaign 0.832727313041687
+[advertising campaigns]: Advertising Media Spend 2017-2018 --[SHOWS]-> Individual Campaigns 0.8319486379623413
+[advertising campaigns]: Road Safety Campaigns --[USES]-> TV 0.8237110376358032
+[advertising campaigns]: Response to OIA Request --[CONTAINS]-> Advertising Media Spend 2017-2018 0.821976363658905

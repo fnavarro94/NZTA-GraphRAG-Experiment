@@ -1,0 +1,13 @@
+What are the key challenges faced in completing the Transmission Gully project?
+None
+Seed: Transmission Gully
+Seed: https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/
+Seed: prioritising the clearing of drains and culverts
+Seed: Transmission Gully Motorway
+[Transmission Gully]: Delta outbreak --[AFFECTED]-> Transmission Gully 0.8626071214675903
+[Transmission Gully]: New Zealand Transport Agency --[NEGOTIATING]-> Transmission Gully 0.8922181725502014
+[Transmission Gully]: Transmission Gully --[IMPACTED_BY]-> Delta outbreak 0.863368570804596
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Project Agreement --[AVAILABLE]-> https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/ 0.8302021622657776
+[prioritising the clearing of drains and culverts]: plan for Coromandel network --[INCLUDES]-> prioritising the clearing of drains and culverts 0.8121757507324219
+[Transmission Gully Motorway]: Wellington Gateway Partnership --[OPENED]-> Transmission Gully Motorway 0.8210675716400146
+[Transmission Gully Motorway]: Transmission Gully Motorway --[OPENED]-> March 2022 0.8402033448219299

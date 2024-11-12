@@ -1,0 +1,36 @@
+What body of water encircles the geological region located in the country where a method involving the use of advanced sensors and cameras to gather real-time data on road conditions significantly enhances the efficiency and accuracy of transport data acquisition processes, making it susceptible to natural disasters such as earthquakes, volcanic eruptions, and tsunamis?
+None
+Seed: Natural hazards
+Seed: Regions prone to wet conditions
+Seed: Volcanic activity
+Seed: Heavily on road transport for trade and tourism
+[Natural hazards]: New zealand --[Susceptible to]-> Natural hazards 0.8462419509887695
+[Natural hazards]: New zealand --[Has]-> Transport projects 0.819669783115387
+[Natural hazards]: New zealand transport agency --[Oversees]-> Transport projects 0.7891150712966919
+[Natural hazards]: New zealand --[Has]-> New zealand transport agency 0.7962052822113037
+[Natural hazards]: New zealand transport agency --[Is]-> Forefront of promoting active transport 0.7825049161911011
+[Natural hazards]: New zealand transport agency --[Is]-> Government agency 0.7833219766616821
+[Natural hazards]: New zealand transport agency --[Is]-> Key stakeholder 0.781148374080658
+[Natural hazards]: New zealand transport agency --[Is]-> Primary authority 0.7868785262107849
+[Natural hazards]: New zealand transport agency --[Is]-> Developing integrated transport solutions 0.7897225022315979
+[Natural hazards]: New zealand transport agency --[Is]-> Collaborating with technology providers 0.7834533452987671
+[Natural hazards]: New zealand transport agency --[Implemented]-> Initiatives 0.7964341044425964
+[Natural hazards]: New zealand transport agency --[Responsible for]-> Management and regulation of transport systems 0.7876049876213074
+[Natural hazards]: New zealand transport agency --[Responsible for]-> Management and regulation of the transport system in new zealand 0.7892665863037109
+[Natural hazards]: New zealand transport agency --[Ensures]-> Policies align with national transport objectives 0.7705053687095642
+[Natural hazards]: New zealand transport agency --[Ensures]-> Voices of all road users are considered in decision-making processes 0.7721313834190369
+[Natural hazards]: New zealand transport agency --[Mandates]-> Regular audits 0.7714096307754517
+[Natural hazards]: New zealand transport agency --[Promotes]-> Road safety 0.7865049242973328
+[Natural hazards]: New zealand transport agency --[Aims]-> Reduce greenhouse gas emissions 0.7604268789291382
+[Natural hazards]: New zealand transport agency --[Plays]-> A crucial role in funding and promoting cycling infrastructure projects 0.7972756028175354
+[Natural hazards]: New zealand transport agency --[Plays]-> Pivotal role in conducting forecasts 0.8194746971130371
+[Natural hazards]: New zealand transport agency --[Plays]-> Pivotal role in facilitating road user engagement 0.8114584684371948
+[Natural hazards]: New zealand transport agency --[Plays]-> Crucial role in developing guidelines 0.794048547744751
+[Natural hazards]: New zealand transport agency --[Plays]-> Crucial role in developing standards 0.79487544298172
+[Natural hazards]: New zealand transport agency --[Plays]-> Pivotal role 0.7915608882904053
+[Natural hazards]: New zealand transport agency --[Is responsible for]-> Promoting public transport initiatives 0.7842856645584106
+[Natural hazards]: New zealand transport agency --[Is responsible for]-> State highway network 0.7993336915969849
+[Natural hazards]: New zealand transport agency --[Is responsible for]-> Managing state highway network 0.7891391515731812
+[Natural hazards]: New zealand transport agency --[Is responsible for]-> Funding local road projects 0.8004147410392761
+[Natural hazards]: New zealand transport agency --[Is responsible for]-> Road networks 0.8145780563354492
+[Natural hazards]: New zealand transport agency --[Manages]-> National land transport fund 0.7632356286048889

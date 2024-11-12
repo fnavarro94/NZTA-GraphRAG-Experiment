@@ -1,0 +1,36 @@
+How many drivers had a zero-alcohol condition on their licence as of 1 July 2019?
+None
+Seed: Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence
+Seed: Standard condition of drivers under 20 subject to zero alcohol level are not included
+Seed: Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019
+Seed: Driving With Excess Blood Alcohol Level
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Data --[IS]-> Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence 0.857560396194458
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Crash Analysis System --[PROVIDES]-> Data 0.7724289894104004
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Deceased Drivers --[ASSOCIATED_WITH]-> Crash Analysis System 0.8092870712280273
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Crash Analysis System --[ASSOCIATED_WITH]-> Deceased Drivers 0.8033382892608643
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Deceased Drivers --[ASSOCIATED_WITH]-> Fatal Crashes 0.8253599405288696
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Fatal Crashes --[ASSOCIATED_WITH]-> Deceased Drivers 0.8200088739395142
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Crash Analysis System --[UPDATED]-> Traffic Crash Report 0.7982712984085083
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Crash Analysis System --[PROVIDES]-> Traffic Crash Report 0.7871591448783875
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Crash Analysis System --[ASSOCIATED_WITH]-> Traffic Crash Report 0.7839471101760864
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Traffic Crash Report --[ASSOCIATED_WITH]-> Crash Analysis System 0.7890831232070923
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Traffic Crash Report --[PROVIDED_BY]-> NZ Police 0.8075586557388306
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Traffic Crash Report --[RECEIVED]-> NZ Police 0.7982648611068726
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Crash Analysis System --[UPDATES]-> Traffic Crash Report 0.7880090475082397
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: CAS --[IS_UPDATING]-> Traffic Crash Report 0.771614670753479
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Traffic Crash Report --[CONTAINS]-> Crash Data 0.7980363368988037
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Traffic Crash Report --[PROVIDED_BY]-> New Zealand Police 0.8070368766784668
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Traffic Crash Report --[RECORDED_IN]-> Crash Analysis System 0.7864783406257629
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: New Zealand Police --[SUBMITS]-> Traffic Crash Report 0.7990219593048096
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Traffic Crash Report --[RECEIVED_FROM]-> NZ Police 0.805341899394989
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Crash Analysis System --[CONTAINS]-> Traffic Crash Report 0.788985550403595
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Traffic Crash Report --[RECORDS]-> Crash Data 0.8061589598655701
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: NZ Police --[PROVIDES]-> Traffic Crash Report 0.8000046014785767
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: 2020 --[FATAL_CRASHES]-> Crash Analysis System 0.8009960651397705
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Road to Zero Strategy --[INITIATED]-> 2020 0.7999087572097778
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: 2020 --[HAS_FATAL_CRASHES]-> 12 0.7910012006759644
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Roadside Drug Testing --[NOT_DONE]-> 2020 0.814690887928009
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.7843667268753052
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7410022020339966
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.7794280052185059
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.7390480637550354

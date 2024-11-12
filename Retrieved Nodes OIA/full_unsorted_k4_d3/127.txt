@@ -1,0 +1,36 @@
+Does Waka Kotahi hold a schedule of tasks for remedial work on the Kaipara Coast Highway (SH16) near Omeru Reserve?
+None
+Seed: Waka Kotahi N Z Transport Agency
+Seed: NZ Transport Agency Waka Kotahi
+Seed: Waka Kotahi NZ Transport Agency
+Seed: Waka Kotahi Senior Project Manager
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINS]-> Waka Kotahi N Z Transport Agency 0.8259599208831787
+[Waka Kotahi N Z Transport Agency]: Deceased Drivers --[ASSOCIATED_WITH]-> Crash Analysis System 0.7371612787246704
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[ASSOCIATED_WITH]-> Deceased Drivers 0.7322162985801697
+[Waka Kotahi N Z Transport Agency]: Deceased Drivers --[ASSOCIATED_WITH]-> Fatal Crashes 0.730914831161499
+[Waka Kotahi N Z Transport Agency]: Fatal Crashes --[ASSOCIATED_WITH]-> Deceased Drivers 0.726555585861206
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[UPDATED]-> Traffic Crash Report 0.743385910987854
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[PROVIDES]-> Traffic Crash Report 0.7411562204360962
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[ASSOCIATED_WITH]-> Traffic Crash Report 0.732070803642273
+[Waka Kotahi N Z Transport Agency]: Traffic Crash Report --[ASSOCIATED_WITH]-> Crash Analysis System 0.7361115217208862
+[Waka Kotahi N Z Transport Agency]: Traffic Crash Report --[PROVIDED_BY]-> NZ Police 0.7518739104270935
+[Waka Kotahi N Z Transport Agency]: Traffic Crash Report --[RECEIVED]-> NZ Police 0.7365894913673401
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[UPDATES]-> Traffic Crash Report 0.7390862703323364
+[Waka Kotahi N Z Transport Agency]: CAS --[IS_UPDATING]-> Traffic Crash Report 0.7302042245864868
+[Waka Kotahi N Z Transport Agency]: Traffic Crash Report --[CONTAINS]-> Crash Data 0.7409353852272034
+[Waka Kotahi N Z Transport Agency]: Traffic Crash Report --[PROVIDED_BY]-> New Zealand Police 0.753868579864502
+[Waka Kotahi N Z Transport Agency]: Traffic Crash Report --[RECORDED_IN]-> Crash Analysis System 0.7290196418762207
+[Waka Kotahi N Z Transport Agency]: New Zealand Police --[SUBMITS]-> Traffic Crash Report 0.7539002299308777
+[Waka Kotahi N Z Transport Agency]: Traffic Crash Report --[RECEIVED_FROM]-> NZ Police 0.744205892086029
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[CONTAINS]-> Traffic Crash Report 0.7434884905815125
+[Waka Kotahi N Z Transport Agency]: Traffic Crash Report --[RECORDS]-> Crash Data 0.7378255128860474
+[Waka Kotahi N Z Transport Agency]: NZ Police --[PROVIDES]-> Traffic Crash Report 0.7499042749404907
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[PROVIDES]-> Data 0.7323675751686096
+[Waka Kotahi N Z Transport Agency]: Data --[LIMITED_TO]-> Fatal Crashes 0.7111935615539551
+[Waka Kotahi N Z Transport Agency]: Data --[IS]-> Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence 0.7158105373382568
+[Waka Kotahi N Z Transport Agency]: Data --[IS]-> Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019 0.7619045376777649
+[Waka Kotahi N Z Transport Agency]: Data --[IS]-> Standard condition of drivers under 20 subject to zero alcohol level are not included 0.7235983610153198
+[Waka Kotahi N Z Transport Agency]: Driver Licence Register --[PROVIDES]-> Data 0.7194361090660095
+[Waka Kotahi N Z Transport Agency]: Data --[IS]-> Current at 18 September 2019 0.7427443265914917
+[Waka Kotahi N Z Transport Agency]: Cyclists --[EXCLUDED]-> Data 0.7098080515861511
+[Waka Kotahi N Z Transport Agency]: Tractor drivers --[EXCLUDED]-> Data 0.728598952293396

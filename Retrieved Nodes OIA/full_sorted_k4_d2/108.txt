@@ -1,0 +1,28 @@
+Has Waka Kotahi carried out tests comparing steel reinforcement versus fiberglass or wood in cab cut-outs?
+None
+Seed: fibreglass or wood
+Seed: 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.
+Seed: steel is present reinforcing the ca b cut-out
+Seed: information to Waka Kotahi
+[fibreglass or wood]: tests --[CONDUCTED]-> Waka Kotahi 0.8833456635475159
+[fibreglass or wood]: steel is present reinforcing the ca b cut-out --[VS]-> fibreglass or wood 0.880901038646698
+[fibreglass or wood]: steel --[VS]-> fibreglass 0.876893162727356
+[fibreglass or wood]: tests --[CONDUCTED_BY]-> Waka Kotahi 0.873664140701294
+[fibreglass or wood]: comparable tests --[WHERE]-> steel is present reinforcing the ca b cut-out 0.87354576587677
+[fibreglass or wood]: steel --[VS]-> fibreglass or wood 0.8725225925445557
+[fibreglass or wood]: fibreglass or wood --[TESTED]-> tests 0.8713247776031494
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: I will respond to each of your questions in turn. --[OFFICIAL_INFORMATION]-> 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. 0.8394453525543213
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. --[OFFICIAL_INFORMATION]-> I am refusing this part of your request under section 18(d) of the Act as the information is publicly available. 0.8131290674209595
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act). --[OFFICIAL_INFORMATION]-> I will respond to each of your questions in turn. 0.8042345643043518
+[steel is present reinforcing the ca b cut-out]: steel is present reinforcing the ca b cut-out --[VS]-> fibreglass or wood 0.880901038646698
+[steel is present reinforcing the ca b cut-out]: comparable tests --[WHERE]-> steel is present reinforcing the ca b cut-out 0.87354576587677
+[steel is present reinforcing the ca b cut-out]: steel --[VS]-> fibreglass or wood 0.8725225925445557
+[steel is present reinforcing the ca b cut-out]: fibreglass or wood --[TESTED]-> tests 0.8713247776031494
+[steel is present reinforcing the ca b cut-out]: tests --[NOT_CARRIED_OUT]-> comparable tests 0.7533758282661438
+[information to Waka Kotahi]: New Zealand Transport Agency --[POLICY]-> Waka Kotahi policy 0.8264764547348022
+[information to Waka Kotahi]: New Zealand Transport Agency --[ASSOCIATED]-> Waka Kotahi 0.8192322850227356
+[information to Waka Kotahi]: NZ Transport Agency Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8190388679504395
+[information to Waka Kotahi]: Waka Kotahi --[ASSOCIATED]-> New Zealand Transport Agency 0.8150241374969482
+[information to Waka Kotahi]: Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8129090070724487
+[information to Waka Kotahi]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8109984993934631
+[information to Waka Kotahi]: Waka Kotahi --[ALTERNATIVE_NAME]-> New Zealand Transport Agency 0.809393048286438

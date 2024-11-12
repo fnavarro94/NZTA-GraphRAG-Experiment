@@ -1,0 +1,28 @@
+What information did NZTA provide about converting the shoulder of Auckland Motorway into bus lanes?
+None
+Seed: reports on converting the shoulder of Auckland Motorway into Bus Lanes
+Seed: Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf
+Seed: Commercial Buses
+Seed: Expressway
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: reports on converting the shoulder of Auckland Motorway into Bus Lanes --[PROVIDED]-> Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf 0.921581506729126
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Zachary Wong --[REQUESTED]-> reports on converting the shoulder of Auckland Motorway into Bus Lanes 0.9098303318023682
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf --[APPENDIX]-> Appendices A to E 0.9052956104278564
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Zachary Wong --[EMAIL]-> fyi-request-9242-f4aad453@requests.fyi.org.nz 0.7588059902191162
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: reports on converting the shoulder of Auckland Motorway into Bus Lanes --[PROVIDED]-> Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf 0.921581506729126
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: Zachary Wong --[REQUESTED]-> reports on converting the shoulder of Auckland Motorway into Bus Lanes 0.9098303318023682
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf --[APPENDIX]-> Appendices A to E 0.9052956104278564
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: Zachary Wong --[EMAIL]-> fyi-request-9242-f4aad453@requests.fyi.org.nz 0.7588059902191162
+[Commercial Buses]: New Zealand Transport Agency --[BASED_IN]-> Auckland 0.8743579983711243
+[Commercial Buses]: Auckland --[CONTAINS]-> transport infrastructure 0.8733890056610107
+[Commercial Buses]: NZTA Website --[OPERATED_BY]-> New Zealand Transport Agency 0.8697471022605896
+[Commercial Buses]: New Zealand Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.8691547513008118
+[Commercial Buses]: transport services --[AVAILABLE_IN]-> Auckland 0.8674104809761047
+[Commercial Buses]: New Zealand Transport Agency --[CONTACT]-> T 64 4 894 5400, F 64 4 894 6100, www.nzta.govt.nz 0.8668115735054016
+[Commercial Buses]: New Zealand Transport Agency --[PROVIDES]-> www.nzta.govt.nz 0.8666813373565674
+[Expressway]: New Zealand Transport Agency --[BASED_IN]-> Auckland 0.8743579983711243
+[Expressway]: NZTA Website --[OPERATED_BY]-> New Zealand Transport Agency 0.8697471022605896
+[Expressway]: New Zealand Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.8691547513008118
+[Expressway]: New Zealand Transport Agency --[CONTACT]-> T 64 4 894 5400, F 64 4 894 6100, www.nzta.govt.nz 0.8668115735054016
+[Expressway]: New Zealand Transport Agency --[PROVIDES]-> www.nzta.govt.nz 0.8666813373565674
+[Expressway]: information on tolls and road maintenance --[RELATES]-> New Zealand Transport Agency 0.8649784326553345
+[Expressway]: New Zealand Transport Agency --[PROVIDES]-> information to T 64 4 894 5400, F 64 4 894 6100, www.nzta.govt.nz 0.8642730712890625

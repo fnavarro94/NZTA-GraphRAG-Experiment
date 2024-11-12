@@ -1,0 +1,29 @@
+What is the most common component found to be non-compliant during heavy vehicle certifications in New Zealand?
+None
+Seed: Heavy Vehicle Specialist Certificate
+Seed: Vehicle Safety
+Seed: vehicle safety
+Seed: Commercial Vehicle Safety Programme
+[Heavy Vehicle Specialist Certificate]: Heavy Vehicle Specialist Certificate --[Revoked]-> 19 0.8458147048950195
+[Vehicle Safety]: Safety Tolerance --[Ensures]-> Vehicle Safety 0.8332735300064087
+[Vehicle Safety]: Calculations --[Satisfies]-> Safety Tolerance 0.7835468649864197
+[Vehicle Safety]: Vehicle Safety --[Is]-> Critical 0.8360602259635925
+[Vehicle Safety]: Critical --[Identified]-> 33 0.7759553790092468
+[vehicle safety]: risk rating --[IMPORTANT_FOR]-> vehicle safety 0.8267669677734375
+[vehicle safety]: risk rating --[ASSIGNED]-> desktop review stage 0.7724521160125732
+[vehicle safety]: NZ Transport Agency --[REVIEWS]-> risk rating 0.84621262550354
+[vehicle safety]: risk rating --[REVIEWED_BY]-> NZ Transport Agency 0.8410865068435669
+[vehicle safety]: regulatory compliance --[ENSURED_BY]-> risk rating 0.7996723055839539
+[vehicle safety]: safety --[ENHANCED_BY]-> risk rating 0.772362470626831
+[vehicle safety]: risk rating --[USED_IN]-> vehicle inspection 0.8168613910675049
+[vehicle safety]: risk rating --[CRITICAL_FOR]-> safety 0.7866045236587524
+[vehicle safety]: vehicle safety --[ENHANCED_BY]-> risk rating 0.8100115656852722
+[vehicle safety]: NZ Transport Agency --[RESPONSIBLE_FOR]-> risk rating 0.8532058596611023
+[vehicle safety]: vehicle inspection --[INVOLVES]-> risk rating 0.8308233618736267
+[vehicle safety]: files --[MAY_CHANGE]-> risk rating 0.7574784755706787
+[vehicle safety]: risk rating --[BASED_ON]-> vehicle inspection 0.8111821413040161
+[vehicle safety]: vehicle inspection --[PROVIDES]-> risk rating 0.8244021534919739
+[vehicle safety]: risk rating --[USED_FOR]-> regulatory compliance 0.8063357472419739
+[vehicle safety]: risk rating --[ASSIGNED_BY]-> NZ Transport Agency 0.8449089527130127
+[vehicle safety]: risk rating --[USED_IN]-> regulatory compliance 0.8027642965316772
+[Commercial Vehicle Safety Programme]: BRI-3011 --[RELATES_TO]-> Commercial Vehicle Safety Programme 0.8451621532440186

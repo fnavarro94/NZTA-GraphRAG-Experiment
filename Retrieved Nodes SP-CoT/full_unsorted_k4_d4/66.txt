@@ -1,0 +1,36 @@
+Which southern city is connected to the major urban area in New Zealand that employs advanced traffic signal control systems alongside the city experiencing increasing urbanization and requiring innovative solutions to manage congestion and improve public transport services by State Highway 1?
+None
+Seed: Critical link between southern suburbs and central business district
+Seed: Increasing congestion in urban areas
+Seed: Urban areas
+Seed: Addressing transport challenges in auckland
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Serves as]-> Critical link between southern suburbs and central business district 0.8634152412414551
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Located in]-> South island of new zealand 0.862392783164978
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Is]-> Significant transport infrastructure project 0.8695375323295593
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Designed to]-> Enhance efficiency of road transport 0.8680583238601685
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Ends at]-> Intersection with christchurch northern corridor 0.821999192237854
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Construction began]-> Early 2000s 0.8548353314399719
+[Critical link between southern suburbs and central business district]: National cycling network --[Established in]-> Early 2000s 0.7612536549568176
+[Critical link between southern suburbs and central business district]: National cycling network --[Is]-> Extensive system of cycling routes 0.7714558839797974
+[Critical link between southern suburbs and central business district]: National cycling network --[Emphasizes]-> Importance of multimodal transport options 0.7890834808349609
+[Critical link between southern suburbs and central business district]: National cycling network --[Benefits]-> Health and wellbeing 0.7265998125076294
+[Critical link between southern suburbs and central business district]: National cycling network --[Expanded]-> Thousands of kilometers of routes across the north and south islands 0.7875204682350159
+[Critical link between southern suburbs and central business district]: National cycling network --[Part of]-> New zealand's broader transport strategy 0.8429731726646423
+[Critical link between southern suburbs and central business district]: National cycling network --[Aims to]-> Connect urban and rural areas 0.8035615682601929
+[Critical link between southern suburbs and central business district]: National cycling network --[Benefits]-> Environmental impact 0.7532743215560913
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Extends]-> Approximately 20 kilometers 0.8366055488586426
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Key component of]-> Christchurch transport strategic plan 0.8535837531089783
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Part of]-> New zealand government's broader strategy 0.8546755313873291
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Begins at]-> Intersection of state highway 1 and state highway 76 0.8500147461891174
+[Critical link between southern suburbs and central business district]: Christchurch --[Served by]-> Christchurch southern motorway 0.8500819802284241
+[Critical link between southern suburbs and central business district]: Christchurch --[Has]-> Cycling initiatives 0.8066767454147339
+[Critical link between southern suburbs and central business district]: Christchurch --[Has]-> Metro system 0.8352132439613342
+[Critical link between southern suburbs and central business district]: Christchurch --[Linked to]-> Dunedin 0.8076334595680237
+[Critical link between southern suburbs and central business district]: Christchurch --[Connected to]-> Dunedin 0.830392599105835
+[Critical link between southern suburbs and central business district]: Christchurch --[Has]-> Potential development of light rail system 0.8088166117668152
+[Critical link between southern suburbs and central business district]: Christchurch --[Served by]-> Tranzalpine train service 0.7940802574157715
+[Critical link between southern suburbs and central business district]: Christchurch --[Has]-> Walking initiatives 0.8166863918304443
+[Critical link between southern suburbs and central business district]: Christchurch --[Served by]-> Main south line 0.836815595626831
+[Critical link between southern suburbs and central business district]: Christchurch --[Has]-> Road infrastructure 0.8429336547851562
+[Critical link between southern suburbs and central business district]: Road infrastructure --[Is]-> Backbone of new zealand's transport system 0.8501940369606018
+[Critical link between southern suburbs and central business district]: Road infrastructure --[Is vital for]-> Regional connectivity 0.8229784965515137

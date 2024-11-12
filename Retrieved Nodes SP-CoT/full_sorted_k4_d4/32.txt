@@ -1,0 +1,24 @@
+What region is known for its rugged terrain and stunning landscapes, particularly in the context of the two main islands of New Zealand where the transport system facilitates the movement of people and goods?
+None
+Seed: New zealand's stunning landscapes
+Seed: New zealand's transport landscape
+Seed: Scenic routes such as the tranzalpine and the northern explorer
+Seed: Importance of well-planned transport systems in both countries
+[New zealand's stunning landscapes]: Passenger rail services --[Showcase]-> New zealand's stunning landscapes 0.8629123568534851
+[New zealand's stunning landscapes]: Passenger rail services --[Include]-> Scenic routes such as the tranzalpine and the northern explorer 0.7835254073143005
+[New zealand's transport landscape]: Freight transport in new zealand --[Driven by]-> Unique geographical challenges 0.8548803329467773
+[New zealand's transport landscape]: Auckland --[Has]-> Significant transport hub 0.8546867370605469
+[New zealand's transport landscape]: Auckland --[Is]-> Major transport hub 0.8542945384979248
+[New zealand's transport landscape]: Auckland --[Serves as]-> Critical hub for transport 0.8536546230316162
+[New zealand's transport landscape]: Auckland ferry network --[Crucial element]-> New zealand's transport landscape 0.8506596088409424
+[New zealand's transport landscape]: New zealand --[Has]-> Roads 0.8483551144599915
+[New zealand's transport landscape]: New zealand --[Has]-> Public transport 0.8462241888046265
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Showcase]-> New zealand's stunning landscapes 0.8629123568534851
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Include]-> Scenic routes such as the tranzalpine and the northern explorer 0.7835254073143005
+[Importance of well-planned transport systems in both countries]: New zealand --[Has]-> Rugged terrains 0.8927471041679382
+[Importance of well-planned transport systems in both countries]: New zealand --[Characterized by]-> Diverse terrains 0.883417010307312
+[Importance of well-planned transport systems in both countries]: New zealand --[Relies]-> Heavily on road transport for trade and tourism 0.8805075883865356
+[Importance of well-planned transport systems in both countries]: New zealand --[Has]-> Mountainous regions 0.8802747130393982
+[Importance of well-planned transport systems in both countries]: New zealand --[Characterized by]-> Diverse landscapes 0.8757674694061279
+[Importance of well-planned transport systems in both countries]: New zealand --[Characterized by]-> Mountainous regions 0.8754521608352661
+[Importance of well-planned transport systems in both countries]: New zealand --[Have]-> Unique geographical landscape 0.8750618696212769

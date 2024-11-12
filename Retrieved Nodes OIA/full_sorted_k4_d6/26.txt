@@ -1,0 +1,34 @@
+Where can information about the average length of time taken to respond to OIA requests be found?
+None
+Seed: deadline for responding to request
+Seed: response to OIA request
+Seed: Request made under the Official Information Act 1982
+Seed: Request for Information
+[deadline for responding to request]: response to OIA request --[PROVIDES]-> information requested 0.8843493461608887
+[deadline for responding to request]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA requests 0.8703567981719971
+[deadline for responding to request]: REF: OIA -13915 --[ASSOCIATED_WITH]-> Request made under the Official Information Act 1982 0.86913001537323
+[deadline for responding to request]: OIA-10601 --[SUBMITTED_BY]-> Georgina Campbell 0.8683182001113892
+[deadline for responding to request]: Georgina Campbell --[SUBMITTED_REQUEST]-> OIA-10601 0.8679790496826172
+[deadline for responding to request]: Response to OIA Request --[CONTAINS]-> Advertising Media Spend 2017-2018 0.8667733073234558
+[deadline for responding to request]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.8662508130073547
+[response to OIA request]: response to OIA request --[PROVIDES]-> information requested 0.8843493461608887
+[response to OIA request]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA requests 0.8703567981719971
+[response to OIA request]: REF: OIA -13915 --[ASSOCIATED_WITH]-> Request made under the Official Information Act 1982 0.86913001537323
+[response to OIA request]: OIA-10601 --[SUBMITTED_BY]-> Georgina Campbell 0.8683182001113892
+[response to OIA request]: Georgina Campbell --[SUBMITTED_REQUEST]-> OIA-10601 0.8679790496826172
+[response to OIA request]: Response to OIA Request --[CONTAINS]-> Advertising Media Spend 2017-2018 0.8667733073234558
+[response to OIA request]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.8662508130073547
+[Request made under the Official Information Act 1982]: response to OIA request --[PROVIDES]-> information requested 0.8843493461608887
+[Request made under the Official Information Act 1982]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA requests 0.8703567981719971
+[Request made under the Official Information Act 1982]: REF: OIA -13915 --[ASSOCIATED_WITH]-> Request made under the Official Information Act 1982 0.86913001537323
+[Request made under the Official Information Act 1982]: OIA-10601 --[SUBMITTED_BY]-> Georgina Campbell 0.8683182001113892
+[Request made under the Official Information Act 1982]: Georgina Campbell --[SUBMITTED_REQUEST]-> OIA-10601 0.8679790496826172
+[Request made under the Official Information Act 1982]: Response to OIA Request --[CONTAINS]-> Advertising Media Spend 2017-2018 0.8667733073234558
+[Request made under the Official Information Act 1982]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.8662508130073547
+[Request for Information]: response to OIA request --[PROVIDES]-> information requested 0.8843493461608887
+[Request for Information]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA requests 0.8703567981719971
+[Request for Information]: REF: OIA -13915 --[ASSOCIATED_WITH]-> Request made under the Official Information Act 1982 0.86913001537323
+[Request for Information]: OIA-10601 --[SUBMITTED_BY]-> Georgina Campbell 0.8683182001113892
+[Request for Information]: Georgina Campbell --[SUBMITTED_REQUEST]-> OIA-10601 0.8679790496826172
+[Request for Information]: Response to OIA Request --[CONTAINS]-> Advertising Media Spend 2017-2018 0.8667733073234558
+[Request for Information]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.8662508130073547

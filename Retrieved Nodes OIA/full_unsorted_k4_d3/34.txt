@@ -1,0 +1,36 @@
+Where can information about the latest developments in the high productivity motor vehicles (HPMV) bridge strengthening programme be found?
+None
+Seed: current information on HPMV investment routes
+Seed: information on HPMV investment routes
+Seed: request to Minister of Transport
+Seed: briefings to the Minister of Transport
+[current information on HPMV investment routes]: New Zealand Transport Agency --[PROVIDES]-> current information on HPMV investment routes 0.8669214248657227
+[current information on HPMV investment routes]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7715845108032227
+[current information on HPMV investment routes]: New Zealand Transport Agency --[BASED]-> Wellington 0.7746367454528809
+[current information on HPMV investment routes]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7326618432998657
+[current information on HPMV investment routes]: Golden Mile --[LOCATED]-> Wellington 0.7296161651611328
+[current information on HPMV investment routes]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7605812549591064
+[current information on HPMV investment routes]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7410446405410767
+[current information on HPMV investment routes]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7726447582244873
+[current information on HPMV investment routes]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7179766893386841
+[current information on HPMV investment routes]: Wellington --[PART_OF]-> Wellington Region 0.7447642087936401
+[current information on HPMV investment routes]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7542270421981812
+[current information on HPMV investment routes]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7849070429801941
+[current information on HPMV investment routes]: Wellington --[HAS]-> tunnel 0.7683406472206116
+[current information on HPMV investment routes]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7550545930862427
+[current information on HPMV investment routes]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7235367894172668
+[current information on HPMV investment routes]: Wellington --[POSTCODE]-> 6141 0.7112141847610474
+[current information on HPMV investment routes]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7669506072998047
+[current information on HPMV investment routes]: Wellington --[IS_PART_OF]-> New Zealand 0.7347836494445801
+[current information on HPMV investment routes]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7751474976539612
+[current information on HPMV investment routes]: 50 Victoria Street --[IN]-> Wellington 0.7377199530601501
+[current information on HPMV investment routes]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7380964756011963
+[current information on HPMV investment routes]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7386954426765442
+[current information on HPMV investment routes]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7317867279052734
+[current information on HPMV investment routes]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7596008777618408
+[current information on HPMV investment routes]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7578829526901245
+[current information on HPMV investment routes]: NZ Transport Agency --[LOCATED]-> Wellington 0.7691830396652222
+[current information on HPMV investment routes]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7492709755897522
+[current information on HPMV investment routes]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7372975945472717
+[current information on HPMV investment routes]: New Zealand --[CONTAINS]-> Wellington 0.7436686754226685
+[current information on HPMV investment routes]: Wellington --[PART_OF]-> New Zealand 0.7347497940063477

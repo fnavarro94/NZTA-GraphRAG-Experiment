@@ -1,0 +1,34 @@
+How many drivers had a zero-alcohol condition on their licence as of 1 July 2019?
+None
+Seed: Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence
+Seed: Standard condition of drivers under 20 subject to zero alcohol level are not included
+Seed: Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019
+Seed: Driving With Excess Blood Alcohol Level
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Data --[IS]-> Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019 0.8885011076927185
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Data --[IS]-> Standard condition of drivers under 20 subject to zero alcohol level are not included 0.8803609609603882
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Data --[IS]-> Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence 0.857560396194458
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Driver Licence Register --[PROVIDES]-> Data 0.8159202337265015
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Data --[RELATES_TO]-> Pedestrian and Cyclist Crashes 0.8076897263526917
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Drivers of motorbikes --[EXCLUDED]-> Data 0.8018432855606079
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Data --[IS]-> Current at 18 September 2019 0.7880295515060425
+[Standard condition of drivers under 20 subject to zero alcohol level are not included]: Data --[IS]-> Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019 0.8885011076927185
+[Standard condition of drivers under 20 subject to zero alcohol level are not included]: Data --[IS]-> Standard condition of drivers under 20 subject to zero alcohol level are not included 0.8803609609603882
+[Standard condition of drivers under 20 subject to zero alcohol level are not included]: Data --[IS]-> Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence 0.857560396194458
+[Standard condition of drivers under 20 subject to zero alcohol level are not included]: Driver Licence Register --[PROVIDES]-> Data 0.8159202337265015
+[Standard condition of drivers under 20 subject to zero alcohol level are not included]: Data --[RELATES_TO]-> Pedestrian and Cyclist Crashes 0.8076897263526917
+[Standard condition of drivers under 20 subject to zero alcohol level are not included]: Drivers of motorbikes --[EXCLUDED]-> Data 0.8018432855606079
+[Standard condition of drivers under 20 subject to zero alcohol level are not included]: Data --[IS]-> Current at 18 September 2019 0.7880295515060425
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Data --[IS]-> Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019 0.8885011076927185
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Data --[IS]-> Standard condition of drivers under 20 subject to zero alcohol level are not included 0.8803609609603882
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Data --[IS]-> Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence 0.857560396194458
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Driver Licence Register --[PROVIDES]-> Data 0.8159202337265015
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Data --[RELATES_TO]-> Pedestrian and Cyclist Crashes 0.8076897263526917
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Drivers of motorbikes --[EXCLUDED]-> Data 0.8018432855606079
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Data --[IS]-> Current at 18 September 2019 0.7880295515060425
+[Driving With Excess Blood Alcohol Level]: Driving With Excess Blood Alcohol Level --[COUNT]-> 1 0.865689754486084
+[Driving With Excess Blood Alcohol Level]: No Driver Licence --[COUNT]-> 1 0.8597014546394348
+[Driving With Excess Blood Alcohol Level]: 2019 --[HAS_SERIOUS_INJURY_CRASHES]-> 1 0.833462119102478
+[Driving With Excess Blood Alcohol Level]: 2019 --[HAS_MINOR_INJURY_CRASHES]-> 1 0.8304071426391602
+[Driving With Excess Blood Alcohol Level]: Careless Or Inconsiderate Driving Causing Death Or Injury --[COUNT]-> 1 0.8292635679244995
+[Driving With Excess Blood Alcohol Level]: Drove A Motor Vehicle In A Dangerous Manner --[COUNT]-> 1 0.8156530857086182
+[Driving With Excess Blood Alcohol Level]: Operated A Motor Vehicle Recklessly --[COUNT]-> 1 0.810224175453186

@@ -1,0 +1,36 @@
+Who is responsible for engaging with the community to enhance the project in Wellington that connects various neighborhoods and promotes cycling as a primary mode of transport?
+None
+Seed: A crucial role in funding and promoting cycling infrastructure projects
+Seed: Wellington's commitment to becoming a more cycle-friendly city
+Seed: Broader initiative by the wellington city council and greater wellington regional council
+Seed: Promote sustainable transport
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Plays]-> A crucial role in funding and promoting cycling infrastructure projects 0.8742314577102661
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> New zealand transport agency 0.8144060373306274
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Is]-> Forefront of promoting active transport 0.8393148183822632
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Is]-> Government agency 0.7999345064163208
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Is]-> Key stakeholder 0.825948178768158
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Is]-> Primary authority 0.8183152675628662
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Is]-> Developing integrated transport solutions 0.8233018517494202
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Is]-> Collaborating with technology providers 0.8180426955223083
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Implemented]-> Initiatives 0.8352366089820862
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Responsible for]-> Management and regulation of transport systems 0.8181375861167908
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Responsible for]-> Management and regulation of the transport system in new zealand 0.8149179816246033
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Ensures]-> Policies align with national transport objectives 0.778231680393219
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Ensures]-> Voices of all road users are considered in decision-making processes 0.7991976141929626
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Mandates]-> Regular audits 0.769239068031311
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Promotes]-> Road safety 0.8008123636245728
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Aims]-> Reduce greenhouse gas emissions 0.8026150465011597
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Plays]-> Pivotal role in conducting forecasts 0.7977155447006226
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Plays]-> Pivotal role in facilitating road user engagement 0.8466870784759521
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Plays]-> Crucial role in developing guidelines 0.807438850402832
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Plays]-> Crucial role in developing standards 0.8043314218521118
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Plays]-> Pivotal role 0.8204752206802368
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Is responsible for]-> Promoting public transport initiatives 0.8475115895271301
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Is responsible for]-> State highway network 0.8275485634803772
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Is responsible for]-> Managing state highway network 0.8197620511054993
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Is responsible for]-> Funding local road projects 0.8509122729301453
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Is responsible for]-> Road networks 0.8535081148147583
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Manages]-> National land transport fund 0.7901521325111389
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Manages]-> State highway network 0.8043245673179626
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Manages]-> Road traffic monitoring 0.7988696098327637
+[A crucial role in funding and promoting cycling infrastructure projects]: Traffic management systems --[Governed by]-> New zealand transport agency 0.8124841451644897

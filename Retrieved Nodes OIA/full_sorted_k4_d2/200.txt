@@ -1,0 +1,30 @@
+What was the Board's instruction regarding the number of direct reports for the Chief Executive in 2018?
+None
+Seed: Chief Financial Officer
+Seed: Chief Executive
+Seed: Annual Reports
+Seed: Annual Monitoring Report 2020
+[Chief Financial Officer]: Chief Financial Officer --[HELD_BY]-> Howard Cattermole 0.8007078170776367
+[Chief Financial Officer]: Howard Cattermole --[SIGNED]-> response letter 0.7548502683639526
+[Chief Financial Officer]: Yours sincerely --[FOLLOWS]-> Howard Cattermole 0.7065346837043762
+[Chief Executive]: Kate Styles --[FOR]-> Chief Executive 0.8075463175773621
+[Chief Executive]: Chief Executive --[EMPLOYER]-> New Zealand Transport Agency 0.7991557121276855
+[Chief Executive]: New Zealand Transport Agency --[ASSOCIATED]-> Business-as-usual legal advice 0.7935675382614136
+[Chief Executive]: New Zealand Transport Agency --[PROVIDES]-> answers to questions 1 and 2 0.7893718481063843
+[Chief Executive]: New Zealand Transport Agency --[PROVIDES]-> financial information 0.7876432538032532
+[Chief Executive]: New Zealand Transport Agency --[PROVIDES]-> Road to Zero Strategy Reports 0.7872862815856934
+[Chief Executive]: New Zealand Transport Agency --[FALLS_IN_SCOPE]-> WK Exec summary of the TG claim for review 0.7869719862937927
+[Annual Reports]: Annual Reports --[CONTAINS]-> paid toll revenues 0.8028664588928223
+[Annual Reports]: Waka Kotahi --[BOARD_MEETING]-> Board papers 0.7979426383972168
+[Annual Reports]: paid toll revenues --[AVAILABLE_IN]-> Annual Reports 0.7976253628730774
+[Annual Reports]: Waka Kotahi --[PUBLISHES]-> Annual Reports 0.7950664162635803
+[Annual Reports]: information --[PROVIDED_BY]-> Waka Kotahi 0.7882221937179565
+[Annual Reports]: Waka Kotahi --[PUBLISHES]-> report 0.786535382270813
+[Annual Reports]: Waka Kotahi --[SEEKS]-> additional information 0.7846502065658569
+[Annual Monitoring Report 2020]: Road to Zero --[PROGRESS]-> Annual Monitoring Report 0.8009686470031738
+[Annual Monitoring Report 2020]: Road to Zero --[PUBLICATION]-> Annual Monitoring Report 2020 0.797256588935852
+[Annual Monitoring Report 2020]: Road to Zero --[FORECAST_INVESTMENT]-> page 35 of the 2021 GPS 0.7928026914596558
+[Annual Monitoring Report 2020]: Road to Zero --[EFFECTIVENESS]-> Annual Monitoring Report 2020 0.7922590970993042
+[Annual Monitoring Report 2020]: Annual Monitoring Report --[OUTLINES]-> Road to Zero 0.7895647883415222
+[Annual Monitoring Report 2020]: Road to Zero --[INVESTMENT]-> Government Policy Statement on Land Transport 2021 0.775216817855835
+[Annual Monitoring Report 2020]: Road to Zero --[PUBLICATION]-> Government Policy Statement on Land Transport 2021 0.7710754871368408

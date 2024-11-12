@@ -1,0 +1,36 @@
+In what year did the organization that operates the rail network in New Zealand, primarily serving freight and providing passenger services in metropolitan areas, become established as a state-owned enterprise in New Zealand?
+None
+Seed: State-owned enterprise
+Seed: Extensive network of passenger and freight services
+Seed: Rail network
+Seed: Rail networks
+[State-owned enterprise]: Kiwirail group --[Is]-> State-owned enterprise 0.8966468572616577
+[State-owned enterprise]: Kiwirail group --[Provides]-> Essential services 0.8282061815261841
+[State-owned enterprise]: Kiwirail group --[Provides]-> Efficient transport 0.8244171142578125
+[State-owned enterprise]: Kiwirail group --[Provides]-> Sustainable transport 0.8266804814338684
+[State-owned enterprise]: Sustainable urban transport --[Key component]-> Sustainable transport 0.7649862766265869
+[State-owned enterprise]: Sustainable urban transport --[Is]-> New zealand 0.8242436647415161
+[State-owned enterprise]: Sustainable urban transport --[Implemented]-> Sustainable transport solutions 0.766925573348999
+[State-owned enterprise]: Sustainable urban transport --[Implemented]-> Initiatives 0.7721121311187744
+[State-owned enterprise]: Sustainable urban transport --[Characterized by]-> Increased traffic congestion 0.7472236752510071
+[State-owned enterprise]: Sustainable urban transport --[Characterized by]-> Reliance on private vehicles 0.7579630613327026
+[State-owned enterprise]: Sustainable urban transport --[Characterized by]-> Major cities 0.7685854434967041
+[State-owned enterprise]: Sustainable urban transport --[Prioritizes]-> Sustainable transport modes 0.7472843527793884
+[State-owned enterprise]: Sustainable urban transport --[Prioritizes]-> Public transit 0.7574415802955627
+[State-owned enterprise]: Sustainable urban transport --[Prioritizes]-> Walking 0.7346596717834473
+[State-owned enterprise]: Sustainable urban transport --[Prioritizes]-> Cycling 0.7536354064941406
+[State-owned enterprise]: Sustainable urban transport --[Aimed at]-> Environmentally friendly 0.7525703310966492
+[State-owned enterprise]: Sustainable urban transport --[Aimed at]-> Socially inclusive 0.7576882839202881
+[State-owned enterprise]: Sustainable urban transport --[Aimed at]-> Efficient 0.757116436958313
+[State-owned enterprise]: Sustainable urban transport --[Encompasses]-> Strategies 0.7625365853309631
+[State-owned enterprise]: Sustainable urban transport --[Faces challenges]-> Air pollution 0.7330926060676575
+[State-owned enterprise]: Sustainable urban transport --[Faces challenges]-> Traffic congestion 0.7368184328079224
+[State-owned enterprise]: Sustainable urban transport --[Faces challenges]-> Greenhouse gas emissions 0.7388622760772705
+[State-owned enterprise]: Sustainable urban transport --[Key component]-> Cycling 0.7561570405960083
+[State-owned enterprise]: Sustainable urban transport --[Key component]-> Vital components 0.7594870328903198
+[State-owned enterprise]: Sustainable urban transport --[Key component]-> Let’s get wellington moving 0.7857593297958374
+[State-owned enterprise]: Sustainable urban transport --[Key component]-> Promote cycling 0.7474094033241272
+[State-owned enterprise]: Sustainable urban transport --[Key component]-> City centers 0.7651191353797913
+[State-owned enterprise]: Sustainable urban transport --[Key component]-> Atap 0.7573755979537964
+[State-owned enterprise]: Sustainable urban transport --[Key component]-> Government 0.7740175127983093
+[State-owned enterprise]: Sustainable urban transport --[Key component]-> Walking 0.7391101717948914

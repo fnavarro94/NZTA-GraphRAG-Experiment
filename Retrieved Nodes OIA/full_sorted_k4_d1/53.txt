@@ -1,0 +1,10 @@
+What information can be found in the Driver Licence Register (DLR)?
+None
+Seed: information on vehicle and driver registration and licensing
+Seed: information related to criminal convictions of driving instructor (I) endorsement holders
+Seed: vehicle registration and licensing
+Seed: driver licenses
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[PROVIDES]-> information on vehicle and driver registration and licensing 0.8656876087188721
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Michael Morrah --[REQUESTS]-> information related to criminal convictions of driving instructor (I) endorsement holders 0.8492350578308105
+[vehicle registration and licensing]: Waka Kotahi --[REFUSES_REQUEST]-> vehicle registration and licensing 0.788785457611084
+[driver licenses]: driver licenses --[CONTAINS]-> annual data 0.8542440533638

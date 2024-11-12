@@ -1,0 +1,23 @@
+Which significant town does the transport project in New Zealand, alongside the city home to the Te Ara I Whiti (Lightpath) project, which has transformed underutilized spaces into vibrant cycling and pedestrian pathways, pass through after Upper Hutt and before reaching Levin?
+None
+Seed: Transport link between wellington and northern regions of north island
+Seed: Addressing transport challenges in auckland
+Seed: New zealand's transport network
+Seed: Cycling infrastructure and public transport initiatives
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Passes through]-> Upper hutt 0.8595916628837585
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Passes through]-> Levin 0.8571426272392273
+[Transport link between wellington and northern regions of north island]: Auckland --[Has]-> Transport projects 0.8526347875595093
+[Transport link between wellington and northern regions of north island]: New zealand --[Has]-> Transport projects 0.8495609164237976
+[Transport link between wellington and northern regions of north island]: Auckland --[Has]-> Pedestrian pathways 0.8453271985054016
+[Transport link between wellington and northern regions of north island]: Auckland --[Has]-> Significant transport hub 0.8431667685508728
+[Transport link between wellington and northern regions of north island]: Auckland transport --[Implemented]-> Cycling infrastructure projects 0.8376058340072632
+[Addressing transport challenges in auckland]: Wellington northern corridor --[Passes through]-> Upper hutt 0.8595916628837585
+[Addressing transport challenges in auckland]: Wellington northern corridor --[Passes through]-> Levin 0.8571426272392273
+[Addressing transport challenges in auckland]: Auckland --[Has]-> Transport projects 0.8526347875595093
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Transport projects 0.8495609164237976
+[Addressing transport challenges in auckland]: Auckland --[Has]-> Pedestrian pathways 0.8453271985054016
+[Addressing transport challenges in auckland]: Auckland --[Has]-> Significant transport hub 0.8431667685508728
+[Addressing transport challenges in auckland]: Auckland transport --[Implemented]-> Cycling infrastructure projects 0.8376058340072632
+[New zealand's transport network]: Road infrastructure projects --[Play crucial role in]-> New zealand's transport network 0.8321253061294556
+[Cycling infrastructure and public transport initiatives]: North island --[Features]-> Cycling infrastructure and public transport initiatives 0.8111568689346313
+[Cycling infrastructure and public transport initiatives]: North island --[Has]-> Growing emphasis on sustainable transport options 0.7646570205688477

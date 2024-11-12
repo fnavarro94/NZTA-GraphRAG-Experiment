@@ -1,0 +1,10 @@
+What region does the Metlink bus service connect to besides Porirua, the city in the country known for its Metlink services, which focus on providing comprehensive coverage across the region and allocates financial resources for the development, maintenance, and upgrading of transport infrastructure, including roads, railways, airports, and public transport systems?
+None
+Seed: Regional transport initiatives
+Seed: Significant investment in public transport infrastructure
+Seed: Importance of well-planned transport systems in both countries
+Seed: Transport link between wellington and northern regions of north island
+[Regional transport initiatives]: Local councils --[Contribute to]-> Regional transport initiatives 0.7873156070709229
+[Significant investment in public transport infrastructure]: Urban areas --[Have]-> Significant investment in public transport infrastructure 0.8109169006347656
+[Importance of well-planned transport systems in both countries]: Pch --[Reflects]-> Importance of well-planned transport systems in both countries 0.8053011298179626
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Aims to improve]-> Transport link between wellington and northern regions of north island 0.8057001233100891

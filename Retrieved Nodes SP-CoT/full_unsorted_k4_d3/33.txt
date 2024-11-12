@@ -1,0 +1,36 @@
+What body of water encircles the geological region where New Zealand is located, making it susceptible to natural disasters such as earthquakes, volcanic eruptions, and tsunamis?
+None
+Seed: Horseshoe-shaped zone of high seismic and volcanic activity
+Seed: North island's eastern coastline
+Seed: Volcanic activity
+Seed: Natural hazards
+[Horseshoe-shaped zone of high seismic and volcanic activity]: Pacific ring of fire --[Is]-> Horseshoe-shaped zone of high seismic and volcanic activity 0.8409578800201416
+[Horseshoe-shaped zone of high seismic and volcanic activity]: Pacific ring of fire --[Encircles]-> Pacific ocean 0.8413668870925903
+[North island's eastern coastline]: Pch --[Runs along]-> North island's eastern coastline 0.8261814713478088
+[North island's eastern coastline]: Pch --[Supports]-> Freight movement 0.7198522686958313
+[North island's eastern coastline]: Rail transport --[Plays vital role]-> Freight movement 0.724922776222229
+[North island's eastern coastline]: Pch --[Contributes to]-> Overall accessibility of the region 0.7892164587974548
+[North island's eastern coastline]: Pch --[Offers]-> Fishing 0.7343229055404663
+[North island's eastern coastline]: Pch --[Connects]-> Gisborne 0.763978123664856
+[North island's eastern coastline]: Pch --[Popular among]-> Tourists and locals 0.7555421590805054
+[North island's eastern coastline]: Pch --[Supports]-> Passenger travel 0.7163071036338806
+[North island's eastern coastline]: New zealand --[Relies on]-> Passenger travel 0.8074730038642883
+[North island's eastern coastline]: Pch --[Provides]-> Access to natural reserves 0.7632007002830505
+[North island's eastern coastline]: Pch --[Offers]-> Opportunities for recreational activities 0.708459734916687
+[North island's eastern coastline]: Pch --[Known for]-> Breathtaking views of the pacific ocean 0.7822378873825073
+[North island's eastern coastline]: Pch --[Reflects]-> Importance of well-planned transport systems 0.731330156326294
+[North island's eastern coastline]: Pch --[Known for]-> Lush landscapes 0.751191258430481
+[North island's eastern coastline]: Pch --[Stretches along]-> Western coastline of the united states 0.8109031319618225
+[North island's eastern coastline]: Pacific coast highway --[Stretches along]-> Western coastline of the united states 0.7891576290130615
+[North island's eastern coastline]: Pch --[Is]-> Part of new zealand state highway network 0.8093345165252686
+[North island's eastern coastline]: Pch --[Plays]-> Crucial role in facilitating economic development 0.7313247919082642
+[North island's eastern coastline]: Pch --[Is]-> Scenic roadway 0.7446390390396118
+[North island's eastern coastline]: Pch --[Integral to]-> Transport network 0.7228088974952698
+[North island's eastern coastline]: New zealand --[Has]-> Transport network 0.8419811129570007
+[North island's eastern coastline]: Pch --[Offers]-> Surfing 0.744788646697998
+[North island's eastern coastline]: Pch --[Offers]-> Hiking 0.7394093871116638
+[North island's eastern coastline]: Pch --[Plays]-> Crucial role in regional connectivity 0.7725839614868164
+[North island's eastern coastline]: Pch --[Connects]-> Auckland 0.7874857187271118
+[North island's eastern coastline]: Auckland --[Has]-> Public transport system 0.8088035583496094
+[North island's eastern coastline]: Auckland --[Has]-> Pedestrian-friendly projects 0.7771543860435486
+[North island's eastern coastline]: Auckland --[Has]-> Network of cycle lanes and shared paths 0.794226884841919

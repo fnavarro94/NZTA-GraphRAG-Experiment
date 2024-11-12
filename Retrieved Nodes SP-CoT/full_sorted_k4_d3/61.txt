@@ -1,0 +1,34 @@
+What region does the Metlink bus service connect to besides Porirua, the city in the country known for its Metlink services, which focus on providing comprehensive coverage across the region and allocates financial resources for the development, maintenance, and upgrading of transport infrastructure, including roads, railways, airports, and public transport systems?
+None
+Seed: Regional transport initiatives
+Seed: Significant investment in public transport infrastructure
+Seed: Importance of well-planned transport systems in both countries
+Seed: Transport link between wellington and northern regions of north island
+[Regional transport initiatives]: Waka kotahi nz transport agency --[Works collaboratively with]-> Regional authorities 0.8107437491416931
+[Regional transport initiatives]: Community transport services --[Complement]-> Existing public transport systems 0.8104768991470337
+[Regional transport initiatives]: New zealand transport agency --[Collaborates with]-> Regional councils 0.8054009079933167
+[Regional transport initiatives]: Community transport services --[Face]-> Funding constraints 0.8048076629638672
+[Regional transport initiatives]: New zealand transport agency --[Is]-> Collaborating with technology providers 0.8037499189376831
+[Regional transport initiatives]: New zealand transport agency --[Is]-> Developing integrated transport solutions 0.8033082485198975
+[Regional transport initiatives]: Community transport services --[Operated by]-> Non-profit organizations 0.8030557632446289
+[Significant investment in public transport infrastructure]: New zealand --[Has]-> Regional transport planning 0.8284260034561157
+[Significant investment in public transport infrastructure]: New zealand --[Has]-> Transport infrastructure development 0.826724112033844
+[Significant investment in public transport infrastructure]: New zealand --[Has]-> Transport infrastructure funding 0.8254296183586121
+[Significant investment in public transport infrastructure]: New zealand --[Has]-> Transport infrastructure 0.823828935623169
+[Significant investment in public transport infrastructure]: New zealand --[Has]-> Public transport development 0.8226669430732727
+[Significant investment in public transport infrastructure]: New zealand --[Has]-> Transport projects 0.8219262361526489
+[Significant investment in public transport infrastructure]: New zealand --[Has]-> Diverse transport network 0.8207749724388123
+[Importance of well-planned transport systems in both countries]: Auckland --[Has]-> Comprehensive public transport networks 0.8157079219818115
+[Importance of well-planned transport systems in both countries]: Auckland --[Has]-> Transport infrastructure 0.8124554753303528
+[Importance of well-planned transport systems in both countries]: Auckland --[Has]-> Public transport services 0.8113877773284912
+[Importance of well-planned transport systems in both countries]: Auckland --[Has]-> Comprehensive public transport system 0.810758650302887
+[Importance of well-planned transport systems in both countries]: New zealand --[Has]-> Transport network 0.8106343746185303
+[Importance of well-planned transport systems in both countries]: Auckland --[Has]-> City rail link 0.8102354407310486
+[Importance of well-planned transport systems in both countries]: Auckland --[Has]-> City rail link project 0.810043454170227
+[Transport link between wellington and northern regions of north island]: Wellington --[Has]-> Metlink brand 0.8240622282028198
+[Transport link between wellington and northern regions of north island]: Wellington --[Has]-> Metlink 0.820277750492096
+[Transport link between wellington and northern regions of north island]: Wellington --[Metlink brand]-> Serves as the umbrella for its operations 0.8142219185829163
+[Transport link between wellington and northern regions of north island]: Wellington --[Has]-> Comprehensive public transport networks 0.8141731023788452
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Alleviates]-> Pressure on existing transport infrastructure 0.8073909282684326
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Connects]-> Northern regions of the north island 0.8063108921051025
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Aims to improve]-> Transport link between wellington and northern regions of north island 0.8057001233100891

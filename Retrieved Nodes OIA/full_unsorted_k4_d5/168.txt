@@ -1,0 +1,36 @@
+By when is it planned for all regions to transfer to the National Ticketing System?
+None
+Seed: National Ticketing Solution request for proposal
+Seed: National Ticketing System
+Seed: no additional funding for fare reductions before the next NLTP in June 2021
+Seed: Request for National Ticketing System Documentation
+[National Ticketing Solution request for proposal]: www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ --[CONTAINS]-> National Ticketing Solution request for proposal 0.8485479354858398
+[National Ticketing Solution request for proposal]: RFP for National Ticket System --[AVAILABLE]-> www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ 0.8439344167709351
+[National Ticketing Solution request for proposal]: New Zealand Transport Agency --[REFUSES]-> RFP for National Ticket System 0.7890021800994873
+[National Ticketing Solution request for proposal]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7694430351257324
+[National Ticketing Solution request for proposal]: New Zealand Transport Agency --[BASED]-> Wellington 0.7769535183906555
+[National Ticketing Solution request for proposal]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.747717022895813
+[National Ticketing Solution request for proposal]: Golden Mile --[LOCATED]-> Wellington 0.7377825975418091
+[National Ticketing Solution request for proposal]: State Highway 1 --[LOCATED_IN]-> Wellington 0.717802882194519
+[National Ticketing Solution request for proposal]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7258946895599365
+[National Ticketing Solution request for proposal]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7044451236724854
+[National Ticketing Solution request for proposal]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7418220043182373
+[National Ticketing Solution request for proposal]: Wellington --[PART_OF]-> Wellington Region 0.779943585395813
+[National Ticketing Solution request for proposal]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7745494246482849
+[National Ticketing Solution request for proposal]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7635424137115479
+[National Ticketing Solution request for proposal]: Wellington --[HAS]-> tunnel 0.7449913024902344
+[National Ticketing Solution request for proposal]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7492280602455139
+[National Ticketing Solution request for proposal]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7452027201652527
+[National Ticketing Solution request for proposal]: Wellington --[POSTCODE]-> 6141 0.72071373462677
+[National Ticketing Solution request for proposal]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.761408805847168
+[National Ticketing Solution request for proposal]: Wellington --[IS_PART_OF]-> New Zealand 0.7640492916107178
+[National Ticketing Solution request for proposal]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7787265777587891
+[National Ticketing Solution request for proposal]: 50 Victoria Street --[IN]-> Wellington 0.7191682457923889
+[National Ticketing Solution request for proposal]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7270678281784058
+[National Ticketing Solution request for proposal]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7303801774978638
+[National Ticketing Solution request for proposal]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7524388432502747
+[National Ticketing Solution request for proposal]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7537566423416138
+[National Ticketing Solution request for proposal]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7569776177406311
+[National Ticketing Solution request for proposal]: NZ Transport Agency --[LOCATED]-> Wellington 0.7626608610153198
+[National Ticketing Solution request for proposal]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7356125712394714
+[National Ticketing Solution request for proposal]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7202695608139038

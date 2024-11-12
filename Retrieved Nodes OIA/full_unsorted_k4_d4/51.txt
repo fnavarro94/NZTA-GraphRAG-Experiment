@@ -1,0 +1,36 @@
+How many potential mobile phone use offenses were detected during the hidden texting camera trial?
+None
+Seed: criminal history
+Seed: Attempted Burglary
+Seed: no notifications of offences detected by speed cameras
+Seed: one infringement for failing to comply with the instructions given by a steady red-light signal
+[criminal history]: criminal history --[PART_OF]-> fitness and propriety factors 0.7947542667388916
+[criminal history]: fitness and propriety factors --[SET]-> sections 30C and 30D of the Land Transport Act 1998 0.7244278192520142
+[criminal history]: sections 30C and 30D of the Land Transport Act 1998 --[LINK]-> https://www.nzta.govt.nz/driver-licences/getting-an-endorsement/getting-an-endorsement-pvio/fit-and-proper-person-check-vio-endorsements/ 0.755620539188385
+[criminal history]: fit and proper person assessments --[FORM]-> criminal history 0.7980396747589111
+[criminal history]: Transport Agency --[REQUIRE]-> fit and proper person assessments 0.7448262572288513
+[criminal history]: www.ombudsman.parliament.nz --[PROVIDES]-> Transport Agency 0.7533485889434814
+[criminal history]: www.ombudsman.parliament.nz --[LINKS_TO]-> Ombudsman 0.7628060579299927
+[criminal history]: website --[LOCATED_AT]-> www.ombudsman.parliament.nz 0.7524785995483398
+[criminal history]: New Zealand Transport Agency --[PROVIDES]-> www.ombudsman.parliament.nz 0.7556256651878357
+[criminal history]: www.ombudsman.parliament.nz --[PROVIDES]-> New Zealand Transport Agency 0.7441621422767639
+[criminal history]: Ombudsman --[LOCATED_AT]-> www.ombudsman.parliament.nz 0.7487882971763611
+[criminal history]: www.ombudsman.parliament.nz --[HOSTS]-> contact details for the Ombudsman 0.7590175867080688
+[criminal history]: contact details for the Ombudsman --[LOCATED_AT]-> www.ombudsman.parliament.nz 0.7461650371551514
+[criminal history]: contact details for the Ombudsman --[AVAILABLE_AT]-> www.ombudsman.parliament.nz 0.7509005069732666
+[criminal history]: www.ombudsman.parliament.nz --[PROVIDES]-> contact details 0.763573169708252
+[criminal history]: contact details --[LOCATED]-> www.ombudsman.parliament.nz 0.7505841851234436
+[criminal history]: Ombudsman --[IS]-> www.ombudsman.parliament.nz 0.7486570477485657
+[criminal history]: Website --[URL]-> www.ombudsman.parliament.nz 0.7585158944129944
+[criminal history]: contact details for the Ombudsman --[FOUND]-> www.ombudsman.parliament.nz 0.7595189809799194
+[criminal history]: Ombudsman --[LOCATED]-> www.ombudsman.parliament.nz 0.7569878101348877
+[criminal history]: Contact Details --[AVAILABLE]-> www.ombudsman.parliament.nz 0.7521328330039978
+[criminal history]: www.ombudsman.parliament.nz --[PROVIDES]-> Ombudsman 0.7572818398475647
+[criminal history]: contact details for the Ombudsman --[LOCATED]-> www.ombudsman.parliament.nz 0.7471348643302917
+[criminal history]: www.ombudsman.parliament.nz --[ASSOCIATED]-> Ombudsman 0.767281174659729
+[criminal history]: Ombudsman contact details --[LOCATED]-> www.ombudsman.parliament.nz 0.7459487915039062
+[criminal history]: Transport Agency --[PROVIDES]-> summary of survey results 0.7729990482330322
+[criminal history]: Transport Agency --[PROVIDES]-> summary of exit interview results 0.7556977868080139
+[criminal history]: Transport Agency --[PROVIDES]-> summary of engagement survey results 0.778264045715332
+[criminal history]: Transport Agency --[PROVIDES]-> contact details for the Ombudsman 0.7602413892745972
+[criminal history]: response --[CONTAINS]-> contact details for the Ombudsman 0.7531431913375854

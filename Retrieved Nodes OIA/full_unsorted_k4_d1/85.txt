@@ -1,0 +1,21 @@
+What were the key safety incidents reported to the board in the June 2017 update?
+None
+Seed: Safety Incidents
+Seed: health and safety incidents
+Seed: rail operational safety
+Seed: incident reports
+[Safety Incidents]: Health, Safety & Quality Report --[CONTAINS]-> Safety Incidents 0.8728950619697571
+[Safety Incidents]: Safety Incidents --[INVESTIGATED]-> Board 0.9061064720153809
+[health and safety incidents]: health and safety incidents --[REGIONAL_BREAKDOWN]-> regional breakdown 0.8423941135406494
+[health and safety incidents]: incident reports --[RELATE_TO]-> health and safety incidents 0.8450368046760559
+[health and safety incidents]: health and safety incidents --[OCCURRED]-> 2008-2013 0.8658453226089478
+[rail operational safety]: awareness --[increased]-> rail operational safety 0.8363977074623108
+[rail operational safety]: rail operational safety --[improved]-> emergency plan 0.8257749676704407
+[incident reports]: Health and Safety Committee --[REVIEW]-> incident reports 0.8606594204902649
+[incident reports]: incident reports --[REVIEWED]-> regional managers 0.8352941870689392
+[incident reports]: incident reports --[RETAINED]-> 12 months 0.8259391188621521
+[incident reports]: spreadsheet --[CONTAINS]-> incident reports 0.8142615556716919
+[incident reports]: incident reports --[ISO]-> International Organisation for Standardisation 0.8296846151351929
+[incident reports]: incident reports --[RELATE_TO]-> health and safety incidents 0.8450368046760559
+[incident reports]: 12 months --[RETENTION_PERIOD]-> incident reports 0.8232512474060059
+[incident reports]: 2008-2013 --[CONTAINS]-> incident reports 0.8422702550888062

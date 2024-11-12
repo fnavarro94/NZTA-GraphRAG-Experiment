@@ -1,0 +1,36 @@
+What is the total amount of money Waka Kotahi is planning to spend on the Road to Zero strategy until 2030?
+None
+Seed: cost of the current Road to Zero advertising campaign
+Seed: development of the next Road to Zero Action Plan
+Seed: Waka Kotahi
+Seed: Waka Kotahi Senior Project Manager
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[COST]-> cost of the current Road to Zero advertising campaign 0.8234602212905884
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[LAUNCHED_BY]-> New Zealand Transport Agency 0.7997756600379944
+[cost of the current Road to Zero advertising campaign]: Request made under the Official Information Act 1982 --[CHALLENGES]-> Road To Zero campaign 0.7689681053161621
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[TARGET]-> zero accidents 0.7947006225585938
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[LOGIC]-> logic in making this critical decision 0.7865439057350159
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[EVALUATED_BY]-> post campaign polling or research 0.7813875079154968
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[WORKING_WITH]-> development of the next Road to Zero Action Plan 0.9046749472618103
+[development of the next Road to Zero Action Plan]: Response --[CONTAINS]-> Waka Kotahi 0.8084443807601929
+[development of the next Road to Zero Action Plan]: response --[CONTAINS]-> Waka Kotahi 0.8234377503395081
+[development of the next Road to Zero Action Plan]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.8130466341972351
+[development of the next Road to Zero Action Plan]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.8302622437477112
+[development of the next Road to Zero Action Plan]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7820689082145691
+[development of the next Road to Zero Action Plan]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7901474237442017
+[development of the next Road to Zero Action Plan]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.7785915732383728
+[development of the next Road to Zero Action Plan]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7817438244819641
+[development of the next Road to Zero Action Plan]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.8033709526062012
+[development of the next Road to Zero Action Plan]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.8152167201042175
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8285718560218811
+[development of the next Road to Zero Action Plan]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.8629093170166016
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.823869526386261
+[development of the next Road to Zero Action Plan]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.8034425973892212
+[development of the next Road to Zero Action Plan]: Leisa Coley --[EMPLOYED_BY]-> Waka Kotahi 0.8081392049789429
+[development of the next Road to Zero Action Plan]: Lizette Marais --[EMPLOYED_BY]-> Waka Kotahi 0.7868998050689697
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[EMPLOYS]-> Andy Knackstedt 0.8132748603820801
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[EMPLOYS]-> Qualified Staff 0.81168532371521
+[development of the next Road to Zero Action Plan]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.8307588696479797
+[development of the next Road to Zero Action Plan]: website --[RELATES_TO]-> Waka Kotahi 0.8205161690711975
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[RESPONDS_TO]-> OIA request 0.7954713106155396
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[RESPONDS_TO]-> request 0.7919179201126099
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[PROVIDES]-> OIA-10601-response-georgina-campbell.pdf 0.8142316937446594

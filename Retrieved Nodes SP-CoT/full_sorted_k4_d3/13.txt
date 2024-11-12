@@ -1,0 +1,34 @@
+Who is responsible for engaging with the community to enhance the project in Wellington that connects various neighborhoods and promotes cycling as a primary mode of transport?
+None
+Seed: A crucial role in funding and promoting cycling infrastructure projects
+Seed: Wellington's commitment to becoming a more cycle-friendly city
+Seed: Broader initiative by the wellington city council and greater wellington regional council
+Seed: Promote sustainable transport
+[A crucial role in funding and promoting cycling infrastructure projects]: Auckland transport --[Focused on]-> Promoting cycling 0.8759722709655762
+[A crucial role in funding and promoting cycling infrastructure projects]: Wellington --[Has]-> Initiatives 0.8751083612442017
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Plays]-> A crucial role in funding and promoting cycling infrastructure projects 0.8742314577102661
+[A crucial role in funding and promoting cycling infrastructure projects]: Auckland transport --[Collaborates with]-> Local communities 0.8728174567222595
+[A crucial role in funding and promoting cycling infrastructure projects]: Auckland transport --[Implemented]-> Cycling infrastructure projects 0.8723471760749817
+[A crucial role in funding and promoting cycling infrastructure projects]: Auckland transport --[Actively involved in]-> Community engagement 0.872133731842041
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Invested in cycling infrastructure 0.8667894005775452
+[Wellington's commitment to becoming a more cycle-friendly city]: Wellington cycle network --[Fosters]-> Culture of cycling as a primary mode of transport 0.901059627532959
+[Wellington's commitment to becoming a more cycle-friendly city]: Wellington cycle network --[Established in response to]-> Growing emphasis on environmentally friendly transport options 0.9004495739936829
+[Wellington's commitment to becoming a more cycle-friendly city]: Wellington cycle network --[Integrates with]-> Public transport systems 0.8996570706367493
+[Wellington's commitment to becoming a more cycle-friendly city]: Wellington cycle network --[Established in response to]-> Increasing urban congestion 0.8965622782707214
+[Wellington's commitment to becoming a more cycle-friendly city]: Sustainable urban transport --[Key component]-> Wellington cycle network 0.8926516771316528
+[Wellington's commitment to becoming a more cycle-friendly city]: Wellington cycle network --[Aligned with]-> New zealand's broader transport goals 0.8904104232788086
+[Wellington's commitment to becoming a more cycle-friendly city]: Wellington cycle network --[Part of]-> Wellington's commitment to becoming a more cycle-friendly city 0.8894598484039307
+[Broader initiative by the wellington city council and greater wellington regional council]: Wellington cycle network --[Fosters]-> Culture of cycling as a primary mode of transport 0.901059627532959
+[Broader initiative by the wellington city council and greater wellington regional council]: Wellington cycle network --[Established in response to]-> Growing emphasis on environmentally friendly transport options 0.9004495739936829
+[Broader initiative by the wellington city council and greater wellington regional council]: Wellington cycle network --[Integrates with]-> Public transport systems 0.8996570706367493
+[Broader initiative by the wellington city council and greater wellington regional council]: Wellington cycle network --[Established in response to]-> Increasing urban congestion 0.8965622782707214
+[Broader initiative by the wellington city council and greater wellington regional council]: Sustainable urban transport --[Key component]-> Wellington cycle network 0.8926516771316528
+[Broader initiative by the wellington city council and greater wellington regional council]: Wellington cycle network --[Aligned with]-> New zealand's broader transport goals 0.8904104232788086
+[Broader initiative by the wellington city council and greater wellington regional council]: Wellington cycle network --[Part of]-> Wellington's commitment to becoming a more cycle-friendly city 0.8894598484039307
+[Promote sustainable transport]: Wellington cycleway --[Designed to]-> Promote sustainable transport 0.9014391899108887
+[Promote sustainable transport]: Wellington cycleway --[Connects]-> Various neighborhoods 0.9007775783538818
+[Promote sustainable transport]: Wellington cycleway --[Integrated into]-> City's transport infrastructure 0.8990142345428467
+[Promote sustainable transport]: Wellington cycleway --[Is]-> Prominent network of cycling routes 0.8863071799278259
+[Promote sustainable transport]: Wellington cycleway --[Serves]-> Recreational and commuting purposes 0.8805415034294128
+[Promote sustainable transport]: Wellington cycleway --[Links with]-> Public transport options 0.8789757490158081
+[Promote sustainable transport]: Wellington cycleway --[Enhance]-> Accessibility of the city for cyclists 0.8765726089477539

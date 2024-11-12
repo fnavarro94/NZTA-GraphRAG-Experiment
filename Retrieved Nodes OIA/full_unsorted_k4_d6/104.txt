@@ -1,0 +1,36 @@
+What are the paid administration fees for unpaid tolls from 2017 to 2019?
+None
+Seed: unpaid tolls
+Seed: administration fee
+Seed: paid toll revenues
+Seed: toll tariffs
+[unpaid tolls]: unpaid tolls --[ASSOCIATED_WITH]-> toll roads 0.8675546050071716
+[unpaid tolls]: toll roads --[INCLUDE]-> administration fee 0.8912104964256287
+[unpaid tolls]: administration fee --[APPLIED_TO]-> toll payment notice 0.8823209404945374
+[unpaid tolls]: New Zealand Transport Agency --[ISSUES]-> toll payment notice 0.8437414169311523
+[unpaid tolls]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7669855356216431
+[unpaid tolls]: New Zealand Transport Agency --[BASED]-> Wellington 0.7620729207992554
+[unpaid tolls]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7630854249000549
+[unpaid tolls]: Golden Mile --[LOCATED]-> Wellington 0.7113272547721863
+[unpaid tolls]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7383095026016235
+[unpaid tolls]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7508084774017334
+[unpaid tolls]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.719673752784729
+[unpaid tolls]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7477580308914185
+[unpaid tolls]: Wellington --[PART_OF]-> Wellington Region 0.7286078333854675
+[unpaid tolls]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7507436275482178
+[unpaid tolls]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7500615119934082
+[unpaid tolls]: Wellington --[HAS]-> tunnel 0.7467016577720642
+[unpaid tolls]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7417945265769958
+[unpaid tolls]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7675799131393433
+[unpaid tolls]: Wellington --[POSTCODE]-> 6141 0.7467132806777954
+[unpaid tolls]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.758306086063385
+[unpaid tolls]: Wellington --[IS_PART_OF]-> New Zealand 0.7135940790176392
+[unpaid tolls]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7280527353286743
+[unpaid tolls]: 50 Victoria Street --[IN]-> Wellington 0.7296807765960693
+[unpaid tolls]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7511265277862549
+[unpaid tolls]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.746856689453125
+[unpaid tolls]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7508838176727295
+[unpaid tolls]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7484471797943115
+[unpaid tolls]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7507714629173279
+[unpaid tolls]: NZ Transport Agency --[LOCATED]-> Wellington 0.7650273442268372
+[unpaid tolls]: Wellington --[CONTAINS]-> 50 Victoria Street 0.735684871673584

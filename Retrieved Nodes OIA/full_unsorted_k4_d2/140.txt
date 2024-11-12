@@ -1,0 +1,36 @@
+How much was spent on public consultation for the Golden Mile upgrades by July 2020?
+None
+Seed: itemised breakdown of all spending on public consultation for Golden Mile upgrades
+Seed: information pertaining to the Golden Mile revitalisation project contract
+Seed: information on Golden Mile revitalisation project contract
+Seed: Golden Mile revitalisation project
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[ITEMISED]-> itemised breakdown of all spending on public consultation for Golden Mile upgrades 0.8785224556922913
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[EMAIL]-> joel.macmanus@stuff.co.nz 0.7178447246551514
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[REQUEST]-> Request made under the Official Information Act 1982 0.7430177927017212
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[REQUESTED]-> information under the Official Information Act 1982 0.7346650958061218
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[DATE]-> 4 September 2020 0.7424349188804626
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[EMAIL]-> 28 July 2020 0.7635780572891235
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[REF]-> REF: OIA -6939 0.7261835932731628
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[ITEMISED]-> itemised list of all Let’s Get Wellington Moving spending in 2020 to date 0.8066169023513794
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[DEAR]-> Dear Joel 0.6844617128372192
+[information pertaining to the Golden Mile revitalisation project contract]: Waka Kotahi --[WITHHOLDS]-> information pertaining to the Golden Mile revitalisation project contract 0.8042905926704407
+[information pertaining to the Golden Mile revitalisation project contract]: Response --[CONTAINS]-> Waka Kotahi 0.7302049994468689
+[information pertaining to the Golden Mile revitalisation project contract]: response --[CONTAINS]-> Waka Kotahi 0.7198861837387085
+[information pertaining to the Golden Mile revitalisation project contract]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.735893726348877
+[information pertaining to the Golden Mile revitalisation project contract]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.7433990240097046
+[information pertaining to the Golden Mile revitalisation project contract]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7243970036506653
+[information pertaining to the Golden Mile revitalisation project contract]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7255668044090271
+[information pertaining to the Golden Mile revitalisation project contract]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.7153293490409851
+[information pertaining to the Golden Mile revitalisation project contract]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7048953771591187
+[information pertaining to the Golden Mile revitalisation project contract]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.7414987087249756
+[information pertaining to the Golden Mile revitalisation project contract]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.7602975368499756
+[information pertaining to the Golden Mile revitalisation project contract]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7496435642242432
+[information pertaining to the Golden Mile revitalisation project contract]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.7577943801879883
+[information pertaining to the Golden Mile revitalisation project contract]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.7435461282730103
+[information pertaining to the Golden Mile revitalisation project contract]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.7339364290237427
+[information pertaining to the Golden Mile revitalisation project contract]: Leisa Coley --[EMPLOYED_BY]-> Waka Kotahi 0.7257468700408936
+[information pertaining to the Golden Mile revitalisation project contract]: Lizette Marais --[EMPLOYED_BY]-> Waka Kotahi 0.7311191558837891
+[information pertaining to the Golden Mile revitalisation project contract]: Waka Kotahi --[EMPLOYS]-> Andy Knackstedt 0.7109519243240356
+[information pertaining to the Golden Mile revitalisation project contract]: Waka Kotahi --[EMPLOYS]-> Qualified Staff 0.7091022729873657
+[information pertaining to the Golden Mile revitalisation project contract]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.751274824142456
+[information pertaining to the Golden Mile revitalisation project contract]: website --[RELATES_TO]-> Waka Kotahi 0.7282407283782959

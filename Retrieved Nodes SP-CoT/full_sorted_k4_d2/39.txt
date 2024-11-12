@@ -1,0 +1,34 @@
+What is the abbreviation commonly used for the entity that plays a pivotal role in facilitating collaboration and providing guidance for the development and implementation of Transport Emergency Response Plans in New Zealand?
+None
+Seed: Collaboration between civil defence organizations and transport agencies
+Seed: Vital role in broader transport network of new zealand
+Seed: Primary provider of ambulance services
+Seed: Collaboration with new zealand ministry of health and local health authorities
+[Collaboration between civil defence organizations and transport agencies]: Civil defence emergency management act 2002 --[Encourages]-> Collaboration between civil defence organizations and transport agencies 0.8031700253486633
+[Collaboration between civil defence organizations and transport agencies]: Civil defence emergency management act 2002 --[Mandates]-> Local authorities incorporate transport considerations 0.7915874123573303
+[Collaboration between civil defence organizations and transport agencies]: Civil defence emergency management act 2002 --[Emphasizes]-> Importance of coordination 0.7862852215766907
+[Collaboration between civil defence organizations and transport agencies]: Civil defence emergency management act 2002 --[Encourages]-> Community engagement in emergency preparedness 0.7836141586303711
+[Collaboration between civil defence organizations and transport agencies]: Civil defence emergency management act 2002 --[Outlines]-> Responsibilities of communities 0.7732027173042297
+[Collaboration between civil defence organizations and transport agencies]: Civil defence emergency management act 2002 --[Is]-> Key piece of legislation 0.7694529294967651
+[Collaboration between civil defence organizations and transport agencies]: Civil defence emergency management act 2002 --[Provides]-> Comprehensive approach 0.7609803676605225
+[Vital role in broader transport network of new zealand]: New zealand air ambulance service --[Plays]-> Vital role in broader transport network of new zealand 0.8492995500564575
+[Vital role in broader transport network of new zealand]: New zealand air ambulance service --[Is]-> Critical component of emergency medical transport system 0.8395395278930664
+[Vital role in broader transport network of new zealand]: New zealand air ambulance service --[Works]-> Collaboration with new zealand ministry of health and local health authorities 0.824052631855011
+[Vital role in broader transport network of new zealand]: New zealand air ambulance service --[Provides]-> Rapid response and advanced medical care 0.805850088596344
+[Vital role in broader transport network of new zealand]: New zealand air ambulance service --[Relies]-> Community support and fundraising efforts 0.8051795959472656
+[Vital role in broader transport network of new zealand]: New zealand air ambulance service --[Focuses]-> Improving response times and integrating new technologies 0.800483763217926
+[Vital role in broader transport network of new zealand]: New zealand air ambulance service --[Faces]-> Funding constraints and need for ongoing training and equipment upgrades 0.7900488376617432
+[Primary provider of ambulance services]: St john --[Plays role in]-> Transport and emergency medical services 0.8089572787284851
+[Primary provider of ambulance services]: St john --[Responsible for]-> Patient transport 0.7955143451690674
+[Primary provider of ambulance services]: St john --[Operates]-> Largest ambulance service in new zealand 0.7901791930198669
+[Primary provider of ambulance services]: St john --[Is]-> Primary provider of ambulance services 0.7881965041160583
+[Primary provider of ambulance services]: St john --[Provides]-> Pre-hospital emergency care and transport 0.7827422618865967
+[Primary provider of ambulance services]: St john --[Responsible for]-> Emergency medical response 0.7808054089546204
+[Primary provider of ambulance services]: St john --[Offers]-> Community transport solutions 0.7806141376495361
+[Collaboration with new zealand ministry of health and local health authorities]: New zealand air ambulance service --[Plays]-> Vital role in broader transport network of new zealand 0.8492995500564575
+[Collaboration with new zealand ministry of health and local health authorities]: New zealand air ambulance service --[Is]-> Critical component of emergency medical transport system 0.8395395278930664
+[Collaboration with new zealand ministry of health and local health authorities]: New zealand air ambulance service --[Works]-> Collaboration with new zealand ministry of health and local health authorities 0.824052631855011
+[Collaboration with new zealand ministry of health and local health authorities]: New zealand air ambulance service --[Provides]-> Rapid response and advanced medical care 0.805850088596344
+[Collaboration with new zealand ministry of health and local health authorities]: New zealand air ambulance service --[Relies]-> Community support and fundraising efforts 0.8051795959472656
+[Collaboration with new zealand ministry of health and local health authorities]: New zealand air ambulance service --[Focuses]-> Improving response times and integrating new technologies 0.800483763217926
+[Collaboration with new zealand ministry of health and local health authorities]: New zealand air ambulance service --[Faces]-> Funding constraints and need for ongoing training and equipment upgrades 0.7900488376617432

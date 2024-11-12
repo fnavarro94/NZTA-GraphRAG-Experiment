@@ -1,0 +1,28 @@
+What repair options are being considered for Kōpū Hill Road, SH25A?
+None
+Seed: committee managing the Kopa Hill Road repair process
+Seed: State Highway 25A Rebuild Project
+Seed: request for pothole repair cost information
+Seed: information on state highway maintenance
+[committee managing the Kopa Hill Road repair process]: committee managing the Kopa Hill Road repair process --[MANAGES]-> New Zealand Transport Agency 0.8485589027404785
+[committee managing the Kopa Hill Road repair process]: updates on progress --[AVAILABLE]-> https://www.nzta.govt.nz/projects/sh25-sh25a-thames-coromandel/sh25a-rebuild/ 0.8467702865600586
+[committee managing the Kopa Hill Road repair process]: New Zealand Transport Agency --[MANAGES]-> committee managing the Kopa Hill Road repair process 0.8449010252952576
+[committee managing the Kopa Hill Road repair process]: road renewal --[OVERDUE]-> road maintenance 0.8377679586410522
+[committee managing the Kopa Hill Road repair process]: Waka Kotahi --[PRIORITY]-> opening highways 0.8357303142547607
+[committee managing the Kopa Hill Road repair process]: New Zealand Transport Agency --[CONSIDERS]-> request for pothole repair cost information 0.8356320858001709
+[committee managing the Kopa Hill Road repair process]: Saddle Road Route --[REQUIRES]-> maintenance 0.8352976441383362
+[State Highway 25A Rebuild Project]: Waka Kotahi Senior Project Manager --[MANAGES]-> State Highway 25A Rebuild Project 0.8524951934814453
+[request for pothole repair cost information]: committee managing the Kopa Hill Road repair process --[MANAGES]-> New Zealand Transport Agency 0.8485589027404785
+[request for pothole repair cost information]: updates on progress --[AVAILABLE]-> https://www.nzta.govt.nz/projects/sh25-sh25a-thames-coromandel/sh25a-rebuild/ 0.8467702865600586
+[request for pothole repair cost information]: New Zealand Transport Agency --[MANAGES]-> committee managing the Kopa Hill Road repair process 0.8449010252952576
+[request for pothole repair cost information]: road renewal --[OVERDUE]-> road maintenance 0.8377679586410522
+[request for pothole repair cost information]: Waka Kotahi --[PRIORITY]-> opening highways 0.8357303142547607
+[request for pothole repair cost information]: New Zealand Transport Agency --[CONSIDERS]-> request for pothole repair cost information 0.8356320858001709
+[request for pothole repair cost information]: Saddle Road Route --[REQUIRES]-> maintenance 0.8352976441383362
+[information on state highway maintenance]: committee managing the Kopa Hill Road repair process --[MANAGES]-> New Zealand Transport Agency 0.8485589027404785
+[information on state highway maintenance]: updates on progress --[AVAILABLE]-> https://www.nzta.govt.nz/projects/sh25-sh25a-thames-coromandel/sh25a-rebuild/ 0.8467702865600586
+[information on state highway maintenance]: New Zealand Transport Agency --[MANAGES]-> committee managing the Kopa Hill Road repair process 0.8449010252952576
+[information on state highway maintenance]: road renewal --[OVERDUE]-> road maintenance 0.8377679586410522
+[information on state highway maintenance]: Waka Kotahi --[PRIORITY]-> opening highways 0.8357303142547607
+[information on state highway maintenance]: New Zealand Transport Agency --[CONSIDERS]-> request for pothole repair cost information 0.8356320858001709
+[information on state highway maintenance]: Saddle Road Route --[REQUIRES]-> maintenance 0.8352976441383362

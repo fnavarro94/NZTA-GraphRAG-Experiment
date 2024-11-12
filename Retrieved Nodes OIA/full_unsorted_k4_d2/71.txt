@@ -1,0 +1,26 @@
+What is the purpose of the Road Policing fiscally neutral adjustment request made in April 2024?
+None
+Seed: Request for road policing fiscally neutral adjustment
+Seed: road traffic control purposes
+Seed: Road Policing Activities
+Seed: https://www.nzta.govt.nz/assets/resources/road-policing-programme/docs/rpp-2021-24.pdf
+[Request for road policing fiscally neutral adjustment]: BRI-3024 --[RELATES_TO]-> Request for road policing fiscally neutral adjustment 0.9048925638198853
+[road traffic control purposes]: retroreflective sheeting --[USED]-> road traffic control purposes 0.8157439231872559
+[road traffic control purposes]: retroreflective sheeting --[MUST_MEET]-> New Zealand standards and specifications 0.7362982034683228
+[road traffic control purposes]: retroreflective sheeting --[APPROVED]-> Waka Kotahi 0.7166873216629028
+[road traffic control purposes]: retroreflective sheeting for use in New Zealand --[RELATES]-> retroreflective sheeting 0.7400484085083008
+[road traffic control purposes]: information on retroreflective sheeting --[RELATES]-> retroreflective sheeting 0.7246799468994141
+[road traffic control purposes]: retroreflective sheeting --[MUST_MEET]-> performance requirements 0.7274935245513916
+[road traffic control purposes]: retroreflective materials and devices for road traffic control purposes --[RELATES]-> retroreflective sheeting 0.7862962484359741
+[road traffic control purposes]: road traffic control purposes --[RELATES]-> retroreflective sheeting 0.8114643096923828
+[road traffic control purposes]: retroreflective sheeting --[MUST_COMPLY]-> New Zealand standards and specifications 0.7426679134368896
+[Road Policing Activities]: Road Safety Partnership Programme --[PROVIDES]-> Road Policing Activities 0.8223717212677002
+[Road Policing Activities]: Road Safety Partnership Programme --[FOCUSES_ON]-> Restraints, Impairment, Distraction, Speed 0.8058986663818359
+[Road Policing Activities]: Road Safety Partnership Programme --[DOUBLES]-> Speed and Drunk Driving Enforcement 0.7810115814208984
+[Road Policing Activities]: Road Safety Partnership Programme --[PROVIDES]-> https://www.nzta.govt.nz/assets/resources/road-policing-programme/docs/rpp-2021-24.pdf 0.8226243257522583
+[Road Policing Activities]: Road Safety Partnership Programme --[ALLOCATES]-> $1.24 billion 0.8024407625198364
+[https://www.nzta.govt.nz/assets/resources/road-policing-programme/docs/rpp-2021-24.pdf]: Road Safety Partnership Programme --[PROVIDES]-> https://www.nzta.govt.nz/assets/resources/road-policing-programme/docs/rpp-2021-24.pdf 0.8226243257522583
+[https://www.nzta.govt.nz/assets/resources/road-policing-programme/docs/rpp-2021-24.pdf]: Road Safety Partnership Programme --[FOCUSES_ON]-> Restraints, Impairment, Distraction, Speed 0.8058986663818359
+[https://www.nzta.govt.nz/assets/resources/road-policing-programme/docs/rpp-2021-24.pdf]: Road Safety Partnership Programme --[DOUBLES]-> Speed and Drunk Driving Enforcement 0.7810115814208984
+[https://www.nzta.govt.nz/assets/resources/road-policing-programme/docs/rpp-2021-24.pdf]: Road Safety Partnership Programme --[PROVIDES]-> Road Policing Activities 0.8223717212677002
+[https://www.nzta.govt.nz/assets/resources/road-policing-programme/docs/rpp-2021-24.pdf]: Road Safety Partnership Programme --[ALLOCATES]-> $1.24 billion 0.8024407625198364

@@ -1,0 +1,28 @@
+What is required for obtaining an I endorsement, and how are criminal convictions considered during the process?
+None
+Seed: information related to criminal convictions of driving instructor (I) endorsement holders
+Seed: criminal convictions
+Seed: applications for I endorsements
+Seed: Applicant 7
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Michael Morrah --[REQUESTS]-> information related to criminal convictions of driving instructor (I) endorsement holders 0.8631559610366821
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Transport Agency --[ASSESS]-> applications for I endorsements 0.862134575843811
+[information related to criminal convictions of driving instructor (I) endorsement holders]: I endorsement holders --[SUBJECT_TO]-> monitoring process 0.8615331649780273
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[MONITORS]-> I endorsement holders 0.8517351150512695
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Transport Agency --[GRANT]-> I endorsements 0.8239597082138062
+[information related to criminal convictions of driving instructor (I) endorsement holders]: standards for all licence endorsement holders --[PART_OF]-> broader work to strengthen regulatory compliance 0.8118776082992554
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[ASSOCIATED]-> Business-as-usual legal advice 0.8039491176605225
+[criminal convictions]: I endorsements --[HOLD]-> criminal convictions 0.9105414152145386
+[criminal convictions]: applications for I endorsements --[INCLUDE]-> renewals of existing endorsement holders 0.8636582493782043
+[criminal convictions]: Transport Agency --[ASSESS]-> applications for I endorsements 0.862134575843811
+[criminal convictions]: I endorsement holders --[SUBJECT_TO]-> monitoring process 0.8615331649780273
+[criminal convictions]: New Zealand Transport Agency --[MONITORS]-> I endorsement holders 0.8517351150512695
+[criminal convictions]: criminal convictions --[ASSOCIATED_WITH]-> driver trainers or instructors 0.846613347530365
+[criminal convictions]: fit and proper person assessments --[FORM]-> criminal history 0.8423911333084106
+[applications for I endorsements]: I endorsements --[HOLD]-> criminal convictions 0.9105414152145386
+[applications for I endorsements]: applications for I endorsements --[INCLUDE]-> renewals of existing endorsement holders 0.8636582493782043
+[applications for I endorsements]: Michael Morrah --[REQUESTS]-> information related to criminal convictions of driving instructor (I) endorsement holders 0.8631559610366821
+[applications for I endorsements]: Transport Agency --[ASSESS]-> applications for I endorsements 0.862134575843811
+[applications for I endorsements]: I endorsement holders --[SUBJECT_TO]-> monitoring process 0.8615331649780273
+[applications for I endorsements]: New Zealand Transport Agency --[MONITORS]-> I endorsement holders 0.8517351150512695
+[applications for I endorsements]: criminal convictions --[ASSOCIATED_WITH]-> driver trainers or instructors 0.846613347530365
+[Applicant 7]: Applicant 7 --[CONVICTED]-> Breach Probation 0.8229623436927795

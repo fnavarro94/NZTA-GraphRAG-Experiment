@@ -1,0 +1,29 @@
+What is the destination city at the western end of the scenic passenger rail service in the country where the car-sharing service mentioned in the passage as a local initiative providing residents with flexible transportation options operates, known for showcasing stunning landscapes, particularly through the Southern Alps?
+None
+Seed: Scenic routes such as the tranzalpine and the northern explorer
+Seed: Scenic passenger train service
+Seed: Provide seamless travel experiences
+Seed: Unique and picturesque travel experience
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Showcase]-> New zealand's stunning landscapes 0.8367034792900085
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Include]-> Scenic routes such as the tranzalpine and the northern explorer 0.8363021612167358
+[Scenic passenger train service]: Tranzalpine --[Journey]-> Through southern alps 0.8247236609458923
+[Scenic passenger train service]: Community transport services --[Include]-> Ride-sharing initiatives 0.8212337493896484
+[Scenic passenger train service]: Tranzalpine --[Is]-> Scenic passenger train service 0.8185656070709229
+[Scenic passenger train service]: Tranzalpine --[Is]-> Scenic train 0.8147936463356018
+[Scenic passenger train service]: Northern explorer --[Is]-> Scenic train 0.8134699463844299
+[Scenic passenger train service]: Road transport --[Characterized by]-> Scenic routes 0.812118649482727
+[Scenic passenger train service]: Hamilton --[Is]-> Transport hub 0.811644434928894
+[Provide seamless travel experiences]: Tranzalpine --[Journey]-> Through southern alps 0.8247236609458923
+[Provide seamless travel experiences]: Community transport services --[Include]-> Ride-sharing initiatives 0.8212337493896484
+[Provide seamless travel experiences]: Tranzalpine --[Is]-> Scenic passenger train service 0.8185656070709229
+[Provide seamless travel experiences]: Tranzalpine --[Is]-> Scenic train 0.8147936463356018
+[Provide seamless travel experiences]: Northern explorer --[Is]-> Scenic train 0.8134699463844299
+[Provide seamless travel experiences]: Road transport --[Characterized by]-> Scenic routes 0.812118649482727
+[Provide seamless travel experiences]: Hamilton --[Is]-> Transport hub 0.811644434928894
+[Unique and picturesque travel experience]: Tranzalpine --[Journey]-> Through southern alps 0.8247236609458923
+[Unique and picturesque travel experience]: Community transport services --[Include]-> Ride-sharing initiatives 0.8212337493896484
+[Unique and picturesque travel experience]: Tranzalpine --[Is]-> Scenic passenger train service 0.8185656070709229
+[Unique and picturesque travel experience]: Tranzalpine --[Is]-> Scenic train 0.8147936463356018
+[Unique and picturesque travel experience]: Northern explorer --[Is]-> Scenic train 0.8134699463844299
+[Unique and picturesque travel experience]: Road transport --[Characterized by]-> Scenic routes 0.812118649482727
+[Unique and picturesque travel experience]: Hamilton --[Is]-> Transport hub 0.811644434928894

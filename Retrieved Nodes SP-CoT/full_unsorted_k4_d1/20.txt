@@ -1,0 +1,10 @@
+What independent Crown entity is established by the legislation in New Zealand that aims to enhance the safety and accessibility of walking routes for pedestrians to promote and facilitate walking access throughout New Zealand?
+None
+Seed: Independent crown entity
+Seed: Rights of individuals with disabilities
+Seed: Legislative framework for road safety initiatives
+Seed: Advocacy groups
+[Independent crown entity]: New zealand walking access commission --[Is]-> Independent crown entity 0.9367455244064331
+[Rights of individuals with disabilities]: Human rights act 1993 --[Outlines]-> Rights of individuals with disabilities 0.8031203150749207
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Provides]-> Legislative framework for road safety initiatives 0.8113654255867004
+[Advocacy groups]: New zealand transport agency --[Works with]-> Advocacy groups 0.8433495759963989

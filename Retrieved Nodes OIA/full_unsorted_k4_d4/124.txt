@@ -1,0 +1,36 @@
+When is the Detailed Business Case (DBC) for the North Auckland Rapid Transit Corridor expected to be available?
+None
+Seed: North Auckland Rapid Transit Corridor
+Seed: National Ticketing Solution request for proposal
+Seed: Rapid Transit Network Delivery Plan
+Seed: Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case
+[North Auckland Rapid Transit Corridor]: North Auckland Rapid Transit Corridor --[LOCATED]-> Auckland 0.887446939945221
+[North Auckland Rapid Transit Corridor]: State Highway 1 --[LOCATED_IN]-> Auckland 0.8183478713035583
+[North Auckland Rapid Transit Corridor]: road safety --[ENHANCED_BY]-> State Highway 1 0.756011962890625
+[North Auckland Rapid Transit Corridor]: transportation infrastructure --[IMPROVES]-> road safety 0.7617480754852295
+[North Auckland Rapid Transit Corridor]: road maintenance --[IMPROVES]-> road safety 0.7409902811050415
+[North Auckland Rapid Transit Corridor]: road safety --[COLLABORATED_BY]-> Wellington City Council 0.7930753231048584
+[North Auckland Rapid Transit Corridor]: drugs --[AFFECTS]-> road safety 0.7190490961074829
+[North Auckland Rapid Transit Corridor]: road safety --[IMPROVED_BY]-> initiatives 0.7604721784591675
+[North Auckland Rapid Transit Corridor]: road safety --[ENHANCED_BY]-> New Zealand Transport Agency 0.8058738112449646
+[North Auckland Rapid Transit Corridor]: safety solutions --[IMPROVES]-> road safety 0.7527916431427002
+[North Auckland Rapid Transit Corridor]: road safety --[IMPROVED_BY]-> reduced speed limits 0.7533303499221802
+[North Auckland Rapid Transit Corridor]: speed review process --[AFFECTS]-> road safety 0.7634906768798828
+[North Auckland Rapid Transit Corridor]: State Highway 1 --[REPAIRS]-> potholes 0.7491337060928345
+[North Auckland Rapid Transit Corridor]: Road Safety Initiatives --[IMPROVES]-> State Highway 1 0.7542925477027893
+[North Auckland Rapid Transit Corridor]: New Zealand Transport Agency --[PROVIDES]-> Road Safety Initiatives 0.8101934194564819
+[North Auckland Rapid Transit Corridor]: Road Safety Initiatives --[COLLABORATED_BY]-> Wellington City Council 0.7927260398864746
+[North Auckland Rapid Transit Corridor]: Pedestrian and Cyclist Crashes --[ASSOCIATED_WITH]-> Road Safety Initiatives 0.7503513097763062
+[North Auckland Rapid Transit Corridor]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7908964157104492
+[North Auckland Rapid Transit Corridor]: New Zealand Transport Agency --[BASED]-> Wellington 0.836161732673645
+[North Auckland Rapid Transit Corridor]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.8125805854797363
+[North Auckland Rapid Transit Corridor]: Golden Mile --[LOCATED]-> Wellington 0.7857056260108948
+[North Auckland Rapid Transit Corridor]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7809122204780579
+[North Auckland Rapid Transit Corridor]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7754538655281067
+[North Auckland Rapid Transit Corridor]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7828757762908936
+[North Auckland Rapid Transit Corridor]: Wellington --[PART_OF]-> Wellington Region 0.7915969491004944
+[North Auckland Rapid Transit Corridor]: New Zealand --[HAS_CAPITAL]-> Wellington 0.8114297986030579
+[North Auckland Rapid Transit Corridor]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.8299563527107239
+[North Auckland Rapid Transit Corridor]: Wellington --[HAS]-> tunnel 0.8063295483589172
+[North Auckland Rapid Transit Corridor]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.8179419636726379
+[North Auckland Rapid Transit Corridor]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7949956655502319

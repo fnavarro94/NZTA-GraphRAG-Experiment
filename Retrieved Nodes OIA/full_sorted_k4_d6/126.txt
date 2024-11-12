@@ -1,0 +1,28 @@
+Were any details about the crash that caused the $93,114.27 repair withheld?
+None
+Seed: figures on drivers involved in fatal crashes
+Seed: report on the impacts of the Fare Recovery Ratio
+Seed: Traffic Crash Reports
+Seed: Operated A Motor Vehicle Recklessly
+[figures on drivers involved in fatal crashes]: AA --[PROVIDES]-> figures on drivers involved in fatal crashes 0.8103829622268677
+[report on the impacts of the Fare Recovery Ratio]: email of 12 May 2023 --[REQUESTS]-> accident or crash history 0.8385598659515381
+[report on the impacts of the Fare Recovery Ratio]: Crash --[REPORTED_BY]-> Police 0.838557243347168
+[report on the impacts of the Fare Recovery Ratio]: Theft Ex Car (Under $500) --[COUNT]-> 2 0.8350920677185059
+[report on the impacts of the Fare Recovery Ratio]: serious injury crashes --[RECORDED]-> CAS 0.834587037563324
+[report on the impacts of the Fare Recovery Ratio]: Crash Analysis System --[UPDATED]-> Traffic Crash Report 0.8340380191802979
+[report on the impacts of the Fare Recovery Ratio]: 2017 --[NON_INJURY_CRASHES]-> 150 0.8339059352874756
+[report on the impacts of the Fare Recovery Ratio]: information on crash movements and causes --[ASSIGNED]-> primary contribution 0.8336964845657349
+[Traffic Crash Reports]: email of 12 May 2023 --[REQUESTS]-> accident or crash history 0.8385598659515381
+[Traffic Crash Reports]: Crash --[REPORTED_BY]-> Police 0.838557243347168
+[Traffic Crash Reports]: Theft Ex Car (Under $500) --[COUNT]-> 2 0.8350920677185059
+[Traffic Crash Reports]: serious injury crashes --[RECORDED]-> CAS 0.834587037563324
+[Traffic Crash Reports]: Crash Analysis System --[UPDATED]-> Traffic Crash Report 0.8340380191802979
+[Traffic Crash Reports]: 2017 --[NON_INJURY_CRASHES]-> 150 0.8339059352874756
+[Traffic Crash Reports]: information on crash movements and causes --[ASSIGNED]-> primary contribution 0.8336964845657349
+[Operated A Motor Vehicle Recklessly]: Theft Ex Car (Under $500) --[COUNT]-> 2 0.8350920677185059
+[Operated A Motor Vehicle Recklessly]: Crash Analysis System --[UPDATED]-> Traffic Crash Report 0.8340380191802979
+[Operated A Motor Vehicle Recklessly]: 2017 --[NON_INJURY_CRASHES]-> 150 0.8339059352874756
+[Operated A Motor Vehicle Recklessly]: New Zealand Transport Agency --[WITHHOLDS]-> details of the date, time, and place of the crash 0.8329984545707703
+[Operated A Motor Vehicle Recklessly]: Theft Ex Car (Over $100) --[COUNT]-> 1 0.8329973220825195
+[Operated A Motor Vehicle Recklessly]: 2019 --[HAS_SERIOUS_INJURY_CRASHES]-> 1 0.8325825929641724
+[Operated A Motor Vehicle Recklessly]: one non-injury crash --[OCCURRED]-> 2022 0.8324912786483765

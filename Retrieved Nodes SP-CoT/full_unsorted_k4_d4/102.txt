@@ -1,0 +1,36 @@
+Which significant town does the transport project in New Zealand, alongside the city home to the Te Ara I Whiti (Lightpath) project, which has transformed underutilized spaces into vibrant cycling and pedestrian pathways, pass through after Upper Hutt and before reaching Levin?
+None
+Seed: Transport link between wellington and northern regions of north island
+Seed: Addressing transport challenges in auckland
+Seed: New zealand's transport network
+Seed: Cycling infrastructure and public transport initiatives
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Aims to improve]-> Transport link between wellington and northern regions of north island 0.8018946051597595
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Links with]-> State highway 1 0.7962710857391357
+[Transport link between wellington and northern regions of north island]: State highway 1 --[Links]-> Major urban centers 0.7697520852088928
+[Transport link between wellington and northern regions of north island]: State highway 1 --[Runs]-> Length of north island 0.7645403742790222
+[Transport link between wellington and northern regions of north island]: Hamilton --[Served by]-> State highway 1 0.7606967687606812
+[Transport link between wellington and northern regions of north island]: Hamilton --[Offers]-> International services 0.7339900732040405
+[Transport link between wellington and northern regions of north island]: Hamilton --[Focus of]-> Local authorities 0.7560924291610718
+[Transport link between wellington and northern regions of north island]: Hamilton --[Focus of]-> Development of cycleways 0.7980620265007019
+[Transport link between wellington and northern regions of north island]: Hamilton --[Located]-> 13 kilometers from city center 0.7710461020469666
+[Transport link between wellington and northern regions of north island]: Hamilton --[Focus of]-> Transport planning 0.7943401336669922
+[Transport link between wellington and northern regions of north island]: Hamilton --[Offers]-> Domestic flights 0.7188089489936829
+[Transport link between wellington and northern regions of north island]: Hamilton --[Managed by]-> Hamilton city council 0.7278889417648315
+[Transport link between wellington and northern regions of north island]: Hamilton --[Situated]-> 40 kilometers north of tauranga 0.7593843340873718
+[Transport link between wellington and northern regions of north island]: Hamilton --[Has]-> Hamilton bus network 0.7746540904045105
+[Transport link between wellington and northern regions of north island]: Hamilton --[Served by]-> State highway 3 0.7583435773849487
+[Transport link between wellington and northern regions of north island]: Hamilton --[Focus of]-> Ongoing investments 0.7412468194961548
+[Transport link between wellington and northern regions of north island]: Hamilton --[Focus of]-> Strategic planning 0.7453289031982422
+[Transport link between wellington and northern regions of north island]: Hamilton --[Is]-> Transport hub 0.8135114908218384
+[Transport link between wellington and northern regions of north island]: Hamilton --[Is]-> Vital link 0.7552458047866821
+[Transport link between wellington and northern regions of north island]: Hamilton --[Situated]-> 130 kilometers south of auckland 0.8021366596221924
+[Transport link between wellington and northern regions of north island]: Hamilton --[Located in]-> Waikato region 0.7918988466262817
+[Transport link between wellington and northern regions of north island]: Hamilton --[Focus of]-> Development of pedestrian pathways 0.7887015342712402
+[Transport link between wellington and northern regions of north island]: Hamilton --[Served by]-> North island main trunk railway 0.7774106860160828
+[Transport link between wellington and northern regions of north island]: Hamilton --[Focus of]-> Creating integrated transport system 0.7815434336662292
+[Transport link between wellington and northern regions of north island]: Hamilton --[Focus of]-> Promoting sustainable transport solutions 0.7799032926559448
+[Transport link between wellington and northern regions of north island]: Hamilton --[Focus of]-> Improving public transport options 0.7705190181732178
+[Transport link between wellington and northern regions of north island]: Hamilton --[Positioned as]-> Key player 0.7243471741676331
+[Transport link between wellington and northern regions of north island]: Hamilton --[Focus of]-> Enhancing road safety 0.7597413659095764
+[Transport link between wellington and northern regions of north island]: Hamilton --[Undergone]-> Significant upgrades 0.7335692048072815
+[Transport link between wellington and northern regions of north island]: Hamilton --[Served by]-> Hamilton airport 0.7336593866348267

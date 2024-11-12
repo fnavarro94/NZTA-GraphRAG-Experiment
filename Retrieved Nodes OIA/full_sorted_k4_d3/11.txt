@@ -1,0 +1,33 @@
+When were the safety cameras in the Waterview Tunnel last calibrated for accuracy?
+None
+Seed: MINO -1042 Waterview Tunnel
+Seed: information on traffic light cameras and speed cameras
+Seed: information on traffic light cameras
+Seed: Lyttelton tunnel
+[MINO -1042 Waterview Tunnel]: MINO -1042 Waterview Tunnel --[WARNING]-> 19 April 2024 0.8536930680274963
+[MINO -1042 Waterview Tunnel]: MIN-4449 --[IS]-> Released in full 0.7420194149017334
+[MINO -1042 Waterview Tunnel]: Ministers Report --[IS]-> Released in full 0.7265564799308777
+[MINO -1042 Waterview Tunnel]: 8 April 2024 --[RELEASED]-> Released in full 0.7217720150947571
+[MINO -1042 Waterview Tunnel]: 22 April 2024 --[RELEASED]-> Released in full 0.7178851962089539
+[MINO -1042 Waterview Tunnel]: 19 April 2024 --[RELEASED]-> Released in full 0.7138846516609192
+[MINO -1042 Waterview Tunnel]: 29 April 2024 --[RELEASED]-> Released in full 0.7134437561035156
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.8053565621376038
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on speed cameras 0.8041082620620728
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.7930383682250977
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.7897716164588928
+[information on traffic light cameras and speed cameras]: New Zealand Transport Agency --[ASSOCIATED]-> Road safety initiatives 0.7887566685676575
+[information on traffic light cameras and speed cameras]: Standard Safety Intervention Toolkit --[PUBLISHED_BY]-> New Zealand Transport Agency 0.7879138588905334
+[information on traffic light cameras and speed cameras]: New Zealand Transport Agency --[PROVIDES]-> Transport Safety Data 0.7869892120361328
+[information on traffic light cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.8053565621376038
+[information on traffic light cameras]: Waka Kotahi --[PROVIDES]-> information on speed cameras 0.8041082620620728
+[information on traffic light cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.7930383682250977
+[information on traffic light cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.7897716164588928
+[information on traffic light cameras]: New Zealand Transport Agency --[ASSOCIATED]-> Road safety initiatives 0.7887566685676575
+[information on traffic light cameras]: Standard Safety Intervention Toolkit --[PUBLISHED_BY]-> New Zealand Transport Agency 0.7879138588905334
+[information on traffic light cameras]: New Zealand Transport Agency --[PROVIDES]-> Transport Safety Data 0.7869892120361328
+[Lyttelton tunnel]: meet or exceed performance requirements --[RELATES_TO]-> Lyttelton tunnel 0.776185929775238
+[Lyttelton tunnel]: Lyttelton tunnel --[RENEWAL_SCHEDULED]-> 2024 0.7758153676986694
+[Lyttelton tunnel]: pavement --[CONTINUES]-> meet or exceed performance requirements 0.7649145126342773
+[Lyttelton tunnel]: current and future renewal programmes --[PUBLISHED]-> National Maintenance Forward Work Map 0.764043927192688
+[Lyttelton tunnel]: high priority and need --[RELATES_TO]-> pavement 0.7328938245773315
+[Lyttelton tunnel]: 2024 --[RELATES_TO]-> current and future renewal programmes 0.7181438207626343

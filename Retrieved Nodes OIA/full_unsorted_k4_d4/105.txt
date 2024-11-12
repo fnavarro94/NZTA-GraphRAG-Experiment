@@ -1,0 +1,36 @@
+How much did NZTA spend on online advertising for road safety campaigns in 2017-2018?
+None
+Seed: cost of the current Road to Zero advertising campaign
+Seed: national, regional and local road safety promotion and education campaigns
+Seed: Road Safety Campaigns
+Seed: Advertising Media Spend 2017-2018
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[COST]-> cost of the current Road to Zero advertising campaign 0.8610615730285645
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[LAUNCHED_BY]-> New Zealand Transport Agency 0.852624773979187
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8080057501792908
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[BASED]-> Wellington 0.8199425935745239
+[cost of the current Road to Zero advertising campaign]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7778807878494263
+[cost of the current Road to Zero advertising campaign]: Golden Mile --[LOCATED]-> Wellington 0.7589596509933472
+[cost of the current Road to Zero advertising campaign]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7897996306419373
+[cost of the current Road to Zero advertising campaign]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7538653612136841
+[cost of the current Road to Zero advertising campaign]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7701525688171387
+[cost of the current Road to Zero advertising campaign]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.763656497001648
+[cost of the current Road to Zero advertising campaign]: Wellington --[PART_OF]-> Wellington Region 0.7655068039894104
+[cost of the current Road to Zero advertising campaign]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7873920798301697
+[cost of the current Road to Zero advertising campaign]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7673704624176025
+[cost of the current Road to Zero advertising campaign]: Wellington --[HAS]-> tunnel 0.7864125370979309
+[cost of the current Road to Zero advertising campaign]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7870928049087524
+[cost of the current Road to Zero advertising campaign]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7745572328567505
+[cost of the current Road to Zero advertising campaign]: Wellington --[POSTCODE]-> 6141 0.7551673650741577
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.8102486729621887
+[cost of the current Road to Zero advertising campaign]: Wellington --[IS_PART_OF]-> New Zealand 0.7741694450378418
+[cost of the current Road to Zero advertising campaign]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.76873779296875
+[cost of the current Road to Zero advertising campaign]: 50 Victoria Street --[IN]-> Wellington 0.7553569674491882
+[cost of the current Road to Zero advertising campaign]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7580055594444275
+[cost of the current Road to Zero advertising campaign]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7738037109375
+[cost of the current Road to Zero advertising campaign]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.760525643825531
+[cost of the current Road to Zero advertising campaign]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7865093946456909
+[cost of the current Road to Zero advertising campaign]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.777967095375061
+[cost of the current Road to Zero advertising campaign]: NZ Transport Agency --[LOCATED]-> Wellington 0.8143413066864014
+[cost of the current Road to Zero advertising campaign]: Wellington --[CONTAINS]-> 50 Victoria Street 0.772507905960083
+[cost of the current Road to Zero advertising campaign]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7531090378761292
+[cost of the current Road to Zero advertising campaign]: New Zealand --[CONTAINS]-> Wellington 0.7858532071113586

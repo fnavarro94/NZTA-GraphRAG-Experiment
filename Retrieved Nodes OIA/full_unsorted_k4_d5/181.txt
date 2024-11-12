@@ -1,0 +1,36 @@
+What factors contributed to fatal crashes in 2020 related to drug driving in New Zealand?
+None
+Seed: figures on drivers involved in fatal crashes
+Seed: information on driver fatalities
+Seed: Traffic Crash Report
+Seed: drivers involved in fatal crashes
+[figures on drivers involved in fatal crashes]: AA --[PROVIDES]-> figures on drivers involved in fatal crashes 0.8313195705413818
+[information on driver fatalities]: Emma Conyngham --[REQUESTS]-> information on driver fatalities 0.8283253908157349
+[Traffic Crash Report]: Crash Analysis System --[UPDATED]-> Traffic Crash Report 0.8314229846000671
+[Traffic Crash Report]: Deceased Drivers --[ASSOCIATED_WITH]-> Crash Analysis System 0.8061288595199585
+[Traffic Crash Report]: Crash Analysis System --[ASSOCIATED_WITH]-> Deceased Drivers 0.8109012842178345
+[Traffic Crash Report]: Crash Analysis System --[PROVIDES]-> Traffic Crash Report 0.8122403025627136
+[Traffic Crash Report]: Crash Analysis System --[ASSOCIATED_WITH]-> Traffic Crash Report 0.8149902820587158
+[Traffic Crash Report]: Traffic Crash Report --[ASSOCIATED_WITH]-> Crash Analysis System 0.8175110220909119
+[Traffic Crash Report]: Traffic Crash Report --[PROVIDED_BY]-> NZ Police 0.8668946027755737
+[Traffic Crash Report]: Traffic Crash Report --[RECEIVED]-> NZ Police 0.8477044701576233
+[Traffic Crash Report]: Crash Analysis System --[UPDATES]-> Traffic Crash Report 0.823038637638092
+[Traffic Crash Report]: CAS --[IS_UPDATING]-> Traffic Crash Report 0.8065383434295654
+[Traffic Crash Report]: Traffic Crash Report --[CONTAINS]-> Crash Data 0.8316035866737366
+[Traffic Crash Report]: Traffic Crash Report --[PROVIDED_BY]-> New Zealand Police 0.8693548440933228
+[Traffic Crash Report]: Traffic Crash Report --[RECORDED_IN]-> Crash Analysis System 0.799972653388977
+[Traffic Crash Report]: New Zealand Police --[SUBMITS]-> Traffic Crash Report 0.8587691783905029
+[Traffic Crash Report]: Traffic Crash Report --[RECEIVED_FROM]-> NZ Police 0.8533691167831421
+[Traffic Crash Report]: Crash Analysis System --[CONTAINS]-> Traffic Crash Report 0.8173576593399048
+[Traffic Crash Report]: Traffic Crash Report --[RECORDS]-> Crash Data 0.8236306309700012
+[Traffic Crash Report]: NZ Police --[PROVIDES]-> Traffic Crash Report 0.8583921194076538
+[Traffic Crash Report]: Crash Analysis System --[PROVIDES]-> Data 0.796076238155365
+[Traffic Crash Report]: Data --[LIMITED_TO]-> Fatal Crashes 0.785254716873169
+[Traffic Crash Report]: Data --[IS]-> Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence 0.7768223285675049
+[Traffic Crash Report]: Data --[IS]-> Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019 0.804582953453064
+[Traffic Crash Report]: Data --[IS]-> Standard condition of drivers under 20 subject to zero alcohol level are not included 0.8084145784378052
+[Traffic Crash Report]: Driver Licence Register --[PROVIDES]-> Data 0.7599302530288696
+[Traffic Crash Report]: Data --[IS]-> Current at 18 September 2019 0.7698152661323547
+[Traffic Crash Report]: Cyclists --[EXCLUDED]-> Data 0.7430064082145691
+[Traffic Crash Report]: Tractor drivers --[EXCLUDED]-> Data 0.7442686557769775
+[Traffic Crash Report]: Bus occupants --[EXCLUDED]-> Data 0.7357627153396606

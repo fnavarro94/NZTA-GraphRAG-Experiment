@@ -1,0 +1,36 @@
+What is the capital city of New Zealand, which is connected to the city home to the Te Ara I Whiti (Lightpath) project, which has transformed underutilized spaces into vibrant cycling and pedestrian pathways, by the specific rail line in New Zealand that has been enhanced as part of the government's investment in upgrading rail infrastructure to support sustainable freight solutions?
+None
+Seed: Ongoing investments in rail infrastructure
+Seed: New zealand's transport network
+Seed: Addressing transport challenges in auckland
+Seed: Significant infrastructure project
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Ongoing investments in rail infrastructure 0.8649382591247559
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Public transport system 0.8498795628547668
+[Ongoing investments in rail infrastructure]: Christchurch --[Has]-> Public transport system 0.840570330619812
+[Ongoing investments in rail infrastructure]: Christchurch --[Has]-> Cycling initiatives 0.834406316280365
+[Ongoing investments in rail infrastructure]: Christchurch --[Has]-> Metro system 0.8421910405158997
+[Ongoing investments in rail infrastructure]: Christchurch --[Linked to]-> Dunedin 0.8347262144088745
+[Ongoing investments in rail infrastructure]: Christchurch --[Connected to]-> Dunedin 0.835690438747406
+[Ongoing investments in rail infrastructure]: Christchurch --[Has]-> Potential development of light rail system 0.8523451685905457
+[Ongoing investments in rail infrastructure]: Christchurch --[Served by]-> Tranzalpine train service 0.8070695400238037
+[Ongoing investments in rail infrastructure]: Christchurch --[Has]-> Walking initiatives 0.8370741605758667
+[Ongoing investments in rail infrastructure]: Christchurch --[Served by]-> Main south line 0.7969300150871277
+[Ongoing investments in rail infrastructure]: Christchurch --[Has]-> Road infrastructure 0.8504951596260071
+[Ongoing investments in rail infrastructure]: Road infrastructure --[Is]-> Backbone of new zealand's transport system 0.8455586433410645
+[Ongoing investments in rail infrastructure]: Road infrastructure --[Is vital for]-> Regional connectivity 0.7944517731666565
+[Ongoing investments in rail infrastructure]: Road infrastructure --[Is vital for]-> Economic growth 0.7839540243148804
+[Ongoing investments in rail infrastructure]: Road infrastructure --[Is vital for]-> Social inclusion 0.776769757270813
+[Ongoing investments in rail infrastructure]: Christchurch --[Linked to]-> Picton 0.8266881704330444
+[Ongoing investments in rail infrastructure]: Christchurch --[Connected to]-> Picton 0.8295341730117798
+[Ongoing investments in rail infrastructure]: Christchurch --[Connected by]-> State highways 0.8338951468467712
+[Ongoing investments in rail infrastructure]: Waka kotahi --[Manages]-> State highways 0.7747195959091187
+[Ongoing investments in rail infrastructure]: Road network --[Includes]-> State highways 0.7762267589569092
+[Ongoing investments in rail infrastructure]: Christchurch --[Has]-> Focus on enhancing bus services 0.8019729852676392
+[Ongoing investments in rail infrastructure]: Christchurch --[Has]-> New bus network 0.8124552965164185
+[Ongoing investments in rail infrastructure]: Christchurch --[Has]-> Second-busiest airport in new zealand 0.7740830779075623
+[Ongoing investments in rail infrastructure]: Christchurch international airport --[Is]-> Second-busiest airport in new zealand 0.7792240977287292
+[Ongoing investments in rail infrastructure]: Christchurch --[Has]-> Shuttles 0.8123131990432739
+[Ongoing investments in rail infrastructure]: Christchurch --[Has]-> Focus on promoting active transport options 0.828930675983429
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Focus on promoting active transport options 0.8412975668907166
+[Ongoing investments in rail infrastructure]: Christchurch --[Has]-> Focus on expanding public transport networks 0.831041693687439
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Focus on expanding public transport networks 0.8407965898513794

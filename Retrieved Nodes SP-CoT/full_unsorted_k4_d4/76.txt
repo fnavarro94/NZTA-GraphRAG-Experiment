@@ -1,0 +1,36 @@
+What region does the Northern Motorway from the country where an initiative aiming to achieve a significant reduction in road deaths and serious injuries by promoting a "Safe System" approach to road safety is implemented to reduce road traffic injuries and fatalities provide access to?
+None
+Seed: Crucial role in promoting road safety
+Seed: Significant shift in new zealand's approach to road safety
+Seed: Commitment to reducing road traffic injuries and fatalities
+Seed: Achieve significant reduction in road deaths and serious injuries
+[Crucial role in promoting road safety]: Education and awareness programs --[Play]-> Crucial role in promoting road safety 0.8559138774871826
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about dangers of distracted driving 0.806066632270813
+[Crucial role in promoting road safety]: Education and awareness programs --[Include]-> Belt up campaign 0.7600776553153992
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about safe driving practices 0.8355350494384766
+[Crucial role in promoting road safety]: Education and awareness programs --[Include]-> Road safety week 0.8373737931251526
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about importance of seatbelt use 0.8005192279815674
+[Significant shift in new zealand's approach to road safety]: Safer journeys strategy --[Marked]-> Significant shift in new zealand's approach to road safety 0.8583922982215881
+[Significant shift in new zealand's approach to road safety]: Safer journeys strategy --[Focused on]-> Safer vehicles 0.8518428802490234
+[Significant shift in new zealand's approach to road safety]: Road transport safety --[Focus on]-> Safer vehicles 0.854875385761261
+[Significant shift in new zealand's approach to road safety]: Road transport safety --[Focus on]-> Safer roads 0.8684189319610596
+[Significant shift in new zealand's approach to road safety]: Road transport safety --[Focus on]-> Safer road users 0.8595327734947205
+[Significant shift in new zealand's approach to road safety]: Road transport safety --[Governed by]-> Land transport act 1998 0.8456780314445496
+[Significant shift in new zealand's approach to road safety]: Safer journeys strategy --[Focused on]-> Safer roads and roadsides 0.870535135269165
+[Significant shift in new zealand's approach to road safety]: Safer journeys strategy --[Focused on]-> Safer speeds 0.8398319482803345
+[Significant shift in new zealand's approach to road safety]: Safer journeys strategy --[Focused on]-> Safer road use 0.8673766851425171
+[Significant shift in new zealand's approach to road safety]: Safer journeys strategy --[Focused on]-> Four key areas 0.8346272706985474
+[Commitment to reducing road traffic injuries and fatalities]: New zealand --[Has]-> Commitment to reducing road traffic injuries and fatalities 0.8596739768981934
+[Commitment to reducing road traffic injuries and fatalities]: New zealand --[Has]-> Transport projects 0.7962884902954102
+[Commitment to reducing road traffic injuries and fatalities]: New zealand transport agency --[Oversees]-> Transport projects 0.7784537076950073
+[Commitment to reducing road traffic injuries and fatalities]: New zealand --[Has]-> New zealand transport agency 0.7993252873420715
+[Commitment to reducing road traffic injuries and fatalities]: New zealand transport agency --[Is]-> Forefront of promoting active transport 0.7993407845497131
+[Commitment to reducing road traffic injuries and fatalities]: New zealand transport agency --[Is]-> Government agency 0.788033664226532
+[Commitment to reducing road traffic injuries and fatalities]: New zealand transport agency --[Is]-> Key stakeholder 0.7931026220321655
+[Commitment to reducing road traffic injuries and fatalities]: New zealand transport agency --[Is]-> Primary authority 0.7893185615539551
+[Commitment to reducing road traffic injuries and fatalities]: New zealand transport agency --[Is]-> Developing integrated transport solutions 0.7953881621360779
+[Commitment to reducing road traffic injuries and fatalities]: New zealand transport agency --[Is]-> Collaborating with technology providers 0.7752039432525635
+[Commitment to reducing road traffic injuries and fatalities]: New zealand transport agency --[Implemented]-> Initiatives 0.8278853893280029
+[Commitment to reducing road traffic injuries and fatalities]: New zealand transport agency --[Responsible for]-> Management and regulation of transport systems 0.7959487438201904
+[Commitment to reducing road traffic injuries and fatalities]: New zealand transport agency --[Responsible for]-> Management and regulation of the transport system in new zealand 0.7931516766548157
+[Commitment to reducing road traffic injuries and fatalities]: New zealand transport agency --[Ensures]-> Policies align with national transport objectives 0.7836580276489258

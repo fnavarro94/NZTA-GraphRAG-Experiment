@@ -1,0 +1,36 @@
+In what year did the construction of the Raurimu Spiral, a significant engineering feature of the key transport corridor in the country that is critical for freight and passenger movement and runs through the North Island, get completed?
+None
+Seed: Key railway corridor
+Seed: Both passenger and freight transport across the cook strait
+Seed: Transport link between wellington and northern regions of north island
+Seed: Raurimu spiral
+[Key railway corridor]: North island main trunk line --[Is]-> Key railway corridor 0.8684636354446411
+[Key railway corridor]: North island main trunk line --[Focus]-> Improve efficiency 0.8005486130714417
+[Key railway corridor]: North island main trunk railway --[Upgraded]-> Improve efficiency 0.8116190433502197
+[Key railway corridor]: Speed management guide --[Aims to]-> Improve efficiency 0.7223589420318604
+[Key railway corridor]: Drones --[Aim to]-> Improve efficiency 0.695624828338623
+[Key railway corridor]: Electric vehicles --[Aim to]-> Improve efficiency 0.7015137076377869
+[Key railway corridor]: North island main trunk line --[Enhances]-> Regional development 0.839790403842926
+[Key railway corridor]: North island main trunk line --[Plays]-> Significant role 0.8344424962997437
+[Key railway corridor]: North island main trunk line --[Serves]-> Freight services 0.8282866477966309
+[Key railway corridor]: North island main trunk line --[Supports]-> Freight services 0.82448810338974
+[Key railway corridor]: Kiwirail group --[Responsible for]-> Freight services 0.7854174375534058
+[Key railway corridor]: Kiwirail group --[Operates]-> Freight services 0.7972691059112549
+[Key railway corridor]: Kiwirail --[Provides]-> Freight services 0.7976486682891846
+[Key railway corridor]: North island main trunk line --[Enhances]-> Connectivity 0.8237490057945251
+[Key railway corridor]: Freight transport --[Essential for]-> Connectivity 0.796021580696106
+[Key railway corridor]: North island main trunk line --[Operated by]-> Kiwirail 0.8405606746673584
+[Key railway corridor]: Kiwirail --[Operates]-> Great journeys of new zealand 0.8148576617240906
+[Key railway corridor]: Kiwirail --[Operates]-> Freight route 0.8097211122512817
+[Key railway corridor]: Kiwirail --[Transports]-> Manufactured items 0.7948464751243591
+[Key railway corridor]: Kiwirail --[Operates]-> Northern explorer 0.7959257960319519
+[Key railway corridor]: Tranzalpine --[Operated by]-> Kiwirail 0.7876049280166626
+[Key railway corridor]: Kiwirail --[Operates]-> Rail network 0.7817098498344421
+[Key railway corridor]: Kiwirail --[Manages]-> Both freight and passenger services 0.7935492992401123
+[Key railway corridor]: Kiwirail --[Involved in]-> Development 0.8129274845123291
+[Key railway corridor]: Kiwirail --[Contributes to]-> Lower carbon emissions 0.7771170139312744
+[Key railway corridor]: Kiwirail --[Collaborates with]-> Maritime services 0.7995434403419495
+[Key railway corridor]: Kiwirail --[Collaborates with]-> Road transport 0.8067524433135986
+[Key railway corridor]: Kiwirail --[Emerged from]-> New zealand railways corporation 0.7903387546539307
+[Key railway corridor]: Kiwirail --[Reduces]-> Road congestion 0.7703428864479065
+[Key railway corridor]: Kiwirail --[Supports]-> Improving connectivity 0.7754865288734436

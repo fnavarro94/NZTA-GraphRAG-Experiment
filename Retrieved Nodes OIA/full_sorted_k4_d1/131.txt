@@ -1,0 +1,12 @@
+How much was spent on the Safe Limits campaign, including the radio and other media advertising?
+None
+Seed: cost of the current Road to Zero advertising campaign
+Seed: Advertising Media Spend 2017-2018
+Seed: Total Media Costs
+Seed: advertising campaigns
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[COST]-> cost of the current Road to Zero advertising campaign 0.832727313041687
+[Advertising Media Spend 2017-2018]: Advertising Media Spend 2017-2018 --[SHOWS]-> Individual Campaigns 0.8319486379623413
+[Advertising Media Spend 2017-2018]: Response to OIA Request --[CONTAINS]-> Advertising Media Spend 2017-2018 0.821976363658905
+[Total Media Costs]: Campaign --[HAS]-> Total Media Costs 0.8649366497993469
+[Total Media Costs]: Total Media Costs --[AMOUNT]-> $949,154.00 0.8405280113220215
+[advertising campaigns]: Waka Kotahi --[MONITORS]-> advertising campaigns 0.7806419730186462

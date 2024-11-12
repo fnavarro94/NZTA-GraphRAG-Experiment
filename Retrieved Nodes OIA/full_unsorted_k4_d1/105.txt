@@ -1,0 +1,18 @@
+How much did NZTA spend on online advertising for road safety campaigns in 2017-2018?
+None
+Seed: cost of the current Road to Zero advertising campaign
+Seed: national, regional and local road safety promotion and education campaigns
+Seed: Road Safety Campaigns
+Seed: Advertising Media Spend 2017-2018
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[COST]-> cost of the current Road to Zero advertising campaign 0.8610615730285645
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.8559942841529846
+[national, regional and local road safety promotion and education campaigns]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8676730394363403
+[Road Safety Campaigns]: Road Safety Campaigns --[USES]-> Traditional Media 0.8478043079376221
+[Road Safety Campaigns]: Road Safety Campaigns --[USES]-> Online Platforms 0.8630467653274536
+[Road Safety Campaigns]: Road Safety Campaigns --[USES]-> Radio 0.8410001993179321
+[Road Safety Campaigns]: NZ Transport Agency --[ADVERTISES]-> Road Safety Campaigns 0.8936610817909241
+[Road Safety Campaigns]: Road Safety Campaigns --[USES]-> Print 0.8376229405403137
+[Road Safety Campaigns]: Road Safety Campaigns --[USES]-> TV 0.8458157777786255
+[Road Safety Campaigns]: Road Safety Campaigns --[USES]-> Social Media Platforms 0.850864052772522
+[Advertising Media Spend 2017-2018]: Response to OIA Request --[CONTAINS]-> Advertising Media Spend 2017-2018 0.8320030570030212
+[Advertising Media Spend 2017-2018]: Advertising Media Spend 2017-2018 --[SHOWS]-> Individual Campaigns 0.8378429412841797

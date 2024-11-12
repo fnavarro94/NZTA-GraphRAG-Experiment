@@ -1,0 +1,36 @@
+What was the cost of the artwork component of the Mackenzie Basin Improvement Project?
+None
+Seed: request for pothole repair cost information
+Seed: funding requests
+Seed: itemised breakdown of all spending on public consultation for Golden Mile upgrades
+Seed: financial settlement of $190.6 million
+[request for pothole repair cost information]: sections 18A and 18B of the Act --[APPLIES_TO]-> request for pothole repair cost information 0.784050703048706
+[request for pothole repair cost information]: New Zealand Transport Agency --[CONSIDERS]-> sections 18A and 18B of the Act 0.7614096403121948
+[request for pothole repair cost information]: request for pothole repair cost information --[SUBJECT_TO]-> sections 18A and 18B of the Act 0.8031024932861328
+[request for pothole repair cost information]: New Zealand Transport Agency --[CONSIDERS]-> request for pothole repair cost information 0.7931645512580872
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7405277490615845
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7568751573562622
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7594561576843262
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7572751045227051
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7474249601364136
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7463432550430298
+[request for pothole repair cost information]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.752324104309082
+[request for pothole repair cost information]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7466031312942505
+[request for pothole repair cost information]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7688658833503723
+[request for pothole repair cost information]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.762198269367218
+[request for pothole repair cost information]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7397478222846985
+[request for pothole repair cost information]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7484227418899536
+[request for pothole repair cost information]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7676254510879517
+[request for pothole repair cost information]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7401468753814697
+[request for pothole repair cost information]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.762514054775238
+[request for pothole repair cost information]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7614122629165649
+[request for pothole repair cost information]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7712962627410889
+[request for pothole repair cost information]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7402957081794739
+[request for pothole repair cost information]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7601504921913147
+[request for pothole repair cost information]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7596406936645508
+[request for pothole repair cost information]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7610777616500854
+[request for pothole repair cost information]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7647314071655273
+[request for pothole repair cost information]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7595487833023071
+[request for pothole repair cost information]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7395501136779785
+[request for pothole repair cost information]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7499567270278931
+[request for pothole repair cost information]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7620689868927002

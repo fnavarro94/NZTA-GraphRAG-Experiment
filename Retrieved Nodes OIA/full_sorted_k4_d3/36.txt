@@ -1,0 +1,28 @@
+What is Waka Kotahi's current estimate for the potential increase in the number of street lighting assets after their audit?
+None
+Seed: Waka Kotahi Senior Project Manager
+Seed: Waka Kotahi
+Seed: street lighting assets
+Seed: information to Waka Kotahi
+[Waka Kotahi Senior Project Manager]: Waka Kotahi Senior Project Manager --[MANAGES]-> State Highway 25A Rebuild Project 0.8245724439620972
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.8758803009986877
+[Waka Kotahi]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.8729220628738403
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.8706886172294617
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.8675318956375122
+[Waka Kotahi]: Waka Kotahi --[INFORMS]-> affected area 0.864669144153595
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> updates on progress 0.8636759519577026
+[Waka Kotahi]: Waka Kotahi --[PUBLISHES]-> Annual Reports 0.8634904026985168
+[street lighting assets]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.8758803009986877
+[street lighting assets]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.8729220628738403
+[street lighting assets]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.8706886172294617
+[street lighting assets]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.8675318956375122
+[street lighting assets]: Waka Kotahi --[INFORMS]-> affected area 0.864669144153595
+[street lighting assets]: Waka Kotahi --[PROVIDES]-> updates on progress 0.8636759519577026
+[street lighting assets]: Waka Kotahi --[PUBLISHES]-> Annual Reports 0.8634904026985168
+[information to Waka Kotahi]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.8758803009986877
+[information to Waka Kotahi]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.8729220628738403
+[information to Waka Kotahi]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.8706886172294617
+[information to Waka Kotahi]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.8675318956375122
+[information to Waka Kotahi]: Waka Kotahi --[INFORMS]-> affected area 0.864669144153595
+[information to Waka Kotahi]: Waka Kotahi --[PROVIDES]-> updates on progress 0.8636759519577026
+[information to Waka Kotahi]: Waka Kotahi --[PUBLISHES]-> Annual Reports 0.8634904026985168

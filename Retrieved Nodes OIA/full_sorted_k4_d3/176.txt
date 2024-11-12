@@ -1,0 +1,32 @@
+How many traffic light offences were recorded for NZTA vehicles in 2021?
+None
+Seed: information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021
+Seed: information on traffic light cameras and speed cameras
+Seed: information on traffic light cameras
+Seed: Speed and Drunk Driving Enforcement
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: NZ Police --[PROVIDES]-> Traffic Crash Reports 0.880504310131073
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Traffic Crash Reports --[RECEIVED_FROM]-> NZ Police 0.8783827424049377
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Traffic Crash Report --[PROVIDED_BY]-> NZ Police 0.8772993683815002
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: NZ Police --[PROVIDES]-> Traffic Crash Report 0.8761037588119507
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: New Zealand Police --[NOTIFIES]-> New Zealand Transport Agency 0.8726464509963989
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: NZ Police --[INVESTIGATES]-> road traffic crashes 0.8720865845680237
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Traffic Crash Report --[RECEIVED_FROM]-> NZ Police 0.871957540512085
+[information on traffic light cameras and speed cameras]: NZ Police --[PROVIDES]-> Traffic Crash Reports 0.880504310131073
+[information on traffic light cameras and speed cameras]: Traffic Crash Reports --[RECEIVED_FROM]-> NZ Police 0.8783827424049377
+[information on traffic light cameras and speed cameras]: Traffic Crash Report --[PROVIDED_BY]-> NZ Police 0.8772993683815002
+[information on traffic light cameras and speed cameras]: NZ Police --[PROVIDES]-> Traffic Crash Report 0.8761037588119507
+[information on traffic light cameras and speed cameras]: New Zealand Police --[NOTIFIES]-> New Zealand Transport Agency 0.8726464509963989
+[information on traffic light cameras and speed cameras]: NZ Police --[INVESTIGATES]-> road traffic crashes 0.8720865845680237
+[information on traffic light cameras and speed cameras]: Traffic Crash Report --[RECEIVED_FROM]-> NZ Police 0.871957540512085
+[information on traffic light cameras]: NZ Police --[PROVIDES]-> Traffic Crash Reports 0.880504310131073
+[information on traffic light cameras]: Traffic Crash Reports --[RECEIVED_FROM]-> NZ Police 0.8783827424049377
+[information on traffic light cameras]: Traffic Crash Report --[PROVIDED_BY]-> NZ Police 0.8772993683815002
+[information on traffic light cameras]: NZ Police --[PROVIDES]-> Traffic Crash Report 0.8761037588119507
+[information on traffic light cameras]: New Zealand Police --[NOTIFIES]-> New Zealand Transport Agency 0.8726464509963989
+[information on traffic light cameras]: NZ Police --[INVESTIGATES]-> road traffic crashes 0.8720865845680237
+[information on traffic light cameras]: Traffic Crash Report --[RECEIVED_FROM]-> NZ Police 0.871957540512085
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[PROVIDES]-> https://www.nzta.govt.nz/assets/resources/road-policing-programme/docs/rpp-2021-24.pdf 0.8540395498275757
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[DOUBLES]-> Speed and Drunk Driving Enforcement 0.8100103735923767
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[FOCUSES_ON]-> Restraints, Impairment, Distraction, Speed 0.7919169664382935
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[PROVIDES]-> Road Policing Activities 0.7864477038383484
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[ALLOCATES]-> $1.24 billion 0.7726987600326538

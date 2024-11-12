@@ -1,0 +1,36 @@
+Which southern city is connected to the major urban area in New Zealand that employs advanced traffic signal control systems alongside the city experiencing increasing urbanization and requiring innovative solutions to manage congestion and improve public transport services by State Highway 1?
+None
+Seed: Critical link between southern suburbs and central business district
+Seed: Increasing congestion in urban areas
+Seed: Urban areas
+Seed: Addressing transport challenges in auckland
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Serves as]-> Critical link between southern suburbs and central business district 0.8634152412414551
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Located in]-> South island of new zealand 0.862392783164978
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Is]-> Significant transport infrastructure project 0.8695375323295593
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Designed to]-> Enhance efficiency of road transport 0.8680583238601685
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Ends at]-> Intersection with christchurch northern corridor 0.821999192237854
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Construction began]-> Early 2000s 0.8548353314399719
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Extends]-> Approximately 20 kilometers 0.8366055488586426
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Key component of]-> Christchurch transport strategic plan 0.8535837531089783
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Part of]-> New zealand government's broader strategy 0.8546755313873291
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Begins at]-> Intersection of state highway 1 and state highway 76 0.8500147461891174
+[Critical link between southern suburbs and central business district]: Christchurch --[Served by]-> Christchurch southern motorway 0.8500819802284241
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Was developed]-> To improve access to southern suburbs and city center 0.8621050119400024
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Supports]-> Ongoing recovery and rebuilding efforts in region 0.8311148881912231
+[Increasing congestion in urban areas]: New zealand's transport system --[Faces]-> Increasing congestion in urban areas 0.8844836354255676
+[Increasing congestion in urban areas]: New zealand's transport system --[Faces]-> Need for significant investment 0.8463296890258789
+[Increasing congestion in urban areas]: New zealand's transport system --[Faces]-> Aging infrastructure 0.8349422216415405
+[Urban areas]: Electric scooters --[Used in]-> Urban areas 0.7818588614463806
+[Urban areas]: Electric scooters --[Classified under]-> Land transport act 0.7641798257827759
+[Urban areas]: Electric scooters --[Offer]-> Convenient and eco-friendly alternative to traditional vehicles 0.7354785203933716
+[Urban areas]: Electric scooters --[Align with]-> Promoting sustainable transport solutions 0.773133397102356
+[Urban areas]: Electric scooters --[Used on]-> Cycle lanes 0.7696958184242249
+[Urban areas]: Electric scooters --[Classified as]-> Mobility devices 0.7354971766471863
+[Urban areas]: Electric scooters --[Used on]-> Roads 0.7807295918464661
+[Urban areas]: Electric scooters --[Used on]-> Footpaths 0.7716360092163086
+[Urban areas]: Electric scooters --[Popular in]-> New zealand 0.8093127012252808
+[Urban areas]: Electric scooters --[Adhere to]-> Specific regulations 0.7533880472183228
+[Urban areas]: Electric scooters --[Align with]-> Commitment to reducing carbon emissions 0.7516360282897949
+[Urban areas]: Urban areas --[Use]-> Public transport systems 0.8153021931648254
+[Urban areas]: Wellington cycle network --[Integrates with]-> Public transport systems 0.8414337635040283
+[Urban areas]: Waka kotahi --[Manages]-> Public transport systems 0.7904908657073975

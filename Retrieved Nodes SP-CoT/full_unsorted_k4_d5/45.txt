@@ -1,0 +1,36 @@
+In what year did the organization that has focused on enhancing its bus rapid transit system to provide faster and more reliable public transport services become established?
+None
+Seed: Enhancing public transport systems
+Seed: Promoting public transport initiatives
+Seed: Renewed focus on public transport in recent decades
+Seed: Broader strategy to promote public transport as a viable alternative to private vehicle use
+[Enhancing public transport systems]: New zealand --[Prioritizes]-> Enhancing public transport systems 0.8289991617202759
+[Enhancing public transport systems]: New zealand --[Has]-> Transport projects 0.7922152280807495
+[Enhancing public transport systems]: New zealand transport agency --[Oversees]-> Transport projects 0.7801176309585571
+[Enhancing public transport systems]: New zealand --[Has]-> New zealand transport agency 0.801314115524292
+[Enhancing public transport systems]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.7968048453330994
+[Enhancing public transport systems]: New zealand --[Has]-> Diverse transport network 0.7847744226455688
+[Enhancing public transport systems]: New zealand --[Has]-> Post-incident review 0.7084432244300842
+[Enhancing public transport systems]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.7434277534484863
+[Enhancing public transport systems]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.7565149068832397
+[Enhancing public transport systems]: New zealand --[Has]-> Broader environmental policies 0.736781656742096
+[Enhancing public transport systems]: New zealand --[Has]-> Traffic congestion 0.7564743161201477
+[Enhancing public transport systems]: New zealand --[Has]-> Increasing urbanization 0.7527598738670349
+[Enhancing public transport systems]: New zealand --[Has]-> Graduated licensing system 0.7566187977790833
+[Enhancing public transport systems]: New zealand --[Has]-> Extensive coastline supporting a thriving fishing industry and recreational boating activities 0.722125232219696
+[Enhancing public transport systems]: New zealand --[Has]-> Trend towards more integrated and environmentally friendly transport solutions 0.8089702129364014
+[Enhancing public transport systems]: New zealand --[Has]-> Extensive network of roads 0.7511330246925354
+[Enhancing public transport systems]: New zealand --[Has]-> Public transport network planning 0.8077730536460876
+[Enhancing public transport systems]: New zealand --[Has]-> Public transit 0.8105208873748779
+[Enhancing public transport systems]: New zealand --[Has]-> Goal 0.7394624948501587
+[Enhancing public transport systems]: New zealand --[Has]-> Transport system sustainability 0.8064827919006348
+[Enhancing public transport systems]: New zealand --[Has]-> Walking 0.7429695129394531
+[Enhancing public transport systems]: New zealand --[Has]-> Cycling 0.7434794902801514
+[Enhancing public transport systems]: New zealand --[Has]-> Biodiversity 0.7141826152801514
+[Enhancing public transport systems]: New zealand --[Has]-> Urban-rural dynamics 0.7481041550636292
+[Enhancing public transport systems]: New zealand --[Has]-> Unique geographical features 0.7221016883850098
+[Enhancing public transport systems]: New zealand --[Has]-> Growing emphasis on sustainable transport solutions 0.8102442026138306
+[Enhancing public transport systems]: New zealand --[Has]-> Transport funding strategies 0.7983546257019043
+[Enhancing public transport systems]: New zealand --[Has]-> Growing population 0.7465614676475525
+[Enhancing public transport systems]: New zealand --[Has]-> Light rail 0.7731121778488159
+[Enhancing public transport systems]: New zealand --[Has]-> Buses 0.8066754341125488

@@ -1,0 +1,12 @@
+What is the current status of the construction drawings for the SH1 Brynderwyn closure, and why are they subject to change?
+None
+Seed: information on LGWM construction contracts
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: investigations, construction findings, on-site progress, design updates, design assumptions
+Seed: Waito hi Picton Ferry Precinct Redevelopment
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.7884243726730347
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUESTS]-> detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) 0.8151016235351562
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) --[CONTRACTS]-> consultants 0.8140608072280884
+[investigations, construction findings, on-site progress, design updates, design assumptions]: NZ Transport Agency Waka Kotahi --[BASED_ON]-> investigations, construction findings, on-site progress, design updates, design assumptions 0.8155858516693115
+[Waito hi Picton Ferry Precinct Redevelopment]: 10 September 2020 --[ASSOCIATED_WITH]-> Waito hi Picton Ferry Precinct Redevelopment 0.8342288136482239
+[Waito hi Picton Ferry Precinct Redevelopment]: Waito hi Picton Ferry Precinct Redevelopment --[ASSOCIATED_WITH]-> Integrated Transportation Assessment 0.8197584748268127

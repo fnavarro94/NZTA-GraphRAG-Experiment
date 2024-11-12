@@ -1,0 +1,34 @@
+Who should be contacted to discuss the SH2 Hebden Crescent / Liverton Road intersection project?
+None
+Seed: Request for information on Hornby Intersection improvements
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: one crossing near SH2/Lyon Street/Birdwood Street intersection
+Seed: request to Minister of Transport
+[Request for information on Hornby Intersection improvements]: Request for information on Hornby Intersection improvements --[REQUESTS]-> New Zealand Transport Agency 0.8545761108398438
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[RESPONDS_TO]-> Request for information on Hornby Intersection improvements 0.8491339683532715
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[CONTACT]-> Andy Knackstedt 0.8426464796066284
+[Request for information on Hornby Intersection improvements]: Transport Agency --[CONTACT]-> Andrew Knackstedt 0.8394509553909302
+[Request for information on Hornby Intersection improvements]: Kevin Reid --[CONTACT]-> Fergus.Tate@nzta.govt.nz 0.8390584588050842
+[Request for information on Hornby Intersection improvements]: Jono Galuszka --[REQUESTS]-> information about Saddle Road 0.838657796382904
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.838645339012146
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request for information on Hornby Intersection improvements --[REQUESTS]-> New Zealand Transport Agency 0.8545761108398438
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[RESPONDS_TO]-> Request for information on Hornby Intersection improvements 0.8491339683532715
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[CONTACT]-> Andy Knackstedt 0.8426464796066284
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.838645339012146
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[CONTACT]-> kerry.greig@nzta.govt.nz 0.8366223573684692
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Andy Knackstedt --[CONTACT]-> New Zealand Transport Agency 0.8364334106445312
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[CONTACT]-> 64 4 894 5400 0.8319488763809204
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: Featherston --[RAISED_CROSSINGS]-> one crossing near SH2/Lyon Street/Birdwood Street intersection 0.8307766914367676
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: New Zealand Transport Agency --[CONTACT]-> New Zealand 0.8300582766532898
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: accident or crash history --[RELATES_TO]-> intersection of SH2 and SH53 0.8208802938461304
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: no fatal, serious or minor injury crashes --[OCCURRED]-> intersection of SH2 and SH53 0.8096900582313538
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: intersection of SH2 and SH53 --[LOCATED_IN]-> Featherston 0.8096045851707458
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: Featherston --[RAISED_CROSSINGS]-> one crossing near Daniell Street 0.807131826877594
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: Featherston --[CONSULTATION]-> August and September 2021 0.8040244579315186
+[request to Minister of Transport]: Jordan Bond --[MADE_REQUEST]-> request to Minister of Transport 0.8144181966781616
+[request to Minister of Transport]: Jordan Bond --[EMAIL]-> Jordan. Bond@ rnz.co.nz 0.8013883829116821
+[request to Minister of Transport]: Nigel Parry --[REQUESTS]-> Official Information Act 1982 0.7886708974838257
+[request to Minister of Transport]: Sam Kelway --[REQUESTS]-> information under the Official Information Act 1982 0.7826367616653442
+[request to Minister of Transport]: Emma Hatton --[REQUESTS]-> information under the Official Information Act 1982 0.781610369682312
+[request to Minister of Transport]: Charlie Mitchell --[REQUESTS]-> information under the Official Information Act 1982 0.778194010257721
+[request to Minister of Transport]: Hamish Cardwell --[REQUESTED]-> information under the Official Information Act 1982 0.7776941657066345

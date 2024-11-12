@@ -1,0 +1,36 @@
+In what year did the construction of the Raurimu Spiral, a significant engineering feature of the key transport corridor in the country that is critical for freight and passenger movement and runs through the North Island, get completed?
+None
+Seed: Key railway corridor
+Seed: Both passenger and freight transport across the cook strait
+Seed: Transport link between wellington and northern regions of north island
+Seed: Raurimu spiral
+[Key railway corridor]: North island main trunk line --[Is]-> Key railway corridor 0.8684636354446411
+[Key railway corridor]: North island main trunk line --[Focus]-> Improve efficiency 0.8005486130714417
+[Key railway corridor]: North island main trunk railway --[Upgraded]-> Improve efficiency 0.8116190433502197
+[Key railway corridor]: North island main trunk railway --[Supports]-> Tourism 0.8322222232818604
+[Key railway corridor]: North island main trunk railway --[Supports]-> Industry 0.8279069066047668
+[Key railway corridor]: North island main trunk railway --[Holds]-> Efficiency 0.8080254793167114
+[Key railway corridor]: North island main trunk railway --[Fosters]-> Movement of people 0.8419544696807861
+[Key railway corridor]: North island main trunk railway --[Holds]-> Vital link 0.8283176422119141
+[Key railway corridor]: North island main trunk railway --[Features]-> Makatote viaduct 0.8318045735359192
+[Key railway corridor]: North island main trunk railway --[Features]-> Hapuakohe viaduct 0.8436868786811829
+[Key railway corridor]: North island main trunk railway --[Upgraded]-> Improve safety 0.8118180632591248
+[Key railway corridor]: North island main trunk railway --[Holds]-> Sustainability 0.8304272294044495
+[Key railway corridor]: North island main trunk railway --[Holds]-> Cultural significance 0.8379870057106018
+[Key railway corridor]: North island main trunk railway --[Serves]-> Passenger services 0.838544487953186
+[Key railway corridor]: North island main trunk railway --[Serves]-> Freight 0.8450688123703003
+[Key railway corridor]: North island main trunk railway --[Spans]-> 423 miles 0.8388267755508423
+[Key railway corridor]: North island main trunk railway --[Fosters]-> Connections 0.8305516242980957
+[Key railway corridor]: North island main trunk railway --[Is]-> Key railway line 0.845559298992157
+[Key railway corridor]: North island main trunk railway --[Equipped]-> Modern signaling systems 0.809662401676178
+[Key railway corridor]: North island main trunk railway --[Holds]-> Modernization 0.8271195888519287
+[Key railway corridor]: North island main trunk railway --[Holds]-> Electrification 0.8240016102790833
+[Key railway corridor]: North island main trunk railway --[Features]-> Raurimu spiral 0.9059731960296631
+[Key railway corridor]: North island main trunk railway --[Facilitates]-> Economic activity 0.8338236808776855
+[Key railway corridor]: North island main trunk railway --[Fosters]-> Movement of goods 0.8469671607017517
+[Key railway corridor]: North island main trunk railway --[Connects]-> Auckland 0.8161517977714539
+[Key railway corridor]: North island main trunk railway --[Supports]-> Agriculture 0.8297379612922668
+[Key railway corridor]: North island main trunk railway --[Began]-> 1880s 0.834097683429718
+[Key railway corridor]: North island main trunk railway --[Facilitates]-> Regional connectivity 0.8498314619064331
+[Key railway corridor]: North island main trunk railway --[Completed]-> 1908 0.8213059902191162
+[Key railway corridor]: North island main trunk railway --[Connects]-> Wellington 0.8116463422775269

@@ -1,0 +1,36 @@
+What major arterial route enhances accessibility between Auckland and Onehunga, particularly for travel to one of the major airports in New Zealand's transport infrastructure as of 2023?
+None
+Seed: Future of transport in new zealand
+Seed: Access to auckland airport and other regions of the north island
+Seed: Strategically located near major arterial routes
+Seed: Wider transport network of new zealand
+[Future of transport in new zealand]: Auckland airport --[Key player]-> Future of transport in new zealand 0.8787257671356201
+[Future of transport in new zealand]: Auckland airport --[Serves]-> As hub for domestic and international flights 0.8498436212539673
+[Future of transport in new zealand]: Auckland airport --[Is]-> Undergoing significant expansion 0.867223858833313
+[Future of transport in new zealand]: Auckland airport --[Serves as]-> Primary international gateway for new zealand 0.8487931489944458
+[Future of transport in new zealand]: Auckland airport --[Committed]-> Sustainability 0.8177361488342285
+[Future of transport in new zealand]: Auckland ferry network --[Commitment to]-> Sustainability 0.8014079928398132
+[Future of transport in new zealand]: North island main trunk railway --[Holds]-> Sustainability 0.7542015314102173
+[Future of transport in new zealand]: Wellington public transport plan --[Objectives include]-> Sustainability 0.7829393148422241
+[Future of transport in new zealand]: North island main trunk line --[Enhances]-> Sustainability 0.7815011739730835
+[Future of transport in new zealand]: Kiwirail group --[Prioritizes]-> Sustainability 0.767418622970581
+[Future of transport in new zealand]: Waka kotahi --[Places emphasis on]-> Sustainability 0.7157959938049316
+[Future of transport in new zealand]: Transport skills strategy --[Primary objectives include]-> Sustainability 0.7398087978363037
+[Future of transport in new zealand]: Freight transport in new zealand --[Driven by]-> Sustainability 0.7928766012191772
+[Future of transport in new zealand]: Urban mobility solutions --[Aimed at]-> Sustainability 0.7466428875923157
+[Future of transport in new zealand]: Smart mobility solutions --[Enhance]-> Sustainability 0.7268332839012146
+[Future of transport in new zealand]: Intelligent transport systems --[Enhance]-> Sustainability 0.7437945604324341
+[Future of transport in new zealand]: Auckland airport --[Serves]-> Critical gateway for new zealand 0.8513839840888977
+[Future of transport in new zealand]: Auckland airport --[Implemented]-> Various initiatives to minimize environmental impact 0.8327174782752991
+[Future of transport in new zealand]: Auckland airport --[Opened]-> 1966 0.808824360370636
+[Future of transport in new zealand]: Auckland airport --[Underwent]-> Several expansions and renovations 0.8584550619125366
+[Future of transport in new zealand]: Auckland airport --[Plays]-> Crucial role in new zealand's transport infrastructure 0.8630920648574829
+[Future of transport in new zealand]: Auckland airport --[Facilitates]-> Domestic and international travel 0.8581240773200989
+[Future of transport in new zealand]: Auckland airport --[Serves]-> Flights within new zealand 0.8482722640037537
+[Future of transport in new zealand]: Auckland airport --[Supporting]-> Local economy and tourism industry 0.8572636246681213
+[Future of transport in new zealand]: Auckland airport --[Well-connected]-> Wider transport network of new zealand 0.8628103733062744
+[Future of transport in new zealand]: Auckland airport --[Is]-> Primary international airport 0.8424570560455322
+[Future of transport in new zealand]: Auckland airport --[Handled]-> Over 21 million passengers in 2019 0.8306110501289368
+[Future of transport in new zealand]: Auckland airport --[Replaced]-> Former auckland international airport at mangere 0.8211218118667603
+[Future of transport in new zealand]: Auckland airport --[Vital]-> Hub for tourism and business travel 0.8547219634056091
+[Future of transport in new zealand]: Auckland airport --[Working towards]-> Achieving carbon neutrality in operations by 2025 0.8552126884460449

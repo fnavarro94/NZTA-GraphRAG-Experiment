@@ -1,0 +1,12 @@
+How can someone challenge a decision made under the Official Information Act?
+None
+Seed: I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.
+Seed: decision making
+Seed: public interest in seeking and receiving confidential legal advice
+Seed: seeking and receiving confidential legal advice
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. --[OFFICIAL_INFORMATION]-> I am refusing this part of your request under section 18(d) of the Act as the information is publicly available. 0.8088490962982178
+[decision making]: decision making --[PART_OF]-> speed review process 0.8000133037567139
+[decision making]: feedback --[CONTRIBUTES_TO]-> decision making 0.7780090570449829
+[public interest in seeking and receiving confidential legal advice]: Waka Kotahi --[ACKNOWLEDGES]-> public interest in seeking and receiving confidential legal advice 0.7796735763549805
+[seeking and receiving confidential legal advice]: Waka Kotahi --[PROTECTS]-> seeking and receiving confidential legal advice 0.7968274354934692
+[seeking and receiving confidential legal advice]: Waka Kotahi --[CONTINUES]-> seeking and receiving confidential legal advice 0.784060537815094

@@ -1,0 +1,10 @@
+What were the primary categories of complaints received about Zoomy and Uber drivers?
+None
+Seed: 196 complaints about Uber drivers
+Seed: 8 complaints about Zoomy drivers
+Seed: Uber drivers
+Seed: why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’
+[196 complaints about Uber drivers]: Waka Kotahi --[RECEIVES]-> 196 complaints about Uber drivers 0.8668917417526245
+[8 complaints about Zoomy drivers]: Waka Kotahi --[RECEIVES]-> 8 complaints about Zoomy drivers 0.8774042129516602
+[Uber drivers]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.8498741388320923
+[why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’]: enquiry --[ASKS]-> why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’ 0.822196900844574

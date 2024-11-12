@@ -1,0 +1,28 @@
+How did NZTA handle a conflict of interest involving a staff member who was a rideshare company shareholder?
+None
+Seed: shareholder/director of rideshare company
+Seed: conflicts of interest by senior staff
+Seed: Conflict of interest
+Seed: conflict of interest
+[shareholder/director of rideshare company]: senior staff member --[IS]-> shareholder/director of rideshare company 0.8890764117240906
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[MANAGES]-> conflict of interest 0.9037492275238037
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[MANAGES]-> Conflict of interest 0.9037492275238037
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[NOTIFIES]-> conflicts of interest by senior staff 0.8883085250854492
+[conflicts of interest by senior staff]: questions and responses --[FROM]-> NZ Transport Agency 0.8686275482177734
+[conflicts of interest by senior staff]: NZTA --[CONSIDER]-> public interest 0.8638066053390503
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[ASSOCIATED]-> Business-as-usual legal advice 0.8627529740333557
+[conflicts of interest by senior staff]: N Z Transport Agency --[DISCUSS]-> darryl.walker@nzta.govt.nz 0.8609265089035034
+[Conflict of interest]: New Zealand Transport Agency --[MANAGES]-> Conflict of interest 0.9037492275238037
+[Conflict of interest]: New Zealand Transport Agency --[MANAGES]-> conflict of interest 0.9037492275238037
+[Conflict of interest]: New Zealand Transport Agency --[NOTIFIES]-> conflicts of interest by senior staff 0.8883085250854492
+[Conflict of interest]: questions and responses --[FROM]-> NZ Transport Agency 0.8686275482177734
+[Conflict of interest]: NZTA --[CONSIDER]-> public interest 0.8638066053390503
+[Conflict of interest]: New Zealand Transport Agency --[ASSOCIATED]-> Business-as-usual legal advice 0.8627529740333557
+[Conflict of interest]: N Z Transport Agency --[DISCUSS]-> darryl.walker@nzta.govt.nz 0.8609265089035034
+[conflict of interest]: New Zealand Transport Agency --[MANAGES]-> conflict of interest 0.9037492275238037
+[conflict of interest]: New Zealand Transport Agency --[MANAGES]-> Conflict of interest 0.9037492275238037
+[conflict of interest]: New Zealand Transport Agency --[NOTIFIES]-> conflicts of interest by senior staff 0.8883085250854492
+[conflict of interest]: questions and responses --[FROM]-> NZ Transport Agency 0.8686275482177734
+[conflict of interest]: NZTA --[CONSIDER]-> public interest 0.8638066053390503
+[conflict of interest]: New Zealand Transport Agency --[ASSOCIATED]-> Business-as-usual legal advice 0.8627529740333557
+[conflict of interest]: N Z Transport Agency --[DISCUSS]-> darryl.walker@nzta.govt.nz 0.8609265089035034

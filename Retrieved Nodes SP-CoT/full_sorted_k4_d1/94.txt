@@ -1,0 +1,10 @@
+Which country hosted the adoption of the international agreement that promotes road safety and the harmonization of traffic regulations among member countries, to which the country where the regional council responsible for planning and delivering public transport services in the Greater Wellington area is located is a signatory?
+None
+Seed: New zealand's commitment to international standards in road safety and traffic management
+Seed: New zealand's road safety initiatives
+Seed: Governance and management of wellington region
+Seed: Management and regulation of the transport system in new zealand
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Reflects]-> New zealand's commitment to international standards in road safety and traffic management 0.8528164625167847
+[New zealand's road safety initiatives]: Vienna convention on road traffic --[Influenced]-> New zealand's road safety initiatives 0.8472034931182861
+[Governance and management of wellington region]: Greater wellington regional council --[Responsible for]-> Governance and management of wellington region 0.8669979572296143
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Responsible for]-> Management and regulation of the transport system in new zealand 0.8450640439987183

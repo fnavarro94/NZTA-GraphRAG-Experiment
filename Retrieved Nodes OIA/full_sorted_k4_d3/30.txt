@@ -1,0 +1,30 @@
+What type of public transport solution was being considered for the route between Wynyard Quarter and the north-western motorway?
+None
+Seed: reports on converting the shoulder of Auckland Motorway into Bus Lanes
+Seed: https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/
+Seed: review of public transport fare policy
+Seed: Briefing for Fergus on WCC proposal to install non-complying rainbow pedestrian crossing traffic control device
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Zachary Wong --[REQUESTED]-> reports on converting the shoulder of Auckland Motorway into Bus Lanes 0.8135884404182434
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf --[APPENDIX]-> Appendices A to E 0.806395947933197
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: reports on converting the shoulder of Auckland Motorway into Bus Lanes --[PROVIDED]-> Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf 0.7956129312515259
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Zachary Wong --[EMAIL]-> fyi-request-9242-f4aad453@requests.fyi.org.nz 0.7037843465805054
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Project Agreement --[AVAILABLE]-> https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/ 0.8196707367897034
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Project Agreement --[GOVERNED_BY]-> Public Private Partnership 0.7453817129135132
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Public Private Partnership --[DURATION]-> 25 years 0.737317681312561
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Out of Scope --[RELATES]-> Prolongation Costs 0.7241952419281006
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Out of Scope --[RELATES]-> Project Agreement 0.7073014974594116
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Out of Scope --[RELATES]-> Periodic Payments 0.7068244218826294
+[review of public transport fare policy]: Regional Public Transport Plans --[DEVELOPED_BY]-> Waka Kotahi 0.8381390571594238
+[review of public transport fare policy]: Connected Journey Solutions --[IS_PART_OF]-> New Zealand Transport Agency 0.8281615972518921
+[review of public transport fare policy]: Transport Gully --[MEETS]-> needs of customers 0.8274713754653931
+[review of public transport fare policy]: transport infrastructure --[SERVED_BY]-> Waka Kotahi 0.8238844871520996
+[review of public transport fare policy]: Connected Journey Solutions --[DELIVERS]-> innovative transport solutions 0.8232333064079285
+[review of public transport fare policy]: New Zealand Transport Agency --[PROVIDES]-> Connected Journey Solutions 0.8230506181716919
+[review of public transport fare policy]: Waka Kotahi --[PARTNER]-> Regional Public Transport Plans 0.8213038444519043
+[Briefing for Fergus on WCC proposal to install non-complying rainbow pedestrian crossing traffic control device]: Fergus Gammie --[BRIEFING]-> Briefing for Fergus on WCC proposal to install non-complying rainbow pedestrian crossing traffic control device 0.810894250869751
+[Briefing for Fergus on WCC proposal to install non-complying rainbow pedestrian crossing traffic control device]: Rainbow Crossing --[SAFETY_REVIEW]-> Safety Review 0.7599555253982544
+[Briefing for Fergus on WCC proposal to install non-complying rainbow pedestrian crossing traffic control device]: Rainbow Crossing --[UPDATE_REQUEST]-> Fergus Gammie 0.745987594127655
+[Briefing for Fergus on WCC proposal to install non-complying rainbow pedestrian crossing traffic control device]: Rainbow Crossing --[Safety Review]-> Rainbow Crossing Safety Review FINAL.docx 0.7420726418495178
+[Briefing for Fergus on WCC proposal to install non-complying rainbow pedestrian crossing traffic control device]: Rainbow Crossing --[ASSOCIATED_WITH]-> WCC 0.7361385226249695
+[Briefing for Fergus on WCC proposal to install non-complying rainbow pedestrian crossing traffic control device]: dialogue between WCC and Emma --[DISCUSSES]-> Rainbow Crossing 0.7351975440979004
+[Briefing for Fergus on WCC proposal to install non-complying rainbow pedestrian crossing traffic control device]: WCC --[ASSOCIATED_WITH]-> Rainbow Crossing 0.7327233552932739

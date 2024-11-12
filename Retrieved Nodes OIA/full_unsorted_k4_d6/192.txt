@@ -1,0 +1,36 @@
+Where can information about the successful applications to the Innovation Fund be found?
+None
+Seed: innovation-fund/innovation-fund-round-one-successful-applicants.pdf
+Seed: Innovation Fund
+Seed: Regional Investment Opportunities
+Seed: national fund
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: innovation-fund/innovation-fund-round-one-successful-applicants.pdf --[PROVIDES]-> successful applications 0.9087211489677429
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: successful applications --[LISTS]-> Hoe ki angitū – Innovation Fund 0.8917794227600098
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Hoe ki angitū – Innovation Fund --[FUNDED_BY]-> National Land Transport Fund 0.8315647840499878
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: National Land Transport Fund --[ADMINISTERED_BY]-> Waka Kotahi 0.7887466549873352
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Response --[CONTAINS]-> Waka Kotahi 0.782214343547821
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Waka Kotahi --[PUBLISHES]-> Response 0.7762856483459473
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: response --[CONTAINS]-> Waka Kotahi 0.7519547939300537
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.7729873061180115
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Charles Ronaldson --[SIGNED]-> response 0.7414803504943848
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Lauren Cooke --[SIGNED]-> response 0.7565211057662964
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Waka Kotahi --[PUBLISHED_BY]-> response 0.7786709666252136
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Ministry --[PROVIDE]-> response 0.7541844248771667
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: response --[REMOVED]-> personal information 0.7436385154724121
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Waka Kotahi website --[CONTAINS]-> response 0.7487685680389404
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: New Zealand Transport Agency --[DISCUSSES]-> response 0.771608829498291
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: response --[IS_A]-> letter 0.7428632378578186
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Waka Kotahi --[FOLLOWS]-> response 0.7389643788337708
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: New Zealand Transport Agency --[PUBLISH]-> response 0.7967349290847778
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: New Zealand Transport Agency --[PUBLISHES]-> response 0.7879855632781982
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: response --[IS]-> response letter 0.7463858127593994
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: response letter --[IS]-> response 0.7422322034835815
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: response --[CONTAINS]-> contact details for the Ombudsman 0.7678433060646057
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: response --[CONTAINS]-> Jamie Ensor 0.7589753866195679
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: response --[RELATES_TO]-> personal information removed 0.744096577167511
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Conan Young --[RECEIVES]-> response 0.7181238532066345
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: oia-14650-response-letter.pdf --[CONTAINS]-> response 0.7693477272987366
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: response --[IS]-> sincerely 0.7384765148162842
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: NZTA --[REPLY]-> response 0.7596834301948547
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: response --[REMOVE]-> personal information 0.7235121130943298
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Waka Kotahi --[PUBLISHED]-> response 0.7833031415939331

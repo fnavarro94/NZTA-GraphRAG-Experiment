@@ -1,0 +1,28 @@
+How many crashes occurred at the Kiddle Drive/Arrowsmith Avenue intersection in Taupō after October 2019?
+None
+Seed: intersection of Kiddle Drive/Arrowsmith Ave
+Seed: Kiddle Drive/Arrowsmith Ave Taupō
+Seed: Road Traffic Crashes
+Seed: Traffic Crash Report
+[intersection of Kiddle Drive/Arrowsmith Ave]: vehicle accidents --[LOCATED]-> intersection of Kiddle Drive/Arrowsmith Ave 0.909781813621521
+[intersection of Kiddle Drive/Arrowsmith Ave]: intersection of Kiddle Drive/Arrowsmith Ave --[CROSSES]-> Napier Road 0.8553223609924316
+[intersection of Kiddle Drive/Arrowsmith Ave]: Napier Road --[IN]-> Taupo 0.8495903015136719
+[intersection of Kiddle Drive/Arrowsmith Ave]: Data --[LIMITED]-> intersection of Kiddle Drive/Arrowsmith Ave 0.8450238108634949
+[intersection of Kiddle Drive/Arrowsmith Ave]: Pedestrian and Cyclist Crashes --[ASSOCIATED_WITH]-> Road Safety Initiatives 0.8166382312774658
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[UPDATED]-> Traffic Crash Report 0.8113682866096497
+[intersection of Kiddle Drive/Arrowsmith Ave]: Pedestrian and Cyclist Crashes --[ASSOCIATED_WITH]-> Headphones, Earphones, Earbuds, or Headsets 0.8060531616210938
+[Kiddle Drive/Arrowsmith Ave Taupō]: Kiddle Drive/Arrowsmith Ave Taupō --[HAS_INTERSECTION]-> intersection 0.8774054646492004
+[Road Traffic Crashes]: Road Traffic Crashes --[ANALYZED_BY]-> Crash Analysis 0.8118613362312317
+[Road Traffic Crashes]: Crash Analysis --[PERFORMED_BY]-> Waka Kotahi NZ Transport Agency 0.8107889890670776
+[Road Traffic Crashes]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.8012151718139648
+[Road Traffic Crashes]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.7974053025245667
+[Road Traffic Crashes]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.7909067273139954
+[Road Traffic Crashes]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.7824699282646179
+[Road Traffic Crashes]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.7824631929397583
+[Traffic Crash Report]: Data --[LIMITED]-> intersection of Kiddle Drive/Arrowsmith Ave 0.8450238108634949
+[Traffic Crash Report]: road traffic crashes --[OCCURS_IN]-> Queenstown Lakes and Central Otago 0.8355650901794434
+[Traffic Crash Report]: crashes --[OCCURRED]-> Territorial Local Authorities 0.8295955657958984
+[Traffic Crash Report]: crashes --[OCCURRED]-> State Highway 16 0.8248258233070374
+[Traffic Crash Report]: Pedestrian and Cyclist Crashes --[ASSOCIATED_WITH]-> Road Safety Initiatives 0.8166382312774658
+[Traffic Crash Report]: per year --[FOR]-> road accident data 0.812720537185669
+[Traffic Crash Report]: Traffic Crash Report --[PROVIDED_BY]-> NZ Police 0.812217116355896

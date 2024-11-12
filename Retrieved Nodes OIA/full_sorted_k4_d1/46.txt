@@ -1,0 +1,12 @@
+What action can an individual take if they wish to contest the decision to refuse their request?
+None
+Seed: decision to refuse request
+Seed: refusal of request
+Seed: I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.
+Seed: public interest in seeking and receiving confidential legal advice
+[decision to refuse request]: request --[REFUSED]-> decision to refuse request 0.8788845539093018
+[decision to refuse request]: decision to refuse request --[BASED_ON]-> section 28 of the Act 0.8774951696395874
+[decision to refuse request]: Ombudsman --[REVIEW]-> decision to refuse request 0.8718570470809937
+[refusal of request]: section 18(f) of the Act --[PERMITS]-> refusal of request 0.8591588735580444
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. --[OFFICIAL_INFORMATION]-> I am refusing this part of your request under section 18(d) of the Act as the information is publicly available. 0.7572941780090332
+[public interest in seeking and receiving confidential legal advice]: Waka Kotahi --[ACKNOWLEDGES]-> public interest in seeking and receiving confidential legal advice 0.7681252360343933

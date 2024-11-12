@@ -1,0 +1,10 @@
+What iconic transport system is managed by the organization that oversees the implementation of one of the key initiatives in New Zealand aimed at improving public transport accessibility, particularly in the Wellington region, in the cities of Auckland and Wellington?
+None
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+Seed: Promoting public transport initiatives
+Seed: Management and regulation of the transport system in new zealand
+Seed: Regional transport initiatives
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Plays]-> Significant role in shaping transport infrastructure and policy in new zealand 0.8699779510498047
+[Promoting public transport initiatives]: New zealand transport agency --[Is responsible for]-> Promoting public transport initiatives 0.8980589509010315
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Responsible for]-> Management and regulation of the transport system in new zealand 0.8792058229446411
+[Regional transport initiatives]: Local councils --[Contribute to]-> Regional transport initiatives 0.8426549434661865

@@ -1,0 +1,36 @@
+Which country hosted the adoption of the international agreement that promotes road safety and the harmonization of traffic regulations among member countries, to which the country where the regional council responsible for planning and delivering public transport services in the Greater Wellington area is located is a signatory?
+None
+Seed: New zealand's commitment to international standards in road safety and traffic management
+Seed: New zealand's road safety initiatives
+Seed: Governance and management of wellington region
+Seed: Management and regulation of the transport system in new zealand
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Reflects]-> New zealand's commitment to international standards in road safety and traffic management 0.8528164625167847
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Aiming to]-> Reduce road traffic accidents and fatalities 0.8104875683784485
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Reflected in]-> Land transport act 1998 0.8148114681243896
+[New zealand's commitment to international standards in road safety and traffic management]: Road transport safety --[Governed by]-> Land transport act 1998 0.8055030107498169
+[New zealand's commitment to international standards in road safety and traffic management]: Land transport act 1998 --[Establishes]-> Legal framework for enforcement of road rules 0.8004469871520996
+[New zealand's commitment to international standards in road safety and traffic management]: Land transport act 1998 --[Establishes]-> Legal framework for registration of vehicles 0.7911553978919983
+[New zealand's commitment to international standards in road safety and traffic management]: Road safety legislation --[Governed by]-> Land transport act 1998 0.7989651560783386
+[New zealand's commitment to international standards in road safety and traffic management]: Land transport act 1998 --[Establishes]-> Legal framework for licensing of drivers 0.7901428937911987
+[New zealand's commitment to international standards in road safety and traffic management]: Land transport act 1998 --[Complemented by]-> Land transport (road user 0.8011157512664795
+[New zealand's commitment to international standards in road safety and traffic management]: Vehicle maintenance standards --[Are set forth in]-> Land transport act 1998 0.7601938247680664
+[New zealand's commitment to international standards in road safety and traffic management]: Land transport act 1998 --[Provides]-> Legislative framework for road safety initiatives 0.7900155782699585
+[New zealand's commitment to international standards in road safety and traffic management]: Land transport act 1998 --[Provides]-> Legal foundation 0.7855314612388611
+[New zealand's commitment to international standards in road safety and traffic management]: New zealand --[Has]-> Land transport act 1998 0.8175677061080933
+[New zealand's commitment to international standards in road safety and traffic management]: Land transport act 1998 --[Outlines]-> Driver licensing 0.7867129445075989
+[New zealand's commitment to international standards in road safety and traffic management]: Land transport act 1998 --[Outlines]-> Rules for vehicle operation 0.7754130363464355
+[New zealand's commitment to international standards in road safety and traffic management]: Land transport act 1998 --[Outlines]-> Road safety 0.7893130779266357
+[New zealand's commitment to international standards in road safety and traffic management]: Vehicle safety standards --[Are overseen by]-> Land transport act 1998 0.7954795956611633
+[New zealand's commitment to international standards in road safety and traffic management]: New zealand --[Governed by]-> Land transport act 1998 0.829861581325531
+[New zealand's commitment to international standards in road safety and traffic management]: Land transport act 1998 --[Complemented by]-> Resource management act 1991 0.778437614440918
+[New zealand's commitment to international standards in road safety and traffic management]: Land transport act 1998 --[Provides]-> Foundation for vehicle standards and compliance 0.7858917117118835
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Emphasis on]-> Standardized road signs and signals 0.8067590594291687
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Aimed at]-> Facilitating international road traffic 0.8291443586349487
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Integrated into]-> New zealand's national road traffic laws 0.8474592566490173
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Ratified by]-> Numerous countries 0.8348648548126221
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Aimed at]-> Promoting road safety 0.8177390694618225
+[New zealand's commitment to international standards in road safety and traffic management]: Road safety authority --[Responsible for]-> Promoting road safety 0.8245676755905151
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Adopted]-> Graduated licensing system 0.8219378590583801
+[New zealand's commitment to international standards in road safety and traffic management]: New zealand --[Has]-> Graduated licensing system 0.8290010690689087
+[New zealand's commitment to international standards in road safety and traffic management]: Graduated licensing system --[Ensures]-> New drivers acquire skills 0.7638068199157715
+[New zealand's commitment to international standards in road safety and traffic management]: Graduated licensing system --[Aims]-> Improve road safety 0.8063274621963501

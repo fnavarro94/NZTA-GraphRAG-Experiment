@@ -1,0 +1,36 @@
+How did NZTA handle a conflict of interest involving a staff member who was a rideshare company shareholder?
+None
+Seed: shareholder/director of rideshare company
+Seed: conflicts of interest by senior staff
+Seed: Conflict of interest
+Seed: conflict of interest
+[shareholder/director of rideshare company]: senior staff member --[IS]-> shareholder/director of rideshare company 0.8890764117240906
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[NOTIFIES]-> conflicts of interest by senior staff 0.8883085250854492
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8244614005088806
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[BASED]-> Wellington 0.8188868165016174
+[conflicts of interest by senior staff]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7894747257232666
+[conflicts of interest by senior staff]: Golden Mile --[LOCATED]-> Wellington 0.7389703392982483
+[conflicts of interest by senior staff]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7760477066040039
+[conflicts of interest by senior staff]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7795088887214661
+[conflicts of interest by senior staff]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7556973099708557
+[conflicts of interest by senior staff]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7857075929641724
+[conflicts of interest by senior staff]: Wellington --[PART_OF]-> Wellington Region 0.777025580406189
+[conflicts of interest by senior staff]: New Zealand --[HAS_CAPITAL]-> Wellington 0.8046729564666748
+[conflicts of interest by senior staff]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7622387409210205
+[conflicts of interest by senior staff]: Wellington --[HAS]-> tunnel 0.7755520343780518
+[conflicts of interest by senior staff]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7952892780303955
+[conflicts of interest by senior staff]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7956950664520264
+[conflicts of interest by senior staff]: Wellington --[POSTCODE]-> 6141 0.7433764338493347
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.8166094422340393
+[conflicts of interest by senior staff]: Wellington --[IS_PART_OF]-> New Zealand 0.7864456176757812
+[conflicts of interest by senior staff]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7736658453941345
+[conflicts of interest by senior staff]: 50 Victoria Street --[IN]-> Wellington 0.750343918800354
+[conflicts of interest by senior staff]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7787437438964844
+[conflicts of interest by senior staff]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7568331956863403
+[conflicts of interest by senior staff]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7768263816833496
+[conflicts of interest by senior staff]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7967661619186401
+[conflicts of interest by senior staff]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7958789467811584
+[conflicts of interest by senior staff]: NZ Transport Agency --[LOCATED]-> Wellington 0.8213792443275452
+[conflicts of interest by senior staff]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7526715993881226
+[conflicts of interest by senior staff]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7491189241409302
+[conflicts of interest by senior staff]: New Zealand --[CONTAINS]-> Wellington 0.7672532796859741

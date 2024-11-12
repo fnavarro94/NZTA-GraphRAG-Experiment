@@ -1,0 +1,26 @@
+How many driver licenses have been granted annually over the last ten years?
+None
+Seed: driver licenses
+Seed: Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019
+Seed: information related to criminal convictions of driving instructor (I) endorsement holders
+Seed: information on vehicle and driver registration and licensing
+[driver licenses]: driver licenses --[CONTAINS]-> annual data 0.874234139919281
+[driver licenses]: age categories --[BREAKDOWN]-> learners, restricted, full licenses and vehicle classes 0.8205157518386841
+[driver licenses]: annual data --[BREAKDOWN]-> age categories 0.7751296162605286
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Data --[IS]-> Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019 0.8293493986129761
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Driver Licence Register --[PROVIDES]-> Data 0.8075400590896606
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Deceased Drivers --[ASSOCIATED_WITH]-> Fatal Crashes 0.7944062948226929
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Data --[IS]-> Standard condition of drivers under 20 subject to zero alcohol level are not included 0.7919147610664368
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Deceased Drivers --[ASSOCIATED_WITH]-> Crash Analysis System 0.7911256551742554
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Data --[FOR]-> period 1/10/2017 to 26/05/2021 0.7904588580131531
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Fatal Crashes --[ASSOCIATED_WITH]-> Deceased Drivers 0.7887418866157532
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Michael Morrah --[REQUESTS]-> information related to criminal convictions of driving instructor (I) endorsement holders 0.8088971972465515
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Michael Morrah --[SUBMITTED]-> request for information 0.7625592947006226
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[RESPONDS]-> request for information 0.7587414979934692
+[information on vehicle and driver registration and licensing]: tolls --[PAID]-> each year 0.8296492099761963
+[information on vehicle and driver registration and licensing]: Transport Service Licences --[ACTIVE_FOR]-> 5 years 0.8283382654190063
+[information on vehicle and driver registration and licensing]: tolls --[SPENT]-> on various roads 0.8143150806427002
+[information on vehicle and driver registration and licensing]: tolls --[COLLECTED]-> drivers 0.8127753734588623
+[information on vehicle and driver registration and licensing]: NZ Driver Licensing (1998) Limited --[PROVIDES]-> spreadsheet 0.8107783794403076
+[information on vehicle and driver registration and licensing]: Vehicle permits --[DEVELOPED_BY]-> Connected Journeys 0.8101828098297119
+[information on vehicle and driver registration and licensing]: Request made under the Official Information Act 1982 --[OFFICIAL_INFORMATION]-> Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act). 0.8058106899261475

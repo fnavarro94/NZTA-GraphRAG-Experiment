@@ -1,0 +1,36 @@
+When were the safety cameras in the Waterview Tunnel last calibrated for accuracy?
+None
+Seed: MINO -1042 Waterview Tunnel
+Seed: information on traffic light cameras and speed cameras
+Seed: information on traffic light cameras
+Seed: Lyttelton tunnel
+[MINO -1042 Waterview Tunnel]: MINO -1042 Waterview Tunnel --[WARNING]-> 19 April 2024 0.8536930680274963
+[MINO -1042 Waterview Tunnel]: 19 April 2024 --[RELEASED]-> Released in full 0.7138846516609192
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.7930383682250977
+[information on traffic light cameras and speed cameras]: Response --[CONTAINS]-> Waka Kotahi 0.719293475151062
+[information on traffic light cameras and speed cameras]: response --[CONTAINS]-> Waka Kotahi 0.7053399085998535
+[information on traffic light cameras and speed cameras]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.7199184894561768
+[information on traffic light cameras and speed cameras]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.7247430086135864
+[information on traffic light cameras and speed cameras]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.6964605450630188
+[information on traffic light cameras and speed cameras]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7074836492538452
+[information on traffic light cameras and speed cameras]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.7143147587776184
+[information on traffic light cameras and speed cameras]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7274354696273804
+[information on traffic light cameras and speed cameras]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.7131176590919495
+[information on traffic light cameras and speed cameras]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.7361042499542236
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7218862771987915
+[information on traffic light cameras and speed cameras]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.7385420799255371
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.7278314232826233
+[information on traffic light cameras and speed cameras]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.7321177124977112
+[information on traffic light cameras and speed cameras]: Leisa Coley --[EMPLOYED_BY]-> Waka Kotahi 0.7094370126724243
+[information on traffic light cameras and speed cameras]: Lizette Marais --[EMPLOYED_BY]-> Waka Kotahi 0.7111838459968567
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[EMPLOYS]-> Andy Knackstedt 0.7186342477798462
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[EMPLOYS]-> Qualified Staff 0.7170695662498474
+[information on traffic light cameras and speed cameras]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.7562933564186096
+[information on traffic light cameras and speed cameras]: website --[RELATES_TO]-> Waka Kotahi 0.7156585454940796
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[RESPONDS_TO]-> OIA request 0.7134090065956116
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[RESPONDS_TO]-> request 0.704814076423645
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> OIA-10601-response-georgina-campbell.pdf 0.7332524061203003
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> outcome of suspension 0.7409319281578064
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> outcome of surrendered 0.7281588912010193
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on website 0.721169114112854
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> outcome of revoke 0.7316559553146362

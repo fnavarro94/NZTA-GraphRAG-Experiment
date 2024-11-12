@@ -1,0 +1,10 @@
+What legislation established the organization that outlines its responsibilities in transport governance in New Zealand?
+None
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+Seed: Management and regulation of the transport system in new zealand
+Seed: Management and regulation of transport systems
+Seed: Transport industry governed by regulatory bodies
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Plays]-> Significant role in shaping transport infrastructure and policy in new zealand 0.8711110949516296
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Responsible for]-> Management and regulation of the transport system in new zealand 0.9029663801193237
+[Management and regulation of transport systems]: New zealand transport agency --[Responsible for]-> Management and regulation of transport systems 0.9025870561599731
+[Transport industry governed by regulatory bodies]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.9046234488487244

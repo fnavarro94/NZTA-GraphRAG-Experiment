@@ -1,0 +1,28 @@
+How many potential mobile phone use offenses were detected during the hidden texting camera trial?
+None
+Seed: criminal history
+Seed: Attempted Burglary
+Seed: no notifications of offences detected by speed cameras
+Seed: one infringement for failing to comply with the instructions given by a steady red-light signal
+[criminal history]: fit and proper person assessments --[FORM]-> criminal history 0.7980396747589111
+[criminal history]: criminal history --[PART_OF]-> fitness and propriety factors 0.7947542667388916
+[criminal history]: frequency --[ANALYZED]-> Transport Agency 0.7883644104003906
+[criminal history]: Mobility Marketplace --[PROVIDES]-> real-time data processing 0.7840467691421509
+[criminal history]: frequency --[ANALYZED_BY]-> Transport Agency 0.7836706638336182
+[criminal history]: information --[WITHHELD]-> public interest 0.7825956344604492
+[criminal history]: Transport Agency --[FOCUSED_ON]-> commerical operators privacy 0.7811126708984375
+[Attempted Burglary]: Applicant 4 --[CONVICTED]-> Attempted Burglary 0.7914906144142151
+[no notifications of offences detected by speed cameras]: Resist Police --[COUNT]-> 2 0.8109118342399597
+[no notifications of offences detected by speed cameras]: Road Safety Campaigns --[USES]-> Social Media Platforms 0.8080756068229675
+[no notifications of offences detected by speed cameras]: Careless Use/Driving --[COUNT]-> 2 0.8040010929107666
+[no notifications of offences detected by speed cameras]: Road Safety Campaigns --[USES]-> Online Platforms 0.8027316331863403
+[no notifications of offences detected by speed cameras]: Road Safety Campaigns --[USES]-> Traditional Media 0.8020104169845581
+[no notifications of offences detected by speed cameras]: Road to Zero --[RAISES_AWARENESS_OF]-> public awareness of Road to Zero 0.7973338961601257
+[no notifications of offences detected by speed cameras]: Common Assault --[COUNT]-> 2 0.7935522794723511
+[one infringement for failing to comply with the instructions given by a steady red-light signal]: Resist Police --[COUNT]-> 2 0.8109118342399597
+[one infringement for failing to comply with the instructions given by a steady red-light signal]: Road Safety Campaigns --[USES]-> Social Media Platforms 0.8080756068229675
+[one infringement for failing to comply with the instructions given by a steady red-light signal]: Careless Use/Driving --[COUNT]-> 2 0.8040010929107666
+[one infringement for failing to comply with the instructions given by a steady red-light signal]: Road Safety Campaigns --[USES]-> Online Platforms 0.8027316331863403
+[one infringement for failing to comply with the instructions given by a steady red-light signal]: Road Safety Campaigns --[USES]-> Traditional Media 0.8020104169845581
+[one infringement for failing to comply with the instructions given by a steady red-light signal]: Road to Zero --[RAISES_AWARENESS_OF]-> public awareness of Road to Zero 0.7973338961601257
+[one infringement for failing to comply with the instructions given by a steady red-light signal]: Common Assault --[COUNT]-> 2 0.7935522794723511

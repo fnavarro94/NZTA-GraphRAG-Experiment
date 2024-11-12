@@ -1,0 +1,36 @@
+Why did Waka Kotahi withhold documents related to the Transmission Gully settlement?
+None
+Seed: Waka Kotahi NZ Transport Agency
+Seed: Waka Kotahi N Z Transport Agency
+Seed: Waka Kotahi
+Seed: NZ Transport Agency Waka Kotahi
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.8428376913070679
+[Waka Kotahi NZ Transport Agency]: New Zealand Transport Agency --[BASED]-> Wellington 0.7801215648651123
+[Waka Kotahi NZ Transport Agency]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7814195156097412
+[Waka Kotahi NZ Transport Agency]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.750411868095398
+[Waka Kotahi NZ Transport Agency]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.7724028825759888
+[Waka Kotahi NZ Transport Agency]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.7584571838378906
+[Waka Kotahi NZ Transport Agency]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7611225843429565
+[Waka Kotahi NZ Transport Agency]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7747998237609863
+[Waka Kotahi NZ Transport Agency]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7708339691162109
+[Waka Kotahi NZ Transport Agency]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.7714027166366577
+[Waka Kotahi NZ Transport Agency]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.8204400539398193
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.8379769921302795
+[Waka Kotahi NZ Transport Agency]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7560199499130249
+[Waka Kotahi NZ Transport Agency]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7363288402557373
+[Waka Kotahi NZ Transport Agency]: Wellington --[CONTAINS]-> Private Bag 6995 0.7609586119651794
+[Waka Kotahi NZ Transport Agency]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7853094935417175
+[Waka Kotahi NZ Transport Agency]: Golden Mile --[LOCATED]-> Wellington 0.7600888013839722
+[Waka Kotahi NZ Transport Agency]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7544231414794922
+[Waka Kotahi NZ Transport Agency]: road safety --[ENHANCED_BY]-> State Highway 1 0.7256941795349121
+[Waka Kotahi NZ Transport Agency]: State Highway 1 --[REPAIRS]-> potholes 0.7600935697555542
+[Waka Kotahi NZ Transport Agency]: Road Safety Initiatives --[IMPROVES]-> State Highway 1 0.7185589075088501
+[Waka Kotahi NZ Transport Agency]: road maintenance --[OVERDUE]-> State Highway 1 0.7733040452003479
+[Waka Kotahi NZ Transport Agency]: State Highway 1 --[OVERDUE]-> road maintenance 0.7754825949668884
+[Waka Kotahi NZ Transport Agency]: State Highway 1 --[IN]-> Bay of Plenty 0.7457647919654846
+[Waka Kotahi NZ Transport Agency]: State Highway 1 --[IMPROVES]-> safety 0.7198343873023987
+[Waka Kotahi NZ Transport Agency]: 100M --[ALLOCATED_FOR]-> State Highway 1 0.7660501003265381
+[Waka Kotahi NZ Transport Agency]: State Highway 1 --[IS_PART_OF]-> New Zealand 0.7682514786720276
+[Waka Kotahi NZ Transport Agency]: road maintenance --[ASSOCIATED_WITH]-> State Highway 1 0.7574682831764221
+[Waka Kotahi NZ Transport Agency]: funding for road maintenance --[FOR]-> State Highway 1 0.7733122706413269
+[Waka Kotahi NZ Transport Agency]: State Highway 1 --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.8320058584213257

@@ -1,0 +1,36 @@
+What organization did emerge from during its establishment in 2008, which operates the rail network in the country where the term describing the regular activities performed to keep roads safe and functional, including vegetation control, litter removal, and drainage maintenance of local roads is particularly important due to diverse geography and challenges such as landslides, flooding, and erosion, primarily serving freight and providing passenger services in metropolitan areas?
+None
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+Seed: Crucial role in promoting road safety
+Seed: Critical for freight and passenger movement
+Seed: Improving road safety and reducing congestion in urban areas
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Plays]-> Significant role in shaping transport infrastructure and policy in new zealand 0.8142414689064026
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Conducts]-> Extensive research and development projects 0.7584726810455322
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Collaborates with]-> New zealand transport agency (nzta 0.7658791542053223
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Aims to]-> Enhance resilience and adaptability of new zealand's transport network 0.8178541660308838
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Is]-> Collective of australian and new zealand road transport and traffic agencies 0.8110703229904175
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Founded in]-> 1990 0.7584134936332703
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Engages in]-> International collaborations to align initiatives with global best practices 0.7734746932983398
+[Crucial role in promoting road safety]: Education and awareness programs --[Play]-> Crucial role in promoting road safety 0.8174929022789001
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about dangers of distracted driving 0.7500773668289185
+[Crucial role in promoting road safety]: Education and awareness programs --[Include]-> Belt up campaign 0.7710846662521362
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about safe driving practices 0.7843621969223022
+[Crucial role in promoting road safety]: Education and awareness programs --[Include]-> Road safety week 0.801123321056366
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about importance of seatbelt use 0.7542949914932251
+[Critical for freight and passenger movement]: North island main trunk railway --[Is]-> Critical for freight and passenger movement 0.8147746920585632
+[Critical for freight and passenger movement]: North island main trunk railway --[Supports]-> Tourism 0.7701696157455444
+[Critical for freight and passenger movement]: North island main trunk railway --[Supports]-> Industry 0.7718896269798279
+[Critical for freight and passenger movement]: North island main trunk railway --[Holds]-> Efficiency 0.7701025605201721
+[Critical for freight and passenger movement]: Tms --[Drives]-> Efficiency 0.7145259380340576
+[Critical for freight and passenger movement]: Tms --[Enhances]-> Efficiency 0.6996015906333923
+[Critical for freight and passenger movement]: Auckland city rail link --[Improves]-> Efficiency 0.7764552235603333
+[Critical for freight and passenger movement]: Vehicle fleet optimization --[Improve]-> Efficiency 0.7394911646842957
+[Critical for freight and passenger movement]: Ruei --[Aimed at]-> Efficiency 0.7299847602844238
+[Critical for freight and passenger movement]: Vehicle technology advancements --[Enhanced]-> Efficiency 0.7421111464500427
+[Critical for freight and passenger movement]: Smart mobility solutions --[Enhance]-> Efficiency 0.725204586982727
+[Critical for freight and passenger movement]: Intelligent transport systems --[Enhance]-> Efficiency 0.7589705586433411
+[Critical for freight and passenger movement]: Road maintenance strategies --[Ensure]-> Efficiency 0.8094437122344971
+[Critical for freight and passenger movement]: North island main trunk railway --[Fosters]-> Movement of people 0.7763950228691101
+[Critical for freight and passenger movement]: Kiwirail --[Facilitates]-> Movement of people 0.7923616766929626
+[Critical for freight and passenger movement]: North island main trunk railway --[Holds]-> Vital link 0.779927670955658
+[Critical for freight and passenger movement]: Hamilton --[Is]-> Vital link 0.7361226081848145

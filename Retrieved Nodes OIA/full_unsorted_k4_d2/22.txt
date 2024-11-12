@@ -1,0 +1,36 @@
+How many drivers had a zero-alcohol condition on their licence as of 1 July 2019?
+None
+Seed: Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence
+Seed: Standard condition of drivers under 20 subject to zero alcohol level are not included
+Seed: Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019
+Seed: Driving With Excess Blood Alcohol Level
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Data --[IS]-> Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence 0.857560396194458
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Crash Analysis System --[PROVIDES]-> Data 0.7724289894104004
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Data --[LIMITED_TO]-> Fatal Crashes 0.7595933675765991
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Data --[IS]-> Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019 0.8885011076927185
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Data --[IS]-> Standard condition of drivers under 20 subject to zero alcohol level are not included 0.8803609609603882
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Driver Licence Register --[PROVIDES]-> Data 0.8159202337265015
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Data --[IS]-> Current at 18 September 2019 0.7880295515060425
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Cyclists --[EXCLUDED]-> Data 0.7755978107452393
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Tractor drivers --[EXCLUDED]-> Data 0.7769266366958618
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Bus occupants --[EXCLUDED]-> Data 0.7658288478851318
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Drivers of motorbikes --[EXCLUDED]-> Data 0.8018432855606079
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Data --[LIMITED]-> intersection of Kiddle Drive/Arrowsmith Ave 0.7598658800125122
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Data --[FOR]-> period 1/10/2017 to 26/05/2021 0.7877988219261169
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Data --[PROVIDED]-> Waka Kotahi N Z Transport Agency 0.7824944853782654
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Crash Analysis System --[UPDATES]-> Data 0.7582476139068604
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Data --[RELATES_TO]-> Pedestrian and Cyclist Crashes 0.8076897263526917
+[Standard condition of drivers under 20 subject to zero alcohol level are not included]: Data --[IS]-> Standard condition of drivers under 20 subject to zero alcohol level are not included 0.8803609609603882
+[Standard condition of drivers under 20 subject to zero alcohol level are not included]: Crash Analysis System --[PROVIDES]-> Data 0.7724289894104004
+[Standard condition of drivers under 20 subject to zero alcohol level are not included]: Data --[LIMITED_TO]-> Fatal Crashes 0.7595933675765991
+[Standard condition of drivers under 20 subject to zero alcohol level are not included]: Data --[IS]-> Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence 0.857560396194458
+[Standard condition of drivers under 20 subject to zero alcohol level are not included]: Data --[IS]-> Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019 0.8885011076927185
+[Standard condition of drivers under 20 subject to zero alcohol level are not included]: Driver Licence Register --[PROVIDES]-> Data 0.8159202337265015
+[Standard condition of drivers under 20 subject to zero alcohol level are not included]: Data --[IS]-> Current at 18 September 2019 0.7880295515060425
+[Standard condition of drivers under 20 subject to zero alcohol level are not included]: Cyclists --[EXCLUDED]-> Data 0.7755978107452393
+[Standard condition of drivers under 20 subject to zero alcohol level are not included]: Tractor drivers --[EXCLUDED]-> Data 0.7769266366958618
+[Standard condition of drivers under 20 subject to zero alcohol level are not included]: Bus occupants --[EXCLUDED]-> Data 0.7658288478851318
+[Standard condition of drivers under 20 subject to zero alcohol level are not included]: Drivers of motorbikes --[EXCLUDED]-> Data 0.8018432855606079
+[Standard condition of drivers under 20 subject to zero alcohol level are not included]: Data --[LIMITED]-> intersection of Kiddle Drive/Arrowsmith Ave 0.7598658800125122
+[Standard condition of drivers under 20 subject to zero alcohol level are not included]: Data --[FOR]-> period 1/10/2017 to 26/05/2021 0.7877988219261169
+[Standard condition of drivers under 20 subject to zero alcohol level are not included]: Data --[PROVIDED]-> Waka Kotahi N Z Transport Agency 0.7824944853782654

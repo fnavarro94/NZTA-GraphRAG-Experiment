@@ -1,0 +1,27 @@
+When is the draft Strategic Case for Picton Port Access expected to be completed?
+None
+Seed: 2023-24 State Highway Investment Proposal
+Seed: RE WK PPP Strategy draft
+Seed: Waito hi Picton Ferry Precinct Redevelopment
+Seed: https://nzta.govt.nz/assets/projects/waitohi-picton-transport-network-improvements/picton-transport-improvements-factsheet-202010.pdf
+[2023-24 State Highway Investment Proposal]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Access and Development Programme Business Case 0.8467278480529785
+[2023-24 State Highway Investment Proposal]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Access and Development Programme Business Case 0.8444842100143433
+[2023-24 State Highway Investment Proposal]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.8369826674461365
+[2023-24 State Highway Investment Proposal]: Hornby Access and Development Programme Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.8343037366867065
+[2023-24 State Highway Investment Proposal]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.83381187915802
+[2023-24 State Highway Investment Proposal]: Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.8260360360145569
+[2023-24 State Highway Investment Proposal]: Main South Road, Shands Road and Carmen Road intersection --[LOCATED_NEAR]-> Hornby Access and Development Programme Business Case 0.7910584807395935
+[RE WK PPP Strategy draft]: New Zealand Transport Agency --[FALLS_IN_SCOPE]-> WK PPP Strategy (draft) 0.8053269982337952
+[RE WK PPP Strategy draft]: New Zealand Transport Agency --[REGULATORY]-> Review of regulatory role 0.8044129014015198
+[RE WK PPP Strategy draft]: New Zealand Transport Agency --[NEGOTIATING]-> Transmission Gully 0.8022751212120056
+[RE WK PPP Strategy draft]: New Zealand Transport Agency --[WAITING_FOR]-> guidance from Treasury 0.8007628321647644
+[RE WK PPP Strategy draft]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.8001904487609863
+[RE WK PPP Strategy draft]: New Zealand Transport Agency --[ON_TRACK]-> transition to a fully electric vehicle fleet by 2025 0.7992041110992432
+[RE WK PPP Strategy draft]: New Zealand Transport Agency --[PROVIDES]-> Picton Transport Improvements Factsheet 0.7983182668685913
+[Waito hi Picton Ferry Precinct Redevelopment]: 10 September 2020 --[ASSOCIATED_WITH]-> Waito hi Picton Ferry Precinct Redevelopment 0.8679131269454956
+[Waito hi Picton Ferry Precinct Redevelopment]: Waito hi Picton Ferry Precinct Redevelopment --[ASSOCIATED_WITH]-> Integrated Transportation Assessment 0.8574420213699341
+[Waito hi Picton Ferry Precinct Redevelopment]: Draft --[ASSOCIATED_WITH]-> 10 September 2020 0.8391091823577881
+[Waito hi Picton Ferry Precinct Redevelopment]: Integrated Transportation Assessment --[ASSOCIATED_WITH]-> Draft 0.8068135380744934
+[https://nzta.govt.nz/assets/projects/waitohi-picton-transport-network-improvements/picton-transport-improvements-factsheet-202010.pdf]: Picton Transport Improvements Factsheet --[AVAILABLE_AT]-> https://nzta.govt.nz/assets/projects/waitohi-picton-transport-network-improvements/picton-transport-improvements-factsheet-202010.pdf 0.8026319742202759
+[https://nzta.govt.nz/assets/projects/waitohi-picton-transport-network-improvements/picton-transport-improvements-factsheet-202010.pdf]: Picton Transport Improvements Factsheet --[CONTAINS]-> Marlborough Transport System 0.7992559671401978
+[https://nzta.govt.nz/assets/projects/waitohi-picton-transport-network-improvements/picton-transport-improvements-factsheet-202010.pdf]: New Zealand Transport Agency --[PROVIDES]-> Picton Transport Improvements Factsheet 0.7983182668685913

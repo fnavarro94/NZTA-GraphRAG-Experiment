@@ -1,0 +1,34 @@
+Which line does the major transport infrastructure project in New Zealand, which aims to improve rail connectivity and reduce congestion in Auckland, connect to at Britomart Station?
+None
+Seed: Addressing transport challenges in auckland
+Seed: Transport link between wellington and northern regions of north island
+Seed: Significant infrastructure project
+Seed: Improved public transport links
+[Addressing transport challenges in auckland]: Auckland city rail link --[Connects]-> Britomart station 0.9220510721206665
+[Addressing transport challenges in auckland]: Auckland city rail link --[Is]-> Significant infrastructure project 0.897292971611023
+[Addressing transport challenges in auckland]: Auckland city rail link --[Aims to]-> Enhance connectivity and reduce travel times 0.8862428665161133
+[Addressing transport challenges in auckland]: Auckland city rail link --[Designed to]-> Enhance rail network 0.8861993551254272
+[Addressing transport challenges in auckland]: Auckland --[Has]-> City rail link project 0.8815516829490662
+[Addressing transport challenges in auckland]: Auckland transport --[Committed to]-> Improving connectivity 0.8796952962875366
+[Addressing transport challenges in auckland]: Auckland --[Has]-> Rail network 0.8780422806739807
+[Transport link between wellington and northern regions of north island]: Auckland city rail link --[Connects]-> Britomart station 0.9220510721206665
+[Transport link between wellington and northern regions of north island]: Auckland city rail link --[Is]-> Significant infrastructure project 0.897292971611023
+[Transport link between wellington and northern regions of north island]: Auckland city rail link --[Aims to]-> Enhance connectivity and reduce travel times 0.8862428665161133
+[Transport link between wellington and northern regions of north island]: Auckland city rail link --[Designed to]-> Enhance rail network 0.8861993551254272
+[Transport link between wellington and northern regions of north island]: Auckland --[Has]-> City rail link project 0.8815516829490662
+[Transport link between wellington and northern regions of north island]: Auckland transport --[Committed to]-> Improving connectivity 0.8796952962875366
+[Transport link between wellington and northern regions of north island]: Auckland --[Has]-> Rail network 0.8780422806739807
+[Significant infrastructure project]: Auckland city rail link --[Connects]-> Britomart station 0.9220510721206665
+[Significant infrastructure project]: Auckland city rail link --[Is]-> Significant infrastructure project 0.897292971611023
+[Significant infrastructure project]: Auckland city rail link --[Aims to]-> Enhance connectivity and reduce travel times 0.8862428665161133
+[Significant infrastructure project]: Auckland city rail link --[Designed to]-> Enhance rail network 0.8861993551254272
+[Significant infrastructure project]: Auckland --[Has]-> City rail link project 0.8815516829490662
+[Significant infrastructure project]: Auckland transport --[Committed to]-> Improving connectivity 0.8796952962875366
+[Significant infrastructure project]: Auckland --[Has]-> Rail network 0.8780422806739807
+[Improved public transport links]: Auckland city rail link --[Connects]-> Britomart station 0.9220510721206665
+[Improved public transport links]: Auckland city rail link --[Is]-> Significant infrastructure project 0.897292971611023
+[Improved public transport links]: Auckland city rail link --[Aims to]-> Enhance connectivity and reduce travel times 0.8862428665161133
+[Improved public transport links]: Auckland city rail link --[Designed to]-> Enhance rail network 0.8861993551254272
+[Improved public transport links]: Auckland --[Has]-> City rail link project 0.8815516829490662
+[Improved public transport links]: Auckland transport --[Committed to]-> Improving connectivity 0.8796952962875366
+[Improved public transport links]: Auckland --[Has]-> Rail network 0.8780422806739807

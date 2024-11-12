@@ -1,0 +1,36 @@
+What information does Waka Kotahi NZTA provide regarding the amount of money spent on litter collection?
+None
+Seed: information regarding actual costs of litter collection
+Seed: information regarding amount of litter collected and disposed
+Seed: information to Waka Kotahi
+Seed: Waka Kotahi
+[information regarding actual costs of litter collection]: Waka Kotahi NZ Transport Agency --[DOES_NOT_HOLD]-> information regarding actual costs of litter collection 0.9002106785774231
+[information regarding actual costs of litter collection]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.8399441838264465
+[information regarding actual costs of litter collection]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.8443505764007568
+[information regarding actual costs of litter collection]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.8368337750434875
+[information regarding actual costs of litter collection]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> list of LGWM construction contracts 0.8152182698249817
+[information regarding actual costs of litter collection]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> public transport fare policy review 0.834404706954956
+[information regarding actual costs of litter collection]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.8317773342132568
+[information regarding actual costs of litter collection]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.846908450126648
+[information regarding actual costs of litter collection]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.8198343515396118
+[information regarding actual costs of litter collection]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.83184814453125
+[information regarding actual costs of litter collection]: Waka Kotahi NZ Transport Agency --[FAX]-> F 64 4 894 6100 0.8406370282173157
+[information regarding actual costs of litter collection]: Andrew Knackstedt --[CONTACT]-> Waka Kotahi NZ Transport Agency 0.8239397406578064
+[information regarding actual costs of litter collection]: Waka Kotahi NZ Transport Agency --[CONTACT]-> T 64 4 894 5400 0.8430686593055725
+[information regarding actual costs of litter collection]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.8392623066902161
+[information regarding actual costs of litter collection]: Chris Marshall --[REQUESTS]-> Waka Kotahi NZ Transport Agency 0.8242666721343994
+[information regarding actual costs of litter collection]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.8439375162124634
+[information regarding actual costs of litter collection]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.8435686826705933
+[information regarding actual costs of litter collection]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.8060431480407715
+[information regarding actual costs of litter collection]: Waka Kotahi NZ Transport Agency --[ANNOUNCED]-> Road to Zero 0.8196178078651428
+[information regarding actual costs of litter collection]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8213434815406799
+[information regarding actual costs of litter collection]: Road to Zero --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8220313191413879
+[information regarding actual costs of litter collection]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.8321000337600708
+[information regarding actual costs of litter collection]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.8378197550773621
+[information regarding actual costs of litter collection]: New Zealand --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.846705973148346
+[information regarding actual costs of litter collection]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.8658542633056641
+[information regarding actual costs of litter collection]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.8268771767616272
+[information regarding actual costs of litter collection]: www.nzta.govt.nz --[OF]-> Waka Kotahi NZ Transport Agency 0.8608537912368774
+[information regarding actual costs of litter collection]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.8451396226882935
+[information regarding actual costs of litter collection]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.8241640329360962
+[information regarding actual costs of litter collection]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.845574140548706

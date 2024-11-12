@@ -1,0 +1,36 @@
+What major arterial route enhances accessibility between Auckland and Onehunga, particularly for travel to one of the major airports in New Zealand's transport infrastructure as of 2023?
+None
+Seed: Future of transport in new zealand
+Seed: Access to auckland airport and other regions of the north island
+Seed: Strategically located near major arterial routes
+Seed: Wider transport network of new zealand
+[Future of transport in new zealand]: Auckland airport --[Key player]-> Future of transport in new zealand 0.8787257671356201
+[Future of transport in new zealand]: Auckland airport --[Serves]-> As hub for domestic and international flights 0.8498436212539673
+[Future of transport in new zealand]: Auckland airport --[Is]-> Undergoing significant expansion 0.867223858833313
+[Future of transport in new zealand]: Auckland airport --[Serves as]-> Primary international gateway for new zealand 0.8487931489944458
+[Future of transport in new zealand]: Auckland airport --[Committed]-> Sustainability 0.8177361488342285
+[Future of transport in new zealand]: Auckland ferry network --[Commitment to]-> Sustainability 0.8014079928398132
+[Future of transport in new zealand]: Auckland ferry network --[Operated by]-> Auckland transport 0.8193548321723938
+[Future of transport in new zealand]: Auckland transport --[Has]-> Vision to support growth 0.8272776007652283
+[Future of transport in new zealand]: Auckland transport --[Has]-> Vision to minimize environmental impact 0.8210233449935913
+[Future of transport in new zealand]: Auckland transport --[Has]-> Vision to create efficient transport system 0.8197659850120544
+[Future of transport in new zealand]: Auckland transport --[Has]-> Vision to create integrated transport system 0.8230874538421631
+[Future of transport in new zealand]: Auckland transport --[Has]-> Long-term vision 0.8404079079627991
+[Future of transport in new zealand]: Auckland transport --[Has]-> Vision to create safe transport system 0.8119983673095703
+[Future of transport in new zealand]: Auckland transport --[Focused on]-> Promoting active transport modes 0.8276501297950745
+[Future of transport in new zealand]: Auckland transport --[Focused on]-> Promoting cycling 0.7992770075798035
+[Future of transport in new zealand]: Auckland transport --[Focused on]-> Promoting walking 0.82539302110672
+[Future of transport in new zealand]: Auckland transport --[Is]-> Primary agency 0.8204926252365112
+[Future of transport in new zealand]: Auckland transport --[Implemented]-> Cycling infrastructure projects 0.8112567663192749
+[Future of transport in new zealand]: Auckland transport --[Implemented]-> Dedicated bike lanes 0.7989400625228882
+[Future of transport in new zealand]: Auckland transport --[Implemented]-> Cycleways 0.8198724985122681
+[Future of transport in new zealand]: Auckland transport --[Introduced]-> Auckland integrated ticketing system 0.8145989179611206
+[Future of transport in new zealand]: Auckland transport --[Responsible for]-> Managing public transport services 0.8125327229499817
+[Future of transport in new zealand]: Auckland transport --[Responsible for]-> Development 0.8298442363739014
+[Future of transport in new zealand]: Auckland transport --[Responsible for]-> Management 0.8119858503341675
+[Future of transport in new zealand]: Auckland transport --[Responsible for]-> Planning 0.8385080695152283
+[Future of transport in new zealand]: Auckland transport --[Ensures]-> Transport planning aligns with urban development goals 0.8177529573440552
+[Future of transport in new zealand]: Auckland transport --[Plays]-> Crucial role 0.8421788215637207
+[Future of transport in new zealand]: Auckland transport --[Manages]-> Public transport in auckland 0.8118555545806885
+[Future of transport in new zealand]: Auckland transport --[Manages]-> Public transport 0.8152168989181519
+[Future of transport in new zealand]: Auckland transport --[Oversees]-> Ferries 0.8150150775909424

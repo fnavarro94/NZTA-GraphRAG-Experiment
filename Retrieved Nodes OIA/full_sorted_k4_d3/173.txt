@@ -1,0 +1,33 @@
+What are the key challenges faced in completing the Transmission Gully project?
+None
+Seed: Transmission Gully
+Seed: https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/
+Seed: prioritising the clearing of drains and culverts
+Seed: Transmission Gully Motorway
+[Transmission Gully]: Transport Gully --[IMPACTED_BY]-> challenging site conditions 0.8947668075561523
+[Transmission Gully]: New Zealand Transport Agency --[NEGOTIATING]-> Transmission Gully 0.8922181725502014
+[Transmission Gully]: Transport Gully --[IMPACTED_BY]-> several storm events 0.8665711879730225
+[Transmission Gully]: Transport Gully --[MEETS]-> needs of customers 0.8646482229232788
+[Transmission Gully]: Transmission Gully --[IMPACTED_BY]-> Delta outbreak 0.863368570804596
+[Transmission Gully]: Delta outbreak --[AFFECTED]-> Transmission Gully 0.8626071214675903
+[Transmission Gully]: Transport Gully --[IMPACTED_BY]-> Kaikoura Earthquake 0.8604532480239868
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Project Agreement --[AVAILABLE]-> https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/ 0.8302021622657776
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Out of Scope --[RELATES]-> Project Agreement 0.7663779854774475
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Project Agreement --[GOVERNED_BY]-> Public Private Partnership 0.7545244693756104
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Public Private Partnership --[DURATION]-> 25 years 0.7538698315620422
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Out of Scope --[RELATES]-> Prolongation Costs 0.7464379072189331
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Out of Scope --[RELATES]-> Periodic Payments 0.7393985986709595
+[prioritising the clearing of drains and culverts]: plan for Coromandel network --[INCLUDES]-> prioritising the clearing of drains and culverts 0.8121757507324219
+[prioritising the clearing of drains and culverts]: Regional Public Transport Plans --[DEVELOPED_BY]-> Waka Kotahi 0.8032675385475159
+[prioritising the clearing of drains and culverts]: plan for Coromandel network --[INCLUDES]-> assessment of traffic and truck volumes 0.7982772588729858
+[prioritising the clearing of drains and culverts]: transport infrastructure --[SERVED_BY]-> Waka Kotahi 0.7962486743927002
+[prioritising the clearing of drains and culverts]: plan for Coromandel network --[INCLUDES]-> careful planning of maintenance work 0.793812096118927
+[prioritising the clearing of drains and culverts]: plan for Coromandel network --[INCLUDES]-> vegetation clearance 0.7917436361312866
+[prioritising the clearing of drains and culverts]: plan for Coromandel network --[INCLUDES]-> monitoring travel times 0.7865579724311829
+[Transmission Gully Motorway]: New Zealand Transport Agency --[NEGOTIATING]-> Transmission Gully 0.8922181725502014
+[Transmission Gully Motorway]: Transport Gully --[FINANCED_BY]-> New Zealand Transport Agency 0.8440495729446411
+[Transmission Gully Motorway]: Transmission Gully Motorway --[OPENED]-> March 2022 0.8402033448219299
+[Transmission Gully Motorway]: New Zealand Transport Agency --[BUDGETS]-> median barriers 0.8217312097549438
+[Transmission Gully Motorway]: Wellington Gateway Partnership --[OPENED]-> Transmission Gully Motorway 0.8210675716400146
+[Transmission Gully Motorway]: New Zealand Transport Agency --[FALLS_IN_SCOPE]-> TG project – builders claim documents 0.8203070759773254
+[Transmission Gully Motorway]: New Zealand Transport Agency --[CONSIDERS]-> request for pothole repair cost information 0.8190922737121582

@@ -1,0 +1,34 @@
+Which line does the major transport infrastructure project in New Zealand, which aims to improve rail connectivity and reduce congestion in Auckland, connect to at Britomart Station?
+None
+Seed: Addressing transport challenges in auckland
+Seed: Transport link between wellington and northern regions of north island
+Seed: Significant infrastructure project
+Seed: Improved public transport links
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Development of comprehensive transport network 0.8729831576347351
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Reduce congestion 0.8695691227912903
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On enhancing road infrastructure 0.8682559728622437
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Create unified transport network 0.8629523515701294
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Improve efficiency and effectiveness of transport system 0.8603688478469849
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On improving public transport 0.859208345413208
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Addressing transport challenges in auckland 0.8585911393165588
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Aims to improve]-> Transport link between wellington and northern regions of north island 0.8560354709625244
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Enhances]-> Connectivity for commuters 0.8547641634941101
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Aims to]-> Meet the evolving needs of new zealand's transport system 0.85359787940979
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Alleviates]-> Pressure on existing transport infrastructure 0.8515262603759766
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Connects]-> Wellington 0.8406316041946411
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Is]-> Key transport route 0.8372030854225159
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Undergoes]-> Ongoing improvements and upgrades 0.8362362384796143
+[Significant infrastructure project]: Auckland city rail link --[Connects]-> Britomart station 0.9220510721206665
+[Significant infrastructure project]: Auckland city rail link --[Is]-> Significant infrastructure project 0.897292971611023
+[Significant infrastructure project]: Auckland city rail link --[Aims to]-> Enhance connectivity and reduce travel times 0.8862428665161133
+[Significant infrastructure project]: Auckland city rail link --[Designed to]-> Enhance rail network 0.8861993551254272
+[Significant infrastructure project]: Auckland city rail link --[Improves]-> Capacity 0.8709068894386292
+[Significant infrastructure project]: Auckland city rail link --[Improves]-> Efficiency 0.8685786724090576
+[Significant infrastructure project]: Auckland city rail link --[Funded by]-> Government investment 0.8674943447113037
+[Improved public transport links]: Auckland western ring route --[Anticipates]-> Improved public transport links 0.8723883032798767
+[Improved public transport links]: Auckland western ring route --[Designed to]-> Enhance connectivity 0.8722730278968811
+[Improved public transport links]: Auckland western ring route --[Designed to]-> Alleviate congestion 0.8675986528396606
+[Improved public transport links]: Auckland western ring route --[Is]-> Significant transport corridor 0.8647133708000183
+[Improved public transport links]: Auckland western ring route --[Reflects]-> Improving transport systems 0.8637694120407104
+[Improved public transport links]: Auckland western ring route --[Supports]-> Urban transport 0.8604090213775635
+[Improved public transport links]: Auckland western ring route --[Represents]-> Vital infrastructure investment 0.8589248657226562

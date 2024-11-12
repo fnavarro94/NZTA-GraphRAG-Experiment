@@ -1,0 +1,12 @@
+Why will it take until 2041 to fully recover the costs of the Tākitimu Drive Toll Road?
+None
+Seed: Takitimu Drive Toll Road
+Seed: transaction costs won’t be recovered until 2041
+Seed: information on tolls and road maintenance
+Seed: 2023-24 State Highway Investment Proposal
+[Takitimu Drive Toll Road]: Takitimu Drive Toll Road --[PROVIDES]-> Toll Revenue 0.8785049915313721
+[transaction costs won’t be recovered until 2041]: NZTA --[PREDICTS]-> transaction costs won’t be recovered until 2041 0.8673965930938721
+[information on tolls and road maintenance]: response from New Zealand Transport Agency --[CONTAINS]-> information on tolls and road maintenance 0.8099372386932373
+[information on tolls and road maintenance]: information on tolls and road maintenance --[RELATES]-> New Zealand Transport Agency 0.803115725517273
+[2023-24 State Highway Investment Proposal]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.7981010675430298
+[2023-24 State Highway Investment Proposal]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Access and Development Programme Business Case 0.799808919429779

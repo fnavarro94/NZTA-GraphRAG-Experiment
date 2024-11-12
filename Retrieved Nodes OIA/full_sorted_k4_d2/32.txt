@@ -1,0 +1,30 @@
+Where can data regarding vehicle kilometres travelled (VKT) at a regional level over the past 10 years be found?
+None
+Seed: Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.
+Seed: vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas
+Seed: vehicle kilometres travelled estimates
+Seed: investigating transport companies
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: www.nzt a.govt.nz/planning -and-investment/learning- and-resources/transport -data/data- and-tools --[CONTAINS]-> Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years. 0.936613142490387
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years. --[CONTAINS]-> SHLR worksheet 0.9250043630599976
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: publicly available information --[AVAILABLE_ON]-> www.nzt a.govt.nz/planning -and-investment/learning- and-resources/transport -data/data- and-tools 0.8384032845497131
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand Transport Agency --[PROVIDES]-> transport data 0.8551969528198242
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand Transport Agency --[PROVIDES]-> Transport Data 0.8551969528198242
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.8521218299865723
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> transport_data 0.8467794060707092
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Transport Data --[PROVIDED_BY]-> New Zealand Transport Agency 0.8464493751525879
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand Transport Agency --[PROVIDES]-> Vehicle Inspection Data 0.8448283076286316
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand Transport Agency --[MANAGES]-> transport_data 0.8419221639633179
+[vehicle kilometres travelled estimates]: transport data --[PROVIDED_BY]-> Waka Kotahi 0.8571577072143555
+[vehicle kilometres travelled estimates]: Waka Kotahi --[PROVIDES]-> Transport Data 0.8501045107841492
+[vehicle kilometres travelled estimates]: Waka Kotahi --[CAPTURE]-> carbon emission data for business related travel and fleet vehicles emissions 0.8461598753929138
+[vehicle kilometres travelled estimates]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.8396039605140686
+[vehicle kilometres travelled estimates]: Regional Public Transport Plans --[DEVELOPED_BY]-> Waka Kotahi 0.8273711204528809
+[vehicle kilometres travelled estimates]: transport infrastructure --[SERVED_BY]-> Waka Kotahi 0.82326340675354
+[vehicle kilometres travelled estimates]: Waka Kotahi --[REFUSES_REQUEST]-> vehicle kilometres travelled estimates 0.8173463344573975
+[investigating transport companies]: New Zealand Transport Agency --[PROVIDES]-> Transport Data 0.8551969528198242
+[investigating transport companies]: New Zealand Transport Agency --[PROVIDES]-> transport data 0.8551969528198242
+[investigating transport companies]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.8521218299865723
+[investigating transport companies]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> transport_data 0.8467794060707092
+[investigating transport companies]: Transport Data --[PROVIDED_BY]-> New Zealand Transport Agency 0.8464493751525879
+[investigating transport companies]: New Zealand Transport Agency --[PROVIDES]-> Vehicle Inspection Data 0.8448283076286316
+[investigating transport companies]: New Zealand Transport Agency --[MANAGES]-> transport_data 0.8419221639633179

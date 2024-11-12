@@ -1,0 +1,36 @@
+What region does the Metlink bus service connect to, besides Porirua, that is known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, and utilizes the Snapper card as part of its initiative in Auckland that has improved the reliability of public transport services and allowed users to plan their journeys more effectively?
+None
+Seed: Importance of well-planned transport systems in both countries
+Seed: Adopting integrated transport planning approaches that consider public transport
+Seed: Regional transport initiatives
+Seed: Increased demand for effective transportation systems
+[Importance of well-planned transport systems in both countries]: Pch --[Reflects]-> Importance of well-planned transport systems in both countries 0.8142849802970886
+[Importance of well-planned transport systems in both countries]: Pch --[Supports]-> Freight movement 0.7784344553947449
+[Importance of well-planned transport systems in both countries]: Rail transport --[Plays vital role]-> Freight movement 0.7753888368606567
+[Importance of well-planned transport systems in both countries]: Kiwirail group --[Responsible for]-> Rail transport 0.8151923418045044
+[Importance of well-planned transport systems in both countries]: Kiwirail group --[Is]-> State-owned enterprise 0.7902253866195679
+[Importance of well-planned transport systems in both countries]: Kiwirail group --[Provides]-> Essential services 0.817891001701355
+[Importance of well-planned transport systems in both countries]: Kiwirail group --[Provides]-> Efficient transport 0.8265655636787415
+[Importance of well-planned transport systems in both countries]: Kiwirail group --[Provides]-> Sustainable transport 0.816199541091919
+[Importance of well-planned transport systems in both countries]: Kiwirail group --[Addresses]-> Environmental concerns 0.7912076115608215
+[Importance of well-planned transport systems in both countries]: Kiwirail group --[Addresses]-> Road congestion 0.8029376864433289
+[Importance of well-planned transport systems in both countries]: Kiwirail group --[Responsible for]-> Freight services 0.8030418157577515
+[Importance of well-planned transport systems in both countries]: Kiwirail group --[Promotes]-> Integrated transport solutions 0.8098362684249878
+[Importance of well-planned transport systems in both countries]: Kiwirail group --[Promotes]-> Economic growth 0.7895997762680054
+[Importance of well-planned transport systems in both countries]: Kiwirail group --[Aims to]-> Rail transport 0.8040790557861328
+[Importance of well-planned transport systems in both countries]: Kiwirail group --[Aims to]-> Increase modal share 0.7845177054405212
+[Importance of well-planned transport systems in both countries]: Kiwirail group --[Connects]-> Ports 0.811903715133667
+[Importance of well-planned transport systems in both countries]: Kiwirail group --[Connects]-> Regional centers 0.8192678689956665
+[Importance of well-planned transport systems in both countries]: Kiwirail group --[Connects]-> Major cities 0.820851743221283
+[Importance of well-planned transport systems in both countries]: Kiwirail group --[Plays]-> Pivotal role 0.8144593834877014
+[Importance of well-planned transport systems in both countries]: Kiwirail group --[Plays]-> Transport landscape 0.8146710991859436
+[Importance of well-planned transport systems in both countries]: Kiwirail group --[Facilitates]-> Movement of passengers 0.812466025352478
+[Importance of well-planned transport systems in both countries]: Kiwirail group --[Facilitates]-> Movement of goods 0.8174769282341003
+[Importance of well-planned transport systems in both countries]: Kiwirail group --[Manages]-> Rail network 0.7898670434951782
+[Importance of well-planned transport systems in both countries]: Kiwirail group --[Prioritizes]-> Innovation 0.8028011322021484
+[Importance of well-planned transport systems in both countries]: Kiwirail group --[Prioritizes]-> Sustainability 0.7994856834411621
+[Importance of well-planned transport systems in both countries]: Kiwirail group --[Supports]-> Economy 0.8019009828567505
+[Importance of well-planned transport systems in both countries]: Kiwirail group --[Supports]-> Community 0.8063849806785583
+[Importance of well-planned transport systems in both countries]: Kiwirail group --[Attracts]-> International tourists 0.789619505405426
+[Importance of well-planned transport systems in both countries]: Kiwirail group --[Attracts]-> Domestic tourists 0.7835617661476135
+[Importance of well-planned transport systems in both countries]: Kiwirail group --[Known for]-> Northern explorer 0.787140965461731

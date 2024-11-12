@@ -1,0 +1,34 @@
+How many road deaths in Christchurch between 2017 and 2019 were attributed to alcohol being a contributing factor?
+None
+Seed: information on Christchurch road deaths
+Seed: Road Traffic Crashes
+Seed: Alcohol Consumption
+Seed: 45-60 fatalities
+[information on Christchurch road deaths]: Road Traffic Crash Data --[RELATES_TO]-> Christchurch Region 0.881111741065979
+[information on Christchurch road deaths]: Christchurch Region --[HAS]-> Roads 0.8763236999511719
+[information on Christchurch road deaths]: Alcohol Consumption --[CONTRIBUTES_TO]-> Road Traffic Crashes 0.8729584217071533
+[information on Christchurch road deaths]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8587267398834229
+[information on Christchurch road deaths]: Road Traffic --[AFFECTED_BY]-> Alcohol Consumption 0.8579446077346802
+[information on Christchurch road deaths]: road traffic crashes --[OCCURS_IN]-> Queenstown Lakes and Central Otago 0.8561177849769592
+[information on Christchurch road deaths]: NZ Police --[INVESTIGATES]-> road traffic crashes 0.8487212061882019
+[Road Traffic Crashes]: Road Traffic Crash Data --[RELATES_TO]-> Christchurch Region 0.881111741065979
+[Road Traffic Crashes]: Christchurch Region --[HAS]-> Roads 0.8763236999511719
+[Road Traffic Crashes]: Alcohol Consumption --[CONTRIBUTES_TO]-> Road Traffic Crashes 0.8729584217071533
+[Road Traffic Crashes]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8587267398834229
+[Road Traffic Crashes]: Road Traffic --[AFFECTED_BY]-> Alcohol Consumption 0.8579446077346802
+[Road Traffic Crashes]: road traffic crashes --[OCCURS_IN]-> Queenstown Lakes and Central Otago 0.8561177849769592
+[Road Traffic Crashes]: NZ Police --[INVESTIGATES]-> road traffic crashes 0.8487212061882019
+[Alcohol Consumption]: Road Traffic Crash Data --[RELATES_TO]-> Christchurch Region 0.881111741065979
+[Alcohol Consumption]: Christchurch Region --[HAS]-> Roads 0.8763236999511719
+[Alcohol Consumption]: Alcohol Consumption --[CONTRIBUTES_TO]-> Road Traffic Crashes 0.8729584217071533
+[Alcohol Consumption]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8587267398834229
+[Alcohol Consumption]: Road Traffic --[AFFECTED_BY]-> Alcohol Consumption 0.8579446077346802
+[Alcohol Consumption]: road traffic crashes --[OCCURS_IN]-> Queenstown Lakes and Central Otago 0.8561177849769592
+[Alcohol Consumption]: NZ Police --[INVESTIGATES]-> road traffic crashes 0.8487212061882019
+[45-60 fatalities]: Road Traffic Crash Data --[RELATES_TO]-> Christchurch Region 0.881111741065979
+[45-60 fatalities]: Christchurch Region --[HAS]-> Roads 0.8763236999511719
+[45-60 fatalities]: Alcohol Consumption --[CONTRIBUTES_TO]-> Road Traffic Crashes 0.8729584217071533
+[45-60 fatalities]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8587267398834229
+[45-60 fatalities]: Road Traffic --[AFFECTED_BY]-> Alcohol Consumption 0.8579446077346802
+[45-60 fatalities]: road traffic crashes --[OCCURS_IN]-> Queenstown Lakes and Central Otago 0.8561177849769592
+[45-60 fatalities]: NZ Police --[INVESTIGATES]-> road traffic crashes 0.8487212061882019

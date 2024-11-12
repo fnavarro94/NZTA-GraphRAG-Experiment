@@ -1,0 +1,36 @@
+What information can be found in the Driver Licence Register (DLR)?
+None
+Seed: information on vehicle and driver registration and licensing
+Seed: information related to criminal convictions of driving instructor (I) endorsement holders
+Seed: vehicle registration and licensing
+Seed: driver licenses
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[PROVIDES]-> information on vehicle and driver registration and licensing 0.8656876087188721
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7561763525009155
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[BASED]-> Wellington 0.7628682851791382
+[information on vehicle and driver registration and licensing]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7316374778747559
+[information on vehicle and driver registration and licensing]: Golden Mile --[LOCATED]-> Wellington 0.7064633965492249
+[information on vehicle and driver registration and licensing]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7637535333633423
+[information on vehicle and driver registration and licensing]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7198266386985779
+[information on vehicle and driver registration and licensing]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.722488522529602
+[information on vehicle and driver registration and licensing]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7419227361679077
+[information on vehicle and driver registration and licensing]: Wellington --[PART_OF]-> Wellington Region 0.7378503084182739
+[information on vehicle and driver registration and licensing]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7482574582099915
+[information on vehicle and driver registration and licensing]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7145992517471313
+[information on vehicle and driver registration and licensing]: Wellington --[HAS]-> tunnel 0.7299741506576538
+[information on vehicle and driver registration and licensing]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7216024398803711
+[information on vehicle and driver registration and licensing]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7467517852783203
+[information on vehicle and driver registration and licensing]: Wellington --[POSTCODE]-> 6141 0.7275530695915222
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7517439126968384
+[information on vehicle and driver registration and licensing]: Wellington --[IS_PART_OF]-> New Zealand 0.726238489151001
+[information on vehicle and driver registration and licensing]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7255749106407166
+[information on vehicle and driver registration and licensing]: 50 Victoria Street --[IN]-> Wellington 0.7075814008712769
+[information on vehicle and driver registration and licensing]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7178230881690979
+[information on vehicle and driver registration and licensing]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7100761532783508
+[information on vehicle and driver registration and licensing]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7457128763198853
+[information on vehicle and driver registration and licensing]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7272964715957642
+[information on vehicle and driver registration and licensing]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7381808757781982
+[information on vehicle and driver registration and licensing]: NZ Transport Agency --[LOCATED]-> Wellington 0.7586754560470581
+[information on vehicle and driver registration and licensing]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7273618578910828
+[information on vehicle and driver registration and licensing]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7080949544906616
+[information on vehicle and driver registration and licensing]: New Zealand --[CONTAINS]-> Wellington 0.7474882006645203
+[information on vehicle and driver registration and licensing]: Wellington --[PART_OF]-> New Zealand 0.730512261390686

@@ -1,0 +1,10 @@
+What project in the largest city in the country known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, served by the key transport corridor critical for freight and passenger movement and running through the North Island, has transformed underutilized spaces into vibrant cycling and pedestrian pathways?
+None
+Seed: Critical for freight and passenger movement
+Seed: Critical aspect of transportation planning
+Seed: Critical aspect of urban and regional development
+Seed: Adopting integrated transport planning approaches that consider public transport
+[Critical for freight and passenger movement]: North island main trunk railway --[Is]-> Critical for freight and passenger movement 0.8675940632820129
+[Critical aspect of transportation planning]: Transport demand forecasting --[Is]-> Critical aspect of transportation planning 0.8525890111923218
+[Critical aspect of urban and regional development]: Public transport network planning --[Is]-> Critical aspect of urban and regional development 0.843203067779541
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider public transport 0.8073110580444336

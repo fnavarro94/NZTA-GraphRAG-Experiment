@@ -1,0 +1,36 @@
+What were the key safety incidents reported to the board in the June 2017 update?
+None
+Seed: Safety Incidents
+Seed: health and safety incidents
+Seed: rail operational safety
+Seed: incident reports
+[Safety Incidents]: Health, Safety & Quality Report --[CONTAINS]-> Safety Incidents 0.8728950619697571
+[Safety Incidents]: Stephen Bell --[SUBMITS_REPORT]-> Health, Safety & Quality Report 0.8239105939865112
+[Safety Incidents]: Board --[RECEIVES_REPORT]-> Health, Safety & Quality Report 0.8639699816703796
+[Safety Incidents]: Safety Incidents --[INVESTIGATED]-> Board 0.9061064720153809
+[health and safety incidents]: health and safety incidents --[REGIONAL_BREAKDOWN]-> regional breakdown 0.8423941135406494
+[health and safety incidents]: regional breakdown --[LISTS]-> incidents by region 0.8265296220779419
+[health and safety incidents]: incidents by region --[INCLUDES]-> total incidents per year 0.8226777911186218
+[health and safety incidents]: total incidents per year --[SHOWS]-> 2008-2013 0.8202311992645264
+[health and safety incidents]: Waka Kotahi --[DOES_NOT_CAPTURE]-> regional breakdown 0.7298918962478638
+[health and safety incidents]: Response --[CONTAINS]-> Waka Kotahi 0.7590593695640564
+[health and safety incidents]: Waka Kotahi --[PUBLISHES]-> Response 0.7490239143371582
+[health and safety incidents]: response --[CONTAINS]-> Waka Kotahi 0.7383288145065308
+[health and safety incidents]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.7886247634887695
+[health and safety incidents]: Charles Ronaldson --[SIGNED]-> response 0.7395457029342651
+[health and safety incidents]: Lauren Cooke --[SIGNED]-> response 0.7470457553863525
+[health and safety incidents]: Waka Kotahi --[PUBLISHED_BY]-> response 0.7484826445579529
+[health and safety incidents]: Ministry --[PROVIDE]-> response 0.7626276016235352
+[health and safety incidents]: response --[REMOVED]-> personal information 0.7390124797821045
+[health and safety incidents]: Waka Kotahi website --[CONTAINS]-> response 0.7429202795028687
+[health and safety incidents]: New Zealand Transport Agency --[DISCUSSES]-> response 0.7887694835662842
+[health and safety incidents]: response --[IS_A]-> letter 0.7289636135101318
+[health and safety incidents]: Waka Kotahi --[FOLLOWS]-> response 0.7357365489006042
+[health and safety incidents]: New Zealand Transport Agency --[PUBLISH]-> response 0.7994111180305481
+[health and safety incidents]: New Zealand Transport Agency --[PUBLISHES]-> response 0.793915867805481
+[health and safety incidents]: response --[IS]-> response letter 0.7352112531661987
+[health and safety incidents]: response letter --[IS]-> response 0.7323448657989502
+[health and safety incidents]: response --[CONTAINS]-> contact details for the Ombudsman 0.7750670909881592
+[health and safety incidents]: response --[CONTAINS]-> Jamie Ensor 0.7546446919441223
+[health and safety incidents]: response --[RELATES_TO]-> personal information removed 0.7346380949020386
+[health and safety incidents]: Conan Young --[RECEIVES]-> response 0.7365070581436157

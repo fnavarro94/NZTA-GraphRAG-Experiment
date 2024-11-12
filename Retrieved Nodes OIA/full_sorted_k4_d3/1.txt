@@ -1,0 +1,34 @@
+What is the NZTA planning in terms of road network changes to accommodate the increased traffic from the new Interislander ferries in Marlborough?
+None
+Seed: 2023-24 State Highway Investment Proposal
+Seed: Road Network Changes
+Seed: Strategic Highway Improvements
+Seed: wider objectives in Regional Public Transport Plans
+[2023-24 State Highway Investment Proposal]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.8258973360061646
+[2023-24 State Highway Investment Proposal]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Access and Development Programme Business Case 0.8242402672767639
+[2023-24 State Highway Investment Proposal]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.8242267966270447
+[2023-24 State Highway Investment Proposal]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Access and Development Programme Business Case 0.8238455057144165
+[2023-24 State Highway Investment Proposal]: 2024-27 National Land Transport Programme --[DEVELOPMENT_OF]-> Regional Land Transport Plan 0.8151655197143555
+[2023-24 State Highway Investment Proposal]: Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.8085301518440247
+[2023-24 State Highway Investment Proposal]: Hornby Access and Development Programme Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.7920799255371094
+[Road Network Changes]: Road Network Changes --[PLANNED_BY]-> New Zealand Transport Agency 0.8945071697235107
+[Road Network Changes]: Marlborough Region --[REQUIRES]-> Road Network Changes 0.8848259449005127
+[Road Network Changes]: Let's Get Wellington Moving --[HAS_COMPONENT]-> Strategic Highway Improvements 0.859376072883606
+[Road Network Changes]: New Zealand Transport Agency --[FOLLOWS]-> NZTA policy 0.8569625616073608
+[Road Network Changes]: New Zealand Transport Agency --[PLANS]-> Road to Zero Strategy 0.8554567098617554
+[Road Network Changes]: Larger Ferries --[AFFECTS]-> Road Traffic Volumes 0.8549148440361023
+[Road Network Changes]: Road Traffic Volumes --[INCREASES]-> Marlborough Region 0.8545936346054077
+[Strategic Highway Improvements]: Road Network Changes --[PLANNED_BY]-> New Zealand Transport Agency 0.8945071697235107
+[Strategic Highway Improvements]: Let's Get Wellington Moving --[HAS_COMPONENT]-> Strategic Highway Improvements 0.859376072883606
+[Strategic Highway Improvements]: New Zealand Transport Agency --[FOLLOWS]-> NZTA policy 0.8569625616073608
+[Strategic Highway Improvements]: New Zealand Transport Agency --[PLANS]-> Road to Zero Strategy 0.8554567098617554
+[Strategic Highway Improvements]: Public Transport Ferries --[OFFERED_BY]-> New Zealand Transport Agency 0.8518972396850586
+[Strategic Highway Improvements]: New Zealand Transport Agency --[RESPONSE]-> OIA-8289 0.8513250350952148
+[Strategic Highway Improvements]: New Zealand Transport Agency --[DEVELOPS]-> Road to Zero Strategy 0.85051029920578
+[wider objectives in Regional Public Transport Plans]: underlying principles of the current policy --[CONTRIBUTES]-> wider objectives in Regional Public Transport Plans 0.8204548358917236
+[wider objectives in Regional Public Transport Plans]: wider objectives in Regional Public Transport Plans --[CONTRIBUTES]-> government's transport priorities 0.8107022643089294
+[wider objectives in Regional Public Transport Plans]: national farebox recovery target --[REPLACED_BY]-> underlying principles of the current policy 0.7822233438491821
+[wider objectives in Regional Public Transport Plans]: wider impacts of fare policy on people and cities --[INCLUCES]-> national farebox recovery target 0.7670488357543945
+[wider objectives in Regional Public Transport Plans]: government's transport priorities --[INCLUDES]-> fares play an important role in helping cover the cost of public transport within available budgets 0.7650667428970337
+[wider objectives in Regional Public Transport Plans]: fares play an important role in helping cover the cost of public transport within available budgets --[CONTRIBUTES]-> public transport budgets 0.7646514177322388
+[wider objectives in Regional Public Transport Plans]: national farebox recovery target --[REPLACED]-> 2018-21 NLTP 0.7538449168205261

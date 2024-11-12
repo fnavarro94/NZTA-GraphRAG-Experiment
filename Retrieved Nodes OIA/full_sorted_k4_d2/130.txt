@@ -1,0 +1,24 @@
+What was included in the legal costs from Meredith Connell during this period?
+None
+Seed: Summary of legal and other costs
+Seed: Meredith Connell
+Seed: transaction costs
+Seed: Costs
+[Summary of legal and other costs]: Robert Pines --[REQUESTED]-> Summary of legal and other costs 0.8374570608139038
+[Meredith Connell]: Meredith Connell --[PROVIDED]-> Legal advice and regulatory work 0.8911317586898804
+[Meredith Connell]: Meredith Connell --[ASSOCIATED]-> Legal services 0.8862215876579285
+[Meredith Connell]: Meredith Connell --[ASSOCIATED]-> Business-as-usual legal advice 0.871209979057312
+[Meredith Connell]: Meredith Connell --[ASSOCIATED]-> Work on regulatory review 0.8677270412445068
+[Meredith Connell]: Meredith Connell --[ASSOCIATED]-> Enforcement of regulatory role 0.8630585074424744
+[Meredith Connell]: Meredith Connell --[ASSOCIATED]-> Review of 850 open compliance files 0.8442267775535583
+[Meredith Connell]: Meredith Connell --[INVOICED]-> New Zealand Transport Agency 0.841066300868988
+[transaction costs]: transaction costs --[INCREASED]-> toll price 0.7859588861465454
+[transaction costs]: toll price --[BRINGS]-> date closer 0.7652991414070129
+[transaction costs]: State Highway --[CHANGED]-> toll price 0.7592928409576416
+[Costs]: Costs --[IS_RECORDABLE]-> asset management system 0.7816591262817383
+[Costs]: asset management system --[USED_BY]-> New Zealand Transport Agency 0.74274742603302
+[Costs]: asset management system --[USED_FOR]-> extracting information 0.74245285987854
+[Costs]: asset management system --[MAINTAINED_BY]-> New Zealand Transport Agency 0.7404444217681885
+[Costs]: extracting information --[FROM]-> asset management system 0.7341985106468201
+[Costs]: flooding --[RECORDED_IN]-> asset management system 0.7253586053848267
+[Costs]: false --[RECORDED_IN]-> asset management system 0.7180417776107788

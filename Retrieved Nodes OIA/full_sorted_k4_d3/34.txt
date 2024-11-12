@@ -1,0 +1,34 @@
+Where can information about the latest developments in the high productivity motor vehicles (HPMV) bridge strengthening programme be found?
+None
+Seed: current information on HPMV investment routes
+Seed: information on HPMV investment routes
+Seed: request to Minister of Transport
+Seed: briefings to the Minister of Transport
+[current information on HPMV investment routes]: New Zealand Transport Agency --[PROVIDES]-> current information on HPMV investment routes 0.8669214248657227
+[current information on HPMV investment routes]: New Zealand Transport Agency --[PROVIDES]-> information on HPMV investment routes 0.860845685005188
+[current information on HPMV investment routes]: New Zealand Transport Agency --[WEBSITE]-> www.nzta.govt.nz/vehicle/your/hpmv/network-maps.htm 0.8513336181640625
+[current information on HPMV investment routes]: Transport Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8505604267120361
+[current information on HPMV investment routes]: Transport Safety Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.843358039855957
+[current information on HPMV investment routes]: Vehicle Inspection Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8379403352737427
+[current information on HPMV investment routes]: Picton Transport Improvements Factsheet --[AVAILABLE_AT]-> https://nzta.govt.nz/assets/projects/waitohi-picton-transport-network-improvements/picton-transport-improvements-factsheet-202010.pdf 0.8353719115257263
+[information on HPMV investment routes]: New Zealand Transport Agency --[PROVIDES]-> current information on HPMV investment routes 0.8669214248657227
+[information on HPMV investment routes]: New Zealand Transport Agency --[PROVIDES]-> information on HPMV investment routes 0.860845685005188
+[information on HPMV investment routes]: New Zealand Transport Agency --[WEBSITE]-> www.nzta.govt.nz/vehicle/your/hpmv/network-maps.htm 0.8513336181640625
+[information on HPMV investment routes]: Transport Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8505604267120361
+[information on HPMV investment routes]: Transport Safety Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.843358039855957
+[information on HPMV investment routes]: Vehicle Inspection Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8379403352737427
+[information on HPMV investment routes]: Picton Transport Improvements Factsheet --[AVAILABLE_AT]-> https://nzta.govt.nz/assets/projects/waitohi-picton-transport-network-improvements/picton-transport-improvements-factsheet-202010.pdf 0.8353719115257263
+[request to Minister of Transport]: Jordan Bond --[MADE_REQUEST]-> request to Minister of Transport 0.8224199414253235
+[request to Minister of Transport]: information under the Official Information Act 1982 --[ASSOCIATED_WITH]-> email of 20 October 2023 0.7961557507514954
+[request to Minister of Transport]: New Zealand Transport Agency --[PROVIDES]-> information under the Official Information Act 1982 0.7961430549621582
+[request to Minister of Transport]: information under the Official Information Act 1982 --[PROVIDED]-> email of 20 October 2023 0.793873131275177
+[request to Minister of Transport]: NZ Transport Agency --[PROVIDES]-> information under the Official Information Act 1982 0.7912487983703613
+[request to Minister of Transport]: Jordan Bond --[REQUESTS]-> information under the Official Information Act 1982 0.7911672592163086
+[request to Minister of Transport]: Jordan Bond --[REQUESTS]-> Official Information Act 1982 0.7900902628898621
+[briefings to the Minister of Transport]: New Zealand Transport Agency --[PROVIDES]-> current information on HPMV investment routes 0.8669214248657227
+[briefings to the Minister of Transport]: New Zealand Transport Agency --[PROVIDES]-> information on HPMV investment routes 0.860845685005188
+[briefings to the Minister of Transport]: New Zealand Transport Agency --[WEBSITE]-> www.nzta.govt.nz/vehicle/your/hpmv/network-maps.htm 0.8513336181640625
+[briefings to the Minister of Transport]: Transport Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8505604267120361
+[briefings to the Minister of Transport]: Transport Safety Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.843358039855957
+[briefings to the Minister of Transport]: Vehicle Inspection Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8379403352737427
+[briefings to the Minister of Transport]: Picton Transport Improvements Factsheet --[AVAILABLE_AT]-> https://nzta.govt.nz/assets/projects/waitohi-picton-transport-network-improvements/picton-transport-improvements-factsheet-202010.pdf 0.8353719115257263

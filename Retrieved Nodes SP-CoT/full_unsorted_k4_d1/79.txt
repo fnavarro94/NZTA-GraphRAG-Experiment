@@ -1,0 +1,10 @@
+What major arterial route enhances accessibility between Auckland and Onehunga, particularly for travel to which location?
+None
+Seed: Strategically located near major arterial routes
+Seed: Suburb located approximately 12 kilometers southwest of auckland's central business district
+Seed: First railway line between auckland and onehunga in 1873
+Seed: Access to auckland airport and other regions of the north island
+[Strategically located near major arterial routes]: Onehunga --[Is]-> Strategically located near major arterial routes 0.9042322635650635
+[Suburb located approximately 12 kilometers southwest of auckland's central business district]: Onehunga --[Is]-> Suburb located approximately 12 kilometers southwest of auckland's central business district 0.9074467420578003
+[First railway line between auckland and onehunga in 1873]: New zealand --[Had]-> First railway line between auckland and onehunga in 1873 0.8637838363647461
+[Access to auckland airport and other regions of the north island]: State highway 20 --[Facilitates]-> Access to auckland airport and other regions of the north island 0.8204510807991028

@@ -1,0 +1,36 @@
+Who funded the Mackenzie Basin Improvement Project, including the artworks?
+None
+Seed: funding requests
+Seed: funding
+Seed: Waito hi Picton Ferry Precinct Redevelopment
+Seed: project artworks
+[funding requests]: standard cost scope adjustment process --[APPLIES_TO]-> funding requests 0.7698817253112793
+[funding requests]: manage fare revenue and public transport budgets within current funding allocations --[REQUIRES]-> standard cost scope adjustment process 0.7425210475921631
+[funding requests]: councils --[MUST]-> manage fare revenue and public transport budgets within current funding allocations 0.7334091663360596
+[funding requests]: funding requests --[NEEDS]-> follow the standard cost scope adjustment process 0.7748982906341553
+[funding requests]: follow the standard cost scope adjustment process --[REQUIRES]-> no additional funding for fare reductions before the next NLTP in June 2021 0.7243034243583679
+[funding requests]: no additional funding for fare reductions before the next NLTP in June 2021 --[APPLIES_TO]-> funding allocations 0.733199954032898
+[funding]: Auckland Transport --[PROVIDES]-> funding 0.7757810950279236
+[funding]: Waka Kotahi --[COLLABORATES_WITH]-> Auckland Transport 0.7545168399810791
+[funding]: Response --[CONTAINS]-> Waka Kotahi 0.7590253949165344
+[funding]: response --[CONTAINS]-> Waka Kotahi 0.741307258605957
+[funding]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.7416858673095703
+[funding]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.7531458139419556
+[funding]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7292422652244568
+[funding]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7158719301223755
+[funding]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.7472973465919495
+[funding]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.728007435798645
+[funding]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.7521770000457764
+[funding]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.7712857127189636
+[funding]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7632840275764465
+[funding]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.7553426027297974
+[funding]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.7356759309768677
+[funding]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.7573168277740479
+[funding]: Leisa Coley --[EMPLOYED_BY]-> Waka Kotahi 0.7352482676506042
+[funding]: Lizette Marais --[EMPLOYED_BY]-> Waka Kotahi 0.7251391410827637
+[funding]: Waka Kotahi --[EMPLOYS]-> Andy Knackstedt 0.7276735305786133
+[funding]: Waka Kotahi --[EMPLOYS]-> Qualified Staff 0.7253732085227966
+[funding]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.773587167263031
+[funding]: website --[RELATES_TO]-> Waka Kotahi 0.759829044342041
+[funding]: Waka Kotahi --[RESPONDS_TO]-> OIA request 0.7468487024307251
+[funding]: Waka Kotahi --[RESPONDS_TO]-> request 0.7449196577072144

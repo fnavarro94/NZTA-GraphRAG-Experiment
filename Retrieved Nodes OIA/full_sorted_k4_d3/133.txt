@@ -1,0 +1,34 @@
+What is the annual accident rate on State Highway 16 (SH16) over the last decade for the 80km/h and 100km/h speed limits?
+None
+Seed: annual accident rate on SH16
+Seed: comparing the number of accidents under the 100km speed limit versus the current 80km speed rate
+Seed: vehicle accidents
+Seed: information on vehicle accidents
+[annual accident rate on SH16]: Debrin Foxcroft --[REQUESTS]-> annual accident rate on SH16 0.8697636723518372
+[annual accident rate on SH16]: Debrin Foxcroft --[INTERESTED_IN]-> comparing the number of accidents under the 100km speed limit versus the current 80km speed rate 0.8590115904808044
+[annual accident rate on SH16]: crash data --[RELATES_TO]-> NZ Transport Agency 0.804008960723877
+[annual accident rate on SH16]: full and correct crash records --[AVAILABLE]-> NZ Transport Agency 0.8019895553588867
+[annual accident rate on SH16]: New Zealand --[HAS_HIGHWAY]-> State Highway 1 0.7967686057090759
+[annual accident rate on SH16]: questions and responses --[FROM]-> NZ Transport Agency 0.7958264350891113
+[annual accident rate on SH16]: risk rating --[REVIEWED_BY]-> NZ Transport Agency 0.7935643196105957
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[REQUESTS]-> annual accident rate on SH16 0.8697636723518372
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[INTERESTED_IN]-> comparing the number of accidents under the 100km speed limit versus the current 80km speed rate 0.8590115904808044
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: crash data --[RELATES_TO]-> NZ Transport Agency 0.804008960723877
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: full and correct crash records --[AVAILABLE]-> NZ Transport Agency 0.8019895553588867
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: New Zealand --[HAS_HIGHWAY]-> State Highway 1 0.7967686057090759
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: questions and responses --[FROM]-> NZ Transport Agency 0.7958264350891113
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: risk rating --[REVIEWED_BY]-> NZ Transport Agency 0.7935643196105957
+[vehicle accidents]: Data --[IS]-> Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019 0.8119416236877441
+[vehicle accidents]: vehicle accidents --[LOCATED]-> intersection of Kiddle Drive/Arrowsmith Ave 0.8030250072479248
+[vehicle accidents]: Data --[PROVIDED]-> Waka Kotahi N Z Transport Agency 0.8011325001716614
+[vehicle accidents]: Data --[RELATES_TO]-> Pedestrian and Cyclist Crashes 0.8005602955818176
+[vehicle accidents]: Crash Analysis System --[PROVIDES]-> Data 0.7954477667808533
+[vehicle accidents]: Data --[IS]-> Standard condition of drivers under 20 subject to zero alcohol level are not included 0.7811425924301147
+[vehicle accidents]: Data --[IS]-> Current at 18 September 2019 0.7800702452659607
+[information on vehicle accidents]: 100M --[ALLOCATED_FOR]-> State Highway 1 0.8530102968215942
+[information on vehicle accidents]: Pedestrian Safer speeds --[ASSOCIATED_WITH]-> State Highway 1 0.8410806059837341
+[information on vehicle accidents]: road safety --[ENHANCED_BY]-> State Highway 1 0.8304277658462524
+[information on vehicle accidents]: road safety initiatives --[improving]-> State Highway 1 0.828745424747467
+[information on vehicle accidents]: Crash Analysis System --[UPDATED]-> Traffic Crash Report 0.8261888027191162
+[information on vehicle accidents]: Crash Analysis --[PERFORMED_BY]-> Waka Kotahi NZ Transport Agency 0.8244447112083435
+[information on vehicle accidents]: road accident data --[FROM]-> Crash Analysis System 0.8231902122497559

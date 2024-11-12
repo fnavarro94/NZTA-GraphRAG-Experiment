@@ -1,0 +1,34 @@
+What region does the Metlink bus service connect to besides Porirua, the city in the country known for its Metlink services, which focus on providing comprehensive coverage across the region and allocates financial resources for the development, maintenance, and upgrading of transport infrastructure, including roads, railways, airports, and public transport systems?
+None
+Seed: Regional transport initiatives
+Seed: Significant investment in public transport infrastructure
+Seed: Importance of well-planned transport systems in both countries
+Seed: Transport link between wellington and northern regions of north island
+[Regional transport initiatives]: Sustainable urban transport --[Key component]-> Metlink network 0.8397910594940186
+[Regional transport initiatives]: Kiwirail group --[Connects]-> Major cities 0.8331161737442017
+[Regional transport initiatives]: New zealand --[Has]-> Regional transport planning 0.8284260034561157
+[Regional transport initiatives]: New zealand --[Has]-> Transport infrastructure development 0.826724112033844
+[Regional transport initiatives]: New zealand --[Has]-> Transport infrastructure funding 0.8254296183586121
+[Regional transport initiatives]: Kiwirail group --[Connects]-> Regional centers 0.8245606422424316
+[Regional transport initiatives]: Wellington --[Has]-> Metlink brand 0.8240622282028198
+[Significant investment in public transport infrastructure]: Sustainable urban transport --[Key component]-> Metlink network 0.8397910594940186
+[Significant investment in public transport infrastructure]: Kiwirail group --[Connects]-> Major cities 0.8331161737442017
+[Significant investment in public transport infrastructure]: New zealand --[Has]-> Regional transport planning 0.8284260034561157
+[Significant investment in public transport infrastructure]: New zealand --[Has]-> Transport infrastructure development 0.826724112033844
+[Significant investment in public transport infrastructure]: Auckland city rail link --[Funded by]-> Public-private partnerships 0.8255131244659424
+[Significant investment in public transport infrastructure]: New zealand --[Has]-> Transport infrastructure funding 0.8254296183586121
+[Significant investment in public transport infrastructure]: Kiwirail group --[Connects]-> Regional centers 0.8245606422424316
+[Importance of well-planned transport systems in both countries]: Wellington regional council --[Operates]-> Metlink brand 0.842169463634491
+[Importance of well-planned transport systems in both countries]: Sustainable urban transport --[Key component]-> Metlink network 0.8397910594940186
+[Importance of well-planned transport systems in both countries]: Kiwirail group --[Connects]-> Major cities 0.8331161737442017
+[Importance of well-planned transport systems in both countries]: New zealand --[Has]-> Regional transport planning 0.8284260034561157
+[Importance of well-planned transport systems in both countries]: New zealand --[Has]-> Transport infrastructure development 0.826724112033844
+[Importance of well-planned transport systems in both countries]: New zealand --[Has]-> Transport infrastructure funding 0.8254296183586121
+[Importance of well-planned transport systems in both countries]: Kiwirail group --[Connects]-> Regional centers 0.8245606422424316
+[Transport link between wellington and northern regions of north island]: Metlink --[Includes]-> Hutt valley and porirua 0.8836315870285034
+[Transport link between wellington and northern regions of north island]: Metlink --[Provides services to]-> Greater wellington region 0.8611021041870117
+[Transport link between wellington and northern regions of north island]: Metlink --[Is]-> Public transport network 0.8565995693206787
+[Transport link between wellington and northern regions of north island]: Metlink --[Provides]-> Essential services to commuters and residents 0.844633162021637
+[Transport link between wellington and northern regions of north island]: Wellington regional council --[Operates]-> Metlink brand 0.842169463634491
+[Transport link between wellington and northern regions of north island]: Sustainable urban transport --[Key component]-> Metlink network 0.8397910594940186
+[Transport link between wellington and northern regions of north island]: Wellington regional rail system --[Operated by]-> Metlink 0.8365113735198975

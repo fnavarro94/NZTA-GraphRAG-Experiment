@@ -1,0 +1,36 @@
+How is Waka Kotahi addressing corporate emissions as part of their sustainability efforts?
+None
+Seed: fuel from Waka Kotahi fleet vehicle emissions
+Seed: Waka Kotahi Senior Project Manager
+Seed: where people can easily learn about sustainability
+Seed: Waka Kotahi
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi --[PROVIDES]-> fuel from Waka Kotahi fleet vehicle emissions 0.8978778719902039
+[fuel from Waka Kotahi fleet vehicle emissions]: Response --[CONTAINS]-> Waka Kotahi 0.838596522808075
+[fuel from Waka Kotahi fleet vehicle emissions]: response --[CONTAINS]-> Waka Kotahi 0.8524847030639648
+[fuel from Waka Kotahi fleet vehicle emissions]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.8419222831726074
+[fuel from Waka Kotahi fleet vehicle emissions]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.8529142737388611
+[fuel from Waka Kotahi fleet vehicle emissions]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7938544750213623
+[fuel from Waka Kotahi fleet vehicle emissions]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.8037591576576233
+[fuel from Waka Kotahi fleet vehicle emissions]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.7963899970054626
+[fuel from Waka Kotahi fleet vehicle emissions]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7833287715911865
+[fuel from Waka Kotahi fleet vehicle emissions]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.8438456654548645
+[fuel from Waka Kotahi fleet vehicle emissions]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.8421415686607361
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8543908596038818
+[fuel from Waka Kotahi fleet vehicle emissions]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.8656639456748962
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.8436346650123596
+[fuel from Waka Kotahi fleet vehicle emissions]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.8253241777420044
+[fuel from Waka Kotahi fleet vehicle emissions]: Leisa Coley --[EMPLOYED_BY]-> Waka Kotahi 0.837324857711792
+[fuel from Waka Kotahi fleet vehicle emissions]: Lizette Marais --[EMPLOYED_BY]-> Waka Kotahi 0.8134528994560242
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi --[EMPLOYS]-> Andy Knackstedt 0.8286782503128052
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi --[EMPLOYS]-> Qualified Staff 0.8492077589035034
+[fuel from Waka Kotahi fleet vehicle emissions]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.8446230888366699
+[fuel from Waka Kotahi fleet vehicle emissions]: website --[RELATES_TO]-> Waka Kotahi 0.8389341831207275
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi --[RESPONDS_TO]-> OIA request 0.8184856176376343
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi --[RESPONDS_TO]-> request 0.8092952370643616
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi --[PROVIDES]-> OIA-10601-response-georgina-campbell.pdf 0.8461318016052246
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi --[PROVIDES]-> outcome of suspension 0.8364392518997192
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi --[PROVIDES]-> outcome of surrendered 0.8241778612136841
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi --[PROVIDES]-> information on website 0.8457579016685486
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi --[PROVIDES]-> outcome of revoke 0.8245629668235779
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi --[PROVIDES]-> warnings to individuals 0.8345657587051392
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi --[PROVIDES]-> Transport Data 0.8395192623138428

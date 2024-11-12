@@ -1,0 +1,34 @@
+Who is responsible for enforcing the Health and Safety at Work Act in New Zealand?
+None
+Seed: Health and safety at work act
+Seed: Health and safety at work act 2015
+Seed: Health and safety in employment act 1992
+Seed: Primary body responsible for overseeing heavy vehicle safety
+[Health and safety at work act]: New zealand transport agency --[Oversees]-> Transport safety 0.8800637722015381
+[Health and safety at work act]: Road safety legislation --[Is]-> New zealand 0.8763065934181213
+[Health and safety at work act]: Health and safety at work act --[Year]-> 2015 0.8715921640396118
+[Health and safety at work act]: Transport safety regulations --[Governed by]-> New zealand transport agency 0.8689521551132202
+[Health and safety at work act]: Vehicle safety standards --[Are overseen by]-> New zealand transport agency 0.8644979000091553
+[Health and safety at work act]: New zealand transport agency --[Oversees]-> Risk management 0.8636425137519836
+[Health and safety at work act]: New zealand --[Has]-> Transport compliance and enforcement 0.8620739579200745
+[Health and safety at work act 2015]: New zealand transport agency --[Oversees]-> Transport safety 0.8800637722015381
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Is]-> Key piece of legislation 0.877606987953186
+[Health and safety at work act 2015]: Road safety legislation --[Is]-> New zealand 0.8763065934181213
+[Health and safety at work act 2015]: New zealand government --[Proactive]-> Safety standards 0.8698642253875732
+[Health and safety at work act 2015]: Transport safety regulations --[Governed by]-> New zealand transport agency 0.8689521551132202
+[Health and safety at work act 2015]: Vehicle safety standards --[Are overseen by]-> New zealand transport agency 0.8644979000091553
+[Health and safety at work act 2015]: New zealand transport agency --[Oversees]-> Risk management 0.8636425137519836
+[Health and safety in employment act 1992]: Health and safety at work act 2015 --[Is]-> Key piece of legislation 0.877606987953186
+[Health and safety in employment act 1992]: Road safety legislation --[Is]-> New zealand 0.8763065934181213
+[Health and safety in employment act 1992]: New zealand --[Has]-> Transport compliance and enforcement 0.8620739579200745
+[Health and safety in employment act 1992]: New zealand --[Committed to]-> Road safety 0.8575912714004517
+[Health and safety in employment act 1992]: New zealand --[Has]-> Road safety initiatives 0.8560042381286621
+[Health and safety in employment act 1992]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.8557565212249756
+[Health and safety in employment act 1992]: New zealand --[Faced]-> Significant challenges related to road safety 0.8553667068481445
+[Primary body responsible for overseeing heavy vehicle safety]: New zealand transport agency --[Oversees]-> Transport safety 0.8800637722015381
+[Primary body responsible for overseeing heavy vehicle safety]: Road safety legislation --[Is]-> New zealand 0.8763065934181213
+[Primary body responsible for overseeing heavy vehicle safety]: Nzta --[Is]-> Primary body responsible for overseeing heavy vehicle safety 0.8711308240890503
+[Primary body responsible for overseeing heavy vehicle safety]: New zealand government --[Proactive]-> Safety standards 0.8698642253875732
+[Primary body responsible for overseeing heavy vehicle safety]: Transport safety regulations --[Governed by]-> New zealand transport agency 0.8689521551132202
+[Primary body responsible for overseeing heavy vehicle safety]: New zealand police --[Enforcing]-> Road safety regulations 0.8684990406036377
+[Primary body responsible for overseeing heavy vehicle safety]: Nzta --[Responsible for]-> Implementing vehicle emissions regulations 0.8654794692993164

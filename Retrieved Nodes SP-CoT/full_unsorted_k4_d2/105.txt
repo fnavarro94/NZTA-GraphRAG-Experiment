@@ -1,0 +1,36 @@
+Which notable transport project in New Zealand, alongside the City Rail Link located to the north of the city known for its Metlink services, which focus on providing comprehensive coverage across the region, has undergone the process with the acronym used in New Zealand to assess the environmental impacts of transport projects?
+None
+Seed: Transport link between wellington and northern regions of north island
+Seed: Regional transport initiatives
+Seed: New zealand's transport network
+Seed: Addressing transport challenges in auckland
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Aims to improve]-> Transport link between wellington and northern regions of north island 0.8353258371353149
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Links with]-> State highway 1 0.7938615679740906
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Reduces]-> Travel times 0.7944077849388123
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Undergoes]-> Ongoing improvements and upgrades 0.8002171516418457
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Protects]-> Local wildlife and habitats 0.8142935633659363
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Passes through]-> Levin 0.7953996062278748
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Connects]-> Wellington 0.8163170218467712
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Extends]-> Northward 0.7962479591369629
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Features]-> Transmission gully motorway 0.8069654703140259
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Stretches]-> Approximately 110 kilometers 0.8121757507324219
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Passes through]-> Masterton 0.7927545309066772
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Is]-> Integral part of the country's national road network 0.8157845735549927
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Accommodates]-> Sustainable transport options 0.8311851620674133
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Improves]-> Access to employment and services 0.806865930557251
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Promotes]-> Shift towards more environmentally friendly modes of travel 0.8272652626037598
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Minimizes]-> Ecological impact 0.8218612670898438
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Aims to]-> Support the country's economic growth and environmental sustainability goals 0.810941219329834
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Enhances]-> Connectivity for commuters 0.8154836893081665
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Aims to]-> Enhance capacity and safety 0.8056228756904602
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Alleviates]-> Pressure on existing transport infrastructure 0.8248489499092102
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Passes through]-> Upper hutt 0.8001273274421692
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Improves]-> Access to markets 0.7951736450195312
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Aims to]-> Meet the evolving needs of new zealand's transport system 0.839799702167511
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Is]-> Key transport route 0.8243023753166199
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Supports]-> Economic development 0.8160694241523743
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Begins]-> Wellington urban area 0.8050305843353271
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Connects]-> Northern regions of the north island 0.8335815668106079
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Includes]-> Upgrades to state highway 1 route 0.776695728302002
+[Regional transport initiatives]: Local councils --[Contribute to]-> Regional transport initiatives 0.7928577661514282
+[Regional transport initiatives]: Road safety authority --[Collaborates with]-> Local councils 0.7508981227874756

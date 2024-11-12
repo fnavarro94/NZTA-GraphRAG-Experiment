@@ -1,0 +1,36 @@
+What information did NZTA provide in response to the OIA request on median barriers (OIA-3396)?
+None
+Seed: installing median barriers
+Seed: median barriers
+Seed: Median Barriers
+Seed: information about the NZ Transport Agency's Information Technology (IT) projects
+[installing median barriers]: Safe System approach --[INCLUDES]-> installing median barriers 0.8215978145599365
+[installing median barriers]: Safe System approach --[INCLUDES]-> improving the safety performance of the vehicle fleet 0.7649362087249756
+[installing median barriers]: Safe System approach --[INCLUDES]-> encouraging road users to be alert and compliant 0.7614872455596924
+[installing median barriers]: resolution A/RES/74/299 --[PROMOTES]-> Safe System approach 0.7813894748687744
+[installing median barriers]: United Nations General Assembly --[ADOPTED]-> resolution A/RES/74/299 0.7846859693527222
+[median barriers]: information --[RELATES_TO]-> median barriers 0.844730794429779
+[median barriers]: information --[PROVIDES]-> New Zealand Transport Agency 0.8554627895355225
+[median barriers]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8174660801887512
+[median barriers]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8199265599250793
+[median barriers]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8232059478759766
+[median barriers]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.8027668595314026
+[median barriers]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.8249276876449585
+[median barriers]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.8217365741729736
+[median barriers]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.8251937627792358
+[median barriers]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.8149641752243042
+[median barriers]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8304492831230164
+[median barriers]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8738440275192261
+[median barriers]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8419504761695862
+[median barriers]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8444708585739136
+[median barriers]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8230117559432983
+[median barriers]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8281133770942688
+[median barriers]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8253125548362732
+[median barriers]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8804627060890198
+[median barriers]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8017035126686096
+[median barriers]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8172773122787476
+[median barriers]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.854162335395813
+[median barriers]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8059349060058594
+[median barriers]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8819841146469116
+[median barriers]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8712425231933594
+[median barriers]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8832361102104187

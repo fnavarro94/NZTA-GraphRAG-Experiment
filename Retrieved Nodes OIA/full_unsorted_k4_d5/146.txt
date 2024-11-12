@@ -1,0 +1,36 @@
+Were any draft letters regarding the Rainbow Crossing ever sent to Wellington City Council?
+None
+Seed: Wellington's Rainbow Crossing proposal
+Seed: safety of Wellington's Rainbow Crossing proposal
+Seed: Wellington City Council
+Seed: one crossing near Daniell Street
+[Wellington's Rainbow Crossing proposal]: suggested action to address concerns --[RELATES_TO]-> Wellington's Rainbow Crossing proposal 0.8727091550827026
+[Wellington's Rainbow Crossing proposal]: New Zealand Transport Agency --[SUGGESTS]-> suggested action to address concerns 0.7927370667457581
+[Wellington's Rainbow Crossing proposal]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8127837181091309
+[Wellington's Rainbow Crossing proposal]: New Zealand Transport Agency --[BASED]-> Wellington 0.8262408375740051
+[Wellington's Rainbow Crossing proposal]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7826889753341675
+[Wellington's Rainbow Crossing proposal]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7857852578163147
+[Wellington's Rainbow Crossing proposal]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7842634320259094
+[Wellington's Rainbow Crossing proposal]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.8047565817832947
+[Wellington's Rainbow Crossing proposal]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.782371997833252
+[Wellington's Rainbow Crossing proposal]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7964401841163635
+[Wellington's Rainbow Crossing proposal]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.8007171154022217
+[Wellington's Rainbow Crossing proposal]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7861428260803223
+[Wellington's Rainbow Crossing proposal]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7914299964904785
+[Wellington's Rainbow Crossing proposal]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8113431930541992
+[Wellington's Rainbow Crossing proposal]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7958581447601318
+[Wellington's Rainbow Crossing proposal]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7895640134811401
+[Wellington's Rainbow Crossing proposal]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7960718870162964
+[Wellington's Rainbow Crossing proposal]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7931267023086548
+[Wellington's Rainbow Crossing proposal]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7951210141181946
+[Wellington's Rainbow Crossing proposal]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.78102046251297
+[Wellington's Rainbow Crossing proposal]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8625194430351257
+[Wellington's Rainbow Crossing proposal]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8033744096755981
+[Wellington's Rainbow Crossing proposal]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7756322026252747
+[Wellington's Rainbow Crossing proposal]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7956398129463196
+[Wellington's Rainbow Crossing proposal]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8216359615325928
+[Wellington's Rainbow Crossing proposal]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7971854209899902
+[Wellington's Rainbow Crossing proposal]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7881147861480713
+[Wellington's Rainbow Crossing proposal]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7749601602554321
+[Wellington's Rainbow Crossing proposal]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7869875431060791
+[Wellington's Rainbow Crossing proposal]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7881220579147339

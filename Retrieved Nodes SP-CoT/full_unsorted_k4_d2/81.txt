@@ -1,0 +1,36 @@
+What nickname is commonly associated with the cities that are implementing extensive cycling networks and pedestrian-friendly infrastructure to address traffic congestion, in the country where individuals must be at least 16 years old to apply for a learner's permit, which is the first stage of the driver licensing process that can be obtained at the age of 16, highlighting Auckland's maritime culture?
+None
+Seed: Driver licensing and vehicle registration
+Seed: Licensing of drivers and vehicles
+Seed: Legal framework for licensing of drivers
+Seed: Age of 16
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Provisions on]-> Driver licensing and vehicle registration 0.8103563189506531
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Aiming to]-> Reduce road traffic accidents and fatalities 0.7898603081703186
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Reflected in]-> Land transport act 1998 0.8023087978363037
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Emphasis on]-> Standardized road signs and signals 0.7923619151115417
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Aimed at]-> Facilitating international road traffic 0.805122435092926
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Integrated into]-> New zealand's national road traffic laws 0.8343735337257385
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Ratified by]-> Numerous countries 0.8011582493782043
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Aimed at]-> Promoting road safety 0.7969268560409546
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Adopted]-> Graduated licensing system 0.8217018842697144
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Reflected in]-> Road user rule 2004 0.8033301830291748
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Reflects]-> New zealand's commitment to international standards in road safety and traffic management 0.7999110817909241
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Establishes]-> Uniform rules for road users 0.7856525182723999
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Promotes]-> Responsible use of vehicles 0.7844246029853821
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Aiming to]-> Novice drivers 0.8410601615905762
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Promotes]-> Safe driving practices 0.7813391089439392
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Instrumental in]-> Shaping new zealand's transport policies 0.8305967450141907
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Implemented by]-> New zealand transport agency 0.8289781212806702
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Is]-> International treaty 0.7911850214004517
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Foundational element in]-> Promoting safe and efficient road use 0.8112548589706421
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Influenced]-> New zealand's road safety initiatives 0.8194724321365356
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Contributes to]-> Cohesive framework for road traffic regulations 0.7986457943916321
+[Driver licensing and vehicle registration]: New zealand --[Signatory to]-> Vienna convention on road traffic 0.8207734823226929
+[Licensing of drivers and vehicles]: Nzta --[Oversees]-> Licensing of drivers and vehicles 0.8440420627593994
+[Licensing of drivers and vehicles]: Nzta --[Plays a pivotal role in]-> The development and implementation of these systems 0.7698413729667664
+[Licensing of drivers and vehicles]: Nzta --[Actively exploring]-> Connected and autonomous vehicles 0.7780585885047913
+[Licensing of drivers and vehicles]: Nzta --[Actively exploring]-> The potential of emerging technologies 0.7686404585838318
+[Licensing of drivers and vehicles]: Nzta --[Actively exploring]-> Improving road safety 0.8106477856636047
+[Licensing of drivers and vehicles]: Nzta --[Actively exploring]-> Enhancing traffic management capabilities 0.8172794580459595
+[Licensing of drivers and vehicles]: Nzta --[Works in collaboration with]-> Local councils and other stakeholders 0.7858750224113464
+[Licensing of drivers and vehicles]: Nzta --[Responsible for]-> Administering nltf and prioritizing projects 0.7683565020561218

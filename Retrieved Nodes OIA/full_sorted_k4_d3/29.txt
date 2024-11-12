@@ -1,0 +1,34 @@
+What transport route was NZTA planning from Auckland CBD to West Auckland?
+None
+Seed: work done on a light rail route from the Auckland CBD to West Auckland
+Seed: Rapid Transit in Auckland
+Seed: Regional Land Transport Plan
+Seed: Regional Public Transport Plans
+[work done on a light rail route from the Auckland CBD to West Auckland]: New Zealand Transport Agency --[PROVIDES]-> work done on a light rail route from the Auckland CBD to West Auckland 0.8849544525146484
+[work done on a light rail route from the Auckland CBD to West Auckland]: Auckland --[CONTAINS]-> transport infrastructure 0.8811302185058594
+[work done on a light rail route from the Auckland CBD to West Auckland]: New Zealand Transport Agency --[BASED_IN]-> Auckland 0.8805112838745117
+[work done on a light rail route from the Auckland CBD to West Auckland]: transport services --[AVAILABLE_IN]-> Auckland 0.8754512667655945
+[work done on a light rail route from the Auckland CBD to West Auckland]: North Auckland Rapid Transit Corridor --[LOCATED]-> Auckland 0.8738494515419006
+[work done on a light rail route from the Auckland CBD to West Auckland]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.8737033009529114
+[work done on a light rail route from the Auckland CBD to West Auckland]: Auckland Transport --[MANAGES]-> roads 0.8720331192016602
+[Rapid Transit in Auckland]: Rapid Transit in Auckland --[ATTACHED_TO]-> Attachment 1 0.8493787050247192
+[Rapid Transit in Auckland]: information --[PROVIDES]-> New Zealand Transport Agency 0.8338892459869385
+[Rapid Transit in Auckland]: New Zealand Transport Agency --[PROVIDES]-> information 0.8319722414016724
+[Rapid Transit in Auckland]: NZTA --[WITHHOLD]-> information 0.7773802280426025
+[Rapid Transit in Auckland]: Transport Agency --[PROVIDES_ACCESS]-> information 0.7772172689437866
+[Rapid Transit in Auckland]: Transport Agency --[WITHHOLDS]-> information 0.7630605101585388
+[Rapid Transit in Auckland]: information --[PROVIDED_BY]-> Waka Kotahi 0.7512590885162354
+[Regional Land Transport Plan]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Access and Development Programme Business Case 0.8275936245918274
+[Regional Land Transport Plan]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.82469642162323
+[Regional Land Transport Plan]: 2024-27 National Land Transport Programme --[DEVELOPMENT_OF]-> Regional Land Transport Plan 0.8012580871582031
+[Regional Land Transport Plan]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.7911543250083923
+[Regional Land Transport Plan]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Access and Development Programme Business Case 0.7900114059448242
+[Regional Land Transport Plan]: Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.7846572995185852
+[Regional Land Transport Plan]: Main South Road, Shands Road and Carmen Road intersection --[LOCATED_NEAR]-> Hornby Access and Development Programme Business Case 0.7794438600540161
+[Regional Public Transport Plans]: New Zealand Transport Agency --[PROVIDES]-> work done on a light rail route from the Auckland CBD to West Auckland 0.8849544525146484
+[Regional Public Transport Plans]: Auckland --[CONTAINS]-> transport infrastructure 0.8811302185058594
+[Regional Public Transport Plans]: New Zealand Transport Agency --[BASED_IN]-> Auckland 0.8805112838745117
+[Regional Public Transport Plans]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.8737033009529114
+[Regional Public Transport Plans]: Auckland Transport --[MANAGES]-> roads 0.8720331192016602
+[Regional Public Transport Plans]: public transport --[PROVIDED_BY]-> Auckland Transport 0.8719320893287659
+[Regional Public Transport Plans]: Auckland Transport --[PROVIDES]-> funding 0.8697057366371155

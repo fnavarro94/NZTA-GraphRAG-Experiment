@@ -1,0 +1,36 @@
+What were some of the key software or apps developed by NZTA's Connected Journey Solutions (CJS)?
+None
+Seed: successful applications
+Seed: multi-tenanted platform
+Seed: projects for New Zealand Transport Agency
+Seed: Connected Journey Solutions
+[successful applications]: innovation-fund/innovation-fund-round-one-successful-applicants.pdf --[PROVIDES]-> successful applications 0.7706074118614197
+[successful applications]: www.nzta.govt.nz --[CONTAINS]-> innovation-fund/innovation-fund-round-one-successful-applicants.pdf 0.7981125116348267
+[successful applications]: www.nzta.govt.nz --[HOSTS]-> New Zealand Transport Agency 0.8081204295158386
+[successful applications]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7805286645889282
+[successful applications]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7954196333885193
+[successful applications]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7845054268836975
+[successful applications]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7846078276634216
+[successful applications]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7844423651695251
+[successful applications]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7868963479995728
+[successful applications]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7922252416610718
+[successful applications]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7891380786895752
+[successful applications]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8027393817901611
+[successful applications]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7973285913467407
+[successful applications]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.784232497215271
+[successful applications]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7934539914131165
+[successful applications]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8112208247184753
+[successful applications]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7922978401184082
+[successful applications]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7915263175964355
+[successful applications]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7882716059684753
+[successful applications]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7846729159355164
+[successful applications]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7644168734550476
+[successful applications]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7908825874328613
+[successful applications]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7571347951889038
+[successful applications]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7860045433044434
+[successful applications]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7791074514389038
+[successful applications]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7899548411369324
+[successful applications]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7773690223693848
+[successful applications]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7884731292724609
+[successful applications]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7953178286552429
+[successful applications]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7675395011901855

@@ -1,0 +1,30 @@
+What information was withheld from the response about the Road Efficiency Group briefing?
+None
+Seed: Some information has been withheld under section 9(2)(f)(iv)
+Seed: Road Efficiency Group
+Seed: Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)
+Seed: specific questions and the NZ Transport Agency’s responses
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[IS]-> Some information has been withheld under section 9(2)(f)(iv) 0.8298884034156799
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[IS]-> NTS rollout timeline 0.7642608880996704
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[DATE]-> 24 April 2024 0.7442833781242371
+[Road Efficiency Group]: New Zealand Transport Agency --[PROVIDES]-> withheld information 0.877457857131958
+[Road Efficiency Group]: Documents --[CONTAINS]-> Road Efficiency Group 0.8644993305206299
+[Road Efficiency Group]: Request made under the Official Information Act 1982 --[REQUESTS]-> information about Road To Zero campaign 0.8638904690742493
+[Road Efficiency Group]: information --[WITHHELD]-> public interest 0.8630846738815308
+[Road Efficiency Group]: New Zealand Transport Agency --[RESPONDED]-> Request for Information 0.8595327734947205
+[Road Efficiency Group]: questions and responses --[FROM]-> NZ Transport Agency 0.8578473925590515
+[Road Efficiency Group]: New Zealand Transport Agency --[RESPONDS]-> request for information 0.8547911643981934
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[IS]-> Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv) 0.8251271843910217
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MINO -1051 Supporting information --[DEBATE]-> 30 April 2024 0.82318115234375
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: Ministers Report --[IS]-> Released in full 0.8168434500694275
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[IS]-> Transport stakeholders meeting 0.8159172534942627
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MINO -1029 Minister Office's --[QUERY]-> 8 April 2024 0.7950813174247742
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: Ministers Report --[DATE]-> 8 April 2024 0.7917526364326477
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: Ministers Report --[IS]-> Ministers Report 0.7862738370895386
+[specific questions and the NZ Transport Agency’s responses]: New Zealand Transport Agency --[PROVIDES]-> withheld information 0.877457857131958
+[specific questions and the NZ Transport Agency’s responses]: Documents --[CONTAINS]-> Road Efficiency Group 0.8644993305206299
+[specific questions and the NZ Transport Agency’s responses]: Request made under the Official Information Act 1982 --[REQUESTS]-> information about Road To Zero campaign 0.8638904690742493
+[specific questions and the NZ Transport Agency’s responses]: information --[WITHHELD]-> public interest 0.8630846738815308
+[specific questions and the NZ Transport Agency’s responses]: New Zealand Transport Agency --[RESPONDED]-> Request for Information 0.8595327734947205
+[specific questions and the NZ Transport Agency’s responses]: questions and responses --[FROM]-> NZ Transport Agency 0.8578473925590515
+[specific questions and the NZ Transport Agency’s responses]: New Zealand Transport Agency --[RESPONDS]-> request for information 0.8547911643981934

@@ -1,0 +1,36 @@
+How many streetlights are there on motorways in New Zealand?
+None
+Seed: street lights information from local councils
+Seed: information on traffic light cameras
+Seed: street lights information
+Seed: information on traffic light cameras and speed cameras
+[street lights information from local councils]: street lights information from local councils --[OBTAINABLE_FROM]-> local councils 0.8449780941009521
+[street lights information from local councils]: New Zealand Transport Agency --[REFUSES]-> street lights information from local councils 0.8319506049156189
+[street lights information from local councils]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.825151801109314
+[street lights information from local councils]: New Zealand Transport Agency --[BASED]-> Wellington 0.8304378986358643
+[street lights information from local councils]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7921456098556519
+[street lights information from local councils]: Golden Mile --[LOCATED]-> Wellington 0.8079257011413574
+[street lights information from local councils]: State Highway 1 --[LOCATED_IN]-> Wellington 0.8443514108657837
+[street lights information from local councils]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7705967426300049
+[street lights information from local councils]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7886655330657959
+[street lights information from local councils]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7782964706420898
+[street lights information from local councils]: Wellington --[PART_OF]-> Wellington Region 0.819864809513092
+[street lights information from local councils]: New Zealand --[HAS_CAPITAL]-> Wellington 0.8162180185317993
+[street lights information from local councils]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.8050165772438049
+[street lights information from local councils]: Wellington --[HAS]-> tunnel 0.814428985118866
+[street lights information from local councils]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.8176157474517822
+[street lights information from local councils]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7750160694122314
+[street lights information from local councils]: Wellington --[POSTCODE]-> 6141 0.78384929895401
+[street lights information from local councils]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.8241286873817444
+[street lights information from local councils]: Wellington --[IS_PART_OF]-> New Zealand 0.8157100677490234
+[street lights information from local councils]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.8106078505516052
+[street lights information from local councils]: 50 Victoria Street --[IN]-> Wellington 0.7894656658172607
+[street lights information from local councils]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7734664678573608
+[street lights information from local councils]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7878543138504028
+[street lights information from local councils]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7891563177108765
+[street lights information from local councils]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.8172038793563843
+[street lights information from local councils]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.8145447969436646
+[street lights information from local councils]: NZ Transport Agency --[LOCATED]-> Wellington 0.8274553418159485
+[street lights information from local councils]: Wellington --[CONTAINS]-> 50 Victoria Street 0.8164013028144836
+[street lights information from local councils]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7879748940467834
+[street lights information from local councils]: New Zealand --[CONTAINS]-> Wellington 0.8257412314414978

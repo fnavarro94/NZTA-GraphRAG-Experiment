@@ -1,0 +1,34 @@
+What legislation established the source of funding for road maintenance strategies in New Zealand, which is derived from fuel excise duties and road user charges?
+None
+Seed: Primarily financed through fuel excise duties
+Seed: Funding maintenance and development of roads
+Seed: Fuel excise duties
+Seed: Legislative framework for road safety initiatives
+[Primarily financed through fuel excise duties]: National land transport fund --[Sourced from]-> Fuel excise duties 0.8843120336532593
+[Primarily financed through fuel excise duties]: Road user charges act 2012 --[Impact]-> Important in new zealand 0.8783131241798401
+[Primarily financed through fuel excise duties]: Road user charges --[Aimed at]-> Funding maintenance and development of roads 0.8767119646072388
+[Primarily financed through fuel excise duties]: National land transport fund --[Is financed by]-> Fuel excise duties 0.8761168718338013
+[Primarily financed through fuel excise duties]: Road user charges --[Aligns with]-> New zealand's broader goals of sustainability and reducing greenhouse gas emissions 0.8712035417556763
+[Primarily financed through fuel excise duties]: Road safety legislation --[Is]-> New zealand 0.8708106875419617
+[Primarily financed through fuel excise duties]: National land transport fund --[Sourced from]-> Road user charges 0.8689301013946533
+[Funding maintenance and development of roads]: National land transport fund --[Sourced from]-> Fuel excise duties 0.8843120336532593
+[Funding maintenance and development of roads]: Road user charges --[Aimed at]-> Funding maintenance and development of roads 0.8767119646072388
+[Funding maintenance and development of roads]: National land transport fund --[Is financed by]-> Fuel excise duties 0.8761168718338013
+[Funding maintenance and development of roads]: Road user charges --[Aligns with]-> New zealand's broader goals of sustainability and reducing greenhouse gas emissions 0.8712035417556763
+[Funding maintenance and development of roads]: Road safety legislation --[Is]-> New zealand 0.8708106875419617
+[Funding maintenance and development of roads]: National land transport fund --[Sourced from]-> Road user charges 0.8689301013946533
+[Funding maintenance and development of roads]: New zealand --[Has]-> Road safety initiatives 0.866604745388031
+[Fuel excise duties]: National land transport fund --[Sourced from]-> Fuel excise duties 0.8843120336532593
+[Fuel excise duties]: Road user charges act 2012 --[Impact]-> Important in new zealand 0.8783131241798401
+[Fuel excise duties]: Road user charges --[Aimed at]-> Funding maintenance and development of roads 0.8767119646072388
+[Fuel excise duties]: National land transport fund --[Is financed by]-> Fuel excise duties 0.8761168718338013
+[Fuel excise duties]: Road user charges --[Aligns with]-> New zealand's broader goals of sustainability and reducing greenhouse gas emissions 0.8712035417556763
+[Fuel excise duties]: Road safety legislation --[Is]-> New zealand 0.8708106875419617
+[Fuel excise duties]: National land transport fund --[Sourced from]-> Road user charges 0.8689301013946533
+[Legislative framework for road safety initiatives]: National land transport fund --[Sourced from]-> Fuel excise duties 0.8843120336532593
+[Legislative framework for road safety initiatives]: Road user charges act 2012 --[Impact]-> Important in new zealand 0.8783131241798401
+[Legislative framework for road safety initiatives]: Road user charges --[Aimed at]-> Funding maintenance and development of roads 0.8767119646072388
+[Legislative framework for road safety initiatives]: National land transport fund --[Is financed by]-> Fuel excise duties 0.8761168718338013
+[Legislative framework for road safety initiatives]: Road user charges --[Aligns with]-> New zealand's broader goals of sustainability and reducing greenhouse gas emissions 0.8712035417556763
+[Legislative framework for road safety initiatives]: Road safety legislation --[Is]-> New zealand 0.8708106875419617
+[Legislative framework for road safety initiatives]: National land transport fund --[Sourced from]-> Road user charges 0.8689301013946533

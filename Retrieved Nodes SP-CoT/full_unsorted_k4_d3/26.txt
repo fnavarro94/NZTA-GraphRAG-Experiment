@@ -1,0 +1,36 @@
+What passenger service, operated by the organization in New Zealand that operates the majority of the country's rail services and has launched campaigns to promote rail safety, offers long-distance travel across New Zealand?
+None
+Seed: Majority of rail services
+Seed: Passenger rail services
+Seed: Extensive network of passenger and freight services
+Seed: Majority of passenger and freight movement
+[Majority of rail services]: Kiwirail group --[Operates]-> Majority of rail services 0.8652268648147583
+[Majority of rail services]: Kiwirail group --[Is]-> State-owned enterprise 0.8313294649124146
+[Majority of rail services]: Kiwirail --[Is]-> State-owned enterprise 0.8317819833755493
+[Majority of rail services]: Kiwirail group --[Provides]-> Essential services 0.8464223146438599
+[Majority of rail services]: Kiwirail group --[Provides]-> Efficient transport 0.8323134183883667
+[Majority of rail services]: Kiwirail group --[Provides]-> Sustainable transport 0.8328096866607666
+[Majority of rail services]: Sustainable urban transport --[Key component]-> Sustainable transport 0.7569558620452881
+[Majority of rail services]: Kiwirail group --[Addresses]-> Environmental concerns 0.8170762062072754
+[Majority of rail services]: New zealand --[Face]-> Environmental concerns 0.7872623205184937
+[Majority of rail services]: Kiwirail group --[Addresses]-> Road congestion 0.8067094087600708
+[Majority of rail services]: Kiwirail --[Reduces]-> Road congestion 0.797080397605896
+[Majority of rail services]: Kiwirail group --[Responsible for]-> Rail transport 0.8485143780708313
+[Majority of rail services]: Kiwirail group --[Aims to]-> Rail transport 0.8284868001937866
+[Majority of rail services]: Rail transport --[Has]-> Rich history dating back to the 19th century 0.7901864051818848
+[Majority of rail services]: Rail transport --[Has]-> Rich history dating back to 19th century 0.7918169498443604
+[Majority of rail services]: Rail transport --[Plays]-> Crucial role in freight movement 0.7852052450180054
+[Majority of rail services]: New zealand --[Has]-> Rail transport 0.8662028312683105
+[Majority of rail services]: Rail transport --[Plays vital role]-> Freight movement 0.790084958076477
+[Majority of rail services]: Kiwirail group --[Responsible for]-> Freight services 0.8374327421188354
+[Majority of rail services]: North island main trunk line --[Serves]-> Freight services 0.7857257127761841
+[Majority of rail services]: North island main trunk line --[Supports]-> Freight services 0.789292573928833
+[Majority of rail services]: Kiwirail group --[Operates]-> Freight services 0.8503221869468689
+[Majority of rail services]: Kiwirail --[Provides]-> Freight services 0.8444796800613403
+[Majority of rail services]: Kiwirail group --[Promotes]-> Integrated transport solutions 0.8322077989578247
+[Majority of rail services]: Waka kotahi --[Develops]-> Integrated transport solutions 0.7808620929718018
+[Majority of rail services]: Kiwirail group --[Promotes]-> Economic growth 0.8224082589149475
+[Majority of rail services]: National land transport programme --[Supports]-> Economic growth 0.763843834400177
+[Majority of rail services]: Government objectives --[Include]-> Economic growth 0.700515866279602
+[Majority of rail services]: Waka kotahi --[Contributes to]-> Economic growth 0.7247936129570007
+[Majority of rail services]: Auckland western ring route --[Supports]-> Economic growth 0.7811315059661865

@@ -1,0 +1,36 @@
+What factors led to the $190.6 million financial settlement for the Transmission Gully project?
+None
+Seed: financial settlement of $190.6 million
+Seed: https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/
+Seed: $6.185 million
+Seed: Transmission Gully
+[financial settlement of $190.6 million]: Joint Venture --[RECEIVED]-> financial settlement of $190.6 million 0.8569209575653076
+[financial settlement of $190.6 million]: Joint Venture --[RECEIVED]-> financial settlement 0.8000448942184448
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Project Agreement --[AVAILABLE]-> https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/ 0.7974191904067993
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Project Agreement --[GOVERNED_BY]-> Public Private Partnership 0.7522053718566895
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Public Private Partnership --[DURATION]-> 25 years 0.7561249732971191
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Out of Scope --[RELATES]-> Project Agreement 0.7402680516242981
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Out of Scope --[RELATES]-> Periodic Payments 0.7414466142654419
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Out of Scope --[RELATES]-> Prolongation Costs 0.7475826144218445
+[$6.185 million]: Road to Zero advertising campaign --[COST]-> $6.185 million 0.7791327238082886
+[Transmission Gully]: Delta outbreak --[AFFECTED]-> Transmission Gully 0.8290144801139832
+[Transmission Gully]: OIA-10601 --[RELATES_TO]-> Delta outbreak 0.7389469146728516
+[Transmission Gully]: OIA-10601 --[ANSWERED_BY]-> New Zealand Transport Agency 0.7667766809463501
+[Transmission Gully]: OIA-10601 --[SUBMITTED_BY]-> Georgina Campbell 0.7403286695480347
+[Transmission Gully]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA-10601 0.7580692172050476
+[Transmission Gully]: Georgina Campbell --[SUBMITTED_REQUEST]-> OIA-10601 0.7371918559074402
+[Transmission Gully]: Transmission Gully --[IMPACTED_BY]-> Delta outbreak 0.8245126605033875
+[Transmission Gully]: New Zealand Transport Agency --[NEGOTIATING]-> Transmission Gully 0.8524351119995117
+[Transmission Gully]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7542217969894409
+[Transmission Gully]: New Zealand Transport Agency --[BASED]-> Wellington 0.7568610906600952
+[Transmission Gully]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7259283661842346
+[Transmission Gully]: Golden Mile --[LOCATED]-> Wellington 0.7242122292518616
+[Transmission Gully]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7316029071807861
+[Transmission Gully]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7221227884292603
+[Transmission Gully]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7256297469139099
+[Transmission Gully]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7186352610588074
+[Transmission Gully]: Wellington --[PART_OF]-> Wellington Region 0.7530456781387329
+[Transmission Gully]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7358378171920776
+[Transmission Gully]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7773143649101257
+[Transmission Gully]: Wellington --[HAS]-> tunnel 0.7639214992523193
+[Transmission Gully]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7324966192245483

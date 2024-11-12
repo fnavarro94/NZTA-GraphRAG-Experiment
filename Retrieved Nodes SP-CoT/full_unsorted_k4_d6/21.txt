@@ -1,0 +1,36 @@
+What is the abbreviation for the agency that provides policy advice, oversees the transport sector, and is in addition to Waka Kotahi?
+None
+Seed: Waka kotahi nz transport agency
+Seed: Transport policies
+Seed: Transport initiatives
+Seed: Active transport initiatives
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Responsible for]-> Managing national land transport system 0.8856600522994995
+[Waka kotahi nz transport agency]: National land transport programme --[Developed by]-> Waka kotahi nz transport agency 0.8547705411911011
+[Waka kotahi nz transport agency]: National land transport programme --[Is]-> Key component of new zealand's transport planning framework 0.780089259147644
+[Waka kotahi nz transport agency]: National land transport programme --[Updated]-> Every three years 0.7605699300765991
+[Waka kotahi nz transport agency]: National land transport programme --[Promotes]-> Environmental sustainability 0.7531901001930237
+[Waka kotahi nz transport agency]: Government objectives --[Include]-> Environmental sustainability 0.7500313520431519
+[Waka kotahi nz transport agency]: Government objectives --[Include]-> Social equity 0.747187614440918
+[Waka kotahi nz transport agency]: New zealand transport strategy --[Aligned with]-> Government objectives 0.8003622889518738
+[Waka kotahi nz transport agency]: New zealand transport strategy --[Emphasizes]-> Multimodal approach 0.7803475856781006
+[Waka kotahi nz transport agency]: New zealand transport strategy --[Promotes]-> Public transport 0.7725887298583984
+[Waka kotahi nz transport agency]: Auckland transport --[Manages]-> Public transport 0.7966800332069397
+[Waka kotahi nz transport agency]: Public transport --[Integrates]-> Automated data collection 0.7568572163581848
+[Waka kotahi nz transport agency]: Wellington --[Relies heavily on]-> Public transport 0.7482947111129761
+[Waka kotahi nz transport agency]: Auckland transport --[Oversees]-> Public transport 0.7968025207519531
+[Waka kotahi nz transport agency]: Ministry of transport --[Oversees]-> Public transport 0.8176685571670532
+[Waka kotahi nz transport agency]: Integrated transport strategies --[Promote]-> Public transport 0.747692346572876
+[Waka kotahi nz transport agency]: Christchurch --[Has]-> Public transport 0.7647035121917725
+[Waka kotahi nz transport agency]: Sustainable urban transport --[Key component]-> Public transport 0.7809627652168274
+[Waka kotahi nz transport agency]: Sustainability and resilience --[Includes]-> Public transport 0.7654038071632385
+[Waka kotahi nz transport agency]: New zealand --[Has]-> Public transport 0.7851945161819458
+[Waka kotahi nz transport agency]: Public transport innovations --[Transform]-> Public transport 0.7499488592147827
+[Waka kotahi nz transport agency]: Public transport --[Varies significantly]-> Between urban and rural areas 0.7437238097190857
+[Waka kotahi nz transport agency]: Public transport --[Characterized by]-> Transition 0.7530487179756165
+[Waka kotahi nz transport agency]: Public transport --[Underwent]-> Significant evolution 0.7520476579666138
+[Waka kotahi nz transport agency]: New zealand transport strategy --[Aims]-> Sustainable transport network 0.7677363753318787
+[Waka kotahi nz transport agency]: Waka kotahi --[Ensures]-> Sustainable transport network 0.8587242364883423
+[Waka kotahi nz transport agency]: Auckland western ring route --[Represents]-> Sustainable transport network 0.7637194395065308
+[Waka kotahi nz transport agency]: New zealand transport strategy --[Is]-> Comprehensive framework 0.7855750322341919
+[Waka kotahi nz transport agency]: New zealand road safety strategy --[Is]-> Comprehensive framework 0.7546545267105103
+[Waka kotahi nz transport agency]: Transport skills strategy --[Is]-> Comprehensive framework 0.7704901099205017

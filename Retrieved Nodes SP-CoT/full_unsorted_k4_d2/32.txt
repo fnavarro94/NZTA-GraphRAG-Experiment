@@ -1,0 +1,36 @@
+What region is known for its rugged terrain and stunning landscapes, particularly in the context of the two main islands of New Zealand where the transport system facilitates the movement of people and goods?
+None
+Seed: New zealand's stunning landscapes
+Seed: New zealand's transport landscape
+Seed: Scenic routes such as the tranzalpine and the northern explorer
+Seed: Importance of well-planned transport systems in both countries
+[New zealand's stunning landscapes]: Passenger rail services --[Showcase]-> New zealand's stunning landscapes 0.8629123568534851
+[New zealand's stunning landscapes]: Passenger rail services --[Include]-> Scenic routes such as the tranzalpine and the northern explorer 0.7835254073143005
+[New zealand's transport landscape]: Auckland ferry network --[Crucial element]-> New zealand's transport landscape 0.8506596088409424
+[New zealand's transport landscape]: Auckland ferry network --[Operated by]-> Auckland transport 0.7973049283027649
+[New zealand's transport landscape]: Auckland ferry network --[Enhancing]-> User convenience 0.7617427110671997
+[New zealand's transport landscape]: Auckland ferry network --[Focus on]-> Integrating with emerging technologies 0.7931075096130371
+[New zealand's transport landscape]: Auckland ferry network --[Origins]-> Date back to 19th century 0.8028473854064941
+[New zealand's transport landscape]: Auckland ferry network --[Set to undergo]-> Further enhancements 0.75714510679245
+[New zealand's transport landscape]: Auckland ferry network --[Operates]-> Multiple routes 0.8070621490478516
+[New zealand's transport landscape]: Auckland ferry network --[First regular ferry service]-> Commenced in 1840 0.7768318057060242
+[New zealand's transport landscape]: Auckland ferry network --[Part of]-> Auckland transport's broader strategy 0.811822772026062
+[New zealand's transport landscape]: Auckland ferry network --[Commitment to]-> Sustainability 0.7940531969070435
+[New zealand's transport landscape]: Auckland ferry network --[Known for]-> Reliability 0.7974895238876343
+[New zealand's transport landscape]: Auckland ferry network --[Integrated with]-> Other forms of public transport 0.8152170181274414
+[New zealand's transport landscape]: Auckland ferry network --[Consists of]-> Several routes 0.8081434369087219
+[New zealand's transport landscape]: Auckland ferry network --[Contributing to]-> Sustainability of urban transport 0.8142913579940796
+[New zealand's transport landscape]: Auckland ferry network --[Offering]-> Unique and picturesque travel experience 0.8195908665657043
+[New zealand's transport landscape]: Auckland ferry network --[Service]-> Popular during peak hours 0.810279130935669
+[New zealand's transport landscape]: Auckland ferry network --[Is]-> Vital component of public transport system 0.830687940120697
+[New zealand's transport landscape]: Auckland ferry network --[Services provided by]-> Several operators 0.7985309362411499
+[New zealand's transport landscape]: Auckland ferry network --[Connects]-> Central business district of auckland with destinations 0.810493528842926
+[New zealand's transport landscape]: Auckland ferry network --[Plays]-> Significant role in alleviating road congestion 0.825198769569397
+[New zealand's transport landscape]: Auckland ferry network --[Significant expansions and upgrades]-> Accommodate growing population and increasing demand 0.8043613433837891
+[New zealand's transport landscape]: Auckland ferry network --[Offers]-> Alternative mode of transport for commuters and tourists 0.800458550453186
+[New zealand's transport landscape]: Auckland ferry network --[Poised to play]-> Increasingly important role in shaping future of public transport 0.813501238822937
+[New zealand's transport landscape]: Auckland ferry network --[Fleet]-> Consists of various vessels 0.7940074801445007
+[New zealand's transport landscape]: Auckland ferry network --[Improve]-> Public transport infrastructure 0.7950356602668762
+[New zealand's transport landscape]: Auckland ferry network --[Planned developments]-> Include introduction of new routes 0.7781638503074646
+[New zealand's transport landscape]: Auckland ferry network --[Planned developments]-> Include increased frequency of services 0.7869117259979248
+[New zealand's transport landscape]: Auckland ferry network --[Enhancing]-> Overall accessibility 0.7863351106643677

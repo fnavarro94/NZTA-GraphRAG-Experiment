@@ -1,0 +1,36 @@
+Who should be contacted to discuss the SH2 Hebden Crescent / Liverton Road intersection project?
+None
+Seed: Request for information on Hornby Intersection improvements
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: one crossing near SH2/Lyon Street/Birdwood Street intersection
+Seed: request to Minister of Transport
+[Request for information on Hornby Intersection improvements]: Request for information on Hornby Intersection improvements --[REQUESTS]-> New Zealand Transport Agency 0.8545761108398438
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7958704233169556
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7877810001373291
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7982069849967957
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7762531042098999
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7904819846153259
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7888059616088867
+[Request for information on Hornby Intersection improvements]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7597355246543884
+[Request for information on Hornby Intersection improvements]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7681139707565308
+[Request for information on Hornby Intersection improvements]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7792021036148071
+[Request for information on Hornby Intersection improvements]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.797515332698822
+[Request for information on Hornby Intersection improvements]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7948876619338989
+[Request for information on Hornby Intersection improvements]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8269920945167542
+[Request for information on Hornby Intersection improvements]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7893137335777283
+[Request for information on Hornby Intersection improvements]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8035401701927185
+[Request for information on Hornby Intersection improvements]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7855843901634216
+[Request for information on Hornby Intersection improvements]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.793792724609375
+[Request for information on Hornby Intersection improvements]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7745225429534912
+[Request for information on Hornby Intersection improvements]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7994176745414734
+[Request for information on Hornby Intersection improvements]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8085482716560364
+[Request for information on Hornby Intersection improvements]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7723367214202881
+[Request for information on Hornby Intersection improvements]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7955334186553955
+[Request for information on Hornby Intersection improvements]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7973802089691162
+[Request for information on Hornby Intersection improvements]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7956113219261169
+[Request for information on Hornby Intersection improvements]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7783126831054688
+[Request for information on Hornby Intersection improvements]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7809179425239563
+[Request for information on Hornby Intersection improvements]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7836493253707886
+[Request for information on Hornby Intersection improvements]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7814697027206421
+[Request for information on Hornby Intersection improvements]: Senior Engineer Vehicle Standard --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.765283465385437
+[Request for information on Hornby Intersection improvements]: oia-15834-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7972525358200073

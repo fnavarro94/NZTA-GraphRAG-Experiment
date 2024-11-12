@@ -1,0 +1,36 @@
+Does NZTA impose a quality assurance or performance clause for pothole repair work, and if so, where can it be found?
+None
+Seed: pothole repair specifications
+Seed: request for pothole repair cost information
+Seed: https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf
+Seed: potholes
+[pothole repair specifications]: https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf --[ACCESS]-> pothole repair specifications 0.8869953751564026
+[pothole repair specifications]: website --[LINKS]-> https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf 0.8628110885620117
+[pothole repair specifications]: pothole repair specifications --[FROM]-> NZTA 0.9272093772888184
+[pothole repair specifications]: NZTA --[SETS]-> quality standards 0.8805959820747375
+[pothole repair specifications]: NZTA --[PROVIDES]-> maintenance specifications 0.8799540996551514
+[pothole repair specifications]: NZTA --[PROVIDES]-> third-party web pages 0.8211961984634399
+[pothole repair specifications]: quarterly reports --[AUDITED]-> NZTA 0.8362637162208557
+[pothole repair specifications]: transport_data --[ASSOCIATED_WITH]-> NZTA 0.7981883883476257
+[pothole repair specifications]: NZTA --[ASSOCIATED_WITH]-> nzta_dev 0.7942439913749695
+[pothole repair specifications]: temp files --[ASSOCIATED_WITH]-> NZTA 0.7921172380447388
+[pothole repair specifications]: Auckland --[ASSOCIATED_WITH]-> NZTA 0.8072373867034912
+[pothole repair specifications]: temp_files --[ASSOCIATED_WITH]-> NZTA 0.7909367084503174
+[pothole repair specifications]: NZTA --[ASSOCIATED_WITH]-> sample_files 0.8016370534896851
+[pothole repair specifications]: increase/decrease --[AWARE_OF]-> NZTA 0.7997800707817078
+[pothole repair specifications]: sample_files --[ASSOCIATED_WITH]-> NZTA 0.8011288642883301
+[pothole repair specifications]: NZTA --[ASSOCIATED_WITH]-> Andrew McFarlane 0.8138108849525452
+[pothole repair specifications]: NZTA --[ASSOCIATED_WITH]-> temp files 0.792833685874939
+[pothole repair specifications]: oia-4903 --[ASSOCIATED_WITH]-> NZTA 0.8171953558921814
+[pothole repair specifications]: NZTA --[ASSOCIATED_WITH]-> temp_files 0.7943766117095947
+[pothole repair specifications]: nzta_dev --[ASSOCIATED_WITH]-> NZTA 0.7878338694572449
+[pothole repair specifications]: NZTA --[ASSOCIATED_WITH]-> Auckland 0.8152936100959778
+[pothole repair specifications]: NZTA --[ASSOCIATED_WITH]-> oia-4903 0.8194074630737305
+[pothole repair specifications]: Andrew McFarlane --[ASSOCIATED_WITH]-> NZTA 0.8001918792724609
+[pothole repair specifications]: NZTA --[CONSIDER]-> public interest 0.8308503031730652
+[pothole repair specifications]: NZTA --[PUBLISHES]-> response on website 0.8381304144859314
+[pothole repair specifications]: NZTA --[WITHHOLD]-> information 0.8252257108688354
+[pothole repair specifications]: NZTA --[POLICY]-> publish response on website 0.8445296287536621
+[pothole repair specifications]: NZTA --[PUBLISH]-> response on website 0.8300194144248962
+[pothole repair specifications]: removed --[BY]-> NZTA 0.8193522691726685
+[pothole repair specifications]: National Manager Infrastructure Delivery --[AT]-> NZTA 0.8384033441543579

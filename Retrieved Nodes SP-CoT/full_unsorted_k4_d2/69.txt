@@ -1,0 +1,36 @@
+What is the largest city in the country known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, served by the key transport corridor critical for freight and passenger movement and runs through the North Island?
+None
+Seed: Critical for freight and passenger movement
+Seed: Critical aspect of transportation planning
+Seed: Critical component of new zealand's transport strategy
+Seed: Major cities and industrial hubs
+[Critical for freight and passenger movement]: North island main trunk railway --[Is]-> Critical for freight and passenger movement 0.8789194822311401
+[Critical for freight and passenger movement]: North island main trunk railway --[Supports]-> Tourism 0.8196532726287842
+[Critical for freight and passenger movement]: North island main trunk railway --[Supports]-> Industry 0.8065513968467712
+[Critical for freight and passenger movement]: North island main trunk railway --[Holds]-> Efficiency 0.7964693307876587
+[Critical for freight and passenger movement]: North island main trunk railway --[Fosters]-> Movement of people 0.8246787786483765
+[Critical for freight and passenger movement]: North island main trunk railway --[Holds]-> Vital link 0.8135520219802856
+[Critical for freight and passenger movement]: North island main trunk railway --[Features]-> Makatote viaduct 0.8120752573013306
+[Critical for freight and passenger movement]: North island main trunk railway --[Features]-> Hapuakohe viaduct 0.8094723224639893
+[Critical for freight and passenger movement]: North island main trunk railway --[Upgraded]-> Improve safety 0.7932639718055725
+[Critical for freight and passenger movement]: North island main trunk railway --[Holds]-> Sustainability 0.8112154603004456
+[Critical for freight and passenger movement]: North island main trunk railway --[Holds]-> Cultural significance 0.8159158825874329
+[Critical for freight and passenger movement]: North island main trunk railway --[Serves]-> Passenger services 0.831116795539856
+[Critical for freight and passenger movement]: North island main trunk railway --[Serves]-> Freight 0.8376193642616272
+[Critical for freight and passenger movement]: North island main trunk railway --[Spans]-> 423 miles 0.8245028257369995
+[Critical for freight and passenger movement]: North island main trunk railway --[Fosters]-> Connections 0.8041340112686157
+[Critical for freight and passenger movement]: North island main trunk railway --[Is]-> Key railway line 0.8254899382591248
+[Critical for freight and passenger movement]: North island main trunk railway --[Equipped]-> Modern signaling systems 0.7865195274353027
+[Critical for freight and passenger movement]: North island main trunk railway --[Holds]-> Modernization 0.7975919246673584
+[Critical for freight and passenger movement]: North island main trunk railway --[Holds]-> Electrification 0.8024492263793945
+[Critical for freight and passenger movement]: North island main trunk railway --[Features]-> Raurimu spiral 0.8028615117073059
+[Critical for freight and passenger movement]: North island main trunk railway --[Upgraded]-> Improve efficiency 0.7892199754714966
+[Critical for freight and passenger movement]: North island main trunk railway --[Facilitates]-> Economic activity 0.8314894437789917
+[Critical for freight and passenger movement]: North island main trunk railway --[Fosters]-> Movement of goods 0.830450177192688
+[Critical for freight and passenger movement]: North island main trunk railway --[Connects]-> Auckland 0.7961035966873169
+[Critical for freight and passenger movement]: North island main trunk railway --[Supports]-> Agriculture 0.8108227252960205
+[Critical for freight and passenger movement]: North island main trunk railway --[Began]-> 1880s 0.8055999279022217
+[Critical for freight and passenger movement]: North island main trunk railway --[Facilitates]-> Regional connectivity 0.8340827822685242
+[Critical for freight and passenger movement]: North island main trunk railway --[Completed]-> 1908 0.7916014194488525
+[Critical for freight and passenger movement]: North island main trunk railway --[Connects]-> Wellington 0.7933814525604248
+[Critical for freight and passenger movement]: North island main trunk railway --[Holds]-> Communities 0.8101421594619751

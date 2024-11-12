@@ -1,0 +1,22 @@
+How does Waka Kotahi prioritize road renewal and resurfacing beyond design life?
+None
+Seed: Waka Kotahi Senior Project Manager
+Seed: Waka Kotahi N Z Transport Agency
+Seed: Waka Kotahi policy
+Seed: Waka Kotahi NZ Transport Agency
+[Waka Kotahi Senior Project Manager]: Waka Kotahi Senior Project Manager --[MANAGES]-> State Highway 25A Rebuild Project 0.8687067627906799
+[Waka Kotahi N Z Transport Agency]: Data --[PROVIDED]-> Waka Kotahi N Z Transport Agency 0.8461179733276367
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINS]-> Waka Kotahi N Z Transport Agency 0.8340190649032593
+[Waka Kotahi policy]: New Zealand Transport Agency --[POLICY]-> Waka Kotahi policy 0.8762567639350891
+[Waka Kotahi policy]: Waka Kotahi --[FOLLOWS]-> Waka Kotahi policy 0.8681348562240601
+[Waka Kotahi policy]: Waka Kotahi policy --[PUBLISHED]-> website 0.8629480600357056
+[Waka Kotahi policy]: Waka Kotahi --[POLICY]-> Waka Kotahi policy 0.8537205457687378
+[Waka Kotahi policy]: Waka Kotahi NZ Transport Agency --[FOLLOWS]-> Waka Kotahi policy 0.8506582379341125
+[Waka Kotahi policy]: Waka Kotahi policy --[REQUIRES]-> publishing responses on website 0.8282471895217896
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[MANAGES]-> road maintenance 0.8784803748130798
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[APPROVES]-> funding for road maintenance 0.8647933602333069
+[Waka Kotahi NZ Transport Agency]: Road to Zero --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8622374534606934
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.8599269390106201
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[ANNOUNCED]-> Road to Zero 0.8568103313446045
+[Waka Kotahi NZ Transport Agency]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8555330038070679
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.8527266979217529

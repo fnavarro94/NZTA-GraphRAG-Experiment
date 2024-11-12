@@ -1,0 +1,36 @@
+How many Clean Car rebates have been issued between 1 July 2021 and 31 May 2022?
+None
+Seed: 19,662 applications for Clean Car rebates
+Seed: Clean Car rebate scheme
+Seed: 7,162 Clean Car fees
+Seed: Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below.
+[19,662 applications for Clean Car rebates]: Waka Kotahi NZ Transport Agency --[APPROVED]-> 19,662 applications for Clean Car rebates 0.8218832612037659
+[19,662 applications for Clean Car rebates]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7372697591781616
+[19,662 applications for Clean Car rebates]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.748552680015564
+[19,662 applications for Clean Car rebates]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.7428213357925415
+[19,662 applications for Clean Car rebates]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> list of LGWM construction contracts 0.7503048181533813
+[19,662 applications for Clean Car rebates]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> public transport fare policy review 0.7514446377754211
+[19,662 applications for Clean Car rebates]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.7323942184448242
+[19,662 applications for Clean Car rebates]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.7364168167114258
+[19,662 applications for Clean Car rebates]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.7428009510040283
+[19,662 applications for Clean Car rebates]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.7349006533622742
+[19,662 applications for Clean Car rebates]: Waka Kotahi NZ Transport Agency --[FAX]-> F 64 4 894 6100 0.7462278008460999
+[19,662 applications for Clean Car rebates]: Andrew Knackstedt --[CONTACT]-> Waka Kotahi NZ Transport Agency 0.7474311590194702
+[19,662 applications for Clean Car rebates]: Waka Kotahi NZ Transport Agency --[CONTACT]-> T 64 4 894 5400 0.7396210432052612
+[19,662 applications for Clean Car rebates]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7315846681594849
+[19,662 applications for Clean Car rebates]: Chris Marshall --[REQUESTS]-> Waka Kotahi NZ Transport Agency 0.7422268986701965
+[19,662 applications for Clean Car rebates]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.7696956396102905
+[19,662 applications for Clean Car rebates]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.7713747024536133
+[19,662 applications for Clean Car rebates]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.7325459718704224
+[19,662 applications for Clean Car rebates]: Waka Kotahi NZ Transport Agency --[ANNOUNCED]-> Road to Zero 0.7506461143493652
+[19,662 applications for Clean Car rebates]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.7746652960777283
+[19,662 applications for Clean Car rebates]: Road to Zero --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.7609291076660156
+[19,662 applications for Clean Car rebates]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.7551833391189575
+[19,662 applications for Clean Car rebates]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7421010732650757
+[19,662 applications for Clean Car rebates]: New Zealand --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7484276294708252
+[19,662 applications for Clean Car rebates]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.7473621964454651
+[19,662 applications for Clean Car rebates]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7397359609603882
+[19,662 applications for Clean Car rebates]: www.nzta.govt.nz --[OF]-> Waka Kotahi NZ Transport Agency 0.7688290476799011
+[19,662 applications for Clean Car rebates]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7591326832771301
+[19,662 applications for Clean Car rebates]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7336987853050232
+[19,662 applications for Clean Car rebates]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.736916184425354

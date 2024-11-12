@@ -1,0 +1,10 @@
+What key plan is associated with the infrastructure project in Christchurch that aims to improve access to the southern suburbs and the city center following the earthquakes in 2010 and 2011 to enhance the transport network in Christchurch?
+None
+Seed: To improve access to southern suburbs and city center
+Seed: Critical link between southern suburbs and central business district
+Seed: Significant transport infrastructure project
+Seed: Christchurch transport strategic plan
+[To improve access to southern suburbs and city center]: Christchurch southern motorway --[Was developed]-> To improve access to southern suburbs and city center 0.8966140747070312
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Serves as]-> Critical link between southern suburbs and central business district 0.867341160774231
+[Significant transport infrastructure project]: Christchurch southern motorway --[Is]-> Significant transport infrastructure project 0.8879129886627197
+[Christchurch transport strategic plan]: Christchurch southern motorway --[Key component of]-> Christchurch transport strategic plan 0.8771805763244629

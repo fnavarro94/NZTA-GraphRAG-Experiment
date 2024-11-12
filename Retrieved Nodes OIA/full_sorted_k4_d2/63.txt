@@ -1,0 +1,22 @@
+What does the Crash Analysis System (CAS) track with regards to incidents involving cyclists and pedestrians wearing headphones?
+None
+Seed: Pedestrian and Cyclist Crashes
+Seed: Pedestrian Safety Analysis
+Seed: figures on drivers involved in fatal crashes
+Seed: information on driver fatalities
+[Pedestrian and Cyclist Crashes]: Pedestrian and Cyclist Crashes --[ASSOCIATED_WITH]-> Headphones, Earphones, Earbuds, or Headsets 0.9088004231452942
+[Pedestrian and Cyclist Crashes]: Pedestrian and Cyclist Crashes --[ASSOCIATED_WITH]-> Road Safety Initiatives 0.8825461864471436
+[Pedestrian and Cyclist Crashes]: Crash Data --[RELATES_TO]-> Pedestrian and Cyclist Crashes 0.8734562397003174
+[Pedestrian and Cyclist Crashes]: Data --[RELATES_TO]-> Pedestrian and Cyclist Crashes 0.8658924698829651
+[Pedestrian and Cyclist Crashes]: Headphones, Earphones, Earbuds, or Headsets --[MENTIONED_IN]-> Crash Description 0.8513724207878113
+[Pedestrian and Cyclist Crashes]: Crash Analysis System --[PROVIDES]-> Data 0.8418998122215271
+[Pedestrian and Cyclist Crashes]: Traffic Crash Report --[CONTAINS]-> Crash Data 0.828525960445404
+[Pedestrian Safety Analysis]: Galina Mitchelhill --[RESPONSIBLE_FOR]-> Pedestrian Safety Analysis 0.829122006893158
+[Pedestrian Safety Analysis]: Galina Mitchelhill --[RESPONSIBLE_FOR]-> Cycling Safety Analysis 0.8212462663650513
+[Pedestrian Safety Analysis]: Galina Mitchelhill --[RESPONSIBLE_FOR]-> Road Safety Analysis 0.8053582310676575
+[Pedestrian Safety Analysis]: Galina Mitchelhill --[RESPONSIBLE_FOR]-> Traffic Flow Analysis 0.7988072633743286
+[Pedestrian Safety Analysis]: Galina Mitchelhill --[RESPONSIBLE_FOR]-> Traffic Management Analysis 0.7949669361114502
+[Pedestrian Safety Analysis]: Galina Mitchelhill --[RESPONSIBLE_FOR]-> Transport Safety Planning 0.7902471423149109
+[Pedestrian Safety Analysis]: Galina Mitchelhill --[RESPONSIBLE_FOR]-> Transport Strategy Analysis 0.7899758815765381
+[figures on drivers involved in fatal crashes]: AA --[PROVIDES]-> figures on drivers involved in fatal crashes 0.8222339749336243
+[information on driver fatalities]: Emma Conyngham --[REQUESTS]-> information on driver fatalities 0.8210787177085876

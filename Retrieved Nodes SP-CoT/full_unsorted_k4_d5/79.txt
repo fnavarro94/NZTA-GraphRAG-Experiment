@@ -1,0 +1,36 @@
+What major arterial route enhances accessibility between Auckland and Onehunga, particularly for travel to which location?
+None
+Seed: Strategically located near major arterial routes
+Seed: Suburb located approximately 12 kilometers southwest of auckland's central business district
+Seed: First railway line between auckland and onehunga in 1873
+Seed: Access to auckland airport and other regions of the north island
+[Strategically located near major arterial routes]: Onehunga --[Is]-> Strategically located near major arterial routes 0.9042322635650635
+[Strategically located near major arterial routes]: Onehunga --[Is]-> Near state highway 20 0.8554476499557495
+[Strategically located near major arterial routes]: Onehunga --[Has]-> Encouraged more sustainable travel options 0.8492541313171387
+[Strategically located near major arterial routes]: Onehunga --[Has]-> Enhanced the overall efficiency of public transport 0.849003255367279
+[Strategically located near major arterial routes]: Onehunga --[Has]-> Key point for maritime trade 0.8189761638641357
+[Strategically located near major arterial routes]: Onehunga --[Has]-> Integration of bus and rail services 0.8632063865661621
+[Strategically located near major arterial routes]: Onehunga --[Promotes]-> Active transport 0.8047277331352234
+[Strategically located near major arterial routes]: New zealand --[Promotes]-> Active transport 0.8014782071113586
+[Strategically located near major arterial routes]: New zealand --[Has]-> Transport projects 0.8054815530776978
+[Strategically located near major arterial routes]: New zealand transport agency --[Oversees]-> Transport projects 0.7795150876045227
+[Strategically located near major arterial routes]: Auckland --[Has]-> Transport projects 0.8327115774154663
+[Strategically located near major arterial routes]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.7813311815261841
+[Strategically located near major arterial routes]: New zealand --[Has]-> Diverse transport network 0.8230499625205994
+[Strategically located near major arterial routes]: New zealand --[Has]-> Post-incident review 0.7441635131835938
+[Strategically located near major arterial routes]: Post-incident review --[Crucial for]-> Improving operational efficiency 0.6812529563903809
+[Strategically located near major arterial routes]: Post-incident review --[Crucial for]-> Fostering culture of continuous improvement 0.6578516960144043
+[Strategically located near major arterial routes]: Post-incident review --[Aimed at]-> Recommending measures 0.6939026117324829
+[Strategically located near major arterial routes]: Post-incident review --[Crucial for]-> Enhancing safety 0.6814565062522888
+[Strategically located near major arterial routes]: Post-incident review --[Is]-> Systematic process 0.6702879667282104
+[Strategically located near major arterial routes]: Post-incident review --[Conducted]-> Following an incident 0.6834632754325867
+[Strategically located near major arterial routes]: Post-incident review --[Aimed at]-> Analyzing circumstances 0.6818932890892029
+[Strategically located near major arterial routes]: Post-incident review --[Aimed at]-> Identifying contributing factors 0.6879798173904419
+[Strategically located near major arterial routes]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.7645276784896851
+[Strategically located near major arterial routes]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.7814732193946838
+[Strategically located near major arterial routes]: New zealand --[Has]-> Broader environmental policies 0.7755489349365234
+[Strategically located near major arterial routes]: New zealand --[Has]-> Traffic congestion 0.8019840717315674
+[Strategically located near major arterial routes]: Auckland --[Faces challenges]-> Traffic congestion 0.8249471187591553
+[Strategically located near major arterial routes]: Wellington public transport plan --[Initiated in response to]-> Traffic congestion 0.7756755948066711
+[Strategically located near major arterial routes]: Auckland --[Has]-> Traffic congestion 0.826624870300293
+[Strategically located near major arterial routes]: Wellington --[Has]-> Traffic congestion 0.7921599745750427

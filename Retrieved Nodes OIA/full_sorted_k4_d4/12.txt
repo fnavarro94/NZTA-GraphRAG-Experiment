@@ -1,0 +1,34 @@
+How many times have the safety cameras in the Waterview Tunnel been found faulty in the past 36 months?
+None
+Seed: MINO -1042 Waterview Tunnel
+Seed: information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021
+Seed: information on traffic light cameras and speed cameras
+Seed: information on traffic light cameras
+[MINO -1042 Waterview Tunnel]: MINO -1042 Waterview Tunnel --[WARNING]-> 19 April 2024 0.8588340282440186
+[MINO -1042 Waterview Tunnel]: MINO -1047 Driver instructors --[TESTING]-> 29 April 2024 0.7552363872528076
+[MINO -1042 Waterview Tunnel]: MINO -1051 Supporting information --[DEBATE]-> 30 April 2024 0.7542285919189453
+[MINO -1042 Waterview Tunnel]: MIN-4449 --[IS]-> Released in full 0.7488583326339722
+[MINO -1042 Waterview Tunnel]: MIN-4449 --[DATE]-> 17 April 2024 0.7474843859672546
+[MINO -1042 Waterview Tunnel]: MIN-4449 --[IS]-> Average cost of resurfacing and rehabilitation 0.7456722259521484
+[MINO -1042 Waterview Tunnel]: MINO -1029 Minister Office's --[QUERY]-> 8 April 2024 0.734221875667572
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Homer Tunnel worker and avalanche inspection application --[DEVELOPED_BY]-> Connected Journeys 0.8080829381942749
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Pothole detection --[DEVELOPED_BY]-> Connected Journeys 0.8000169992446899
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: health and safety incidents --[OCCURRED]-> 2008-2013 0.7987702488899231
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Connected Journeys --[DEVELOPS]-> Homer Tunnel worker and avalanche inspection application 0.7982227802276611
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Connected Journeys --[DEVELOPS]-> Pothole detection 0.7964816093444824
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Road Safety Campaigns --[USES]-> TV 0.7964063286781311
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.7959229350090027
+[information on traffic light cameras and speed cameras]: Homer Tunnel worker and avalanche inspection application --[DEVELOPED_BY]-> Connected Journeys 0.8080829381942749
+[information on traffic light cameras and speed cameras]: Pothole detection --[DEVELOPED_BY]-> Connected Journeys 0.8000169992446899
+[information on traffic light cameras and speed cameras]: health and safety incidents --[OCCURRED]-> 2008-2013 0.7987702488899231
+[information on traffic light cameras and speed cameras]: Connected Journeys --[DEVELOPS]-> Homer Tunnel worker and avalanche inspection application 0.7982227802276611
+[information on traffic light cameras and speed cameras]: Connected Journeys --[DEVELOPS]-> Pothole detection 0.7964816093444824
+[information on traffic light cameras and speed cameras]: Road Safety Campaigns --[USES]-> TV 0.7964063286781311
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.7959229350090027
+[information on traffic light cameras]: Homer Tunnel worker and avalanche inspection application --[DEVELOPED_BY]-> Connected Journeys 0.8080829381942749
+[information on traffic light cameras]: Pothole detection --[DEVELOPED_BY]-> Connected Journeys 0.8000169992446899
+[information on traffic light cameras]: health and safety incidents --[OCCURRED]-> 2008-2013 0.7987702488899231
+[information on traffic light cameras]: Connected Journeys --[DEVELOPS]-> Homer Tunnel worker and avalanche inspection application 0.7982227802276611
+[information on traffic light cameras]: Connected Journeys --[DEVELOPS]-> Pothole detection 0.7964816093444824
+[information on traffic light cameras]: Road Safety Campaigns --[USES]-> TV 0.7964063286781311
+[information on traffic light cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.7959229350090027

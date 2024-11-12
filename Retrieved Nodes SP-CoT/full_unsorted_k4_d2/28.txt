@@ -1,0 +1,36 @@
+What is the target year set by the government for achieving 100% of the light vehicle fleet being zero-emission as part of their initiatives focused on evaluating the economic implications of transport systems and policies in New Zealand?
+None
+Seed: 100% of light vehicle fleet being zero-emission by 2035
+Seed: New zealand's commitment to sustainable transport
+Seed: Target for net-zero emissions by 2050
+Seed: Achieving net-zero emissions by 2050
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Goal]-> 100% of light vehicle fleet being zero-emission by 2035 0.936819851398468
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand road safety strategy --[Established by]-> New zealand government 0.8533427715301514
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Developed]-> Various road safety strategies over the years 0.8397526741027832
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Plans to]-> Integrate mobile ticketing applications 0.7852475643157959
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Plans to]-> Incorporate data analytics to improve service delivery and user experience 0.8045276999473572
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Committed to]-> Further enhancing the integrated ticketing system 0.8143261075019836
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Plans to]-> Expand contactless payment options 0.780859112739563
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Set]-> Ambitious targets to increase number of evs on the road 0.8736094236373901
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Implemented]-> Range of policies to promote adoption of alternative energy sources 0.8480570316314697
+[100% of light vehicle fleet being zero-emission by 2035]: Kiwirail group --[Owned by]-> New zealand government 0.8312844038009644
+[100% of light vehicle fleet being zero-emission by 2035]: National land transport fund --[Established by]-> New zealand government 0.8507483005523682
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Proactive]-> Ensuring charging infrastructure 0.8380181193351746
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Proactive]-> Safety standards 0.8202162384986877
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Proactive]-> Mitigate risks 0.8374731540679932
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Proactive]-> Electric vehicles 0.8620268702507019
+[100% of light vehicle fleet being zero-emission by 2035]: Vehicle safety technology --[Promoted by]-> New zealand government 0.8547002077102661
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Proactive]-> Promoting safe use 0.8170776963233948
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Proactive]-> High-voltage systems 0.8201863169670105
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Recognized]-> Importance of enhancing resilience 0.8277595639228821
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Supported]-> Initiatives 0.8546268939971924
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Supported]-> Adoption of sustainable transport technologies 0.880154550075531
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Recognized]-> Importance of transport equity in its transport policies 0.8626805543899536
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Set]-> Ambitious targets 0.8679344654083252
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Recognized]-> Importance of active travel 0.8387016654014587
+[100% of light vehicle fleet being zero-emission by 2035]: Road safety education --[Implemented by]-> New zealand government 0.8293498754501343
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Aims]-> To create regulatory environment 0.8297299146652222
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Aims]-> To foster innovation 0.8378393650054932
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Initiated]-> Review of transport regulations 0.8524254560470581
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Has implemented]-> Educational strategies 0.8271483182907104
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Has set]-> Ambitious targets 0.8679957389831543

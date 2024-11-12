@@ -1,0 +1,36 @@
+Where can data regarding vehicle kilometres travelled (VKT) at a regional level over the past 10 years be found?
+None
+Seed: Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.
+Seed: vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas
+Seed: vehicle kilometres travelled estimates
+Seed: investigating transport companies
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years. --[CONTAINS]-> SHLR worksheet 0.9250043630599976
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: www.nzt a.govt.nz/planning -and-investment/learning- and-resources/transport -data/data- and-tools --[CONTAINS]-> Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years. 0.936613142490387
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: publicly available information --[AVAILABLE_ON]-> www.nzt a.govt.nz/planning -and-investment/learning- and-resources/transport -data/data- and-tools 0.8384032845497131
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand Transport Agency --[PROVIDES]-> vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas 0.832014262676239
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8010350465774536
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7997722625732422
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8070051074028015
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.8053044080734253
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7963529229164124
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.8155789971351624
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.8189699649810791
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.8086901903152466
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8081775307655334
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8059093952178955
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7862952947616577
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8014492988586426
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8181173205375671
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7998992204666138
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8003171682357788
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8153002262115479
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7809377908706665
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7861006855964661
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8136019706726074
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7769047617912292
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.817989706993103
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8017948269844055
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8087448477745056
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7612929344177246
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7918754816055298
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8097357749938965

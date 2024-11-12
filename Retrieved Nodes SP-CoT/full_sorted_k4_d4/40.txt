@@ -1,0 +1,34 @@
+In what year did the legislation overseen by the Transport and Infrastructure Committee in relation to road safety come into effect in New Zealand?
+None
+Seed: Legislative framework for road safety initiatives
+Seed: Significant shift in new zealand's approach to road safety
+Seed: Road safety legislation
+Seed: New zealand's road safety initiatives
+[Legislative framework for road safety initiatives]: Road safety legislation --[Is]-> New zealand 0.9217135310173035
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Influenced]-> New zealand's road safety initiatives 0.891042172908783
+[Legislative framework for road safety initiatives]: New zealand --[Has]-> Road safety initiatives 0.889512300491333
+[Legislative framework for road safety initiatives]: Road safety legislation --[Governed by]-> Land transport act 1998 0.8867605924606323
+[Legislative framework for road safety initiatives]: New zealand transport agency --[Oversees]-> Transport safety 0.8862614631652832
+[Legislative framework for road safety initiatives]: Transport safety regulations --[Governed by]-> New zealand transport agency 0.8862048983573914
+[Legislative framework for road safety initiatives]: New zealand --[Faced]-> Significant challenges related to road safety 0.8858673572540283
+[Significant shift in new zealand's approach to road safety]: Road transport safety --[Governed by]-> Land transport act 1998 0.8750514388084412
+[Significant shift in new zealand's approach to road safety]: Safer journeys strategy --[Marked]-> Significant shift in new zealand's approach to road safety 0.8703483939170837
+[Significant shift in new zealand's approach to road safety]: Road transport safety --[Focus on]-> Safer roads 0.8418130874633789
+[Significant shift in new zealand's approach to road safety]: Road transport safety --[Focus on]-> Safer vehicles 0.8316830396652222
+[Significant shift in new zealand's approach to road safety]: Road transport safety --[Focus on]-> Safer road users 0.8260245323181152
+[Significant shift in new zealand's approach to road safety]: Safer journeys strategy --[Focused on]-> Safer road use 0.8224759101867676
+[Significant shift in new zealand's approach to road safety]: Safer journeys strategy --[Focused on]-> Safer roads and roadsides 0.8182675838470459
+[Road safety legislation]: Road safety legislation --[Is]-> New zealand 0.9217135310173035
+[Road safety legislation]: Vienna convention on road traffic --[Influenced]-> New zealand's road safety initiatives 0.891042172908783
+[Road safety legislation]: New zealand --[Has]-> Road safety initiatives 0.889512300491333
+[Road safety legislation]: New zealand road safety strategy --[Established by]-> New zealand government 0.8869655132293701
+[Road safety legislation]: Road safety legislation --[Governed by]-> Land transport act 1998 0.8867605924606323
+[Road safety legislation]: New zealand transport agency --[Oversees]-> Transport safety 0.8862614631652832
+[Road safety legislation]: Transport safety regulations --[Governed by]-> New zealand transport agency 0.8862048983573914
+[New zealand's road safety initiatives]: Road safety legislation --[Is]-> New zealand 0.9217135310173035
+[New zealand's road safety initiatives]: Vienna convention on road traffic --[Influenced]-> New zealand's road safety initiatives 0.891042172908783
+[New zealand's road safety initiatives]: New zealand --[Has]-> Road safety initiatives 0.889512300491333
+[New zealand's road safety initiatives]: Road safety legislation --[Governed by]-> Land transport act 1998 0.8867605924606323
+[New zealand's road safety initiatives]: New zealand transport agency --[Oversees]-> Transport safety 0.8862614631652832
+[New zealand's road safety initiatives]: Transport safety regulations --[Governed by]-> New zealand transport agency 0.8862048983573914
+[New zealand's road safety initiatives]: New zealand --[Faced]-> Significant challenges related to road safety 0.8858673572540283

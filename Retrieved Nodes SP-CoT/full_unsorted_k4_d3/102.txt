@@ -1,0 +1,36 @@
+Which significant town does the transport project in New Zealand, alongside the city home to the Te Ara I Whiti (Lightpath) project, which has transformed underutilized spaces into vibrant cycling and pedestrian pathways, pass through after Upper Hutt and before reaching Levin?
+None
+Seed: Transport link between wellington and northern regions of north island
+Seed: Addressing transport challenges in auckland
+Seed: New zealand's transport network
+Seed: Cycling infrastructure and public transport initiatives
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Aims to improve]-> Transport link between wellington and northern regions of north island 0.8018946051597595
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Links with]-> State highway 1 0.7962710857391357
+[Transport link between wellington and northern regions of north island]: State highway 1 --[Links]-> Major urban centers 0.7697520852088928
+[Transport link between wellington and northern regions of north island]: State highway 1 --[Runs]-> Length of north island 0.7645403742790222
+[Transport link between wellington and northern regions of north island]: Hamilton --[Served by]-> State highway 1 0.7606967687606812
+[Transport link between wellington and northern regions of north island]: Auckland western ring route --[Serves as]-> State highway 1 0.7865226864814758
+[Transport link between wellington and northern regions of north island]: Auckland western ring route --[Reconnects]-> State highway 1 0.7943735718727112
+[Transport link between wellington and northern regions of north island]: Christchurch --[Served by]-> State highway 1 0.7878878712654114
+[Transport link between wellington and northern regions of north island]: State highway 1 --[Runs]-> Length of the country 0.739115834236145
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Reduces]-> Travel times 0.7893298864364624
+[Transport link between wellington and northern regions of north island]: Auckland western ring route --[Reduces]-> Travel times 0.7954456210136414
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Undergoes]-> Ongoing improvements and upgrades 0.780316948890686
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Protects]-> Local wildlife and habitats 0.7727131247520447
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Passes through]-> Levin 0.8571426272392273
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Connects]-> Wellington 0.7953932285308838
+[Transport link between wellington and northern regions of north island]: Wellington --[Has]-> Bus network covering city and surrounding suburbs 0.7971290349960327
+[Transport link between wellington and northern regions of north island]: Wellington --[Has]-> Various infrastructure improvements 0.7896360754966736
+[Transport link between wellington and northern regions of north island]: Wellington --[Has]-> Invested in its cycling infrastructure 0.801871657371521
+[Transport link between wellington and northern regions of north island]: Wellington --[Has]-> Upgraded train stations 0.7613933682441711
+[Transport link between wellington and northern regions of north island]: Wellington --[Has]-> Improved accessibility 0.7644624710083008
+[Transport link between wellington and northern regions of north island]: Wellington --[Has]-> Comprehensive public transport networks 0.8099656105041504
+[Transport link between wellington and northern regions of north island]: Wellington --[Has]-> Commuter rail services 0.7965668439865112
+[Transport link between wellington and northern regions of north island]: Wellington --[Has]-> Proposals for new lines 0.7654282450675964
+[Transport link between wellington and northern regions of north island]: Wellington --[Has]-> Network of buses 0.7978664636611938
+[Transport link between wellington and northern regions of north island]: Wellington --[Has]-> Initiatives 0.7935527563095093
+[Transport link between wellington and northern regions of north island]: Wellington --[Has]-> Wellington regional rail system 0.785205066204071
+[Transport link between wellington and northern regions of north island]: Wellington --[Has]-> Extensive road network 0.8127774596214294
+[Transport link between wellington and northern regions of north island]: Wellington --[Has]-> Metlink 0.781491219997406
+[Transport link between wellington and northern regions of north island]: Wellington --[Has]-> Numerous tunnels and bridges 0.80126953125
+[Transport link between wellington and northern regions of north island]: Wellington --[Has]-> Iconic wellington urban motorway 0.8012653589248657

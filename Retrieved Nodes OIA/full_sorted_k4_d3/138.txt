@@ -1,0 +1,27 @@
+Why were the amounts of the payments made to WGP withheld?
+None
+Seed: reason for withholding
+Seed: amounts of payments
+Seed: Some information has been withheld under section 9(2)(f)(iv)
+Seed: Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)
+[reason for withholding]: Prolongation Costs --[INCURRED]-> WGP 0.8777604699134827
+[reason for withholding]: Waka Kotahi --[WITHHOLDS]-> amounts of payments 0.8500487804412842
+[reason for withholding]: New Zealand Transport Agency --[PROVIDES]-> reason for withholding 0.8481088876724243
+[reason for withholding]: information --[WITHHELD]-> public interest 0.8306711912155151
+[reason for withholding]: New Zealand Transport Agency --[PROVIDES]-> withheld information 0.8297014236450195
+[reason for withholding]: WSP --[ENGAGED_BY]-> New Zealand Transport Agency 0.8276292085647583
+[reason for withholding]: WSP --[COST]-> $464,106 0.8236058950424194
+[amounts of payments]: Waka Kotahi --[WITHHOLDS]-> amounts of payments 0.8500487804412842
+[amounts of payments]: New Zealand Transport Agency --[PROVIDES]-> reason for withholding 0.8481088876724243
+[amounts of payments]: information --[WITHHELD]-> public interest 0.8306711912155151
+[amounts of payments]: New Zealand Transport Agency --[PROVIDES]-> withheld information 0.8297014236450195
+[amounts of payments]: WSP --[ENGAGED_BY]-> New Zealand Transport Agency 0.8276292085647583
+[amounts of payments]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.8208581209182739
+[amounts of payments]: New Zealand Transport Agency --[FALLS_IN_SCOPE]-> WK Exec summary of the TG claim for review 0.8206197023391724
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[IS]-> Some information has been withheld under section 9(2)(f)(iv) 0.8161119222640991
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[IS]-> NTS rollout timeline 0.7540416717529297
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[DATE]-> 24 April 2024 0.7464724183082581
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[IS]-> Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv) 0.809429943561554
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[IS]-> Transport stakeholders meeting 0.7607083916664124
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4449 --[DATE]-> 17 April 2024 0.746710479259491
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[DATE]-> 17 April 2024 0.7456591129302979

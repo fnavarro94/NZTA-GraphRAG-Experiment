@@ -1,0 +1,36 @@
+What was the total spending on the Let’s Get Wellington Moving Programme from January to June 2020?
+None
+Seed: itemised list of all Let’s Get Wellington Moving spending in 2020 to date
+Seed: Let’s Get Wellington Moving Programme
+Seed: bid for NZ Transport Agency funding
+Seed: update on budget and costs
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Joel MacManus --[ITEMISED]-> itemised list of all Let’s Get Wellington Moving spending in 2020 to date 0.8854416608810425
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Joel MacManus --[EMAIL]-> joel.macmanus@stuff.co.nz 0.751139223575592
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Joel MacManus --[REQUEST]-> Request made under the Official Information Act 1982 0.7201310396194458
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Request made under the Official Information Act 1982 --[REQUEST_DATE]-> 30 October 2018 0.7830871343612671
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Request made under the Official Information Act 1982 --[REQUESTED_BY]-> Thomas Coughlan 0.7474958300590515
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Thomas Coughlan --[REQUESTS]-> information under the Official Information Act 1982 0.7372913360595703
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Joel MacManus --[REQUESTED]-> information under the Official Information Act 1982 0.7029175162315369
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: information under the Official Information Act 1982 --[REGULATED_BY]-> Official Information Act 1982 0.7196584939956665
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Cherie Howie --[REQUESTS]-> information under the Official Information Act 1982 0.7127488851547241
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Sam Kelway --[REQUESTS]-> information under the Official Information Act 1982 0.7349052429199219
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Conan Young --[INQUIRES]-> information under the Official Information Act 1982 0.7051519155502319
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Conan Young --[REQUESTS]-> information under the Official Information Act 1982 0.7116371393203735
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Phil Pennington --[REQUESTS]-> information under the Official Information Act 1982 0.7373524308204651
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Jordan Bond --[REQUESTS]-> information under the Official Information Act 1982 0.7256307601928711
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Charlie Mitchell --[REQUESTS]-> information under the Official Information Act 1982 0.7334856986999512
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: New Zealand Transport Agency --[PROVIDES]-> information under the Official Information Act 1982 0.7670517563819885
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Hamish Cardwell --[REQUESTED]-> information under the Official Information Act 1982 0.7474637031555176
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Jono Galuszka --[REQUESTS]-> information under the Official Information Act 1982 0.7248713970184326
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Emma Hatton --[REQUESTS]-> information under the Official Information Act 1982 0.7342795133590698
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: information under the Official Information Act 1982 --[ASSOCIATED_WITH]-> email of 20 October 2023 0.7558334469795227
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Oli Lewis --[REQUESTED]-> information under the Official Information Act 1982 0.725483775138855
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Request made under the Official Information Act 1982 --[ASSOCIATED_WITH]-> information under the Official Information Act 1982 0.7449944019317627
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Request made under the Official Information Act 1982 --[REQUESTED]-> information under the Official Information Act 1982 0.7412897348403931
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: information under the Official Information Act 1982 --[PROVIDED]-> email of 20 October 2023 0.750328004360199
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: NZ Transport Agency --[PROVIDES]-> information under the Official Information Act 1982 0.7643359899520874
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Debrin Foxcroft --[REQUESTS]-> information under the Official Information Act 1982 0.7145726680755615
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Newsroom --[EMPLOYS]-> Thomas Coughlan 0.7127474546432495
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Thomas Coughlan --[EMPLOYER]-> Newsroom Pro 0.7432304620742798
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Newsroom Pro --[LOCATED_IN]-> Parliamentary Press Gallery 0.7382739782333374
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Thomas Coughlan --[EMAIL]-> Thomas.Coughlan@newsroom.co.nz 0.794832706451416

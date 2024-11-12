@@ -1,0 +1,10 @@
+Who operates the rail network in the country known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, and is responsible for the term that describes the regular activities performed to keep roads safe and functional, including vegetation control, litter removal, and drainage maintenance?
+None
+Seed: Significant role in planning and management of transport infrastructure and services
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+Seed: Critical for freight and passenger movement
+Seed: Critical component of new zealand's transport strategy
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Plays]-> Significant role in planning and management of transport infrastructure and services 0.8216127753257751
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Plays]-> Significant role in shaping transport infrastructure and policy in new zealand 0.8073991537094116
+[Critical for freight and passenger movement]: North island main trunk railway --[Is]-> Critical for freight and passenger movement 0.8133521676063538
+[Critical component of new zealand's transport strategy]: Road safety education --[Is]-> Critical component of new zealand's transport strategy 0.8174973726272583

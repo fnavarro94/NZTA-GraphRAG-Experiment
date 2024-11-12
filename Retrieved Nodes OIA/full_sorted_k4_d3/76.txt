@@ -1,0 +1,27 @@
+Why was the information related to the RFP submissions and preferred supplier selection withheld?
+None
+Seed: Some information has been withheld under section 9(2)(f)(iv)
+Seed: Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)
+Seed: decision to withhold information
+Seed: withheld
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[IS]-> Some information has been withheld under section 9(2)(f)(iv) 0.8323378562927246
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[IS]-> NTS rollout timeline 0.7705423831939697
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[DATE]-> 24 April 2024 0.7577831745147705
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[IS]-> Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv) 0.8329633474349976
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[IS]-> Transport stakeholders meeting 0.793108344078064
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4449 --[DATE]-> 17 April 2024 0.7684364914894104
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[DATE]-> 17 April 2024 0.7672479152679443
+[decision to withhold information]: Ombudsman --[REVIEW]-> withheld information 0.854758620262146
+[decision to withhold information]: New Zealand Transport Agency --[PROVIDES]-> withheld information 0.843651294708252
+[decision to withhold information]: Ombudsman --[REVIEW]-> decision to withhold information 0.8423203229904175
+[decision to withhold information]: withheld information --[PROTECTED_BY]-> section 9(2)(a) 0.8367714881896973
+[decision to withhold information]: New Zealand Transport Agency --[POLICY]-> publish response on website with personal details removed 0.8318933844566345
+[decision to withhold information]: New Zealand Transport Agency --[WITHHOLDS]-> Information 0.8295751810073853
+[decision to withhold information]: New Zealand Transport Agency --[WITHHOLDS]-> documents related to commercial negotiations 0.8275212645530701
+[withheld]: information --[WITHHELD]-> public interest 0.8481772541999817
+[withheld]: New Zealand Transport Agency --[PROVIDES]-> withheld information 0.843651294708252
+[withheld]: Transport Agency --[WITHHOLDS]-> information 0.8347058892250061
+[withheld]: New Zealand Transport Agency --[POLICY]-> publish response on website with personal details removed 0.8318933844566345
+[withheld]: New Zealand Transport Agency --[WITHHOLDS]-> Information 0.8295751810073853
+[withheld]: withholding information --[BY]-> NZTA 0.8280624747276306
+[withheld]: New Zealand Transport Agency --[WITHHOLDS]-> documents related to commercial negotiations 0.8275212645530701

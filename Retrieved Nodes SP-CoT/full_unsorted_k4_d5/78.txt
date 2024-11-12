@@ -1,0 +1,36 @@
+In what year did the establishment become established?
+None
+Seed: Commenced in 1840
+Seed: Early european settlement in 19th century
+Seed: Establishment of national land transport fund
+Seed: In early european settlement
+[Commenced in 1840]: Auckland ferry network --[First regular ferry service]-> Commenced in 1840 0.7781304121017456
+[Commenced in 1840]: Auckland ferry network --[Operated by]-> Auckland transport 0.7357154488563538
+[Commenced in 1840]: Auckland transport --[Has]-> Vision to support growth 0.7141607999801636
+[Commenced in 1840]: Auckland transport --[Has]-> Vision to minimize environmental impact 0.680324137210846
+[Commenced in 1840]: Auckland transport --[Has]-> Vision to create efficient transport system 0.7200663685798645
+[Commenced in 1840]: Auckland transport --[Has]-> Vision to create integrated transport system 0.7203311324119568
+[Commenced in 1840]: Auckland transport --[Has]-> Long-term vision 0.7202576398849487
+[Commenced in 1840]: New zealand transport strategy --[Outlines]-> Long-term vision 0.7095997929573059
+[Commenced in 1840]: New zealand transport strategy --[Emphasizes]-> Multimodal approach 0.7090113162994385
+[Commenced in 1840]: New zealand transport strategy --[Promotes]-> Public transport 0.70820152759552
+[Commenced in 1840]: New zealand transport strategy --[Aims]-> Sustainable transport network 0.6982694268226624
+[Commenced in 1840]: New zealand transport strategy --[Is]-> Comprehensive framework 0.7133514881134033
+[Commenced in 1840]: New zealand transport strategy --[Established]-> 2008 0.7524940967559814
+[Commenced in 1840]: New zealand transport strategy --[Aligned with]-> Government objectives 0.704890251159668
+[Commenced in 1840]: New zealand transport strategy --[Promotes]-> Active transport options 0.7116986513137817
+[Commenced in 1840]: New zealand transport strategy --[Emphasizes]-> Integrating transport planning with land use and environmental considerations 0.699307382106781
+[Commenced in 1840]: New zealand transport strategy --[Outlines]-> Priorities for transport investment 0.6978404521942139
+[Commenced in 1840]: New zealand transport strategy --[Emphasizes]-> Need for more integrated and sustainable transport system 0.693323016166687
+[Commenced in 1840]: New zealand transport strategy --[Emphasizes]-> Importance of community engagement 0.729102373123169
+[Commenced in 1840]: Auckland transport --[Has]-> Vision to create safe transport system 0.7050787806510925
+[Commenced in 1840]: Auckland transport --[Focused on]-> Promoting active transport modes 0.7295622229576111
+[Commenced in 1840]: Auckland transport --[Focused on]-> Promoting cycling 0.7070556879043579
+[Commenced in 1840]: Auckland transport --[Focused on]-> Promoting walking 0.7121104001998901
+[Commenced in 1840]: Auckland transport --[Is]-> Primary agency 0.7254270911216736
+[Commenced in 1840]: Waka kotahi --[Is]-> Primary agency 0.7136353850364685
+[Commenced in 1840]: Waka kotahi --[Has]-> Road to zero  strategy 0.7003635764122009
+[Commenced in 1840]: Waka kotahi --[Is]-> Government agency 0.7081555128097534
+[Commenced in 1840]: Waka kotahi --[Responsible for]-> Funding 0.7324921488761902
+[Commenced in 1840]: Waka kotahi --[Responsible for]-> Management 0.7233425378799438
+[Commenced in 1840]: Waka kotahi --[Responsible for]-> Planning 0.7248839735984802

@@ -1,0 +1,23 @@
+How many MR1 and MR1B transactions were completed online between 1 October 2022 and 30 September 2023?
+None
+Seed: MR1/B transactions data
+Seed: statistics for MR1/B transactions
+Seed: 1 October 2022 to 30 September 2023
+Seed: MR1/B transactions
+[MR1/B transactions data]: Motor Vehicle Register --[CONTAINS]-> MR1/B transactions data 0.8250961303710938
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[PROVIDES]-> statistics for MR1/B transactions 0.8297469615936279
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[RESPONSE]-> Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below. 0.7946664094924927
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[ON_TRACK]-> transition to a fully electric vehicle fleet by 2025 0.7903363108634949
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.7818395495414734
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[RESPONDED]-> email 0.7788493037223816
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[EMAIL]-> georgina.campbell@nzme.co.nz 0.7788211703300476
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[PROVIDES]-> response date 0.7785948514938354
+[1 October 2022 to 30 September 2023]: transactions --[OCCURRED]-> 1 October 2022 to 30 September 2023 0.9104255437850952
+[1 October 2022 to 30 September 2023]: response letter --[CONTAINS]-> transactions 0.787542998790741
+[MR1/B transactions]: MR1/B transactions --[TOTAL]-> 5,496,319 0.8856984972953796
+[MR1/B transactions]: MR1/B transactions --[COMPLETED]-> online 0.8824238181114197
+[MR1/B transactions]: MR1/B transactions --[COMPLETED]-> agent 0.8389739394187927
+[MR1/B transactions]: online --[RELATES_TO]-> https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c 0.7833598852157593
+[MR1/B transactions]: https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf --[ACCESSIBLE]-> online 0.767734169960022
+[MR1/B transactions]: online --[PROVIDES_ACCESS]-> Transport Agency 0.7670663595199585
+[MR1/B transactions]: National Maintenance Forward Work Map --[AVAILABLE]-> online 0.7659264802932739

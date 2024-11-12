@@ -1,0 +1,34 @@
+Which city in the country where the program, established in 2010, requires periodic testing of older vehicles to ensure they meet emissions standards throughout their operational life, utilizes the Snapper card as part of its initiative that has improved the reliability of public transport services and allowed users to plan their journeys more effectively?
+None
+Seed: Need for more integrated and sustainable transport system
+Seed: Snapper card
+Seed: Growing emphasis on improving transport compliance through technology
+Seed: Solution to promote sustainable transport options in new zealand
+[Need for more integrated and sustainable transport system]: Snapper card --[Allows]-> Passengers to load funds and tap on and off at various transport services 0.8730857372283936
+[Need for more integrated and sustainable transport system]: Snapper card --[Used in]-> Wellington 0.8572383522987366
+[Need for more integrated and sustainable transport system]: Snapper card --[Simplifies]-> Fare payment 0.8472799062728882
+[Need for more integrated and sustainable transport system]: Vehicle exhaust emissions testing programme --[Established]-> 2010 0.8387662172317505
+[Need for more integrated and sustainable transport system]: Sustainable urban transport --[Key component]-> Atap 0.8385049104690552
+[Need for more integrated and sustainable transport system]: Sustainable urban transport --[Implemented]-> Initiatives 0.8384825587272644
+[Need for more integrated and sustainable transport system]: Transport sector --[Uses]-> Gps technology 0.8316177129745483
+[Snapper card]: Snapper card --[Allows]-> Passengers to load funds and tap on and off at various transport services 0.8730857372283936
+[Snapper card]: Snapper card --[Used in]-> Wellington 0.8572383522987366
+[Snapper card]: Snapper card --[Simplifies]-> Fare payment 0.8472799062728882
+[Snapper card]: Sustainable urban transport --[Key component]-> Atap 0.8385049104690552
+[Snapper card]: Sustainable urban transport --[Implemented]-> Initiatives 0.8384825587272644
+[Snapper card]: Integrated ticketing system --[Driven by]-> Need to encourage greater use of sustainable transport options 0.8351708650588989
+[Snapper card]: Transport sector --[Uses]-> Gps technology 0.8316177129745483
+[Growing emphasis on improving transport compliance through technology]: Snapper card --[Allows]-> Passengers to load funds and tap on and off at various transport services 0.8730857372283936
+[Growing emphasis on improving transport compliance through technology]: Snapper card --[Used in]-> Wellington 0.8572383522987366
+[Growing emphasis on improving transport compliance through technology]: Snapper card --[Simplifies]-> Fare payment 0.8472799062728882
+[Growing emphasis on improving transport compliance through technology]: Vehicle exhaust emissions testing programme --[Established]-> 2010 0.8387662172317505
+[Growing emphasis on improving transport compliance through technology]: Sustainable urban transport --[Key component]-> Atap 0.8385049104690552
+[Growing emphasis on improving transport compliance through technology]: Sustainable urban transport --[Implemented]-> Initiatives 0.8384825587272644
+[Growing emphasis on improving transport compliance through technology]: Integrated ticketing system --[Driven by]-> Need to encourage greater use of sustainable transport options 0.8351708650588989
+[Solution to promote sustainable transport options in new zealand]: Snapper card --[Used in]-> Wellington 0.8572383522987366
+[Solution to promote sustainable transport options in new zealand]: Sustainable urban transport --[Key component]-> Atap 0.8385049104690552
+[Solution to promote sustainable transport options in new zealand]: Sustainable urban transport --[Implemented]-> Initiatives 0.8384825587272644
+[Solution to promote sustainable transport options in new zealand]: Transport sector --[Uses]-> Gps technology 0.8316177129745483
+[Solution to promote sustainable transport options in new zealand]: Sustainable urban transport --[Aimed at]-> Environmentally friendly 0.8310456275939941
+[Solution to promote sustainable transport options in new zealand]: Sustainable urban transport --[Key component]-> Ongoing projects 0.8307799100875854
+[Solution to promote sustainable transport options in new zealand]: Sustainable urban transport --[Key component]-> Encouraging residents 0.8304802775382996

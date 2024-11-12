@@ -1,0 +1,34 @@
+Which organizations have been contracted to provide advice on the long tunnel option for Wellington?
+None
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: proposed long tunnel option for Wellington
+Seed: information on LGWM construction contracts
+Seed: bid for NZ Transport Agency funding
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) --[CONTRACTS]-> consultants 0.9082121849060059
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUESTS]-> detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) 0.8865446448326111
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[RESPONDS_TO]-> Request made under the Official Information Act 1982 0.8206360340118408
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[RESPONDS]-> Request made under the Official Information Act 1982 0.8206182718276978
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUESTS]-> New Zealand Transport Agency 0.8198641538619995
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency Waka Kotahi --[ENGAGES]-> consultants 0.8194985389709473
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: REF: OIA -13915 --[ASSOCIATED_WITH]-> Request made under the Official Information Act 1982 0.7931197881698608
+[proposed long tunnel option for Wellington]: technical feasibility and cost --[FOR]-> proposed long tunnel option for Wellington 0.9153547883033752
+[proposed long tunnel option for Wellington]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.9075899124145508
+[proposed long tunnel option for Wellington]: Wellington --[HAS]-> tunnel 0.8734405040740967
+[proposed long tunnel option for Wellington]: New Zealand Transport Agency --[BASED]-> Wellington 0.8617188334465027
+[proposed long tunnel option for Wellington]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8516044616699219
+[proposed long tunnel option for Wellington]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.8514842391014099
+[proposed long tunnel option for Wellington]: NZ Transport Agency --[LOCATED]-> Wellington 0.8496461510658264
+[information on LGWM construction contracts]: Wellington City Council --[COLLABORATES_WITH]-> Waka Kotahi NZ Transport Agency 0.8344840407371521
+[information on LGWM construction contracts]: Wellington City Council --[TRANSFERS_REQUEST]-> Waka Kotahi NZ Transport Agency 0.8312296271324158
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.8253099918365479
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.8194462656974792
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.8187171220779419
+[information on LGWM construction contracts]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.8159568309783936
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> list of LGWM construction contracts 0.8139280080795288
+[bid for NZ Transport Agency funding]: Auckland Transport --[SUBMITS]-> bid for NZ Transport Agency funding 0.8363803625106812
+[bid for NZ Transport Agency funding]: Auckland Transport --[PROVIDES]-> funding 0.8314250111579895
+[bid for NZ Transport Agency funding]: Auckland Transport --[CONTACT]-> officialinformation@at.govt.nz 0.8241140842437744
+[bid for NZ Transport Agency funding]: Auckland Transport --[MANAGES]-> roads 0.8226686716079712
+[bid for NZ Transport Agency funding]: Waka Kotahi --[COLLABORATES_WITH]-> Auckland Transport 0.8193076848983765
+[bid for NZ Transport Agency funding]: public transport --[PROVIDED_BY]-> Auckland Transport 0.8139074444770813
+[bid for NZ Transport Agency funding]: Auckland Transport --[CONTRIBUTED]-> No 0.8026191592216492

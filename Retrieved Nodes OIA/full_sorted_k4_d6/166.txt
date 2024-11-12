@@ -1,0 +1,34 @@
+What are the main considerations for regional fare policies according to Waka Kotahi?
+None
+Seed: wider impacts of fare policy on people and cities
+Seed: review of public transport fare policy
+Seed: fare policy guidance
+Seed: fares play an important role in helping cover the cost of public transport within available budgets
+[wider impacts of fare policy on people and cities]: underlying principles of the current policy --[CONTRIBUTES]-> wider objectives in Regional Public Transport Plans 0.8513203859329224
+[wider impacts of fare policy on people and cities]: wider impacts of fare policy on people and cities --[INCLUCES]-> national farebox recovery target 0.844484806060791
+[wider impacts of fare policy on people and cities]: public transport affordability --[RELATES_TO]-> wider impacts of fare policy on people and cities 0.8432769179344177
+[wider impacts of fare policy on people and cities]: fares play an important role in helping cover the cost of public transport within available budgets --[CONTRIBUTES]-> public transport budgets 0.8408769965171814
+[wider impacts of fare policy on people and cities]: public transport fare policy --[SUPPORTS]-> mode shift 0.8382638096809387
+[wider impacts of fare policy on people and cities]: government's transport priorities --[INCLUDES]-> fares play an important role in helping cover the cost of public transport within available budgets 0.8362239003181458
+[wider impacts of fare policy on people and cities]: wider objectives in Regional Public Transport Plans --[CONTRIBUTES]-> government's transport priorities 0.8334429264068604
+[review of public transport fare policy]: Waka Kotahi --[UPDATE]-> fare policy guidance 0.9201019406318665
+[review of public transport fare policy]: Regional Public Transport Plans --[DEVELOPED_BY]-> Waka Kotahi 0.9160780310630798
+[review of public transport fare policy]: public transport fare policy review --[CONDUCTED_BY]-> Waka Kotahi NZ Transport Agency 0.9078320860862732
+[review of public transport fare policy]: New Zealand Transport Agency --[POLICY]-> Waka Kotahi policy 0.9035283923149109
+[review of public transport fare policy]: Waka Kotahi --[PARTNER]-> Regional Public Transport Plans 0.8987104296684265
+[review of public transport fare policy]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> public transport fare policy review 0.8981329202651978
+[review of public transport fare policy]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.8963372707366943
+[fare policy guidance]: Waka Kotahi --[UPDATE]-> fare policy guidance 0.9201019406318665
+[fare policy guidance]: Regional Public Transport Plans --[DEVELOPED_BY]-> Waka Kotahi 0.9160780310630798
+[fare policy guidance]: public transport fare policy review --[CONDUCTED_BY]-> Waka Kotahi NZ Transport Agency 0.9078320860862732
+[fare policy guidance]: New Zealand Transport Agency --[POLICY]-> Waka Kotahi policy 0.9035283923149109
+[fare policy guidance]: Waka Kotahi --[PARTNER]-> Regional Public Transport Plans 0.8987104296684265
+[fare policy guidance]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> public transport fare policy review 0.8981329202651978
+[fare policy guidance]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.8963372707366943
+[fares play an important role in helping cover the cost of public transport within available budgets]: underlying principles of the current policy --[CONTRIBUTES]-> wider objectives in Regional Public Transport Plans 0.8513203859329224
+[fares play an important role in helping cover the cost of public transport within available budgets]: wider impacts of fare policy on people and cities --[INCLUCES]-> national farebox recovery target 0.844484806060791
+[fares play an important role in helping cover the cost of public transport within available budgets]: public transport affordability --[RELATES_TO]-> wider impacts of fare policy on people and cities 0.8432769179344177
+[fares play an important role in helping cover the cost of public transport within available budgets]: fares play an important role in helping cover the cost of public transport within available budgets --[CONTRIBUTES]-> public transport budgets 0.8408769965171814
+[fares play an important role in helping cover the cost of public transport within available budgets]: government's transport priorities --[INCLUDES]-> fares play an important role in helping cover the cost of public transport within available budgets 0.8362239003181458
+[fares play an important role in helping cover the cost of public transport within available budgets]: wider objectives in Regional Public Transport Plans --[CONTRIBUTES]-> government's transport priorities 0.8334429264068604
+[fares play an important role in helping cover the cost of public transport within available budgets]: manage fare revenue and public transport budgets within current funding allocations --[REQUIRES]-> standard cost scope adjustment process 0.8270371556282043

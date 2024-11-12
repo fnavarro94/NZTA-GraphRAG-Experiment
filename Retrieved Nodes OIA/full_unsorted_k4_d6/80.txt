@@ -1,0 +1,36 @@
+Why was the economic cost of the road closure and additional transport emissions not provided?
+None
+Seed: information on additional cost and emissions
+Seed: reducing business travel emissions
+Seed: wider impacts of fare policy on people and cities
+Seed: funding for road maintenance
+[information on additional cost and emissions]: Waka Kotahi --[REFUSES]-> information on additional cost and emissions 0.8260955810546875
+[information on additional cost and emissions]: Response --[CONTAINS]-> Waka Kotahi 0.7398557662963867
+[information on additional cost and emissions]: Waka Kotahi --[PUBLISHES]-> Response 0.727115273475647
+[information on additional cost and emissions]: response --[CONTAINS]-> Waka Kotahi 0.7243475914001465
+[information on additional cost and emissions]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.7879305481910706
+[information on additional cost and emissions]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7539975643157959
+[information on additional cost and emissions]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.7688603401184082
+[information on additional cost and emissions]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.7694674730300903
+[information on additional cost and emissions]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> list of LGWM construction contracts 0.7493260502815247
+[information on additional cost and emissions]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> public transport fare policy review 0.7610241174697876
+[information on additional cost and emissions]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.7702017426490784
+[information on additional cost and emissions]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.7646280527114868
+[information on additional cost and emissions]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.7702032327651978
+[information on additional cost and emissions]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.7737529873847961
+[information on additional cost and emissions]: Waka Kotahi NZ Transport Agency --[FAX]-> F 64 4 894 6100 0.7517310380935669
+[information on additional cost and emissions]: Andrew Knackstedt --[CONTACT]-> Waka Kotahi NZ Transport Agency 0.7710416913032532
+[information on additional cost and emissions]: Waka Kotahi NZ Transport Agency --[CONTACT]-> T 64 4 894 5400 0.7522580027580261
+[information on additional cost and emissions]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7494008541107178
+[information on additional cost and emissions]: Chris Marshall --[REQUESTS]-> Waka Kotahi NZ Transport Agency 0.7654556035995483
+[information on additional cost and emissions]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.7792561650276184
+[information on additional cost and emissions]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.753767192363739
+[information on additional cost and emissions]: Waka Kotahi NZ Transport Agency --[ANNOUNCED]-> Road to Zero 0.7837157845497131
+[information on additional cost and emissions]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.7851571440696716
+[information on additional cost and emissions]: Road to Zero --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8106950521469116
+[information on additional cost and emissions]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.7712893486022949
+[information on additional cost and emissions]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7580984830856323
+[information on additional cost and emissions]: New Zealand --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7562615275382996
+[information on additional cost and emissions]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.7534779906272888
+[information on additional cost and emissions]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7506565451622009
+[information on additional cost and emissions]: www.nzta.govt.nz --[OF]-> Waka Kotahi NZ Transport Agency 0.7760931253433228

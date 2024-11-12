@@ -1,0 +1,36 @@
+Which notable transport project in New Zealand, alongside the City Rail Link, has undergone the process with the acronym used in New Zealand to assess the environmental impacts of transport projects, and what city is home to the Te Ara I Whiti (Lightpath) project, which has transformed underutilized spaces into vibrant cycling and pedestrian pathways?
+None
+Seed: Addressing transport challenges in auckland
+Seed: Cycling infrastructure and public transport initiatives
+Seed: Transport link between wellington and northern regions of north island
+Seed: New zealand's transport network
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Addressing transport challenges in auckland 0.8395455479621887
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On enhancing road infrastructure 0.8425058126449585
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Outlines]-> Strategic approach to address challenges 0.8272256851196289
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On improving public transport 0.83375483751297
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On promoting sustainable transport solutions 0.8473970890045166
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Promote sustainable transport options 0.8450401425361633
+[Addressing transport challenges in auckland]: Walking school bus --[Aligns with]-> Promote sustainable transport options 0.7842406034469604
+[Addressing transport challenges in auckland]: Walking school bus --[Originated in]-> New zealand 0.8156397342681885
+[Addressing transport challenges in auckland]: Walking school bus --[Involves]-> Supervision of adult volunteers 0.7149710655212402
+[Addressing transport challenges in auckland]: Walking school bus --[Aligns with]-> New zealand transport agency's objectives 0.8117864727973938
+[Addressing transport challenges in auckland]: Walking school bus --[Fosters]-> Road safety awareness 0.757164478302002
+[Addressing transport challenges in auckland]: Walking school bus --[Fosters]-> Community engagement 0.7614362835884094
+[Addressing transport challenges in auckland]: Walking school bus --[Involves]-> Group of children walking to school 0.7193677425384521
+[Addressing transport challenges in auckland]: Walking school bus --[Aligns with]-> Improve health and well-being of children 0.7493805289268494
+[Addressing transport challenges in auckland]: Walking school bus --[Is]-> Innovative transport initiative 0.7915898561477661
+[Addressing transport challenges in auckland]: Walking school bus --[Originated in]-> Late 1990s 0.7659152150154114
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Reduce congestion 0.8199760317802429
+[Addressing transport challenges in auckland]: Transmission gully motorway --[Designed to]-> Reduce congestion 0.7592612504959106
+[Addressing transport challenges in auckland]: Wellington northern corridor --[Features]-> Transmission gully motorway 0.7931139469146729
+[Addressing transport challenges in auckland]: Transmission gully motorway --[Designed to]-> Improve travel times 0.767905056476593
+[Addressing transport challenges in auckland]: Transport system optimization --[Aims to]-> Reduce congestion 0.7433488965034485
+[Addressing transport challenges in auckland]: Transport system optimization --[Is]-> Strategic approach 0.7511225938796997
+[Addressing transport challenges in auckland]: Transport system optimization --[In]-> New zealand 0.8058871626853943
+[Addressing transport challenges in auckland]: Transport system optimization --[Aims to]-> Improve connectivity 0.7541429400444031
+[Addressing transport challenges in auckland]: Transport system optimization --[Encompasses]-> Various modes of transport 0.749015212059021
+[Addressing transport challenges in auckland]: Transport system optimization --[Aims to]-> Minimize environmental impacts 0.7668439149856567
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Is]-> Strategic initiative 0.8459466099739075
+[Addressing transport challenges in auckland]: Auckland cycling network plan --[Is]-> Strategic initiative 0.8134286403656006
+[Addressing transport challenges in auckland]: Auckland cycling network plan --[Seeks to]-> Create cycling network 0.7957150936126709
+[Addressing transport challenges in auckland]: Auckland cycling network plan --[Developed by]-> Auckland transport 0.821878969669342

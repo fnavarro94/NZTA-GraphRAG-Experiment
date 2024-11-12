@@ -1,0 +1,11 @@
+What was the total cost for the SH2 Hebden Crescent / Liverton Road intersection project?
+None
+Seed: Request for information on Hornby Intersection improvements
+Seed: one crossing near SH2/Lyon Street/Birdwood Street intersection
+Seed: report on the impacts of the Fare Recovery Ratio
+Seed: cost breakdown for Greater Christchurch Mass Rapid Transit
+[Request for information on Hornby Intersection improvements]: Request for information on Hornby Intersection improvements --[REQUESTS]-> New Zealand Transport Agency 0.8294209241867065
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[RESPONDS_TO]-> Request for information on Hornby Intersection improvements 0.8174709677696228
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: Featherston --[RAISED_CROSSINGS]-> one crossing near SH2/Lyon Street/Birdwood Street intersection 0.824114203453064
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[PRODUCES]-> report on the impacts of the Fare Recovery Ratio 0.7849465608596802
+[cost breakdown for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[PROVIDES]-> cost breakdown for Greater Christchurch Mass Rapid Transit 0.79380863904953

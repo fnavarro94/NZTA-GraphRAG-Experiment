@@ -1,0 +1,36 @@
+How is the NZTA engaging with regional councils regarding the Choice application?
+None
+Seed: Regional Investment Opportunities
+Seed: wider objectives in Regional Public Transport Plans
+Seed: does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?
+Seed: regional council readiness
+[Regional Investment Opportunities]: Regional Investment Opportunities --[FUNDED]-> project artworks 0.8042013049125671
+[Regional Investment Opportunities]: project artworks --[PART_OF]-> Regional Investment Opportunities 0.8083450794219971
+[Regional Investment Opportunities]: Ministry of Business, Innovation and Employment --[ADMINISTERS]-> Regional Investment Opportunities 0.8345450758934021
+[Regional Investment Opportunities]: Kānoa --[ADMINISTERS]-> Regional Investment Opportunities 0.8156194090843201
+[wider objectives in Regional Public Transport Plans]: underlying principles of the current policy --[CONTRIBUTES]-> wider objectives in Regional Public Transport Plans 0.8158113956451416
+[wider objectives in Regional Public Transport Plans]: national farebox recovery target --[REPLACED_BY]-> underlying principles of the current policy 0.7819162011146545
+[wider objectives in Regional Public Transport Plans]: 2018-21 NLTP --[APPLIES]-> national farebox recovery target 0.7692628502845764
+[wider objectives in Regional Public Transport Plans]: national farebox recovery target --[REPLACED]-> 2018-21 NLTP 0.7525878548622131
+[wider objectives in Regional Public Transport Plans]: national farebox recovery target --[INTRODUCED]-> 2010 0.7602183818817139
+[wider objectives in Regional Public Transport Plans]: 2010 --[APPLIES]-> national farebox recovery target 0.7739830017089844
+[wider objectives in Regional Public Transport Plans]: wider impacts of fare policy on people and cities --[INCLUCES]-> national farebox recovery target 0.7872493267059326
+[wider objectives in Regional Public Transport Plans]: public transport affordability --[RELATES_TO]-> wider impacts of fare policy on people and cities 0.7832124829292297
+[wider objectives in Regional Public Transport Plans]: wider objectives in Regional Public Transport Plans --[CONTRIBUTES]-> government's transport priorities 0.8225748538970947
+[wider objectives in Regional Public Transport Plans]: government's transport priorities --[INCLUDES]-> fares play an important role in helping cover the cost of public transport within available budgets 0.7853552103042603
+[wider objectives in Regional Public Transport Plans]: fares play an important role in helping cover the cost of public transport within available budgets --[CONTRIBUTES]-> public transport budgets 0.7794864773750305
+[wider objectives in Regional Public Transport Plans]: public transport budgets --[MANAGED_BY]-> councils 0.8059189319610596
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: Amanda Cropp --[REQUESTED]-> does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it? 0.9094824194908142
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: Amanda Cropp --[IS]-> Chief 0.7325439453125
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: Amanda Cropp --[ASSOCIATED]-> oia-4596 0.7447028160095215
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: NZ Transport Agency --[ASSOCIATED]-> oia-4596 0.8403398990631104
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: NZ Transport Agency --[ASSOCIATED]-> Andrew Knackstedt 0.7951279878616333
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: Andrew Knackstedt --[ASSOCIATED]-> NZ Transport Agency 0.7959156036376953
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: NZ Transport Agency --[ANTICIPATE]-> work on the payment option 0.8525387048721313
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: oia-4596 --[ASSOCIATED]-> NZ Transport Agency 0.8365147113800049
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: NZ Transport Agency --[REVIEWS]-> risk rating 0.826401948928833
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: risk rating --[REVIEWED_BY]-> NZ Transport Agency 0.8232378959655762
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: NZ Transport Agency --[RESPONSIBLE_FOR]-> risk rating 0.811424970626831
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: NZ Transport Agency --[CONDUCTS]-> vehicle inspection 0.8083550333976746
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: vehicle inspection --[CONDUCTED_BY]-> NZ Transport Agency 0.8140448331832886
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: risk rating --[ASSIGNED_BY]-> NZ Transport Agency 0.815964937210083

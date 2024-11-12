@@ -1,0 +1,36 @@
+Are there any planned improvements for the Hornby Intersection at Main South Road, Shands Road, and Carmen Road?
+None
+Seed: Request for information on Hornby Intersection improvements
+Seed: no other intersection safety improvements planned
+Seed: Main South Road, Shands Road and Carmen Road intersection
+Seed: Hornby Intersection
+[Request for information on Hornby Intersection improvements]: Request for information on Hornby Intersection improvements --[REQUESTS]-> New Zealand Transport Agency 0.8886649012565613
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7703714370727539
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[BASED]-> Wellington 0.769304633140564
+[Request for information on Hornby Intersection improvements]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7667869329452515
+[Request for information on Hornby Intersection improvements]: Golden Mile --[LOCATED]-> Wellington 0.7644748687744141
+[Request for information on Hornby Intersection improvements]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7948992252349854
+[Request for information on Hornby Intersection improvements]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7487219572067261
+[Request for information on Hornby Intersection improvements]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7599951028823853
+[Request for information on Hornby Intersection improvements]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7369978427886963
+[Request for information on Hornby Intersection improvements]: Wellington --[PART_OF]-> Wellington Region 0.7712068557739258
+[Request for information on Hornby Intersection improvements]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7539917826652527
+[Request for information on Hornby Intersection improvements]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.8158537149429321
+[Request for information on Hornby Intersection improvements]: Wellington --[HAS]-> tunnel 0.7728617191314697
+[Request for information on Hornby Intersection improvements]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7539327144622803
+[Request for information on Hornby Intersection improvements]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7471697330474854
+[Request for information on Hornby Intersection improvements]: Wellington --[POSTCODE]-> 6141 0.7523988485336304
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7597653269767761
+[Request for information on Hornby Intersection improvements]: Wellington --[IS_PART_OF]-> New Zealand 0.7544088363647461
+[Request for information on Hornby Intersection improvements]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.8100180625915527
+[Request for information on Hornby Intersection improvements]: 50 Victoria Street --[IN]-> Wellington 0.7793055772781372
+[Request for information on Hornby Intersection improvements]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7453322410583496
+[Request for information on Hornby Intersection improvements]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.777443528175354
+[Request for information on Hornby Intersection improvements]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7654935717582703
+[Request for information on Hornby Intersection improvements]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7615240812301636
+[Request for information on Hornby Intersection improvements]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7643594741821289
+[Request for information on Hornby Intersection improvements]: NZ Transport Agency --[LOCATED]-> Wellington 0.7668517827987671
+[Request for information on Hornby Intersection improvements]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7875838279724121
+[Request for information on Hornby Intersection improvements]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.77426677942276
+[Request for information on Hornby Intersection improvements]: New Zealand --[CONTAINS]-> Wellington 0.7469388246536255
+[Request for information on Hornby Intersection improvements]: Wellington --[PART_OF]-> New Zealand 0.7558877468109131

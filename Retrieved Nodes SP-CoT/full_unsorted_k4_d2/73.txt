@@ -1,0 +1,36 @@
+In what year did The agency that provides policy advice and oversees the transport sector in addition to Waka Kotahi in the country known for its public transport system design influenced by factors such as population density, geographic features, and environmental considerations get established?
+None
+Seed: Vital role in shaping future of transport in new zealand
+Seed: Waka kotahi nz transport agency
+Seed: Sustainable transport system
+Seed: Developing innovative transport solutions
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Plays]-> Vital role in shaping future of transport in new zealand 0.8839608430862427
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Has]-> Road to zero  strategy 0.8158444762229919
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Is]-> Primary agency 0.8499562740325928
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Is]-> Government agency 0.8660001754760742
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Responsible for]-> Funding 0.8263685703277588
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Responsible for]-> Management 0.8299041390419006
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Responsible for]-> Planning 0.8447985649108887
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Ensures]-> Investments 0.8164622783660889
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Ensures]-> Transport system is effective and efficient 0.8531230688095093
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Ensures]-> Sustainable transport network 0.8588531613349915
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Ensures]-> Efficient transport network 0.8426738381385803
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Ensures]-> Safe transport network 0.8416056632995605
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Ensures]-> Sustainability goals 0.8284012079238892
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Promotes]-> Public transit 0.8515870571136475
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Promotes]-> Road safety initiatives 0.8429440855979919
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Promotes]-> Public transport initiatives 0.8672589063644409
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Promotes]-> Walking 0.8276201486587524
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Promotes]-> Cycling 0.8134469389915466
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Aims to]-> Reduce injuries 0.8119922876358032
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Aims to]-> Reduce greenhouse gas emissions 0.8317768573760986
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Aims to]-> Promote healthier lifestyles 0.8213272094726562
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Aims to]-> Reduce fatalities 0.8267173767089844
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Plays]-> Pivotal role 0.8193159699440002
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Outlines]-> Funding priorities 0.8240664601325989
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Emphasizes]-> Safe system approach 0.8353781700134277
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Allocates]-> Local road projects 0.8383675217628479
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Allocates]-> Funding 0.8173390626907349
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Manages]-> State highways 0.8433118462562561
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Manages]-> Cycling infrastructure 0.8216919302940369
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Manages]-> Public transport systems 0.8801934719085693

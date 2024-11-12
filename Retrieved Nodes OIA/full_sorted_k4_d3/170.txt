@@ -1,0 +1,34 @@
+How does NZTA handle conflicts of interest when investigating contractors?
+None
+Seed: conflicts of interest by senior staff
+Seed: Conflict of interest
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: conflict of interest
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[MANAGES]-> conflict of interest 0.9016110301017761
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[MANAGES]-> Conflict of interest 0.9016110301017761
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[NOTIFIES]-> conflicts of interest by senior staff 0.87937992811203
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[PROVIDES]-> information on contractor prequalification 0.8612632751464844
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[ASSOCIATED]-> Enforcement of regulatory role 0.8578835725784302
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[POLICY]-> Investigating transport companies 0.8529735207557678
+[conflicts of interest by senior staff]: LGWM construction contracts --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8514983057975769
+[Conflict of interest]: New Zealand Transport Agency --[MANAGES]-> Conflict of interest 0.9016110301017761
+[Conflict of interest]: New Zealand Transport Agency --[MANAGES]-> conflict of interest 0.9016110301017761
+[Conflict of interest]: New Zealand Transport Agency --[NOTIFIES]-> conflicts of interest by senior staff 0.87937992811203
+[Conflict of interest]: New Zealand Transport Agency --[PROVIDES]-> information on contractor prequalification 0.8612632751464844
+[Conflict of interest]: New Zealand Transport Agency --[ASSOCIATED]-> Enforcement of regulatory role 0.8578835725784302
+[Conflict of interest]: New Zealand Transport Agency --[POLICY]-> Investigating transport companies 0.8529735207557678
+[Conflict of interest]: LGWM construction contracts --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8514983057975769
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[MANAGES]-> Conflict of interest 0.9016110301017761
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[MANAGES]-> conflict of interest 0.9016110301017761
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[NOTIFIES]-> conflicts of interest by senior staff 0.87937992811203
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) --[CONTRACTS]-> consultants 0.8618881106376648
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[PROVIDES]-> information on contractor prequalification 0.8612632751464844
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[ASSOCIATED]-> Enforcement of regulatory role 0.8578835725784302
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[POLICY]-> Investigating transport companies 0.8529735207557678
+[conflict of interest]: New Zealand Transport Agency --[MANAGES]-> conflict of interest 0.9016110301017761
+[conflict of interest]: New Zealand Transport Agency --[MANAGES]-> Conflict of interest 0.9016110301017761
+[conflict of interest]: New Zealand Transport Agency --[NOTIFIES]-> conflicts of interest by senior staff 0.87937992811203
+[conflict of interest]: New Zealand Transport Agency --[PROVIDES]-> information on contractor prequalification 0.8612632751464844
+[conflict of interest]: New Zealand Transport Agency --[ASSOCIATED]-> Enforcement of regulatory role 0.8578835725784302
+[conflict of interest]: New Zealand Transport Agency --[POLICY]-> Investigating transport companies 0.8529735207557678
+[conflict of interest]: LGWM construction contracts --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8514983057975769

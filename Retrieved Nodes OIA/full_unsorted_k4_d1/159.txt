@@ -1,0 +1,10 @@
+How much has the NZ Transport Agency spent on software/app development through Connected Journey Solutions (CJS)?
+None
+Seed: information about the NZ Transport Agency's Information Technology (IT) projects
+Seed: names of companies and individuals paid $6.63m to develop software/apps
+Seed: costing information for Greater Christchurch Mass Rapid Transit
+Seed: cost breakdown for Greater Christchurch Mass Rapid Transit
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[PROVIDES]-> information about the NZ Transport Agency's Information Technology (IT) projects 0.8514043092727661
+[names of companies and individuals paid $6.63m to develop software/apps]: Amanda Cropp --[REQUESTED]-> names of companies and individuals paid $6.63m to develop software/apps 0.7841347455978394
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[PROVIDES]-> costing information for Greater Christchurch Mass Rapid Transit 0.8633418679237366
+[cost breakdown for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[PROVIDES]-> cost breakdown for Greater Christchurch Mass Rapid Transit 0.8578482270240784

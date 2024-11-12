@@ -1,0 +1,22 @@
+What is the most common component found to be non-compliant during heavy vehicle certifications in New Zealand?
+None
+Seed: Heavy Vehicle Specialist Certificate
+Seed: Vehicle Safety
+Seed: vehicle safety
+Seed: Commercial Vehicle Safety Programme
+[Heavy Vehicle Specialist Certificate]: Heavy Vehicle Specialist Certificate --[Revoked]-> 19 0.8458147048950195
+[Vehicle Safety]: New Zealand Transport Agency --[RESPONSIBLE_FOR]-> Vehicle Standard 0.8936130404472351
+[Vehicle Safety]: Senior Engineer Vehicle Standard --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8922438621520996
+[Vehicle Safety]: New Zealand --[REGULATES]-> Vehicle Inspection 0.8890029191970825
+[Vehicle Safety]: Senior Engineer Vehicle Standard --[ASSOCIATED]-> New Zealand Transport Agency 0.8859955668449402
+[Vehicle Safety]: New Zealand Transport Agency --[ASSOCIATED]-> Enforcement of regulatory role 0.8856586217880249
+[Vehicle Safety]: Vehicle Inspection --[CONDUCTED_BY]-> New Zealand Transport Agency 0.8794072866439819
+[Vehicle Safety]: New Zealand Transport Agency --[ASSOCIATED]-> Review of 850 open compliance files 0.8783307075500488
+[vehicle safety]: NZ Transport Agency --[CONDUCTS]-> vehicle inspection 0.8763806223869324
+[vehicle safety]: vehicle inspection --[CONDUCTED_BY]-> NZ Transport Agency 0.8736590147018433
+[vehicle safety]: questions and responses --[FROM]-> NZ Transport Agency 0.8715741634368896
+[vehicle safety]: NZ Transport Agency --[ASSOCIATED]-> oia-4596 0.863301157951355
+[vehicle safety]: NZ Transport Agency --[PROVIDES]-> 23 documents 0.8570317029953003
+[vehicle safety]: oia-4596 --[ASSOCIATED]-> NZ Transport Agency 0.8570308685302734
+[vehicle safety]: New Zealand Transport Agency --[PROVIDES]-> transport data 0.855695366859436
+[Commercial Vehicle Safety Programme]: BRI-3011 --[RELATES_TO]-> Commercial Vehicle Safety Programme 0.8451621532440186

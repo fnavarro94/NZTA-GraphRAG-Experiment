@@ -1,0 +1,16 @@
+What is the longest overdue road for renewal in New Zealand?
+None
+Seed: longest overdue road
+Seed: road renewal
+Seed: toll roads
+Seed: information on tolls and road maintenance
+[longest overdue road]: longest overdue road --[OVERDUE]-> road renewal 0.9225471615791321
+[longest overdue road]: design life --[OVERDUE]-> longest overdue road 0.8895381689071655
+[road renewal]: longest overdue road --[OVERDUE]-> road renewal 0.9225471615791321
+[road renewal]: road renewal --[OVERDUE]-> road maintenance 0.8822011947631836
+[toll roads]: New Zealand Transport Agency --[MANAGES]-> toll roads 0.8446776866912842
+[toll roads]: unpaid tolls --[ASSOCIATED_WITH]-> toll roads 0.7966779470443726
+[toll roads]: toll roads --[COLLECTS]-> toll tariffs 0.7923514246940613
+[toll roads]: toll roads --[INCLUDE]-> administration fee 0.7786692976951599
+[information on tolls and road maintenance]: information on tolls and road maintenance --[RELATES]-> New Zealand Transport Agency 0.8458167910575867
+[information on tolls and road maintenance]: response from New Zealand Transport Agency --[CONTAINS]-> information on tolls and road maintenance 0.8428618907928467

@@ -1,0 +1,36 @@
+What organization emerged from the country known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, and is responsible for the term that describes the regular activities performed to keep roads safe and functional, including vegetation control, litter removal, and drainage maintenance, during its establishment in 2008?
+None
+Seed: Crucial role in promoting road safety
+Seed: Critical component of new zealand's transport strategy
+Seed: Growing emphasis on sustainable transport solutions
+Seed: Framework for implementing road safety campaigns and initiatives
+[Crucial role in promoting road safety]: Education and awareness programs --[Play]-> Crucial role in promoting road safety 0.8233276605606079
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about dangers of distracted driving 0.7612120509147644
+[Crucial role in promoting road safety]: Education and awareness programs --[Include]-> Belt up campaign 0.7610414028167725
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about safe driving practices 0.8033130764961243
+[Crucial role in promoting road safety]: Education and awareness programs --[Include]-> Road safety week 0.7931122779846191
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about importance of seatbelt use 0.7619487643241882
+[Critical component of new zealand's transport strategy]: Road safety education --[Is]-> Critical component of new zealand's transport strategy 0.8233523368835449
+[Critical component of new zealand's transport strategy]: Nzta --[Promotes]-> Road safety education 0.789086639881134
+[Critical component of new zealand's transport strategy]: Nzta --[Plays a pivotal role in]-> The development and implementation of these systems 0.7692654728889465
+[Critical component of new zealand's transport strategy]: Nzta --[Actively exploring]-> Connected and autonomous vehicles 0.7643359303474426
+[Critical component of new zealand's transport strategy]: Nzta --[Actively exploring]-> The potential of emerging technologies 0.754266619682312
+[Critical component of new zealand's transport strategy]: Nzta --[Actively exploring]-> Improving road safety 0.807823121547699
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Influenced by]-> Improving road safety 0.7633017301559448
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Designed to]-> Enhance vehicle stability 0.7362402677536011
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Is]-> Advanced safety feature 0.7394585013389587
+[Critical component of new zealand's transport strategy]: Vehicle safety technologies --[Include]-> Electronic stability control 0.7563897371292114
+[Critical component of new zealand's transport strategy]: Vehicle safety technologies --[Include]-> Anti-lock braking systems 0.7566701173782349
+[Critical component of new zealand's transport strategy]: Vehicle safety technologies --[Include]-> Advanced driver assistance systems 0.7621576189994812
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Utilize]-> Sensors 0.7311701774597168
+[Critical component of new zealand's transport strategy]: Intelligent transport systems --[Use]-> Sensors 0.7817283868789673
+[Critical component of new zealand's transport strategy]: Traffic management systems --[Utilize]-> Sensors 0.7833149433135986
+[Critical component of new zealand's transport strategy]: New zealand --[Has adopted]-> Electronic stability control 0.7528202533721924
+[Critical component of new zealand's transport strategy]: New zealand --[Has]-> Transport projects 0.7985681891441345
+[Critical component of new zealand's transport strategy]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.8065853118896484
+[Critical component of new zealand's transport strategy]: New zealand --[Has]-> Diverse transport network 0.7866218090057373
+[Critical component of new zealand's transport strategy]: New zealand --[Has]-> Post-incident review 0.7213142514228821
+[Critical component of new zealand's transport strategy]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.7544528245925903
+[Critical component of new zealand's transport strategy]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.772143542766571
+[Critical component of new zealand's transport strategy]: New zealand --[Has]-> Broader environmental policies 0.7741261124610901
+[Critical component of new zealand's transport strategy]: New zealand --[Has]-> Traffic congestion 0.7820988297462463

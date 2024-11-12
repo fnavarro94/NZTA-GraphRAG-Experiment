@@ -1,0 +1,36 @@
+Which line does the major transport infrastructure project in New Zealand, which aims to improve rail connectivity and reduce congestion in Auckland, connect to at Britomart Station?
+None
+Seed: Addressing transport challenges in auckland
+Seed: Transport link between wellington and northern regions of north island
+Seed: Significant infrastructure project
+Seed: Improved public transport links
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Addressing transport challenges in auckland 0.8585911393165588
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On enhancing road infrastructure 0.8682559728622437
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Outlines]-> Strategic approach to address challenges 0.8508108854293823
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On improving public transport 0.859208345413208
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On promoting sustainable transport solutions 0.8466553688049316
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Promote sustainable transport options 0.8442775011062622
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Reduce congestion 0.8695691227912903
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Is]-> Strategic initiative 0.8566740155220032
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Improve efficiency and effectiveness of transport system 0.8603688478469849
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Launched in]-> 2016 0.8544334769248962
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Development of comprehensive transport network 0.8729831576347351
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Is]-> Collaborative effort 0.8514989614486694
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Aligning transport investments 0.8471502065658569
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Create unified transport network 0.8629523515701294
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Encompasses]-> Range of projects 0.855902373790741
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Emphasizes]-> Need for balanced transport system 0.853399932384491
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Aims to improve]-> Transport link between wellington and northern regions of north island 0.8560354709625244
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Links with]-> State highway 1 0.8037578463554382
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Reduces]-> Travel times 0.8222777843475342
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Undergoes]-> Ongoing improvements and upgrades 0.8362362384796143
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Protects]-> Local wildlife and habitats 0.7951535582542419
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Passes through]-> Levin 0.7962208986282349
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Connects]-> Wellington 0.8406316041946411
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Extends]-> Northward 0.817590594291687
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Features]-> Transmission gully motorway 0.8280766606330872
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Stretches]-> Approximately 110 kilometers 0.8252915143966675
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Passes through]-> Masterton 0.7948823571205139
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Is]-> Integral part of the country's national road network 0.8118685483932495
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Accommodates]-> Sustainable transport options 0.8238413333892822
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Improves]-> Access to employment and services 0.8200880885124207

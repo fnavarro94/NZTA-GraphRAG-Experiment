@@ -1,0 +1,29 @@
+How does Waka Kotahi measure the success of the "Mixed? Don't Drive" campaign?
+None
+Seed: Mixed? Don’t Drive campaign
+Seed: Waka Kotahi
+Seed: Waka Kotahi N Z Transport Agency
+Seed: Waka Kotahi NZ Transport Agency
+[Mixed? Don’t Drive campaign]: Mixed? Don’t Drive campaign --[MEASURES]-> ongoing advertising tracking 0.8376259803771973
+[Mixed? Don’t Drive campaign]: ongoing advertising tracking --[TRACKS]-> public attitude 0.7631464004516602
+[Waka Kotahi]: Waka Kotahi --[MONITORS]-> advertising campaigns 0.8720896244049072
+[Waka Kotahi]: Waka Kotahi --[INVESTIGATES]-> NFA outcomes 0.8717710375785828
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> public interest 0.8644405603408813
+[Waka Kotahi]: Waka Kotahi --[GATHERS]-> statistics 0.8623616695404053
+[Waka Kotahi]: Waka Kotahi --[SUPPORTS]-> Road to Zero strategy 0.8615834712982178
+[Waka Kotahi]: tests --[CONDUCTED]-> Waka Kotahi 0.8612814545631409
+[Waka Kotahi]: Waka Kotahi --[ENGAGES]-> community 0.8585343360900879
+[Waka Kotahi N Z Transport Agency]: Data --[PROVIDED]-> Waka Kotahi N Z Transport Agency 0.8216807842254639
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.8141470551490784
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.8034811019897461
+[Waka Kotahi N Z Transport Agency]: New Zealand Transport Agency Waka Kotahi --[MAINTAINS]-> Crash Analysis System 0.801601767539978
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINS]-> Waka Kotahi N Z Transport Agency 0.7935265898704529
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MANAGED_BY]-> New Zealand Transport Agency 0.7481966018676758
+[Waka Kotahi N Z Transport Agency]: Data --[RELATES_TO]-> Pedestrian and Cyclist Crashes 0.740946352481842
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[PUBLISHED]-> response 0.8517626523971558
+[Waka Kotahi NZ Transport Agency]: New Zealand Transport Agency --[POLICY]-> Waka Kotahi policy 0.8457165360450745
+[Waka Kotahi NZ Transport Agency]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8437414765357971
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[FOLLOWS]-> Waka Kotahi policy 0.8431887626647949
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.8406879901885986
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi policy --[PUBLISHED]-> website 0.8394575119018555
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[PUBLISHES]-> response on website 0.835314929485321

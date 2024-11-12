@@ -1,0 +1,36 @@
+Does NZTA impose a quality assurance or performance clause for pothole repair work, and if so, where can it be found?
+None
+Seed: pothole repair specifications
+Seed: request for pothole repair cost information
+Seed: https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf
+Seed: potholes
+[pothole repair specifications]: https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf --[ACCESS]-> pothole repair specifications 0.8869953751564026
+[pothole repair specifications]: website --[LINKS]-> https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf 0.8628110885620117
+[pothole repair specifications]: scheduled tasks --[IS_REMOVED]-> website 0.7621158957481384
+[pothole repair specifications]: information requested --[DOES_NOT_EXIST]-> scheduled tasks 0.787149965763092
+[pothole repair specifications]: section 18(e) of the Act --[EXEMPTS]-> information requested 0.7603514790534973
+[pothole repair specifications]: request --[RELATES_TO]-> section 18(e) of the Act 0.7777163982391357
+[pothole repair specifications]: request --[REFUSED]-> section 18(e) of the Act 0.7668249607086182
+[pothole repair specifications]: section 18(e) of the Act --[REFERS]-> information does not exist 0.7750192880630493
+[pothole repair specifications]: Transport Agency --[REFUSED]-> section 18(e) of the Act 0.7695732116699219
+[pothole repair specifications]: information request --[RELATES]-> section 18(e) of the Act 0.7685638666152954
+[pothole repair specifications]: information requested --[REQUESTED_BY]-> requester name 0.7553536295890808
+[pothole repair specifications]: requester name --[SUBMITTED]-> submission date 0.7578111886978149
+[pothole repair specifications]: response to OIA request --[PROVIDES]-> information requested 0.7689439058303833
+[pothole repair specifications]: oia-9194-response.pdf --[CONTAINS]-> response to OIA request 0.7648080587387085
+[pothole repair specifications]: New Zealand Transport Agency --[PROVIDES]-> response to OIA request 0.8212651610374451
+[pothole repair specifications]: website --[LOCATED_AT]-> www.ombudsman.parliament.nz 0.7808322906494141
+[pothole repair specifications]: www.ombudsman.parliament.nz --[LINKS_TO]-> Ombudsman 0.7777770757675171
+[pothole repair specifications]: right to ask the Ombudsman to review --[IS_GRANTED_BY]-> Ombudsman 0.7738791108131409
+[pothole repair specifications]: right to ask the Ombudsman to review --[EXERCISED_BY]-> requester 0.7768137454986572
+[pothole repair specifications]: section 28 of the Act --[GRANTS]-> right to ask the Ombudsman to review 0.7590488195419312
+[pothole repair specifications]: Ombudsman --[REVIEW_REQUEST]-> decision 0.7735438346862793
+[pothole repair specifications]: decision --[REFUSES]-> request 0.7712315320968628
+[pothole repair specifications]: request --[REFUSE]-> decision 0.7700930833816528
+[pothole repair specifications]: decision --[REVIEW]-> Ombudsman 0.7645976543426514
+[pothole repair specifications]: decision --[REFUSE]-> request 0.7813712954521179
+[pothole repair specifications]: decision --[WITHHOLD]-> information 0.7511135339736938
+[pothole repair specifications]: Kevin Reid --[REVIEW]-> decision 0.8026130795478821
+[pothole repair specifications]: Ombudsman --[REVIEW]-> decision 0.7737436890602112
+[pothole repair specifications]: Waka Kotahi --[MAKES]-> decision 0.7644549608230591
+[pothole repair specifications]: Ombudsman --[REVIEW]-> decision to withhold information 0.7714594602584839

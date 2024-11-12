@@ -1,0 +1,36 @@
+What standards must retroreflective sheeting for black background plates comply with in New Zealand?
+None
+Seed: retroreflective sheeting for use in New Zealand
+Seed: performance requirements for retroreflective sheeting
+Seed: information on retroreflective sheeting
+Seed: NZTA M25 Retroreflective sheeting
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi --[APPROVES]-> retroreflective sheeting for use in New Zealand 0.9118884801864624
+[retroreflective sheeting for use in New Zealand]: Response --[CONTAINS]-> Waka Kotahi 0.753669261932373
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi --[PUBLISHES]-> Response 0.7548474073410034
+[retroreflective sheeting for use in New Zealand]: response --[CONTAINS]-> Waka Kotahi 0.7485291361808777
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.7939423322677612
+[retroreflective sheeting for use in New Zealand]: Charles Ronaldson --[SIGNED]-> response 0.7472348809242249
+[retroreflective sheeting for use in New Zealand]: Lauren Cooke --[SIGNED]-> response 0.7232908010482788
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi --[PUBLISHED_BY]-> response 0.7564257383346558
+[retroreflective sheeting for use in New Zealand]: Ministry --[PROVIDE]-> response 0.7330911755561829
+[retroreflective sheeting for use in New Zealand]: response --[REMOVED]-> personal information 0.6984565258026123
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi website --[CONTAINS]-> response 0.7410068511962891
+[retroreflective sheeting for use in New Zealand]: New Zealand Transport Agency --[DISCUSSES]-> response 0.7958641052246094
+[retroreflective sheeting for use in New Zealand]: response --[IS_A]-> letter 0.7481269836425781
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi --[FOLLOWS]-> response 0.737871527671814
+[retroreflective sheeting for use in New Zealand]: New Zealand Transport Agency --[PUBLISH]-> response 0.8119451403617859
+[retroreflective sheeting for use in New Zealand]: New Zealand Transport Agency --[PUBLISHES]-> response 0.8093612194061279
+[retroreflective sheeting for use in New Zealand]: response --[IS]-> response letter 0.7434662580490112
+[retroreflective sheeting for use in New Zealand]: response letter --[IS]-> response 0.7427049875259399
+[retroreflective sheeting for use in New Zealand]: response --[CONTAINS]-> contact details for the Ombudsman 0.7278667688369751
+[retroreflective sheeting for use in New Zealand]: response --[CONTAINS]-> Jamie Ensor 0.7120518684387207
+[retroreflective sheeting for use in New Zealand]: response --[RELATES_TO]-> personal information removed 0.7055248022079468
+[retroreflective sheeting for use in New Zealand]: Conan Young --[RECEIVES]-> response 0.716665506362915
+[retroreflective sheeting for use in New Zealand]: oia-14650-response-letter.pdf --[CONTAINS]-> response 0.7348083257675171
+[retroreflective sheeting for use in New Zealand]: response --[IS]-> sincerely 0.7292731404304504
+[retroreflective sheeting for use in New Zealand]: NZTA --[REPLY]-> response 0.7734562158584595
+[retroreflective sheeting for use in New Zealand]: response --[REMOVE]-> personal information 0.6909765601158142
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi --[PUBLISHED]-> response 0.7643134593963623
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi --[PROVIDES]-> response 0.7402840256690979
+[retroreflective sheeting for use in New Zealand]: response --[IS_PUBLISHED_ON]-> website 0.7405248880386353
+[retroreflective sheeting for use in New Zealand]: personal information --[REMOVED]-> response 0.7042664289474487

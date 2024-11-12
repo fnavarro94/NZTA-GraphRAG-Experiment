@@ -1,0 +1,13 @@
+Under what inspecting organization (IO) authority did VINZ operate prior to and after March 2015?
+None
+Seed: Sale of VINZ
+Seed: own inspecting authority number
+Seed: Enforcement of regulatory role
+Seed: Review of regulatory role
+[Sale of VINZ]: Transport Agency --[ADVISED_OF]-> Sale of VINZ 0.8480316400527954
+[Sale of VINZ]: Sale of VINZ --[DATE]-> March 2015 0.845698893070221
+[own inspecting authority number]: own inspecting authority number --[ENABLES]-> inspect vehicles 0.8223989009857178
+[own inspecting authority number]: appointment as an inspecting organisation --[LEADS_TO]-> own inspecting authority number 0.8217447996139526
+[Enforcement of regulatory role]: New Zealand Transport Agency --[ASSOCIATED]-> Enforcement of regulatory role 0.8022544384002686
+[Enforcement of regulatory role]: Meredith Connell --[ASSOCIATED]-> Enforcement of regulatory role 0.7667723894119263
+[Review of regulatory role]: New Zealand Transport Agency --[REGULATORY]-> Review of regulatory role 0.7905685901641846

@@ -1,0 +1,29 @@
+What project in the largest city in the country known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, served by the key transport corridor critical for freight and passenger movement and running through the North Island, has transformed underutilized spaces into vibrant cycling and pedestrian pathways?
+None
+Seed: Critical for freight and passenger movement
+Seed: Critical aspect of transportation planning
+Seed: Critical aspect of urban and regional development
+Seed: Adopting integrated transport planning approaches that consider public transport
+[Critical for freight and passenger movement]: North island main trunk railway --[Is]-> Critical for freight and passenger movement 0.8675940632820129
+[Critical for freight and passenger movement]: North island main trunk railway --[Facilitates]-> Economic activity 0.8347042798995972
+[Critical for freight and passenger movement]: North island main trunk railway --[Facilitates]-> Regional connectivity 0.8311846852302551
+[Critical for freight and passenger movement]: North island main trunk railway --[Fosters]-> Movement of goods 0.8275594711303711
+[Critical for freight and passenger movement]: North island main trunk railway --[Fosters]-> Movement of people 0.8265361785888672
+[Critical for freight and passenger movement]: North island main trunk railway --[Spans]-> 681 kilometers 0.8247398734092712
+[Critical for freight and passenger movement]: North island main trunk railway --[Serves]-> Freight 0.8239665627479553
+[Critical aspect of transportation planning]: Transport demand forecasting --[Is]-> Critical aspect of transportation planning 0.8525890111923218
+[Critical aspect of transportation planning]: Transport demand forecasting --[Involves]-> Socio-economic indicators 0.8406330943107605
+[Critical aspect of transportation planning]: Transport demand forecasting --[Estimates]-> Future travel patterns 0.8267128467559814
+[Critical aspect of transportation planning]: Transport demand forecasting --[Involves]-> Statistical models 0.8241770267486572
+[Critical aspect of transportation planning]: Transport demand forecasting --[Involves]-> Historical data 0.8149359822273254
+[Critical aspect of transportation planning]: Transport demand forecasting --[Estimates]-> Demand for various transport services 0.8090565204620361
+[Critical aspect of urban and regional development]: Public transport network planning --[Is]-> Critical aspect of urban and regional development 0.843203067779541
+[Critical aspect of urban and regional development]: New zealand --[Has]-> Public transport network planning 0.8269593119621277
+[Critical aspect of urban and regional development]: Public transport network planning --[Involves]-> Coordination of various transport modes 0.8086129426956177
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Aims to]-> Create more sustainable transport networks 0.8293118476867676
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Aims to]-> Create more efficient transport networks 0.8198326826095581
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches 0.8129469156265259
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting 0.8111093044281006
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider land use 0.8091222643852234
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider active transport modes 0.8086031675338745
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider public transport 0.8073110580444336

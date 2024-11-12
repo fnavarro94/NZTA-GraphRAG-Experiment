@@ -1,0 +1,34 @@
+Has Waka Kotahi carried out tests comparing steel reinforcement versus fiberglass or wood in cab cut-outs?
+None
+Seed: fibreglass or wood
+Seed: 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.
+Seed: steel is present reinforcing the ca b cut-out
+Seed: information to Waka Kotahi
+[fibreglass or wood]: wood --[TESTED]-> Waka Kotahi 0.9061364531517029
+[fibreglass or wood]: tests --[CONDUCTED]-> Waka Kotahi 0.8833456635475159
+[fibreglass or wood]: steel is present reinforcing the ca b cut-out --[VS]-> fibreglass or wood 0.880901038646698
+[fibreglass or wood]: steel --[VS]-> fibreglass 0.876893162727356
+[fibreglass or wood]: tests --[CONDUCTED_BY]-> Waka Kotahi 0.873664140701294
+[fibreglass or wood]: comparable tests --[WHERE]-> steel is present reinforcing the ca b cut-out 0.87354576587677
+[fibreglass or wood]: steel --[VS]-> fibreglass or wood 0.8725225925445557
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: wood --[TESTED]-> Waka Kotahi 0.9061364531517029
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: tests --[CONDUCTED]-> Waka Kotahi 0.8833456635475159
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: tests --[CONDUCTED_BY]-> Waka Kotahi 0.873664140701294
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: Waka Kotahi --[INVESTIGATES]-> NFA outcomes 0.8559150099754333
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: NZ Transport Agency Waka Kotahi --[BASED_ON]-> investigations, construction findings, on-site progress, design updates, design assumptions 0.8538142442703247
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: Senior Engineer Vehicle Standard --[ASSOCIATED]-> Waka Kotahi 0.8533783555030823
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: Waka Kotahi --[PROVIDES]-> guidance for manufacturers 0.8527085185050964
+[steel is present reinforcing the ca b cut-out]: wood --[TESTED]-> Waka Kotahi 0.9061364531517029
+[steel is present reinforcing the ca b cut-out]: tests --[CONDUCTED]-> Waka Kotahi 0.8833456635475159
+[steel is present reinforcing the ca b cut-out]: steel is present reinforcing the ca b cut-out --[VS]-> fibreglass or wood 0.880901038646698
+[steel is present reinforcing the ca b cut-out]: steel --[VS]-> fibreglass 0.876893162727356
+[steel is present reinforcing the ca b cut-out]: tests --[CONDUCTED_BY]-> Waka Kotahi 0.873664140701294
+[steel is present reinforcing the ca b cut-out]: comparable tests --[WHERE]-> steel is present reinforcing the ca b cut-out 0.87354576587677
+[steel is present reinforcing the ca b cut-out]: steel --[VS]-> fibreglass or wood 0.8725225925445557
+[information to Waka Kotahi]: wood --[TESTED]-> Waka Kotahi 0.9061364531517029
+[information to Waka Kotahi]: tests --[CONDUCTED]-> Waka Kotahi 0.8833456635475159
+[information to Waka Kotahi]: steel is present reinforcing the ca b cut-out --[VS]-> fibreglass or wood 0.880901038646698
+[information to Waka Kotahi]: steel --[VS]-> fibreglass 0.876893162727356
+[information to Waka Kotahi]: tests --[CONDUCTED_BY]-> Waka Kotahi 0.873664140701294
+[information to Waka Kotahi]: comparable tests --[WHERE]-> steel is present reinforcing the ca b cut-out 0.87354576587677
+[information to Waka Kotahi]: steel --[VS]-> fibreglass or wood 0.8725225925445557

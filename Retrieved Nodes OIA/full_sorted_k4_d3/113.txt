@@ -1,0 +1,34 @@
+How many complaints did NZTA receive about vehicle certifications not being performed correctly since January 1, 2010?
+None
+Seed: ride share operator complaints
+Seed: 196 complaints about Uber drivers
+Seed: Complaint Data
+Seed: vehicle registration and licensing
+[ride share operator complaints]: New Zealand Transport Agency --[RECEIVED]-> one complaint 0.8862112760543823
+[ride share operator complaints]: questions and responses --[FROM]-> NZ Transport Agency 0.885373592376709
+[ride share operator complaints]: New Zealand Transport Agency --[RESPONDED]-> complaint 0.884577751159668
+[ride share operator complaints]: New Zealand Transport Agency --[RECEIVES]-> personal grievances 0.877554714679718
+[ride share operator complaints]: New Zealand Transport Agency --[RESPONDS]-> queries 0.8746337890625
+[ride share operator complaints]: NZTA Website --[OPERATED_BY]-> New Zealand Transport Agency 0.8740139007568359
+[ride share operator complaints]: New Zealand Transport Agency --[PROVIDES]-> responses to written questions 1-112 0.872990608215332
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[RECEIVED]-> one complaint 0.8862112760543823
+[196 complaints about Uber drivers]: questions and responses --[FROM]-> NZ Transport Agency 0.885373592376709
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[RESPONDED]-> complaint 0.884577751159668
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[RECEIVES]-> personal grievances 0.877554714679718
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[RESPONDS]-> queries 0.8746337890625
+[196 complaints about Uber drivers]: NZTA Website --[OPERATED_BY]-> New Zealand Transport Agency 0.8740139007568359
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[PROVIDES]-> responses to written questions 1-112 0.872990608215332
+[Complaint Data]: New Zealand Transport Agency --[RECEIVED]-> one complaint 0.8862112760543823
+[Complaint Data]: New Zealand Transport Agency --[RESPONDED]-> complaint 0.884577751159668
+[Complaint Data]: New Zealand Transport Agency --[RECEIVES]-> personal grievances 0.877554714679718
+[Complaint Data]: New Zealand Transport Agency --[RESPONDS]-> queries 0.8746337890625
+[Complaint Data]: NZTA Website --[OPERATED_BY]-> New Zealand Transport Agency 0.8740139007568359
+[Complaint Data]: New Zealand Transport Agency --[PROVIDES]-> responses to written questions 1-112 0.872990608215332
+[Complaint Data]: Vehicle Inspection --[CONDUCTED_BY]-> New Zealand Transport Agency 0.872820258140564
+[vehicle registration and licensing]: New Zealand Transport Agency --[RECEIVED]-> one complaint 0.8862112760543823
+[vehicle registration and licensing]: questions and responses --[FROM]-> NZ Transport Agency 0.885373592376709
+[vehicle registration and licensing]: New Zealand Transport Agency --[RESPONDED]-> complaint 0.884577751159668
+[vehicle registration and licensing]: New Zealand Transport Agency --[RECEIVES]-> personal grievances 0.877554714679718
+[vehicle registration and licensing]: New Zealand Transport Agency --[RESPONDS]-> queries 0.8746337890625
+[vehicle registration and licensing]: NZTA Website --[OPERATED_BY]-> New Zealand Transport Agency 0.8740139007568359
+[vehicle registration and licensing]: New Zealand Transport Agency --[PROVIDES]-> responses to written questions 1-112 0.872990608215332

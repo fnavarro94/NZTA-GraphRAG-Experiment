@@ -1,0 +1,28 @@
+What is the cost of the Road to Zero advertising campaign as of 30 June 2022?
+None
+Seed: cost of the current Road to Zero advertising campaign
+Seed: Road to Zero advertising campaign
+Seed: information about Road To Zero campaign
+Seed: development of the next Road to Zero Action Plan
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[COST]-> cost of the current Road to Zero advertising campaign 0.916700005531311
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[LAUNCHED_BY]-> New Zealand Transport Agency 0.8577041625976562
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[TARGET]-> zero accidents 0.8454108238220215
+[cost of the current Road to Zero advertising campaign]: Request made under the Official Information Act 1982 --[REQUESTS]-> information about Road To Zero campaign 0.8360772728919983
+[cost of the current Road to Zero advertising campaign]: Road to Zero Strategy --[DEVELOPED]-> New Zealand Transport Agency 0.8349050879478455
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[SPENDS_ON]-> Road to Zero Strategy 0.8348240852355957
+[cost of the current Road to Zero advertising campaign]: Request made under the Official Information Act 1982 --[CHALLENGES]-> Road To Zero campaign 0.831092119216919
+[Road to Zero advertising campaign]: Road to Zero advertising campaign --[COST]-> $6.185 million 0.8984673023223877
+[information about Road To Zero campaign]: Road To Zero campaign --[COST]-> cost of the current Road to Zero advertising campaign 0.916700005531311
+[information about Road To Zero campaign]: Road To Zero campaign --[LAUNCHED_BY]-> New Zealand Transport Agency 0.8577041625976562
+[information about Road To Zero campaign]: Road To Zero campaign --[TARGET]-> zero accidents 0.8454108238220215
+[information about Road To Zero campaign]: Request made under the Official Information Act 1982 --[REQUESTS]-> information about Road To Zero campaign 0.8360772728919983
+[information about Road To Zero campaign]: Road to Zero Strategy --[DEVELOPED]-> New Zealand Transport Agency 0.8349050879478455
+[information about Road To Zero campaign]: New Zealand Transport Agency --[SPENDS_ON]-> Road to Zero Strategy 0.8348240852355957
+[information about Road To Zero campaign]: Request made under the Official Information Act 1982 --[CHALLENGES]-> Road To Zero campaign 0.831092119216919
+[development of the next Road to Zero Action Plan]: total amount of money --[FOR]-> Road to Zero 0.8777207136154175
+[development of the next Road to Zero Action Plan]: Road to Zero --[PROGRESS]-> 2022 0.8710687160491943
+[development of the next Road to Zero Action Plan]: Road to Zero --[COST]-> $4,737,200 0.869359016418457
+[development of the next Road to Zero Action Plan]: Road to Zero --[PROGRESS]-> 2021 0.8664705753326416
+[development of the next Road to Zero Action Plan]: Road to Zero --[PROGRESS]-> television advertisements 0.8597385287284851
+[development of the next Road to Zero Action Plan]: Road to Zero --[PROGRESS]-> Road to Zero public awareness campaign 0.8583277463912964
+[development of the next Road to Zero Action Plan]: Road to Zero --[REQUIRES]-> funding for next round 0.8579931259155273

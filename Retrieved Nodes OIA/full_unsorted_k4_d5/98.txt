@@ -1,0 +1,36 @@
+Who should be contacted to discuss the report on Auckland Motorway shoulder bus lanes?
+None
+Seed: reports on converting the shoulder of Auckland Motorway into Bus Lanes
+Seed: Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf
+Seed: Open Data portal for information about daily traffic volumes on Hewletts Road
+Seed: reports and correspondence to the Minister of Transport, Phil Twyford, or his office
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Zachary Wong --[REQUESTED]-> reports on converting the shoulder of Auckland Motorway into Bus Lanes 0.9127823710441589
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Zachary Wong --[EMAIL]-> fyi-request-9242-f4aad453@requests.fyi.org.nz 0.808806300163269
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: reports on converting the shoulder of Auckland Motorway into Bus Lanes --[PROVIDED]-> Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf 0.9034061431884766
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf --[APPENDIX]-> Appendices A to E 0.9005783796310425
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf --[APPENDIX]-> Appendices A to E 0.9005783796310425
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: reports on converting the shoulder of Auckland Motorway into Bus Lanes --[PROVIDED]-> Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf 0.9034061431884766
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: Zachary Wong --[REQUESTED]-> reports on converting the shoulder of Auckland Motorway into Bus Lanes 0.9127823710441589
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: Zachary Wong --[EMAIL]-> fyi-request-9242-f4aad453@requests.fyi.org.nz 0.808806300163269
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.842776358127594
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.8286221623420715
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand Transport Agency --[BASED]-> Wellington 0.8349698781967163
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8427223563194275
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7948606014251709
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Golden Mile --[LOCATED]-> Wellington 0.7684815526008606
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: State Highway 1 --[LOCATED_IN]-> Wellington 0.8161558508872986
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7944222688674927
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7938694357872009
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7933099269866943
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Wellington --[PART_OF]-> Wellington Region 0.8000757694244385
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand --[HAS_CAPITAL]-> Wellington 0.8038079142570496
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.8121738433837891
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Wellington --[HAS]-> tunnel 0.8036763072013855
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.825061559677124
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7951538562774658
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Wellington --[POSTCODE]-> 6141 0.785210907459259
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.8384597301483154
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Wellington --[IS_PART_OF]-> New Zealand 0.8006484508514404
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.8201184868812561
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: 50 Victoria Street --[IN]-> Wellington 0.7754096388816833
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7934244871139526

@@ -1,0 +1,28 @@
+How much money has NZTA spent on the Saddle Road in the 2017/18 and 2018/19 financial years?
+None
+Seed: information about Saddle Road
+Seed: information about Saddle Road works
+Seed: cost of the current Road to Zero advertising campaign
+Seed: Expenditure
+[information about Saddle Road]: New Zealand Transport Agency --[PROVIDES]-> information about Saddle Road 0.8739742040634155
+[information about Saddle Road]: New Zealand Transport Agency --[PROVIDES]-> information about Saddle Road works 0.8619632720947266
+[information about Saddle Road]: New Zealand Transport Agency --[MANAGES]-> Saddle Road Route 0.8478441834449768
+[information about Saddle Road]: New Zealand Transport Agency --[PLANS_TO_SPEND]-> total amount of money 0.8419394493103027
+[information about Saddle Road]: New Zealand Transport Agency --[FUNDING]-> Road Maintenance 0.8378265500068665
+[information about Saddle Road]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.8375304937362671
+[information about Saddle Road]: New Zealand Transport Agency --[SPENT]-> $6,692,081.51 0.8347427845001221
+[information about Saddle Road works]: New Zealand Transport Agency --[PROVIDES]-> information about Saddle Road 0.8739742040634155
+[information about Saddle Road works]: New Zealand Transport Agency --[PROVIDES]-> information about Saddle Road works 0.8619632720947266
+[information about Saddle Road works]: New Zealand Transport Agency --[MANAGES]-> Saddle Road Route 0.8478441834449768
+[information about Saddle Road works]: New Zealand Transport Agency --[PLANS_TO_SPEND]-> total amount of money 0.8419394493103027
+[information about Saddle Road works]: New Zealand Transport Agency --[FUNDING]-> Road Maintenance 0.8378265500068665
+[information about Saddle Road works]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.8375304937362671
+[information about Saddle Road works]: New Zealand Transport Agency --[SPENT]-> $6,692,081.51 0.8347427845001221
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[LAUNCHED_BY]-> New Zealand Transport Agency 0.7939454913139343
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[COST]-> cost of the current Road to Zero advertising campaign 0.7909331321716309
+[cost of the current Road to Zero advertising campaign]: Request made under the Official Information Act 1982 --[CHALLENGES]-> Road To Zero campaign 0.7513965964317322
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[TARGET]-> zero accidents 0.7506054639816284
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[EVALUATED_BY]-> post campaign polling or research 0.7488243579864502
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[LOGIC]-> logic in making this critical decision 0.7116029858589172
+[Expenditure]: New Zealand Transport Agency --[SPENT]-> Road to Zero Strategy Development 0.8217506408691406
+[Expenditure]: Road to Zero Strategy Development --[BREAKDOWN]-> Expenditure 0.782375693321228

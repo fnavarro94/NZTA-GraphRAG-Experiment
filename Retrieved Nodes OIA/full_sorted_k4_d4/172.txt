@@ -1,0 +1,31 @@
+How can someone challenge a decision made under the Official Information Act?
+None
+Seed: I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.
+Seed: decision making
+Seed: public interest in seeking and receiving confidential legal advice
+Seed: seeking and receiving confidential legal advice
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: Request made under the Official Information Act 1982 --[OFFICIAL_INFORMATION]-> Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act). 0.8300280570983887
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act). --[OFFICIAL_INFORMATION]-> I will respond to each of your questions in turn. 0.8180079460144043
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. --[OFFICIAL_INFORMATION]-> I am refusing this part of your request under section 18(d) of the Act as the information is publicly available. 0.8088490962982178
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: I will respond to each of your questions in turn. --[OFFICIAL_INFORMATION]-> 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. 0.8029297590255737
+[decision making]: information request --[RELATES]-> section 18(e) of the Act 0.8634772300720215
+[decision making]: public interest --[CONSIDERS]-> information 0.861823558807373
+[decision making]: section 18(d) of the Act --[APPLIES]-> publicly available information 0.8553155660629272
+[decision making]: section 9(2)(b)(ii) of the Act --[PROTECTS]-> information 0.8528052568435669
+[decision making]: New Zealand Transport Agency --[RESPONDS]-> request made under the Official Information Act 1982 0.844254732131958
+[decision making]: New Zealand Transport Agency --[RESPONDS]-> Request made under the Official Information Act 1982 0.844254732131958
+[decision making]: Request made under the Official Information Act 1982 --[REQUESTS]-> New Zealand Transport Agency 0.8442471027374268
+[public interest in seeking and receiving confidential legal advice]: logic in making this critical decision --[CHALLENGED_BY]-> Request made under the Official Information Act 1982 0.9300686120986938
+[public interest in seeking and receiving confidential legal advice]: Request made under the Official Information Act 1982 --[CHALLENGES]-> Road To Zero campaign 0.8875606060028076
+[public interest in seeking and receiving confidential legal advice]: Sam Kelway --[REQUESTS]-> information under the Official Information Act 1982 0.8775503039360046
+[public interest in seeking and receiving confidential legal advice]: Charlie Mitchell --[REQUESTS]-> information under the Official Information Act 1982 0.8730576634407043
+[public interest in seeking and receiving confidential legal advice]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.8686705827713013
+[public interest in seeking and receiving confidential legal advice]: Request made under the Official Information Act 1982 --[REQUESTED]-> information under the Official Information Act 1982 0.8679190874099731
+[public interest in seeking and receiving confidential legal advice]: Request made under the Official Information Act 1982 --[ASSOCIATED_WITH]-> information under the Official Information Act 1982 0.8668056130409241
+[seeking and receiving confidential legal advice]: logic in making this critical decision --[CHALLENGED_BY]-> Request made under the Official Information Act 1982 0.9300686120986938
+[seeking and receiving confidential legal advice]: Request made under the Official Information Act 1982 --[CHALLENGES]-> Road To Zero campaign 0.8875606060028076
+[seeking and receiving confidential legal advice]: Sam Kelway --[REQUESTS]-> information under the Official Information Act 1982 0.8775503039360046
+[seeking and receiving confidential legal advice]: Charlie Mitchell --[REQUESTS]-> information under the Official Information Act 1982 0.8730576634407043
+[seeking and receiving confidential legal advice]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.8686705827713013
+[seeking and receiving confidential legal advice]: Request made under the Official Information Act 1982 --[REQUESTED]-> information under the Official Information Act 1982 0.8679190874099731
+[seeking and receiving confidential legal advice]: Request made under the Official Information Act 1982 --[ASSOCIATED_WITH]-> information under the Official Information Act 1982 0.8668056130409241

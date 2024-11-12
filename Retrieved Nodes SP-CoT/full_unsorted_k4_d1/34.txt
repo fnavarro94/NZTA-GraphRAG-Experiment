@@ -1,0 +1,10 @@
+In what year did the airline that provides domestic air travel services between the North and South Islands of New Zealand and is crucial for the tourism sector become established?
+None
+Seed: Flagship airline of new zealand
+Seed: Airline's responsibility as a key player in the transport sector
+Seed: Flights within new zealand
+Seed: Local economy and tourism industry
+[Flagship airline of new zealand]: Air new zealand --[Is]-> Flagship airline of new zealand 0.8666887283325195
+[Airline's responsibility as a key player in the transport sector]: Air new zealand --[Reflects]-> Airline's responsibility as a key player in the transport sector 0.8512676358222961
+[Flights within new zealand]: Auckland airport --[Serves]-> Flights within new zealand 0.8357343673706055
+[Local economy and tourism industry]: Auckland airport --[Supporting]-> Local economy and tourism industry 0.8478906750679016

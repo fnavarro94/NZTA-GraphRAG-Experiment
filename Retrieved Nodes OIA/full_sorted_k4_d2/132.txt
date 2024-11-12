@@ -1,0 +1,31 @@
+What was the objective of the Safe Limits campaign regarding speed limits?
+None
+Seed: comparing the number of accidents under the 100km speed limit versus the current 80km speed rate
+Seed: wider objectives in Regional Public Transport Plans
+Seed: Setting of Speed Limits Rule 2017
+Seed: speed limit zones
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[INTERESTED_IN]-> comparing the number of accidents under the 100km speed limit versus the current 80km speed rate 0.8275731205940247
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[REQUESTS]-> annual accident rate on SH16 0.7722885608673096
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[EMAILS]-> NZ Transport Agency 0.7626992464065552
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[REQUESTS]-> information under the Official Information Act 1982 0.7481383681297302
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[WRITES]-> email to the NZ Transport Agency 0.745938777923584
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[WRITES]-> email dated 30 April 2018 0.7226035594940186
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[LIVES]-> New Zealand 0.6941666603088379
+[wider objectives in Regional Public Transport Plans]: underlying principles of the current policy --[CONTRIBUTES]-> wider objectives in Regional Public Transport Plans 0.8214088082313538
+[wider objectives in Regional Public Transport Plans]: wider objectives in Regional Public Transport Plans --[CONTRIBUTES]-> government's transport priorities 0.8207579851150513
+[wider objectives in Regional Public Transport Plans]: national farebox recovery target --[REPLACED_BY]-> underlying principles of the current policy 0.7866144776344299
+[wider objectives in Regional Public Transport Plans]: government's transport priorities --[INCLUDES]-> fares play an important role in helping cover the cost of public transport within available budgets 0.774955153465271
+[Setting of Speed Limits Rule 2017]: Setting of Speed Limits Rule 2017 --[APPLIES_TO]-> speed review process 0.8445148468017578
+[Setting of Speed Limits Rule 2017]: speed review process --[AFFECTS]-> road safety 0.8354967832565308
+[Setting of Speed Limits Rule 2017]: Waka Kotahi --[RAISES_AWARENESS]-> importance of setting safe speeds 0.8291877508163452
+[Setting of Speed Limits Rule 2017]: Waka Kotahi --[FOLLOWS]-> Setting of Speed Limits Rule 2017 0.7993307113647461
+[Setting of Speed Limits Rule 2017]: speed review process --[INVOLVES]-> stakeholders 0.7986931204795837
+[Setting of Speed Limits Rule 2017]: speed review process --[REQUIRES]-> consultation 0.7874020934104919
+[Setting of Speed Limits Rule 2017]: decision making --[PART_OF]-> speed review process 0.7852752208709717
+[speed limit zones]: crashes --[BY]-> speed limit zones 0.8260400295257568
+[speed limit zones]: crashes --[OCCURRED]-> Territorial Local Authorities 0.7688246965408325
+[speed limit zones]: crashes --[BY]-> NZ Police 0.7417254447937012
+[speed limit zones]: crashes --[BY]-> severity 0.7400926947593689
+[speed limit zones]: crashes --[BY]-> reporting time frame 0.7395219206809998
+[speed limit zones]: crashes --[OCCURRED]-> State Highway 16 0.7372403740882874
+[speed limit zones]: New Zealand Police --[REPORTS]-> crashes 0.735305666923523

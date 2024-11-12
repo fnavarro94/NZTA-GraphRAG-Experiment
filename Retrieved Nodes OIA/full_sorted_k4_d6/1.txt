@@ -1,0 +1,34 @@
+What is the NZTA planning in terms of road network changes to accommodate the increased traffic from the new Interislander ferries in Marlborough?
+None
+Seed: 2023-24 State Highway Investment Proposal
+Seed: Road Network Changes
+Seed: Strategic Highway Improvements
+Seed: wider objectives in Regional Public Transport Plans
+[2023-24 State Highway Investment Proposal]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.8258973360061646
+[2023-24 State Highway Investment Proposal]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Access and Development Programme Business Case 0.8242402672767639
+[2023-24 State Highway Investment Proposal]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.8242267966270447
+[2023-24 State Highway Investment Proposal]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Access and Development Programme Business Case 0.8238455057144165
+[2023-24 State Highway Investment Proposal]: 2024-27 National Land Transport Programme --[DEVELOPMENT_OF]-> Regional Land Transport Plan 0.8151655197143555
+[2023-24 State Highway Investment Proposal]: Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.8085301518440247
+[2023-24 State Highway Investment Proposal]: Hornby Access and Development Programme Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.7920799255371094
+[Road Network Changes]: Marlborough Transport System --[AFFECTED_BY]-> Interislander Ferries 0.9047424793243408
+[Road Network Changes]: Road Network Changes --[PLANNED_BY]-> New Zealand Transport Agency 0.8945071697235107
+[Road Network Changes]: Marlborough Region --[REQUIRES]-> Road Network Changes 0.8848259449005127
+[Road Network Changes]: Interislander Ferries --[INTRODUCES]-> Larger Ferries 0.8635907769203186
+[Road Network Changes]: Let's Get Wellington Moving --[HAS_COMPONENT]-> Strategic Highway Improvements 0.859376072883606
+[Road Network Changes]: New Zealand Transport Agency --[FOLLOWS]-> NZTA policy 0.8569625616073608
+[Road Network Changes]: New Zealand Transport Agency --[PLANS]-> Road to Zero Strategy 0.8554567098617554
+[Strategic Highway Improvements]: Marlborough Transport System --[AFFECTED_BY]-> Interislander Ferries 0.9047424793243408
+[Strategic Highway Improvements]: Road Network Changes --[PLANNED_BY]-> New Zealand Transport Agency 0.8945071697235107
+[Strategic Highway Improvements]: Marlborough Region --[REQUIRES]-> Road Network Changes 0.8848259449005127
+[Strategic Highway Improvements]: Interislander Ferries --[INTRODUCES]-> Larger Ferries 0.8635907769203186
+[Strategic Highway Improvements]: Let's Get Wellington Moving --[HAS_COMPONENT]-> Strategic Highway Improvements 0.859376072883606
+[Strategic Highway Improvements]: New Zealand Transport Agency --[FOLLOWS]-> NZTA policy 0.8569625616073608
+[Strategic Highway Improvements]: New Zealand Transport Agency --[PLANS]-> Road to Zero Strategy 0.8554567098617554
+[wider objectives in Regional Public Transport Plans]: underlying principles of the current policy --[CONTRIBUTES]-> wider objectives in Regional Public Transport Plans 0.8204548358917236
+[wider objectives in Regional Public Transport Plans]: wider objectives in Regional Public Transport Plans --[CONTRIBUTES]-> government's transport priorities 0.8107022643089294
+[wider objectives in Regional Public Transport Plans]: manage fare revenue and public transport budgets within current funding allocations --[REQUIRES]-> standard cost scope adjustment process 0.7976748943328857
+[wider objectives in Regional Public Transport Plans]: public transport budgets --[MANAGED_BY]-> councils 0.7936353087425232
+[wider objectives in Regional Public Transport Plans]: councils --[MUST]-> manage fare revenue and public transport budgets within current funding allocations 0.7851710319519043
+[wider objectives in Regional Public Transport Plans]: national farebox recovery target --[REPLACED_BY]-> underlying principles of the current policy 0.7822233438491821
+[wider objectives in Regional Public Transport Plans]: councils with greater flexibility --[ADDRESS]-> public transport affordability 0.7793487310409546

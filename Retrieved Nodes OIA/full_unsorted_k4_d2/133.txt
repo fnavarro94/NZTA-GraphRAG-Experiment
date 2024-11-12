@@ -1,0 +1,36 @@
+What is the annual accident rate on State Highway 16 (SH16) over the last decade for the 80km/h and 100km/h speed limits?
+None
+Seed: annual accident rate on SH16
+Seed: comparing the number of accidents under the 100km speed limit versus the current 80km speed rate
+Seed: vehicle accidents
+Seed: information on vehicle accidents
+[annual accident rate on SH16]: Debrin Foxcroft --[REQUESTS]-> annual accident rate on SH16 0.8697636723518372
+[annual accident rate on SH16]: Debrin Foxcroft --[EMAILS]-> NZ Transport Agency 0.745874285697937
+[annual accident rate on SH16]: Debrin Foxcroft --[LIVES]-> New Zealand 0.7006820440292358
+[annual accident rate on SH16]: Debrin Foxcroft --[WRITES]-> email to the NZ Transport Agency 0.7236647009849548
+[annual accident rate on SH16]: Debrin Foxcroft --[WRITES]-> email dated 30 April 2018 0.7282837629318237
+[annual accident rate on SH16]: Debrin Foxcroft --[INTERESTED_IN]-> comparing the number of accidents under the 100km speed limit versus the current 80km speed rate 0.8590115904808044
+[annual accident rate on SH16]: Debrin Foxcroft --[REQUESTS]-> information under the Official Information Act 1982 0.7264496088027954
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[INTERESTED_IN]-> comparing the number of accidents under the 100km speed limit versus the current 80km speed rate 0.8590115904808044
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[EMAILS]-> NZ Transport Agency 0.745874285697937
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[REQUESTS]-> annual accident rate on SH16 0.8697636723518372
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[LIVES]-> New Zealand 0.7006820440292358
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[WRITES]-> email to the NZ Transport Agency 0.7236647009849548
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[WRITES]-> email dated 30 April 2018 0.7282837629318237
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[REQUESTS]-> information under the Official Information Act 1982 0.7264496088027954
+[vehicle accidents]: vehicle accidents --[LOCATED]-> intersection of Kiddle Drive/Arrowsmith Ave 0.8030250072479248
+[vehicle accidents]: Data --[LIMITED]-> intersection of Kiddle Drive/Arrowsmith Ave 0.7781587839126587
+[vehicle accidents]: intersection of Kiddle Drive/Arrowsmith Ave --[CROSSES]-> Napier Road 0.749718427658081
+[information on vehicle accidents]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.8011813163757324
+[information on vehicle accidents]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7500097155570984
+[information on vehicle accidents]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.7433618307113647
+[information on vehicle accidents]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> list of LGWM construction contracts 0.7322937250137329
+[information on vehicle accidents]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> public transport fare policy review 0.7664750218391418
+[information on vehicle accidents]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.810263454914093
+[information on vehicle accidents]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.7811042070388794
+[information on vehicle accidents]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.7755988836288452
+[information on vehicle accidents]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.7808607816696167
+[information on vehicle accidents]: Waka Kotahi NZ Transport Agency --[FAX]-> F 64 4 894 6100 0.7689687013626099
+[information on vehicle accidents]: Andrew Knackstedt --[CONTACT]-> Waka Kotahi NZ Transport Agency 0.7610563039779663
+[information on vehicle accidents]: Waka Kotahi NZ Transport Agency --[CONTACT]-> T 64 4 894 5400 0.7659549117088318
+[information on vehicle accidents]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7483609914779663

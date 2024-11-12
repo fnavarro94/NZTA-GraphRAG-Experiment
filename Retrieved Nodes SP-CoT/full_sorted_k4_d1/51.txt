@@ -1,0 +1,17 @@
+What is the abbreviation commonly used for the legislation in New Zealand that focuses on ensuring the health and safety of workers in the transport sector?
+None
+Seed: Health and safety at work act
+Seed: Health and safety at work act 2015
+Seed: Legislative framework for road safety initiatives
+Seed: Critical aspect of transport management in new zealand
+[Health and safety at work act]: Health and safety at work act --[Year]-> 2015 0.8642112612724304
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Applies to]-> Road transport 0.8889070749282837
+[Health and safety at work act 2015]: Rail transport safety --[Governed by]-> Health and safety at work act 2015 0.8773820400238037
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Is]-> Key piece of legislation 0.8742935657501221
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Applies to]-> Rail 0.8708305954933167
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Applies to]-> Maritime 0.8602846264839172
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Applies to]-> Aviation 0.8569278717041016
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Introduced]-> Robust approach to workplace health and safety 0.8468142151832581
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Provides]-> Legislative framework for road safety initiatives 0.863045871257782
+[Critical aspect of transport management in new zealand]: Heavy vehicle safety --[Is]-> Critical aspect of transport management in new zealand 0.8750824332237244
+[Critical aspect of transport management in new zealand]: Road condition monitoring --[Is]-> Critical aspect of transport management in new zealand 0.842606782913208

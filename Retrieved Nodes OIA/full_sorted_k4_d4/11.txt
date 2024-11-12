@@ -1,0 +1,34 @@
+When were the safety cameras in the Waterview Tunnel last calibrated for accuracy?
+None
+Seed: MINO -1042 Waterview Tunnel
+Seed: information on traffic light cameras and speed cameras
+Seed: information on traffic light cameras
+Seed: Lyttelton tunnel
+[MINO -1042 Waterview Tunnel]: MINO -1042 Waterview Tunnel --[WARNING]-> 19 April 2024 0.8536930680274963
+[MINO -1042 Waterview Tunnel]: MINO -1047 Driver instructors --[TESTING]-> 29 April 2024 0.767119288444519
+[MINO -1042 Waterview Tunnel]: MINO -1051 Supporting information --[DEBATE]-> 30 April 2024 0.7479780912399292
+[MINO -1042 Waterview Tunnel]: MINO -1029 Minister Office's --[QUERY]-> 8 April 2024 0.7443828582763672
+[MINO -1042 Waterview Tunnel]: MIN-4449 --[IS]-> Released in full 0.7420194149017334
+[MINO -1042 Waterview Tunnel]: MIN-4449 --[DATE]-> 17 April 2024 0.7400461435317993
+[MINO -1042 Waterview Tunnel]: Ministers Report --[DATE]-> 8 April 2024 0.7383515238761902
+[information on traffic light cameras and speed cameras]: Homer Tunnel worker and avalanche inspection application --[DEVELOPED_BY]-> Connected Journeys 0.821485161781311
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.8053565621376038
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on speed cameras 0.8041082620620728
+[information on traffic light cameras and speed cameras]: Connected Journeys --[DEVELOPS]-> Homer Tunnel worker and avalanche inspection application 0.803867757320404
+[information on traffic light cameras and speed cameras]: health and safety incidents --[OCCURRED]-> 2008-2013 0.80216383934021
+[information on traffic light cameras and speed cameras]: WCC --[SAFETY_ASSESSMENT]-> Rainbow Crossing Safety Review FINAL 0.8009176254272461
+[information on traffic light cameras and speed cameras]: Transport Safety Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.7983179092407227
+[information on traffic light cameras]: Homer Tunnel worker and avalanche inspection application --[DEVELOPED_BY]-> Connected Journeys 0.821485161781311
+[information on traffic light cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.8053565621376038
+[information on traffic light cameras]: Waka Kotahi --[PROVIDES]-> information on speed cameras 0.8041082620620728
+[information on traffic light cameras]: Connected Journeys --[DEVELOPS]-> Homer Tunnel worker and avalanche inspection application 0.803867757320404
+[information on traffic light cameras]: health and safety incidents --[OCCURRED]-> 2008-2013 0.80216383934021
+[information on traffic light cameras]: WCC --[SAFETY_ASSESSMENT]-> Rainbow Crossing Safety Review FINAL 0.8009176254272461
+[information on traffic light cameras]: Transport Safety Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.7983179092407227
+[Lyttelton tunnel]: meet or exceed performance requirements --[RELATES_TO]-> Lyttelton tunnel 0.776185929775238
+[Lyttelton tunnel]: Lyttelton tunnel --[RENEWAL_SCHEDULED]-> 2024 0.7758153676986694
+[Lyttelton tunnel]: pavement --[CONTINUES]-> meet or exceed performance requirements 0.7649145126342773
+[Lyttelton tunnel]: current and future renewal programmes --[PUBLISHED]-> National Maintenance Forward Work Map 0.764043927192688
+[Lyttelton tunnel]: National Maintenance Forward Work Map --[AVAILABLE]-> online 0.756538987159729
+[Lyttelton tunnel]: asset data, high speed data collection tools, surfacing data and best practise --[IDENTIFIES]-> high priority and need 0.745941698551178
+[Lyttelton tunnel]: high priority and need --[RELATES_TO]-> pavement 0.7328938245773315

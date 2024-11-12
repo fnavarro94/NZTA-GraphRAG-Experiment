@@ -1,0 +1,36 @@
+In what year did the primary provider of ambulance services in New Zealand officially become established in New Zealand?
+None
+Seed: Primary provider of ambulance services
+Seed: Largest ambulance service in new zealand
+Seed: First free ambulance service
+Seed: Healthcare providers
+[Primary provider of ambulance services]: St john --[Is]-> Primary provider of ambulance services 0.8614489436149597
+[Primary provider of ambulance services]: St john --[Is]-> Charitable organization 0.7361094951629639
+[Primary provider of ambulance services]: St john --[Offers]-> Community transport solutions 0.7444064617156982
+[Primary provider of ambulance services]: St john --[Has]-> Over 700 ambulances 0.8080019354820251
+[Primary provider of ambulance services]: St john --[Provides]-> Pre-hospital emergency care and transport 0.7959211468696594
+[Primary provider of ambulance services]: St john --[Founded in]-> 1885 0.7546920776367188
+[Primary provider of ambulance services]: St john --[Plays role in]-> Transport and emergency medical services 0.8050534129142761
+[Primary provider of ambulance services]: St john --[Operates]-> Largest ambulance service in new zealand 0.8696715831756592
+[Primary provider of ambulance services]: St john --[Provides]-> Non-emergency patient transport services 0.7787817716598511
+[Primary provider of ambulance services]: St john --[Responsible for]-> Emergency medical response 0.7852314710617065
+[Primary provider of ambulance services]: St john --[Operates]-> Across new zealand 0.7961996793746948
+[Primary provider of ambulance services]: St john --[Responsible for]-> Event medical services 0.7793587446212769
+[Primary provider of ambulance services]: St john --[Responsible for]-> Patient transport 0.7748152613639832
+[Largest ambulance service in new zealand]: St john --[Operates]-> Largest ambulance service in new zealand 0.8696715831756592
+[Largest ambulance service in new zealand]: St john --[Is]-> Charitable organization 0.7361094951629639
+[Largest ambulance service in new zealand]: St john --[Offers]-> Community transport solutions 0.7444064617156982
+[Largest ambulance service in new zealand]: St john --[Has]-> Over 700 ambulances 0.8080019354820251
+[Largest ambulance service in new zealand]: St john --[Provides]-> Pre-hospital emergency care and transport 0.7959211468696594
+[Largest ambulance service in new zealand]: St john --[Founded in]-> 1885 0.7546920776367188
+[Largest ambulance service in new zealand]: St john --[Plays role in]-> Transport and emergency medical services 0.8050534129142761
+[Largest ambulance service in new zealand]: St john --[Provides]-> Non-emergency patient transport services 0.7787817716598511
+[Largest ambulance service in new zealand]: St john --[Responsible for]-> Emergency medical response 0.7852314710617065
+[Largest ambulance service in new zealand]: St john --[Operates]-> Across new zealand 0.7961996793746948
+[Largest ambulance service in new zealand]: St john --[Responsible for]-> Event medical services 0.7793587446212769
+[Largest ambulance service in new zealand]: St john --[Responsible for]-> Patient transport 0.7748152613639832
+[Largest ambulance service in new zealand]: St john --[Is]-> Primary provider of ambulance services 0.8614489436149597
+[First free ambulance service]: Wellington free ambulance --[Is]-> First free ambulance service 0.8720431327819824
+[First free ambulance service]: Wellington free ambulance --[Engages in]-> Community education programs 0.8353244066238403
+[First free ambulance service]: Wellington free ambulance --[Operates]-> Rapid response vehicles 0.8389355540275574
+[First free ambulance service]: Wellington free ambulance --[Offers]-> Services without charge 0.8377235531806946

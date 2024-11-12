@@ -1,0 +1,31 @@
+What were the safety failures identified in Go Wellington buses during the inspections in April and May 2013?
+None
+Seed: Safety Incidents
+Seed: rail operational safety
+Seed: Senior Manager Road Safety
+Seed: Vehicle Safety
+[Safety Incidents]: Safety Incidents --[INVESTIGATED]-> Board 0.829444169998169
+[Safety Incidents]: Health, Safety & Quality Report --[CONTAINS]-> Safety Incidents 0.8126248717308044
+[Safety Incidents]: Stephen Bell --[SUBMITS_REPORT]-> Health, Safety & Quality Report 0.7792056202888489
+[Safety Incidents]: Board --[RECEIVES_REPORT]-> Health, Safety & Quality Report 0.7784532904624939
+[rail operational safety]: New Zealand Transport Agency --[BASED]-> Wellington 0.8688766956329346
+[rail operational safety]: road safety initiatives --[ASSOCIATED_WITH]-> Wellington City Council 0.8625791668891907
+[rail operational safety]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.8608624935150146
+[rail operational safety]: Vehicle Inspection --[CONDUCTED_BY]-> New Zealand Transport Agency 0.8601038455963135
+[rail operational safety]: NZ Transport Agency --[LOCATED]-> Wellington 0.8590268492698669
+[rail operational safety]: New Zealand Transport Agency --[LOCATED]-> Wellington 6141 0.8563122749328613
+[rail operational safety]: road safety --[COLLABORATED_BY]-> Wellington City Council 0.8555494546890259
+[Senior Manager Road Safety]: New Zealand Transport Agency --[BASED]-> Wellington 0.8688766956329346
+[Senior Manager Road Safety]: road safety initiatives --[ASSOCIATED_WITH]-> Wellington City Council 0.8625791668891907
+[Senior Manager Road Safety]: vehicle inspection --[CONDUCTED_BY]-> NZ Transport Agency 0.8621466755867004
+[Senior Manager Road Safety]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.8608624935150146
+[Senior Manager Road Safety]: Vehicle Inspection --[CONDUCTED_BY]-> New Zealand Transport Agency 0.8601038455963135
+[Senior Manager Road Safety]: NZ Transport Agency --[LOCATED]-> Wellington 0.8590268492698669
+[Senior Manager Road Safety]: New Zealand Transport Agency --[LOCATED]-> Wellington 6141 0.8563122749328613
+[Vehicle Safety]: New Zealand Transport Agency --[BASED]-> Wellington 0.8688766956329346
+[Vehicle Safety]: road safety initiatives --[ASSOCIATED_WITH]-> Wellington City Council 0.8625791668891907
+[Vehicle Safety]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.8608624935150146
+[Vehicle Safety]: Vehicle Inspection --[CONDUCTED_BY]-> New Zealand Transport Agency 0.8601038455963135
+[Vehicle Safety]: NZ Transport Agency --[LOCATED]-> Wellington 0.8590268492698669
+[Vehicle Safety]: New Zealand Transport Agency --[LOCATED]-> Wellington 6141 0.8563122749328613
+[Vehicle Safety]: road safety --[COLLABORATED_BY]-> Wellington City Council 0.8555494546890259

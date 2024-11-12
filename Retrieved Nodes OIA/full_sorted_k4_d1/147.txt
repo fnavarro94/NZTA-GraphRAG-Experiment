@@ -1,0 +1,13 @@
+Does Waka Kotahi provide data distinguishing private vehicle movements on Hewletts Road?
+None
+Seed: information on daily private vehicle movements
+Seed: traffic counter sites on Hewletts Road
+Seed: Open Data portal for information about daily traffic volumes on Hewletts Road
+Seed: Waka Kotahi N Z Transport Agency
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[REFUSED_REQUEST]-> information on daily private vehicle movements 0.8857535123825073
+[traffic counter sites on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.8958986401557922
+[traffic counter sites on Hewletts Road]: traffic counter sites on Hewletts Road --[DOES_NOT]-> separate heavy or light vehicles 0.8584486246109009
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.9115909934043884
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Open Data portal for information about daily traffic volumes on Hewletts Road --[LINKED_TO]-> https://maphub.nzta.govt.nz/public/?appid=31305d4c1c794c1188a87da0d3e85d04 0.8737895488739014
+[Waka Kotahi N Z Transport Agency]: Data --[PROVIDED]-> Waka Kotahi N Z Transport Agency 0.9045767784118652
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINS]-> Waka Kotahi N Z Transport Agency 0.8507212400436401

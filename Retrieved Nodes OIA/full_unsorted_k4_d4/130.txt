@@ -1,0 +1,36 @@
+What was included in the legal costs from Meredith Connell during this period?
+None
+Seed: Summary of legal and other costs
+Seed: Meredith Connell
+Seed: transaction costs
+Seed: Costs
+[Summary of legal and other costs]: Robert Pines --[REQUESTED]-> Summary of legal and other costs 0.8374570608139038
+[Meredith Connell]: Meredith Connell --[ASSOCIATED]-> Enforcement of regulatory role 0.8630585074424744
+[Meredith Connell]: New Zealand Transport Agency --[ASSOCIATED]-> Enforcement of regulatory role 0.7582228183746338
+[Meredith Connell]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7109242081642151
+[Meredith Connell]: New Zealand Transport Agency --[BASED]-> Wellington 0.7178975343704224
+[Meredith Connell]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7416396141052246
+[Meredith Connell]: Golden Mile --[LOCATED]-> Wellington 0.7059236764907837
+[Meredith Connell]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7144773006439209
+[Meredith Connell]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7355833649635315
+[Meredith Connell]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7427403926849365
+[Meredith Connell]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7139295339584351
+[Meredith Connell]: Wellington --[PART_OF]-> Wellington Region 0.7339524030685425
+[Meredith Connell]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7229363918304443
+[Meredith Connell]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7292340993881226
+[Meredith Connell]: Wellington --[HAS]-> tunnel 0.7301535606384277
+[Meredith Connell]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.6971832513809204
+[Meredith Connell]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7372634410858154
+[Meredith Connell]: Wellington --[POSTCODE]-> 6141 0.7075467705726624
+[Meredith Connell]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7080695629119873
+[Meredith Connell]: Wellington --[IS_PART_OF]-> New Zealand 0.7202864289283752
+[Meredith Connell]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.729130208492279
+[Meredith Connell]: 50 Victoria Street --[IN]-> Wellington 0.7211228609085083
+[Meredith Connell]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7365356683731079
+[Meredith Connell]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7276701927185059
+[Meredith Connell]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7225056290626526
+[Meredith Connell]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7002036571502686
+[Meredith Connell]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7129569053649902
+[Meredith Connell]: NZ Transport Agency --[LOCATED]-> Wellington 0.7096439599990845
+[Meredith Connell]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7290421724319458
+[Meredith Connell]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.718573808670044

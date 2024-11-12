@@ -1,0 +1,36 @@
+What are the main considerations for regional fare policies according to Waka Kotahi?
+None
+Seed: wider impacts of fare policy on people and cities
+Seed: review of public transport fare policy
+Seed: fare policy guidance
+Seed: fares play an important role in helping cover the cost of public transport within available budgets
+[wider impacts of fare policy on people and cities]: wider impacts of fare policy on people and cities --[INCLUCES]-> national farebox recovery target 0.844484806060791
+[wider impacts of fare policy on people and cities]: 2018-21 NLTP --[APPLIES]-> national farebox recovery target 0.7948822975158691
+[wider impacts of fare policy on people and cities]: national farebox recovery target --[REPLACED]-> 2018-21 NLTP 0.7786740064620972
+[wider impacts of fare policy on people and cities]: national farebox recovery target --[INTRODUCED]-> 2010 0.7805708050727844
+[wider impacts of fare policy on people and cities]: 2010 --[APPLIES]-> national farebox recovery target 0.7884587645530701
+[wider impacts of fare policy on people and cities]: national farebox recovery target --[REPLACED_BY]-> underlying principles of the current policy 0.8226667642593384
+[wider impacts of fare policy on people and cities]: underlying principles of the current policy --[CONTRIBUTES]-> wider objectives in Regional Public Transport Plans 0.8513203859329224
+[wider impacts of fare policy on people and cities]: public transport affordability --[RELATES_TO]-> wider impacts of fare policy on people and cities 0.8432769179344177
+[wider impacts of fare policy on people and cities]: councils with greater flexibility --[ADDRESS]-> public transport affordability 0.791164755821228
+[wider impacts of fare policy on people and cities]: access --[PROVIDES]-> councils with greater flexibility 0.7431848049163818
+[review of public transport fare policy]: New Zealand Transport Agency --[UNDERTAKES]-> review of public transport fare policy 0.8370202779769897
+[review of public transport fare policy]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7761765718460083
+[review of public transport fare policy]: New Zealand Transport Agency --[BASED]-> Wellington 0.7807437777519226
+[review of public transport fare policy]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7482758164405823
+[review of public transport fare policy]: Golden Mile --[LOCATED]-> Wellington 0.7369648218154907
+[review of public transport fare policy]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7419995665550232
+[review of public transport fare policy]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7331980466842651
+[review of public transport fare policy]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7437660098075867
+[review of public transport fare policy]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7358660101890564
+[review of public transport fare policy]: Wellington --[PART_OF]-> Wellington Region 0.7747676372528076
+[review of public transport fare policy]: New Zealand --[HAS_CAPITAL]-> Wellington 0.757449209690094
+[review of public transport fare policy]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.772254467010498
+[review of public transport fare policy]: Wellington --[HAS]-> tunnel 0.7468912601470947
+[review of public transport fare policy]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.8353607058525085
+[review of public transport fare policy]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7476063966751099
+[review of public transport fare policy]: Wellington --[POSTCODE]-> 6141 0.7300643920898438
+[review of public transport fare policy]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7693886756896973
+[review of public transport fare policy]: Wellington --[IS_PART_OF]-> New Zealand 0.7523343563079834
+[review of public transport fare policy]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7653422355651855
+[review of public transport fare policy]: 50 Victoria Street --[IN]-> Wellington 0.7308633327484131

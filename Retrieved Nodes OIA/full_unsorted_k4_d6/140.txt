@@ -1,0 +1,36 @@
+How much was spent on public consultation for the Golden Mile upgrades by July 2020?
+None
+Seed: itemised breakdown of all spending on public consultation for Golden Mile upgrades
+Seed: information pertaining to the Golden Mile revitalisation project contract
+Seed: information on Golden Mile revitalisation project contract
+Seed: Golden Mile revitalisation project
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[ITEMISED]-> itemised breakdown of all spending on public consultation for Golden Mile upgrades 0.8785224556922913
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[EMAIL]-> joel.macmanus@stuff.co.nz 0.7178447246551514
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[REQUEST]-> Request made under the Official Information Act 1982 0.7430177927017212
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Request made under the Official Information Act 1982 --[REQUEST_DATE]-> 30 October 2018 0.7818940877914429
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Request made under the Official Information Act 1982 --[REQUESTED_BY]-> Thomas Coughlan 0.7612971067428589
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Thomas Coughlan --[REQUESTS]-> information under the Official Information Act 1982 0.7495494484901428
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[REQUESTED]-> information under the Official Information Act 1982 0.7346650958061218
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[DATE]-> 4 September 2020 0.7424349188804626
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[EMAIL]-> 28 July 2020 0.7635780572891235
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[REF]-> REF: OIA -6939 0.7261835932731628
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[ITEMISED]-> itemised list of all Let’s Get Wellington Moving spending in 2020 to date 0.8066169023513794
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[DEAR]-> Dear Joel 0.6844617128372192
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: information under the Official Information Act 1982 --[REGULATED_BY]-> Official Information Act 1982 0.7325875759124756
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Catherine Gaffaney --[REQUESTS]-> Official Information Act 1982 0.7474067807197571
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Official Information Act 1982 --[PROTECTS]-> Privacy of Natural Persons 0.7223713397979736
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Official Information Act 1982 --[APPLIES_TO]-> New Zealand 0.7382802367210388
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Nigel Parry --[REQUESTS]-> Official Information Act 1982 0.7435675859451294
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Jordan Bond --[REQUESTS]-> Official Information Act 1982 0.7531129717826843
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Cherie Howie --[REQUESTS]-> information under the Official Information Act 1982 0.7402846217155457
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Herald on Sunday --[EMPLOYS]-> Cherie Howie 0.7061281204223633
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: oia-1246-cherie-howie.pdf --[ASSOCIATED_WITH]-> Cherie Howie 0.7188746333122253
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Cherie Howie --[SUBJECT_OF]-> oia-1246-cherie-howie.pdf 0.7196798920631409
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Cherie Howie --[EMAIL]-> cherie.howie@heraldonsunday.co.nz 0.7263913154602051
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Sam Kelway --[REQUESTS]-> information under the Official Information Act 1982 0.7601547837257385
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: New Zealand Transport Agency --[RESPONDS]-> Sam Kelway 0.7657918930053711
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Sam Kelway --[RECEIVES]-> response from New Zealand Transport Agency 0.7607579231262207
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Conan Young --[INQUIRES]-> information under the Official Information Act 1982 0.7462905645370483
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Conan Young --[RECEIVES]-> response 0.7047096490859985
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: New Zealand Transport Agency --[RESPONDS]-> Conan Young 0.7550175189971924
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Conan Young --[EMAILS]-> andy.knackstedt@nzta.govt.nz 0.7514848113059998

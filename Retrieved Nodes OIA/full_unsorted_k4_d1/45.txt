@@ -1,0 +1,12 @@
+Who is the Programme Director for the National Ticketing System (NTS) mentioned in the letter?
+None
+Seed: Programme Director, NTS
+Seed: National Ticketing System
+Seed: RFP for National Ticket System
+Seed: National Ticketing Solution request for proposal
+[Programme Director, NTS]: Programme Director, NTS --[AT]-> New Zealand Transport Agency 0.878320574760437
+[Programme Director, NTS]: Yogesh Anand --[POSITION]-> Programme Director, NTS 0.8621550798416138
+[National Ticketing System]: Request for National Ticketing System Documentation --[REQUESTS]-> National Ticketing System 0.8407952785491943
+[RFP for National Ticket System]: New Zealand Transport Agency --[REFUSES]-> RFP for National Ticket System 0.8187078237533569
+[RFP for National Ticket System]: RFP for National Ticket System --[AVAILABLE]-> www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ 0.8429312705993652
+[National Ticketing Solution request for proposal]: www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ --[CONTAINS]-> National Ticketing Solution request for proposal 0.8398559093475342

@@ -1,0 +1,26 @@
+What information can be found in the Driver Licence Register (DLR)?
+None
+Seed: information on vehicle and driver registration and licensing
+Seed: information related to criminal convictions of driving instructor (I) endorsement holders
+Seed: vehicle registration and licensing
+Seed: driver licenses
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[PROVIDES]-> information on vehicle and driver registration and licensing 0.8656876087188721
+[information on vehicle and driver registration and licensing]: NZ Driver Licensing (1998) Limited --[PROVIDES]-> spreadsheet 0.8483223915100098
+[information on vehicle and driver registration and licensing]: Transport Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8468036651611328
+[information on vehicle and driver registration and licensing]: Vehicle Inspection Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8450808525085449
+[information on vehicle and driver registration and licensing]: Transport Agency --[PROVIDES_ACCESS]-> information 0.8412038683891296
+[information on vehicle and driver registration and licensing]: Transport Safety Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8411242961883545
+[information on vehicle and driver registration and licensing]: Land Transport Management Act 2003 --[CITED_IN]-> Transport Service Licences 0.8365874290466309
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Michael Morrah --[REQUESTS]-> information related to criminal convictions of driving instructor (I) endorsement holders 0.8492350578308105
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[RESPONDS]-> request for information 0.8125941753387451
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Michael Morrah --[SUBMITTED]-> request for information 0.7887676954269409
+[vehicle registration and licensing]: New Zealand Transport Agency --[PROVIDES]-> information on vehicle and driver registration and licensing 0.8656876087188721
+[vehicle registration and licensing]: Transport Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8468036651611328
+[vehicle registration and licensing]: Transport Agency --[PROVIDES_ACCESS]-> information 0.8412038683891296
+[vehicle registration and licensing]: New Zealand Transport Agency --[PROVIDES]-> information 0.8320701718330383
+[vehicle registration and licensing]: New Zealand Transport Agency --[PROVIDES]-> information on visiting drivers survey 0.8310438394546509
+[vehicle registration and licensing]: New Zealand Transport Agency --[PROVIDES]-> information on road user charges 0.8283184170722961
+[vehicle registration and licensing]: information --[PROVIDES]-> New Zealand Transport Agency 0.826711118221283
+[driver licenses]: driver licenses --[CONTAINS]-> annual data 0.8542440533638
+[driver licenses]: age categories --[BREAKDOWN]-> learners, restricted, full licenses and vehicle classes 0.8288129568099976
+[driver licenses]: annual data --[BREAKDOWN]-> age categories 0.7529799342155457

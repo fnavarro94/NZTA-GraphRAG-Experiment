@@ -1,0 +1,36 @@
+What is the purpose of the "Mixed? Don't Drive" campaign by Waka Kotahi?
+None
+Seed: Mixed? Don’t Drive campaign
+Seed: Waka Kotahi policy
+Seed: Waka Kotahi N Z Transport Agency
+Seed: Waka Kotahi Board
+[Mixed? Don’t Drive campaign]: Mixed? Don’t Drive campaign --[MEASURES]-> ongoing advertising tracking 0.8297359943389893
+[Mixed? Don’t Drive campaign]: ongoing advertising tracking --[TRACKS]-> public attitude 0.7411656379699707
+[Waka Kotahi policy]: Waka Kotahi --[FOLLOWS]-> Waka Kotahi policy 0.8301162719726562
+[Waka Kotahi policy]: Response --[CONTAINS]-> Waka Kotahi 0.7986851930618286
+[Waka Kotahi policy]: Waka Kotahi --[PUBLISHES]-> Response 0.8186467885971069
+[Waka Kotahi policy]: response --[CONTAINS]-> Waka Kotahi 0.8187158703804016
+[Waka Kotahi policy]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.8138457536697388
+[Waka Kotahi policy]: Charles Ronaldson --[SIGNED]-> response 0.7337712645530701
+[Waka Kotahi policy]: Lauren Cooke --[SIGNED]-> response 0.7526243329048157
+[Waka Kotahi policy]: Waka Kotahi --[PUBLISHED_BY]-> response 0.812608003616333
+[Waka Kotahi policy]: Ministry --[PROVIDE]-> response 0.7258902788162231
+[Waka Kotahi policy]: response --[REMOVED]-> personal information 0.7081308364868164
+[Waka Kotahi policy]: Waka Kotahi website --[CONTAINS]-> response 0.7828352451324463
+[Waka Kotahi policy]: New Zealand Transport Agency --[DISCUSSES]-> response 0.7563005685806274
+[Waka Kotahi policy]: response --[IS_A]-> letter 0.728654146194458
+[Waka Kotahi policy]: Waka Kotahi --[FOLLOWS]-> response 0.8071111440658569
+[Waka Kotahi policy]: New Zealand Transport Agency --[PUBLISH]-> response 0.7691565752029419
+[Waka Kotahi policy]: New Zealand Transport Agency --[PUBLISHES]-> response 0.7663818597793579
+[Waka Kotahi policy]: response --[IS]-> response letter 0.725806474685669
+[Waka Kotahi policy]: response letter --[IS]-> response 0.7242398262023926
+[Waka Kotahi policy]: response --[CONTAINS]-> contact details for the Ombudsman 0.7102636098861694
+[Waka Kotahi policy]: response --[CONTAINS]-> Jamie Ensor 0.7350818514823914
+[Waka Kotahi policy]: response --[RELATES_TO]-> personal information removed 0.7114265561103821
+[Waka Kotahi policy]: Conan Young --[RECEIVES]-> response 0.7188071012496948
+[Waka Kotahi policy]: oia-14650-response-letter.pdf --[CONTAINS]-> response 0.743057131767273
+[Waka Kotahi policy]: response --[IS]-> sincerely 0.725125253200531
+[Waka Kotahi policy]: NZTA --[REPLY]-> response 0.7407174110412598
+[Waka Kotahi policy]: response --[REMOVE]-> personal information 0.6989260911941528
+[Waka Kotahi policy]: Waka Kotahi --[PUBLISHED]-> response 0.8258227109909058
+[Waka Kotahi policy]: Waka Kotahi --[PROVIDES]-> response 0.8067077398300171

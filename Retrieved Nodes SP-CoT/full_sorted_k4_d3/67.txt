@@ -1,0 +1,34 @@
+Who operates the rail network in the country known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, and is responsible for the term that describes the regular activities performed to keep roads safe and functional, including vegetation control, litter removal, and drainage maintenance?
+None
+Seed: Significant role in planning and management of transport infrastructure and services
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+Seed: Critical for freight and passenger movement
+Seed: Critical component of new zealand's transport strategy
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Plays]-> Significant role in planning and management of transport infrastructure and services 0.8216127753257751
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Recognizes]-> Transport as critical component of nation's infrastructure 0.8194189071655273
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Recognizes]-> Transport as critical component 0.819398820400238
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Plays]-> Significant role in shaping transport infrastructure 0.8169958591461182
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Subject]-> Debate regarding effectiveness in addressing challenges of modern transport needs 0.812242865562439
+[Significant role in planning and management of transport infrastructure and services]: Road transport safety --[Governed by]-> Land transport act 1998 0.8088947534561157
+[Significant role in planning and management of transport infrastructure and services]: Land transport act 1998 --[Provides]-> Legislative framework for road safety initiatives 0.8085924386978149
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Aims to]-> Enhance resilience and adaptability of new zealand's transport network 0.813478946685791
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Plays]-> Significant role in shaping transport infrastructure and policy in new zealand 0.8073991537094116
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Is]-> Collective of australian and new zealand road transport and traffic agencies 0.7993488907814026
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Engages in]-> International collaborations to align initiatives with global best practices 0.770313024520874
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Conducts]-> Extensive research and development projects 0.7635674476623535
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Collaborates with]-> New zealand transport agency (nzta 0.7594257593154907
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Founded in]-> 1990 0.7370621562004089
+[Critical for freight and passenger movement]: Road system --[Is vital for]-> Economic activity 0.8251973390579224
+[Critical for freight and passenger movement]: Freight transport in new zealand --[Driven by]-> Sustainability 0.8250607848167419
+[Critical for freight and passenger movement]: Hamilton --[Focus of]-> Transport planning 0.8180660009384155
+[Critical for freight and passenger movement]: Transport skills strategy --[Primary objectives include]-> Sustainability 0.816892147064209
+[Critical for freight and passenger movement]: North island main trunk railway --[Is]-> Critical for freight and passenger movement 0.8133521676063538
+[Critical for freight and passenger movement]: Hamilton --[Focus of]-> Promoting sustainable transport solutions 0.8110504746437073
+[Critical for freight and passenger movement]: Road maintenance strategies --[Ensure]-> Efficiency 0.8102395534515381
+[Critical component of new zealand's transport strategy]: Community engagement --[Is]-> Critical aspect of transport planning 0.8244311809539795
+[Critical component of new zealand's transport strategy]: Road safety education --[Is]-> Critical component of new zealand's transport strategy 0.8174973726272583
+[Critical component of new zealand's transport strategy]: Nzta --[Plays]-> Pivotal role in overseeing road condition monitoring activities 0.8145937919616699
+[Critical component of new zealand's transport strategy]: Sustainable transport solutions --[Includes]-> Cycling 0.8130256533622742
+[Critical component of new zealand's transport strategy]: Cycling --[Is]-> A sustainable and efficient mode of transport 0.8104146718978882
+[Critical component of new zealand's transport strategy]: New zealand road safety strategy --[Established by]-> New zealand government 0.8103114366531372
+[Critical component of new zealand's transport strategy]: Road safety strategy --[Aimed at]-> Reducing road traffic injuries and fatalities 0.8098446130752563

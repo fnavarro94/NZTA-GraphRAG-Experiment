@@ -1,0 +1,34 @@
+When is the first implementation of the National Ticketing System (NTS) expected to take place?
+None
+Seed: National Ticketing Solution request for proposal
+Seed: National Ticketing System
+Seed: Request for National Ticketing System Documentation
+Seed: RFP for National Ticket System
+[National Ticketing Solution request for proposal]: Request for National Ticketing System Documentation --[REQUESTS]-> National Ticketing System 0.8697406053543091
+[National Ticketing Solution request for proposal]: Email --[CONTAINS]-> Request for National Ticketing System Documentation 0.8476017117500305
+[National Ticketing Solution request for proposal]: www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ --[CONTAINS]-> National Ticketing Solution request for proposal 0.8462520837783813
+[National Ticketing Solution request for proposal]: RFP for National Ticket System --[AVAILABLE]-> www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ 0.8455162048339844
+[National Ticketing Solution request for proposal]: NTS --[TRANSITIONS]-> 2026 0.840106725692749
+[National Ticketing Solution request for proposal]: 2026 --[TRANSITIONS]-> NTS 0.835357666015625
+[National Ticketing Solution request for proposal]: New Zealand Transport Agency --[MANAGES]-> NTS 0.8305445909500122
+[National Ticketing System]: Request for National Ticketing System Documentation --[REQUESTS]-> National Ticketing System 0.8697406053543091
+[National Ticketing System]: Email --[CONTAINS]-> Request for National Ticketing System Documentation 0.8476017117500305
+[National Ticketing System]: www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ --[CONTAINS]-> National Ticketing Solution request for proposal 0.8462520837783813
+[National Ticketing System]: RFP for National Ticket System --[AVAILABLE]-> www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ 0.8455162048339844
+[National Ticketing System]: NTS --[TRANSITIONS]-> 2026 0.840106725692749
+[National Ticketing System]: 2026 --[TRANSITIONS]-> NTS 0.835357666015625
+[National Ticketing System]: New Zealand Transport Agency --[MANAGES]-> NTS 0.8305445909500122
+[Request for National Ticketing System Documentation]: Request for National Ticketing System Documentation --[REQUESTS]-> National Ticketing System 0.8697406053543091
+[Request for National Ticketing System Documentation]: Email --[CONTAINS]-> Request for National Ticketing System Documentation 0.8476017117500305
+[Request for National Ticketing System Documentation]: www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ --[CONTAINS]-> National Ticketing Solution request for proposal 0.8462520837783813
+[Request for National Ticketing System Documentation]: RFP for National Ticket System --[AVAILABLE]-> www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ 0.8455162048339844
+[Request for National Ticketing System Documentation]: NTS --[TRANSITIONS]-> 2026 0.840106725692749
+[Request for National Ticketing System Documentation]: 2026 --[TRANSITIONS]-> NTS 0.835357666015625
+[Request for National Ticketing System Documentation]: New Zealand Transport Agency --[MANAGES]-> NTS 0.8305445909500122
+[RFP for National Ticket System]: Request for National Ticketing System Documentation --[REQUESTS]-> National Ticketing System 0.8697406053543091
+[RFP for National Ticket System]: Email --[CONTAINS]-> Request for National Ticketing System Documentation 0.8476017117500305
+[RFP for National Ticket System]: www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ --[CONTAINS]-> National Ticketing Solution request for proposal 0.8462520837783813
+[RFP for National Ticket System]: RFP for National Ticket System --[AVAILABLE]-> www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ 0.8455162048339844
+[RFP for National Ticket System]: NTS --[TRANSITIONS]-> 2026 0.840106725692749
+[RFP for National Ticket System]: 2026 --[TRANSITIONS]-> NTS 0.835357666015625
+[RFP for National Ticket System]: New Zealand Transport Agency --[MANAGES]-> NTS 0.8305445909500122

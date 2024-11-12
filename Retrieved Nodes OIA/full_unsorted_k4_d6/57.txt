@@ -1,0 +1,36 @@
+What is Waka Kotahi's long-term sustainability vision?
+None
+Seed: Waka Kotahi Senior Project Manager
+Seed: vision for a low carbon, safe and healthy land transport system by 2050
+Seed: Waka Kotahi
+Seed: where people can easily learn about sustainability
+[Waka Kotahi Senior Project Manager]: Waka Kotahi Senior Project Manager --[MANAGES]-> State Highway 25A Rebuild Project 0.8160412311553955
+[vision for a low carbon, safe and healthy land transport system by 2050]: Toitū Te Taiao --[SETS]-> vision for a low carbon, safe and healthy land transport system by 2050 0.7960503697395325
+[vision for a low carbon, safe and healthy land transport system by 2050]: Waka Kotahi NZ Transport Agency --[RELEASED]-> Toitū Te Taiao 0.7861352562904358
+[vision for a low carbon, safe and healthy land transport system by 2050]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.800326406955719
+[vision for a low carbon, safe and healthy land transport system by 2050]: New Zealand Transport Agency --[BASED]-> Wellington 0.7100769877433777
+[vision for a low carbon, safe and healthy land transport system by 2050]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.705350399017334
+[vision for a low carbon, safe and healthy land transport system by 2050]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7176860570907593
+[vision for a low carbon, safe and healthy land transport system by 2050]: Golden Mile --[LOCATED]-> Wellington 0.7418380379676819
+[vision for a low carbon, safe and healthy land transport system by 2050]: State Highway 1 --[LOCATED_IN]-> Wellington 0.6915407776832581
+[vision for a low carbon, safe and healthy land transport system by 2050]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7078697681427002
+[vision for a low carbon, safe and healthy land transport system by 2050]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7303106188774109
+[vision for a low carbon, safe and healthy land transport system by 2050]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.6878472566604614
+[vision for a low carbon, safe and healthy land transport system by 2050]: Wellington --[PART_OF]-> Wellington Region 0.7156752347946167
+[vision for a low carbon, safe and healthy land transport system by 2050]: New Zealand --[HAS_CAPITAL]-> Wellington 0.725652813911438
+[vision for a low carbon, safe and healthy land transport system by 2050]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7325078248977661
+[vision for a low carbon, safe and healthy land transport system by 2050]: Wellington --[HAS]-> tunnel 0.7182619571685791
+[vision for a low carbon, safe and healthy land transport system by 2050]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.8005638122558594
+[vision for a low carbon, safe and healthy land transport system by 2050]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.710128664970398
+[vision for a low carbon, safe and healthy land transport system by 2050]: Wellington --[POSTCODE]-> 6141 0.6666117906570435
+[vision for a low carbon, safe and healthy land transport system by 2050]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7015725374221802
+[vision for a low carbon, safe and healthy land transport system by 2050]: Wellington --[IS_PART_OF]-> New Zealand 0.7190846800804138
+[vision for a low carbon, safe and healthy land transport system by 2050]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7359436750411987
+[vision for a low carbon, safe and healthy land transport system by 2050]: 50 Victoria Street --[IN]-> Wellington 0.702663004398346
+[vision for a low carbon, safe and healthy land transport system by 2050]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7072163820266724
+[vision for a low carbon, safe and healthy land transport system by 2050]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7024312019348145
+[vision for a low carbon, safe and healthy land transport system by 2050]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.6991075277328491
+[vision for a low carbon, safe and healthy land transport system by 2050]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7960453629493713
+[vision for a low carbon, safe and healthy land transport system by 2050]: NZ Transport Agency --[LOCATED]-> Wellington 0.6979506611824036
+[vision for a low carbon, safe and healthy land transport system by 2050]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7054677605628967
+[vision for a low carbon, safe and healthy land transport system by 2050]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.701008141040802

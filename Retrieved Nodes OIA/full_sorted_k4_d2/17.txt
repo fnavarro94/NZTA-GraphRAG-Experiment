@@ -1,0 +1,28 @@
+How many Clean Car rebates have been issued between 1 July 2021 and 31 May 2022?
+None
+Seed: 19,662 applications for Clean Car rebates
+Seed: Clean Car rebate scheme
+Seed: 7,162 Clean Car fees
+Seed: Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below.
+[19,662 applications for Clean Car rebates]: Waka Kotahi NZ Transport Agency --[APPROVED]-> 19,662 applications for Clean Car rebates 0.8218832612037659
+[19,662 applications for Clean Car rebates]: s 9(2)(a) --[PROACTIVELY_RELEASED]-> Waka Kotahi NZ Transport Agency 0.7891857028007507
+[19,662 applications for Clean Car rebates]: Waka Kotahi NZ Transport Agency --[PROACTIVELY_RELEASED]-> s 9(2)(a) 0.7802556753158569
+[19,662 applications for Clean Car rebates]: public transport fare policy review --[CONDUCTED_BY]-> Waka Kotahi NZ Transport Agency 0.7750650644302368
+[19,662 applications for Clean Car rebates]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.7746652960777283
+[19,662 applications for Clean Car rebates]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.7713747024536133
+[19,662 applications for Clean Car rebates]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.7696956396102905
+[Clean Car rebate scheme]: Clean Car rebate scheme --[SPENT]-> $101,770,725.74 0.8810279369354248
+[7,162 Clean Car fees]: Waka Kotahi --[RECEIVED]-> 7,162 Clean Car fees 0.8232439756393433
+[7,162 Clean Car fees]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.7972780466079712
+[7,162 Clean Car fees]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.7874102592468262
+[7,162 Clean Car fees]: Waka Kotahi --[CAPTURE]-> carbon emission data for business related travel and fleet vehicles emissions 0.7836247086524963
+[7,162 Clean Car fees]: Waka Kotahi --[WILL_CAPTURE]-> emissions from other corporate or internally focused activities 0.7714684009552002
+[7,162 Clean Car fees]: Regional Public Transport Plans --[DEVELOPED_BY]-> Waka Kotahi 0.7700319886207581
+[7,162 Clean Car fees]: Waka Kotahi --[UPDATE]-> fare policy guidance 0.7697067260742188
+[Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below.]: New Zealand Transport Agency --[RESPONSE]-> Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below. 0.8545590043067932
+[Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below.]: New Zealand Transport Agency --[ON_TRACK]-> transition to a fully electric vehicle fleet by 2025 0.8232187628746033
+[Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below.]: New Zealand Transport Agency --[TRANSITIONING_TO]-> fully electric vehicle fleet 0.8004083037376404
+[Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below.]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.7943099737167358
+[Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below.]: New Zealand Transport Agency --[GRANTS]-> exemptions 0.793870747089386
+[Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below.]: New Zealand Transport Agency --[PROVIDES]-> Periodic Payments 0.792996346950531
+[Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below.]: New Zealand Transport Agency --[PROVIDES]-> information to 8 May 2018 0.7916532158851624

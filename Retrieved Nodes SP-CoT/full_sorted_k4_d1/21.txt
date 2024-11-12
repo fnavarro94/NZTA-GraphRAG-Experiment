@@ -1,0 +1,17 @@
+What is the abbreviation for the agency that provides policy advice, oversees the transport sector, and is in addition to Waka Kotahi?
+None
+Seed: Waka kotahi nz transport agency
+Seed: Transport policies
+Seed: Transport initiatives
+Seed: Active transport initiatives
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Is]-> Primary government agency 0.9099407196044922
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Plays]-> Crucial role 0.9067963361740112
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Responsible for]-> Planning 0.8947932124137878
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Develops]-> Transport policies 0.894770622253418
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Oversees]-> Regulation 0.8927621841430664
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Involved in]-> Integrating technology in transport systems 0.8923803567886353
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Responsible for]-> Management 0.8909571766853333
+[Transport policies]: Waka kotahi nz transport agency --[Develops]-> Transport policies 0.894770622253418
+[Transport initiatives]: National land transport fund --[Finances]-> Transport initiatives 0.7743390798568726
+[Active transport initiatives]: Waka kotahi --[Allocates funding for]-> Active transport initiatives 0.8649888038635254
+[Active transport initiatives]: Auckland transport plan --[Includes]-> Active transport initiatives 0.7741708755493164

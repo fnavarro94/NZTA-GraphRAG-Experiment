@@ -1,0 +1,34 @@
+Where can information about the latest developments in the high productivity motor vehicles (HPMV) bridge strengthening programme be found?
+None
+Seed: current information on HPMV investment routes
+Seed: information on HPMV investment routes
+Seed: request to Minister of Transport
+Seed: briefings to the Minister of Transport
+[current information on HPMV investment routes]: New Zealand Transport Agency --[PROVIDES]-> current information on HPMV investment routes 0.8669214248657227
+[current information on HPMV investment routes]: New Zealand Transport Agency --[PROVIDES]-> information on HPMV investment routes 0.860845685005188
+[current information on HPMV investment routes]: New Zealand Transport Agency --[WEBSITE]-> www.nzta.govt.nz/vehicle/your/hpmv/network-maps.htm 0.8513336181640625
+[current information on HPMV investment routes]: Transport Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8505604267120361
+[current information on HPMV investment routes]: updates on progress --[AVAILABLE]-> https://www.nzta.govt.nz/projects/sh25-sh25a-thames-coromandel/sh25a-rebuild/ 0.8451942205429077
+[current information on HPMV investment routes]: Transport Safety Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.843358039855957
+[current information on HPMV investment routes]: publicly available information --[AVAILABLE_ON]-> www.nzt a.govt.nz/planning -and-investment/learning- and-resources/transport -data/data- and-tools 0.8430965542793274
+[information on HPMV investment routes]: New Zealand Transport Agency --[PROVIDES]-> current information on HPMV investment routes 0.8669214248657227
+[information on HPMV investment routes]: New Zealand Transport Agency --[PROVIDES]-> information on HPMV investment routes 0.860845685005188
+[information on HPMV investment routes]: New Zealand Transport Agency --[WEBSITE]-> www.nzta.govt.nz/vehicle/your/hpmv/network-maps.htm 0.8513336181640625
+[information on HPMV investment routes]: Transport Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8505604267120361
+[information on HPMV investment routes]: updates on progress --[AVAILABLE]-> https://www.nzta.govt.nz/projects/sh25-sh25a-thames-coromandel/sh25a-rebuild/ 0.8451942205429077
+[information on HPMV investment routes]: Transport Safety Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.843358039855957
+[information on HPMV investment routes]: publicly available information --[AVAILABLE_ON]-> www.nzt a.govt.nz/planning -and-investment/learning- and-resources/transport -data/data- and-tools 0.8430965542793274
+[request to Minister of Transport]: New Zealand Transport Agency --[PROVIDES]-> current information on HPMV investment routes 0.8669214248657227
+[request to Minister of Transport]: New Zealand Transport Agency --[PROVIDES]-> information on HPMV investment routes 0.860845685005188
+[request to Minister of Transport]: New Zealand Transport Agency --[WEBSITE]-> www.nzta.govt.nz/vehicle/your/hpmv/network-maps.htm 0.8513336181640625
+[request to Minister of Transport]: Transport Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8505604267120361
+[request to Minister of Transport]: Transport Safety Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.843358039855957
+[request to Minister of Transport]: Vehicle Inspection Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8379403352737427
+[request to Minister of Transport]: Picton Transport Improvements Factsheet --[AVAILABLE_AT]-> https://nzta.govt.nz/assets/projects/waitohi-picton-transport-network-improvements/picton-transport-improvements-factsheet-202010.pdf 0.8353719115257263
+[briefings to the Minister of Transport]: New Zealand Transport Agency --[PROVIDES]-> current information on HPMV investment routes 0.8669214248657227
+[briefings to the Minister of Transport]: New Zealand Transport Agency --[PROVIDES]-> information on HPMV investment routes 0.860845685005188
+[briefings to the Minister of Transport]: New Zealand Transport Agency --[WEBSITE]-> www.nzta.govt.nz/vehicle/your/hpmv/network-maps.htm 0.8513336181640625
+[briefings to the Minister of Transport]: Transport Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8505604267120361
+[briefings to the Minister of Transport]: updates on progress --[AVAILABLE]-> https://www.nzta.govt.nz/projects/sh25-sh25a-thames-coromandel/sh25a-rebuild/ 0.8451942205429077
+[briefings to the Minister of Transport]: Transport Safety Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.843358039855957
+[briefings to the Minister of Transport]: publicly available information --[AVAILABLE_ON]-> www.nzt a.govt.nz/planning -and-investment/learning- and-resources/transport -data/data- and-tools 0.8430965542793274

@@ -1,0 +1,33 @@
+What suburb does Te Ara I Whiti (Lightpath) connect to from the city that is home to the Te Ara I Whiti (Lightpath) project, which has transformed underutilized spaces into vibrant cycling and pedestrian pathways, CBD?
+None
+Seed: Multiple routes linking it to surrounding suburbs and the auckland cbd
+Seed: Auckland cbd
+Seed: Commuters to cbd
+Seed: Dedicated cycle lanes and pedestrian pathways
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Has]-> Multiple routes linking it to surrounding suburbs and the auckland cbd 0.8053060173988342
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Has]-> Dedicated cycle lanes and pedestrian pathways 0.779625415802002
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: New zealand --[Promotes]-> Active transport 0.7649909257888794
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Is]-> Suburb located approximately 12 kilometers southwest of auckland's central business district 0.7634390592575073
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Has]-> Seen significant improvements in cycling and walking infrastructure 0.7572973370552063
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Contributes to]-> City's goals of reducing carbon emissions and enhancing public health 0.7444372773170471
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Has]-> Integration of bus and rail services 0.7384935617446899
+[Auckland cbd]: Te ara i whiti --[Links]-> Auckland cbd 0.8644683361053467
+[Auckland cbd]: Te ara i whiti --[Is]-> Lightpath 0.8454588651657104
+[Auckland cbd]: Te ara i whiti --[Part of]-> Auckland cycle network 0.8362159132957458
+[Auckland cbd]: Te ara i whiti --[Located in]-> Auckland 0.8239569067955017
+[Auckland cbd]: Auckland --[Has]-> Pedestrian pathways 0.8233243227005005
+[Auckland cbd]: Te ara i whiti --[Constructed on]-> Former railway corridor 0.8218223452568054
+[Auckland cbd]: Auckland --[Connected to]-> Surrounding suburbs and regions 0.8139963150024414
+[Commuters to cbd]: Western line --[Connects]-> Commuters to cbd 0.8123621940612793
+[Commuters to cbd]: Eastern line --[Connects]-> Commuters to cbd 0.8025721907615662
+[Commuters to cbd]: Southern line --[Connects]-> Commuters to cbd 0.7966413497924805
+[Commuters to cbd]: Western line --[Is]-> Primary rail corridor 0.7505043745040894
+[Commuters to cbd]: Eastern line --[Is]-> Primary rail corridor 0.735020101070404
+[Commuters to cbd]: Southern line --[Is]-> Primary rail corridor 0.7346377372741699
+[Dedicated cycle lanes and pedestrian pathways]: Onehunga --[Has]-> Multiple routes linking it to surrounding suburbs and the auckland cbd 0.8053060173988342
+[Dedicated cycle lanes and pedestrian pathways]: Onehunga --[Has]-> Dedicated cycle lanes and pedestrian pathways 0.779625415802002
+[Dedicated cycle lanes and pedestrian pathways]: New zealand --[Promotes]-> Active transport 0.7649909257888794
+[Dedicated cycle lanes and pedestrian pathways]: Onehunga --[Is]-> Suburb located approximately 12 kilometers southwest of auckland's central business district 0.7634390592575073
+[Dedicated cycle lanes and pedestrian pathways]: Onehunga --[Has]-> Seen significant improvements in cycling and walking infrastructure 0.7572973370552063
+[Dedicated cycle lanes and pedestrian pathways]: Onehunga --[Contributes to]-> City's goals of reducing carbon emissions and enhancing public health 0.7444372773170471
+[Dedicated cycle lanes and pedestrian pathways]: Onehunga --[Has]-> Integration of bus and rail services 0.7384935617446899

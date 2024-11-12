@@ -1,0 +1,36 @@
+What nickname is commonly associated with the cities that are implementing extensive cycling networks and pedestrian-friendly infrastructure to address traffic congestion, in the country where individuals must be at least 16 years old to apply for a learner's permit, which is the first stage of the driver licensing process that can be obtained at the age of 16, highlighting Auckland's maritime culture?
+None
+Seed: Driver licensing and vehicle registration
+Seed: Licensing of drivers and vehicles
+Seed: Legal framework for licensing of drivers
+Seed: Age of 16
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Provisions on]-> Driver licensing and vehicle registration 0.8103563189506531
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Aiming to]-> Reduce road traffic accidents and fatalities 0.7898603081703186
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Reflected in]-> Land transport act 1998 0.8023087978363037
+[Driver licensing and vehicle registration]: Road transport safety --[Governed by]-> Land transport act 1998 0.7907605767250061
+[Driver licensing and vehicle registration]: Road transport safety --[Focus on]-> Safer roads 0.7877206802368164
+[Driver licensing and vehicle registration]: Road transport safety --[Focus on]-> Safer road users 0.7852270603179932
+[Driver licensing and vehicle registration]: Road transport safety --[Focus on]-> Safer vehicles 0.7789783477783203
+[Driver licensing and vehicle registration]: Safer journeys strategy --[Focused on]-> Safer vehicles 0.782776415348053
+[Driver licensing and vehicle registration]: Land transport act 1998 --[Establishes]-> Legal framework for enforcement of road rules 0.7826801538467407
+[Driver licensing and vehicle registration]: Land transport act 1998 --[Establishes]-> Legal framework for registration of vehicles 0.7950716614723206
+[Driver licensing and vehicle registration]: Road safety legislation --[Governed by]-> Land transport act 1998 0.7817813754081726
+[Driver licensing and vehicle registration]: Road safety legislation --[Is]-> New zealand 0.8177286982536316
+[Driver licensing and vehicle registration]: New zealand --[Has]-> Transport projects 0.8405438661575317
+[Driver licensing and vehicle registration]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.8405554294586182
+[Driver licensing and vehicle registration]: New zealand --[Has]-> Diverse transport network 0.8422104716300964
+[Driver licensing and vehicle registration]: New zealand --[Has]-> Post-incident review 0.7532788515090942
+[Driver licensing and vehicle registration]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.8005703091621399
+[Driver licensing and vehicle registration]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.7984715700149536
+[Driver licensing and vehicle registration]: New zealand --[Has]-> Broader environmental policies 0.7812958359718323
+[Driver licensing and vehicle registration]: New zealand --[Has]-> Traffic congestion 0.852505624294281
+[Driver licensing and vehicle registration]: New zealand --[Has]-> Increasing urbanization 0.8080253005027771
+[Driver licensing and vehicle registration]: New zealand --[Has]-> Graduated licensing system 0.8374353647232056
+[Driver licensing and vehicle registration]: New zealand --[Has]-> Extensive coastline supporting a thriving fishing industry and recreational boating activities 0.8023606538772583
+[Driver licensing and vehicle registration]: New zealand --[Has]-> Trend towards more integrated and environmentally friendly transport solutions 0.799899160861969
+[Driver licensing and vehicle registration]: New zealand --[Has]-> Extensive network of roads 0.8469462394714355
+[Driver licensing and vehicle registration]: New zealand --[Has]-> Public transport network planning 0.8411338329315186
+[Driver licensing and vehicle registration]: New zealand --[Has]-> Public transit 0.836100697517395
+[Driver licensing and vehicle registration]: New zealand --[Has]-> Goal 0.7960314750671387
+[Driver licensing and vehicle registration]: New zealand --[Has]-> Transport system sustainability 0.8183385729789734
+[Driver licensing and vehicle registration]: New zealand --[Has]-> Walking 0.8228278160095215

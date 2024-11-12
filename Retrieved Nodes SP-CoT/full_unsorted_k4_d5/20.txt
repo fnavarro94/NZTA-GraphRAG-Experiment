@@ -1,0 +1,36 @@
+What independent Crown entity is established by the legislation in New Zealand that aims to enhance the safety and accessibility of walking routes for pedestrians to promote and facilitate walking access throughout New Zealand?
+None
+Seed: Independent crown entity
+Seed: Rights of individuals with disabilities
+Seed: Legislative framework for road safety initiatives
+Seed: Advocacy groups
+[Independent crown entity]: New zealand walking access commission --[Is]-> Independent crown entity 0.9367455244064331
+[Independent crown entity]: New zealand walking access commission --[Promotes]-> Walking access throughout the country 0.8798844814300537
+[Independent crown entity]: New zealand walking access commission --[Provides]-> Information to the public about available routes 0.8605131506919861
+[Independent crown entity]: New zealand walking access commission --[Negotiates]-> Access agreements with landowners 0.8303369283676147
+[Independent crown entity]: Walking access act --[Established]-> New zealand walking access commission 0.8921356201171875
+[Independent crown entity]: Walking access act --[Promotes]-> Sustainable transport options 0.8332085609436035
+[Independent crown entity]: Wellington northern corridor --[Accommodates]-> Sustainable transport options 0.8134628534317017
+[Independent crown entity]: Wellington northern corridor --[Links with]-> State highway 1 0.8093253374099731
+[Independent crown entity]: Wellington northern corridor --[Reduces]-> Travel times 0.7902042269706726
+[Independent crown entity]: Wellington northern corridor --[Undergoes]-> Ongoing improvements and upgrades 0.8018055558204651
+[Independent crown entity]: Wellington northern corridor --[Protects]-> Local wildlife and habitats 0.8251863718032837
+[Independent crown entity]: Wellington northern corridor --[Passes through]-> Levin 0.8071483373641968
+[Independent crown entity]: Wellington northern corridor --[Connects]-> Wellington 0.8078317642211914
+[Independent crown entity]: Wellington northern corridor --[Extends]-> Northward 0.8037403225898743
+[Independent crown entity]: Wellington northern corridor --[Features]-> Transmission gully motorway 0.7909852266311646
+[Independent crown entity]: Wellington northern corridor --[Stretches]-> Approximately 110 kilometers 0.803284764289856
+[Independent crown entity]: Wellington northern corridor --[Passes through]-> Masterton 0.7926055788993835
+[Independent crown entity]: Wellington northern corridor --[Is]-> Integral part of the country's national road network 0.818469762802124
+[Independent crown entity]: Wellington northern corridor --[Improves]-> Access to employment and services 0.813344419002533
+[Independent crown entity]: Wellington northern corridor --[Promotes]-> Shift towards more environmentally friendly modes of travel 0.8205980062484741
+[Independent crown entity]: Wellington northern corridor --[Minimizes]-> Ecological impact 0.7981456518173218
+[Independent crown entity]: Wellington northern corridor --[Aims to]-> Support the country's economic growth and environmental sustainability goals 0.8047451972961426
+[Independent crown entity]: Wellington northern corridor --[Enhances]-> Connectivity for commuters 0.8035589456558228
+[Independent crown entity]: Wellington northern corridor --[Aims to]-> Enhance capacity and safety 0.8312422037124634
+[Independent crown entity]: Wellington northern corridor --[Alleviates]-> Pressure on existing transport infrastructure 0.8127695322036743
+[Independent crown entity]: Wellington northern corridor --[Passes through]-> Upper hutt 0.7860540151596069
+[Independent crown entity]: Wellington northern corridor --[Improves]-> Access to markets 0.8091539740562439
+[Independent crown entity]: Wellington northern corridor --[Aims to]-> Meet the evolving needs of new zealand's transport system 0.8155907392501831
+[Independent crown entity]: Wellington northern corridor --[Is]-> Key transport route 0.8247736692428589
+[Independent crown entity]: Wellington northern corridor --[Supports]-> Economic development 0.8112310171127319

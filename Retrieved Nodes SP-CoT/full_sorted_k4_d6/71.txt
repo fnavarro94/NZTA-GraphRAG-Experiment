@@ -1,0 +1,28 @@
+What is the capital city of New Zealand, which is connected to the city home to the Te Ara I Whiti (Lightpath) project, which has transformed underutilized spaces into vibrant cycling and pedestrian pathways, by the specific rail line in New Zealand that has been enhanced as part of the government's investment in upgrading rail infrastructure to support sustainable freight solutions?
+None
+Seed: Ongoing investments in rail infrastructure
+Seed: New zealand's transport network
+Seed: Addressing transport challenges in auckland
+Seed: Significant infrastructure project
+[Ongoing investments in rail infrastructure]: Auckland city rail link --[Is]-> Significant infrastructure project 0.8868386745452881
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> City rail link project 0.8859394788742065
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> City rail link 0.8798591494560242
+[Ongoing investments in rail infrastructure]: New zealand --[Has]-> Transport projects 0.8789060711860657
+[Ongoing investments in rail infrastructure]: Auckland city rail link --[Funded by]-> Government investment 0.876892626285553
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Transport projects 0.8755506277084351
+[Ongoing investments in rail infrastructure]: New zealand --[Has]-> Light rail 0.8751400113105774
+[New zealand's transport network]: Road infrastructure projects --[Play crucial role in]-> New zealand's transport network 0.8651019930839539
+[Addressing transport challenges in auckland]: Auckland city rail link --[Is]-> Significant infrastructure project 0.8868386745452881
+[Addressing transport challenges in auckland]: Auckland --[Has]-> City rail link project 0.8859394788742065
+[Addressing transport challenges in auckland]: Auckland --[Has]-> City rail link 0.8798591494560242
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Transport projects 0.8789060711860657
+[Addressing transport challenges in auckland]: Auckland city rail link --[Funded by]-> Government investment 0.876892626285553
+[Addressing transport challenges in auckland]: Auckland --[Has]-> Transport projects 0.8755506277084351
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Light rail 0.8751400113105774
+[Significant infrastructure project]: Auckland city rail link --[Is]-> Significant infrastructure project 0.8868386745452881
+[Significant infrastructure project]: Auckland --[Has]-> City rail link project 0.8859394788742065
+[Significant infrastructure project]: Auckland --[Has]-> City rail link 0.8798591494560242
+[Significant infrastructure project]: New zealand --[Has]-> Transport projects 0.8789060711860657
+[Significant infrastructure project]: Auckland city rail link --[Funded by]-> Government investment 0.876892626285553
+[Significant infrastructure project]: Auckland --[Has]-> Transport projects 0.8755506277084351
+[Significant infrastructure project]: New zealand --[Has]-> Light rail 0.8751400113105774

@@ -1,0 +1,26 @@
+Why were the amounts of the payments made to WGP withheld?
+None
+Seed: reason for withholding
+Seed: amounts of payments
+Seed: Some information has been withheld under section 9(2)(f)(iv)
+Seed: Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)
+[reason for withholding]: New Zealand Transport Agency --[PROVIDES]-> reason for withholding 0.8481088876724243
+[reason for withholding]: New Zealand Transport Agency --[PROVIDES]-> withheld information 0.8297014236450195
+[reason for withholding]: WSP --[ENGAGED_BY]-> New Zealand Transport Agency 0.8276292085647583
+[reason for withholding]: New Zealand Transport Agency --[FALLS_IN_SCOPE]-> WK Exec summary of the TG claim for review 0.8206197023391724
+[reason for withholding]: New Zealand Transport Agency --[WITHHOLDS]-> documents related to commercial negotiations 0.8175239562988281
+[reason for withholding]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.8170834183692932
+[reason for withholding]: New Zealand Transport Agency --[PAID]-> $7,221,290.02 0.8124052286148071
+[amounts of payments]: Waka Kotahi --[WITHHOLDS]-> amounts of payments 0.8500487804412842
+[amounts of payments]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.8208581209182739
+[amounts of payments]: fuel excise duty --[PAID_TO]-> Waka Kotahi 0.7971584796905518
+[amounts of payments]: Waka Kotahi --[PROTECTS]-> efficient use of public money 0.7961491942405701
+[amounts of payments]: Waka Kotahi --[WITHHOLDS]-> information pertaining to the Golden Mile revitalisation project contract 0.7949024438858032
+[amounts of payments]: Waka Kotahi --[SAW]-> significant reduction in business travel 0.793240487575531
+[amounts of payments]: Waka Kotahi --[ENSURES]-> efficient use of public money 0.7921246290206909
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[IS]-> Some information has been withheld under section 9(2)(f)(iv) 0.8161119222640991
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[IS]-> NTS rollout timeline 0.7540416717529297
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[DATE]-> 24 April 2024 0.7464724183082581
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[IS]-> Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv) 0.809429943561554
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[IS]-> Transport stakeholders meeting 0.7607083916664124
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[DATE]-> 17 April 2024 0.7456591129302979

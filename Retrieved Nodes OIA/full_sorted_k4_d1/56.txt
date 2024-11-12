@@ -1,0 +1,11 @@
+What challenges affect the accuracy of drug-related crash data in the Bay of Plenty?
+None
+Seed: Guide for the interpretation of coded crash reports
+Seed: data on road traffic crashes
+Seed: figures on drivers involved in fatal crashes
+Seed: report on the impacts of the Fare Recovery Ratio
+[Guide for the interpretation of coded crash reports]: Transport Agency --[PROVIDES]-> Guide for the interpretation of coded crash reports 0.8235667943954468
+[Guide for the interpretation of coded crash reports]: Guide for the interpretation of coded crash reports --[AVAILABLE_AT]-> https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf 0.8229110240936279
+[data on road traffic crashes]: Crash Analysis System --[PROVIDES]-> data on road traffic crashes 0.8603963851928711
+[figures on drivers involved in fatal crashes]: AA --[PROVIDES]-> figures on drivers involved in fatal crashes 0.8169283866882324
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[PRODUCES]-> report on the impacts of the Fare Recovery Ratio 0.812669038772583

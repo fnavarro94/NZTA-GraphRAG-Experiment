@@ -1,0 +1,34 @@
+What is the average waiting time between submitting a Fuel Excise Duty Refund claim and receiving a refund?
+None
+Seed: fuel excise refunds
+Seed: information on fuel excise duty
+Seed: fuel excise duty
+Seed: OIA-1153-fuel-excise-refunds.pdf
+[fuel excise refunds]: fuel excise refunds --[RELATED_TO]-> transportation 0.8812904953956604
+[fuel excise refunds]: transportation services --[SUPPORTED_BY]-> fuel excise refunds 0.8631524443626404
+[fuel excise refunds]: OIA-1153-fuel-excise-refunds.pdf --[ASSOCIATED_WITH]-> fuel excise refunds 0.854274332523346
+[fuel excise refunds]: fuel excise duty --[PAID_TO]-> Waka Kotahi 0.8488861322402954
+[fuel excise refunds]: New Zealand Transport Agency --[PROVIDES]-> information on fuel excise duty 0.8274775743484497
+[fuel excise refunds]: file_path --[CONTAINS]-> OIA-1153-fuel-excise-refunds.pdf 0.8271384239196777
+[fuel excise refunds]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.8103019595146179
+[information on fuel excise duty]: fuel excise refunds --[RELATED_TO]-> transportation 0.8812904953956604
+[information on fuel excise duty]: transportation services --[SUPPORTED_BY]-> fuel excise refunds 0.8631524443626404
+[information on fuel excise duty]: OIA-1153-fuel-excise-refunds.pdf --[ASSOCIATED_WITH]-> fuel excise refunds 0.854274332523346
+[information on fuel excise duty]: customers --[PAY]-> fuel excise duty 0.8537692427635193
+[information on fuel excise duty]: fuel excise duty --[PAID_TO]-> Waka Kotahi 0.8488861322402954
+[information on fuel excise duty]: fuel excise duty --[ADDED_TO]-> national fund 0.8388573527336121
+[information on fuel excise duty]: New Zealand Customs --[COLLECTS]-> fuel excise duty 0.8303399682044983
+[fuel excise duty]: fuel excise refunds --[RELATED_TO]-> transportation 0.8812904953956604
+[fuel excise duty]: transportation services --[SUPPORTED_BY]-> fuel excise refunds 0.8631524443626404
+[fuel excise duty]: customers --[PAY]-> fuel excise duty 0.8537692427635193
+[fuel excise duty]: fuel excise duty --[PAID_TO]-> Waka Kotahi 0.8488861322402954
+[fuel excise duty]: fuel excise duty --[ADDED_TO]-> national fund 0.8388573527336121
+[fuel excise duty]: New Zealand Customs --[COLLECTS]-> fuel excise duty 0.8303399682044983
+[fuel excise duty]: New Zealand Transport Agency --[PROVIDES]-> information on fuel excise duty 0.8274775743484497
+[OIA-1153-fuel-excise-refunds.pdf]: fuel excise refunds --[RELATED_TO]-> transportation 0.8812904953956604
+[OIA-1153-fuel-excise-refunds.pdf]: transportation services --[SUPPORTED_BY]-> fuel excise refunds 0.8631524443626404
+[OIA-1153-fuel-excise-refunds.pdf]: OIA-1153-fuel-excise-refunds.pdf --[ASSOCIATED_WITH]-> fuel excise refunds 0.854274332523346
+[OIA-1153-fuel-excise-refunds.pdf]: fuel excise duty --[PAID_TO]-> Waka Kotahi 0.8488861322402954
+[OIA-1153-fuel-excise-refunds.pdf]: New Zealand Transport Agency --[PROVIDES]-> information on fuel excise duty 0.8274775743484497
+[OIA-1153-fuel-excise-refunds.pdf]: file_path --[CONTAINS]-> OIA-1153-fuel-excise-refunds.pdf 0.8271384239196777
+[OIA-1153-fuel-excise-refunds.pdf]: Transport Agency --[RECEIVED]-> enquiry 0.8051793575286865

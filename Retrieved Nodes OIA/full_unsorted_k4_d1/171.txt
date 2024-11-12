@@ -1,0 +1,36 @@
+What is the process for handling Official Information Act requests by Waka Kotahi?
+None
+Seed: Waka Kotahi Senior Project Manager
+Seed: Waka Kotahi policy
+Seed: Waka Kotahi
+Seed: Waka Kotahi NZ Transport Agency
+[Waka Kotahi Senior Project Manager]: Waka Kotahi Senior Project Manager --[MANAGES]-> State Highway 25A Rebuild Project 0.8357032537460327
+[Waka Kotahi policy]: Waka Kotahi --[FOLLOWS]-> Waka Kotahi policy 0.8726130723953247
+[Waka Kotahi policy]: Waka Kotahi policy --[PUBLISHED]-> website 0.8775378465652466
+[Waka Kotahi policy]: Waka Kotahi policy --[REQUIRES]-> publishing responses on website 0.8825095295906067
+[Waka Kotahi policy]: Waka Kotahi NZ Transport Agency --[FOLLOWS]-> Waka Kotahi policy 0.8413704037666321
+[Waka Kotahi policy]: New Zealand Transport Agency --[POLICY]-> Waka Kotahi policy 0.8540717363357544
+[Waka Kotahi policy]: Waka Kotahi --[POLICY]-> Waka Kotahi policy 0.862959623336792
+[Waka Kotahi]: Response --[CONTAINS]-> Waka Kotahi 0.8882317543029785
+[Waka Kotahi]: response --[CONTAINS]-> Waka Kotahi 0.8745274543762207
+[Waka Kotahi]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.8852458000183105
+[Waka Kotahi]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.8704550266265869
+[Waka Kotahi]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.8108273148536682
+[Waka Kotahi]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.8273648023605347
+[Waka Kotahi]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.8022463917732239
+[Waka Kotahi]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7945000529289246
+[Waka Kotahi]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.8743958473205566
+[Waka Kotahi]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.8561205267906189
+[Waka Kotahi]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8643710017204285
+[Waka Kotahi]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.8607801795005798
+[Waka Kotahi]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.8512107133865356
+[Waka Kotahi]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.8256925344467163
+[Waka Kotahi]: Leisa Coley --[EMPLOYED_BY]-> Waka Kotahi 0.833594560623169
+[Waka Kotahi]: Lizette Marais --[EMPLOYED_BY]-> Waka Kotahi 0.8087172508239746
+[Waka Kotahi]: Waka Kotahi --[EMPLOYS]-> Andy Knackstedt 0.8226379752159119
+[Waka Kotahi]: Waka Kotahi --[EMPLOYS]-> Qualified Staff 0.8543076515197754
+[Waka Kotahi]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.8473489880561829
+[Waka Kotahi]: website --[RELATES_TO]-> Waka Kotahi 0.856957197189331
+[Waka Kotahi]: Waka Kotahi --[RESPONDS_TO]-> OIA request 0.8784050345420837
+[Waka Kotahi]: Waka Kotahi --[RESPONDS_TO]-> request 0.8591947555541992
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> OIA-10601-response-georgina-campbell.pdf 0.8757723569869995

@@ -1,0 +1,36 @@
+Who operates the rail network in the country where the regular activities performed to keep roads safe and functional, including vegetation control, litter removal, and drainage maintenance, are described by what term?
+None
+Seed: Transport as critical component of nation's infrastructure
+Seed: Significant role in planning and management of transport infrastructure and services
+Seed: Crucial role in promoting road safety
+Seed: Rail infrastructure
+[Transport as critical component of nation's infrastructure]: Resource management act 1991 --[Recognizes]-> Transport as critical component of nation's infrastructure 0.8075459003448486
+[Transport as critical component of nation's infrastructure]: Teia --[Governed by]-> Resource management act 1991 0.7773156762123108
+[Transport as critical component of nation's infrastructure]: Teia --[Evaluates]-> Potential effects of transport projects 0.7828806042671204
+[Transport as critical component of nation's infrastructure]: Teia --[Includes]-> Economic factors 0.7188557386398315
+[Transport as critical component of nation's infrastructure]: Teia --[Includes]-> Ecological factors 0.7355451583862305
+[Transport as critical component of nation's infrastructure]: Teia --[Used in]-> New zealand 0.7209267616271973
+[Transport as critical component of nation's infrastructure]: Teia --[Includes]-> Cultural factors 0.7151858806610107
+[Transport as critical component of nation's infrastructure]: Teia --[Includes]-> Social factors 0.7219653129577637
+[Transport as critical component of nation's infrastructure]: Teia --[Supports]-> Reducing carbon emissions 0.7617348432540894
+[Transport as critical component of nation's infrastructure]: Teia --[Is]-> Critical framework 0.7194780111312866
+[Transport as critical component of nation's infrastructure]: Teia --[Promotes]-> Sustainable development 0.7559705376625061
+[Transport as critical component of nation's infrastructure]: Resource management act 1991 --[Subject to]-> Criticism for complexity 0.737756609916687
+[Transport as critical component of nation's infrastructure]: Resource management act 1991 --[Has]-> Challenges balancing development with environmental protection 0.7648454904556274
+[Transport as critical component of nation's infrastructure]: Resource management act 1991 --[Praised for]-> Promoting integrated approach to transport planning 0.7739090919494629
+[Transport as critical component of nation's infrastructure]: Resource management act 1991 --[Requires]-> Thorough assessment processes 0.7385292649269104
+[Transport as critical component of nation's infrastructure]: Resource management act 1991 --[Recognizes]-> Transport as critical component 0.79902583360672
+[Transport as critical component of nation's infrastructure]: Resource management act 1991 --[Led to]-> Discussions about potential amendments 0.7305163145065308
+[Transport as critical component of nation's infrastructure]: Resource management act 1991 --[Facilitates]-> Public participation in planning process 0.7610918283462524
+[Transport as critical component of nation's infrastructure]: Resource management act 1991 --[Plays]-> Significant role in shaping transport infrastructure 0.801234781742096
+[Transport as critical component of nation's infrastructure]: Resource management act 1991 --[Enacted to]-> Promote sustainable development 0.7640243172645569
+[Transport as critical component of nation's infrastructure]: Resource management act 1991 --[Enacted]-> Promote sustainable development 0.7624056935310364
+[Transport as critical component of nation's infrastructure]: Resource management act 1991 --[Subject]-> Debate regarding effectiveness in addressing challenges of modern transport needs 0.7911897897720337
+[Transport as critical component of nation's infrastructure]: Resource management act 1991 --[Cornerstone]-> New zealand's approach to managing transport 0.786520779132843
+[Transport as critical component of nation's infrastructure]: Resource management act 1991 --[Requires]-> Local authorities to consider effects of transport activities on environment 0.7824599742889404
+[Transport as critical component of nation's infrastructure]: Resource management act 1991 --[Provides]-> Framework for assessment of resource consents 0.7327895164489746
+[Transport as critical component of nation's infrastructure]: Resource management act 1991 --[Encourages]-> Public participation in decision-making process 0.7417480945587158
+[Transport as critical component of nation's infrastructure]: Resource management act 1991 --[Plays]-> Significant role in planning and management of transport infrastructure and services 0.8030678629875183
+[Transport as critical component of nation's infrastructure]: Resource management act 1991 --[Aims]-> Balance need for efficient transport systems with preservation of new zealand's unique landscapes and ecosystems 0.7897360920906067
+[Transport as critical component of nation's infrastructure]: Resource management act 1991 --[Is]-> Key piece of legislation 0.7635446190834045
+[Transport as critical component of nation's infrastructure]: Health and safety at work act 2015 --[Is]-> Key piece of legislation 0.7483393549919128

@@ -1,0 +1,36 @@
+What passenger service, operated by the organization in New Zealand that operates the majority of the country's rail services and has launched campaigns to promote rail safety, offers long-distance travel across New Zealand?
+None
+Seed: Majority of rail services
+Seed: Passenger rail services
+Seed: Extensive network of passenger and freight services
+Seed: Majority of passenger and freight movement
+[Majority of rail services]: Kiwirail group --[Operates]-> Majority of rail services 0.8652268648147583
+[Majority of rail services]: Kiwirail group --[Is]-> State-owned enterprise 0.8313294649124146
+[Majority of rail services]: Kiwirail --[Is]-> State-owned enterprise 0.8317819833755493
+[Majority of rail services]: Kiwirail --[Operates]-> Great journeys of new zealand 0.8653146624565125
+[Majority of rail services]: Kiwirail --[Operates]-> Freight route 0.8277127146720886
+[Majority of rail services]: Kiwirail --[Transports]-> Manufactured items 0.8104312419891357
+[Majority of rail services]: North island main trunk line --[Supports]-> Manufactured items 0.769338846206665
+[Majority of rail services]: North island main trunk line --[Focus]-> Improve efficiency 0.7537194490432739
+[Majority of rail services]: North island main trunk line --[Enhances]-> Regional development 0.7515875101089478
+[Majority of rail services]: North island main trunk line --[Plays]-> Significant role 0.7752919793128967
+[Majority of rail services]: North island main trunk line --[Serves]-> Freight services 0.7857257127761841
+[Majority of rail services]: North island main trunk line --[Enhances]-> Connectivity 0.7607807517051697
+[Majority of rail services]: North island main trunk line --[Operated by]-> Kiwirail 0.8060855269432068
+[Majority of rail services]: North island main trunk line --[Construction began]-> 1880s 0.7568583488464355
+[Majority of rail services]: North island main trunk line --[Supports]-> Freight services 0.789292573928833
+[Majority of rail services]: North island main trunk line --[Enhances]-> Sustainability 0.7699580192565918
+[Majority of rail services]: North island main trunk line --[Focus]-> Investment 0.7614490985870361
+[Majority of rail services]: North island main trunk line --[Facilitates]-> Economic activity 0.7743897438049316
+[Majority of rail services]: North island main trunk line --[Spans]-> 423 miles 0.7686572074890137
+[Majority of rail services]: North island main trunk line --[Features]-> Raurimu spiral 0.7577242851257324
+[Majority of rail services]: North island main trunk line --[Supports]-> Agricultural products 0.7626782655715942
+[Majority of rail services]: North island main trunk line --[Facilitates]-> Regional connectivity 0.7695285081863403
+[Majority of rail services]: North island main trunk line --[Focus]-> Modernization 0.7490111589431763
+[Majority of rail services]: North island main trunk line --[Focus]-> Sustainable transport solutions 0.7919310927391052
+[Majority of rail services]: North island main trunk line --[Supports]-> Northern explorer 0.7799427509307861
+[Majority of rail services]: North island main trunk line --[Focus]-> Meet demand 0.75990891456604
+[Majority of rail services]: North island main trunk line --[Focus]-> Improve capacity 0.7519153952598572
+[Majority of rail services]: North island main trunk line --[Connects]-> Wellington 0.782778799533844
+[Majority of rail services]: North island main trunk line --[Features]-> Makatote viaduct 0.7668542861938477
+[Majority of rail services]: North island main trunk line --[Supports]-> Timber 0.7661333680152893

@@ -1,0 +1,36 @@
+Where can information about the successful applications to the Innovation Fund be found?
+None
+Seed: innovation-fund/innovation-fund-round-one-successful-applicants.pdf
+Seed: Innovation Fund
+Seed: Regional Investment Opportunities
+Seed: national fund
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: innovation-fund/innovation-fund-round-one-successful-applicants.pdf --[PROVIDES]-> successful applications 0.9087211489677429
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: successful applications --[LISTS]-> Hoe ki angitū – Innovation Fund 0.8917794227600098
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Hoe ki angitū – Innovation Fund --[FUNDED_BY]-> National Land Transport Fund 0.8315647840499878
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: National Land Transport Fund --[ADMINISTERED_BY]-> Waka Kotahi 0.7887466549873352
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Response --[CONTAINS]-> Waka Kotahi 0.782214343547821
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: response --[CONTAINS]-> Waka Kotahi 0.7519547939300537
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.774362325668335
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.7527716159820557
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7327773571014404
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7339963912963867
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.7341783046722412
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7304155230522156
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.7653411030769348
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.7548764944076538
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7431065440177917
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.761898398399353
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.7269003987312317
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.748981237411499
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Leisa Coley --[EMPLOYED_BY]-> Waka Kotahi 0.7247686386108398
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Lizette Marais --[EMPLOYED_BY]-> Waka Kotahi 0.7400192022323608
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Waka Kotahi --[EMPLOYS]-> Andy Knackstedt 0.7183715105056763
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Waka Kotahi --[EMPLOYS]-> Qualified Staff 0.7320690155029297
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.769767165184021
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: website --[RELATES_TO]-> Waka Kotahi 0.7616384029388428
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Waka Kotahi --[RESPONDS_TO]-> OIA request 0.7637677192687988
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Waka Kotahi --[RESPONDS_TO]-> request 0.7411962151527405
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Waka Kotahi --[PROVIDES]-> OIA-10601-response-georgina-campbell.pdf 0.7786554098129272
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Waka Kotahi --[PROVIDES]-> outcome of suspension 0.7282669544219971
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Waka Kotahi --[PROVIDES]-> outcome of surrendered 0.7168843150138855
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Waka Kotahi --[PROVIDES]-> information on website 0.780792772769928

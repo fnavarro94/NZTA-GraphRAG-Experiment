@@ -1,0 +1,32 @@
+What region does the Northern Motorway from the country known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, provide access to?
+None
+Seed: Critical component of new zealand's transport strategy
+Seed: Socio-economic indicators
+Seed: Critical aspect of transportation planning
+Seed: Critical aspect of transport management in new zealand
+[Critical component of new zealand's transport strategy]: Nzta --[Actively exploring]-> Enhancing traffic management capabilities 0.8327263593673706
+[Critical component of new zealand's transport strategy]: Road safety education --[Is]-> Critical component of new zealand's transport strategy 0.8235154747962952
+[Critical component of new zealand's transport strategy]: Nzta --[Actively exploring]-> Improving road safety 0.8196865916252136
+[Critical component of new zealand's transport strategy]: Community engagement --[Is]-> Critical aspect of transport planning 0.8175958395004272
+[Critical component of new zealand's transport strategy]: New zealand road safety strategy --[Aimed at]-> Reducing road traffic injuries and fatalities 0.8151379823684692
+[Critical component of new zealand's transport strategy]: Nzta --[Plays]-> Pivotal role in overseeing road condition monitoring activities 0.8094112873077393
+[Critical component of new zealand's transport strategy]: Road safety strategy --[Aimed at]-> Reducing road traffic injuries and fatalities 0.8082109689712524
+[Socio-economic indicators]: Transport demand forecasting --[Involves]-> Socio-economic indicators 0.8768707513809204
+[Socio-economic indicators]: Transport demand forecasting --[Is]-> Critical aspect of transportation planning 0.8682637214660645
+[Socio-economic indicators]: Transport demand forecasting --[Involves]-> Statistical models 0.857377290725708
+[Socio-economic indicators]: Transport demand forecasting --[Estimates]-> Future travel patterns 0.8561762571334839
+[Socio-economic indicators]: Transport demand forecasting --[Involves]-> Historical data 0.8532646894454956
+[Socio-economic indicators]: Transport demand forecasting --[Estimates]-> Demand for various transport services 0.8352620005607605
+[Critical aspect of transportation planning]: Transport demand forecasting --[Involves]-> Socio-economic indicators 0.8768707513809204
+[Critical aspect of transportation planning]: Transport demand forecasting --[Is]-> Critical aspect of transportation planning 0.8682637214660645
+[Critical aspect of transportation planning]: Transport demand forecasting --[Involves]-> Statistical models 0.857377290725708
+[Critical aspect of transportation planning]: Transport demand forecasting --[Estimates]-> Future travel patterns 0.8561762571334839
+[Critical aspect of transportation planning]: Transport demand forecasting --[Involves]-> Historical data 0.8532646894454956
+[Critical aspect of transportation planning]: Transport demand forecasting --[Estimates]-> Demand for various transport services 0.8352620005607605
+[Critical aspect of transport management in new zealand]: Road condition monitoring --[Is]-> Critical aspect of transport management in new zealand 0.8349149227142334
+[Critical aspect of transport management in new zealand]: Heavy vehicle safety --[Is]-> Critical aspect of transport management in new zealand 0.8276796936988831
+[Critical aspect of transport management in new zealand]: Road condition monitoring --[Contributes]-> To the overall efficiency of the transport network 0.8222589492797852
+[Critical aspect of transport management in new zealand]: Transport sector --[Facilitates]-> Movement of goods and people 0.8173810839653015
+[Critical aspect of transport management in new zealand]: Transport workforce development --[Facilitates]-> Movement of goods and people 0.8132442235946655
+[Critical aspect of transport management in new zealand]: Road condition monitoring --[Facilitates]-> Movement of goods and people 0.8103728294372559
+[Critical aspect of transport management in new zealand]: Road condition monitoring --[Involves]-> Systematic collection and analysis of data related to the physical state of roadways 0.8091253042221069

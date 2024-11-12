@@ -1,0 +1,31 @@
+What are the main considerations for regional fare policies according to Waka Kotahi?
+None
+Seed: wider impacts of fare policy on people and cities
+Seed: review of public transport fare policy
+Seed: fare policy guidance
+Seed: fares play an important role in helping cover the cost of public transport within available budgets
+[wider impacts of fare policy on people and cities]: wider impacts of fare policy on people and cities --[INCLUCES]-> national farebox recovery target 0.844484806060791
+[wider impacts of fare policy on people and cities]: public transport affordability --[RELATES_TO]-> wider impacts of fare policy on people and cities 0.8432769179344177
+[wider impacts of fare policy on people and cities]: national farebox recovery target --[REPLACED_BY]-> underlying principles of the current policy 0.8226667642593384
+[wider impacts of fare policy on people and cities]: 2018-21 NLTP --[APPLIES]-> national farebox recovery target 0.7948822975158691
+[wider impacts of fare policy on people and cities]: councils with greater flexibility --[ADDRESS]-> public transport affordability 0.791164755821228
+[wider impacts of fare policy on people and cities]: 2010 --[APPLIES]-> national farebox recovery target 0.7884587645530701
+[wider impacts of fare policy on people and cities]: national farebox recovery target --[INTRODUCED]-> 2010 0.7805708050727844
+[review of public transport fare policy]: New Zealand Transport Agency --[POLICY]-> Waka Kotahi policy 0.9035283923149109
+[review of public transport fare policy]: New Zealand Transport Agency --[ASSOCIATED]-> Waka Kotahi 0.8648013472557068
+[review of public transport fare policy]: NZ Transport Agency Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8628856539726257
+[review of public transport fare policy]: Waka Kotahi --[IS]-> New Zealand Transport Agency 0.858780562877655
+[review of public transport fare policy]: New Zealand Transport Agency --[DISCUSS]-> Waka Kotahi 0.8587771654129028
+[review of public transport fare policy]: Waka Kotahi --[ASSOCIATED]-> New Zealand Transport Agency 0.8580052852630615
+[review of public transport fare policy]: New Zealand Transport Agency --[IS]-> Waka Kotahi 0.8576731085777283
+[fare policy guidance]: Waka Kotahi --[UPDATE]-> fare policy guidance 0.9201019406318665
+[fare policy guidance]: Regional Public Transport Plans --[DEVELOPED_BY]-> Waka Kotahi 0.9160780310630798
+[fare policy guidance]: Waka Kotahi --[PARTNER]-> Regional Public Transport Plans 0.8987104296684265
+[fare policy guidance]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.8963372707366943
+[fare policy guidance]: Waka Kotahi --[FOLLOWS]-> Waka Kotahi policy 0.8867679238319397
+[fare policy guidance]: Waka Kotahi --[PROVIDES]-> flights - air travel 0.8800971508026123
+[fare policy guidance]: Waka Kotahi --[POLICY]-> Waka Kotahi policy 0.8790894746780396
+[fares play an important role in helping cover the cost of public transport within available budgets]: fares play an important role in helping cover the cost of public transport within available budgets --[CONTRIBUTES]-> public transport budgets 0.8408769965171814
+[fares play an important role in helping cover the cost of public transport within available budgets]: government's transport priorities --[INCLUDES]-> fares play an important role in helping cover the cost of public transport within available budgets 0.8362239003181458
+[fares play an important role in helping cover the cost of public transport within available budgets]: wider objectives in Regional Public Transport Plans --[CONTRIBUTES]-> government's transport priorities 0.8334429264068604
+[fares play an important role in helping cover the cost of public transport within available budgets]: public transport budgets --[MANAGED_BY]-> councils 0.7935354709625244

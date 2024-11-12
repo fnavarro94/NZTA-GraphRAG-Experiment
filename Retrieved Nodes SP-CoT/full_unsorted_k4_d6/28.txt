@@ -1,0 +1,36 @@
+What is the target year set by the government for achieving 100% of the light vehicle fleet being zero-emission as part of their initiatives focused on evaluating the economic implications of transport systems and policies in New Zealand?
+None
+Seed: 100% of light vehicle fleet being zero-emission by 2035
+Seed: New zealand's commitment to sustainable transport
+Seed: Target for net-zero emissions by 2050
+Seed: Achieving net-zero emissions by 2050
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Goal]-> 100% of light vehicle fleet being zero-emission by 2035 0.936819851398468
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand road safety strategy --[Established by]-> New zealand government 0.8533427715301514
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand road safety strategy --[Improves]-> Overall safety of the transport system 0.8442195653915405
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand road safety strategy --[Promotes]-> Responsible driving behaviors 0.8179789781570435
+[100% of light vehicle fleet being zero-emission by 2035]: Road safety education --[Promotes]-> Responsible driving behaviors 0.7550308108329773
+[100% of light vehicle fleet being zero-emission by 2035]: Nzta --[Promotes]-> Road safety education 0.8171142339706421
+[100% of light vehicle fleet being zero-emission by 2035]: Nzta --[Plays a pivotal role in]-> The development and implementation of these systems 0.8175394535064697
+[100% of light vehicle fleet being zero-emission by 2035]: Nzta --[Actively exploring]-> Connected and autonomous vehicles 0.8071902990341187
+[100% of light vehicle fleet being zero-emission by 2035]: Nzta --[Actively exploring]-> The potential of emerging technologies 0.8157191276550293
+[100% of light vehicle fleet being zero-emission by 2035]: Nzta --[Actively exploring]-> Improving road safety 0.8313698172569275
+[100% of light vehicle fleet being zero-emission by 2035]: Nzta --[Actively exploring]-> Enhancing traffic management capabilities 0.823508083820343
+[100% of light vehicle fleet being zero-emission by 2035]: Nzta --[Works in collaboration with]-> Local councils and other stakeholders 0.8011935949325562
+[100% of light vehicle fleet being zero-emission by 2035]: Nzta --[Responsible for]-> Administering nltf and prioritizing projects 0.81048583984375
+[100% of light vehicle fleet being zero-emission by 2035]: Nzta --[Collaborates with]-> Stakeholders 0.8017979860305786
+[100% of light vehicle fleet being zero-emission by 2035]: Nzta --[Encourages]-> Safe driving practices 0.8211137056350708
+[100% of light vehicle fleet being zero-emission by 2035]: Nzta --[Collaborates with]-> Local councils and community organizations 0.8003934621810913
+[100% of light vehicle fleet being zero-emission by 2035]: Nzta --[Collaborates]-> With local councils and private contractors 0.7922914028167725
+[100% of light vehicle fleet being zero-emission by 2035]: Nzta --[Plays]-> Pivotal role in overseeing road condition monitoring activities 0.8150436282157898
+[100% of light vehicle fleet being zero-emission by 2035]: Nzta --[Focus on]-> Integration of technology 0.8163444995880127
+[100% of light vehicle fleet being zero-emission by 2035]: Nzta --[Focus on]-> Operational efficiency 0.8479305505752563
+[100% of light vehicle fleet being zero-emission by 2035]: Nzta --[Play]-> Pivotal role 0.794718861579895
+[100% of light vehicle fleet being zero-emission by 2035]: Nzta --[Focus on]-> Improving user experience 0.7829064726829529
+[100% of light vehicle fleet being zero-emission by 2035]: Nzta --[Plays]-> Pivotal role in administering laws 0.8031555414199829
+[100% of light vehicle fleet being zero-emission by 2035]: Nzta --[Oversees]-> Licensing of drivers and vehicles 0.8229550123214722
+[100% of light vehicle fleet being zero-emission by 2035]: Nzta --[Enforces]-> Regular vehicle inspections and maintenance checks to ensure compliance with safety standards 0.7940356731414795
+[100% of light vehicle fleet being zero-emission by 2035]: Nzta --[Implements]-> Range of regulations and standards aimed at ensuring that heavy vehicles are safe to operate 0.804101824760437
+[100% of light vehicle fleet being zero-emission by 2035]: Nzta --[Collaborates with]-> Various training organizations to provide comprehensive education programs for heavy vehicle operators 0.7985491752624512
+[100% of light vehicle fleet being zero-emission by 2035]: Nzta --[Is]-> Primary body responsible for overseeing heavy vehicle safety 0.8231961727142334
+[100% of light vehicle fleet being zero-emission by 2035]: Nzta --[Ensures]-> Vehicles registered for use on public roads 0.824864387512207
+[100% of light vehicle fleet being zero-emission by 2035]: Nzta --[Promotes]-> Use of low-emission vehicles 0.8746345043182373

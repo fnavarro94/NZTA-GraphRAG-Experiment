@@ -1,0 +1,10 @@
+What year did the initiative that aims to achieve a significant reduction in road deaths and serious injuries by promoting a "Safe System" approach to road safety, known as "Road to Zero," launch in New Zealand?
+None
+Seed: Reduce road fatalities and serious injuries to zero by 2050
+Seed: Reducing road deaths and serious injuries to zero by 2050
+Seed: Significant shift in new zealand's approach to road safety
+Seed: Achieve vision of zero deaths and serious injuries
+[Reduce road fatalities and serious injuries to zero by 2050]: Road to zero --[Aim]-> Reduce road fatalities and serious injuries to zero by 2050 0.8898319005966187
+[Reducing road deaths and serious injuries to zero by 2050]: Road to zero strategy --[Sets goal]-> Reducing road deaths and serious injuries to zero by 2050 0.8870280981063843
+[Significant shift in new zealand's approach to road safety]: Safer journeys strategy --[Marked]-> Significant shift in new zealand's approach to road safety 0.8818174004554749
+[Achieve vision of zero deaths and serious injuries]: Road to zero --[Aims]-> Achieve vision of zero deaths and serious injuries 0.902812123298645

@@ -1,0 +1,34 @@
+Which country hosted the adoption of the international agreement that promotes road safety and the harmonization of traffic regulations among member countries, to which New Zealand is a signatory?
+None
+Seed: New zealand's commitment to international standards in road safety and traffic management
+Seed: New zealand's road safety initiatives
+Seed: New zealand's national road traffic laws
+Seed: Significant shift in new zealand's approach to road safety
+[New zealand's commitment to international standards in road safety and traffic management]: New zealand --[Signatory to]-> Vienna convention on road traffic 0.8935919404029846
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Reflects]-> New zealand's commitment to international standards in road safety and traffic management 0.8843696117401123
+[New zealand's commitment to international standards in road safety and traffic management]: New zealand --[Committed to]-> Road safety 0.8807874321937561
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Influenced]-> New zealand's road safety initiatives 0.8788776397705078
+[New zealand's commitment to international standards in road safety and traffic management]: New zealand --[Has]-> Transport compliance and enforcement 0.8751819133758545
+[New zealand's commitment to international standards in road safety and traffic management]: New zealand --[Has]-> Road safety initiatives 0.8743265867233276
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Integrated into]-> New zealand's national road traffic laws 0.873329222202301
+[New zealand's road safety initiatives]: New zealand --[Signatory to]-> Vienna convention on road traffic 0.8935919404029846
+[New zealand's road safety initiatives]: Vienna convention on road traffic --[Reflects]-> New zealand's commitment to international standards in road safety and traffic management 0.8843696117401123
+[New zealand's road safety initiatives]: New zealand --[Committed to]-> Road safety 0.8807874321937561
+[New zealand's road safety initiatives]: Vienna convention on road traffic --[Influenced]-> New zealand's road safety initiatives 0.8788776397705078
+[New zealand's road safety initiatives]: New zealand --[Has]-> Transport compliance and enforcement 0.8751819133758545
+[New zealand's road safety initiatives]: New zealand --[Has]-> Road safety initiatives 0.8743265867233276
+[New zealand's road safety initiatives]: Vienna convention on road traffic --[Integrated into]-> New zealand's national road traffic laws 0.873329222202301
+[New zealand's national road traffic laws]: New zealand --[Signatory to]-> Vienna convention on road traffic 0.8935919404029846
+[New zealand's national road traffic laws]: Vienna convention on road traffic --[Reflects]-> New zealand's commitment to international standards in road safety and traffic management 0.8843696117401123
+[New zealand's national road traffic laws]: New zealand --[Committed to]-> Road safety 0.8807874321937561
+[New zealand's national road traffic laws]: Vienna convention on road traffic --[Influenced]-> New zealand's road safety initiatives 0.8788776397705078
+[New zealand's national road traffic laws]: New zealand --[Has]-> Transport compliance and enforcement 0.8751819133758545
+[New zealand's national road traffic laws]: New zealand --[Has]-> Road safety initiatives 0.8743265867233276
+[New zealand's national road traffic laws]: Vienna convention on road traffic --[Integrated into]-> New zealand's national road traffic laws 0.873329222202301
+[Significant shift in new zealand's approach to road safety]: Safer journeys strategy --[Marked]-> Significant shift in new zealand's approach to road safety 0.8467788696289062
+[Significant shift in new zealand's approach to road safety]: Road transport safety --[Governed by]-> Land transport act 1998 0.8148519992828369
+[Significant shift in new zealand's approach to road safety]: Safer journeys strategy --[Focused on]-> Safer road use 0.8091036677360535
+[Significant shift in new zealand's approach to road safety]: Safer journeys strategy --[Focused on]-> Safer roads and roadsides 0.8053977489471436
+[Significant shift in new zealand's approach to road safety]: Road transport safety --[Focus on]-> Safer roads 0.798611044883728
+[Significant shift in new zealand's approach to road safety]: Road transport safety --[Focus on]-> Safer road users 0.7962392568588257
+[Significant shift in new zealand's approach to road safety]: Safer journeys strategy --[Focused on]-> Safer vehicles 0.7955062389373779

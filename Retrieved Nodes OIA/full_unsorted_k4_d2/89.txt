@@ -1,0 +1,36 @@
+What is the longest overdue road for renewal in New Zealand?
+None
+Seed: longest overdue road
+Seed: road renewal
+Seed: toll roads
+Seed: information on tolls and road maintenance
+[longest overdue road]: longest overdue road --[OVERDUE]-> road renewal 0.9225471615791321
+[longest overdue road]: road renewal --[OVERDUE]-> road maintenance 0.8822011947631836
+[longest overdue road]: design life --[OVERDUE]-> longest overdue road 0.8895381689071655
+[longest overdue road]: 32 percent of the roading network --[PAST_DESIGN_LIFE]-> design life 0.7808641195297241
+[road renewal]: longest overdue road --[OVERDUE]-> road renewal 0.9225471615791321
+[road renewal]: design life --[OVERDUE]-> longest overdue road 0.8895381689071655
+[road renewal]: road renewal --[OVERDUE]-> road maintenance 0.8822011947631836
+[road renewal]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> road maintenance 0.8547061681747437
+[road renewal]: transport --[ASSOCIATED_WITH]-> road maintenance 0.7896463871002197
+[road renewal]: road maintenance --[OVERDUE]-> State Highway 1 0.8555869460105896
+[road renewal]: State Highway 1 --[OVERDUE]-> road maintenance 0.8524563312530518
+[road renewal]: road maintenance --[OVERDUE]-> Wellington City Council 0.8575965762138367
+[road renewal]: toll tariffs --[USED_FOR]-> road maintenance 0.7938442230224609
+[road renewal]: toll tariffs --[SPENT_ON]-> road maintenance 0.8023869395256042
+[road renewal]: road maintenance --[PERFORMED_BY]-> New Zealand Transport Agency 0.8584209680557251
+[road renewal]: road maintenance --[FUNDED_BY]-> toll tariffs 0.8057941198348999
+[road renewal]: road maintenance --[NECESSARY_FOR]-> safe driving conditions 0.788654625415802
+[road renewal]: road maintenance --[SUPPORTED_BY]-> tolls 0.8042543530464172
+[road renewal]: road maintenance --[IMPROVES]-> road safety 0.7829903960227966
+[road renewal]: tolls --[USED_FOR]-> road maintenance 0.7959489822387695
+[road renewal]: driver safety --[IMPROVED_BY]-> road maintenance 0.7691428661346436
+[road renewal]: transport --[FOCUSES_ON]-> road maintenance 0.7944916486740112
+[road renewal]: road maintenance --[ASSOCIATED_WITH]-> State Highway 1 0.8183702230453491
+[road renewal]: road maintenance --[AFFECTED_BY]-> flooding 0.8041044473648071
+[road renewal]: road maintenance --[FUNDING]-> approved 0.8126310110092163
+[road renewal]: flooding --[CAN_AFFECT]-> road maintenance 0.7909829616546631
+[road renewal]: New Zealand Transport Agency --[RESPONSIBLE_FOR]-> road maintenance 0.8527027368545532
+[road renewal]: Waka Kotahi NZ Transport Agency --[MANAGES]-> road maintenance 0.8203884363174438
+[road renewal]: road maintenance --[AFFECTS]-> public transport fare policy review 0.80330491065979
+[road renewal]: Saddle Road Route --[REQUIRES]-> road maintenance 0.8214352130889893

@@ -1,0 +1,11 @@
+When were the safety cameras in the Waterview Tunnel last calibrated for accuracy?
+None
+Seed: MINO -1042 Waterview Tunnel
+Seed: information on traffic light cameras and speed cameras
+Seed: information on traffic light cameras
+Seed: Lyttelton tunnel
+[MINO -1042 Waterview Tunnel]: MINO -1042 Waterview Tunnel --[WARNING]-> 19 April 2024 0.8536930680274963
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.7930383682250977
+[information on traffic light cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.8053565621376038
+[Lyttelton tunnel]: meet or exceed performance requirements --[RELATES_TO]-> Lyttelton tunnel 0.776185929775238
+[Lyttelton tunnel]: Lyttelton tunnel --[RENEWAL_SCHEDULED]-> 2024 0.7758153676986694

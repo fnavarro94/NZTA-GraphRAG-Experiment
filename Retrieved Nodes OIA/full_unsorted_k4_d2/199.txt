@@ -1,0 +1,36 @@
+How did the number of direct reports to the NZTA Chief Executive change from 2014 to 2016?
+None
+Seed: Annual Reports
+Seed: Annual Monitoring Report 2020
+Seed: resignations by year since 2014
+Seed: Chief Financial Officer
+[Annual Reports]: Waka Kotahi --[PUBLISHES]-> Annual Reports 0.8086501955986023
+[Annual Reports]: Response --[CONTAINS]-> Waka Kotahi 0.7506688833236694
+[Annual Reports]: response --[CONTAINS]-> Waka Kotahi 0.7444789409637451
+[Annual Reports]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.7554159164428711
+[Annual Reports]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.7480454444885254
+[Annual Reports]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7047319412231445
+[Annual Reports]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7301136255264282
+[Annual Reports]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.7114930748939514
+[Annual Reports]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7025890946388245
+[Annual Reports]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.7502170205116272
+[Annual Reports]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.8045036792755127
+[Annual Reports]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7975487112998962
+[Annual Reports]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.7470037341117859
+[Annual Reports]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.7868009805679321
+[Annual Reports]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.7610608339309692
+[Annual Reports]: Leisa Coley --[EMPLOYED_BY]-> Waka Kotahi 0.729623019695282
+[Annual Reports]: Lizette Marais --[EMPLOYED_BY]-> Waka Kotahi 0.7412528395652771
+[Annual Reports]: Waka Kotahi --[EMPLOYS]-> Andy Knackstedt 0.736685037612915
+[Annual Reports]: Waka Kotahi --[EMPLOYS]-> Qualified Staff 0.7467797994613647
+[Annual Reports]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.7815747261047363
+[Annual Reports]: website --[RELATES_TO]-> Waka Kotahi 0.7456373572349548
+[Annual Reports]: Waka Kotahi --[RESPONDS_TO]-> OIA request 0.7509678602218628
+[Annual Reports]: Waka Kotahi --[RESPONDS_TO]-> request 0.7380215525627136
+[Annual Reports]: Waka Kotahi --[PROVIDES]-> OIA-10601-response-georgina-campbell.pdf 0.7591180205345154
+[Annual Reports]: Waka Kotahi --[PROVIDES]-> outcome of suspension 0.7614651322364807
+[Annual Reports]: Waka Kotahi --[PROVIDES]-> outcome of surrendered 0.7401931881904602
+[Annual Reports]: Waka Kotahi --[PROVIDES]-> information on website 0.7500337362289429
+[Annual Reports]: Waka Kotahi --[PROVIDES]-> outcome of revoke 0.7614307403564453
+[Annual Reports]: Waka Kotahi --[PROVIDES]-> warnings to individuals 0.7523295879364014
+[Annual Reports]: Waka Kotahi --[PROVIDES]-> Transport Data 0.7630930542945862

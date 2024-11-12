@@ -1,0 +1,12 @@
+By when is it planned for all regions to transfer to the National Ticketing System?
+None
+Seed: National Ticketing Solution request for proposal
+Seed: National Ticketing System
+Seed: no additional funding for fare reductions before the next NLTP in June 2021
+Seed: Request for National Ticketing System Documentation
+[National Ticketing Solution request for proposal]: www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ --[CONTAINS]-> National Ticketing Solution request for proposal 0.8485479354858398
+[National Ticketing System]: Request for National Ticketing System Documentation --[REQUESTS]-> National Ticketing System 0.8547602891921997
+[no additional funding for fare reductions before the next NLTP in June 2021]: follow the standard cost scope adjustment process --[REQUIRES]-> no additional funding for fare reductions before the next NLTP in June 2021 0.8410073518753052
+[no additional funding for fare reductions before the next NLTP in June 2021]: no additional funding for fare reductions before the next NLTP in June 2021 --[APPLIES_TO]-> funding allocations 0.8376630544662476
+[Request for National Ticketing System Documentation]: Email --[CONTAINS]-> Request for National Ticketing System Documentation 0.8347082138061523
+[Request for National Ticketing System Documentation]: Request for National Ticketing System Documentation --[REQUESTS]-> National Ticketing System 0.8547602891921997

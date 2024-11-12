@@ -1,0 +1,36 @@
+What is the target year set by the government for achieving 100% of the light vehicle fleet being zero-emission as part of their initiatives focused on evaluating the economic implications of transport systems and policies in New Zealand?
+None
+Seed: 100% of light vehicle fleet being zero-emission by 2035
+Seed: New zealand's commitment to sustainable transport
+Seed: Target for net-zero emissions by 2050
+Seed: Achieving net-zero emissions by 2050
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Goal]-> 100% of light vehicle fleet being zero-emission by 2035 0.936819851398468
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand road safety strategy --[Established by]-> New zealand government 0.8533427715301514
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand road safety strategy --[Improves]-> Overall safety of the transport system 0.8442195653915405
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand road safety strategy --[Promotes]-> Responsible driving behaviors 0.8179789781570435
+[100% of light vehicle fleet being zero-emission by 2035]: Road safety education --[Promotes]-> Responsible driving behaviors 0.7550308108329773
+[100% of light vehicle fleet being zero-emission by 2035]: Nzta --[Promotes]-> Road safety education 0.8171142339706421
+[100% of light vehicle fleet being zero-emission by 2035]: Road safety education --[Covers]-> Safe driving practices 0.7615560293197632
+[100% of light vehicle fleet being zero-emission by 2035]: Road safety education --[Includes]-> Practical demonstrations 0.7438309192657471
+[100% of light vehicle fleet being zero-emission by 2035]: Road safety education --[Implemented by]-> Non-governmental organizations 0.7774940133094788
+[100% of light vehicle fleet being zero-emission by 2035]: Road safety education --[Includes]-> Use of technology 0.7626709938049316
+[100% of light vehicle fleet being zero-emission by 2035]: Road safety education --[Covers]-> Cycling 0.7616682052612305
+[100% of light vehicle fleet being zero-emission by 2035]: Road safety education --[Includes]-> Classroom activities 0.7532733082771301
+[100% of light vehicle fleet being zero-emission by 2035]: Road safety education --[Faces challenges]-> Pedestrians and cyclists 0.7419342994689941
+[100% of light vehicle fleet being zero-emission by 2035]: Road safety education --[Targets]-> Children and young adults 0.7682470083236694
+[100% of light vehicle fleet being zero-emission by 2035]: Road safety education --[Includes]-> Community engagement 0.757043719291687
+[100% of light vehicle fleet being zero-emission by 2035]: Road safety education --[Includes]-> Events such as road safety week 0.7447254657745361
+[100% of light vehicle fleet being zero-emission by 2035]: Road safety education --[Fosters]-> Culture of safety 0.750255286693573
+[100% of light vehicle fleet being zero-emission by 2035]: Road safety education --[Emphasizes]-> Role of parents and caregivers 0.7464102506637573
+[100% of light vehicle fleet being zero-emission by 2035]: Road safety education --[Faces challenges]-> High rates of road fatalities among vulnerable road users 0.7574856281280518
+[100% of light vehicle fleet being zero-emission by 2035]: Road safety education --[Requires]-> Ongoing research and evaluation 0.7721439003944397
+[100% of light vehicle fleet being zero-emission by 2035]: Road safety education --[Includes]-> Interactive workshops 0.7445116639137268
+[100% of light vehicle fleet being zero-emission by 2035]: Road safety education --[Faces challenges]-> High rates of road fatalities among young drivers 0.7576413750648499
+[100% of light vehicle fleet being zero-emission by 2035]: Road safety education --[Includes]-> Educational programs and initiatives 0.7712472677230835
+[100% of light vehicle fleet being zero-emission by 2035]: Road safety education --[Discourages]-> Driving under the influence of alcohol or drugs 0.756560206413269
+[100% of light vehicle fleet being zero-emission by 2035]: Road safety education --[Includes]-> Local councils and community organizations 0.7584287524223328
+[100% of light vehicle fleet being zero-emission by 2035]: Road safety education --[Aimed at]-> Reducing road traffic injuries and fatalities 0.7636526823043823
+[100% of light vehicle fleet being zero-emission by 2035]: Road safety education --[Is]-> Critical component of new zealand's transport strategy 0.8449726700782776
+[100% of light vehicle fleet being zero-emission by 2035]: Road safety education --[Implemented by]-> New zealand government 0.8293498754501343
+[100% of light vehicle fleet being zero-emission by 2035]: Road safety education --[Includes]-> Drive sober campaign 0.769787073135376
+[100% of light vehicle fleet being zero-emission by 2035]: Road safety education --[Includes]-> Discussions with local law enforcement and road safety advocates 0.7283780574798584

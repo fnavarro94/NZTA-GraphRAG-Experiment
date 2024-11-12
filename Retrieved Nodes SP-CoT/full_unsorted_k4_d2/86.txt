@@ -1,0 +1,36 @@
+What entity is responsible for identifying and mapping walking access routes under the legislation that aims to enhance the safety and accessibility of walking routes for pedestrians?
+None
+Seed: Legislative framework for road safety initiatives
+Seed: Developing pedestrian crossings
+Seed: Framework for implementing road safety campaigns and initiatives
+Seed: Advocacy groups
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Provides]-> Legislative framework for road safety initiatives 0.8409216403961182
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Reflected in]-> Land transport act 1998 0.8230408430099487
+[Legislative framework for road safety initiatives]: Road transport safety --[Governed by]-> Land transport act 1998 0.8418771028518677
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Establishes]-> Legal framework for enforcement of road rules 0.8228250741958618
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Establishes]-> Legal framework for registration of vehicles 0.8126072287559509
+[Legislative framework for road safety initiatives]: Road safety legislation --[Governed by]-> Land transport act 1998 0.8426333069801331
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Establishes]-> Legal framework for licensing of drivers 0.8055170774459839
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Complemented by]-> Land transport (road user 0.829738199710846
+[Legislative framework for road safety initiatives]: Vehicle maintenance standards --[Are set forth in]-> Land transport act 1998 0.7729289531707764
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Provides]-> Legal foundation 0.8153753876686096
+[Legislative framework for road safety initiatives]: New zealand --[Has]-> Land transport act 1998 0.786986768245697
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Outlines]-> Driver licensing 0.7998466491699219
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Outlines]-> Rules for vehicle operation 0.7921092510223389
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Outlines]-> Road safety 0.8265106081962585
+[Legislative framework for road safety initiatives]: Vehicle safety standards --[Are overseen by]-> Land transport act 1998 0.8070197105407715
+[Legislative framework for road safety initiatives]: New zealand --[Governed by]-> Land transport act 1998 0.784421443939209
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Complemented by]-> Resource management act 1991 0.8066326975822449
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Provides]-> Foundation for vehicle standards and compliance 0.7951980829238892
+[Developing pedestrian crossings]: New zealand --[Made strides]-> Developing pedestrian crossings 0.8027334213256836
+[Developing pedestrian crossings]: New zealand --[Has]-> Transport projects 0.7893155217170715
+[Developing pedestrian crossings]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.7930903434753418
+[Developing pedestrian crossings]: New zealand --[Has]-> Diverse transport network 0.7807005643844604
+[Developing pedestrian crossings]: New zealand --[Has]-> Post-incident review 0.737791895866394
+[Developing pedestrian crossings]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.7499685287475586
+[Developing pedestrian crossings]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.7667989730834961
+[Developing pedestrian crossings]: New zealand --[Has]-> Broader environmental policies 0.7614372372627258
+[Developing pedestrian crossings]: New zealand --[Has]-> Traffic congestion 0.7656332850456238
+[Developing pedestrian crossings]: New zealand --[Has]-> Increasing urbanization 0.7308889627456665
+[Developing pedestrian crossings]: New zealand --[Has]-> Graduated licensing system 0.757664680480957
+[Developing pedestrian crossings]: New zealand --[Has]-> Extensive coastline supporting a thriving fishing industry and recreational boating activities 0.7403828501701355

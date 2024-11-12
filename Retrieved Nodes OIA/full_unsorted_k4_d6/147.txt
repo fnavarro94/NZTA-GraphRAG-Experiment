@@ -1,0 +1,36 @@
+Does Waka Kotahi provide data distinguishing private vehicle movements on Hewletts Road?
+None
+Seed: information on daily private vehicle movements
+Seed: traffic counter sites on Hewletts Road
+Seed: Open Data portal for information about daily traffic volumes on Hewletts Road
+Seed: Waka Kotahi N Z Transport Agency
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[REFUSED_REQUEST]-> information on daily private vehicle movements 0.8857535123825073
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.8629688620567322
+[information on daily private vehicle movements]: New Zealand Transport Agency --[BASED]-> Wellington 0.8159834742546082
+[information on daily private vehicle movements]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8162739872932434
+[information on daily private vehicle movements]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7866895198822021
+[information on daily private vehicle movements]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.8268247246742249
+[information on daily private vehicle movements]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.791222870349884
+[information on daily private vehicle movements]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7942308783531189
+[information on daily private vehicle movements]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8431264162063599
+[information on daily private vehicle movements]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.8260395526885986
+[information on daily private vehicle movements]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.835629403591156
+[information on daily private vehicle movements]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.8732050061225891
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.8707345724105835
+[information on daily private vehicle movements]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7910668253898621
+[information on daily private vehicle movements]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.8067131042480469
+[information on daily private vehicle movements]: Wellington --[CONTAINS]-> Private Bag 6995 0.8070132732391357
+[information on daily private vehicle movements]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8392658233642578
+[information on daily private vehicle movements]: Golden Mile --[LOCATED]-> Wellington 0.7863563299179077
+[information on daily private vehicle movements]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7985448837280273
+[information on daily private vehicle movements]: road safety --[ENHANCED_BY]-> State Highway 1 0.7910977005958557
+[information on daily private vehicle movements]: State Highway 1 --[REPAIRS]-> potholes 0.7589474320411682
+[information on daily private vehicle movements]: Road Safety Initiatives --[IMPROVES]-> State Highway 1 0.774540901184082
+[information on daily private vehicle movements]: road maintenance --[OVERDUE]-> State Highway 1 0.7804731130599976
+[information on daily private vehicle movements]: State Highway 1 --[OVERDUE]-> road maintenance 0.7856415510177612
+[information on daily private vehicle movements]: State Highway 1 --[IN]-> Bay of Plenty 0.7833216190338135
+[information on daily private vehicle movements]: State Highway 1 --[IMPROVES]-> safety 0.7725077867507935
+[information on daily private vehicle movements]: 100M --[ALLOCATED_FOR]-> State Highway 1 0.7835023999214172
+[information on daily private vehicle movements]: State Highway 1 --[IS_PART_OF]-> New Zealand 0.806322455406189
+[information on daily private vehicle movements]: road maintenance --[ASSOCIATED_WITH]-> State Highway 1 0.7973069548606873
+[information on daily private vehicle movements]: funding for road maintenance --[FOR]-> State Highway 1 0.7858412265777588

@@ -1,0 +1,23 @@
+What communication has Waka Kotahi had regarding the Ashburton Bridge since January 2023?
+None
+Seed: Waka Kotahi
+Seed: information to Waka Kotahi
+Seed: Waka Kotahi NZ Transport Agency
+Seed: Waka Kotahi N Z Transport Agency
+[Waka Kotahi]: Waka Kotahi --[DISCUSS]-> New Zealand Transport Agency 0.8623197674751282
+[Waka Kotahi]: Waka Kotahi --[CONTACT]-> 64-4-894 5251 0.8593834638595581
+[Waka Kotahi]: Waka Kotahi --[SEEKS]-> additional information 0.8575963377952576
+[Waka Kotahi]: Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8574013710021973
+[Waka Kotahi]: Waka Kotahi --[DISCUSS]-> Ministerial Services 0.8567208647727966
+[Waka Kotahi]: Waka Kotahi --[CONTACTABLE]-> official.correspondence@nzta.govt.nz 0.8563278317451477
+[Waka Kotahi]: response letter --[DISCUSSED]-> Waka Kotahi 0.8561269044876099
+[information to Waka Kotahi]: New Zealand Transport Agency --[PROVIDES]-> information to Waka Kotahi 0.8501396179199219
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[CONTACT]-> T 64 4 894 5400 0.8471394777297974
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.8466371297836304
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.8446374535560608
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[COUNTRY]-> New Zealand 0.844450831413269
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[COLLABORATES_WITH]-> Tauranga City Council 0.8416389226913452
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.8400295972824097
+[Waka Kotahi NZ Transport Agency]: Robyn Elston --[RESPONDS]-> Waka Kotahi NZ Transport Agency 0.839604914188385
+[Waka Kotahi N Z Transport Agency]: Data --[PROVIDED]-> Waka Kotahi N Z Transport Agency 0.8170425295829773
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINS]-> Waka Kotahi N Z Transport Agency 0.7884831428527832

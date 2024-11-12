@@ -1,0 +1,36 @@
+What is the abbreviation for the project in Auckland that uses real-time data to manage traffic and provide timely information to commuters?
+None
+Seed: Addressing transport challenges in auckland
+Seed: Real-time traffic data collection
+Seed: Real-time traffic management systems
+Seed: Advanced technology and real-time data analytics
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Addressing transport challenges in auckland 0.8703999519348145
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On enhancing road infrastructure 0.867870032787323
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Outlines]-> Strategic approach to address challenges 0.8488777279853821
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On improving public transport 0.867254376411438
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On promoting sustainable transport solutions 0.853548526763916
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Promote sustainable transport options 0.851405918598175
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Reduce congestion 0.8662929534912109
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Is]-> Strategic initiative 0.8637232780456543
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Improve efficiency and effectiveness of transport system 0.8656489849090576
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Launched in]-> 2016 0.8648887276649475
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Development of comprehensive transport network 0.8833969831466675
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Is]-> Collaborative effort 0.8677524328231812
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Aligning transport investments 0.8650357127189636
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Create unified transport network 0.868393063545227
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Encompasses]-> Range of projects 0.8718466758728027
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Emphasizes]-> Need for balanced transport system 0.8510895371437073
+[Real-time traffic data collection]: Traffic management systems --[Include]-> Real-time traffic data collection 0.8615542054176331
+[Real-time traffic data collection]: Traffic management systems --[Include]-> Variable message signs 0.809107780456543
+[Real-time traffic data collection]: Traffic management systems --[Expected to evolve further]-> Data-driven decision-making 0.813927948474884
+[Real-time traffic data collection]: Traffic management systems --[Include]-> Traffic signals 0.8203451633453369
+[Real-time traffic data collection]: Traffic management systems --[Expected to evolve further]-> Shaping future transport policies 0.7956556081771851
+[Real-time traffic data collection]: Traffic management systems --[Critical in]-> Managing the increasing demand for road space 0.819333016872406
+[Real-time traffic data collection]: Traffic management systems --[Include]-> Surveillance cameras 0.8025525808334351
+[Real-time traffic data collection]: Traffic management systems --[Expected to evolve further]-> Infrastructure investments 0.8001384139060974
+[Real-time traffic data collection]: Traffic management systems --[Expected to evolve further]-> Collection and analysis of traffic data 0.8300639390945435
+[Real-time traffic data collection]: Traffic management systems --[Designed to]-> Optimize the flow of vehicles 0.8081349730491638
+[Real-time traffic data collection]: Traffic management systems --[Expected to evolve further]-> Integration of emerging technologies 0.8108254671096802
+[Real-time traffic data collection]: Traffic management systems --[Utilize]-> Data analytics 0.8262159824371338
+[Real-time traffic data collection]: Traffic management systems --[Utilize]-> Sensors 0.8322848081588745
+[Real-time traffic data collection]: Traffic management systems --[Utilize]-> Cameras 0.8046046495437622

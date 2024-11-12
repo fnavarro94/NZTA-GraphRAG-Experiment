@@ -1,0 +1,29 @@
+What were the primary categories of complaints received about Zoomy and Uber drivers?
+None
+Seed: 196 complaints about Uber drivers
+Seed: 8 complaints about Zoomy drivers
+Seed: Uber drivers
+Seed: why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’
+[196 complaints about Uber drivers]: Waka Kotahi --[RECEIVES]-> 8 complaints about Zoomy drivers 0.8774042129516602
+[196 complaints about Uber drivers]: Waka Kotahi --[RECEIVES]-> 196 complaints about Uber drivers 0.8668917417526245
+[196 complaints about Uber drivers]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.8498741388320923
+[196 complaints about Uber drivers]: Waka Kotahi --[INVESTIGATES]-> ride share operator complaints 0.8324029445648193
+[196 complaints about Uber drivers]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.8300657868385315
+[196 complaints about Uber drivers]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7984976172447205
+[196 complaints about Uber drivers]: Waka Kotahi --[REFUSES_REQUEST]-> driver licensing 0.7984223365783691
+[8 complaints about Zoomy drivers]: Waka Kotahi --[RECEIVES]-> 8 complaints about Zoomy drivers 0.8774042129516602
+[8 complaints about Zoomy drivers]: Waka Kotahi --[RECEIVES]-> 196 complaints about Uber drivers 0.8668917417526245
+[8 complaints about Zoomy drivers]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.8498741388320923
+[8 complaints about Zoomy drivers]: Waka Kotahi --[INVESTIGATES]-> ride share operator complaints 0.8324029445648193
+[8 complaints about Zoomy drivers]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.8300657868385315
+[8 complaints about Zoomy drivers]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7984976172447205
+[8 complaints about Zoomy drivers]: Waka Kotahi --[REFUSES_REQUEST]-> driver licensing 0.7984223365783691
+[Uber drivers]: Waka Kotahi --[RECEIVES]-> 8 complaints about Zoomy drivers 0.8774042129516602
+[Uber drivers]: Waka Kotahi --[RECEIVES]-> 196 complaints about Uber drivers 0.8668917417526245
+[Uber drivers]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.8498741388320923
+[Uber drivers]: Waka Kotahi --[INVESTIGATES]-> ride share operator complaints 0.8324029445648193
+[Uber drivers]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.8300657868385315
+[Uber drivers]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7984976172447205
+[Uber drivers]: Waka Kotahi --[REFUSES_REQUEST]-> driver licensing 0.7984223365783691
+[why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’]: enquiry --[ASKS]-> why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’ 0.822196900844574
+[why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’]: Transport Agency --[RECEIVED]-> enquiry 0.7828007936477661

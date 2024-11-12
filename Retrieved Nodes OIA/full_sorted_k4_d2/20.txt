@@ -1,0 +1,34 @@
+Were there any personal grievances or employment law processes underway with Charles Ronaldson, Giles Southwell, or Leigh Mitchell?
+None
+Seed: Giles Southwell
+Seed: Leigh Mitchell
+Seed: Charles Ronaldson
+Seed: public interest in legal professional privilege
+[Giles Southwell]: Giles Southwell --[EMPLOYED_BY]-> New Zealand Transport Agency 0.8193958401679993
+[Giles Southwell]: Leigh Mitchell --[EMPLOYED_BY]-> New Zealand Transport Agency 0.8143210411071777
+[Giles Southwell]: Charles Ronaldson --[EMPLOYED_BY]-> New Zealand Transport Agency 0.8140394687652588
+[Giles Southwell]: New Zealand Transport Agency --[PROVIDES]-> personal grievances lodged by staff 0.7677262425422668
+[Giles Southwell]: Michael Hayward --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7650463581085205
+[Giles Southwell]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Michael Hayward 0.7609564065933228
+[Giles Southwell]: New Zealand Transport Agency --[RECEIVES]-> personal grievances 0.7580496072769165
+[Leigh Mitchell]: Giles Southwell --[EMPLOYED_BY]-> New Zealand Transport Agency 0.8193958401679993
+[Leigh Mitchell]: Leigh Mitchell --[EMPLOYED_BY]-> New Zealand Transport Agency 0.8143210411071777
+[Leigh Mitchell]: Charles Ronaldson --[EMPLOYED_BY]-> New Zealand Transport Agency 0.8140394687652588
+[Leigh Mitchell]: New Zealand Transport Agency --[PROVIDES]-> personal grievances lodged by staff 0.7677262425422668
+[Leigh Mitchell]: Michael Hayward --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7650463581085205
+[Leigh Mitchell]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Michael Hayward 0.7609564065933228
+[Leigh Mitchell]: New Zealand Transport Agency --[RECEIVES]-> personal grievances 0.7580496072769165
+[Charles Ronaldson]: Charles Ronaldson --[IS]-> Programme Director, Commercial Projects 0.8273807168006897
+[Charles Ronaldson]: Giles Southwell --[EMPLOYED_BY]-> New Zealand Transport Agency 0.8193958401679993
+[Charles Ronaldson]: Leigh Mitchell --[EMPLOYED_BY]-> New Zealand Transport Agency 0.8143210411071777
+[Charles Ronaldson]: Charles Ronaldson --[EMPLOYED_BY]-> New Zealand Transport Agency 0.8140394687652588
+[Charles Ronaldson]: Charles Ronaldson --[GENERAL_MANAGER]-> Operations 0.8089484572410583
+[Charles Ronaldson]: Charles Ronaldson --[SIGNED]-> response 0.804772675037384
+[Charles Ronaldson]: New Zealand Transport Agency --[PROVIDES]-> personal grievances lodged by staff 0.7677262425422668
+[public interest in legal professional privilege]: Waka Kotahi --[PROTECTS]-> public interest in legal professional privilege 0.7598839998245239
+[public interest in legal professional privilege]: Galina Mitchelhill --[DISCUSS]-> Waka Kotahi 0.7516466379165649
+[public interest in legal professional privilege]: Waka Kotahi --[PROTECTS]-> legal professional privilege 0.7494917511940002
+[public interest in legal professional privilege]: Waka Kotahi --[CONTINUES]-> public interest in legal professional privilege 0.7487151026725769
+[public interest in legal professional privilege]: Waka Kotahi --[INVESTIGATES]-> breaches of rules or regulations 0.7478344440460205
+[public interest in legal professional privilege]: Waka Kotahi --[ACKNOWLEDGES]-> public interest in legal professional privilege 0.7473810911178589
+[public interest in legal professional privilege]: Beca --[CONTRACTED_BY]-> Waka Kotahi 0.743533194065094

@@ -1,0 +1,33 @@
+What is the largest city in the country known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, served by the key transport corridor critical for freight and passenger movement and runs through the North Island?
+None
+Seed: Critical for freight and passenger movement
+Seed: Critical aspect of transportation planning
+Seed: Critical component of new zealand's transport strategy
+Seed: Major cities and industrial hubs
+[Critical for freight and passenger movement]: North island main trunk railway --[Is]-> Critical for freight and passenger movement 0.8789194822311401
+[Critical for freight and passenger movement]: Freight transport in new zealand --[Driven by]-> Sustainability 0.8480767607688904
+[Critical for freight and passenger movement]: Auckland --[Serves as]-> Critical hub for transport 0.8396508693695068
+[Critical for freight and passenger movement]: North island main trunk railway --[Serves]-> Freight 0.8376193642616272
+[Critical for freight and passenger movement]: Auckland --[Is]-> Critical hub for transport 0.8347405195236206
+[Critical for freight and passenger movement]: North island main trunk railway --[Spans]-> 681 kilometers 0.8346585631370544
+[Critical for freight and passenger movement]: North island main trunk railway --[Facilitates]-> Regional connectivity 0.8340827822685242
+[Critical aspect of transportation planning]: Transport demand forecasting --[Is]-> Critical aspect of transportation planning 0.8554959297180176
+[Critical aspect of transportation planning]: Transport demand forecasting --[Involves]-> Socio-economic indicators 0.8399690389633179
+[Critical aspect of transportation planning]: Transport demand forecasting --[Involves]-> Statistical models 0.8276107311248779
+[Critical aspect of transportation planning]: Transport demand forecasting --[Estimates]-> Future travel patterns 0.8270413279533386
+[Critical aspect of transportation planning]: Transport demand forecasting --[Estimates]-> Demand for various transport services 0.817988395690918
+[Critical aspect of transportation planning]: Transport demand forecasting --[Involves]-> Historical data 0.81749427318573
+[Critical component of new zealand's transport strategy]: Community engagement --[Is]-> Critical aspect of transport planning 0.8170788288116455
+[Critical component of new zealand's transport strategy]: Road safety education --[Is]-> Critical component of new zealand's transport strategy 0.8159320950508118
+[Critical component of new zealand's transport strategy]: Nzta --[Actively exploring]-> Enhancing traffic management capabilities 0.8071642518043518
+[Critical component of new zealand's transport strategy]: New zealand government --[Improve]-> Overall transport experience 0.8041351437568665
+[Critical component of new zealand's transport strategy]: New zealand government --[Prioritizes]-> Transport research 0.8031724691390991
+[Critical component of new zealand's transport strategy]: Sustainable urban transport --[Prioritizes]-> Cycling 0.8002063632011414
+[Critical component of new zealand's transport strategy]: Auckland transport --[Actively involved in]-> Community engagement 0.7997731566429138
+[Major cities and industrial hubs]: Auckland --[Serves as]-> Critical hub for transport 0.8396508693695068
+[Major cities and industrial hubs]: Auckland --[Is]-> Critical hub for transport 0.8347405195236206
+[Major cities and industrial hubs]: Auckland --[Is]-> Major transport hub 0.8334574699401855
+[Major cities and industrial hubs]: Kiwirail --[Spans]-> Both the north and south islands 0.8254702091217041
+[Major cities and industrial hubs]: Auckland --[Has]-> Significant transport hub 0.8237025141716003
+[Major cities and industrial hubs]: Rail network --[Plays]-> Crucial role in freight transport 0.822899341583252
+[Major cities and industrial hubs]: Auckland --[Has]-> Transport infrastructure 0.8225526213645935

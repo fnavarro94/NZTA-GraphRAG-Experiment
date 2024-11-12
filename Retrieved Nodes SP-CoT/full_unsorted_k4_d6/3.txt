@@ -1,0 +1,36 @@
+What suburb does Te Ara I Whiti (Lightpath) connect to from the city that is home to the Te Ara I Whiti (Lightpath) project, which has transformed underutilized spaces into vibrant cycling and pedestrian pathways, CBD?
+None
+Seed: Multiple routes linking it to surrounding suburbs and the auckland cbd
+Seed: Auckland cbd
+Seed: Commuters to cbd
+Seed: Dedicated cycle lanes and pedestrian pathways
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Has]-> Multiple routes linking it to surrounding suburbs and the auckland cbd 0.8053060173988342
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Is]-> Near state highway 20 0.717438280582428
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Has]-> Encouraged more sustainable travel options 0.7222728729248047
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Is]-> Strategically located near major arterial routes 0.7373204231262207
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Has]-> Enhanced the overall efficiency of public transport 0.7155998945236206
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Has]-> Key point for maritime trade 0.6957378387451172
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Has]-> Integration of bus and rail services 0.7384935617446899
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Promotes]-> Active transport 0.7367390394210815
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: New zealand --[Promotes]-> Active transport 0.7649909257888794
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: New zealand --[Has]-> Transport projects 0.7787160873413086
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: New zealand transport agency --[Oversees]-> Transport projects 0.7305228114128113
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: New zealand --[Has]-> New zealand transport agency 0.7432985305786133
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: New zealand transport agency --[Is]-> Forefront of promoting active transport 0.7411986589431763
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: New zealand transport agency --[Is]-> Government agency 0.736784815788269
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: New zealand transport agency --[Is]-> Key stakeholder 0.7281879186630249
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: New zealand transport agency --[Is]-> Primary authority 0.7238113284111023
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: New zealand transport agency --[Is]-> Developing integrated transport solutions 0.7433164119720459
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: New zealand transport agency --[Is]-> Collaborating with technology providers 0.7352888584136963
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: New zealand transport agency --[Implemented]-> Initiatives 0.7525362372398376
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: New zealand transport agency --[Responsible for]-> Management and regulation of transport systems 0.7219340205192566
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: New zealand transport agency --[Responsible for]-> Management and regulation of the transport system in new zealand 0.7229255437850952
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: New zealand transport agency --[Ensures]-> Policies align with national transport objectives 0.7018582820892334
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: New zealand transport agency --[Ensures]-> Voices of all road users are considered in decision-making processes 0.7001278400421143
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: New zealand transport agency --[Mandates]-> Regular audits 0.6860376596450806
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: New zealand transport agency --[Promotes]-> Road safety 0.7191178798675537
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: New zealand transport agency --[Aims]-> Reduce greenhouse gas emissions 0.7215489149093628
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: New zealand transport agency --[Plays]-> A crucial role in funding and promoting cycling infrastructure projects 0.7630404829978943
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: New zealand transport agency --[Plays]-> Pivotal role in conducting forecasts 0.7049362659454346
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: New zealand transport agency --[Plays]-> Pivotal role in facilitating road user engagement 0.7508902549743652
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: New zealand transport agency --[Plays]-> Crucial role in developing guidelines 0.7183676362037659

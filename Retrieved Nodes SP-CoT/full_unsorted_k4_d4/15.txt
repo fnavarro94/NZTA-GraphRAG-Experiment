@@ -1,0 +1,36 @@
+What is the minimum age requirement for obtaining a driver license in New Zealand, which is the first stage of the driver licensing process and can be obtained at the age of 16?
+None
+Seed: Age of 16
+Seed: Provisional driving license
+Seed: Legal framework for licensing of drivers
+Seed: Full valid driver's license
+[Age of 16]: Learner license --[Obtained at]-> Age of 16 0.8774173855781555
+[Age of 16]: Learner license --[Aims]-> Reduce risk of accidents 0.8029466271400452
+[Age of 16]: Learner license --[Promotes]-> Responsible driving habits 0.80977463722229
+[Age of 16]: Learner license --[Valid]-> Five years 0.8172269463539124
+[Age of 16]: Learner license --[Importance]-> Road safety 0.8245092630386353
+[Age of 16]: Smart technology integration --[Improves]-> Road safety 0.7290048599243164
+[Age of 16]: Smart technology integration --[Facilitates]-> Transition to evs 0.6938832998275757
+[Age of 16]: Smart technology integration --[Has]-> Smart traffic signals 0.7158521413803101
+[Age of 16]: Smart technology integration --[Minimizes]-> Delays 0.7033424377441406
+[Age of 16]: Smart technology integration --[Will]-> Expand further 0.6726446151733398
+[Age of 16]: Smart technology integration --[Is]-> For all new zealanders 0.7455801963806152
+[Age of 16]: Smart technology integration --[Contributes to]-> Reduction of greenhouse gas emissions 0.6763625144958496
+[Age of 16]: Smart technology integration --[Adapts to]-> Real-time traffic conditions 0.7153935432434082
+[Age of 16]: Smart technology integration --[Monitors]-> Traffic flow 0.720456600189209
+[Age of 16]: Smart technology integration --[Collaborates with]-> Local councils and private sector stakeholders 0.7023706436157227
+[Age of 16]: Smart technology integration --[Allows]-> Seamless fare collection 0.722270131111145
+[Age of 16]: Smart technology integration --[Provides]-> Real-time information 0.6908704042434692
+[Age of 16]: Smart technology integration --[Manages]-> Energy consumption 0.6738187670707703
+[Age of 16]: Smart technology integration --[Is]-> In public transport 0.7223491668701172
+[Age of 16]: Smart technology integration --[Is]-> Key area of development 0.6933445930480957
+[Age of 16]: Smart technology integration --[Is]-> In future prospects 0.6897056102752686
+[Age of 16]: Smart technology integration --[Is]-> Vital component in addressing challenges 0.6886658668518066
+[Age of 16]: Smart technology integration --[Ensures]-> Benefits of smart technology are realized 0.6839864253997803
+[Age of 16]: Smart technology integration --[Promises]-> To revolutionize way goods and people are transported 0.6939874887466431
+[Age of 16]: Smart technology integration --[Has]-> Contactless payment systems 0.7072827219963074
+[Age of 16]: Smart technology integration --[Is]-> In electric vehicle infrastructure 0.7032351493835449
+[Age of 16]: Smart technology integration --[Is]-> In new zealand government 0.7632982134819031
+[Age of 16]: Smart technology integration --[Is]-> In cities like auckland and wellington 0.7546651363372803
+[Age of 16]: Smart technology integration --[Manages]-> Traffic flow 0.7240545749664307
+[Age of 16]: Smart technology integration --[Refers to]-> Incorporation of advanced digital technologies 0.6831193566322327

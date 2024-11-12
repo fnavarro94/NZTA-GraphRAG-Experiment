@@ -1,0 +1,36 @@
+Why was a list of drugs involved in fatal crashes not provided in response to the request?
+None
+Seed: figures on drivers involved in fatal crashes
+Seed: 1 fatal crash, 3 serious crashes, 8 minor crashes, 12 non-injury crashes, 24 total crashes
+Seed: drivers involved in fatal crashes
+Seed: 2 fatal crashes, 2 serious crashes, 1 minor crash, 4 non-injury crashes, 5 total crashes
+[figures on drivers involved in fatal crashes]: AA --[PROVIDES]-> figures on drivers involved in fatal crashes 0.8342830538749695
+[1 fatal crash, 3 serious crashes, 8 minor crashes, 12 non-injury crashes, 24 total crashes]: 01/10/2020 to 26/05/2021 --[HAS_CRASHES]-> 1 fatal crash, 3 serious crashes, 8 minor crashes, 12 non-injury crashes, 24 total crashes 0.8409827947616577
+[drivers involved in fatal crashes]: drivers involved in fatal crashes --[INVOLVED_IN]-> fatal crashes 0.8515899777412415
+[drivers involved in fatal crashes]: fatal crashes --[CAUSED_BY]-> drugs or alcohol 0.8826371431350708
+[drivers involved in fatal crashes]: drugs or alcohol --[AFFECTS]-> drivers 0.8265054225921631
+[drivers involved in fatal crashes]: tolls --[COLLECTED]-> drivers 0.7852993607521057
+[drivers involved in fatal crashes]: New Zealand Transport Agency --[MANAGES]-> tolls 0.7584656476974487
+[drivers involved in fatal crashes]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.746317446231842
+[drivers involved in fatal crashes]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7512903809547424
+[drivers involved in fatal crashes]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7468828558921814
+[drivers involved in fatal crashes]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7424941062927246
+[drivers involved in fatal crashes]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7373111844062805
+[drivers involved in fatal crashes]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7506963014602661
+[drivers involved in fatal crashes]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7568098902702332
+[drivers involved in fatal crashes]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7474517822265625
+[drivers involved in fatal crashes]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7728763818740845
+[drivers involved in fatal crashes]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.785281777381897
+[drivers involved in fatal crashes]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7705528140068054
+[drivers involved in fatal crashes]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7726449370384216
+[drivers involved in fatal crashes]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7835173606872559
+[drivers involved in fatal crashes]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7669544219970703
+[drivers involved in fatal crashes]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7626600861549377
+[drivers involved in fatal crashes]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8000866770744324
+[drivers involved in fatal crashes]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7591148614883423
+[drivers involved in fatal crashes]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7650142908096313
+[drivers involved in fatal crashes]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7871081829071045
+[drivers involved in fatal crashes]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7458702325820923
+[drivers involved in fatal crashes]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8002475500106812
+[drivers involved in fatal crashes]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7846417427062988
+[drivers involved in fatal crashes]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7981338500976562

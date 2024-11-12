@@ -1,0 +1,32 @@
+Where can information on legal drugs that impair driving be found?
+None
+Seed: Careless Or Inconsiderate Driving Causing Death Or Injury
+Seed: Roadside Drug Testing
+Seed: Driving With Excess Blood Alcohol Level
+Seed: Speed and Drunk Driving Enforcement
+[Careless Or Inconsiderate Driving Causing Death Or Injury]: Roadside Drug Testing --[NOT_DONE]-> 2022 0.8445149660110474
+[Careless Or Inconsiderate Driving Causing Death Or Injury]: Driving With Excess Blood Alcohol Level --[COUNT]-> 1 0.8420655727386475
+[Careless Or Inconsiderate Driving Causing Death Or Injury]: Careless Or Inconsiderate Driving Causing Death Or Injury --[COUNT]-> 1 0.8416814208030701
+[Careless Or Inconsiderate Driving Causing Death Or Injury]: Careless Use/Driving --[COUNT]-> 2 0.8375009298324585
+[Careless Or Inconsiderate Driving Causing Death Or Injury]: Possession Of Instructions For Drugs --[COUNT]-> 1 0.827984094619751
+[Careless Or Inconsiderate Driving Causing Death Or Injury]: Drove With Excess Blood Alcohol Content Blood/Breath --[COUNT]-> 2 0.8264625072479248
+[Careless Or Inconsiderate Driving Causing Death Or Injury]: Unlicensed Person Driving Excess Blood Alc Blood/Breath --[COUNT]-> 2 0.8220639824867249
+[Roadside Drug Testing]: road accident data --[ATTRIBUTED_TO]-> drugs 0.8803821802139282
+[Roadside Drug Testing]: Drugs --[TESTED]-> Roadside Drug Testing 0.8787522912025452
+[Roadside Drug Testing]: Roadside Drug Testing --[NOT_DONE]-> 2021 0.8519662022590637
+[Roadside Drug Testing]: Roadside Drug Testing --[NOT_DONE]-> 2022 0.8445149660110474
+[Roadside Drug Testing]: Roadside Drug Testing --[NOT_DONE]-> 2020 0.8444730043411255
+[Roadside Drug Testing]: Driving With Excess Blood Alcohol Level --[COUNT]-> 1 0.8420655727386475
+[Roadside Drug Testing]: Careless Or Inconsiderate Driving Causing Death Or Injury --[COUNT]-> 1 0.8416814208030701
+[Driving With Excess Blood Alcohol Level]: Roadside Drug Testing --[NOT_DONE]-> 2022 0.8445149660110474
+[Driving With Excess Blood Alcohol Level]: Driving With Excess Blood Alcohol Level --[COUNT]-> 1 0.8420655727386475
+[Driving With Excess Blood Alcohol Level]: Careless Or Inconsiderate Driving Causing Death Or Injury --[COUNT]-> 1 0.8416814208030701
+[Driving With Excess Blood Alcohol Level]: Careless Use/Driving --[COUNT]-> 2 0.8375009298324585
+[Driving With Excess Blood Alcohol Level]: Possession Of Instructions For Drugs --[COUNT]-> 1 0.827984094619751
+[Driving With Excess Blood Alcohol Level]: Drove With Excess Blood Alcohol Content Blood/Breath --[COUNT]-> 2 0.8264625072479248
+[Driving With Excess Blood Alcohol Level]: Unlicensed Person Driving Excess Blood Alc Blood/Breath --[COUNT]-> 2 0.8220639824867249
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[FOCUSES_ON]-> Restraints, Impairment, Distraction, Speed 0.8009861707687378
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[PROVIDES]-> https://www.nzta.govt.nz/assets/resources/road-policing-programme/docs/rpp-2021-24.pdf 0.7935669422149658
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[DOUBLES]-> Speed and Drunk Driving Enforcement 0.7919595241546631
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[PROVIDES]-> Road Policing Activities 0.7651419639587402
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[ALLOCATES]-> $1.24 billion 0.7486821413040161

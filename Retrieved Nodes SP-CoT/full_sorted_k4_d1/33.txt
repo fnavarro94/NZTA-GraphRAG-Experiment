@@ -1,0 +1,11 @@
+What body of water encircles the geological region where New Zealand is located, making it susceptible to natural disasters such as earthquakes, volcanic eruptions, and tsunamis?
+None
+Seed: Horseshoe-shaped zone of high seismic and volcanic activity
+Seed: North island's eastern coastline
+Seed: Volcanic activity
+Seed: Natural hazards
+[Horseshoe-shaped zone of high seismic and volcanic activity]: Pacific ring of fire --[Is]-> Horseshoe-shaped zone of high seismic and volcanic activity 0.8409578800201416
+[North island's eastern coastline]: Pch --[Runs along]-> North island's eastern coastline 0.8261814713478088
+[Volcanic activity]: New zealand --[Is vulnerable to]-> Volcanic activity 0.9155840277671814
+[Natural hazards]: New zealand --[Susceptible to]-> Natural hazards 0.908810555934906
+[Natural hazards]: New zealand --[Is vulnerable to]-> Natural hazards 0.9015886783599854

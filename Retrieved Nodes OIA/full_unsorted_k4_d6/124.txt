@@ -1,0 +1,36 @@
+When is the Detailed Business Case (DBC) for the North Auckland Rapid Transit Corridor expected to be available?
+None
+Seed: North Auckland Rapid Transit Corridor
+Seed: National Ticketing Solution request for proposal
+Seed: Rapid Transit Network Delivery Plan
+Seed: Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case
+[North Auckland Rapid Transit Corridor]: North Auckland Rapid Transit Corridor --[LOCATED]-> Auckland 0.887446939945221
+[North Auckland Rapid Transit Corridor]: State Highway 1 --[LOCATED_IN]-> Auckland 0.8183478713035583
+[North Auckland Rapid Transit Corridor]: road safety --[ENHANCED_BY]-> State Highway 1 0.756011962890625
+[North Auckland Rapid Transit Corridor]: transportation infrastructure --[IMPROVES]-> road safety 0.7617480754852295
+[North Auckland Rapid Transit Corridor]: New Zealand Transport Agency --[RESPONSIBLE_FOR]-> transportation infrastructure 0.8271618485450745
+[North Auckland Rapid Transit Corridor]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8417208194732666
+[North Auckland Rapid Transit Corridor]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8498072624206543
+[North Auckland Rapid Transit Corridor]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8454254269599915
+[North Auckland Rapid Transit Corridor]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.8320698142051697
+[North Auckland Rapid Transit Corridor]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.8433757424354553
+[North Auckland Rapid Transit Corridor]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.8447222113609314
+[North Auckland Rapid Transit Corridor]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.8285695314407349
+[North Auckland Rapid Transit Corridor]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.8530604839324951
+[North Auckland Rapid Transit Corridor]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8451133370399475
+[North Auckland Rapid Transit Corridor]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8265085220336914
+[North Auckland Rapid Transit Corridor]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8190580606460571
+[North Auckland Rapid Transit Corridor]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8474307060241699
+[North Auckland Rapid Transit Corridor]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8280746936798096
+[North Auckland Rapid Transit Corridor]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8265236020088196
+[North Auckland Rapid Transit Corridor]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8034448623657227
+[North Auckland Rapid Transit Corridor]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8275181651115417
+[North Auckland Rapid Transit Corridor]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8057312369346619
+[North Auckland Rapid Transit Corridor]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8194132447242737
+[North Auckland Rapid Transit Corridor]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8380403518676758
+[North Auckland Rapid Transit Corridor]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7937027215957642
+[North Auckland Rapid Transit Corridor]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8286677598953247
+[North Auckland Rapid Transit Corridor]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.824979841709137
+[North Auckland Rapid Transit Corridor]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.831346869468689
+[North Auckland Rapid Transit Corridor]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8059661388397217
+[North Auckland Rapid Transit Corridor]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8021900653839111

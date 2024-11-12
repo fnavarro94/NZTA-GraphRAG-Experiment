@@ -1,0 +1,36 @@
+What factors contributed to fatal crashes in 2020 related to drug driving in New Zealand?
+None
+Seed: figures on drivers involved in fatal crashes
+Seed: information on driver fatalities
+Seed: Traffic Crash Report
+Seed: drivers involved in fatal crashes
+[figures on drivers involved in fatal crashes]: AA --[PROVIDES]-> figures on drivers involved in fatal crashes 0.8313195705413818
+[information on driver fatalities]: Emma Conyngham --[REQUESTS]-> information on driver fatalities 0.8283253908157349
+[Traffic Crash Report]: Crash Analysis System --[UPDATED]-> Traffic Crash Report 0.8314229846000671
+[Traffic Crash Report]: Deceased Drivers --[ASSOCIATED_WITH]-> Crash Analysis System 0.8061288595199585
+[Traffic Crash Report]: Crash Analysis System --[ASSOCIATED_WITH]-> Deceased Drivers 0.8109012842178345
+[Traffic Crash Report]: Crash Analysis System --[PROVIDES]-> Traffic Crash Report 0.8122403025627136
+[Traffic Crash Report]: Crash Analysis System --[ASSOCIATED_WITH]-> Traffic Crash Report 0.8149902820587158
+[Traffic Crash Report]: Crash Analysis System --[PROVIDES]-> Data 0.796076238155365
+[Traffic Crash Report]: 2020 --[FATAL_CRASHES]-> Crash Analysis System 0.8522828817367554
+[Traffic Crash Report]: Traffic Crash Report --[ASSOCIATED_WITH]-> Crash Analysis System 0.8175110220909119
+[Traffic Crash Report]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.8226525783538818
+[Traffic Crash Report]: Crash Analysis System --[MAINTAINS]-> Waka Kotahi N Z Transport Agency 0.7820863723754883
+[Traffic Crash Report]: Crash Analysis System --[UPDATES]-> Traffic Crash Report 0.823038637638092
+[Traffic Crash Report]: road accident data --[FROM]-> Crash Analysis System 0.8047626614570618
+[Traffic Crash Report]: Crash Analysis System --[PROVIDES]-> road accident data 0.8022919297218323
+[Traffic Crash Report]: Crash Analysis System --[MANAGED_BY]-> New Zealand Transport Agency 0.8486852645874023
+[Traffic Crash Report]: crash movements and cause factors --[RECORDED_IN]-> Crash Analysis System 0.8189475536346436
+[Traffic Crash Report]: New Zealand Transport Agency --[MAINTAINS]-> Crash Analysis System 0.8286324143409729
+[Traffic Crash Report]: primary contribution --[DETERMINED]-> Crash Analysis System 0.793382465839386
+[Traffic Crash Report]: Crash Analysis System --[PROVIDES]-> data on road traffic crashes 0.8151658177375793
+[Traffic Crash Report]: Crash Analysis System --[UPDATES]-> Traffic Crash Reports 0.8229074478149414
+[Traffic Crash Report]: Crash Analysis System --[CAPTURES]-> information on crashes 0.7962870597839355
+[Traffic Crash Report]: Crash Analysis System --[USES]-> contributing factor codes 0.8047856688499451
+[Traffic Crash Report]: New Zealand Transport Agency --[MANAGES]-> Crash Analysis System 0.834465503692627
+[Traffic Crash Report]: Traffic Crash Report --[RECORDED_IN]-> Crash Analysis System 0.799972653388977
+[Traffic Crash Report]: Crash Analysis System --[UPDATES]-> Data 0.7851338386535645
+[Traffic Crash Report]: New Zealand Transport Agency Waka Kotahi --[MAINTAINS]-> Crash Analysis System 0.8063619136810303
+[Traffic Crash Report]: Crash Analysis System --[PROVIDES]-> traffic crash data 0.8149477243423462
+[Traffic Crash Report]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.8019225001335144
+[Traffic Crash Report]: Crash Analysis System --[CONTAINS]-> Traffic Crash Report 0.8173576593399048

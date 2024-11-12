@@ -1,0 +1,11 @@
+How many times has the Milford Rd closed each year for the past 5 years?
+None
+Seed: 5 years
+Seed: vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas
+Seed: resignations by year since 2014
+Seed: Milford Alliance
+[5 years]: Transport Service Licences --[ACTIVE_FOR]-> 5 years 0.8066335916519165
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand Transport Agency --[PROVIDES]-> vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas 0.7861930131912231
+[resignations by year since 2014]: New Zealand Transport Agency --[PROVIDES]-> resignations by year since 2014 0.7728768587112427
+[Milford Alliance]: Milford Alliance --[DEVELOPED_BY]-> Connected Journeys 0.8118149042129517
+[Milford Alliance]: Connected Journeys --[DEVELOPS]-> Milford Alliance 0.7938207387924194

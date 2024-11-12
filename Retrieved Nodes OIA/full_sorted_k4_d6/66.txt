@@ -1,0 +1,34 @@
+Has Waka Kotahi conducted tests comparing the occupancy protection of cab cut-outs reinforced with steel vs. fiberglass or wood?
+None
+Seed: 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.
+Seed: Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act).
+Seed: fibreglass or wood
+Seed: improving the safety performance of the vehicle fleet
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: wood --[TESTED]-> Waka Kotahi 0.8966594338417053
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: I will respond to each of your questions in turn. --[OFFICIAL_INFORMATION]-> 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. 0.8737632036209106
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: tests --[CONDUCTED]-> Waka Kotahi 0.8720118999481201
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: tests --[CONDUCTED_BY]-> Waka Kotahi 0.8635929226875305
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: NZ Transport Agency Waka Kotahi --[BASED_ON]-> investigations, construction findings, on-site progress, design updates, design assumptions 0.8587226271629333
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: Senior Engineer Vehicle Standard --[ASSOCIATED]-> Waka Kotahi 0.8511996269226074
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. --[OFFICIAL_INFORMATION]-> I am refusing this part of your request under section 18(d) of the Act as the information is publicly available. 0.8500387072563171
+[Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act).]: wood --[TESTED]-> Waka Kotahi 0.8966594338417053
+[Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act).]: I will respond to each of your questions in turn. --[OFFICIAL_INFORMATION]-> 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. 0.8737632036209106
+[Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act).]: tests --[CONDUCTED]-> Waka Kotahi 0.8720118999481201
+[Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act).]: steel --[VS]-> fibreglass 0.8711502552032471
+[Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act).]: steel is present reinforcing the ca b cut-out --[VS]-> fibreglass or wood 0.870938241481781
+[Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act).]: steel --[VS]-> fibreglass or wood 0.8681033253669739
+[Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act).]: fibreglass or wood --[TESTED]-> tests 0.866275429725647
+[fibreglass or wood]: wood --[TESTED]-> Waka Kotahi 0.8966594338417053
+[fibreglass or wood]: tests --[CONDUCTED]-> Waka Kotahi 0.8720118999481201
+[fibreglass or wood]: steel --[VS]-> fibreglass 0.8711502552032471
+[fibreglass or wood]: steel is present reinforcing the ca b cut-out --[VS]-> fibreglass or wood 0.870938241481781
+[fibreglass or wood]: steel --[VS]-> fibreglass or wood 0.8681033253669739
+[fibreglass or wood]: fibreglass or wood --[TESTED]-> tests 0.866275429725647
+[fibreglass or wood]: tests --[CONDUCTED_BY]-> Waka Kotahi 0.8635929226875305
+[improving the safety performance of the vehicle fleet]: Safe System approach --[INCLUDES]-> improving the safety performance of the vehicle fleet 0.7909694314002991
+[improving the safety performance of the vehicle fleet]: resolution A/RES/74/299 --[PROMOTES]-> Safe System approach 0.7795222997665405
+[improving the safety performance of the vehicle fleet]: Safe System approach --[INCLUDES]-> installing median barriers 0.7757889032363892
+[improving the safety performance of the vehicle fleet]: Safe System approach --[INCLUDES]-> encouraging road users to be alert and compliant 0.7604166269302368
+[improving the safety performance of the vehicle fleet]: A/RES/74/299 --[PROMOTES]-> Vision Zero 0.7583274841308594
+[improving the safety performance of the vehicle fleet]: Vision Zero --[RECOMMENDED_BY]-> Organisation for Economic Co-operation and Development 0.7555137872695923
+[improving the safety performance of the vehicle fleet]: international best-practice guide --[DISCUSSES]-> Vision Zero 0.7524974942207336

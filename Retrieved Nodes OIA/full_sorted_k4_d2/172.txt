@@ -1,0 +1,29 @@
+How can someone challenge a decision made under the Official Information Act?
+None
+Seed: I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.
+Seed: decision making
+Seed: public interest in seeking and receiving confidential legal advice
+Seed: seeking and receiving confidential legal advice
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. --[OFFICIAL_INFORMATION]-> I am refusing this part of your request under section 18(d) of the Act as the information is publicly available. 0.8088490962982178
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: I will respond to each of your questions in turn. --[OFFICIAL_INFORMATION]-> 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. 0.8029297590255737
+[decision making]: decision making --[PART_OF]-> speed review process 0.8000133037567139
+[decision making]: speed review process --[REQUIRES]-> consultation 0.799062967300415
+[decision making]: consultation --[SEEKS]-> feedback 0.7932559251785278
+[decision making]: consultation --[PART_OF]-> speed review process 0.7830037474632263
+[decision making]: speed review process --[INVOLVES]-> stakeholders 0.7823472023010254
+[decision making]: Setting of Speed Limits Rule 2017 --[APPLIES_TO]-> speed review process 0.779230535030365
+[decision making]: feedback --[CONTRIBUTES_TO]-> decision making 0.7780090570449829
+[public interest in seeking and receiving confidential legal advice]: Waka Kotahi --[APPLIES]-> section 18(g) of the Act 0.8102431297302246
+[public interest in seeking and receiving confidential legal advice]: Waka Kotahi --[SEEKS]-> confidential legal advice 0.807883620262146
+[public interest in seeking and receiving confidential legal advice]: Waka Kotahi --[INVESTIGATES]-> breaches of rules or regulations 0.805952787399292
+[public interest in seeking and receiving confidential legal advice]: Waka Kotahi --[DISCUSS]-> OIA-8555-response.pdf 0.8008872866630554
+[public interest in seeking and receiving confidential legal advice]: Waka Kotahi --[DISCUSS]-> OIA-8620-response.pdf 0.8002166748046875
+[public interest in seeking and receiving confidential legal advice]: Waka Kotahi --[SEEKS]-> additional information 0.7986704111099243
+[public interest in seeking and receiving confidential legal advice]: Waka Kotahi --[POLICY]-> publishing responses on website 0.7980331182479858
+[seeking and receiving confidential legal advice]: Waka Kotahi --[APPLIES]-> section 18(g) of the Act 0.8102431297302246
+[seeking and receiving confidential legal advice]: Waka Kotahi --[SEEKS]-> confidential legal advice 0.807883620262146
+[seeking and receiving confidential legal advice]: Waka Kotahi --[INVESTIGATES]-> breaches of rules or regulations 0.805952787399292
+[seeking and receiving confidential legal advice]: Waka Kotahi --[DISCUSS]-> OIA-8555-response.pdf 0.8008872866630554
+[seeking and receiving confidential legal advice]: Waka Kotahi --[DISCUSS]-> OIA-8620-response.pdf 0.8002166748046875
+[seeking and receiving confidential legal advice]: Waka Kotahi --[SEEKS]-> additional information 0.7986704111099243
+[seeking and receiving confidential legal advice]: Waka Kotahi --[POLICY]-> publishing responses on website 0.7980331182479858

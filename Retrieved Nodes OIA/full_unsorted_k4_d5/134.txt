@@ -1,0 +1,36 @@
+How does the proportion of 80km/h zone length compare to the 100km/h zone length on SH16?
+None
+Seed: comparing the number of accidents under the 100km speed limit versus the current 80km speed rate
+Seed: annual accident rate on SH16
+Seed: 100M
+Seed: Discuss this reply with the NZ Transport Agency
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[INTERESTED_IN]-> comparing the number of accidents under the 100km speed limit versus the current 80km speed rate 0.8331906795501709
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[EMAILS]-> NZ Transport Agency 0.7453160285949707
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: NZ Transport Agency --[ASSOCIATED]-> Andrew Knackstedt 0.7352811694145203
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: response --[ASSOCIATED_WITH]-> Andrew Knackstedt 0.7575163841247559
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.7782819271087646
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Charles Ronaldson --[SIGNED]-> response 0.7326303124427795
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: response --[CONTAINS]-> Waka Kotahi 0.7636410593986511
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Lauren Cooke --[SIGNED]-> response 0.7235949039459229
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Waka Kotahi --[PUBLISHED_BY]-> response 0.7593561410903931
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Ministry --[PROVIDE]-> response 0.7424558997154236
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: response --[REMOVED]-> personal information 0.7059470415115356
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Waka Kotahi website --[CONTAINS]-> response 0.7436473369598389
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: New Zealand Transport Agency --[DISCUSSES]-> response 0.7732797265052795
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: response --[IS_A]-> letter 0.7441844940185547
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Waka Kotahi --[FOLLOWS]-> response 0.7485451698303223
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: New Zealand Transport Agency --[PUBLISH]-> response 0.7846872806549072
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: New Zealand Transport Agency --[PUBLISHES]-> response 0.777535080909729
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: response --[IS]-> response letter 0.7451156377792358
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: response letter --[IS]-> response 0.7472235560417175
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: response --[CONTAINS]-> contact details for the Ombudsman 0.7329694032669067
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: response --[CONTAINS]-> Jamie Ensor 0.7504192590713501
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: response --[RELATES_TO]-> personal information removed 0.7267338037490845
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Conan Young --[RECEIVES]-> response 0.7328033447265625
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: oia-14650-response-letter.pdf --[CONTAINS]-> response 0.7504676580429077
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: response --[IS]-> sincerely 0.738676905632019
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: NZTA --[REPLY]-> response 0.764918327331543
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: response --[REMOVE]-> personal information 0.6933121681213379
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Waka Kotahi --[PUBLISHED]-> response 0.7727581262588501
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Waka Kotahi --[PROVIDES]-> response 0.7539846301078796
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: response --[IS_PUBLISHED_ON]-> website 0.7399703860282898

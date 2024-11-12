@@ -1,0 +1,13 @@
+Which southern city is connected to the major urban area in New Zealand that employs advanced traffic signal control systems alongside the city experiencing increasing urbanization and requiring innovative solutions to manage congestion and improve public transport services by State Highway 1?
+None
+Seed: Critical link between southern suburbs and central business district
+Seed: Increasing congestion in urban areas
+Seed: Urban areas
+Seed: Addressing transport challenges in auckland
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Serves as]-> Critical link between southern suburbs and central business district 0.8634152412414551
+[Increasing congestion in urban areas]: New zealand's transport system --[Faces]-> Increasing congestion in urban areas 0.8844836354255676
+[Urban areas]: Electric scooters --[Used in]-> Urban areas 0.7818588614463806
+[Urban areas]: Urban areas --[Use]-> Public transport systems 0.8153021931648254
+[Urban areas]: Urban areas --[Have]-> Significant investment in public transport infrastructure 0.8142291903495789
+[Urban areas]: New zealand --[Has]-> Urban areas 0.8558166027069092
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Addressing transport challenges in auckland 0.8456321954727173

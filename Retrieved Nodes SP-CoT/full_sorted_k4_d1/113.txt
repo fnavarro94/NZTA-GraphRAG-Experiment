@@ -1,0 +1,10 @@
+Which notable transport project in the country that utilizes Transport Environmental Impact Assessments (TEIAs) to evaluate the potential environmental effects of proposed transport projects and policies, alongside the Auckland project under the major project that aims to improve transportation connectivity in Auckland and support the region's economic growth, has undergone TEIA?
+None
+Seed: Addressing transport challenges in auckland
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+Seed: Potential direct and indirect effects of the proposed transport project
+Seed: Initiatives to promote sustainable transport solutions
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Addressing transport challenges in auckland 0.8688763380050659
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Plays]-> Significant role in shaping transport infrastructure and policy in new zealand 0.850877046585083
+[Potential direct and indirect effects of the proposed transport project]: Impact assessment --[Evaluates]-> Potential direct and indirect effects of the proposed transport project 0.861967921257019
+[Initiatives to promote sustainable transport solutions]: Climate change response act --[Includes]-> Initiatives to promote sustainable transport solutions 0.8193590641021729

@@ -1,0 +1,36 @@
+What does the Crash Analysis System (CAS) track with regards to incidents involving cyclists and pedestrians wearing headphones?
+None
+Seed: Pedestrian and Cyclist Crashes
+Seed: Pedestrian Safety Analysis
+Seed: figures on drivers involved in fatal crashes
+Seed: information on driver fatalities
+[Pedestrian and Cyclist Crashes]: Pedestrian and Cyclist Crashes --[ASSOCIATED_WITH]-> Headphones, Earphones, Earbuds, or Headsets 0.9088004231452942
+[Pedestrian and Cyclist Crashes]: Headphones, Earphones, Earbuds, or Headsets --[MENTIONED_IN]-> Crash Description 0.8513724207878113
+[Pedestrian and Cyclist Crashes]: Crash Description --[CONTAINS]-> Mistakes 0.7673416137695312
+[Pedestrian and Cyclist Crashes]: Crash Data --[RELATES_TO]-> Pedestrian and Cyclist Crashes 0.8734562397003174
+[Pedestrian and Cyclist Crashes]: Crash Data --[RELATES_TO]-> Bay of Plenty Region 0.7799370288848877
+[Pedestrian and Cyclist Crashes]: Sat tests --[REGIONALISED_BY]-> Bay of Plenty Region 0.7244147062301636
+[Pedestrian and Cyclist Crashes]: Bay of Plenty Region --[HAS_CONTRIBUTING_FACTOR]-> Drugs proven 0.731889009475708
+[Pedestrian and Cyclist Crashes]: Crash Data --[FILTERED_BY]-> Factor 103 0.7817904353141785
+[Pedestrian and Cyclist Crashes]: Factor 103 --[CONTRIBUTES_TO]-> Crash Analysis 0.8070240616798401
+[Pedestrian and Cyclist Crashes]: Traffic Crash Report --[CONTAINS]-> Crash Data 0.828525960445404
+[Pedestrian and Cyclist Crashes]: Crash Analysis System --[UPDATED]-> Traffic Crash Report 0.8387433290481567
+[Pedestrian and Cyclist Crashes]: Crash Analysis System --[PROVIDES]-> Traffic Crash Report 0.8712465763092041
+[Pedestrian and Cyclist Crashes]: Crash Analysis System --[ASSOCIATED_WITH]-> Traffic Crash Report 0.8605757355690002
+[Pedestrian and Cyclist Crashes]: Traffic Crash Report --[ASSOCIATED_WITH]-> Crash Analysis System 0.8587717413902283
+[Pedestrian and Cyclist Crashes]: Traffic Crash Report --[PROVIDED_BY]-> NZ Police 0.8176826238632202
+[Pedestrian and Cyclist Crashes]: Traffic Crash Report --[RECEIVED]-> NZ Police 0.8057419061660767
+[Pedestrian and Cyclist Crashes]: Crash Analysis System --[UPDATES]-> Traffic Crash Report 0.8424685001373291
+[Pedestrian and Cyclist Crashes]: CAS --[IS_UPDATING]-> Traffic Crash Report 0.8375226259231567
+[Pedestrian and Cyclist Crashes]: Traffic Crash Report --[PROVIDED_BY]-> New Zealand Police 0.8196401596069336
+[Pedestrian and Cyclist Crashes]: Traffic Crash Report --[RECORDED_IN]-> Crash Analysis System 0.8558712005615234
+[Pedestrian and Cyclist Crashes]: New Zealand Police --[SUBMITS]-> Traffic Crash Report 0.8087957501411438
+[Pedestrian and Cyclist Crashes]: Traffic Crash Report --[RECEIVED_FROM]-> NZ Police 0.8140954971313477
+[Pedestrian and Cyclist Crashes]: Crash Analysis System --[CONTAINS]-> Traffic Crash Report 0.865952730178833
+[Pedestrian and Cyclist Crashes]: Traffic Crash Report --[RECORDS]-> Crash Data 0.8246293663978577
+[Pedestrian and Cyclist Crashes]: NZ Police --[PROVIDES]-> Traffic Crash Report 0.8155419826507568
+[Pedestrian and Cyclist Crashes]: Free Text --[CONTAINS]-> Crash Data 0.7652794122695923
+[Pedestrian and Cyclist Crashes]: Typos --[ASSOCIATED_WITH]-> Free Text 0.6976252794265747
+[Pedestrian and Cyclist Crashes]: New Zealand Transport Agency Waka Kotahi --[PROVIDES]-> Crash Data 0.7983754277229309
+[Pedestrian and Cyclist Crashes]: New Zealand Transport Agency Waka Kotahi --[ENGAGES]-> external consultants 0.7259607315063477
+[Pedestrian and Cyclist Crashes]: long tunnel option --[BY]-> New Zealand Transport Agency Waka Kotahi 0.7274841070175171

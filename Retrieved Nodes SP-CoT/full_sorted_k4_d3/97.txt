@@ -1,0 +1,32 @@
+Which organization has utilized one of the commonly used traffic simulation models in a specific field for visualizing traffic patterns and assessing the impact of new developments to assess the performance of its public transport system in response to the needs of a growing population?
+None
+Seed: Adopting integrated transport planning approaches that consider active transport modes
+Seed: Innovative traffic management strategies
+Seed: Adopting integrated transport planning approaches that consider public transport
+Seed: Impact of technologies on traffic congestion
+[Adopting integrated transport planning approaches that consider active transport modes]: Integrated transport planning --[Aims to]-> Create more efficient transport networks 0.8279178738594055
+[Adopting integrated transport planning approaches that consider active transport modes]: Integrated transport planning --[Aims to]-> Create more sustainable transport networks 0.8273147940635681
+[Adopting integrated transport planning approaches that consider active transport modes]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider public transport 0.8247180581092834
+[Adopting integrated transport planning approaches that consider active transport modes]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches 0.8215631246566772
+[Adopting integrated transport planning approaches that consider active transport modes]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider active transport modes 0.8208843469619751
+[Adopting integrated transport planning approaches that consider active transport modes]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider land use 0.8189874291419983
+[Adopting integrated transport planning approaches that consider active transport modes]: Integrated transport planning --[Is]-> Adopting 0.8049643039703369
+[Innovative traffic management strategies]: Road traffic simulation models --[Play crucial role]-> Infrastructure development 0.8719469308853149
+[Innovative traffic management strategies]: Transport infrastructure --[Ongoing development]-> Enhancing connectivity and supporting growing populations 0.8499355316162109
+[Innovative traffic management strategies]: New zealand --[Has]-> Innovative traffic management strategies 0.8402736186981201
+[Innovative traffic management strategies]: Transport data analytics --[Focus on]-> Optimizing transport modes 0.8393808603286743
+[Innovative traffic management strategies]: Public transport --[Underwent]-> Significant evolution 0.8390026092529297
+[Innovative traffic management strategies]: Transport sector --[Led to]-> Adoption of new practices 0.8386081457138062
+[Innovative traffic management strategies]: Sustainable urban transport --[Characterized by]-> Increased traffic congestion 0.8382257223129272
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Aims to]-> Create more efficient transport networks 0.8279178738594055
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Aims to]-> Create more sustainable transport networks 0.8273147940635681
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider public transport 0.8247180581092834
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches 0.8215631246566772
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider active transport modes 0.8208843469619751
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider land use 0.8189874291419983
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting 0.8049643039703369
+[Impact of technologies on traffic congestion]: Technology and road user behavior --[Focus on]-> Impact of technologies on traffic congestion 0.8137990236282349
+[Impact of technologies on traffic congestion]: Technology and road user behavior --[Focus on]-> Impact of technologies on driving patterns 0.7991766333580017
+[Impact of technologies on traffic congestion]: Technology and road user behavior --[Focus on]-> Impact of ride-sharing services 0.7887192368507385
+[Impact of technologies on traffic congestion]: Technology and road user behavior --[Focus on]-> Impact of technologies on user safety 0.7803975939750671
+[Impact of technologies on traffic congestion]: Technology and road user behavior --[Focus on]-> Impact of mobile applications 0.7786355018615723

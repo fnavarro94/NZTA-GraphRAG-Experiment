@@ -1,0 +1,34 @@
+What has NZTA budgeted for median barriers over the last five years?
+None
+Seed: median barriers
+Seed: Median Barriers
+Seed: manage fare revenue and public transport budgets within current funding allocations
+Seed: public transport budgets
+[median barriers]: New Zealand Transport Agency --[BUDGETS]-> median barriers 0.9256554245948792
+[median barriers]: median barriers --[LOCATED]-> New Zealand 0.8966175317764282
+[median barriers]: New Zealand Transport Agency --[PROVIDES]-> update on budget and costs 0.8679405450820923
+[median barriers]: New Zealand Transport Agency --[PROVIDES]-> funding 0.8578224182128906
+[median barriers]: New Zealand Transport Agency --[SPENT]-> $6,692,081.51 0.8566961884498596
+[median barriers]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.8559150099754333
+[median barriers]: NZTA --[PAID]-> $65 million 0.854421854019165
+[Median Barriers]: New Zealand Transport Agency --[BUDGETS]-> median barriers 0.9256554245948792
+[Median Barriers]: median barriers --[LOCATED]-> New Zealand 0.8966175317764282
+[Median Barriers]: New Zealand Transport Agency --[PROVIDES]-> update on budget and costs 0.8679405450820923
+[Median Barriers]: New Zealand Transport Agency --[PROVIDES]-> funding 0.8578224182128906
+[Median Barriers]: New Zealand Transport Agency --[SPENT]-> $6,692,081.51 0.8566961884498596
+[Median Barriers]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.8559150099754333
+[Median Barriers]: NZTA --[PAID]-> $65 million 0.854421854019165
+[manage fare revenue and public transport budgets within current funding allocations]: funding requests --[NEEDS]-> follow the standard cost scope adjustment process 0.8267289996147156
+[manage fare revenue and public transport budgets within current funding allocations]: manage fare revenue and public transport budgets within current funding allocations --[REQUIRES]-> standard cost scope adjustment process 0.8265233039855957
+[manage fare revenue and public transport budgets within current funding allocations]: follow the standard cost scope adjustment process --[REQUIRES]-> no additional funding for fare reductions before the next NLTP in June 2021 0.8248785138130188
+[manage fare revenue and public transport budgets within current funding allocations]: standard cost scope adjustment process --[APPLIES_TO]-> funding requests 0.8137625455856323
+[manage fare revenue and public transport budgets within current funding allocations]: no additional funding for fare reductions before the next NLTP in June 2021 --[APPLIES_TO]-> funding allocations 0.8083901405334473
+[manage fare revenue and public transport budgets within current funding allocations]: public transport budgets --[MANAGED_BY]-> councils 0.8079116344451904
+[manage fare revenue and public transport budgets within current funding allocations]: councils --[MUST]-> manage fare revenue and public transport budgets within current funding allocations 0.8032642602920532
+[public transport budgets]: funding requests --[NEEDS]-> follow the standard cost scope adjustment process 0.8267289996147156
+[public transport budgets]: manage fare revenue and public transport budgets within current funding allocations --[REQUIRES]-> standard cost scope adjustment process 0.8265233039855957
+[public transport budgets]: follow the standard cost scope adjustment process --[REQUIRES]-> no additional funding for fare reductions before the next NLTP in June 2021 0.8248785138130188
+[public transport budgets]: standard cost scope adjustment process --[APPLIES_TO]-> funding requests 0.8137625455856323
+[public transport budgets]: public transport budgets --[MANAGED_BY]-> councils 0.8079116344451904
+[public transport budgets]: councils --[MUST]-> manage fare revenue and public transport budgets within current funding allocations 0.8032642602920532
+[public transport budgets]: government's transport priorities --[INCLUDES]-> fares play an important role in helping cover the cost of public transport within available budgets 0.7940586805343628

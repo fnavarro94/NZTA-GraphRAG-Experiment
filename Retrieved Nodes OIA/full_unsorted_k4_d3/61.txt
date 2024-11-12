@@ -1,0 +1,36 @@
+How many I endorsement holders with criminal convictions were granted their endorsements between 2017 and 2019?
+None
+Seed: information related to criminal convictions of driving instructor (I) endorsement holders
+Seed: criminal convictions
+Seed: Applicant 1
+Seed: renewals of existing endorsement holders
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Michael Morrah --[REQUESTS]-> information related to criminal convictions of driving instructor (I) endorsement holders 0.8539389967918396
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Michael Morrah --[SUBMITTED]-> request for information 0.7624088525772095
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[RESPONDS]-> request for information 0.7367110252380371
+[criminal convictions]: assault --[EXAMPLE_OF]-> criminal convictions 0.817629873752594
+[criminal convictions]: drink driving --[EXAMPLE_OF]-> criminal convictions 0.8187488317489624
+[criminal convictions]: I endorsements --[HOLD]-> criminal convictions 0.9177486896514893
+[criminal convictions]: Transport Agency --[GRANT]-> I endorsements 0.8346659541130066
+[criminal convictions]: www.ombudsman.parliament.nz --[PROVIDES]-> Transport Agency 0.761335015296936
+[criminal convictions]: Transport Agency --[PROVIDES]-> summary of survey results 0.7453078627586365
+[criminal convictions]: Transport Agency --[PROVIDES]-> summary of exit interview results 0.7407233119010925
+[criminal convictions]: Transport Agency --[PROVIDES]-> summary of engagement survey results 0.7531630992889404
+[criminal convictions]: Transport Agency --[PROVIDES]-> contact details for the Ombudsman 0.7427161335945129
+[criminal convictions]: Transport Agency --[PROVIDES]-> EAP 0.7286683917045593
+[criminal convictions]: Transport Agency --[PROVIDES]-> response to this request on our website 0.7423257827758789
+[criminal convictions]: Transport Agency --[PROVIDES]-> summary of exit interview results since March 2016 0.7545039653778076
+[criminal convictions]: Transport Agency --[PROVIDES]-> Contact Details 0.7273166179656982
+[criminal convictions]: Transport Agency --[PROVIDES]-> address of the Office of the Ombudsmen 0.7392826080322266
+[criminal convictions]: Transport Agency --[PROVIDES]-> Guide for the interpretation of coded crash reports 0.7284285426139832
+[criminal convictions]: Transport Agency --[PROVIDES]-> contact details 0.7273166179656982
+[criminal convictions]: Transport Agency --[PROVIDES]-> reply 0.7354921102523804
+[criminal convictions]: Transport Agency --[WITHHOLDS]-> exact copies of staff exit interview notes 0.7307146191596985
+[criminal convictions]: Transport Agency --[WITHHOLDS]-> information 0.7451968193054199
+[criminal convictions]: Kevin Reid --[DISCUSS]-> Transport Agency 0.7487398386001587
+[criminal convictions]: Transport Agency --[DISCUSS]-> HVSCs 0.7231076955795288
+[criminal convictions]: Andrew Knackstedt --[CONTACT]-> Transport Agency 0.7466485500335693
+[criminal convictions]: Transport Agency --[CONTACT]-> Andrew Knackstedt 0.7468134164810181
+[criminal convictions]: Transport Agency --[PUBLISHES]-> response to this request on our website 0.7517456412315369
+[criminal convictions]: Transport Agency --[MAINTAINS]-> database 0.7528526782989502
+[criminal convictions]: Transport Agency --[COLLABORATES_WITH]-> Wellington City Council 0.7167236804962158
+[criminal convictions]: Andrew Knackstedt --[EMPLOYER]-> Transport Agency 0.7567313313484192

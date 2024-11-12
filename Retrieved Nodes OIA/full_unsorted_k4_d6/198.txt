@@ -1,0 +1,36 @@
+What were the primary categories of complaints received about Zoomy and Uber drivers?
+None
+Seed: 196 complaints about Uber drivers
+Seed: 8 complaints about Zoomy drivers
+Seed: Uber drivers
+Seed: why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’
+[196 complaints about Uber drivers]: Waka Kotahi --[RECEIVES]-> 196 complaints about Uber drivers 0.8668917417526245
+[196 complaints about Uber drivers]: Response --[CONTAINS]-> Waka Kotahi 0.7490752935409546
+[196 complaints about Uber drivers]: Waka Kotahi --[PUBLISHES]-> Response 0.7659152746200562
+[196 complaints about Uber drivers]: response --[CONTAINS]-> Waka Kotahi 0.7614021301269531
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.7892324924468994
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7395093441009521
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.7621626853942871
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.7331859469413757
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> list of LGWM construction contracts 0.7181681394577026
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> public transport fare policy review 0.764133632183075
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.7592780590057373
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.73990797996521
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.7355222702026367
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.754284143447876
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[FAX]-> F 64 4 894 6100 0.7596958875656128
+[196 complaints about Uber drivers]: Andrew Knackstedt --[CONTACT]-> Waka Kotahi NZ Transport Agency 0.7687488794326782
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[CONTACT]-> T 64 4 894 5400 0.7487953901290894
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7309755682945251
+[196 complaints about Uber drivers]: Chris Marshall --[REQUESTS]-> Waka Kotahi NZ Transport Agency 0.7764297723770142
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.7858380079269409
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.7476851940155029
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[ANNOUNCED]-> Road to Zero 0.7424449920654297
+[196 complaints about Uber drivers]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.7637628316879272
+[196 complaints about Uber drivers]: Road to Zero --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.7749831080436707
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.7269806265830994
+[196 complaints about Uber drivers]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7430026531219482
+[196 complaints about Uber drivers]: New Zealand --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7539256811141968
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.7493825554847717
+[196 complaints about Uber drivers]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7443177700042725
+[196 complaints about Uber drivers]: www.nzta.govt.nz --[OF]-> Waka Kotahi NZ Transport Agency 0.7659496068954468

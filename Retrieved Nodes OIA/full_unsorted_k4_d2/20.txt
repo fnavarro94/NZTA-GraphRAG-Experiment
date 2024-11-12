@@ -1,0 +1,36 @@
+Were there any personal grievances or employment law processes underway with Charles Ronaldson, Giles Southwell, or Leigh Mitchell?
+None
+Seed: Giles Southwell
+Seed: Leigh Mitchell
+Seed: Charles Ronaldson
+Seed: public interest in legal professional privilege
+[Giles Southwell]: Giles Southwell --[EMPLOYED_BY]-> New Zealand Transport Agency 0.8193958401679993
+[Giles Southwell]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.6982417106628418
+[Giles Southwell]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7220844030380249
+[Giles Southwell]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7250497341156006
+[Giles Southwell]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.6970174312591553
+[Giles Southwell]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.702594518661499
+[Giles Southwell]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.6976307034492493
+[Giles Southwell]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7023867964744568
+[Giles Southwell]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.6969829201698303
+[Giles Southwell]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7299909591674805
+[Giles Southwell]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7136860489845276
+[Giles Southwell]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7134740352630615
+[Giles Southwell]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7093831300735474
+[Giles Southwell]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7156156897544861
+[Giles Southwell]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.710342288017273
+[Giles Southwell]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7434606552124023
+[Giles Southwell]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7218177318572998
+[Giles Southwell]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7097342014312744
+[Giles Southwell]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7199674844741821
+[Giles Southwell]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7277652621269226
+[Giles Southwell]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7503291368484497
+[Giles Southwell]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7270322442054749
+[Giles Southwell]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7187404632568359
+[Giles Southwell]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7264704704284668
+[Giles Southwell]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7449374198913574
+[Giles Southwell]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7530524730682373
+[Giles Southwell]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7292753458023071
+[Giles Southwell]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7481824159622192
+[Giles Southwell]: Senior Engineer Vehicle Standard --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.699548065662384
+[Giles Southwell]: oia-15834-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7226312160491943

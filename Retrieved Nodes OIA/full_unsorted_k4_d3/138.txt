@@ -1,0 +1,36 @@
+Why were the amounts of the payments made to WGP withheld?
+None
+Seed: reason for withholding
+Seed: amounts of payments
+Seed: Some information has been withheld under section 9(2)(f)(iv)
+Seed: Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)
+[reason for withholding]: New Zealand Transport Agency --[PROVIDES]-> reason for withholding 0.8481088876724243
+[reason for withholding]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7539439797401428
+[reason for withholding]: New Zealand Transport Agency --[BASED]-> Wellington 0.7615920305252075
+[reason for withholding]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7430774569511414
+[reason for withholding]: Golden Mile --[LOCATED]-> Wellington 0.7236498594284058
+[reason for withholding]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7338593602180481
+[reason for withholding]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7443024516105652
+[reason for withholding]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.753756582736969
+[reason for withholding]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7458394765853882
+[reason for withholding]: Wellington --[PART_OF]-> Wellington Region 0.7529428005218506
+[reason for withholding]: New Zealand --[HAS_CAPITAL]-> Wellington 0.756750762462616
+[reason for withholding]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7408924698829651
+[reason for withholding]: Wellington --[HAS]-> tunnel 0.7425298094749451
+[reason for withholding]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.738651692867279
+[reason for withholding]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7544094324111938
+[reason for withholding]: Wellington --[POSTCODE]-> 6141 0.708060622215271
+[reason for withholding]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7525013089179993
+[reason for withholding]: Wellington --[IS_PART_OF]-> New Zealand 0.7461303472518921
+[reason for withholding]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7409172058105469
+[reason for withholding]: 50 Victoria Street --[IN]-> Wellington 0.731224775314331
+[reason for withholding]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7454468011856079
+[reason for withholding]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7256388664245605
+[reason for withholding]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7521421313285828
+[reason for withholding]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7380610704421997
+[reason for withholding]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7441757917404175
+[reason for withholding]: NZ Transport Agency --[LOCATED]-> Wellington 0.7534435391426086
+[reason for withholding]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7442734241485596
+[reason for withholding]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7256549596786499
+[reason for withholding]: New Zealand --[CONTAINS]-> Wellington 0.745682954788208
+[reason for withholding]: Wellington --[PART_OF]-> New Zealand 0.7432307004928589

@@ -1,0 +1,12 @@
+What is the abbreviation for the project in Auckland that uses real-time data to manage traffic and provide timely information to commuters?
+None
+Seed: Addressing transport challenges in auckland
+Seed: Real-time traffic data collection
+Seed: Real-time traffic management systems
+Seed: Advanced technology and real-time data analytics
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Addressing transport challenges in auckland 0.8703999519348145
+[Real-time traffic data collection]: Traffic management systems --[Include]-> Real-time traffic data collection 0.8615542054176331
+[Real-time traffic management systems]: Real-time traffic management systems --[Provide]-> Timely information to road users 0.8547490835189819
+[Real-time traffic management systems]: Real-time traffic management systems --[Facilitate]-> Efficient emergency responses 0.8195484280586243
+[Real-time traffic management systems]: New zealand government --[Has invested in]-> Real-time traffic management systems 0.8760640621185303
+[Advanced technology and real-time data analytics]: Auckland transport operations centre --[Utilizes]-> Advanced technology and real-time data analytics 0.9095391035079956

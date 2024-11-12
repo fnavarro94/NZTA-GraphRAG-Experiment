@@ -1,0 +1,36 @@
+How many times have the safety cameras in the Waterview Tunnel been found faulty in the past 36 months?
+None
+Seed: MINO -1042 Waterview Tunnel
+Seed: information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021
+Seed: information on traffic light cameras and speed cameras
+Seed: information on traffic light cameras
+[MINO -1042 Waterview Tunnel]: MINO -1042 Waterview Tunnel --[WARNING]-> 19 April 2024 0.8588340282440186
+[MINO -1042 Waterview Tunnel]: 19 April 2024 --[RELEASED]-> Released in full 0.7089424729347229
+[MINO -1042 Waterview Tunnel]: 29 April 2024 --[RELEASED]-> Released in full 0.7095824480056763
+[MINO -1042 Waterview Tunnel]: MINO -1047 Driver instructors --[TESTING]-> 29 April 2024 0.7552363872528076
+[MINO -1042 Waterview Tunnel]: 30 April 2024 --[RELEASED]-> Released in full 0.7072252035140991
+[MINO -1042 Waterview Tunnel]: MINO -1051 Supporting information --[DEBATE]-> 30 April 2024 0.7542285919189453
+[MINO -1042 Waterview Tunnel]: Ministers Report --[IS]-> Released in full 0.7212904691696167
+[MINO -1042 Waterview Tunnel]: Ministers Report --[DATE]-> 8 April 2024 0.7253870964050293
+[MINO -1042 Waterview Tunnel]: MINO -1029 Minister Office's --[QUERY]-> 8 April 2024 0.734221875667572
+[MINO -1042 Waterview Tunnel]: 8 April 2024 --[RELEASED]-> Released in full 0.7087411880493164
+[MINO -1042 Waterview Tunnel]: Ministers Report --[IS]-> Ministers Report 0.7144211530685425
+[MINO -1042 Waterview Tunnel]: MIN-4449 --[IS]-> Released in full 0.7488583326339722
+[MINO -1042 Waterview Tunnel]: MIN-4449 --[DATE]-> 17 April 2024 0.7474843859672546
+[MINO -1042 Waterview Tunnel]: MIN-4452 --[DATE]-> 17 April 2024 0.7368046045303345
+[MINO -1042 Waterview Tunnel]: MIN-4449 --[IS]-> Average cost of resurfacing and rehabilitation 0.7456722259521484
+[MINO -1042 Waterview Tunnel]: 22 April 2024 --[RELEASED]-> Released in full 0.7094378471374512
+[MINO -1042 Waterview Tunnel]: MINO -1039 Road User Charges --[REVENUE]-> 22 April 2024 0.7257242798805237
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.7959229350090027
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Response --[CONTAINS]-> Waka Kotahi 0.7433499097824097
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[PUBLISHES]-> Response 0.7258889675140381
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: response --[CONTAINS]-> Waka Kotahi 0.72829270362854
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.7510336637496948
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Charles Ronaldson --[SIGNED]-> response 0.71946781873703
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Lauren Cooke --[SIGNED]-> response 0.7262780666351318
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[PUBLISHED_BY]-> response 0.7225109934806824
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Ministry --[PROVIDE]-> response 0.7178685069084167
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: response --[REMOVED]-> personal information 0.7137264013290405
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi website --[CONTAINS]-> response 0.7244113683700562
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: New Zealand Transport Agency --[DISCUSSES]-> response 0.7346193790435791
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: response --[IS_A]-> letter 0.7101913690567017

@@ -1,0 +1,36 @@
+What were the safety failures identified in Go Wellington buses during the inspections in April and May 2013?
+None
+Seed: Safety Incidents
+Seed: rail operational safety
+Seed: Senior Manager Road Safety
+Seed: Vehicle Safety
+[Safety Incidents]: Health, Safety & Quality Report --[CONTAINS]-> Safety Incidents 0.8126248717308044
+[Safety Incidents]: Stephen Bell --[SUBMITS_REPORT]-> Health, Safety & Quality Report 0.7792056202888489
+[Safety Incidents]: Board --[RECEIVES_REPORT]-> Health, Safety & Quality Report 0.7784532904624939
+[Safety Incidents]: Safety Incidents --[INVESTIGATED]-> Board 0.829444169998169
+[rail operational safety]: awareness --[increased]-> rail operational safety 0.7968844175338745
+[rail operational safety]: tool box talks --[given]-> awareness 0.7300440073013306
+[rail operational safety]: State Highway 1 --[identified]-> tool box talks 0.770982027053833
+[rail operational safety]: road safety --[ENHANCED_BY]-> State Highway 1 0.7812713980674744
+[rail operational safety]: transportation infrastructure --[IMPROVES]-> road safety 0.7906287312507629
+[rail operational safety]: New Zealand Transport Agency --[RESPONSIBLE_FOR]-> transportation infrastructure 0.8222061991691589
+[rail operational safety]: road maintenance --[IMPROVES]-> road safety 0.7986332178115845
+[rail operational safety]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> road maintenance 0.8404542207717896
+[rail operational safety]: transport --[ASSOCIATED_WITH]-> road maintenance 0.7906329035758972
+[rail operational safety]: road maintenance --[OVERDUE]-> State Highway 1 0.7875800132751465
+[rail operational safety]: State Highway 1 --[OVERDUE]-> road maintenance 0.7975953221321106
+[rail operational safety]: road maintenance --[OVERDUE]-> Wellington City Council 0.8457249402999878
+[rail operational safety]: road renewal --[OVERDUE]-> road maintenance 0.8009428381919861
+[rail operational safety]: toll tariffs --[USED_FOR]-> road maintenance 0.7821164131164551
+[rail operational safety]: toll tariffs --[SPENT_ON]-> road maintenance 0.7764146327972412
+[rail operational safety]: road maintenance --[PERFORMED_BY]-> New Zealand Transport Agency 0.846706211566925
+[rail operational safety]: road maintenance --[FUNDED_BY]-> toll tariffs 0.7892495393753052
+[rail operational safety]: road maintenance --[NECESSARY_FOR]-> safe driving conditions 0.8027399182319641
+[rail operational safety]: road maintenance --[SUPPORTED_BY]-> tolls 0.7930953502655029
+[rail operational safety]: tolls --[USED_FOR]-> road maintenance 0.7945078015327454
+[rail operational safety]: driver safety --[IMPROVED_BY]-> road maintenance 0.7995865345001221
+[rail operational safety]: transport --[FOCUSES_ON]-> road maintenance 0.8058396577835083
+[rail operational safety]: road maintenance --[ASSOCIATED_WITH]-> State Highway 1 0.7814594507217407
+[rail operational safety]: road maintenance --[AFFECTED_BY]-> flooding 0.7945733070373535
+[rail operational safety]: road maintenance --[FUNDING]-> approved 0.774940550327301
+[rail operational safety]: flooding --[CAN_AFFECT]-> road maintenance 0.7870171070098877

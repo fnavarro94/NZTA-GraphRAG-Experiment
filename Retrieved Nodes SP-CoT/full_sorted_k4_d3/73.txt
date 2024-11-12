@@ -1,0 +1,34 @@
+In what year did The agency that provides policy advice and oversees the transport sector in addition to Waka Kotahi in the country known for its public transport system design influenced by factors such as population density, geographic features, and environmental considerations get established?
+None
+Seed: Vital role in shaping future of transport in new zealand
+Seed: Waka kotahi nz transport agency
+Seed: Sustainable transport system
+Seed: Developing innovative transport solutions
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Plays crucial role in]-> Public transport systems 0.8949278593063354
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Operates under]-> Transport agency act 2008 0.8866399526596069
+[Vital role in shaping future of transport in new zealand]: Waka kotahi nz transport agency --[Responsible for]-> Planning 0.8860616683959961
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Develops]-> Transport strategies 0.8851718902587891
+[Vital role in shaping future of transport in new zealand]: Waka kotahi nz transport agency --[Established under]-> Land transport management act 2003 0.8845716714859009
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Oversees]-> National transport system 0.8840410709381104
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Plays]-> Vital role in shaping future of transport in new zealand 0.8839608430862427
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Develops]-> Transport policies 0.8998398184776306
+[Waka kotahi nz transport agency]: Waka kotahi --[Plays crucial role in]-> Public transport systems 0.8949278593063354
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Is]-> Primary government agency 0.8920730352401733
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Focused on]-> Population growth 0.8910338878631592
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Plays]-> Crucial role 0.8894516825675964
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Develops]-> National strategies 0.8887158036231995
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Focused on]-> Urbanization 0.8877659440040588
+[Sustainable transport system]: Waka kotahi nz transport agency --[Develops]-> Transport policies 0.8998398184776306
+[Sustainable transport system]: Waka kotahi nz transport agency --[Is]-> Primary government agency 0.8920730352401733
+[Sustainable transport system]: Waka kotahi nz transport agency --[Focused on]-> Population growth 0.8910338878631592
+[Sustainable transport system]: Waka kotahi nz transport agency --[Plays]-> Crucial role 0.8894516825675964
+[Sustainable transport system]: Waka kotahi nz transport agency --[Develops]-> National strategies 0.8887158036231995
+[Sustainable transport system]: Waka kotahi nz transport agency --[Focused on]-> Urbanization 0.8877659440040588
+[Sustainable transport system]: Waka kotahi nz transport agency --[Responsible for]-> Planning 0.8860616683959961
+[Developing innovative transport solutions]: Waka kotahi nz transport agency --[Develops]-> Transport policies 0.8998398184776306
+[Developing innovative transport solutions]: Waka kotahi nz transport agency --[Is]-> Primary government agency 0.8920730352401733
+[Developing innovative transport solutions]: Waka kotahi nz transport agency --[Focused on]-> Population growth 0.8910338878631592
+[Developing innovative transport solutions]: Waka kotahi nz transport agency --[Plays]-> Crucial role 0.8894516825675964
+[Developing innovative transport solutions]: Waka kotahi nz transport agency --[Develops]-> National strategies 0.8887158036231995
+[Developing innovative transport solutions]: Waka kotahi nz transport agency --[Focused on]-> Urbanization 0.8877659440040588
+[Developing innovative transport solutions]: Waka kotahi nz transport agency --[Responsible for]-> Planning 0.8860616683959961

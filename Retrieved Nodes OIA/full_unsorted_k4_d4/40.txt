@@ -1,0 +1,36 @@
+What is the current status of the construction drawings for the SH1 Brynderwyn closure, and why are they subject to change?
+None
+Seed: information on LGWM construction contracts
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: investigations, construction findings, on-site progress, design updates, design assumptions
+Seed: Waito hi Picton Ferry Precinct Redevelopment
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.7884243726730347
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7475433349609375
+[information on LGWM construction contracts]: New Zealand Transport Agency --[BASED]-> Wellington 0.7856194972991943
+[information on LGWM construction contracts]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7757053971290588
+[information on LGWM construction contracts]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7762501239776611
+[information on LGWM construction contracts]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7724668979644775
+[information on LGWM construction contracts]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7511709928512573
+[information on LGWM construction contracts]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7679205536842346
+[information on LGWM construction contracts]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7783248424530029
+[information on LGWM construction contracts]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7834898233413696
+[information on LGWM construction contracts]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7906063795089722
+[information on LGWM construction contracts]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7779280543327332
+[information on LGWM construction contracts]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7801124453544617
+[information on LGWM construction contracts]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7766618728637695
+[information on LGWM construction contracts]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7827227115631104
+[information on LGWM construction contracts]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7865481376647949
+[information on LGWM construction contracts]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7618693113327026
+[information on LGWM construction contracts]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7802170515060425
+[information on LGWM construction contracts]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.780444324016571
+[information on LGWM construction contracts]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7644829750061035
+[information on LGWM construction contracts]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7846924662590027
+[information on LGWM construction contracts]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7971656918525696
+[information on LGWM construction contracts]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7542940378189087
+[information on LGWM construction contracts]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7757611870765686
+[information on LGWM construction contracts]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7837458848953247
+[information on LGWM construction contracts]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7806921601295471
+[information on LGWM construction contracts]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7792900800704956
+[information on LGWM construction contracts]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.754865288734436
+[information on LGWM construction contracts]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7880290746688843
+[information on LGWM construction contracts]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7603060603141785

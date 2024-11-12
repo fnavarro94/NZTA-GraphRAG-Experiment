@@ -1,0 +1,36 @@
+What percentage of MR1 and MR1B transactions were completed through an agent between 1 October 2022 and 30 September 2023?
+None
+Seed: statistics for MR1/B transactions
+Seed: MR1/B transactions data
+Seed: 1 October 2022 to 30 September 2023
+Seed: MR1/B transactions
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[PROVIDES]-> statistics for MR1/B transactions 0.8429489135742188
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7315853238105774
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[BASED]-> Wellington 0.7338250875473022
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7527128458023071
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.7552995681762695
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7567153573036194
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7444893717765808
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.734143853187561
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7420992851257324
+[statistics for MR1/B transactions]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.753579318523407
+[statistics for MR1/B transactions]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7486544847488403
+[statistics for MR1/B transactions]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7708567380905151
+[statistics for MR1/B transactions]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7450813055038452
+[statistics for MR1/B transactions]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7572513818740845
+[statistics for MR1/B transactions]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7706311345100403
+[statistics for MR1/B transactions]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7679342031478882
+[statistics for MR1/B transactions]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7683430910110474
+[statistics for MR1/B transactions]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7623213529586792
+[statistics for MR1/B transactions]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7635598182678223
+[statistics for MR1/B transactions]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7681931257247925
+[statistics for MR1/B transactions]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7244409322738647
+[statistics for MR1/B transactions]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7816787362098694
+[statistics for MR1/B transactions]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7426696419715881
+[statistics for MR1/B transactions]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7677969932556152
+[statistics for MR1/B transactions]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7530560493469238
+[statistics for MR1/B transactions]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.765825629234314
+[statistics for MR1/B transactions]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7638780474662781
+[statistics for MR1/B transactions]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7530616521835327
+[statistics for MR1/B transactions]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.759364664554596
+[statistics for MR1/B transactions]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7605781555175781

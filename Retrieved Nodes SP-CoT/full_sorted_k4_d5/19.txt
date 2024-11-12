@@ -1,0 +1,34 @@
+When were the stages of the major project in Auckland designed to provide alternative routes and reduce bottlenecks in the transport network officially opened?
+None
+Seed: Addressing transport challenges in auckland
+Seed: Development of comprehensive transport network
+Seed: New zealand's broader transport goals
+Seed: New zealand's national transport objectives
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Encompasses]-> Range of projects 0.8963513374328613
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Development of comprehensive transport network 0.8963353633880615
+[Addressing transport challenges in auckland]: Auckland transport plan --[Developed by]-> Auckland transport 0.8953303098678589
+[Addressing transport challenges in auckland]: Auckland city rail link --[Is]-> Significant infrastructure project 0.8918309211730957
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Create unified transport network 0.8911705017089844
+[Addressing transport challenges in auckland]: Auckland cycling network plan --[Developed by]-> Auckland transport 0.8902717232704163
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Is]-> Strategic initiative 0.8887056112289429
+[Development of comprehensive transport network]: Auckland transport alignment project --[Encompasses]-> Range of projects 0.8963513374328613
+[Development of comprehensive transport network]: Auckland transport alignment project --[Focuses on]-> Development of comprehensive transport network 0.8963353633880615
+[Development of comprehensive transport network]: Auckland transport plan --[Developed by]-> Auckland transport 0.8953303098678589
+[Development of comprehensive transport network]: Auckland city rail link --[Is]-> Significant infrastructure project 0.8918309211730957
+[Development of comprehensive transport network]: Auckland transport alignment project --[Aims to]-> Create unified transport network 0.8911705017089844
+[Development of comprehensive transport network]: Auckland cycling network plan --[Developed by]-> Auckland transport 0.8902717232704163
+[Development of comprehensive transport network]: Auckland transport alignment project --[Is]-> Strategic initiative 0.8887056112289429
+[New zealand's broader transport goals]: Auckland --[Has]-> Transport projects 0.9003497362136841
+[New zealand's broader transport goals]: Auckland transport plan --[Developed by]-> Auckland transport 0.8953303098678589
+[New zealand's broader transport goals]: Auckland cycling network plan --[Developed by]-> Auckland transport 0.8902717232704163
+[New zealand's broader transport goals]: Auckland transport plan --[Is]-> Strategic framework 0.8866303563117981
+[New zealand's broader transport goals]: Auckland transport --[Implemented]-> Cycling infrastructure projects 0.8862005472183228
+[New zealand's broader transport goals]: Auckland --[Has]-> Transport infrastructure 0.885955274105072
+[New zealand's broader transport goals]: Auckland --[Has]-> City rail link project 0.8854620456695557
+[New zealand's national transport objectives]: Auckland --[Has]-> Transport projects 0.9003497362136841
+[New zealand's national transport objectives]: Auckland transport alignment project --[Encompasses]-> Range of projects 0.8963513374328613
+[New zealand's national transport objectives]: Auckland transport alignment project --[Focuses on]-> Development of comprehensive transport network 0.8963353633880615
+[New zealand's national transport objectives]: Auckland transport plan --[Developed by]-> Auckland transport 0.8953303098678589
+[New zealand's national transport objectives]: Auckland transport alignment project --[Aims to]-> Create unified transport network 0.8911705017089844
+[New zealand's national transport objectives]: Auckland cycling network plan --[Developed by]-> Auckland transport 0.8902717232704163
+[New zealand's national transport objectives]: Auckland transport alignment project --[Is]-> Strategic initiative 0.8887056112289429

@@ -1,0 +1,36 @@
+I'm sorry, but the raw question you provided is incomplete. Could you please provide the missing information so I can form a complete and accurate natural question for you?
+None
+Seed: Paramount importance
+Seed: Cultural factors
+Seed: Ecological factors
+Seed: Environmental concerns
+[Paramount importance]: Road infrastructure resilience --[Is]-> Paramount importance 0.7861039042472839
+[Paramount importance]: Road infrastructure resilience --[Encompasses]-> Technological innovation 0.7580190300941467
+[Paramount importance]: Road infrastructure resilience --[Refers to]-> Capacity of road networks 0.7579627633094788
+[Paramount importance]: Road infrastructure resilience --[Emphasizes]-> Community engagement 0.7673280239105225
+[Paramount importance]: Auckland cycling network plan --[Primary objectives]-> Community engagement 0.7594065070152283
+[Paramount importance]: Road safety authority --[Encourages]-> Community engagement 0.7250441908836365
+[Paramount importance]: Wellington public transport plan --[Objectives include]-> Community engagement 0.7348177433013916
+[Paramount importance]: Wellington regional rail plan --[Involved]-> Community engagement 0.7641606330871582
+[Paramount importance]: Auckland transport --[Actively involved in]-> Community engagement 0.7458460927009583
+[Paramount importance]: Walking school bus --[Fosters]-> Community engagement 0.7273998260498047
+[Paramount importance]: Wellington regional public transport plan --[Key components]-> Community engagement 0.7711533904075623
+[Paramount importance]: Wellington public transport spine study --[Involves]-> Community engagement 0.75669264793396
+[Paramount importance]: Road infrastructure resilience --[Encompasses]-> Community engagement 0.7709701061248779
+[Paramount importance]: Road safety education --[Includes]-> Community engagement 0.7472606897354126
+[Paramount importance]: Community engagement --[Is]-> Critical aspect of transport planning 0.7670307159423828
+[Paramount importance]: Community engagement --[Employs]-> Various methods 0.7877681851387024
+[Paramount importance]: Local government --[Manages]-> Community engagement 0.7638466954231262
+[Paramount importance]: Community engagement --[Enhances]-> Overall effectiveness of resilience initiatives 0.7747524976730347
+[Paramount importance]: Community engagement --[Plays a vital role in]-> Building road network resilience 0.781006932258606
+[Paramount importance]: Community engagement --[Fosters]-> Sense of ownership and preparedness among residents 0.7798383235931396
+[Paramount importance]: Road infrastructure resilience --[Is]-> New zealand 0.768220067024231
+[Paramount importance]: New zealand --[Has]-> Transport projects 0.757810115814209
+[Paramount importance]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.7421836853027344
+[Paramount importance]: New zealand --[Has]-> Diverse transport network 0.763102650642395
+[Paramount importance]: New zealand --[Has]-> Post-incident review 0.7528620362281799
+[Paramount importance]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.7498916387557983
+[Paramount importance]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.717357337474823
+[Paramount importance]: New zealand --[Has]-> Broader environmental policies 0.7656841278076172
+[Paramount importance]: New zealand --[Has]-> Traffic congestion 0.769295334815979
+[Paramount importance]: New zealand --[Has]-> Increasing urbanization 0.7591662406921387

@@ -1,0 +1,36 @@
+How much did NZTA spend on traditional media for road safety campaigns in 2017-2018?
+None
+Seed: cost of the current Road to Zero advertising campaign
+Seed: national, regional and local road safety promotion and education campaigns
+Seed: Advertising Media Spend 2017-2018
+Seed: Road Safety Campaigns
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[COST]-> cost of the current Road to Zero advertising campaign 0.8434410095214844
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[LAUNCHED_BY]-> New Zealand Transport Agency 0.8492192029953003
+[cost of the current Road to Zero advertising campaign]: Request made under the Official Information Act 1982 --[CHALLENGES]-> Road To Zero campaign 0.7885655164718628
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[TARGET]-> zero accidents 0.8174716234207153
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[LOGIC]-> logic in making this critical decision 0.7614383697509766
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[EVALUATED_BY]-> post campaign polling or research 0.7969616651535034
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.8563483357429504
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7879377603530884
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.8152183294296265
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.8006494641304016
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> list of LGWM construction contracts 0.7842061519622803
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> public transport fare policy review 0.7991311550140381
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.8213172554969788
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8199488520622253
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.7931312322616577
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.8157342672348022
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[FAX]-> F 64 4 894 6100 0.7817168235778809
+[national, regional and local road safety promotion and education campaigns]: Andrew Knackstedt --[CONTACT]-> Waka Kotahi NZ Transport Agency 0.7883767485618591
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[CONTACT]-> T 64 4 894 5400 0.7744014263153076
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7905167937278748
+[national, regional and local road safety promotion and education campaigns]: Chris Marshall --[REQUESTS]-> Waka Kotahi NZ Transport Agency 0.776100218296051
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.8105074763298035
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.8113430738449097
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.7871819734573364
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[ANNOUNCED]-> Road to Zero 0.8096662163734436
+[national, regional and local road safety promotion and education campaigns]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8674007058143616
+[national, regional and local road safety promotion and education campaigns]: Road to Zero --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8270654678344727
+[national, regional and local road safety promotion and education campaigns]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7809678316116333
+[national, regional and local road safety promotion and education campaigns]: New Zealand --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7909802794456482
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.8021295070648193

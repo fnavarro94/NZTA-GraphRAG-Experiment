@@ -1,0 +1,29 @@
+What is the abbreviation commonly used for the initiative that the New Zealand government has launched to develop dedicated cycling infrastructure in New Zealand?
+None
+Seed: Cycling infrastructure and public transport initiatives
+Seed: A crucial role in funding and promoting cycling infrastructure projects
+Seed: Development of cycling infrastructure
+Seed: Government initiative
+[Cycling infrastructure and public transport initiatives]: North island --[Features]-> Cycling infrastructure and public transport initiatives 0.8427839279174805
+[Cycling infrastructure and public transport initiatives]: North island --[Has]-> Growing emphasis on sustainable transport options 0.7718919515609741
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Invested in cycling infrastructure 0.8836433291435242
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Government initiatives 0.8774043917655945
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Infrastructure development 0.8766574859619141
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Faces]-> Challenges in expanding its cycling infrastructure 0.8755258321762085
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Plays]-> A crucial role in funding and promoting cycling infrastructure projects 0.8729434609413147
+[A crucial role in funding and promoting cycling infrastructure projects]: Auckland transport --[Implemented]-> Cycling infrastructure projects 0.8680109977722168
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Transport infrastructure development 0.8679700493812561
+[Development of cycling infrastructure]: Projects --[Include]-> Development of cycling infrastructure 0.8605217337608337
+[Development of cycling infrastructure]: State highway network --[Managed by]-> Waka kotahi nz transport agency 0.8284339904785156
+[Development of cycling infrastructure]: Road construction standards --[Governed by]-> Waka kotahi nz transport agency 0.8276388645172119
+[Development of cycling infrastructure]: National land transport programme --[Developed by]-> Waka kotahi nz transport agency 0.8236346244812012
+[Development of cycling infrastructure]: Waka kotahi nz transport agency --[Advocates for]-> Active transport modes 0.8230215311050415
+[Development of cycling infrastructure]: Waka kotahi nz transport agency --[Involved in]-> Enhancing resilience of infrastructure 0.8224135637283325
+[Development of cycling infrastructure]: Waka kotahi nz transport agency --[Develops]-> Projects 0.8177381157875061
+[Government initiative]: New zealand electric vehicle programme --[Is]-> Government initiative 0.8730065226554871
+[Government initiative]: National cycling policy --[Part of]-> New zealand's commitment 0.862525224685669
+[Government initiative]: New zealand electric vehicle programme --[Part of]-> New zealand's commitment 0.8326377868652344
+[Government initiative]: New zealand electric vehicle programme --[Objective]-> Enhancing the availability of charging infrastructure 0.8325090408325195
+[Government initiative]: New zealand electric vehicle programme --[Objective]-> Increasing the number of electric vehicles on new zealand roads 0.8263366222381592
+[Government initiative]: New zealand electric vehicle programme --[Goal]-> Transitioning to a more sustainable transport system 0.8161503076553345
+[Government initiative]: Auckland western ring route --[Reflects]-> New zealand's commitment 0.8140708208084106

@@ -1,0 +1,36 @@
+Which notable transport project in New Zealand, alongside the Auckland rail project, has undergone TEIA?
+None
+Seed: Addressing transport challenges in auckland
+Seed: New zealand's transport network
+Seed: Rail networks
+Seed: New zealand's transport system
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Addressing transport challenges in auckland 0.8500837087631226
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On enhancing road infrastructure 0.8384517431259155
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Outlines]-> Strategic approach to address challenges 0.8375911712646484
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On improving public transport 0.8398727178573608
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On promoting sustainable transport solutions 0.8479703068733215
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Promote sustainable transport options 0.8431922197341919
+[Addressing transport challenges in auckland]: Walking school bus --[Aligns with]-> Promote sustainable transport options 0.749904453754425
+[Addressing transport challenges in auckland]: Walking school bus --[Originated in]-> New zealand 0.8062906861305237
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Transport projects 0.8840452432632446
+[Addressing transport challenges in auckland]: New zealand transport agency --[Oversees]-> Transport projects 0.8358814120292664
+[Addressing transport challenges in auckland]: Auckland --[Has]-> Transport projects 0.8867664337158203
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.833206295967102
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Diverse transport network 0.8426229953765869
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Post-incident review 0.7834587097167969
+[Addressing transport challenges in auckland]: Post-incident review --[Crucial for]-> Improving operational efficiency 0.7221661806106567
+[Addressing transport challenges in auckland]: Post-incident review --[Crucial for]-> Fostering culture of continuous improvement 0.7260606288909912
+[Addressing transport challenges in auckland]: Post-incident review --[Aimed at]-> Recommending measures 0.7125718593597412
+[Addressing transport challenges in auckland]: Post-incident review --[Crucial for]-> Enhancing safety 0.710766077041626
+[Addressing transport challenges in auckland]: Post-incident review --[Is]-> Systematic process 0.7234327793121338
+[Addressing transport challenges in auckland]: Post-incident review --[Conducted]-> Following an incident 0.7127071022987366
+[Addressing transport challenges in auckland]: Post-incident review --[Aimed at]-> Analyzing circumstances 0.7210692763328552
+[Addressing transport challenges in auckland]: Post-incident review --[Aimed at]-> Identifying contributing factors 0.7185713052749634
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.8066114187240601
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.8050873279571533
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Broader environmental policies 0.7897960543632507
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Traffic congestion 0.7989588379859924
+[Addressing transport challenges in auckland]: Auckland --[Faces challenges]-> Traffic congestion 0.8037257194519043
+[Addressing transport challenges in auckland]: Wellington public transport plan --[Initiated in response to]-> Traffic congestion 0.7910820245742798
+[Addressing transport challenges in auckland]: Auckland --[Has]-> Traffic congestion 0.8075183033943176
+[Addressing transport challenges in auckland]: Wellington --[Has]-> Traffic congestion 0.7768594622612

@@ -1,0 +1,36 @@
+When will the full report from the hidden texting camera trial be made publicly available?
+None
+Seed: WK Exec summary of the TG claim for review
+Seed: public awareness campaign
+Seed: public interest in seeking and receiving confidential legal advice
+Seed: trial
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[FALLS_IN_SCOPE]-> WK Exec summary of the TG claim for review 0.7586785554885864
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7255793809890747
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[BASED]-> Wellington 0.7268843650817871
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7473157048225403
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.753099262714386
+[WK Exec summary of the TG claim for review]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7449353337287903
+[WK Exec summary of the TG claim for review]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.7432577610015869
+[WK Exec summary of the TG claim for review]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7443088889122009
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7409795522689819
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.7474894523620605
+[WK Exec summary of the TG claim for review]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7426207661628723
+[WK Exec summary of the TG claim for review]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7229268550872803
+[WK Exec summary of the TG claim for review]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7400945425033569
+[WK Exec summary of the TG claim for review]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7557844519615173
+[WK Exec summary of the TG claim for review]: Wellington --[CONTAINS]-> Private Bag 6995 0.7444431781768799
+[WK Exec summary of the TG claim for review]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.756716251373291
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7354739904403687
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.7464332580566406
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7325360178947449
+[WK Exec summary of the TG claim for review]: 50 Victoria Street --[IN]-> Wellington 0.727595865726471
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.7392075061798096
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[LOCATED]-> 50 Victoria Street 0.7378833293914795
+[WK Exec summary of the TG claim for review]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7179607152938843
+[WK Exec summary of the TG claim for review]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7170618176460266
+[WK Exec summary of the TG claim for review]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7268939018249512
+[WK Exec summary of the TG claim for review]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7283158898353577
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.721459150314331
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7249741554260254
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[CONTACT]-> Wellington 6141 0.7358522415161133
+[WK Exec summary of the TG claim for review]: Wellington 6141 --[POSTAL_ADDRESS]-> New Zealand 0.713202178478241

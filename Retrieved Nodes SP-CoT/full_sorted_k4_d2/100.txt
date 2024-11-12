@@ -1,0 +1,34 @@
+What region does the Metlink bus service connect to, besides Porirua, that is known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, and utilizes the Snapper card as part of its initiative in Auckland that has improved the reliability of public transport services and allowed users to plan their journeys more effectively?
+None
+Seed: Importance of well-planned transport systems in both countries
+Seed: Adopting integrated transport planning approaches that consider public transport
+Seed: Regional transport initiatives
+Seed: Increased demand for effective transportation systems
+[Importance of well-planned transport systems in both countries]: Pch --[Reflects]-> Importance of well-planned transport systems in both countries 0.8142849802970886
+[Importance of well-planned transport systems in both countries]: Pch --[Is]-> Part of new zealand state highway network 0.8088955283164978
+[Importance of well-planned transport systems in both countries]: Pch --[Connects]-> Auckland 0.8070560693740845
+[Importance of well-planned transport systems in both countries]: Pch --[Reflects]-> Importance of well-planned transport systems 0.8011381030082703
+[Importance of well-planned transport systems in both countries]: Pch --[Supports]-> Passenger travel 0.7901321649551392
+[Importance of well-planned transport systems in both countries]: Pch --[Supports]-> Freight movement 0.7784344553947449
+[Importance of well-planned transport systems in both countries]: Pch --[Also known as]-> State route 1 0.7764914631843567
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting 0.8048118352890015
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Aims to]-> Create more efficient transport networks 0.8038319945335388
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Aims to]-> Create more sustainable transport networks 0.802180826663971
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider public transport 0.8003247380256653
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches 0.7940882444381714
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider land use 0.7885413765907288
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider active transport modes 0.7884729504585266
+[Regional transport initiatives]: New zealand transport agency --[Collaborates with]-> Local councils 0.8258916139602661
+[Regional transport initiatives]: Waka kotahi nz transport agency --[Works collaboratively with]-> Local councils 0.8183621764183044
+[Regional transport initiatives]: New zealand transport agency --[Works with]-> Local councils 0.818344235420227
+[Regional transport initiatives]: Local councils --[Develop]-> Regional land transport plans 0.8044813871383667
+[Regional transport initiatives]: Local councils --[Contribute to]-> Regional transport initiatives 0.8038581013679504
+[Regional transport initiatives]: Community transport services --[Operated by]-> Local councils 0.7966802716255188
+[Regional transport initiatives]: Local councils --[Contribute to]-> Transport funding 0.787624180316925
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Public transport services 0.853318452835083
+[Increased demand for effective transportation systems]: Auckland --[Serves as]-> Critical hub for transport 0.8528050780296326
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Public transport system 0.8489891886711121
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Significant transport hub 0.8488927483558655
+[Increased demand for effective transportation systems]: Auckland --[Is]-> Critical hub for transport 0.8487635254859924
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Comprehensive public transport system 0.8486552238464355
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Comprehensive public transport networks 0.8478977680206299

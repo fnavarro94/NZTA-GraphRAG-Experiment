@@ -1,0 +1,31 @@
+What region does the Metlink bus service connect to besides Porirua, the city in the country known for its Metlink services, which focus on providing comprehensive coverage across the region and allocates financial resources for the development, maintenance, and upgrading of transport infrastructure, including roads, railways, airports, and public transport systems?
+None
+Seed: Regional transport initiatives
+Seed: Significant investment in public transport infrastructure
+Seed: Importance of well-planned transport systems in both countries
+Seed: Transport link between wellington and northern regions of north island
+[Regional transport initiatives]: Waka kotahi nz transport agency --[Works collaboratively with]-> Local councils 0.795184314250946
+[Regional transport initiatives]: New zealand transport agency --[Collaborates with]-> Local councils 0.7936110496520996
+[Regional transport initiatives]: Local councils --[Contribute to]-> Regional transport initiatives 0.7873156070709229
+[Regional transport initiatives]: New zealand transport agency --[Works with]-> Local councils 0.7859704494476318
+[Regional transport initiatives]: Community transport services --[Operated by]-> Local councils 0.785929799079895
+[Regional transport initiatives]: Local councils --[Develop]-> Regional land transport plans 0.7857469320297241
+[Regional transport initiatives]: Local councils --[Contribute to]-> Transport funding 0.7825514674186707
+[Significant investment in public transport infrastructure]: Urban areas --[Have]-> Significant investment in public transport infrastructure 0.8109169006347656
+[Significant investment in public transport infrastructure]: Urban areas --[Use]-> Public transport systems 0.8018031120300293
+[Significant investment in public transport infrastructure]: New zealand --[Has]-> Urban areas 0.7850511074066162
+[Significant investment in public transport infrastructure]: Electric scooters --[Used in]-> Urban areas 0.7269434928894043
+[Importance of well-planned transport systems in both countries]: Pch --[Reflects]-> Importance of well-planned transport systems in both countries 0.8053011298179626
+[Importance of well-planned transport systems in both countries]: Pch --[Is]-> Part of new zealand state highway network 0.7860128879547119
+[Importance of well-planned transport systems in both countries]: Pch --[Reflects]-> Importance of well-planned transport systems 0.7853888273239136
+[Importance of well-planned transport systems in both countries]: Pch --[Connects]-> Key urban centers 0.7801294922828674
+[Importance of well-planned transport systems in both countries]: Pch --[Supports]-> Freight movement 0.7692815065383911
+[Importance of well-planned transport systems in both countries]: Pch --[Plays]-> Crucial role in regional connectivity 0.7691490650177002
+[Importance of well-planned transport systems in both countries]: Pch --[Connects]-> Gisborne 0.7686372399330139
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Alleviates]-> Pressure on existing transport infrastructure 0.8073909282684326
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Connects]-> Northern regions of the north island 0.8063108921051025
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Aims to improve]-> Transport link between wellington and northern regions of north island 0.8057001233100891
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Aims to]-> Meet the evolving needs of new zealand's transport system 0.8056632876396179
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Supports]-> Economic development 0.7919769287109375
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Enhances]-> Connectivity for commuters 0.7918520569801331
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Improves]-> Access to employment and services 0.789837658405304

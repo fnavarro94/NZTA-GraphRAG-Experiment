@@ -1,0 +1,15 @@
+Were there any personal grievances or employment law processes underway with Charles Ronaldson, Giles Southwell, or Leigh Mitchell?
+None
+Seed: Giles Southwell
+Seed: Leigh Mitchell
+Seed: Charles Ronaldson
+Seed: public interest in legal professional privilege
+[Giles Southwell]: Giles Southwell --[EMPLOYED_BY]-> New Zealand Transport Agency 0.8193958401679993
+[Leigh Mitchell]: Leigh Mitchell --[EMPLOYED_BY]-> New Zealand Transport Agency 0.8143210411071777
+[Charles Ronaldson]: Charles Ronaldson --[IS]-> Programme Director, Commercial Projects 0.8273807168006897
+[Charles Ronaldson]: Charles Ronaldson --[SIGNED]-> response 0.804772675037384
+[Charles Ronaldson]: Charles Ronaldson --[EMPLOYED_BY]-> New Zealand Transport Agency 0.8140394687652588
+[Charles Ronaldson]: Charles Ronaldson --[GENERAL_MANAGER]-> Operations 0.8089484572410583
+[public interest in legal professional privilege]: Waka Kotahi --[ACKNOWLEDGES]-> public interest in legal professional privilege 0.7473810911178589
+[public interest in legal professional privilege]: Waka Kotahi --[PROTECTS]-> public interest in legal professional privilege 0.7598839998245239
+[public interest in legal professional privilege]: Waka Kotahi --[CONTINUES]-> public interest in legal professional privilege 0.7487151026725769

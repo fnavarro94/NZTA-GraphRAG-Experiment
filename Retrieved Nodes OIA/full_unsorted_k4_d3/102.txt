@@ -1,0 +1,36 @@
+Who is the acting National Manager responsible for the reply on Automatic Number Plate Recognition cameras?
+None
+Seed: Acting Senior Manager, Media
+Seed: no notifications of offences detected by speed cameras
+Seed: National Manager, Education and Marketing
+Seed: National correspondent
+[Acting Senior Manager, Media]: Jasmine Higginson --[IS]-> Acting Senior Manager, Media 0.7676956653594971
+[Acting Senior Manager, Media]: New Zealand Transport Agency --[EMPLOYS]-> Jasmine Higginson 0.7619385719299316
+[Acting Senior Manager, Media]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7500606775283813
+[Acting Senior Manager, Media]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7567748427391052
+[Acting Senior Manager, Media]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7656140327453613
+[Acting Senior Manager, Media]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7510469555854797
+[Acting Senior Manager, Media]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7531023621559143
+[Acting Senior Manager, Media]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7486620545387268
+[Acting Senior Manager, Media]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7463212013244629
+[Acting Senior Manager, Media]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7387142181396484
+[Acting Senior Manager, Media]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7657052874565125
+[Acting Senior Manager, Media]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7592450976371765
+[Acting Senior Manager, Media]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7756668925285339
+[Acting Senior Manager, Media]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7760235667228699
+[Acting Senior Manager, Media]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7544533610343933
+[Acting Senior Manager, Media]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7754056453704834
+[Acting Senior Manager, Media]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7783002853393555
+[Acting Senior Manager, Media]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7881761193275452
+[Acting Senior Manager, Media]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.769277811050415
+[Acting Senior Manager, Media]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7558279037475586
+[Acting Senior Manager, Media]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7879877686500549
+[Acting Senior Manager, Media]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7595445513725281
+[Acting Senior Manager, Media]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7870451807975769
+[Acting Senior Manager, Media]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7750986218452454
+[Acting Senior Manager, Media]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7941489219665527
+[Acting Senior Manager, Media]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7629765272140503
+[Acting Senior Manager, Media]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7841266989707947
+[Acting Senior Manager, Media]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7674678564071655
+[Acting Senior Manager, Media]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.765603244304657
+[Acting Senior Manager, Media]: Senior Engineer Vehicle Standard --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7578908205032349

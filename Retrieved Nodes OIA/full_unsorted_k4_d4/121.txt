@@ -1,0 +1,36 @@
+What information did NZTA provide in response to the OIA request on median barriers (OIA-3396)?
+None
+Seed: installing median barriers
+Seed: median barriers
+Seed: Median Barriers
+Seed: information about the NZ Transport Agency's Information Technology (IT) projects
+[installing median barriers]: Safe System approach --[INCLUDES]-> installing median barriers 0.8215978145599365
+[installing median barriers]: Safe System approach --[INCLUDES]-> improving the safety performance of the vehicle fleet 0.7649362087249756
+[installing median barriers]: Safe System approach --[INCLUDES]-> encouraging road users to be alert and compliant 0.7614872455596924
+[installing median barriers]: resolution A/RES/74/299 --[PROMOTES]-> Safe System approach 0.7813894748687744
+[installing median barriers]: United Nations General Assembly --[ADOPTED]-> resolution A/RES/74/299 0.7846859693527222
+[installing median barriers]: United Nations General Assembly --[ADOPTED]-> A/RES/74/299 0.774597704410553
+[median barriers]: information --[RELATES_TO]-> median barriers 0.844730794429779
+[median barriers]: information --[PROVIDES]-> New Zealand Transport Agency 0.8554627895355225
+[median barriers]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8174660801887512
+[median barriers]: New Zealand Transport Agency --[BASED]-> Wellington 0.8206605315208435
+[median barriers]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.774370551109314
+[median barriers]: Golden Mile --[LOCATED]-> Wellington 0.7441596984863281
+[median barriers]: State Highway 1 --[LOCATED_IN]-> Wellington 0.772742748260498
+[median barriers]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7929564714431763
+[median barriers]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7758485078811646
+[median barriers]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7764320373535156
+[median barriers]: Wellington --[PART_OF]-> Wellington Region 0.7924408912658691
+[median barriers]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7956482768058777
+[median barriers]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.8029297590255737
+[median barriers]: Wellington --[HAS]-> tunnel 0.7965342998504639
+[median barriers]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7878866791725159
+[median barriers]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7755522727966309
+[median barriers]: Wellington --[POSTCODE]-> 6141 0.7621240615844727
+[median barriers]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.8151174783706665
+[median barriers]: Wellington --[IS_PART_OF]-> New Zealand 0.7851611971855164
+[median barriers]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7956911325454712
+[median barriers]: 50 Victoria Street --[IN]-> Wellington 0.7552955746650696
+[median barriers]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.794739842414856
+[median barriers]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7604642510414124
+[median barriers]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7766737341880798

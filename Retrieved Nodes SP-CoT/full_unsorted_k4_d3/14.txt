@@ -1,0 +1,36 @@
+In what year did the organization that operates the rail network in New Zealand, primarily serving freight and providing passenger services in metropolitan areas, become established as a state-owned enterprise in New Zealand?
+None
+Seed: State-owned enterprise
+Seed: Extensive network of passenger and freight services
+Seed: Rail network
+Seed: Rail networks
+[State-owned enterprise]: Kiwirail group --[Is]-> State-owned enterprise 0.8966468572616577
+[State-owned enterprise]: Kiwirail group --[Provides]-> Essential services 0.8282061815261841
+[State-owned enterprise]: Kiwirail group --[Provides]-> Efficient transport 0.8244171142578125
+[State-owned enterprise]: Kiwirail group --[Provides]-> Sustainable transport 0.8266804814338684
+[State-owned enterprise]: Sustainable urban transport --[Key component]-> Sustainable transport 0.7649862766265869
+[State-owned enterprise]: Kiwirail group --[Addresses]-> Environmental concerns 0.804250955581665
+[State-owned enterprise]: New zealand --[Face]-> Environmental concerns 0.7711273431777954
+[State-owned enterprise]: Kiwirail group --[Addresses]-> Road congestion 0.7959564328193665
+[State-owned enterprise]: Kiwirail --[Reduces]-> Road congestion 0.7825887799263
+[State-owned enterprise]: Kiwirail group --[Responsible for]-> Rail transport 0.8556243181228638
+[State-owned enterprise]: Kiwirail group --[Aims to]-> Rail transport 0.8298122882843018
+[State-owned enterprise]: Rail transport --[Has]-> Rich history dating back to the 19th century 0.8045840263366699
+[State-owned enterprise]: Rail transport --[Has]-> Rich history dating back to 19th century 0.8053967952728271
+[State-owned enterprise]: Rail transport --[Plays]-> Crucial role in freight movement 0.810276985168457
+[State-owned enterprise]: New zealand --[Has]-> Rail transport 0.8686851263046265
+[State-owned enterprise]: Rail transport --[Plays vital role]-> Freight movement 0.8093994855880737
+[State-owned enterprise]: Kiwirail group --[Responsible for]-> Freight services 0.8513907790184021
+[State-owned enterprise]: North island main trunk line --[Serves]-> Freight services 0.8131552338600159
+[State-owned enterprise]: North island main trunk line --[Supports]-> Freight services 0.8128685355186462
+[State-owned enterprise]: Kiwirail group --[Operates]-> Freight services 0.8611978888511658
+[State-owned enterprise]: Kiwirail --[Provides]-> Freight services 0.852258026599884
+[State-owned enterprise]: Kiwirail group --[Promotes]-> Integrated transport solutions 0.8229056596755981
+[State-owned enterprise]: Waka kotahi --[Develops]-> Integrated transport solutions 0.7853900194168091
+[State-owned enterprise]: Kiwirail group --[Promotes]-> Economic growth 0.8266671299934387
+[State-owned enterprise]: National land transport programme --[Supports]-> Economic growth 0.7769242525100708
+[State-owned enterprise]: Government objectives --[Include]-> Economic growth 0.7254993915557861
+[State-owned enterprise]: Waka kotahi --[Contributes to]-> Economic growth 0.7570988535881042
+[State-owned enterprise]: Auckland western ring route --[Supports]-> Economic growth 0.7943164110183716
+[State-owned enterprise]: Transport infrastructure development --[Is crucial for]-> Economic growth 0.773746907711029
+[State-owned enterprise]: Freight transport --[Essential for]-> Economic growth 0.7842193841934204

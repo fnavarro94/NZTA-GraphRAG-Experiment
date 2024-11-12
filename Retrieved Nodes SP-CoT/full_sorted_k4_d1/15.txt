@@ -1,0 +1,10 @@
+What is the minimum age requirement for obtaining a driver license in New Zealand, which is the first stage of the driver licensing process and can be obtained at the age of 16?
+None
+Seed: Age of 16
+Seed: Provisional driving license
+Seed: Legal framework for licensing of drivers
+Seed: Full valid driver's license
+[Age of 16]: Learner license --[Obtained at]-> Age of 16 0.8774173855781555
+[Provisional driving license]: Learner license --[Is]-> Provisional driving license 0.8424267768859863
+[Legal framework for licensing of drivers]: Land transport act 1998 --[Establishes]-> Legal framework for licensing of drivers 0.8202866911888123
+[Full valid driver's license]: Supervisor --[Hold]-> Full valid driver's license 0.7973023653030396

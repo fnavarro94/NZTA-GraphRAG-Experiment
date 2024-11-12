@@ -1,0 +1,36 @@
+What initiative was discussed to improve safety for visiting drivers in New Zealand?
+None
+Seed: Road safety initiatives
+Seed: Road Safety Initiatives
+Seed: road safety initiatives
+Seed: summary of the visiting drivers survey
+[Road safety initiatives]: New Zealand Transport Agency --[ASSOCIATED]-> Road safety initiatives 0.9172646999359131
+[Road safety initiatives]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8326317071914673
+[Road safety initiatives]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8287695646286011
+[Road safety initiatives]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8314776420593262
+[Road safety initiatives]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.8128023743629456
+[Road safety initiatives]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.8341448307037354
+[Road safety initiatives]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.8347951173782349
+[Road safety initiatives]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.8445597290992737
+[Road safety initiatives]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.835413932800293
+[Road safety initiatives]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8292490243911743
+[Road safety initiatives]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8343731164932251
+[Road safety initiatives]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8132202625274658
+[Road safety initiatives]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8227572441101074
+[Road safety initiatives]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8316212296485901
+[Road safety initiatives]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8152245283126831
+[Road safety initiatives]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8288671970367432
+[Road safety initiatives]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8287264704704285
+[Road safety initiatives]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8130717277526855
+[Road safety initiatives]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8287779092788696
+[Road safety initiatives]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8300490379333496
+[Road safety initiatives]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.809191107749939
+[Road safety initiatives]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8317096829414368
+[Road safety initiatives]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8307233452796936
+[Road safety initiatives]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8291495442390442
+[Road safety initiatives]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8102569580078125
+[Road safety initiatives]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8147204518318176
+[Road safety initiatives]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.838960587978363
+[Road safety initiatives]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8063614368438721
+[Road safety initiatives]: Senior Engineer Vehicle Standard --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8170250654220581
+[Road safety initiatives]: oia-15834-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8299425840377808

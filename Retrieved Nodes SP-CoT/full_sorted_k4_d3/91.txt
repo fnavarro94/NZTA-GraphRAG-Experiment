@@ -1,0 +1,29 @@
+What region is known for its rugged terrain and stunning landscapes, particularly in the context of the two main islands of the country where the initiative focusing on improving public transport services and infrastructure in Wellington to enhance the travel experience for users is being implemented, and where the transport system facilitates the movement of people and goods?
+None
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+Seed: Importance of well-planned transport systems in both countries
+Seed: Transport link between wellington and northern regions of north island
+Seed: New zealand's stunning landscapes
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Plays]-> Significant role in shaping transport infrastructure and policy in new zealand 0.8533498048782349
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Aims to]-> Enhance resilience and adaptability of new zealand's transport network 0.8497894406318665
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Is]-> Collective of australian and new zealand road transport and traffic agencies 0.8178077936172485
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Collaborates with]-> New zealand transport agency (nzta 0.8177343010902405
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Conducts]-> Extensive research and development projects 0.7744117975234985
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Engages in]-> International collaborations to align initiatives with global best practices 0.7690420150756836
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Founded in]-> 1990 0.735375702381134
+[Importance of well-planned transport systems in both countries]: Auckland --[Serves as]-> Critical hub for transport 0.8598164319992065
+[Importance of well-planned transport systems in both countries]: Auckland --[Has]-> Significant transport hub 0.857703685760498
+[Importance of well-planned transport systems in both countries]: Auckland --[Is]-> Major transport hub 0.8552589416503906
+[Importance of well-planned transport systems in both countries]: New zealand --[Has]-> Transport network 0.8532853722572327
+[Importance of well-planned transport systems in both countries]: Auckland --[Is]-> Critical hub for transport 0.8532088398933411
+[Importance of well-planned transport systems in both countries]: Auckland --[Has]-> Comprehensive public transport system 0.8529973030090332
+[Importance of well-planned transport systems in both countries]: Auckland --[Has]-> Transport infrastructure 0.8482186794281006
+[Transport link between wellington and northern regions of north island]: Wellington --[Serves as]-> Vital transport hub 0.8886624574661255
+[Transport link between wellington and northern regions of north island]: Wellington --[Has]-> Well-integrated transport system 0.8766486644744873
+[Transport link between wellington and northern regions of north island]: Wellington --[Has]-> Transport system 0.8749027252197266
+[Transport link between wellington and northern regions of north island]: Wellington --[Has]-> Comprehensive public transport networks 0.8734900951385498
+[Transport link between wellington and northern regions of north island]: Wellington --[Has]-> Hills and rugged coastline 0.8730048537254333
+[Transport link between wellington and northern regions of north island]: Wellington --[Has]-> Public transport services 0.8726979494094849
+[Transport link between wellington and northern regions of north island]: Wellington --[Has]-> Unique geography 0.8713451623916626
+[New zealand's stunning landscapes]: Passenger rail services --[Showcase]-> New zealand's stunning landscapes 0.8673387765884399
+[New zealand's stunning landscapes]: Passenger rail services --[Include]-> Scenic routes such as the tranzalpine and the northern explorer 0.8097224831581116

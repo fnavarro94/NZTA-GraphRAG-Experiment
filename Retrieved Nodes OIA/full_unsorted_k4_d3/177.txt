@@ -1,0 +1,36 @@
+What initiative was discussed to improve safety for visiting drivers in New Zealand?
+None
+Seed: Road safety initiatives
+Seed: Road Safety Initiatives
+Seed: road safety initiatives
+Seed: summary of the visiting drivers survey
+[Road safety initiatives]: New Zealand Transport Agency --[ASSOCIATED]-> Road safety initiatives 0.9172646999359131
+[Road safety initiatives]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8326317071914673
+[Road safety initiatives]: New Zealand Transport Agency --[BASED]-> Wellington 0.8451541662216187
+[Road safety initiatives]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7757563591003418
+[Road safety initiatives]: Golden Mile --[LOCATED]-> Wellington 0.7671298980712891
+[Road safety initiatives]: State Highway 1 --[LOCATED_IN]-> Wellington 0.8179956674575806
+[Road safety initiatives]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7656669020652771
+[Road safety initiatives]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7651598453521729
+[Road safety initiatives]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7621859312057495
+[Road safety initiatives]: Wellington --[PART_OF]-> Wellington Region 0.7860649228096008
+[Road safety initiatives]: New Zealand --[HAS_CAPITAL]-> Wellington 0.8033972382545471
+[Road safety initiatives]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.8116332292556763
+[Road safety initiatives]: Wellington --[HAS]-> tunnel 0.8046200275421143
+[Road safety initiatives]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.8037368655204773
+[Road safety initiatives]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7695157527923584
+[Road safety initiatives]: Wellington --[POSTCODE]-> 6141 0.7524604797363281
+[Road safety initiatives]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.8302797079086304
+[Road safety initiatives]: Wellington --[IS_PART_OF]-> New Zealand 0.7900637984275818
+[Road safety initiatives]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.8096709251403809
+[Road safety initiatives]: 50 Victoria Street --[IN]-> Wellington 0.768851637840271
+[Road safety initiatives]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7653492093086243
+[Road safety initiatives]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7651387453079224
+[Road safety initiatives]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7673678398132324
+[Road safety initiatives]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.8058059215545654
+[Road safety initiatives]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7979373931884766
+[Road safety initiatives]: NZ Transport Agency --[LOCATED]-> Wellington 0.8322983384132385
+[Road safety initiatives]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7835285663604736
+[Road safety initiatives]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7635780572891235
+[Road safety initiatives]: New Zealand --[CONTAINS]-> Wellington 0.7969527244567871
+[Road safety initiatives]: Wellington --[PART_OF]-> New Zealand 0.7907538414001465

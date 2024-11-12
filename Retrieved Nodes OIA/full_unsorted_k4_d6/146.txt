@@ -1,0 +1,36 @@
+Were any draft letters regarding the Rainbow Crossing ever sent to Wellington City Council?
+None
+Seed: Wellington's Rainbow Crossing proposal
+Seed: safety of Wellington's Rainbow Crossing proposal
+Seed: Wellington City Council
+Seed: one crossing near Daniell Street
+[Wellington's Rainbow Crossing proposal]: suggested action to address concerns --[RELATES_TO]-> Wellington's Rainbow Crossing proposal 0.8727091550827026
+[Wellington's Rainbow Crossing proposal]: New Zealand Transport Agency --[SUGGESTS]-> suggested action to address concerns 0.7927370667457581
+[Wellington's Rainbow Crossing proposal]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8127837181091309
+[Wellington's Rainbow Crossing proposal]: New Zealand Transport Agency --[BASED]-> Wellington 0.8262408375740051
+[Wellington's Rainbow Crossing proposal]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7826889753341675
+[Wellington's Rainbow Crossing proposal]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.7939333319664001
+[Wellington's Rainbow Crossing proposal]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.8038873672485352
+[Wellington's Rainbow Crossing proposal]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.8201148509979248
+[Wellington's Rainbow Crossing proposal]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.8282372355461121
+[Wellington's Rainbow Crossing proposal]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.793493390083313
+[Wellington's Rainbow Crossing proposal]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.7772441506385803
+[Wellington's Rainbow Crossing proposal]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7575502395629883
+[Wellington's Rainbow Crossing proposal]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7718209624290466
+[Wellington's Rainbow Crossing proposal]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7895994782447815
+[Wellington's Rainbow Crossing proposal]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7404471635818481
+[Wellington's Rainbow Crossing proposal]: Wellington --[CONTAINS]-> Private Bag 6995 0.806904137134552
+[Wellington's Rainbow Crossing proposal]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7861428260803223
+[Wellington's Rainbow Crossing proposal]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7857852578163147
+[Wellington's Rainbow Crossing proposal]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.8038456439971924
+[Wellington's Rainbow Crossing proposal]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7950228452682495
+[Wellington's Rainbow Crossing proposal]: 50 Victoria Street --[IN]-> Wellington 0.8115479946136475
+[Wellington's Rainbow Crossing proposal]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.7950100302696228
+[Wellington's Rainbow Crossing proposal]: New Zealand Transport Agency --[LOCATED]-> 50 Victoria Street 0.7848857045173645
+[Wellington's Rainbow Crossing proposal]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7660893201828003
+[Wellington's Rainbow Crossing proposal]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7741373777389526
+[Wellington's Rainbow Crossing proposal]: Wellington --[CONTAINS]-> 50 Victoria Street 0.8266559839248657
+[Wellington's Rainbow Crossing proposal]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.8007967472076416
+[Wellington's Rainbow Crossing proposal]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7842634320259094
+[Wellington's Rainbow Crossing proposal]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.8047565817832947
+[Wellington's Rainbow Crossing proposal]: New Zealand Transport Agency --[CONTACT]-> Wellington 6141 0.825056791305542

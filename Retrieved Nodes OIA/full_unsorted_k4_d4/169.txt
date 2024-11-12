@@ -1,0 +1,36 @@
+Was Higgins Concrete Ltd engaged in any NZTA projects during the audit period?
+None
+Seed: information on Higgins Ltd projects
+Seed: information on Higgins Wellington projects
+Seed: Higgins Concrete Limited
+Seed: Higgins Group Holdings Limited
+[information on Higgins Ltd projects]: New Zealand Transport Agency --[PROVIDES]-> information on Higgins Ltd projects 0.8874444961547852
+[information on Higgins Ltd projects]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8004370927810669
+[information on Higgins Ltd projects]: New Zealand Transport Agency --[BASED]-> Wellington 0.805645763874054
+[information on Higgins Ltd projects]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8015211224555969
+[information on Higgins Ltd projects]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8035451173782349
+[information on Higgins Ltd projects]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7893452644348145
+[information on Higgins Ltd projects]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.8015559315681458
+[information on Higgins Ltd projects]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.8045883774757385
+[information on Higgins Ltd projects]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.8106908202171326
+[information on Higgins Ltd projects]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.8086588382720947
+[information on Higgins Ltd projects]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.806594967842102
+[information on Higgins Ltd projects]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.792680025100708
+[information on Higgins Ltd projects]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8166694641113281
+[information on Higgins Ltd projects]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7979971170425415
+[information on Higgins Ltd projects]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.799595057964325
+[information on Higgins Ltd projects]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7933326959609985
+[information on Higgins Ltd projects]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7953324317932129
+[information on Higgins Ltd projects]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7997754812240601
+[information on Higgins Ltd projects]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8004305958747864
+[information on Higgins Ltd projects]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.797904908657074
+[information on Higgins Ltd projects]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8280230760574341
+[information on Higgins Ltd projects]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7826804518699646
+[information on Higgins Ltd projects]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7998166084289551
+[information on Higgins Ltd projects]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8066531419754028
+[information on Higgins Ltd projects]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.801029622554779
+[information on Higgins Ltd projects]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7975125312805176
+[information on Higgins Ltd projects]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.790917694568634
+[information on Higgins Ltd projects]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8045960068702698
+[information on Higgins Ltd projects]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.789788007736206
+[information on Higgins Ltd projects]: Senior Engineer Vehicle Standard --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.790884256362915

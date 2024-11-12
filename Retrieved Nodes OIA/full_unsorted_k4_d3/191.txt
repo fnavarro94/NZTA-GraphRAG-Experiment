@@ -1,0 +1,36 @@
+How is the Hoe ki angitū Innovation Fund financed?
+None
+Seed: Hoe ki angitū – Innovation Fund
+Seed: Innovation Fund
+Seed: funding
+Seed: funding requests
+[Hoe ki angitū – Innovation Fund]: Hoe ki angitū – Innovation Fund --[FUNDED_BY]-> National Land Transport Fund 0.9167662858963013
+[Hoe ki angitū – Innovation Fund]: National Land Transport Fund --[ADMINISTERED_BY]-> Waka Kotahi 0.817132830619812
+[Hoe ki angitū – Innovation Fund]: Response --[CONTAINS]-> Waka Kotahi 0.7654584646224976
+[Hoe ki angitū – Innovation Fund]: response --[CONTAINS]-> Waka Kotahi 0.760949969291687
+[Hoe ki angitū – Innovation Fund]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.7665160298347473
+[Hoe ki angitū – Innovation Fund]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.7673118710517883
+[Hoe ki angitū – Innovation Fund]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.721423327922821
+[Hoe ki angitū – Innovation Fund]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7326789498329163
+[Hoe ki angitū – Innovation Fund]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.7271350622177124
+[Hoe ki angitū – Innovation Fund]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.720076322555542
+[Hoe ki angitū – Innovation Fund]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.7563855051994324
+[Hoe ki angitū – Innovation Fund]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.7707076072692871
+[Hoe ki angitū – Innovation Fund]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7650805115699768
+[Hoe ki angitū – Innovation Fund]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.7739783525466919
+[Hoe ki angitū – Innovation Fund]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.7475372552871704
+[Hoe ki angitū – Innovation Fund]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.7566869854927063
+[Hoe ki angitū – Innovation Fund]: Leisa Coley --[EMPLOYED_BY]-> Waka Kotahi 0.7559139132499695
+[Hoe ki angitū – Innovation Fund]: Lizette Marais --[EMPLOYED_BY]-> Waka Kotahi 0.7444849610328674
+[Hoe ki angitū – Innovation Fund]: Waka Kotahi --[EMPLOYS]-> Andy Knackstedt 0.745316743850708
+[Hoe ki angitū – Innovation Fund]: Waka Kotahi --[EMPLOYS]-> Qualified Staff 0.7530218362808228
+[Hoe ki angitū – Innovation Fund]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.7881565093994141
+[Hoe ki angitū – Innovation Fund]: website --[RELATES_TO]-> Waka Kotahi 0.7635914087295532
+[Hoe ki angitū – Innovation Fund]: Waka Kotahi --[RESPONDS_TO]-> OIA request 0.7628097534179688
+[Hoe ki angitū – Innovation Fund]: Waka Kotahi --[RESPONDS_TO]-> request 0.735416829586029
+[Hoe ki angitū – Innovation Fund]: Waka Kotahi --[PROVIDES]-> OIA-10601-response-georgina-campbell.pdf 0.7621267437934875
+[Hoe ki angitū – Innovation Fund]: Waka Kotahi --[PROVIDES]-> outcome of suspension 0.748771071434021
+[Hoe ki angitū – Innovation Fund]: Waka Kotahi --[PROVIDES]-> outcome of surrendered 0.7265270352363586
+[Hoe ki angitū – Innovation Fund]: Waka Kotahi --[PROVIDES]-> information on website 0.7602212429046631
+[Hoe ki angitū – Innovation Fund]: Waka Kotahi --[PROVIDES]-> outcome of revoke 0.7342097759246826
+[Hoe ki angitū – Innovation Fund]: Waka Kotahi --[PROVIDES]-> warnings to individuals 0.7257905006408691

@@ -1,0 +1,36 @@
+What information does Waka Kotahi NZTA provide regarding the amount of money spent on litter collection?
+None
+Seed: information regarding actual costs of litter collection
+Seed: information regarding amount of litter collected and disposed
+Seed: information to Waka Kotahi
+Seed: Waka Kotahi
+[information regarding actual costs of litter collection]: Waka Kotahi NZ Transport Agency --[DOES_NOT_HOLD]-> information regarding actual costs of litter collection 0.9002106785774231
+[information regarding actual costs of litter collection]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.8399441838264465
+[information regarding actual costs of litter collection]: New Zealand Transport Agency --[BASED]-> Wellington 0.7724236249923706
+[information regarding actual costs of litter collection]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7767326235771179
+[information regarding actual costs of litter collection]: Golden Mile --[LOCATED]-> Wellington 0.7509533166885376
+[information regarding actual costs of litter collection]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7329581379890442
+[information regarding actual costs of litter collection]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7523554563522339
+[information regarding actual costs of litter collection]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7822830080986023
+[information regarding actual costs of litter collection]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7685879468917847
+[information regarding actual costs of litter collection]: Wellington --[PART_OF]-> Wellington Region 0.7596760392189026
+[information regarding actual costs of litter collection]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7730152606964111
+[information regarding actual costs of litter collection]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7317123413085938
+[information regarding actual costs of litter collection]: Wellington --[HAS]-> tunnel 0.7569440603256226
+[information regarding actual costs of litter collection]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.8392623066902161
+[information regarding actual costs of litter collection]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7830890417098999
+[information regarding actual costs of litter collection]: Wellington --[POSTCODE]-> 6141 0.7368452548980713
+[information regarding actual costs of litter collection]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7743201851844788
+[information regarding actual costs of litter collection]: Wellington --[IS_PART_OF]-> New Zealand 0.757923424243927
+[information regarding actual costs of litter collection]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7425968647003174
+[information regarding actual costs of litter collection]: 50 Victoria Street --[IN]-> Wellington 0.7534065246582031
+[information regarding actual costs of litter collection]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.755078911781311
+[information regarding actual costs of litter collection]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7540069818496704
+[information regarding actual costs of litter collection]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7662322521209717
+[information regarding actual costs of litter collection]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.8378197550773621
+[information regarding actual costs of litter collection]: NZ Transport Agency --[LOCATED]-> Wellington 0.7754653096199036
+[information regarding actual costs of litter collection]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.775239109992981
+[information regarding actual costs of litter collection]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7575153112411499
+[information regarding actual costs of litter collection]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7517191171646118
+[information regarding actual costs of litter collection]: New Zealand --[CONTAINS]-> Wellington 0.7722228765487671
+[information regarding actual costs of litter collection]: Wellington --[PART_OF]-> New Zealand 0.762876033782959

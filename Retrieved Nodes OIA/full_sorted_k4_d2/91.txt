@@ -1,0 +1,31 @@
+How many times has the Milford Rd closed each year for the past 5 years?
+None
+Seed: 5 years
+Seed: vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas
+Seed: resignations by year since 2014
+Seed: Milford Alliance
+[5 years]: Transport Service Licences --[ACTIVE_FOR]-> 5 years 0.8066335916519165
+[5 years]: Land Transport Management Act 2003 --[CITED_IN]-> Transport Service Licences 0.7484327554702759
+[5 years]: Transport Service Licences --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7455906867980957
+[5 years]: New Zealand Transport Agency --[MANAGES]-> Transport Service Licences 0.7375841736793518
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand Transport Agency --[PROVIDES]-> vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas 0.7861930131912231
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: roads --[MAINTAINED]-> New Zealand Transport Agency 0.7855600118637085
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand Transport Agency --[OFFICE]-> Level 5, The Majestic Centre 0.7823576927185059
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.782194972038269
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand Transport Agency --[PROVIDES]-> accident or crash history 0.7798143625259399
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> road maintenance 0.7797662615776062
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand Transport Agency --[PUBLISHED]-> Website 0.7789792418479919
+[resignations by year since 2014]: New Zealand Transport Agency --[PROVIDES]-> vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas 0.7861930131912231
+[resignations by year since 2014]: roads --[MAINTAINED]-> New Zealand Transport Agency 0.7855600118637085
+[resignations by year since 2014]: New Zealand Transport Agency --[OFFICE]-> Level 5, The Majestic Centre 0.7823576927185059
+[resignations by year since 2014]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.782194972038269
+[resignations by year since 2014]: New Zealand Transport Agency --[PROVIDES]-> accident or crash history 0.7798143625259399
+[resignations by year since 2014]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> road maintenance 0.7797662615776062
+[resignations by year since 2014]: New Zealand Transport Agency --[PUBLISHED]-> Website 0.7789792418479919
+[Milford Alliance]: Milford Alliance --[DEVELOPED_BY]-> Connected Journeys 0.8118149042129517
+[Milford Alliance]: Connected Journeys --[DEVELOPS]-> Milford Alliance 0.7938207387924194
+[Milford Alliance]: Connected Journeys --[PART_OF]-> New Zealand Transport Agency 0.7580498456954956
+[Milford Alliance]: Traffic Watcher --[DEVELOPED_BY]-> Connected Journeys 0.7538011074066162
+[Milford Alliance]: New Zealand Business Number (NZBN) integration --[DEVELOPED_BY]-> Connected Journeys 0.7506450414657593
+[Milford Alliance]: Homer Tunnel worker and avalanche inspection application --[DEVELOPED_BY]-> Connected Journeys 0.7484453916549683
+[Milford Alliance]: Vehicle permits --[DEVELOPED_BY]-> Connected Journeys 0.7468820810317993

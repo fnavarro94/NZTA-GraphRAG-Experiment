@@ -1,0 +1,36 @@
+What legislation established the organization that outlines its responsibilities in transport governance in New Zealand?
+None
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+Seed: Management and regulation of the transport system in new zealand
+Seed: Management and regulation of transport systems
+Seed: Transport industry governed by regulatory bodies
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Plays]-> Significant role in shaping transport infrastructure and policy in new zealand 0.8711110949516296
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Conducts]-> Extensive research and development projects 0.7530002593994141
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Collaborates with]-> New zealand transport agency (nzta 0.835288941860199
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Aims to]-> Enhance resilience and adaptability of new zealand's transport network 0.853621780872345
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Is]-> Collective of australian and new zealand road transport and traffic agencies 0.8447446823120117
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Founded in]-> 1990 0.7607241272926331
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Engages in]-> International collaborations to align initiatives with global best practices 0.7548270225524902
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Responsible for]-> Management and regulation of the transport system in new zealand 0.9029663801193237
+[Management and regulation of the transport system in new zealand]: New zealand --[Has]-> New zealand transport agency 0.8887209296226501
+[Management and regulation of the transport system in new zealand]: New zealand --[Has]-> Transport projects 0.8751590847969055
+[Management and regulation of the transport system in new zealand]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.9046234488487244
+[Management and regulation of the transport system in new zealand]: New zealand --[Has]-> Diverse transport network 0.8531424403190613
+[Management and regulation of the transport system in new zealand]: New zealand --[Has]-> Post-incident review 0.7963271737098694
+[Management and regulation of the transport system in new zealand]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.8115330338478088
+[Management and regulation of the transport system in new zealand]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.831592321395874
+[Management and regulation of the transport system in new zealand]: New zealand --[Has]-> Broader environmental policies 0.8331570625305176
+[Management and regulation of the transport system in new zealand]: New zealand --[Has]-> Traffic congestion 0.8373650312423706
+[Management and regulation of the transport system in new zealand]: New zealand --[Has]-> Increasing urbanization 0.7833847999572754
+[Management and regulation of the transport system in new zealand]: New zealand --[Has]-> Graduated licensing system 0.8289430141448975
+[Management and regulation of the transport system in new zealand]: New zealand --[Has]-> Extensive coastline supporting a thriving fishing industry and recreational boating activities 0.7959902882575989
+[Management and regulation of the transport system in new zealand]: New zealand --[Has]-> Trend towards more integrated and environmentally friendly transport solutions 0.8388544321060181
+[Management and regulation of the transport system in new zealand]: New zealand --[Has]-> Extensive network of roads 0.8510092496871948
+[Management and regulation of the transport system in new zealand]: New zealand --[Has]-> Public transport network planning 0.8556632995605469
+[Management and regulation of the transport system in new zealand]: New zealand --[Has]-> Public transit 0.8390697240829468
+[Management and regulation of the transport system in new zealand]: New zealand --[Has]-> Goal 0.8026864528656006
+[Management and regulation of the transport system in new zealand]: New zealand --[Has]-> Transport system sustainability 0.8709840178489685
+[Management and regulation of the transport system in new zealand]: New zealand --[Has]-> Walking 0.8112853169441223
+[Management and regulation of the transport system in new zealand]: New zealand --[Has]-> Cycling 0.8201573491096497
+[Management and regulation of the transport system in new zealand]: New zealand --[Has]-> Biodiversity 0.8092009425163269
+[Management and regulation of the transport system in new zealand]: New zealand --[Has]-> Urban-rural dynamics 0.8084063529968262

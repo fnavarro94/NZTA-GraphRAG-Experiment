@@ -1,0 +1,36 @@
+Why was the information related to the RFP submissions and preferred supplier selection withheld?
+None
+Seed: Some information has been withheld under section 9(2)(f)(iv)
+Seed: Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)
+Seed: decision to withhold information
+Seed: withheld
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[IS]-> Some information has been withheld under section 9(2)(f)(iv) 0.8323378562927246
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[DATE]-> 24 April 2024 0.7577831745147705
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[IS]-> NTS rollout timeline 0.7705423831939697
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[IS]-> Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv) 0.8329633474349976
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[IS]-> Transport stakeholders meeting 0.793108344078064
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[DATE]-> 17 April 2024 0.7672479152679443
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4449 --[DATE]-> 17 April 2024 0.7684364914894104
+[decision to withhold information]: Ombudsman --[REVIEW]-> decision to withhold information 0.8423203229904175
+[decision to withhold information]: www.ombudsman.parliament.nz --[LINKS_TO]-> Ombudsman 0.7837426066398621
+[decision to withhold information]: website --[LOCATED_AT]-> www.ombudsman.parliament.nz 0.7741128206253052
+[decision to withhold information]: New Zealand Transport Agency --[PROVIDES]-> www.ombudsman.parliament.nz 0.7690528631210327
+[decision to withhold information]: www.ombudsman.parliament.nz --[PROVIDES]-> New Zealand Transport Agency 0.7670577764511108
+[decision to withhold information]: Ombudsman --[LOCATED_AT]-> www.ombudsman.parliament.nz 0.7629074454307556
+[decision to withhold information]: www.ombudsman.parliament.nz --[HOSTS]-> contact details for the Ombudsman 0.7811749577522278
+[decision to withhold information]: contact details for the Ombudsman --[LOCATED_AT]-> www.ombudsman.parliament.nz 0.7629654407501221
+[decision to withhold information]: contact details for the Ombudsman --[AVAILABLE_AT]-> www.ombudsman.parliament.nz 0.7769358158111572
+[decision to withhold information]: www.ombudsman.parliament.nz --[PROVIDES]-> contact details 0.7925988435745239
+[decision to withhold information]: contact details --[LOCATED]-> www.ombudsman.parliament.nz 0.7694259881973267
+[decision to withhold information]: www.ombudsman.parliament.nz --[PROVIDES]-> Transport Agency 0.7656742930412292
+[decision to withhold information]: Ombudsman --[IS]-> www.ombudsman.parliament.nz 0.7703516483306885
+[decision to withhold information]: Website --[URL]-> www.ombudsman.parliament.nz 0.776380181312561
+[decision to withhold information]: contact details for the Ombudsman --[FOUND]-> www.ombudsman.parliament.nz 0.778698205947876
+[decision to withhold information]: Ombudsman --[LOCATED]-> www.ombudsman.parliament.nz 0.767619252204895
+[decision to withhold information]: Contact Details --[AVAILABLE]-> www.ombudsman.parliament.nz 0.7753236293792725
+[decision to withhold information]: www.ombudsman.parliament.nz --[PROVIDES]-> Ombudsman 0.7737864255905151
+[decision to withhold information]: contact details for the Ombudsman --[LOCATED]-> www.ombudsman.parliament.nz 0.7634256482124329
+[decision to withhold information]: www.ombudsman.parliament.nz --[ASSOCIATED]-> Ombudsman 0.784362256526947
+[decision to withhold information]: Ombudsman contact details --[LOCATED]-> www.ombudsman.parliament.nz 0.7648793458938599
+[decision to withhold information]: right to ask the Ombudsman to review --[IS_GRANTED_BY]-> Ombudsman 0.775979220867157
+[decision to withhold information]: right to ask the Ombudsman to review --[EXERCISED_BY]-> requester 0.7856799960136414

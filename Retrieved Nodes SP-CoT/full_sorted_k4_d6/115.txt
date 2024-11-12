@@ -1,0 +1,32 @@
+Which country did the airline that initially operated trans-Tasman flights to in 1940 connect to for tourism and business travel, alongside major cities in New Zealand and Asia, alongside the urban area in New Zealand that has experienced significant investment in public transport infrastructure alongside Auckland and Wellington?
+None
+Seed: Local economy and tourism industry
+Seed: Trans-tasman flights between new zealand and australia
+Seed: Domestic flights to major cities across new zealand
+Seed: Both passenger and freight transport across the cook strait
+[Local economy and tourism industry]: Teal --[Initially operating]-> Trans-tasman flights between new zealand and australia 0.875971794128418
+[Local economy and tourism industry]: Air new zealand --[Operates]-> Numerous routes connecting major cities and regional centers 0.8753840923309326
+[Local economy and tourism industry]: Air new zealand --[Established in]-> 1940 0.8750410079956055
+[Local economy and tourism industry]: New zealand --[Has]-> Significant air and maritime transport services 0.874492883682251
+[Local economy and tourism industry]: Air new zealand --[Plays crucial role in]-> Connecting new zealand's remote regions with major urban centers 0.8676568269729614
+[Local economy and tourism industry]: New zealand --[Has]-> Transport infrastructure investment 0.8669734001159668
+[Local economy and tourism industry]: New zealand --[Has]-> Air transport 0.8665022253990173
+[Trans-tasman flights between new zealand and australia]: Teal --[Initially operating]-> Trans-tasman flights between new zealand and australia 0.875971794128418
+[Trans-tasman flights between new zealand and australia]: Air new zealand --[Operates]-> Numerous routes connecting major cities and regional centers 0.8753840923309326
+[Trans-tasman flights between new zealand and australia]: Air new zealand --[Established in]-> 1940 0.8750410079956055
+[Trans-tasman flights between new zealand and australia]: New zealand --[Has]-> Significant air and maritime transport services 0.874492883682251
+[Trans-tasman flights between new zealand and australia]: Air new zealand --[Plays crucial role in]-> Connecting new zealand's remote regions with major urban centers 0.8676568269729614
+[Trans-tasman flights between new zealand and australia]: New zealand --[Has]-> Transport infrastructure investment 0.8669734001159668
+[Trans-tasman flights between new zealand and australia]: New zealand --[Has]-> Air transport 0.8665022253990173
+[Domestic flights to major cities across new zealand]: Wellington international airport --[Provides]-> Domestic flights to major cities across new zealand 0.8632847666740417
+[Domestic flights to major cities across new zealand]: Wellington international airport --[Provides]-> International flights to australia and the south pacific 0.8583430051803589
+[Domestic flights to major cities across new zealand]: Wellington international airport --[Known for]-> Unique location 0.8400535583496094
+[Domestic flights to major cities across new zealand]: Wellington international airport --[Is]-> Primary airport serving the city 0.8377350568771362
+[Domestic flights to major cities across new zealand]: Wellington international airport --[Situated on]-> Narrow strip of land between the hills and the sea 0.8257229924201965
+[Domestic flights to major cities across new zealand]: Wellington international airport --[Located]-> Just 8 kilometers from the central business district 0.8253804445266724
+[Domestic flights to major cities across new zealand]: Wellington international airport --[Presents challenges for]-> Both takeoff and landing 0.8080945014953613
+[Both passenger and freight transport across the cook strait]: Port of wellington --[Facilitates]-> Both passenger and freight transport across the cook strait 0.8303159475326538
+[Both passenger and freight transport across the cook strait]: Port of wellington --[Connects]-> Wellington to the south island 0.8179738521575928
+[Both passenger and freight transport across the cook strait]: Port of wellington --[Is]-> One of the busiest ports in new zealand 0.813212513923645
+[Both passenger and freight transport across the cook strait]: Port of wellington --[Serves as]-> Departure point for ferries 0.8077861070632935
+[Both passenger and freight transport across the cook strait]: Port of wellington --[Handles]-> Variety of cargo 0.8069910407066345

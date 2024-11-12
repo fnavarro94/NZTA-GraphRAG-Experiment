@@ -1,0 +1,36 @@
+What passenger service, operated by the organization in New Zealand that operates the majority of the country's rail services and has launched campaigns to promote rail safety, offers long-distance travel across New Zealand?
+None
+Seed: Majority of rail services
+Seed: Passenger rail services
+Seed: Extensive network of passenger and freight services
+Seed: Majority of passenger and freight movement
+[Majority of rail services]: Kiwirail group --[Operates]-> Majority of rail services 0.8652268648147583
+[Majority of rail services]: Kiwirail group --[Is]-> State-owned enterprise 0.8313294649124146
+[Majority of rail services]: Kiwirail --[Is]-> State-owned enterprise 0.8317819833755493
+[Majority of rail services]: Kiwirail --[Operates]-> Great journeys of new zealand 0.8653146624565125
+[Majority of rail services]: Kiwirail --[Operates]-> Freight route 0.8277127146720886
+[Majority of rail services]: Kiwirail --[Transports]-> Manufactured items 0.8104312419891357
+[Majority of rail services]: Kiwirail --[Operates]-> Northern explorer 0.8216391801834106
+[Majority of rail services]: North island main trunk line --[Operated by]-> Kiwirail 0.8060855269432068
+[Majority of rail services]: Tranzalpine --[Operated by]-> Kiwirail 0.8047893643379211
+[Majority of rail services]: Kiwirail --[Operates]-> Rail network 0.8288987874984741
+[Majority of rail services]: Kiwirail --[Manages]-> Both freight and passenger services 0.8548890352249146
+[Majority of rail services]: Kiwirail --[Involved in]-> Development 0.8155640363693237
+[Majority of rail services]: Kiwirail --[Contributes to]-> Lower carbon emissions 0.7978917360305786
+[Majority of rail services]: Kiwirail --[Collaborates with]-> Maritime services 0.8329499959945679
+[Majority of rail services]: Kiwirail --[Collaborates with]-> Road transport 0.8244090676307678
+[Majority of rail services]: Kiwirail --[Emerged from]-> New zealand railways corporation 0.8266705870628357
+[Majority of rail services]: Kiwirail --[Reduces]-> Road congestion 0.797080397605896
+[Majority of rail services]: Kiwirail --[Supports]-> Improving connectivity 0.7951410412788391
+[Majority of rail services]: Kiwirail --[Facilitates]-> Movement of people 0.8379995226860046
+[Majority of rail services]: Kiwirail --[Supports]-> Fostering economic growth 0.8167182803153992
+[Majority of rail services]: Kiwirail --[Provides]-> Passenger services 0.868719220161438
+[Majority of rail services]: Kiwirail --[Involved in]-> Maintenance 0.8053328990936279
+[Majority of rail services]: Kiwirail --[Facilitates]-> Movement of goods 0.8308956623077393
+[Majority of rail services]: Kiwirail --[Operates]-> Rail services 0.8598484992980957
+[Majority of rail services]: Kiwirail --[Established in]-> 2008 0.8336857557296753
+[Majority of rail services]: Kiwirail --[Transports]-> Coal 0.8092105388641357
+[Majority of rail services]: Kiwirail --[Transports]-> Agricultural products 0.8120296597480774
+[Majority of rail services]: Kiwirail --[Supports]-> Reducing environmental impact 0.8194698095321655
+[Majority of rail services]: Kiwirail --[Plays]-> Crucial role 0.833184003829956
+[Majority of rail services]: Kiwirail --[Supports]-> Government's goals 0.8103135824203491

@@ -1,0 +1,30 @@
+What transport route was NZTA planning from Auckland CBD to West Auckland?
+None
+Seed: work done on a light rail route from the Auckland CBD to West Auckland
+Seed: Rapid Transit in Auckland
+Seed: Regional Land Transport Plan
+Seed: Regional Public Transport Plans
+[work done on a light rail route from the Auckland CBD to West Auckland]: New Zealand Transport Agency --[PROVIDES]-> work done on a light rail route from the Auckland CBD to West Auckland 0.8849544525146484
+[work done on a light rail route from the Auckland CBD to West Auckland]: New Zealand Transport Agency --[BASED_IN]-> Auckland 0.8805112838745117
+[work done on a light rail route from the Auckland CBD to West Auckland]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.8737033009529114
+[work done on a light rail route from the Auckland CBD to West Auckland]: Auckland --[HOME_OF]-> New Zealand Transport Agency 0.869193971157074
+[work done on a light rail route from the Auckland CBD to West Auckland]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Auckland 0.868229866027832
+[work done on a light rail route from the Auckland CBD to West Auckland]: New Zealand Transport Agency --[LOCATED]-> New Zealand 0.8652963638305664
+[work done on a light rail route from the Auckland CBD to West Auckland]: Auckland --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8610790371894836
+[Rapid Transit in Auckland]: Rapid Transit in Auckland --[ATTACHED_TO]-> Attachment 1 0.8493787050247192
+[Rapid Transit in Auckland]: Attachment 1 --[CONTAINS]-> information 0.7146521210670471
+[Rapid Transit in Auckland]: Attachment 1 --[CONTAINS]-> redacted information 0.7130441665649414
+[Regional Land Transport Plan]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Access and Development Programme Business Case 0.8275936245918274
+[Regional Land Transport Plan]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.82469642162323
+[Regional Land Transport Plan]: 2024-27 National Land Transport Programme --[DEVELOPMENT_OF]-> Regional Land Transport Plan 0.8012580871582031
+[Regional Land Transport Plan]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.7911543250083923
+[Regional Land Transport Plan]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Access and Development Programme Business Case 0.7900114059448242
+[Regional Land Transport Plan]: Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.7846572995185852
+[Regional Land Transport Plan]: Main South Road, Shands Road and Carmen Road intersection --[LOCATED_NEAR]-> Hornby Access and Development Programme Business Case 0.7794438600540161
+[Regional Public Transport Plans]: Waka Kotahi --[COLLABORATES_WITH]-> Auckland Transport 0.8550233244895935
+[Regional Public Transport Plans]: Regional Public Transport Plans --[DEVELOPED_BY]-> Waka Kotahi 0.8436858654022217
+[Regional Public Transport Plans]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.8398873805999756
+[Regional Public Transport Plans]: New Zealand Transport Agency --[IS]-> Waka Kotahi 0.8398697972297668
+[Regional Public Transport Plans]: New Zealand Transport Agency --[DISCUSS]-> Waka Kotahi 0.8347901105880737
+[Regional Public Transport Plans]: New Zealand Transport Agency --[ASSOCIATED]-> Waka Kotahi 0.8327727913856506
+[Regional Public Transport Plans]: Waka Kotahi --[DISCUSS]-> New Zealand Transport Agency 0.8295717239379883

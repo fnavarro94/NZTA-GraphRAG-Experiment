@@ -1,0 +1,36 @@
+How is Waka Kotahi addressing the delays in the Transmission Gully project due to COVID-19?
+None
+Seed: Waka Kotahi N Z Transport Agency
+Seed: NZ Transport Agency Waka Kotahi
+Seed: Waka Kotahi NZ Transport Agency
+Seed: Waka Kotahi Senior Project Manager
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINS]-> Waka Kotahi N Z Transport Agency 0.8150491714477539
+[Waka Kotahi N Z Transport Agency]: Deceased Drivers --[ASSOCIATED_WITH]-> Crash Analysis System 0.7403446435928345
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[ASSOCIATED_WITH]-> Deceased Drivers 0.7357253432273865
+[Waka Kotahi N Z Transport Agency]: Deceased Drivers --[ASSOCIATED_WITH]-> Fatal Crashes 0.739319920539856
+[Waka Kotahi N Z Transport Agency]: Fatal Crashes --[ASSOCIATED_WITH]-> Deceased Drivers 0.7378454208374023
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[UPDATED]-> Traffic Crash Report 0.7630775570869446
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[PROVIDES]-> Traffic Crash Report 0.7409669160842896
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[ASSOCIATED_WITH]-> Traffic Crash Report 0.7378228306770325
+[Waka Kotahi N Z Transport Agency]: Traffic Crash Report --[ASSOCIATED_WITH]-> Crash Analysis System 0.7447254657745361
+[Waka Kotahi N Z Transport Agency]: Traffic Crash Report --[PROVIDED_BY]-> NZ Police 0.7729814648628235
+[Waka Kotahi N Z Transport Agency]: Traffic Crash Report --[RECEIVED]-> NZ Police 0.7573089599609375
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[UPDATES]-> Traffic Crash Report 0.7522379755973816
+[Waka Kotahi N Z Transport Agency]: CAS --[IS_UPDATING]-> Traffic Crash Report 0.7635449767112732
+[Waka Kotahi N Z Transport Agency]: Traffic Crash Report --[CONTAINS]-> Crash Data 0.7569561004638672
+[Waka Kotahi N Z Transport Agency]: Traffic Crash Report --[PROVIDED_BY]-> New Zealand Police 0.7719407081604004
+[Waka Kotahi N Z Transport Agency]: Traffic Crash Report --[RECORDED_IN]-> Crash Analysis System 0.7404187321662903
+[Waka Kotahi N Z Transport Agency]: New Zealand Police --[SUBMITS]-> Traffic Crash Report 0.761925995349884
+[Waka Kotahi N Z Transport Agency]: Traffic Crash Report --[RECEIVED_FROM]-> NZ Police 0.7720097303390503
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[CONTAINS]-> Traffic Crash Report 0.7440997362136841
+[Waka Kotahi N Z Transport Agency]: Traffic Crash Report --[RECORDS]-> Crash Data 0.7562247514724731
+[Waka Kotahi N Z Transport Agency]: NZ Police --[PROVIDES]-> Traffic Crash Report 0.7625807523727417
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[PROVIDES]-> Data 0.735752284526825
+[Waka Kotahi N Z Transport Agency]: Data --[LIMITED_TO]-> Fatal Crashes 0.7370460033416748
+[Waka Kotahi N Z Transport Agency]: Data --[IS]-> Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence 0.7458889484405518
+[Waka Kotahi N Z Transport Agency]: Data --[IS]-> Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019 0.7765187621116638
+[Waka Kotahi N Z Transport Agency]: Data --[IS]-> Standard condition of drivers under 20 subject to zero alcohol level are not included 0.752099871635437
+[Waka Kotahi N Z Transport Agency]: Driver Licence Register --[PROVIDES]-> Data 0.7247070074081421
+[Waka Kotahi N Z Transport Agency]: Data --[IS]-> Current at 18 September 2019 0.7979520559310913
+[Waka Kotahi N Z Transport Agency]: Cyclists --[EXCLUDED]-> Data 0.7365149259567261
+[Waka Kotahi N Z Transport Agency]: Tractor drivers --[EXCLUDED]-> Data 0.7353452444076538

@@ -1,0 +1,36 @@
+Which city is linked to the urban area in New Zealand that has experienced significant investment in public transport infrastructure, alongside the largest city in New Zealand connected by the major railway line being upgraded to enhance its capacity and efficiency for sustainable transport, by State Highway 1 to the north?
+None
+Seed: Significant investment in public transport infrastructure
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+Seed: Addressing transport challenges in auckland
+Seed: Increased demand for effective transportation systems
+[Significant investment in public transport infrastructure]: Urban areas --[Have]-> Significant investment in public transport infrastructure 0.8526291251182556
+[Significant investment in public transport infrastructure]: Electric scooters --[Used in]-> Urban areas 0.7420487403869629
+[Significant investment in public transport infrastructure]: Electric scooters --[Classified under]-> Land transport act 0.7401003241539001
+[Significant investment in public transport infrastructure]: Electric scooters --[Offer]-> Convenient and eco-friendly alternative to traditional vehicles 0.714809775352478
+[Significant investment in public transport infrastructure]: Electric scooters --[Align with]-> Promoting sustainable transport solutions 0.7557510137557983
+[Significant investment in public transport infrastructure]: Electric scooters --[Used on]-> Cycle lanes 0.7248409390449524
+[Significant investment in public transport infrastructure]: Electric scooters --[Classified as]-> Mobility devices 0.7061992287635803
+[Significant investment in public transport infrastructure]: Electric scooters --[Used on]-> Roads 0.7439083456993103
+[Significant investment in public transport infrastructure]: Electric scooters --[Used on]-> Footpaths 0.7308473587036133
+[Significant investment in public transport infrastructure]: Electric scooters --[Popular in]-> New zealand 0.7780860662460327
+[Significant investment in public transport infrastructure]: Electric scooters --[Adhere to]-> Specific regulations 0.7194560766220093
+[Significant investment in public transport infrastructure]: Electric scooters --[Align with]-> Commitment to reducing carbon emissions 0.7230228185653687
+[Significant investment in public transport infrastructure]: Urban areas --[Use]-> Public transport systems 0.8152412176132202
+[Significant investment in public transport infrastructure]: Wellington cycle network --[Integrates with]-> Public transport systems 0.8303756713867188
+[Significant investment in public transport infrastructure]: Waka kotahi --[Manages]-> Public transport systems 0.7782201766967773
+[Significant investment in public transport infrastructure]: Waka kotahi --[Plays crucial role in]-> Public transport systems 0.7953558564186096
+[Significant investment in public transport infrastructure]: Public transport systems --[Include]-> Buses and trains 0.7991741299629211
+[Significant investment in public transport infrastructure]: Public transport systems --[Led to]-> Decline in rail services and shift towards road-based transport 0.7940651774406433
+[Significant investment in public transport infrastructure]: Public transport systems --[Evolved]-> Since the late 19th century 0.7961921691894531
+[Significant investment in public transport infrastructure]: Public transport systems --[Prompted]-> Renewed focus on public transport in recent decades 0.7994059920310974
+[Significant investment in public transport infrastructure]: Public transport systems --[Introduced]-> Motor vehicles in the 20th century 0.7587647438049316
+[Significant investment in public transport infrastructure]: Vehicle maintenance standards --[Apply to]-> Public transport systems 0.7652370929718018
+[Significant investment in public transport infrastructure]: New zealand --[Has]-> Urban areas 0.8520750999450684
+[Significant investment in public transport infrastructure]: New zealand --[Has]-> Transport projects 0.8774698972702026
+[Significant investment in public transport infrastructure]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.8407741785049438
+[Significant investment in public transport infrastructure]: New zealand --[Has]-> Diverse transport network 0.8643010258674622
+[Significant investment in public transport infrastructure]: New zealand --[Has]-> Post-incident review 0.7674332857131958
+[Significant investment in public transport infrastructure]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.8183525204658508
+[Significant investment in public transport infrastructure]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.8261879682540894
+[Significant investment in public transport infrastructure]: New zealand --[Has]-> Broader environmental policies 0.8111913204193115

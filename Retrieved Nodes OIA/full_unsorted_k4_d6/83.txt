@@ -1,0 +1,36 @@
+How many driver licenses have been granted annually over the last ten years?
+None
+Seed: driver licenses
+Seed: Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019
+Seed: information related to criminal convictions of driving instructor (I) endorsement holders
+Seed: information on vehicle and driver registration and licensing
+[driver licenses]: driver licenses --[CONTAINS]-> annual data 0.874234139919281
+[driver licenses]: annual data --[BREAKDOWN]-> age categories 0.7751296162605286
+[driver licenses]: age categories --[BREAKDOWN]-> learners, restricted, full licenses and vehicle classes 0.8205157518386841
+[driver licenses]: learners, restricted, full licenses and vehicle classes --[TREND]-> increase/decrease 0.8389438986778259
+[driver licenses]: increase/decrease --[AWARE_OF]-> NZTA 0.725490927696228
+[driver licenses]: NZTA --[SETS]-> quality standards 0.7216622829437256
+[driver licenses]: NZTA --[PROVIDES]-> maintenance specifications 0.7347387075424194
+[driver licenses]: pothole repair specifications --[FROM]-> NZTA 0.7309748530387878
+[driver licenses]: NZTA --[PROVIDES]-> third-party web pages 0.7343789339065552
+[driver licenses]: quarterly reports --[AUDITED]-> NZTA 0.7504143714904785
+[driver licenses]: transport_data --[ASSOCIATED_WITH]-> NZTA 0.7321147322654724
+[driver licenses]: NZTA --[ASSOCIATED_WITH]-> nzta_dev 0.7073147296905518
+[driver licenses]: temp files --[ASSOCIATED_WITH]-> NZTA 0.7105432748794556
+[driver licenses]: Auckland --[ASSOCIATED_WITH]-> NZTA 0.7254124283790588
+[driver licenses]: temp_files --[ASSOCIATED_WITH]-> NZTA 0.7110605239868164
+[driver licenses]: NZTA --[ASSOCIATED_WITH]-> sample_files 0.7142753005027771
+[driver licenses]: sample_files --[ASSOCIATED_WITH]-> NZTA 0.7166091203689575
+[driver licenses]: NZTA --[ASSOCIATED_WITH]-> Andrew McFarlane 0.7307222485542297
+[driver licenses]: NZTA --[ASSOCIATED_WITH]-> temp files 0.7084752321243286
+[driver licenses]: oia-4903 --[ASSOCIATED_WITH]-> NZTA 0.7358304262161255
+[driver licenses]: NZTA --[ASSOCIATED_WITH]-> temp_files 0.7101903557777405
+[driver licenses]: nzta_dev --[ASSOCIATED_WITH]-> NZTA 0.7021196484565735
+[driver licenses]: NZTA --[ASSOCIATED_WITH]-> Auckland 0.7222358584403992
+[driver licenses]: NZTA --[ASSOCIATED_WITH]-> oia-4903 0.7342172861099243
+[driver licenses]: Andrew McFarlane --[ASSOCIATED_WITH]-> NZTA 0.7253838181495667
+[driver licenses]: NZTA --[CONSIDER]-> public interest 0.7413661479949951
+[driver licenses]: NZTA --[PUBLISHES]-> response on website 0.7366843223571777
+[driver licenses]: NZTA --[WITHHOLD]-> information 0.7132768630981445
+[driver licenses]: NZTA --[POLICY]-> publish response on website 0.732787549495697
+[driver licenses]: NZTA --[PUBLISH]-> response on website 0.71718430519104

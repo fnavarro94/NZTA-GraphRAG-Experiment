@@ -1,0 +1,36 @@
+Which line does the major transport infrastructure project in New Zealand, which aims to improve rail connectivity and reduce congestion in Auckland, connect to at Britomart Station?
+None
+Seed: Addressing transport challenges in auckland
+Seed: Transport link between wellington and northern regions of north island
+Seed: Significant infrastructure project
+Seed: Improved public transport links
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Addressing transport challenges in auckland 0.8585911393165588
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On enhancing road infrastructure 0.8682559728622437
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Outlines]-> Strategic approach to address challenges 0.8508108854293823
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On improving public transport 0.859208345413208
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On promoting sustainable transport solutions 0.8466553688049316
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Promote sustainable transport options 0.8442775011062622
+[Addressing transport challenges in auckland]: Walking school bus --[Aligns with]-> Promote sustainable transport options 0.7538031339645386
+[Addressing transport challenges in auckland]: Walking school bus --[Originated in]-> New zealand 0.7818113565444946
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Transport projects 0.8625600934028625
+[Addressing transport challenges in auckland]: New zealand transport agency --[Oversees]-> Transport projects 0.8212763071060181
+[Addressing transport challenges in auckland]: Auckland --[Has]-> Transport projects 0.8773301839828491
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.8089777231216431
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Diverse transport network 0.8429127931594849
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Post-incident review 0.752089262008667
+[Addressing transport challenges in auckland]: Post-incident review --[Crucial for]-> Improving operational efficiency 0.7217546701431274
+[Addressing transport challenges in auckland]: Post-incident review --[Crucial for]-> Fostering culture of continuous improvement 0.7088748216629028
+[Addressing transport challenges in auckland]: Post-incident review --[Aimed at]-> Recommending measures 0.7055873870849609
+[Addressing transport challenges in auckland]: Post-incident review --[Crucial for]-> Enhancing safety 0.7061718702316284
+[Addressing transport challenges in auckland]: Post-incident review --[Is]-> Systematic process 0.6949209570884705
+[Addressing transport challenges in auckland]: Post-incident review --[Conducted]-> Following an incident 0.6950843334197998
+[Addressing transport challenges in auckland]: Post-incident review --[Aimed at]-> Analyzing circumstances 0.6951265335083008
+[Addressing transport challenges in auckland]: Post-incident review --[Aimed at]-> Identifying contributing factors 0.7057854533195496
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.797355055809021
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.8164011836051941
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Broader environmental policies 0.768415629863739
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Traffic congestion 0.8229919672012329
+[Addressing transport challenges in auckland]: Auckland --[Faces challenges]-> Traffic congestion 0.8380135893821716
+[Addressing transport challenges in auckland]: Wellington public transport plan --[Initiated in response to]-> Traffic congestion 0.8336139917373657
+[Addressing transport challenges in auckland]: Auckland --[Has]-> Traffic congestion 0.8363178968429565
+[Addressing transport challenges in auckland]: Wellington --[Has]-> Traffic congestion 0.8234578371047974

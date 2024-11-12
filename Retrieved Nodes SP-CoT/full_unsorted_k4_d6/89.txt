@@ -1,0 +1,36 @@
+Which city is linked to the urban area in New Zealand that has experienced significant investment in public transport infrastructure, alongside the largest city in New Zealand connected by the major railway line being upgraded to enhance its capacity and efficiency for sustainable transport, by State Highway 1 to the north?
+None
+Seed: Significant investment in public transport infrastructure
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+Seed: Addressing transport challenges in auckland
+Seed: Increased demand for effective transportation systems
+[Significant investment in public transport infrastructure]: Urban areas --[Have]-> Significant investment in public transport infrastructure 0.8526291251182556
+[Significant investment in public transport infrastructure]: Electric scooters --[Used in]-> Urban areas 0.7420487403869629
+[Significant investment in public transport infrastructure]: Electric scooters --[Classified under]-> Land transport act 0.7401003241539001
+[Significant investment in public transport infrastructure]: Land transport act --[Provides]-> Framework for implementing road safety campaigns and initiatives 0.7588744759559631
+[Significant investment in public transport infrastructure]: Land transport act --[Sets]-> Safety and emissions standards 0.7454503178596497
+[Significant investment in public transport infrastructure]: Land transport act --[Reflects]-> New zealand's commitment to sustainable development 0.8272736072540283
+[Significant investment in public transport infrastructure]: Land transport act --[Mandates]-> Registration of all motor vehicles 0.7300245761871338
+[Significant investment in public transport infrastructure]: Land transport act --[Aims to create]-> Comprehensive framework for safe and efficient movement of people and goods 0.7835224270820618
+[Significant investment in public transport infrastructure]: Land transport act --[Includes]-> Structured licensing system 0.756889820098877
+[Significant investment in public transport infrastructure]: Land transport act --[Is]-> Key piece of legislation 0.7803719639778137
+[Significant investment in public transport infrastructure]: Health and safety at work act 2015 --[Is]-> Key piece of legislation 0.7247271537780762
+[Significant investment in public transport infrastructure]: Health and safety at work act 2015 --[Emphasizes]-> Importance of proactive risk management 0.7271840572357178
+[Significant investment in public transport infrastructure]: Health and safety at work act 2015 --[Introduced]-> Robust approach to workplace safety 0.7104461193084717
+[Significant investment in public transport infrastructure]: Health and safety at work act 2015 --[Applies to]-> Road transport 0.7693572640419006
+[Significant investment in public transport infrastructure]: Health and safety at work act 2015 --[Emphasizes]-> Importance of risk management 0.7216864824295044
+[Significant investment in public transport infrastructure]: Health and safety at work act 2015 --[Applies to]-> Maritime 0.7197890281677246
+[Significant investment in public transport infrastructure]: Health and safety at work act 2015 --[Emphasizes]-> Worker participation 0.707923173904419
+[Significant investment in public transport infrastructure]: Health and safety at work act 2015 --[Applies to]-> Aviation 0.7106242179870605
+[Significant investment in public transport infrastructure]: Health and safety at work act 2015 --[Replaced]-> Health and safety in employment act 1992 0.701187252998352
+[Significant investment in public transport infrastructure]: Health and safety at work act 2015 --[Applies to]-> Rail 0.7538456320762634
+[Significant investment in public transport infrastructure]: Health and safety at work act 2015 --[Introduced]-> Robust approach to workplace health and safety 0.7123253345489502
+[Significant investment in public transport infrastructure]: Rail transport safety --[Governed by]-> Health and safety at work act 2015 0.7667526006698608
+[Significant investment in public transport infrastructure]: Land transport management act 2003 --[Is]-> Key piece of legislation 0.7833552956581116
+[Significant investment in public transport infrastructure]: Land transport management act 2003 --[Aims to]-> Provide framework for sustainable development 0.7826539874076843
+[Significant investment in public transport infrastructure]: Land transport management act 2003 --[Provides for]-> Establishment of national land transport fund 0.7735336422920227
+[Significant investment in public transport infrastructure]: Land transport management act 2003 --[Enacted on]-> 1 july 2004 0.7748305201530457
+[Significant investment in public transport infrastructure]: Land transport management act 2003 --[Has been updated]-> To incorporate principles of sustainability 0.772333025932312
+[Significant investment in public transport infrastructure]: Land transport management act 2003 --[Has undergone]-> Several amendments to address emerging transport challenges 0.7866072654724121
+[Significant investment in public transport infrastructure]: Land transport management act 2003 --[Mandates]-> Involvement of various stakeholders in planning and decision-making processes 0.7408570051193237
+[Significant investment in public transport infrastructure]: Land transport management act 2003 --[Establishes]-> Framework for development of regional land transport plans 0.7843431234359741

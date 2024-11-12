@@ -1,0 +1,22 @@
+How does Waka Kotahi gather data on fatal crashes?
+None
+Seed: figures on drivers involved in fatal crashes
+Seed: drivers involved in fatal crashes
+Seed: information on driver fatalities
+Seed: https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf
+[figures on drivers involved in fatal crashes]: AA --[PROVIDES]-> figures on drivers involved in fatal crashes 0.8548164367675781
+[drivers involved in fatal crashes]: Waka Kotahi --[RECEIVES]-> crash reports 0.9271869659423828
+[drivers involved in fatal crashes]: Waka Kotahi --[INVESTIGATES]-> NFA outcomes 0.8903361558914185
+[drivers involved in fatal crashes]: Waka Kotahi --[PROVIDES]-> Transport Data 0.889573872089386
+[drivers involved in fatal crashes]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.8886191844940186
+[drivers involved in fatal crashes]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.8877476453781128
+[drivers involved in fatal crashes]: Waka Kotahi --[PROVIDES]-> publicly available information 0.8874316811561584
+[drivers involved in fatal crashes]: tests --[CONDUCTED]-> Waka Kotahi 0.8865548968315125
+[information on driver fatalities]: Emma Conyngham --[REQUESTS]-> information on driver fatalities 0.8434301614761353
+[https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf]: Waka Kotahi --[RECEIVES]-> crash reports 0.9271869659423828
+[https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf]: Waka Kotahi --[INVESTIGATES]-> NFA outcomes 0.8903361558914185
+[https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf]: Waka Kotahi --[PROVIDES]-> Transport Data 0.889573872089386
+[https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.8886191844940186
+[https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.8877476453781128
+[https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf]: Waka Kotahi --[PROVIDES]-> publicly available information 0.8874316811561584
+[https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf]: tests --[CONDUCTED]-> Waka Kotahi 0.8865548968315125

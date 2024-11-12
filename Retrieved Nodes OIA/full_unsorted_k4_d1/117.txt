@@ -1,0 +1,12 @@
+What are the key benefits of the National Ticketing System (NTS) for public transport users?
+None
+Seed: fares play an important role in helping cover the cost of public transport within available budgets
+Seed: wider impacts of fare policy on people and cities
+Seed: National Ticketing System
+Seed: review of public transport fare policy
+[fares play an important role in helping cover the cost of public transport within available budgets]: government's transport priorities --[INCLUDES]-> fares play an important role in helping cover the cost of public transport within available budgets 0.8508740663528442
+[fares play an important role in helping cover the cost of public transport within available budgets]: fares play an important role in helping cover the cost of public transport within available budgets --[CONTRIBUTES]-> public transport budgets 0.8574234843254089
+[wider impacts of fare policy on people and cities]: wider impacts of fare policy on people and cities --[INCLUCES]-> national farebox recovery target 0.8550865054130554
+[wider impacts of fare policy on people and cities]: public transport affordability --[RELATES_TO]-> wider impacts of fare policy on people and cities 0.8467555642127991
+[National Ticketing System]: Request for National Ticketing System Documentation --[REQUESTS]-> National Ticketing System 0.8581976890563965
+[review of public transport fare policy]: New Zealand Transport Agency --[UNDERTAKES]-> review of public transport fare policy 0.8185232281684875

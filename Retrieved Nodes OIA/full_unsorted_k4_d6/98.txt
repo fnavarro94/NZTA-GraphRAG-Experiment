@@ -1,0 +1,36 @@
+What information did NZTA provide about converting the shoulder of Auckland Motorway into bus lanes?
+None
+Seed: reports on converting the shoulder of Auckland Motorway into Bus Lanes
+Seed: Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf
+Seed: Commercial Buses
+Seed: Expressway
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Zachary Wong --[REQUESTED]-> reports on converting the shoulder of Auckland Motorway into Bus Lanes 0.9098303318023682
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Zachary Wong --[EMAIL]-> fyi-request-9242-f4aad453@requests.fyi.org.nz 0.7588059902191162
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: reports on converting the shoulder of Auckland Motorway into Bus Lanes --[PROVIDED]-> Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf 0.921581506729126
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf --[APPENDIX]-> Appendices A to E 0.9052956104278564
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf --[APPENDIX]-> Appendices A to E 0.9052956104278564
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: reports on converting the shoulder of Auckland Motorway into Bus Lanes --[PROVIDED]-> Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf 0.921581506729126
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: Zachary Wong --[REQUESTED]-> reports on converting the shoulder of Auckland Motorway into Bus Lanes 0.9098303318023682
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: Zachary Wong --[EMAIL]-> fyi-request-9242-f4aad453@requests.fyi.org.nz 0.7588059902191162
+[Commercial Buses]: New Zealand --[REGULATES]-> Commercial Buses 0.8423852920532227
+[Commercial Buses]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.8452470898628235
+[Commercial Buses]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8411620855331421
+[Commercial Buses]: New Zealand Transport Agency --[BASED]-> Wellington 0.851843535900116
+[Commercial Buses]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8446504473686218
+[Commercial Buses]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.8396173715591431
+[Commercial Buses]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7922936081886292
+[Commercial Buses]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.7792905569076538
+[Commercial Buses]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.783396303653717
+[Commercial Buses]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.8335749506950378
+[Commercial Buses]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.8428365588188171
+[Commercial Buses]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.810421347618103
+[Commercial Buses]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.798499584197998
+[Commercial Buses]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7807270884513855
+[Commercial Buses]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7427884340286255
+[Commercial Buses]: Wellington --[CONTAINS]-> Private Bag 6995 0.7911328077316284
+[Commercial Buses]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8447604179382324
+[Commercial Buses]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8384479284286499
+[Commercial Buses]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.8250265121459961
+[Commercial Buses]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.817249596118927
+[Commercial Buses]: 50 Victoria Street --[IN]-> Wellington 0.7693462371826172
+[Commercial Buses]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.8283956050872803

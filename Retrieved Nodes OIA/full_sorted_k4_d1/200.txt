@@ -1,0 +1,14 @@
+What was the Board's instruction regarding the number of direct reports for the Chief Executive in 2018?
+None
+Seed: Chief Financial Officer
+Seed: Chief Executive
+Seed: Annual Reports
+Seed: Annual Monitoring Report 2020
+[Chief Financial Officer]: Chief Financial Officer --[HELD_BY]-> Howard Cattermole 0.8007078170776367
+[Chief Executive]: Kate Styles --[FOR]-> Chief Executive 0.8075463175773621
+[Chief Executive]: Chief Executive --[EMPLOYER]-> New Zealand Transport Agency 0.7991557121276855
+[Annual Reports]: Annual Reports --[CONTAINS]-> paid toll revenues 0.8028664588928223
+[Annual Reports]: paid toll revenues --[AVAILABLE_IN]-> Annual Reports 0.7976253628730774
+[Annual Reports]: Waka Kotahi --[PUBLISHES]-> Annual Reports 0.7950664162635803
+[Annual Monitoring Report 2020]: Road to Zero --[PUBLICATION]-> Annual Monitoring Report 2020 0.797256588935852
+[Annual Monitoring Report 2020]: Road to Zero --[EFFECTIVENESS]-> Annual Monitoring Report 2020 0.7922590970993042

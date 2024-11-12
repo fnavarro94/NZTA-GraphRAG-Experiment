@@ -1,0 +1,36 @@
+Who manages the State Highway network in the country known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns?
+None
+Seed: Significant role in planning and management of transport infrastructure and services
+Seed: Socio-economic indicators
+Seed: Demand for efficient transportation systems
+Seed: Critical aspect of transportation planning
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Plays]-> Significant role in planning and management of transport infrastructure and services 0.8423475027084351
+[Significant role in planning and management of transport infrastructure and services]: Teia --[Governed by]-> Resource management act 1991 0.7881237268447876
+[Significant role in planning and management of transport infrastructure and services]: Teia --[Evaluates]-> Potential effects of transport projects 0.7963464260101318
+[Significant role in planning and management of transport infrastructure and services]: Teia --[Includes]-> Economic factors 0.746375322341919
+[Significant role in planning and management of transport infrastructure and services]: Teia --[Includes]-> Ecological factors 0.736382007598877
+[Significant role in planning and management of transport infrastructure and services]: Teia --[Used in]-> New zealand 0.7287013530731201
+[Significant role in planning and management of transport infrastructure and services]: Teia --[Includes]-> Cultural factors 0.7277604341506958
+[Significant role in planning and management of transport infrastructure and services]: Teia --[Includes]-> Social factors 0.7446610927581787
+[Significant role in planning and management of transport infrastructure and services]: Teia --[Supports]-> Reducing carbon emissions 0.7415313720703125
+[Significant role in planning and management of transport infrastructure and services]: Teia --[Is]-> Critical framework 0.7512092590332031
+[Significant role in planning and management of transport infrastructure and services]: Teia --[Promotes]-> Sustainable development 0.7464683651924133
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Subject to]-> Criticism for complexity 0.7782211303710938
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Has]-> Challenges balancing development with environmental protection 0.7691795229911804
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Praised for]-> Promoting integrated approach to transport planning 0.8126389980316162
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Requires]-> Thorough assessment processes 0.7731310129165649
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Recognizes]-> Transport as critical component 0.8261200189590454
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Led to]-> Discussions about potential amendments 0.7617229223251343
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Facilitates]-> Public participation in planning process 0.7671350240707397
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Plays]-> Significant role in shaping transport infrastructure 0.8373398184776306
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Enacted to]-> Promote sustainable development 0.7751240730285645
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Enacted]-> Promote sustainable development 0.771791398525238
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Subject]-> Debate regarding effectiveness in addressing challenges of modern transport needs 0.830618679523468
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Cornerstone]-> New zealand's approach to managing transport 0.8220652937889099
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Requires]-> Local authorities to consider effects of transport activities on environment 0.805712103843689
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Recognizes]-> Transport as critical component of nation's infrastructure 0.8328390717506409
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Provides]-> Framework for assessment of resource consents 0.7633007764816284
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Encourages]-> Public participation in decision-making process 0.7551567554473877
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Aims]-> Balance need for efficient transport systems with preservation of new zealand's unique landscapes and ecosystems 0.8085352182388306
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Is]-> Key piece of legislation 0.7848939895629883
+[Significant role in planning and management of transport infrastructure and services]: Health and safety at work act 2015 --[Is]-> Key piece of legislation 0.7498594522476196

@@ -1,0 +1,29 @@
+Why did Waka Kotahi withhold documents related to the Transmission Gully settlement?
+None
+Seed: Waka Kotahi NZ Transport Agency
+Seed: Waka Kotahi N Z Transport Agency
+Seed: Waka Kotahi
+Seed: NZ Transport Agency Waka Kotahi
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[DOES_NOT_HOLD]-> information regarding amount of litter collected and disposed 0.8772140741348267
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.8703933954238892
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[DOES_NOT_HOLD]-> information regarding actual costs of litter collection 0.8692609071731567
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.8661848306655884
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[REFUSES]-> request for weight/amount of rubbish cleaned up 0.8651430606842041
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[REFUSES]-> request for money spent on cleaning up rubbish 0.8644366264343262
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.8601081371307373
+[Waka Kotahi N Z Transport Agency]: Data --[PROVIDED]-> Waka Kotahi N Z Transport Agency 0.8652509450912476
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINS]-> Waka Kotahi N Z Transport Agency 0.8082152605056763
+[Waka Kotahi]: Waka Kotahi --[WITHHOLDS]-> information pertaining to the Golden Mile revitalisation project contract 0.8972246646881104
+[Waka Kotahi]: Waka Kotahi --[WITHHOLDS]-> information on Golden Mile revitalisation project contract 0.891181230545044
+[Waka Kotahi]: information --[PROVIDED_BY]-> Waka Kotahi 0.8821483850479126
+[Waka Kotahi]: New Zealand Transport Agency --[ASSOCIATED]-> Waka Kotahi 0.8802697658538818
+[Waka Kotahi]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8797241449356079
+[Waka Kotahi]: Waka Kotahi --[WITHHOLDS]-> correspondence 0.8783403038978577
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> publicly available information 0.8782184720039368
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[POLICY]-> publishing policy 0.8754876852035522
+[NZ Transport Agency Waka Kotahi]: response letter --[ASSOCIATED_WITH]-> NZ Transport Agency Waka Kotahi 0.8728947043418884
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[IS]-> New Zealand Transport Agency 0.866032600402832
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[PUBLISHES]-> response letter 0.8657498359680176
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[BASED_ON]-> investigations, construction findings, on-site progress, design updates, design assumptions 0.8613461852073669
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[GRANTS_REQUEST]-> BRI-3010, MIN-4467 and MINO-990 0.8570364713668823
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[ASSOCIATED_WITH]-> response letter 0.856993556022644

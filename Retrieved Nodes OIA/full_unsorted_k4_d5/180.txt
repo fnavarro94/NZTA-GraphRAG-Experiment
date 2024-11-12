@@ -1,0 +1,36 @@
+Why will it take until 2041 to fully recover the costs of the Tākitimu Drive Toll Road?
+None
+Seed: Takitimu Drive Toll Road
+Seed: transaction costs won’t be recovered until 2041
+Seed: information on tolls and road maintenance
+Seed: 2023-24 State Highway Investment Proposal
+[Takitimu Drive Toll Road]: Takitimu Drive Toll Road --[PROVIDES]-> Toll Revenue 0.8785049915313721
+[Takitimu Drive Toll Road]: Tauranga Eastern Link Toll Road --[PROVIDES]-> Toll Revenue 0.8250727653503418
+[Takitimu Drive Toll Road]: Northern Gateway Toll Road --[PROVIDES]-> Toll Revenue 0.8073102235794067
+[Takitimu Drive Toll Road]: Northern Gateway Toll Road --[DEBT_REPAYMENT]-> 35 years 0.8416087031364441
+[Takitimu Drive Toll Road]: Northern Gateway Toll Road --[ESTIMATED_END_DATE]-> 2045 0.8710928559303284
+[transaction costs won’t be recovered until 2041]: NZTA --[PREDICTS]-> transaction costs won’t be recovered until 2041 0.8673965930938721
+[transaction costs won’t be recovered until 2041]: NZTA --[SETS]-> quality standards 0.7035126686096191
+[transaction costs won’t be recovered until 2041]: quality standards --[THROUGH]-> Maintenance Management Plan 0.7441526055335999
+[transaction costs won’t be recovered until 2041]: Maintenance Management Plan --[REPORT]-> quarterly reports 0.7584216594696045
+[transaction costs won’t be recovered until 2041]: quarterly reports --[AUDITED]-> NZTA 0.7530715465545654
+[transaction costs won’t be recovered until 2041]: NZTA --[PROVIDES]-> maintenance specifications 0.7443346381187439
+[transaction costs won’t be recovered until 2041]: maintenance specifications --[AVAILABLE]-> website 0.7373347878456116
+[transaction costs won’t be recovered until 2041]: scheduled tasks --[IS_REMOVED]-> website 0.736944317817688
+[transaction costs won’t be recovered until 2041]: information requested --[DOES_NOT_EXIST]-> scheduled tasks 0.7409740090370178
+[transaction costs won’t be recovered until 2041]: website --[LOCATED_AT]-> www.ombudsman.parliament.nz 0.7401783466339111
+[transaction costs won’t be recovered until 2041]: www.ombudsman.parliament.nz --[LINKS_TO]-> Ombudsman 0.7453947067260742
+[transaction costs won’t be recovered until 2041]: New Zealand Transport Agency --[PROVIDES]-> www.ombudsman.parliament.nz 0.7566077709197998
+[transaction costs won’t be recovered until 2041]: www.ombudsman.parliament.nz --[PROVIDES]-> New Zealand Transport Agency 0.7561136484146118
+[transaction costs won’t be recovered until 2041]: Ombudsman --[LOCATED_AT]-> www.ombudsman.parliament.nz 0.7343761920928955
+[transaction costs won’t be recovered until 2041]: www.ombudsman.parliament.nz --[HOSTS]-> contact details for the Ombudsman 0.7385552525520325
+[transaction costs won’t be recovered until 2041]: contact details for the Ombudsman --[LOCATED_AT]-> www.ombudsman.parliament.nz 0.7382216453552246
+[transaction costs won’t be recovered until 2041]: contact details for the Ombudsman --[AVAILABLE_AT]-> www.ombudsman.parliament.nz 0.74974524974823
+[transaction costs won’t be recovered until 2041]: www.ombudsman.parliament.nz --[PROVIDES]-> contact details 0.7485528588294983
+[transaction costs won’t be recovered until 2041]: contact details --[LOCATED]-> www.ombudsman.parliament.nz 0.7501281499862671
+[transaction costs won’t be recovered until 2041]: www.ombudsman.parliament.nz --[PROVIDES]-> Transport Agency 0.7603690028190613
+[transaction costs won’t be recovered until 2041]: Ombudsman --[IS]-> www.ombudsman.parliament.nz 0.7351354360580444
+[transaction costs won’t be recovered until 2041]: Website --[URL]-> www.ombudsman.parliament.nz 0.7521343231201172
+[transaction costs won’t be recovered until 2041]: contact details for the Ombudsman --[FOUND]-> www.ombudsman.parliament.nz 0.7457751035690308
+[transaction costs won’t be recovered until 2041]: Ombudsman --[LOCATED]-> www.ombudsman.parliament.nz 0.7401409149169922
+[transaction costs won’t be recovered until 2041]: Contact Details --[AVAILABLE]-> www.ombudsman.parliament.nz 0.7557824850082397

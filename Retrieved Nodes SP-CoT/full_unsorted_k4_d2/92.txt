@@ -1,0 +1,36 @@
+What body of water encircles the geological region located in the country where a method involving the use of advanced sensors and cameras to gather real-time data on road conditions significantly enhances the efficiency and accuracy of transport data acquisition processes, making it susceptible to natural disasters such as earthquakes, volcanic eruptions, and tsunamis?
+None
+Seed: Natural hazards
+Seed: Regions prone to wet conditions
+Seed: Volcanic activity
+Seed: Heavily on road transport for trade and tourism
+[Natural hazards]: New zealand --[Susceptible to]-> Natural hazards 0.8462419509887695
+[Natural hazards]: New zealand --[Has]-> Transport projects 0.819669783115387
+[Natural hazards]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.8027282357215881
+[Natural hazards]: New zealand --[Has]-> Diverse transport network 0.7998621463775635
+[Natural hazards]: New zealand --[Has]-> Post-incident review 0.7745117545127869
+[Natural hazards]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.7727248668670654
+[Natural hazards]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.7794514298439026
+[Natural hazards]: New zealand --[Has]-> Broader environmental policies 0.7765160799026489
+[Natural hazards]: New zealand --[Has]-> Traffic congestion 0.8134242296218872
+[Natural hazards]: New zealand --[Has]-> Increasing urbanization 0.7767603993415833
+[Natural hazards]: New zealand --[Has]-> Graduated licensing system 0.761999249458313
+[Natural hazards]: New zealand --[Has]-> Extensive coastline supporting a thriving fishing industry and recreational boating activities 0.7988675236701965
+[Natural hazards]: New zealand --[Has]-> Trend towards more integrated and environmentally friendly transport solutions 0.7838882803916931
+[Natural hazards]: New zealand --[Has]-> Extensive network of roads 0.8290727138519287
+[Natural hazards]: New zealand --[Has]-> Public transport network planning 0.7997236847877502
+[Natural hazards]: New zealand --[Has]-> Public transit 0.7897357940673828
+[Natural hazards]: New zealand --[Has]-> Goal 0.7655507326126099
+[Natural hazards]: New zealand --[Has]-> Transport system sustainability 0.8005237579345703
+[Natural hazards]: New zealand --[Has]-> Walking 0.7793925404548645
+[Natural hazards]: New zealand --[Has]-> Cycling 0.7843987941741943
+[Natural hazards]: New zealand --[Has]-> Biodiversity 0.7579793930053711
+[Natural hazards]: New zealand --[Has]-> Urban-rural dynamics 0.7933170795440674
+[Natural hazards]: New zealand --[Has]-> Unique geographical features 0.8271117806434631
+[Natural hazards]: New zealand --[Has]-> Growing emphasis on sustainable transport solutions 0.7862652540206909
+[Natural hazards]: New zealand --[Has]-> Transport funding strategies 0.7884981632232666
+[Natural hazards]: New zealand --[Has]-> Growing population 0.7768778800964355
+[Natural hazards]: New zealand --[Has]-> Light rail 0.7842018008232117
+[Natural hazards]: New zealand --[Has]-> Buses 0.7951667904853821
+[Natural hazards]: New zealand --[Has]-> Land transport management act 2003 0.795930802822113
+[Natural hazards]: New zealand --[Has]-> Ferries 0.8038924932479858

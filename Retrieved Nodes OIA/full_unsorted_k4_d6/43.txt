@@ -1,0 +1,36 @@
+How many staff does NZTA have employed in relation to fuel excise duty refunds?
+None
+Seed: fuel excise refunds
+Seed: transportation services
+Seed: information on fuel excise duty
+Seed: transportation
+[fuel excise refunds]: fuel excise refunds --[RELATED_TO]-> transportation 0.850355863571167
+[fuel excise refunds]: transportation --[AFFECTED_BY]-> flooding 0.7458655834197998
+[fuel excise refunds]: road maintenance --[AFFECTED_BY]-> flooding 0.7371107935905457
+[fuel excise refunds]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> road maintenance 0.8180348873138428
+[fuel excise refunds]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8190572261810303
+[fuel excise refunds]: New Zealand Transport Agency --[BASED]-> Wellington 0.8191217184066772
+[fuel excise refunds]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7797815799713135
+[fuel excise refunds]: Golden Mile --[LOCATED]-> Wellington 0.7549207210540771
+[fuel excise refunds]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7677398920059204
+[fuel excise refunds]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7706974744796753
+[fuel excise refunds]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7633755207061768
+[fuel excise refunds]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7945278882980347
+[fuel excise refunds]: Wellington --[PART_OF]-> Wellington Region 0.7837277054786682
+[fuel excise refunds]: New Zealand --[HAS_CAPITAL]-> Wellington 0.8055188655853271
+[fuel excise refunds]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7552080154418945
+[fuel excise refunds]: Wellington --[HAS]-> tunnel 0.7747319936752319
+[fuel excise refunds]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.8032495975494385
+[fuel excise refunds]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7893058657646179
+[fuel excise refunds]: Wellington --[POSTCODE]-> 6141 0.7647846341133118
+[fuel excise refunds]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.8181793093681335
+[fuel excise refunds]: Wellington --[IS_PART_OF]-> New Zealand 0.7842949628829956
+[fuel excise refunds]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7564651966094971
+[fuel excise refunds]: 50 Victoria Street --[IN]-> Wellington 0.7470371723175049
+[fuel excise refunds]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7746450901031494
+[fuel excise refunds]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7628258466720581
+[fuel excise refunds]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7792612314224243
+[fuel excise refunds]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.8039458990097046
+[fuel excise refunds]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7984851598739624
+[fuel excise refunds]: NZ Transport Agency --[LOCATED]-> Wellington 0.8221181631088257
+[fuel excise refunds]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7556180953979492

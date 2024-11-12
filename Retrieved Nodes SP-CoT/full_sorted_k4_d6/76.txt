@@ -1,0 +1,33 @@
+What region does the Northern Motorway from the country where an initiative aiming to achieve a significant reduction in road deaths and serious injuries by promoting a "Safe System" approach to road safety is implemented to reduce road traffic injuries and fatalities provide access to?
+None
+Seed: Crucial role in promoting road safety
+Seed: Significant shift in new zealand's approach to road safety
+Seed: Commitment to reducing road traffic injuries and fatalities
+Seed: Achieve significant reduction in road deaths and serious injuries
+[Crucial role in promoting road safety]: Education and awareness programs --[Play]-> Crucial role in promoting road safety 0.8559138774871826
+[Crucial role in promoting road safety]: Education and awareness programs --[Include]-> Road safety week 0.8373737931251526
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about safe driving practices 0.8355350494384766
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about dangers of distracted driving 0.806066632270813
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about importance of seatbelt use 0.8005192279815674
+[Crucial role in promoting road safety]: Education and awareness programs --[Include]-> Belt up campaign 0.7600776553153992
+[Significant shift in new zealand's approach to road safety]: New zealand --[Has]-> Road safety initiatives 0.8761405348777771
+[Significant shift in new zealand's approach to road safety]: Safer journeys strategy --[Focused on]-> Safer roads and roadsides 0.870535135269165
+[Significant shift in new zealand's approach to road safety]: Road transport safety --[Focus on]-> Safer roads 0.8684189319610596
+[Significant shift in new zealand's approach to road safety]: Safer journeys strategy --[Focused on]-> Safer road use 0.8673766851425171
+[Significant shift in new zealand's approach to road safety]: New zealand --[Has]-> Commitment to reducing road traffic injuries and fatalities 0.8596739768981934
+[Significant shift in new zealand's approach to road safety]: Road transport safety --[Focus on]-> Safer road users 0.8595327734947205
+[Significant shift in new zealand's approach to road safety]: Safer journeys strategy --[Marked]-> Significant shift in new zealand's approach to road safety 0.8583922982215881
+[Commitment to reducing road traffic injuries and fatalities]: Road safety strategy --[Aimed to reduce]-> Road deaths and serious injuries 0.895553469657898
+[Commitment to reducing road traffic injuries and fatalities]: Road safety strategy --[Aims]-> Achieve significant reduction in road deaths and serious injuries 0.8918066024780273
+[Commitment to reducing road traffic injuries and fatalities]: Road safety strategy --[Aimed at]-> Reducing road traffic injuries and fatalities 0.8835437297821045
+[Commitment to reducing road traffic injuries and fatalities]: New zealand road safety strategy --[Aimed at]-> Reducing road traffic injuries and fatalities 0.8798908591270447
+[Commitment to reducing road traffic injuries and fatalities]: New zealand --[Has]-> Road safety initiatives 0.8761405348777771
+[Commitment to reducing road traffic injuries and fatalities]: Road safety initiatives --[Focus on]-> Safety 0.8747631907463074
+[Commitment to reducing road traffic injuries and fatalities]: Road safety initiatives --[Reduce]-> Road accidents 0.8736032247543335
+[Achieve significant reduction in road deaths and serious injuries]: Road safety strategy --[Aimed to reduce]-> Road deaths and serious injuries 0.895553469657898
+[Achieve significant reduction in road deaths and serious injuries]: Road safety strategy --[Aims]-> Achieve significant reduction in road deaths and serious injuries 0.8918066024780273
+[Achieve significant reduction in road deaths and serious injuries]: Road safety strategy --[Aimed at]-> Reducing road traffic injuries and fatalities 0.8835437297821045
+[Achieve significant reduction in road deaths and serious injuries]: New zealand road safety strategy --[Aimed at]-> Reducing road traffic injuries and fatalities 0.8798908591270447
+[Achieve significant reduction in road deaths and serious injuries]: New zealand --[Has]-> Road safety initiatives 0.8761405348777771
+[Achieve significant reduction in road deaths and serious injuries]: Road safety initiatives --[Focus on]-> Safety 0.8747631907463074
+[Achieve significant reduction in road deaths and serious injuries]: Road safety initiatives --[Reduce]-> Road accidents 0.8736032247543335

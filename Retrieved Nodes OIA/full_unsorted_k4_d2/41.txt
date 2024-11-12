@@ -1,0 +1,36 @@
+How many staff does NZTA currently hire to oversee Fuel Excise Duty Refunds, and what are their roles?
+None
+Seed: fuel excise refunds
+Seed: information on fuel excise duty
+Seed: transportation services
+Seed: Qualified Staff
+[fuel excise refunds]: fuel excise refunds --[RELATED_TO]-> transportation 0.8510607481002808
+[fuel excise refunds]: transportation --[AFFECTED_BY]-> flooding 0.7506148219108582
+[fuel excise refunds]: New Zealand Transport Agency --[RESPONSIBLE_FOR]-> transportation 0.819923460483551
+[fuel excise refunds]: transportation --[GOVERNED_BY]-> New Zealand Transport Agency 0.8272839784622192
+[fuel excise refunds]: OIA-1153-fuel-excise-refunds.pdf --[ASSOCIATED_WITH]-> fuel excise refunds 0.8268705606460571
+[fuel excise refunds]: file_path --[CONTAINS]-> OIA-1153-fuel-excise-refunds.pdf 0.8065921068191528
+[fuel excise refunds]: transportation services --[SUPPORTED_BY]-> fuel excise refunds 0.8477108478546143
+[fuel excise refunds]: transportation services --[OFFERED_BY]-> New Zealand Transport Agency 0.8180885314941406
+[fuel excise refunds]: transportation services --[REGULATED_BY]-> transportation laws 0.7727000713348389
+[fuel excise refunds]: New Zealand Transport Agency --[PROVIDES]-> transportation services 0.8252577781677246
+[information on fuel excise duty]: New Zealand Transport Agency --[PROVIDES]-> information on fuel excise duty 0.8857650756835938
+[information on fuel excise duty]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8213764429092407
+[information on fuel excise duty]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8215044736862183
+[information on fuel excise duty]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8156305551528931
+[information on fuel excise duty]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7947735786437988
+[information on fuel excise duty]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.8222840428352356
+[information on fuel excise duty]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.8266232013702393
+[information on fuel excise duty]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.8207585215568542
+[information on fuel excise duty]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.8109776973724365
+[information on fuel excise duty]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8172728419303894
+[information on fuel excise duty]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8090406656265259
+[information on fuel excise duty]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8206796050071716
+[information on fuel excise duty]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8244392275810242
+[information on fuel excise duty]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8063938021659851
+[information on fuel excise duty]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8181339502334595
+[information on fuel excise duty]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8231682181358337
+[information on fuel excise duty]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8085609078407288
+[information on fuel excise duty]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8163862228393555
+[information on fuel excise duty]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7981932163238525
+[information on fuel excise duty]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8487924337387085

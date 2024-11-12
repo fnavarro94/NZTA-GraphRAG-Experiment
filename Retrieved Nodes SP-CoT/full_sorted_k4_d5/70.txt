@@ -1,0 +1,23 @@
+Which notable transport project in New Zealand, alongside the City Rail Link, has undergone the process with the acronym used in New Zealand to assess the environmental impacts of transport projects, and what city is home to the Te Ara I Whiti (Lightpath) project, which has transformed underutilized spaces into vibrant cycling and pedestrian pathways?
+None
+Seed: Addressing transport challenges in auckland
+Seed: Cycling infrastructure and public transport initiatives
+Seed: Transport link between wellington and northern regions of north island
+Seed: New zealand's transport network
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Transport projects 0.8746840953826904
+[Addressing transport challenges in auckland]: Auckland city rail link --[Is]-> Significant infrastructure project 0.8713675737380981
+[Addressing transport challenges in auckland]: Sustainable urban transport --[Is]-> New zealand 0.8607726097106934
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Encompasses]-> Range of projects 0.857687771320343
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Transport infrastructure development 0.8559941053390503
+[Addressing transport challenges in auckland]: Sustainable urban transport --[Key component]-> New zealand 0.8552927374839783
+[Addressing transport challenges in auckland]: Auckland transport --[Implemented]-> Cycling infrastructure projects 0.854712188243866
+[Cycling infrastructure and public transport initiatives]: North island --[Features]-> Cycling infrastructure and public transport initiatives 0.8152492046356201
+[Cycling infrastructure and public transport initiatives]: North island --[Has]-> Growing emphasis on sustainable transport options 0.7828092575073242
+[Transport link between wellington and northern regions of north island]: Auckland --[Has]-> City rail link project 0.8777274489402771
+[Transport link between wellington and northern regions of north island]: New zealand --[Has]-> Transport projects 0.8746840953826904
+[Transport link between wellington and northern regions of north island]: Auckland --[Has]-> Transport projects 0.8718624114990234
+[Transport link between wellington and northern regions of north island]: Auckland --[Has]-> City rail link 0.8661013841629028
+[Transport link between wellington and northern regions of north island]: Sustainable urban transport --[Is]-> New zealand 0.8607726097106934
+[Transport link between wellington and northern regions of north island]: Auckland transport alignment project --[Encompasses]-> Range of projects 0.857687771320343
+[Transport link between wellington and northern regions of north island]: New zealand --[Has]-> Transport infrastructure development 0.8559941053390503
+[New zealand's transport network]: Road infrastructure projects --[Play crucial role in]-> New zealand's transport network 0.8579111695289612

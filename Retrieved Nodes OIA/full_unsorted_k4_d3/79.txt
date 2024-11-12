@@ -1,0 +1,36 @@
+What repair options are being considered for Kōpū Hill Road, SH25A?
+None
+Seed: committee managing the Kopa Hill Road repair process
+Seed: State Highway 25A Rebuild Project
+Seed: request for pothole repair cost information
+Seed: information on state highway maintenance
+[committee managing the Kopa Hill Road repair process]: committee managing the Kopa Hill Road repair process --[MANAGES]-> New Zealand Transport Agency 0.8485589027404785
+[committee managing the Kopa Hill Road repair process]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7797366380691528
+[committee managing the Kopa Hill Road repair process]: New Zealand Transport Agency --[BASED]-> Wellington 0.7776697874069214
+[committee managing the Kopa Hill Road repair process]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7509918808937073
+[committee managing the Kopa Hill Road repair process]: Golden Mile --[LOCATED]-> Wellington 0.752593994140625
+[committee managing the Kopa Hill Road repair process]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7776404619216919
+[committee managing the Kopa Hill Road repair process]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7378027439117432
+[committee managing the Kopa Hill Road repair process]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.750438928604126
+[committee managing the Kopa Hill Road repair process]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7421759366989136
+[committee managing the Kopa Hill Road repair process]: Wellington --[PART_OF]-> Wellington Region 0.7601525187492371
+[committee managing the Kopa Hill Road repair process]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7465736865997314
+[committee managing the Kopa Hill Road repair process]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7981417179107666
+[committee managing the Kopa Hill Road repair process]: Wellington --[HAS]-> tunnel 0.7719120979309082
+[committee managing the Kopa Hill Road repair process]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.780145525932312
+[committee managing the Kopa Hill Road repair process]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7419151067733765
+[committee managing the Kopa Hill Road repair process]: Wellington --[POSTCODE]-> 6141 0.7275854349136353
+[committee managing the Kopa Hill Road repair process]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7725169658660889
+[committee managing the Kopa Hill Road repair process]: Wellington --[IS_PART_OF]-> New Zealand 0.7390863299369812
+[committee managing the Kopa Hill Road repair process]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7770677208900452
+[committee managing the Kopa Hill Road repair process]: 50 Victoria Street --[IN]-> Wellington 0.7595010995864868
+[committee managing the Kopa Hill Road repair process]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7369929552078247
+[committee managing the Kopa Hill Road repair process]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7582936882972717
+[committee managing the Kopa Hill Road repair process]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7557762265205383
+[committee managing the Kopa Hill Road repair process]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7860876321792603
+[committee managing the Kopa Hill Road repair process]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7886874675750732
+[committee managing the Kopa Hill Road repair process]: NZ Transport Agency --[LOCATED]-> Wellington 0.7759052515029907
+[committee managing the Kopa Hill Road repair process]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7606865167617798
+[committee managing the Kopa Hill Road repair process]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7586661577224731
+[committee managing the Kopa Hill Road repair process]: New Zealand --[CONTAINS]-> Wellington 0.734581470489502
+[committee managing the Kopa Hill Road repair process]: Wellington --[PART_OF]-> New Zealand 0.7526199817657471

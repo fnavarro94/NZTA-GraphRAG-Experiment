@@ -1,0 +1,24 @@
+What information did NZTA provide about converting the shoulder of Auckland Motorway into bus lanes?
+None
+Seed: reports on converting the shoulder of Auckland Motorway into Bus Lanes
+Seed: Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf
+Seed: Commercial Buses
+Seed: Expressway
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: reports on converting the shoulder of Auckland Motorway into Bus Lanes --[PROVIDED]-> Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf 0.921581506729126
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Zachary Wong --[REQUESTED]-> reports on converting the shoulder of Auckland Motorway into Bus Lanes 0.9098303318023682
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf --[APPENDIX]-> Appendices A to E 0.9052956104278564
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Zachary Wong --[EMAIL]-> fyi-request-9242-f4aad453@requests.fyi.org.nz 0.7588059902191162
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: reports on converting the shoulder of Auckland Motorway into Bus Lanes --[PROVIDED]-> Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf 0.921581506729126
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: Zachary Wong --[REQUESTED]-> reports on converting the shoulder of Auckland Motorway into Bus Lanes 0.9098303318023682
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf --[APPENDIX]-> Appendices A to E 0.9052956104278564
+[Commercial Buses]: New Zealand Transport Agency --[LOCATED]-> New Zealand 0.8530926704406738
+[Commercial Buses]: New Zealand --[HOME]-> New Zealand Transport Agency 0.851795494556427
+[Commercial Buses]: New Zealand Transport Agency --[PART_OF]-> New Zealand 0.8489172458648682
+[Commercial Buses]: New Zealand --[HOME_TO]-> Transport Agency 0.8476788997650146
+[Commercial Buses]: New Zealand --[SERVED_BY]-> Urban Public Transport Services 0.8466358184814453
+[Commercial Buses]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.8452470898628235
+[Commercial Buses]: New Zealand --[REGULATES]-> Commercial Buses 0.8423852920532227
+[Expressway]: New Zealand Transport Agency --[PROVIDES]-> street lights data 0.8432298898696899
+[Expressway]: street lights data --[CONTAINS]-> Motorway 0.8067194223403931
+[Expressway]: street lights data --[CONTAINS]-> Expressway 0.8021105527877808
+[Expressway]: street lights data --[CONTAINS]-> Highway 0.7881861925125122

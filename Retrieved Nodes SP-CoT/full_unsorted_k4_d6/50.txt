@@ -1,0 +1,36 @@
+What is the abbreviation for the initiative in New Zealand that aims to increase the number of electric trucks and vans on the roads in the freight sector?
+None
+Seed: Growing number of initiatives
+Seed: Increasing the number of electric vehicles on new zealand roads
+Seed: Increase number of electric vehicles on the road
+Seed: Driving innovation in freight transport sector
+[Growing number of initiatives]: New zealand --[Has]-> Growing number of initiatives 0.8601331114768982
+[Growing number of initiatives]: New zealand --[Has]-> Transport projects 0.8584679365158081
+[Growing number of initiatives]: New zealand transport agency --[Oversees]-> Transport projects 0.8249704241752625
+[Growing number of initiatives]: New zealand --[Has]-> New zealand transport agency 0.8500000238418579
+[Growing number of initiatives]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.8292374014854431
+[Growing number of initiatives]: New zealand --[Has]-> Diverse transport network 0.8367519378662109
+[Growing number of initiatives]: New zealand --[Has]-> Post-incident review 0.7653460502624512
+[Growing number of initiatives]: Post-incident review --[Crucial for]-> Improving operational efficiency 0.7373862266540527
+[Growing number of initiatives]: Post-incident review --[Crucial for]-> Fostering culture of continuous improvement 0.7333869338035583
+[Growing number of initiatives]: Post-incident review --[Aimed at]-> Recommending measures 0.7273790836334229
+[Growing number of initiatives]: Post-incident review --[Crucial for]-> Enhancing safety 0.729482889175415
+[Growing number of initiatives]: Post-incident review --[Is]-> Systematic process 0.7370338439941406
+[Growing number of initiatives]: Post-incident review --[Conducted]-> Following an incident 0.7349552512168884
+[Growing number of initiatives]: Post-incident review --[Aimed at]-> Analyzing circumstances 0.7310949563980103
+[Growing number of initiatives]: Post-incident review --[Aimed at]-> Identifying contributing factors 0.7319198846817017
+[Growing number of initiatives]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.7959266304969788
+[Growing number of initiatives]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.7959723472595215
+[Growing number of initiatives]: New zealand --[Has]-> Broader environmental policies 0.7935101389884949
+[Growing number of initiatives]: New zealand --[Has]-> Traffic congestion 0.8179644346237183
+[Growing number of initiatives]: Auckland --[Faces challenges]-> Traffic congestion 0.7892085313796997
+[Growing number of initiatives]: Wellington public transport plan --[Initiated in response to]-> Traffic congestion 0.8250634074211121
+[Growing number of initiatives]: Auckland --[Has]-> Traffic congestion 0.7899279594421387
+[Growing number of initiatives]: Wellington --[Has]-> Traffic congestion 0.7906392812728882
+[Growing number of initiatives]: Wellington public transport spine study --[Initiated in response to]-> Traffic congestion 0.7980903387069702
+[Growing number of initiatives]: Sustainable urban transport --[Faces challenges]-> Traffic congestion 0.7837527990341187
+[Growing number of initiatives]: New zealand --[Face]-> Traffic congestion 0.8075565695762634
+[Growing number of initiatives]: New zealand --[Address]-> Traffic congestion 0.8120744824409485
+[Growing number of initiatives]: New zealand --[Has]-> Increasing urbanization 0.8152601718902588
+[Growing number of initiatives]: Wellington public transport plan --[Initiated in response to]-> Increasing urbanization 0.8375712037086487
+[Growing number of initiatives]: Wellington regional rail plan --[Developed in response to]-> Increasing urbanization 0.8309246301651001

@@ -1,0 +1,36 @@
+What body of water encircles the geological region where New Zealand is located, making it susceptible to natural disasters such as earthquakes, volcanic eruptions, and tsunamis?
+None
+Seed: Horseshoe-shaped zone of high seismic and volcanic activity
+Seed: North island's eastern coastline
+Seed: Volcanic activity
+Seed: Natural hazards
+[Horseshoe-shaped zone of high seismic and volcanic activity]: Pacific ring of fire --[Is]-> Horseshoe-shaped zone of high seismic and volcanic activity 0.8409578800201416
+[Horseshoe-shaped zone of high seismic and volcanic activity]: Pacific ring of fire --[Encircles]-> Pacific ocean 0.8413668870925903
+[North island's eastern coastline]: Pch --[Runs along]-> North island's eastern coastline 0.8261814713478088
+[North island's eastern coastline]: Pch --[Supports]-> Freight movement 0.7198522686958313
+[North island's eastern coastline]: Rail transport --[Plays vital role]-> Freight movement 0.724922776222229
+[North island's eastern coastline]: Kiwirail group --[Responsible for]-> Rail transport 0.7748407125473022
+[North island's eastern coastline]: Kiwirail group --[Aims to]-> Rail transport 0.7560030221939087
+[North island's eastern coastline]: Rail transport --[Has]-> Rich history dating back to the 19th century 0.7176516652107239
+[North island's eastern coastline]: Rail transport --[Has]-> Rich history dating back to 19th century 0.7192065715789795
+[North island's eastern coastline]: Rail transport --[Plays]-> Crucial role in freight movement 0.7256804704666138
+[North island's eastern coastline]: New zealand --[Has]-> Rail transport 0.8403641581535339
+[North island's eastern coastline]: Pch --[Contributes to]-> Overall accessibility of the region 0.7892164587974548
+[North island's eastern coastline]: Pch --[Offers]-> Fishing 0.7343229055404663
+[North island's eastern coastline]: Pch --[Connects]-> Gisborne 0.763978123664856
+[North island's eastern coastline]: Pch --[Popular among]-> Tourists and locals 0.7555421590805054
+[North island's eastern coastline]: Pch --[Supports]-> Passenger travel 0.7163071036338806
+[North island's eastern coastline]: New zealand --[Relies on]-> Passenger travel 0.8074730038642883
+[North island's eastern coastline]: New zealand --[Has]-> Transport projects 0.8378612995147705
+[North island's eastern coastline]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.82694411277771
+[North island's eastern coastline]: New zealand --[Has]-> Diverse transport network 0.8303217887878418
+[North island's eastern coastline]: New zealand --[Has]-> Post-incident review 0.8093111515045166
+[North island's eastern coastline]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.8034133315086365
+[North island's eastern coastline]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.7904601693153381
+[North island's eastern coastline]: New zealand --[Has]-> Broader environmental policies 0.8378946781158447
+[North island's eastern coastline]: New zealand --[Has]-> Traffic congestion 0.8328676223754883
+[North island's eastern coastline]: New zealand --[Has]-> Increasing urbanization 0.8232776522636414
+[North island's eastern coastline]: New zealand --[Has]-> Graduated licensing system 0.7933878302574158
+[North island's eastern coastline]: New zealand --[Has]-> Extensive coastline supporting a thriving fishing industry and recreational boating activities 0.8363911509513855
+[North island's eastern coastline]: New zealand --[Has]-> Trend towards more integrated and environmentally friendly transport solutions 0.7967873811721802
+[North island's eastern coastline]: New zealand --[Has]-> Extensive network of roads 0.8485410809516907

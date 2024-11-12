@@ -1,0 +1,36 @@
+What were some of the key software or apps developed by NZTA's Connected Journey Solutions (CJS)?
+None
+Seed: successful applications
+Seed: multi-tenanted platform
+Seed: projects for New Zealand Transport Agency
+Seed: Connected Journey Solutions
+[successful applications]: innovation-fund/innovation-fund-round-one-successful-applicants.pdf --[PROVIDES]-> successful applications 0.7706074118614197
+[successful applications]: www.nzta.govt.nz --[CONTAINS]-> innovation-fund/innovation-fund-round-one-successful-applicants.pdf 0.7981125116348267
+[successful applications]: www.nzta.govt.nz --[HOSTS]-> New Zealand Transport Agency 0.8081204295158386
+[successful applications]: New Zealand Transport Agency --[PROVIDES]-> www.nzta.govt.nz 0.8093577027320862
+[successful applications]: F 64 4 894 6100 --[OFFICIAL_INFORMATION]-> www.nzta.govt.nz 0.7614114284515381
+[successful applications]: www.nzta.govt.nz --[OFFICIAL_INFORMATION]-> 16 August 2021 0.7816759943962097
+[successful applications]: New Zealand Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.8010746836662292
+[successful applications]: www.nzta.govt.nz --[OF]-> Waka Kotahi NZ Transport Agency 0.790704607963562
+[successful applications]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.7871593832969666
+[successful applications]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> www.nzta.govt.nz 0.8095719814300537
+[successful applications]: www.nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8090509176254272
+[successful applications]: successful applications --[LISTS]-> Hoe ki angitū – Innovation Fund 0.7845091223716736
+[successful applications]: Hoe ki angitū – Innovation Fund --[FUNDED_BY]-> National Land Transport Fund 0.7569105625152588
+[successful applications]: National Land Transport Fund --[ADMINISTERED_BY]-> Waka Kotahi 0.7435459494590759
+[successful applications]: Innovation Fund --[FUNDED_BY]-> National Land Transport Fund 0.7463138103485107
+[successful applications]: Innovation Fund --[PART_OF]-> Hoe ki angitū – Innovation Fund 0.7476453185081482
+[successful applications]: $15 million --[FOR]-> Innovation Fund 0.7316727638244629
+[successful applications]: New Zealand Transport Agency --[PROVIDES]-> Innovation Fund 0.7942047715187073
+[successful applications]: Hoe ki angitū – Innovation Fund --[APPROVED_BY]-> New Zealand Transport Agency 0.7740041017532349
+[successful applications]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7805286645889282
+[successful applications]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7954196333885193
+[successful applications]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7845054268836975
+[successful applications]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7846078276634216
+[successful applications]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7844423651695251
+[successful applications]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7868963479995728
+[successful applications]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7922252416610718
+[successful applications]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7891380786895752
+[successful applications]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8027393817901611
+[successful applications]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7973285913467407
+[successful applications]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.784232497215271

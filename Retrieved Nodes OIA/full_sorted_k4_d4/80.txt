@@ -1,0 +1,34 @@
+Why was the economic cost of the road closure and additional transport emissions not provided?
+None
+Seed: information on additional cost and emissions
+Seed: reducing business travel emissions
+Seed: wider impacts of fare policy on people and cities
+Seed: funding for road maintenance
+[information on additional cost and emissions]: New Zealand Transport Agency --[DOES_NOT_HAVE]-> policy to offset work-related emissions 0.8482903242111206
+[information on additional cost and emissions]: road maintenance --[FUNDED_BY]-> toll tariffs 0.8463559746742249
+[information on additional cost and emissions]: toll tariffs --[SPENT_ON]-> road maintenance 0.8461593985557556
+[information on additional cost and emissions]: tolls --[SPENT]-> on various roads 0.8445142507553101
+[information on additional cost and emissions]: road maintenance --[AFFECTS]-> public transport fare policy review 0.8411718606948853
+[information on additional cost and emissions]: questions and responses --[FROM]-> NZ Transport Agency 0.8410011529922485
+[information on additional cost and emissions]: New Zealand Transport Agency --[FOCUSED_ON]-> reducing absolute emissions 0.8356978893280029
+[reducing business travel emissions]: New Zealand Transport Agency --[DOES_NOT_HAVE]-> policy to offset work-related emissions 0.8482903242111206
+[reducing business travel emissions]: road maintenance --[FUNDED_BY]-> toll tariffs 0.8463559746742249
+[reducing business travel emissions]: toll tariffs --[SPENT_ON]-> road maintenance 0.8461593985557556
+[reducing business travel emissions]: tolls --[SPENT]-> on various roads 0.8445142507553101
+[reducing business travel emissions]: road maintenance --[AFFECTS]-> public transport fare policy review 0.8411718606948853
+[reducing business travel emissions]: questions and responses --[FROM]-> NZ Transport Agency 0.8410011529922485
+[reducing business travel emissions]: New Zealand Transport Agency --[FOCUSED_ON]-> reducing absolute emissions 0.8356978893280029
+[wider impacts of fare policy on people and cities]: wider objectives in Regional Public Transport Plans --[CONTRIBUTES]-> government's transport priorities 0.8273804187774658
+[wider impacts of fare policy on people and cities]: public transport affordability --[RELATES_TO]-> wider impacts of fare policy on people and cities 0.8219687938690186
+[wider impacts of fare policy on people and cities]: underlying principles of the current policy --[CONTRIBUTES]-> wider objectives in Regional Public Transport Plans 0.8199101090431213
+[wider impacts of fare policy on people and cities]: wider impacts of fare policy on people and cities --[INCLUCES]-> national farebox recovery target 0.8077989220619202
+[wider impacts of fare policy on people and cities]: councils with greater flexibility --[ADDRESS]-> public transport affordability 0.8045650720596313
+[wider impacts of fare policy on people and cities]: national farebox recovery target --[REPLACED_BY]-> underlying principles of the current policy 0.78955078125
+[wider impacts of fare policy on people and cities]: access --[PROVIDES]-> councils with greater flexibility 0.7732738852500916
+[funding for road maintenance]: New Zealand Transport Agency --[DOES_NOT_HAVE]-> policy to offset work-related emissions 0.8482903242111206
+[funding for road maintenance]: road maintenance --[FUNDED_BY]-> toll tariffs 0.8463559746742249
+[funding for road maintenance]: toll tariffs --[SPENT_ON]-> road maintenance 0.8461593985557556
+[funding for road maintenance]: tolls --[SPENT]-> on various roads 0.8445142507553101
+[funding for road maintenance]: road maintenance --[AFFECTS]-> public transport fare policy review 0.8411718606948853
+[funding for road maintenance]: questions and responses --[FROM]-> NZ Transport Agency 0.8410011529922485
+[funding for road maintenance]: New Zealand Transport Agency --[FOCUSED_ON]-> reducing absolute emissions 0.8356978893280029

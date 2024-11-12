@@ -1,0 +1,34 @@
+How much did NZTA spend on traditional media for road safety campaigns in 2017-2018?
+None
+Seed: cost of the current Road to Zero advertising campaign
+Seed: national, regional and local road safety promotion and education campaigns
+Seed: Advertising Media Spend 2017-2018
+Seed: Road Safety Campaigns
+[cost of the current Road to Zero advertising campaign]: NZ Transport Agency --[ADVERTISES]-> Road Safety Campaigns 0.8771741390228271
+[cost of the current Road to Zero advertising campaign]: Road Safety Campaigns --[USES]-> Traditional Media 0.869321346282959
+[cost of the current Road to Zero advertising campaign]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8674007058143616
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[FUNDING]-> Road Maintenance 0.8629974126815796
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[PROVIDES]-> funding 0.8626381754875183
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[PROVIDES]-> funding for road maintenance 0.8620408177375793
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency website --[PUBLISHES]-> safety interventions 0.8603395819664001
+[national, regional and local road safety promotion and education campaigns]: NZ Transport Agency --[ADVERTISES]-> Road Safety Campaigns 0.8771741390228271
+[national, regional and local road safety promotion and education campaigns]: Road Safety Campaigns --[USES]-> Traditional Media 0.869321346282959
+[national, regional and local road safety promotion and education campaigns]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8674007058143616
+[national, regional and local road safety promotion and education campaigns]: New Zealand Transport Agency --[FUNDING]-> Road Maintenance 0.8629974126815796
+[national, regional and local road safety promotion and education campaigns]: New Zealand Transport Agency --[PROVIDES]-> funding 0.8626381754875183
+[national, regional and local road safety promotion and education campaigns]: New Zealand Transport Agency --[PROVIDES]-> funding for road maintenance 0.8620408177375793
+[national, regional and local road safety promotion and education campaigns]: New Zealand Transport Agency website --[PUBLISHES]-> safety interventions 0.8603395819664001
+[Advertising Media Spend 2017-2018]: NZ Transport Agency --[ADVERTISES]-> Road Safety Campaigns 0.8771741390228271
+[Advertising Media Spend 2017-2018]: Road Safety Campaigns --[USES]-> Traditional Media 0.869321346282959
+[Advertising Media Spend 2017-2018]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8674007058143616
+[Advertising Media Spend 2017-2018]: New Zealand Transport Agency --[FUNDING]-> Road Maintenance 0.8629974126815796
+[Advertising Media Spend 2017-2018]: New Zealand Transport Agency --[PROVIDES]-> funding 0.8626381754875183
+[Advertising Media Spend 2017-2018]: New Zealand Transport Agency --[PROVIDES]-> funding for road maintenance 0.8620408177375793
+[Advertising Media Spend 2017-2018]: New Zealand Transport Agency website --[PUBLISHES]-> safety interventions 0.8603395819664001
+[Road Safety Campaigns]: NZ Transport Agency --[ADVERTISES]-> Road Safety Campaigns 0.8771741390228271
+[Road Safety Campaigns]: Road Safety Campaigns --[USES]-> Traditional Media 0.869321346282959
+[Road Safety Campaigns]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8674007058143616
+[Road Safety Campaigns]: New Zealand Transport Agency --[FUNDING]-> Road Maintenance 0.8629974126815796
+[Road Safety Campaigns]: New Zealand Transport Agency --[PROVIDES]-> funding 0.8626381754875183
+[Road Safety Campaigns]: New Zealand Transport Agency --[PROVIDES]-> funding for road maintenance 0.8620408177375793
+[Road Safety Campaigns]: New Zealand Transport Agency website --[PUBLISHES]-> safety interventions 0.8603395819664001

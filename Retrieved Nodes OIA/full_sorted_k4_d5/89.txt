@@ -1,0 +1,34 @@
+What is the longest overdue road for renewal in New Zealand?
+None
+Seed: longest overdue road
+Seed: road renewal
+Seed: toll roads
+Seed: information on tolls and road maintenance
+[longest overdue road]: longest overdue road --[OVERDUE]-> road renewal 0.9225471615791321
+[longest overdue road]: design life --[OVERDUE]-> longest overdue road 0.8895381689071655
+[longest overdue road]: road renewal --[OVERDUE]-> road maintenance 0.8822011947631836
+[longest overdue road]: roads --[MAINTAINED]-> New Zealand Transport Agency 0.8738623857498169
+[longest overdue road]: roads --[MAINTAINED_BY]-> New Zealand Transport Agency 0.8707755208015442
+[longest overdue road]: State Highway 1 --[LOCATED_IN]-> New Zealand 0.8640539646148682
+[longest overdue road]: New Zealand --[HAS_HIGHWAY]-> State Highway 1 0.8621142506599426
+[road renewal]: longest overdue road --[OVERDUE]-> road renewal 0.9225471615791321
+[road renewal]: design life --[OVERDUE]-> longest overdue road 0.8895381689071655
+[road renewal]: road renewal --[OVERDUE]-> road maintenance 0.8822011947631836
+[road renewal]: roads --[MAINTAINED]-> New Zealand Transport Agency 0.8738623857498169
+[road renewal]: roads --[MAINTAINED_BY]-> New Zealand Transport Agency 0.8707755208015442
+[road renewal]: State Highway 1 --[LOCATED_IN]-> New Zealand 0.8640539646148682
+[road renewal]: Christchurch Region --[HAS]-> Roads 0.8627105951309204
+[toll roads]: longest overdue road --[OVERDUE]-> road renewal 0.9225471615791321
+[toll roads]: design life --[OVERDUE]-> longest overdue road 0.8895381689071655
+[toll roads]: road renewal --[OVERDUE]-> road maintenance 0.8822011947631836
+[toll roads]: roads --[MAINTAINED]-> New Zealand Transport Agency 0.8738623857498169
+[toll roads]: roads --[MAINTAINED_BY]-> New Zealand Transport Agency 0.8707755208015442
+[toll roads]: State Highway 1 --[LOCATED_IN]-> New Zealand 0.8640539646148682
+[toll roads]: New Zealand --[HAS_HIGHWAY]-> State Highway 1 0.8621142506599426
+[information on tolls and road maintenance]: longest overdue road --[OVERDUE]-> road renewal 0.9225471615791321
+[information on tolls and road maintenance]: design life --[OVERDUE]-> longest overdue road 0.8895381689071655
+[information on tolls and road maintenance]: road renewal --[OVERDUE]-> road maintenance 0.8822011947631836
+[information on tolls and road maintenance]: roads --[MAINTAINED]-> New Zealand Transport Agency 0.8738623857498169
+[information on tolls and road maintenance]: roads --[MAINTAINED_BY]-> New Zealand Transport Agency 0.8707755208015442
+[information on tolls and road maintenance]: State Highway 1 --[LOCATED_IN]-> New Zealand 0.8640539646148682
+[information on tolls and road maintenance]: New Zealand --[HAS_HIGHWAY]-> State Highway 1 0.8621142506599426

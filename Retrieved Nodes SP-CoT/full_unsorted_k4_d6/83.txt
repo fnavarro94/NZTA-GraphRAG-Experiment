@@ -1,0 +1,36 @@
+What is the abbreviation for the funding source for road maintenance strategies in the country that is implementing the program including the expressway project aimed at improving freight transport efficiency in the region, derived from fuel excise duties and road user charges?
+None
+Seed: Funding maintenance and development of roads
+Seed: Legislative framework for road safety initiatives
+Seed: Framework for implementing road safety campaigns and initiatives
+Seed: Funding local road projects
+[Funding maintenance and development of roads]: Road user charges --[Aimed at]-> Funding maintenance and development of roads 0.8705365061759949
+[Funding maintenance and development of roads]: National land transport fund --[Sourced from]-> Road user charges 0.8523987531661987
+[Funding maintenance and development of roads]: National land transport fund --[Is]-> Key financial mechanism 0.8176717758178711
+[Funding maintenance and development of roads]: National land transport fund --[Plays crucial role in]-> Ensuring transport infrastructure meets needs of growing population and economy 0.8289463520050049
+[Funding maintenance and development of roads]: National land transport fund --[Established under]-> Land transport management act 2003 0.8143646121025085
+[Funding maintenance and development of roads]: Land transport management act 2003 --[Aims to]-> Provide framework for sustainable development 0.8013682961463928
+[Funding maintenance and development of roads]: Land transport management act 2003 --[Provides for]-> Establishment of national land transport fund 0.8067144155502319
+[Funding maintenance and development of roads]: Land transport management act 2003 --[Enacted on]-> 1 july 2004 0.7984140515327454
+[Funding maintenance and development of roads]: Land transport management act 2003 --[Is]-> Key piece of legislation 0.8096362948417664
+[Funding maintenance and development of roads]: Health and safety at work act 2015 --[Is]-> Key piece of legislation 0.7675655484199524
+[Funding maintenance and development of roads]: Health and safety at work act 2015 --[Emphasizes]-> Importance of proactive risk management 0.752898097038269
+[Funding maintenance and development of roads]: Health and safety at work act 2015 --[Introduced]-> Robust approach to workplace safety 0.7445635795593262
+[Funding maintenance and development of roads]: Health and safety at work act 2015 --[Applies to]-> Road transport 0.8056020736694336
+[Funding maintenance and development of roads]: Health and safety at work act 2015 --[Emphasizes]-> Importance of risk management 0.742095947265625
+[Funding maintenance and development of roads]: Health and safety at work act 2015 --[Applies to]-> Maritime 0.7652491331100464
+[Funding maintenance and development of roads]: Health and safety at work act 2015 --[Emphasizes]-> Worker participation 0.7431905269622803
+[Funding maintenance and development of roads]: Health and safety at work act 2015 --[Applies to]-> Aviation 0.7605588436126709
+[Funding maintenance and development of roads]: Health and safety at work act 2015 --[Replaced]-> Health and safety in employment act 1992 0.7430205941200256
+[Funding maintenance and development of roads]: Health and safety at work act 2015 --[Applies to]-> Rail 0.7773598432540894
+[Funding maintenance and development of roads]: Health and safety at work act 2015 --[Introduced]-> Robust approach to workplace health and safety 0.7458744645118713
+[Funding maintenance and development of roads]: Rail transport safety --[Governed by]-> Health and safety at work act 2015 0.7865384817123413
+[Funding maintenance and development of roads]: Land transport act --[Is]-> Key piece of legislation 0.8118853569030762
+[Funding maintenance and development of roads]: Electric scooters --[Classified under]-> Land transport act 0.7815573811531067
+[Funding maintenance and development of roads]: Land transport act --[Provides]-> Framework for implementing road safety campaigns and initiatives 0.8185758590698242
+[Funding maintenance and development of roads]: Land transport act --[Sets]-> Safety and emissions standards 0.7801485061645508
+[Funding maintenance and development of roads]: Land transport act --[Reflects]-> New zealand's commitment to sustainable development 0.7661713361740112
+[Funding maintenance and development of roads]: Land transport act --[Mandates]-> Registration of all motor vehicles 0.7795107364654541
+[Funding maintenance and development of roads]: Land transport act --[Aims to create]-> Comprehensive framework for safe and efficient movement of people and goods 0.8116268515586853
+[Funding maintenance and development of roads]: Land transport act --[Includes]-> Structured licensing system 0.8003633618354797
+[Funding maintenance and development of roads]: Land transport act --[Consolidates and updates]-> Previous transport laws 0.7939698696136475

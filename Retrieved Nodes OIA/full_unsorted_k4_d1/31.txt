@@ -1,0 +1,36 @@
+What is the reason Waka Kotahi does not provide regional breakdowns for Road User Charges, vehicle registration, and licensing data?
+None
+Seed: Waka Kotahi N Z Transport Agency
+Seed: Waka Kotahi NZ Transport Agency
+Seed: NZ Transport Agency Waka Kotahi
+Seed: New Zealand Transport Agency Waka Kotahi
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINS]-> Waka Kotahi N Z Transport Agency 0.855219841003418
+[Waka Kotahi N Z Transport Agency]: Data --[PROVIDED]-> Waka Kotahi N Z Transport Agency 0.9088808298110962
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.868779718875885
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.8775020837783813
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.8700596690177917
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> list of LGWM construction contracts 0.8499133586883545
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> public transport fare policy review 0.8640673160552979
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.8849312663078308
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8636096715927124
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.8722365498542786
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.8748582601547241
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[FAX]-> F 64 4 894 6100 0.8746441602706909
+[Waka Kotahi NZ Transport Agency]: Andrew Knackstedt --[CONTACT]-> Waka Kotahi NZ Transport Agency 0.8502540588378906
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[CONTACT]-> T 64 4 894 5400 0.8746695518493652
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.8633368015289307
+[Waka Kotahi NZ Transport Agency]: Chris Marshall --[REQUESTS]-> Waka Kotahi NZ Transport Agency 0.8634912371635437
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.8779979348182678
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.8746730089187622
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.8612484335899353
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[ANNOUNCED]-> Road to Zero 0.861635684967041
+[Waka Kotahi NZ Transport Agency]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8614835143089294
+[Waka Kotahi NZ Transport Agency]: Road to Zero --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8669131398200989
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.8630418181419373
+[Waka Kotahi NZ Transport Agency]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.8596034646034241
+[Waka Kotahi NZ Transport Agency]: New Zealand --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.8790265917778015
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.8871787786483765
+[Waka Kotahi NZ Transport Agency]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.8592871427536011
+[Waka Kotahi NZ Transport Agency]: www.nzta.govt.nz --[OF]-> Waka Kotahi NZ Transport Agency 0.8861299753189087
+[Waka Kotahi NZ Transport Agency]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.8457527756690979
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.8514127731323242

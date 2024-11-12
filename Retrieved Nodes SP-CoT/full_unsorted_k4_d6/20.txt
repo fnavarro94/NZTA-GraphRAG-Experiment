@@ -1,0 +1,36 @@
+What independent Crown entity is established by the legislation in New Zealand that aims to enhance the safety and accessibility of walking routes for pedestrians to promote and facilitate walking access throughout New Zealand?
+None
+Seed: Independent crown entity
+Seed: Rights of individuals with disabilities
+Seed: Legislative framework for road safety initiatives
+Seed: Advocacy groups
+[Independent crown entity]: New zealand walking access commission --[Is]-> Independent crown entity 0.9367455244064331
+[Independent crown entity]: New zealand walking access commission --[Promotes]-> Walking access throughout the country 0.8798844814300537
+[Independent crown entity]: New zealand walking access commission --[Provides]-> Information to the public about available routes 0.8605131506919861
+[Independent crown entity]: New zealand walking access commission --[Negotiates]-> Access agreements with landowners 0.8303369283676147
+[Independent crown entity]: Walking access act --[Established]-> New zealand walking access commission 0.8921356201171875
+[Independent crown entity]: Walking access act --[Promotes]-> Sustainable transport options 0.8332085609436035
+[Independent crown entity]: Wellington northern corridor --[Accommodates]-> Sustainable transport options 0.8134628534317017
+[Independent crown entity]: Wellington northern corridor --[Links with]-> State highway 1 0.8093253374099731
+[Independent crown entity]: State highway 1 --[Links]-> Major urban centers 0.7537511587142944
+[Independent crown entity]: State highway 1 --[Runs]-> Length of north island 0.7881079316139221
+[Independent crown entity]: Hamilton --[Served by]-> State highway 1 0.7666287422180176
+[Independent crown entity]: Auckland western ring route --[Serves as]-> State highway 1 0.7910086512565613
+[Independent crown entity]: Auckland western ring route --[Reconnects]-> State highway 1 0.7796660661697388
+[Independent crown entity]: Christchurch --[Served by]-> State highway 1 0.808551013469696
+[Independent crown entity]: State highway 1 --[Runs]-> Length of the country 0.7755957841873169
+[Independent crown entity]: Wellington northern corridor --[Reduces]-> Travel times 0.7902042269706726
+[Independent crown entity]: Auckland western ring route --[Reduces]-> Travel times 0.7854478359222412
+[Independent crown entity]: Wellington northern corridor --[Undergoes]-> Ongoing improvements and upgrades 0.8018055558204651
+[Independent crown entity]: Wellington northern corridor --[Protects]-> Local wildlife and habitats 0.8251863718032837
+[Independent crown entity]: Wellington northern corridor --[Passes through]-> Levin 0.8071483373641968
+[Independent crown entity]: Wellington northern corridor --[Connects]-> Wellington 0.8078317642211914
+[Independent crown entity]: Wellington --[Has]-> Bus network covering city and surrounding suburbs 0.7693533897399902
+[Independent crown entity]: Wellington --[Has]-> Various infrastructure improvements 0.8034836053848267
+[Independent crown entity]: Wellington --[Has]-> Invested in its cycling infrastructure 0.8072758913040161
+[Independent crown entity]: Wellington --[Has]-> Upgraded train stations 0.7664549350738525
+[Independent crown entity]: Wellington --[Has]-> Improved accessibility 0.825979471206665
+[Independent crown entity]: Wellington --[Has]-> Comprehensive public transport networks 0.805121123790741
+[Independent crown entity]: Wellington --[Has]-> Commuter rail services 0.8036910891532898
+[Independent crown entity]: Wellington --[Has]-> Proposals for new lines 0.7895667552947998
+[Independent crown entity]: Wellington --[Has]-> Network of buses 0.7895299196243286

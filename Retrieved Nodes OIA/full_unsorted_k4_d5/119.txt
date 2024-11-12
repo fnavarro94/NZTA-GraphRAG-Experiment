@@ -1,0 +1,36 @@
+How many staff have resigned from NZTA since March 2016?
+None
+Seed: resignations by year since 2014
+Seed: staff resignation data
+Seed: staff joining and resigning data
+Seed: context for resignations
+[resignations by year since 2014]: New Zealand Transport Agency --[PROVIDES]-> resignations by year since 2014 0.8769615292549133
+[resignations by year since 2014]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8109264373779297
+[resignations by year since 2014]: New Zealand Transport Agency --[BASED]-> Wellington 0.8090346455574036
+[resignations by year since 2014]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8009586334228516
+[resignations by year since 2014]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.8008368015289307
+[resignations by year since 2014]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7676176428794861
+[resignations by year since 2014]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.7711237072944641
+[resignations by year since 2014]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7659850120544434
+[resignations by year since 2014]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7910189628601074
+[resignations by year since 2014]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.7951518297195435
+[resignations by year since 2014]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7583654522895813
+[resignations by year since 2014]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7593538165092468
+[resignations by year since 2014]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.757457971572876
+[resignations by year since 2014]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.6923623085021973
+[resignations by year since 2014]: Wellington --[CONTAINS]-> Private Bag 6995 0.7671651840209961
+[resignations by year since 2014]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7977039217948914
+[resignations by year since 2014]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8042362332344055
+[resignations by year since 2014]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.7936813831329346
+[resignations by year since 2014]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7737605571746826
+[resignations by year since 2014]: 50 Victoria Street --[IN]-> Wellington 0.7433589696884155
+[resignations by year since 2014]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.7941784858703613
+[resignations by year since 2014]: New Zealand Transport Agency --[LOCATED]-> 50 Victoria Street 0.7980450391769409
+[resignations by year since 2014]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7575424313545227
+[resignations by year since 2014]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7562879323959351
+[resignations by year since 2014]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7524532675743103
+[resignations by year since 2014]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7405994534492493
+[resignations by year since 2014]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.78773432970047
+[resignations by year since 2014]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.8120073080062866
+[resignations by year since 2014]: New Zealand Transport Agency --[CONTACT]-> Wellington 6141 0.8066561818122864
+[resignations by year since 2014]: Wellington 6141 --[POSTAL_ADDRESS]-> New Zealand 0.784807026386261

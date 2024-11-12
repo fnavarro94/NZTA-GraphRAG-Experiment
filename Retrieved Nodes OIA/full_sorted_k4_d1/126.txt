@@ -1,0 +1,15 @@
+Were any details about the crash that caused the $93,114.27 repair withheld?
+None
+Seed: figures on drivers involved in fatal crashes
+Seed: report on the impacts of the Fare Recovery Ratio
+Seed: Traffic Crash Reports
+Seed: Operated A Motor Vehicle Recklessly
+[figures on drivers involved in fatal crashes]: AA --[PROVIDES]-> figures on drivers involved in fatal crashes 0.8103829622268677
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[PRODUCES]-> report on the impacts of the Fare Recovery Ratio 0.7906550168991089
+[Traffic Crash Reports]: Traffic Crash Reports --[CONTAINS]-> information on crash movements and causes 0.8302010893821716
+[Traffic Crash Reports]: Transport Agency --[GETS_INFORMATION]-> Traffic Crash Reports 0.8295190930366516
+[Traffic Crash Reports]: Crash Analysis System --[UPDATES]-> Traffic Crash Reports 0.8205734491348267
+[Traffic Crash Reports]: Traffic Crash Reports --[RECEIVED_FROM]-> NZ Police 0.816815972328186
+[Traffic Crash Reports]: Traffic Crash Reports --[STORED_AS]-> PDFs 0.8070411682128906
+[Traffic Crash Reports]: NZ Police --[PROVIDES]-> Traffic Crash Reports 0.8044162392616272
+[Operated A Motor Vehicle Recklessly]: Operated A Motor Vehicle Recklessly --[COUNT]-> 1 0.8269020318984985

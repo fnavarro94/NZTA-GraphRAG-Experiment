@@ -1,0 +1,36 @@
+What improvements were identified following the safety incidents in May 2017?
+None
+Seed: improving the safety performance of the vehicle fleet
+Seed: Safety Incidents
+Seed: health and safety incidents
+Seed: opportunities to make an announcement regarding changes to the national farebox recovery policy
+[improving the safety performance of the vehicle fleet]: Safe System approach --[INCLUDES]-> improving the safety performance of the vehicle fleet 0.8620311617851257
+[improving the safety performance of the vehicle fleet]: Safe System approach --[INCLUDES]-> installing median barriers 0.8189390301704407
+[improving the safety performance of the vehicle fleet]: Safe System approach --[INCLUDES]-> encouraging road users to be alert and compliant 0.8363494873046875
+[improving the safety performance of the vehicle fleet]: resolution A/RES/74/299 --[PROMOTES]-> Safe System approach 0.8203502297401428
+[improving the safety performance of the vehicle fleet]: United Nations General Assembly --[ADOPTED]-> resolution A/RES/74/299 0.7683308124542236
+[improving the safety performance of the vehicle fleet]: United Nations General Assembly --[ADOPTED]-> A/RES/74/299 0.7637551426887512
+[improving the safety performance of the vehicle fleet]: A/RES/74/299 --[PROMOTES]-> Vision Zero 0.7623056769371033
+[improving the safety performance of the vehicle fleet]: international best-practice guide --[DISCUSSES]-> Vision Zero 0.7645987272262573
+[improving the safety performance of the vehicle fleet]: Road to Zero strategy --[AIMS_TO]-> Vision Zero 0.7451868057250977
+[improving the safety performance of the vehicle fleet]: Road to Zero strategy --[BASED_ON]-> Vision Zero 0.7346387505531311
+[improving the safety performance of the vehicle fleet]: Vision Zero --[RECOMMENDED_BY]-> Organisation for Economic Co-operation and Development 0.7800454497337341
+[improving the safety performance of the vehicle fleet]: Vision Zero --[TARGETS]-> zero deaths and serious injuries 0.7727473974227905
+[improving the safety performance of the vehicle fleet]: Sweden --[ADOPTED]-> Vision Zero 0.7589688301086426
+[improving the safety performance of the vehicle fleet]: Vision Zero --[BASED_ON]-> ethical premise 0.7150388956069946
+[Safety Incidents]: Health, Safety & Quality Report --[CONTAINS]-> Safety Incidents 0.8810409903526306
+[Safety Incidents]: Stephen Bell --[SUBMITS_REPORT]-> Health, Safety & Quality Report 0.8322706818580627
+[Safety Incidents]: Board --[RECEIVES_REPORT]-> Health, Safety & Quality Report 0.8333064317703247
+[Safety Incidents]: Safety Incidents --[INVESTIGATED]-> Board 0.8661335706710815
+[health and safety incidents]: health and safety incidents --[REGIONAL_BREAKDOWN]-> regional breakdown 0.8592875599861145
+[health and safety incidents]: regional breakdown --[LISTS]-> incidents by region 0.8370051980018616
+[health and safety incidents]: incidents by region --[INCLUDES]-> total incidents per year 0.8384017944335938
+[health and safety incidents]: total incidents per year --[SHOWS]-> 2008-2013 0.8391137719154358
+[health and safety incidents]: 2008-2013 --[CONTAINS]-> incident reports 0.8568356037139893
+[health and safety incidents]: Health and Safety Committee --[REVIEW]-> incident reports 0.8632611036300659
+[health and safety incidents]: incident reports --[REVIEWED]-> regional managers 0.8477926850318909
+[health and safety incidents]: incident reports --[RETAINED]-> 12 months 0.837295413017273
+[health and safety incidents]: spreadsheet --[CONTAINS]-> incident reports 0.8090881109237671
+[health and safety incidents]: incident reports --[ISO]-> International Organisation for Standardisation 0.8365179300308228
+[health and safety incidents]: incident reports --[RELATE_TO]-> health and safety incidents 0.8573017120361328
+[health and safety incidents]: 12 months --[RETENTION_PERIOD]-> incident reports 0.8305962085723877

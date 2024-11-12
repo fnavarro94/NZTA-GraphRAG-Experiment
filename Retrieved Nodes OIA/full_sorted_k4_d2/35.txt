@@ -1,0 +1,34 @@
+How many streetlights are there on motorways in New Zealand?
+None
+Seed: street lights information from local councils
+Seed: information on traffic light cameras
+Seed: street lights information
+Seed: information on traffic light cameras and speed cameras
+[street lights information from local councils]: New Zealand Transport Agency --[PROVIDES]-> street lights data 0.8822363018989563
+[street lights information from local councils]: New Zealand Transport Agency --[AUDITS]-> street lighting assets 0.8501201868057251
+[street lights information from local councils]: street lights information from local councils --[OBTAINABLE_FROM]-> local councils 0.8449780941009521
+[street lights information from local councils]: New Zealand Transport Agency --[MANAGES]-> roads 0.8441534042358398
+[street lights information from local councils]: roads --[MAINTAINED]-> New Zealand Transport Agency 0.8401168584823608
+[street lights information from local councils]: roads --[MAINTAINED_BY]-> New Zealand Transport Agency 0.8396428823471069
+[street lights information from local councils]: New Zealand Transport Agency --[MONITORS]-> road conditions 0.8392947912216187
+[information on traffic light cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.8166650533676147
+[information on traffic light cameras]: New Zealand Transport Agency --[ASSOCIATED]-> Waka Kotahi 0.815034031867981
+[information on traffic light cameras]: New Zealand Transport Agency --[IS]-> Waka Kotahi 0.8148432970046997
+[information on traffic light cameras]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.8105887770652771
+[information on traffic light cameras]: Waka Kotahi --[COLLABORATES_WITH]-> Auckland Transport 0.8068105578422546
+[information on traffic light cameras]: transport infrastructure --[SERVED_BY]-> Waka Kotahi 0.8063076138496399
+[information on traffic light cameras]: Waka Kotahi --[ALTERNATIVE_NAME]-> New Zealand Transport Agency 0.8061025738716125
+[street lights information]: response letter --[CONTAINS]-> street lights information 0.8234589099884033
+[street lights information]: New Zealand Transport Agency --[PUBLISHES]-> response letter 0.8079550862312317
+[street lights information]: response letter --[ASSOCIATED_WITH]-> NZ Transport Agency Waka Kotahi 0.8040257096290588
+[street lights information]: New Zealand Transport Agency --[PROVIDES]-> response letter 0.8029570579528809
+[street lights information]: NZ Transport Agency Waka Kotahi --[PUBLISHES]-> response letter 0.8017289638519287
+[street lights information]: response letter --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7993876338005066
+[street lights information]: response letter --[FILE_PATH]-> /Users/felipenavarro/Documents/Auckland/nzta/nzta_dev/NZTA-GraphRAG/transport_data/sample_files/nzta/temp_files/oia-14980-response-letter.pdf 0.7975109815597534
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.8166650533676147
+[information on traffic light cameras and speed cameras]: New Zealand Transport Agency --[ASSOCIATED]-> Waka Kotahi 0.815034031867981
+[information on traffic light cameras and speed cameras]: New Zealand Transport Agency --[IS]-> Waka Kotahi 0.8148432970046997
+[information on traffic light cameras and speed cameras]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.8105887770652771
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[COLLABORATES_WITH]-> Auckland Transport 0.8068105578422546
+[information on traffic light cameras and speed cameras]: transport infrastructure --[SERVED_BY]-> Waka Kotahi 0.8063076138496399
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[ALTERNATIVE_NAME]-> New Zealand Transport Agency 0.8061025738716125

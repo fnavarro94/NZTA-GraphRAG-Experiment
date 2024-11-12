@@ -1,0 +1,12 @@
+What information was withheld from the response about the Road Efficiency Group briefing?
+None
+Seed: Some information has been withheld under section 9(2)(f)(iv)
+Seed: Road Efficiency Group
+Seed: Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)
+Seed: specific questions and the NZ Transport Agency’s responses
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[IS]-> Some information has been withheld under section 9(2)(f)(iv) 0.8298884034156799
+[Road Efficiency Group]: Documents --[CONTAINS]-> Road Efficiency Group 0.8644993305206299
+[Road Efficiency Group]: BRI-3010 --[RELATES_TO]-> Road Efficiency Group 0.8427264094352722
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[IS]-> Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv) 0.8251271843910217
+[specific questions and the NZ Transport Agency’s responses]: specific questions and the NZ Transport Agency’s responses --[OUTLINES]-> questions and responses 0.8547587990760803
+[specific questions and the NZ Transport Agency’s responses]: response to the request --[CONTAINS]-> specific questions and the NZ Transport Agency’s responses 0.8377858400344849

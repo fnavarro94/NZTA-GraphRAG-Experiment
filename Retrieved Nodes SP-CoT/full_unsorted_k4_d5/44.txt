@@ -1,0 +1,36 @@
+What global initiative does New Zealand align with to achieve its goal of reducing road deaths and serious injuries to zero by 2050, based on the national framework it follows to guide its efforts in reducing road traffic injuries and fatalities?
+None
+Seed: Reducing road deaths and serious injuries to zero by 2050
+Seed: Reduce road fatalities and serious injuries to zero by 2050
+Seed: Eliminate road fatalities and serious injuries by 2050
+Seed: Significant shift in new zealand's approach to road safety
+[Reducing road deaths and serious injuries to zero by 2050]: Road to zero strategy --[Sets goal]-> Reducing road deaths and serious injuries to zero by 2050 0.8892764449119568
+[Reducing road deaths and serious injuries to zero by 2050]: Road to zero strategy --[Launched]-> 2019 0.8242771625518799
+[Reducing road deaths and serious injuries to zero by 2050]: Road safety strategy --[Launched]-> 2019 0.8437243700027466
+[Reducing road deaths and serious injuries to zero by 2050]: Road safety strategy --[Improves]-> Safety of all road users 0.8181089162826538
+[Reducing road deaths and serious injuries to zero by 2050]: Road safety strategy --[Encompasses]-> Range of initiatives and policies 0.8419662714004517
+[Reducing road deaths and serious injuries to zero by 2050]: Road safety strategy --[Aimed at]-> Reducing road traffic injuries and fatalities 0.8530974984169006
+[Reducing road deaths and serious injuries to zero by 2050]: New zealand road safety strategy --[Aimed at]-> Reducing road traffic injuries and fatalities 0.8970059156417847
+[Reducing road deaths and serious injuries to zero by 2050]: Road safety education --[Aimed at]-> Reducing road traffic injuries and fatalities 0.8176319599151611
+[Reducing road deaths and serious injuries to zero by 2050]: Road safety strategy --[Is]-> Comprehensive framework 0.8483434319496155
+[Reducing road deaths and serious injuries to zero by 2050]: New zealand road safety strategy --[Is]-> Comprehensive framework 0.8889936208724976
+[Reducing road deaths and serious injuries to zero by 2050]: New zealand transport strategy --[Is]-> Comprehensive framework 0.856277346611023
+[Reducing road deaths and serious injuries to zero by 2050]: Transport skills strategy --[Is]-> Comprehensive framework 0.788235068321228
+[Reducing road deaths and serious injuries to zero by 2050]: Speed management guide --[Is]-> Comprehensive framework 0.7759528160095215
+[Reducing road deaths and serious injuries to zero by 2050]: Road traffic legislation --[Is]-> Comprehensive framework 0.8250265121459961
+[Reducing road deaths and serious injuries to zero by 2050]: Road safety strategy --[Aims]-> Achieve significant reduction in road deaths and serious injuries 0.8609011173248291
+[Reducing road deaths and serious injuries to zero by 2050]: Road safety strategy --[Emphasizes]-> Safe system approach 0.8159562945365906
+[Reducing road deaths and serious injuries to zero by 2050]: Waka kotahi --[Emphasizes]-> Safe system approach 0.7594393491744995
+[Reducing road deaths and serious injuries to zero by 2050]: Safe system approach --[Designed to]-> Accommodate errors 0.71739262342453
+[Reducing road deaths and serious injuries to zero by 2050]: Safe system approach --[Recognizes]-> Road users make mistakes 0.7784382700920105
+[Reducing road deaths and serious injuries to zero by 2050]: Safe system approach --[Recognizes]-> Shared responsibility among all stakeholders 0.7511706352233887
+[Reducing road deaths and serious injuries to zero by 2050]: Road safety strategy --[Aimed to reduce]-> 40% by 2010 0.8153623938560486
+[Reducing road deaths and serious injuries to zero by 2050]: Road safety strategy --[Was established]-> 2003 0.8181185126304626
+[Reducing road deaths and serious injuries to zero by 2050]: Road safety strategy --[Aimed to reduce]-> Road deaths and serious injuries 0.8703364133834839
+[Reducing road deaths and serious injuries to zero by 2050]: Road to zero strategy --[Aligns with]-> Global best practices and united nations' sustainable development goals 0.8388547897338867
+[Reducing road deaths and serious injuries to zero by 2050]: Road to zero strategy --[Aims]-> Eliminate road deaths and serious injuries 0.8758468627929688
+[Reducing road deaths and serious injuries to zero by 2050]: Road to zero strategy --[Aligns with]-> New zealand's commitment to reducing greenhouse gas emissions 0.8684815168380737
+[Reducing road deaths and serious injuries to zero by 2050]: Road to zero strategy --[Aims to]-> Eliminate road fatalities and serious injuries by 2050 0.887881875038147
+[Reduce road fatalities and serious injuries to zero by 2050]: Road to zero --[Aim]-> Reduce road fatalities and serious injuries to zero by 2050 0.8853403925895691
+[Reduce road fatalities and serious injuries to zero by 2050]: Road to zero --[Reflects]-> Commitment to creating safe transport system 0.8285680413246155
+[Reduce road fatalities and serious injuries to zero by 2050]: Road to zero --[Aims]-> Achieve vision of zero deaths and serious injuries 0.8727294206619263

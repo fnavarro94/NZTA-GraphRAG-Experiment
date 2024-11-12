@@ -1,0 +1,27 @@
+What is the total amount of money Waka Kotahi is planning to spend on the Road to Zero strategy until 2030?
+None
+Seed: cost of the current Road to Zero advertising campaign
+Seed: development of the next Road to Zero Action Plan
+Seed: Waka Kotahi
+Seed: Waka Kotahi Senior Project Manager
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[COST]-> cost of the current Road to Zero advertising campaign 0.8234602212905884
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[LAUNCHED_BY]-> New Zealand Transport Agency 0.7997756600379944
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[TARGET]-> zero accidents 0.7947006225585938
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[LOGIC]-> logic in making this critical decision 0.7865439057350159
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[EVALUATED_BY]-> post campaign polling or research 0.7813875079154968
+[cost of the current Road to Zero advertising campaign]: Request made under the Official Information Act 1982 --[CHALLENGES]-> Road To Zero campaign 0.7689681053161621
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[SUPPORTS]-> Road to Zero strategy 0.9110457301139832
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[WORKING_WITH]-> development of the next Road to Zero Action Plan 0.9046749472618103
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[ALLOCATES]-> $15 million 0.8728307485580444
+[development of the next Road to Zero Action Plan]: national fund --[DISTRIBUTED_BY]-> Waka Kotahi 0.8697652816772461
+[development of the next Road to Zero Action Plan]: Road to Zero --[IS_IMPLEMENTED_BY]-> Waka Kotahi 0.8654656410217285
+[development of the next Road to Zero Action Plan]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.8629093170166016
+[development of the next Road to Zero Action Plan]: National Land Transport Fund --[ADMINISTERED_BY]-> Waka Kotahi 0.8626782298088074
+[Waka Kotahi]: Waka Kotahi --[SUPPORTS]-> Road to Zero strategy 0.9110457301139832
+[Waka Kotahi]: Waka Kotahi --[WORKING_WITH]-> development of the next Road to Zero Action Plan 0.9046749472618103
+[Waka Kotahi]: Waka Kotahi --[ALLOCATES]-> $15 million 0.8728307485580444
+[Waka Kotahi]: Road to Zero strategy --[BY]-> 2030 0.8705825805664062
+[Waka Kotahi]: national fund --[DISTRIBUTED_BY]-> Waka Kotahi 0.8697652816772461
+[Waka Kotahi]: Road to Zero --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8654664158821106
+[Waka Kotahi]: Road to Zero --[IS_IMPLEMENTED_BY]-> Waka Kotahi 0.8654656410217285
+[Waka Kotahi Senior Project Manager]: Waka Kotahi Senior Project Manager --[MANAGES]-> State Highway 25A Rebuild Project 0.8106846213340759

@@ -1,0 +1,36 @@
+What are the two types of toll revenue for the Tākitimu Drive Toll Road?
+None
+Seed: Takitimu Drive Toll Road
+Seed: Toll Revenue
+Seed: toll revenue
+Seed: paid toll revenues
+[Takitimu Drive Toll Road]: Takitimu Drive Toll Road --[PROVIDES]-> Toll Revenue 0.9322882294654846
+[Takitimu Drive Toll Road]: Tauranga Eastern Link Toll Road --[PROVIDES]-> Toll Revenue 0.852565586566925
+[Takitimu Drive Toll Road]: Northern Gateway Toll Road --[PROVIDES]-> Toll Revenue 0.8446418642997742
+[Takitimu Drive Toll Road]: Northern Gateway Toll Road --[DEBT_REPAYMENT]-> 35 years 0.8155136108398438
+[Takitimu Drive Toll Road]: Northern Gateway Toll Road --[ESTIMATED_END_DATE]-> 2045 0.8091853857040405
+[Toll Revenue]: Tauranga Eastern Link Toll Road --[PROVIDES]-> Toll Revenue 0.852565586566925
+[Toll Revenue]: Takitimu Drive Toll Road --[PROVIDES]-> Toll Revenue 0.9322882294654846
+[Toll Revenue]: Northern Gateway Toll Road --[PROVIDES]-> Toll Revenue 0.8446418642997742
+[Toll Revenue]: Northern Gateway Toll Road --[DEBT_REPAYMENT]-> 35 years 0.8155136108398438
+[Toll Revenue]: Northern Gateway Toll Road --[ESTIMATED_END_DATE]-> 2045 0.8091853857040405
+[toll revenue]: NZTA --[RETAINS]-> toll revenue 0.813494861125946
+[toll revenue]: NZTA --[SETS]-> quality standards 0.7198219895362854
+[toll revenue]: quality standards --[THROUGH]-> Maintenance Management Plan 0.7423098087310791
+[toll revenue]: Maintenance Management Plan --[REPORT]-> quarterly reports 0.7516701221466064
+[toll revenue]: quarterly reports --[AUDITED]-> NZTA 0.7569300532341003
+[toll revenue]: NZTA --[PROVIDES]-> maintenance specifications 0.7494863271713257
+[toll revenue]: pothole repair specifications --[FROM]-> NZTA 0.751832127571106
+[toll revenue]: NZTA --[PROVIDES]-> third-party web pages 0.7571051120758057
+[toll revenue]: transport_data --[ASSOCIATED_WITH]-> NZTA 0.7466048002243042
+[toll revenue]: NZTA --[ASSOCIATED_WITH]-> nzta_dev 0.7050201892852783
+[toll revenue]: temp files --[ASSOCIATED_WITH]-> NZTA 0.719863772392273
+[toll revenue]: Auckland --[ASSOCIATED_WITH]-> NZTA 0.7342633008956909
+[toll revenue]: temp_files --[ASSOCIATED_WITH]-> NZTA 0.7202272415161133
+[toll revenue]: NZTA --[ASSOCIATED_WITH]-> sample_files 0.7166658043861389
+[toll revenue]: increase/decrease --[AWARE_OF]-> NZTA 0.7076376676559448
+[toll revenue]: sample_files --[ASSOCIATED_WITH]-> NZTA 0.7216707468032837
+[toll revenue]: NZTA --[ASSOCIATED_WITH]-> Andrew McFarlane 0.7297638654708862
+[toll revenue]: NZTA --[ASSOCIATED_WITH]-> temp files 0.715909481048584
+[toll revenue]: oia-4903 --[ASSOCIATED_WITH]-> NZTA 0.7280923128128052
+[toll revenue]: NZTA --[ASSOCIATED_WITH]-> temp_files 0.7178777456283569

@@ -1,0 +1,36 @@
+Was Higgins Concrete Ltd engaged in any NZTA projects during the audit period?
+None
+Seed: information on Higgins Ltd projects
+Seed: information on Higgins Wellington projects
+Seed: Higgins Concrete Limited
+Seed: Higgins Group Holdings Limited
+[information on Higgins Ltd projects]: New Zealand Transport Agency --[PROVIDES]-> information on Higgins Ltd projects 0.8874444961547852
+[information on Higgins Ltd projects]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8004370927810669
+[information on Higgins Ltd projects]: New Zealand Transport Agency --[BASED]-> Wellington 0.805645763874054
+[information on Higgins Ltd projects]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7782591581344604
+[information on Higgins Ltd projects]: Golden Mile --[LOCATED]-> Wellington 0.7617900371551514
+[information on Higgins Ltd projects]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7643543481826782
+[information on Higgins Ltd projects]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7551348209381104
+[information on Higgins Ltd projects]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.765336275100708
+[information on Higgins Ltd projects]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7764527797698975
+[information on Higgins Ltd projects]: Wellington --[PART_OF]-> Wellington Region 0.7898926734924316
+[information on Higgins Ltd projects]: New Zealand --[HAS_CAPITAL]-> Wellington 0.805288553237915
+[information on Higgins Ltd projects]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7785094976425171
+[information on Higgins Ltd projects]: Wellington --[HAS]-> tunnel 0.7917643189430237
+[information on Higgins Ltd projects]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7636383175849915
+[information on Higgins Ltd projects]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.77445387840271
+[information on Higgins Ltd projects]: Wellington --[POSTCODE]-> 6141 0.7587089538574219
+[information on Higgins Ltd projects]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7969541549682617
+[information on Higgins Ltd projects]: Wellington --[IS_PART_OF]-> New Zealand 0.7867600321769714
+[information on Higgins Ltd projects]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7972664833068848
+[information on Higgins Ltd projects]: 50 Victoria Street --[IN]-> Wellington 0.7673071622848511
+[information on Higgins Ltd projects]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7546775937080383
+[information on Higgins Ltd projects]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7720800042152405
+[information on Higgins Ltd projects]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7781224250793457
+[information on Higgins Ltd projects]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7649039030075073
+[information on Higgins Ltd projects]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7653177976608276
+[information on Higgins Ltd projects]: NZ Transport Agency --[LOCATED]-> Wellington 0.7990090847015381
+[information on Higgins Ltd projects]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7767045497894287
+[information on Higgins Ltd projects]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7704323530197144
+[information on Higgins Ltd projects]: New Zealand --[CONTAINS]-> Wellington 0.7873101234436035
+[information on Higgins Ltd projects]: Wellington --[PART_OF]-> New Zealand 0.795031726360321

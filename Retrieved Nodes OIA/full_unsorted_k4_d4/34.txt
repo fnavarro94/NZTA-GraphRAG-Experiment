@@ -1,0 +1,36 @@
+Where can information about the latest developments in the high productivity motor vehicles (HPMV) bridge strengthening programme be found?
+None
+Seed: current information on HPMV investment routes
+Seed: information on HPMV investment routes
+Seed: request to Minister of Transport
+Seed: briefings to the Minister of Transport
+[current information on HPMV investment routes]: New Zealand Transport Agency --[PROVIDES]-> current information on HPMV investment routes 0.8669214248657227
+[current information on HPMV investment routes]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7715845108032227
+[current information on HPMV investment routes]: New Zealand Transport Agency --[BASED]-> Wellington 0.7746367454528809
+[current information on HPMV investment routes]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7720149755477905
+[current information on HPMV investment routes]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7859928607940674
+[current information on HPMV investment routes]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7643512487411499
+[current information on HPMV investment routes]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7687368988990784
+[current information on HPMV investment routes]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7794057130813599
+[current information on HPMV investment routes]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7830231785774231
+[current information on HPMV investment routes]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7898736000061035
+[current information on HPMV investment routes]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7700219750404358
+[current information on HPMV investment routes]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7780492305755615
+[current information on HPMV investment routes]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7845887541770935
+[current information on HPMV investment routes]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7900882363319397
+[current information on HPMV investment routes]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7886060476303101
+[current information on HPMV investment routes]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.779951810836792
+[current information on HPMV investment routes]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7758675217628479
+[current information on HPMV investment routes]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7874590158462524
+[current information on HPMV investment routes]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7624064683914185
+[current information on HPMV investment routes]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7730830311775208
+[current information on HPMV investment routes]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8043056726455688
+[current information on HPMV investment routes]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7436060905456543
+[current information on HPMV investment routes]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7861443161964417
+[current information on HPMV investment routes]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7904162406921387
+[current information on HPMV investment routes]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7851078510284424
+[current information on HPMV investment routes]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7602882385253906
+[current information on HPMV investment routes]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7643556594848633
+[current information on HPMV investment routes]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7885351777076721
+[current information on HPMV investment routes]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7513373494148254
+[current information on HPMV investment routes]: Senior Engineer Vehicle Standard --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7930358052253723

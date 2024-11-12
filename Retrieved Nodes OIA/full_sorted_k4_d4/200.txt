@@ -1,0 +1,34 @@
+What was the Board's instruction regarding the number of direct reports for the Chief Executive in 2018?
+None
+Seed: Chief Financial Officer
+Seed: Chief Executive
+Seed: Annual Reports
+Seed: Annual Monitoring Report 2020
+[Chief Financial Officer]: Chief Financial Officer --[HELD_BY]-> Howard Cattermole 0.8007078170776367
+[Chief Financial Officer]: Chief Executive --[EMPLOYER]-> New Zealand Transport Agency 0.7991557121276855
+[Chief Financial Officer]: Waka Kotahi --[BOARD_MEETING]-> Board papers 0.7979426383972168
+[Chief Financial Officer]: Waka Kotahi --[PUBLISHES]-> Annual Reports 0.7950664162635803
+[Chief Financial Officer]: New Zealand Transport Agency --[ASSOCIATED]-> Business-as-usual legal advice 0.7935675382614136
+[Chief Financial Officer]: Coroner’s reports --[PROVIDES]-> information 0.7912834882736206
+[Chief Financial Officer]: www.ombudsman.parliament.nz --[HOSTS]-> contact details for the Ombudsman 0.7904225587844849
+[Chief Executive]: Board papers --[CONTAINS]-> legal advice 0.8220525979995728
+[Chief Executive]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.8132454752922058
+[Chief Executive]: Kate Styles --[FOR]-> Chief Executive 0.8075463175773621
+[Chief Executive]: Michael Morrah --[SUBMITTED]-> request for information 0.8064003586769104
+[Chief Executive]: review --[CONDUCTED_BY]-> Ombudsman 0.8053731918334961
+[Chief Executive]: Annual Reports --[CONTAINS]-> paid toll revenues 0.8028664588928223
+[Chief Executive]: Data --[IS]-> Current at 18 September 2019 0.8024448156356812
+[Annual Reports]: Board papers --[CONTAINS]-> legal advice 0.8220525979995728
+[Annual Reports]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.8132454752922058
+[Annual Reports]: Kate Styles --[FOR]-> Chief Executive 0.8075463175773621
+[Annual Reports]: Michael Morrah --[SUBMITTED]-> request for information 0.8064003586769104
+[Annual Reports]: review --[CONDUCTED_BY]-> Ombudsman 0.8053731918334961
+[Annual Reports]: Response to OIA Request --[CONTAINS]-> Advertising Media Spend 2017-2018 0.803826630115509
+[Annual Reports]: Annual Reports --[CONTAINS]-> paid toll revenues 0.8028664588928223
+[Annual Monitoring Report 2020]: Board papers --[CONTAINS]-> legal advice 0.8220525979995728
+[Annual Monitoring Report 2020]: review --[CONDUCTED_BY]-> Ombudsman 0.8053731918334961
+[Annual Monitoring Report 2020]: Annual Reports --[CONTAINS]-> paid toll revenues 0.8028664588928223
+[Annual Monitoring Report 2020]: review by the Ombudsman --[CONDUCTED_BY]-> Ombudsman 0.8014020919799805
+[Annual Monitoring Report 2020]: Road to Zero --[PROGRESS]-> Annual Monitoring Report 0.8009686470031738
+[Annual Monitoring Report 2020]: information request --[RELATES]-> section 18(e) of the Act 0.800550103187561
+[Annual Monitoring Report 2020]: Chief Executive --[EMPLOYER]-> New Zealand Transport Agency 0.7991557121276855

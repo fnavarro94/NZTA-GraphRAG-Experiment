@@ -1,0 +1,34 @@
+What city does State Highway 3 (SH3) connect to the western regions from, which is located at the southern end of the Waikato Expressway, improving travel times and safety to Auckland?
+None
+Seed: Waikato expressway
+Seed: State highway 3
+Seed: Significant transport corridor
+Seed: City to waikato region
+[Waikato expressway]: Waikato expressway --[Aims to improve]-> Travel times and safety between auckland and hamilton 0.8757200241088867
+[Waikato expressway]: Auckland western ring route --[Is]-> Significant transport corridor 0.8659512996673584
+[Waikato expressway]: Waikato expressway --[Is part of]-> National land transport programme 0.8589686155319214
+[Waikato expressway]: Waikato expressway --[Significantly enhances]-> Efficiency of freight transport in region 0.8584645390510559
+[Waikato expressway]: Auckland western ring route --[Supports]-> Urban transport 0.8568392992019653
+[Waikato expressway]: Auckland western ring route --[Serves as]-> Critical alternative 0.8562630414962769
+[Waikato expressway]: Auckland western ring route --[Key component]-> Auckland's broader transport strategy 0.8539099097251892
+[State highway 3]: Southern motorway --[Links]-> City to waikato region 0.8980988264083862
+[State highway 3]: Southern motorway --[Links]-> Waikato region 0.8946494460105896
+[State highway 3]: Auckland --[Has]-> Southern motorway and northern motorway 0.8666748404502869
+[State highway 3]: Auckland western ring route --[Is]-> Significant transport corridor 0.8659512996673584
+[State highway 3]: Auckland --[Has]-> Motorway system 0.8631788492202759
+[State highway 3]: Auckland --[Has]-> Motorways 0.8630425930023193
+[State highway 3]: Auckland --[Has]-> Significant transport hub 0.8589828610420227
+[Significant transport corridor]: Auckland western ring route --[Is]-> Significant transport corridor 0.8659512996673584
+[Significant transport corridor]: Waikato expressway --[Is part of]-> National land transport programme 0.8589686155319214
+[Significant transport corridor]: Christchurch --[Connected by]-> State highways 0.8569524884223938
+[Significant transport corridor]: Auckland western ring route --[Supports]-> Urban transport 0.8568392992019653
+[Significant transport corridor]: Auckland western ring route --[Serves as]-> Critical alternative 0.8562630414962769
+[Significant transport corridor]: Auckland western ring route --[Key component]-> Auckland's broader transport strategy 0.8539099097251892
+[Significant transport corridor]: Auckland western ring route --[Improves]-> Overall traffic conditions 0.8534340262413025
+[City to waikato region]: Southern motorway --[Links]-> City to waikato region 0.8980988264083862
+[City to waikato region]: Southern motorway --[Links]-> Waikato region 0.8946494460105896
+[City to waikato region]: Hamilton --[Located in]-> Waikato region 0.8416891694068909
+[City to waikato region]: Hamilton --[Served by]-> State highway 3 0.8264254927635193
+[City to waikato region]: Hamilton --[Situated]-> 130 kilometers south of auckland 0.8207730650901794
+[City to waikato region]: Hamilton --[Is]-> Transport hub 0.8004274964332581
+[City to waikato region]: Hamilton --[Situated]-> 40 kilometers north of tauranga 0.7980279326438904

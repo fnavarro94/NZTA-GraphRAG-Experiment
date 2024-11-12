@@ -1,0 +1,13 @@
+What is the process for proposing improvements to the Hornby Intersection if no improvements are planned?
+None
+Seed: Request for information on Hornby Intersection improvements
+Seed: no other intersection safety improvements planned
+Seed: Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case
+Seed: Hornby Intersection
+[Request for information on Hornby Intersection improvements]: Request for information on Hornby Intersection improvements --[REQUESTS]-> New Zealand Transport Agency 0.9006513357162476
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[RESPONDS_TO]-> Request for information on Hornby Intersection improvements 0.8891997337341309
+[no other intersection safety improvements planned]: Featherston --[RAISED_CROSSINGS]-> no other intersection safety improvements planned 0.8450115323066711
+[Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.873885989189148
+[Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case]: Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.8706427216529846
+[Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.8597006797790527
+[Hornby Intersection]: Hornby Intersection --[IMPROVEMENTS_PLANNED]-> next 10 years 0.9156594276428223

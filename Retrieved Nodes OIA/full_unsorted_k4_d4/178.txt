@@ -1,0 +1,36 @@
+How were rental companies involved in the Visiting Drivers Signature Project?
+None
+Seed: rental companies might be prepared to pay for this
+Seed: Visiting Drivers Signature Project Working Group
+Seed: summary of the visiting drivers survey
+Seed: information on visiting drivers survey
+[rental companies might be prepared to pay for this]: Kate Meldrum --[INDICATED]-> rental companies might be prepared to pay for this 0.8086701035499573
+[rental companies might be prepared to pay for this]: Kate Meldrum --[DEVELOP]-> proposal for funding the steering wheel tags 0.7870950102806091
+[rental companies might be prepared to pay for this]: Steve Hanrahan --[DEVELOP]-> proposal for funding the steering wheel tags 0.7696219086647034
+[rental companies might be prepared to pay for this]: Steve Hanrahan --[RAISE]-> possibility of including road safety messaging 0.7482100129127502
+[rental companies might be prepared to pay for this]: Steve Hanrahan --[AGREED]-> this fits in with the rollout of the TIA guidelines across the country 0.7145286798477173
+[rental companies might be prepared to pay for this]: Steve Hanrahan --[REPORT]-> back to the group on his discussions with the Responsible Camping Forum and the interisland ferries 0.7661447525024414
+[Visiting Drivers Signature Project Working Group]: Visiting Drivers Signature Project Working Group --[MEETS]-> 20 October 2014 0.8574808835983276
+[summary of the visiting drivers survey]: NZ Transport Agency --[DECLINE]-> summary of the visiting drivers survey 0.8027735948562622
+[summary of the visiting drivers survey]: NZ Transport Agency --[ASSOCIATED]-> Andrew Knackstedt 0.770503044128418
+[summary of the visiting drivers survey]: response --[ASSOCIATED_WITH]-> Andrew Knackstedt 0.743372917175293
+[summary of the visiting drivers survey]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.7765358090400696
+[summary of the visiting drivers survey]: Charles Ronaldson --[SIGNED]-> response 0.7412530183792114
+[summary of the visiting drivers survey]: response --[CONTAINS]-> Waka Kotahi 0.7209535241127014
+[summary of the visiting drivers survey]: Lauren Cooke --[SIGNED]-> response 0.7443093061447144
+[summary of the visiting drivers survey]: Waka Kotahi --[PUBLISHED_BY]-> response 0.7282405495643616
+[summary of the visiting drivers survey]: Ministry --[PROVIDE]-> response 0.7376238107681274
+[summary of the visiting drivers survey]: response --[REMOVED]-> personal information 0.6996071934700012
+[summary of the visiting drivers survey]: Waka Kotahi website --[CONTAINS]-> response 0.7069864869117737
+[summary of the visiting drivers survey]: New Zealand Transport Agency --[DISCUSSES]-> response 0.7721363306045532
+[summary of the visiting drivers survey]: response --[IS_A]-> letter 0.7294574975967407
+[summary of the visiting drivers survey]: Waka Kotahi --[FOLLOWS]-> response 0.7061044573783875
+[summary of the visiting drivers survey]: New Zealand Transport Agency --[PUBLISH]-> response 0.7919346690177917
+[summary of the visiting drivers survey]: New Zealand Transport Agency --[PUBLISHES]-> response 0.7865301370620728
+[summary of the visiting drivers survey]: response --[IS]-> response letter 0.7102240324020386
+[summary of the visiting drivers survey]: response letter --[IS]-> response 0.7107808589935303
+[summary of the visiting drivers survey]: response --[CONTAINS]-> contact details for the Ombudsman 0.7295169234275818
+[summary of the visiting drivers survey]: response --[CONTAINS]-> Jamie Ensor 0.7272305488586426
+[summary of the visiting drivers survey]: response --[RELATES_TO]-> personal information removed 0.7160751223564148
+[summary of the visiting drivers survey]: Conan Young --[RECEIVES]-> response 0.6974165439605713
+[summary of the visiting drivers survey]: oia-14650-response-letter.pdf --[CONTAINS]-> response 0.7427994012832642

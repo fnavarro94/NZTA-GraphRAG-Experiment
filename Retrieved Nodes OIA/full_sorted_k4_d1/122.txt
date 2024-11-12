@@ -1,0 +1,16 @@
+What has NZTA budgeted for median barriers over the last five years?
+None
+Seed: median barriers
+Seed: Median Barriers
+Seed: manage fare revenue and public transport budgets within current funding allocations
+Seed: public transport budgets
+[median barriers]: New Zealand Transport Agency --[BUDGETS]-> median barriers 0.9256554245948792
+[median barriers]: median barriers --[LOCATED]-> New Zealand 0.8966175317764282
+[median barriers]: information --[RELATES_TO]-> median barriers 0.821408748626709
+[median barriers]: context of figures --[RELATES_TO]-> median barriers 0.8181552886962891
+[median barriers]: rely on figures --[RELATES_TO]-> median barriers 0.8159428238868713
+[Median Barriers]: John-Michael Swannix --[REQUESTS]-> Median Barriers 0.8050156831741333
+[manage fare revenue and public transport budgets within current funding allocations]: manage fare revenue and public transport budgets within current funding allocations --[REQUIRES]-> standard cost scope adjustment process 0.8265233039855957
+[manage fare revenue and public transport budgets within current funding allocations]: councils --[MUST]-> manage fare revenue and public transport budgets within current funding allocations 0.8032642602920532
+[public transport budgets]: public transport budgets --[MANAGED_BY]-> councils 0.8079116344451904
+[public transport budgets]: fares play an important role in helping cover the cost of public transport within available budgets --[CONTRIBUTES]-> public transport budgets 0.7908912301063538

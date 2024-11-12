@@ -1,0 +1,36 @@
+What body of water does the public transport system that connects the central business district of Auckland with various suburbs and islands operate across to connect the central business district with destinations like Devonport and Waiheke Island?
+None
+Seed: Central business district of auckland with destinations
+Seed: 21 kilometers south of auckland's central business district
+Seed: Hub for tourism and business travel
+Seed: Public transport in auckland
+[Central business district of auckland with destinations]: Auckland ferry network --[Connects]-> Central business district of auckland with destinations 0.9097281694412231
+[Central business district of auckland with destinations]: Auckland ferry network --[Operated by]-> Auckland transport 0.8669043183326721
+[Central business district of auckland with destinations]: Auckland transport --[Has]-> Vision to support growth 0.8292685747146606
+[Central business district of auckland with destinations]: Auckland transport --[Has]-> Vision to minimize environmental impact 0.8263976573944092
+[Central business district of auckland with destinations]: Auckland transport --[Has]-> Vision to create efficient transport system 0.844561755657196
+[Central business district of auckland with destinations]: Auckland transport --[Has]-> Vision to create integrated transport system 0.8404509425163269
+[Central business district of auckland with destinations]: Auckland transport --[Has]-> Long-term vision 0.8368297815322876
+[Central business district of auckland with destinations]: New zealand transport strategy --[Outlines]-> Long-term vision 0.8028424978256226
+[Central business district of auckland with destinations]: Auckland transport --[Has]-> Vision to create safe transport system 0.8291932344436646
+[Central business district of auckland with destinations]: Auckland transport --[Focused on]-> Promoting active transport modes 0.8509482145309448
+[Central business district of auckland with destinations]: Auckland transport --[Focused on]-> Promoting cycling 0.832298994064331
+[Central business district of auckland with destinations]: Auckland transport --[Focused on]-> Promoting walking 0.8453601598739624
+[Central business district of auckland with destinations]: Auckland transport --[Is]-> Primary agency 0.860261082649231
+[Central business district of auckland with destinations]: Waka kotahi --[Is]-> Primary agency 0.7406916618347168
+[Central business district of auckland with destinations]: Auckland transport --[Implemented]-> Cycling infrastructure projects 0.8460241556167603
+[Central business district of auckland with destinations]: Auckland transport --[Implemented]-> Dedicated bike lanes 0.8260783553123474
+[Central business district of auckland with destinations]: Sustainable urban transport --[Key component]-> Dedicated bike lanes 0.7673906683921814
+[Central business district of auckland with destinations]: Auckland transport --[Implemented]-> Cycleways 0.8411439657211304
+[Central business district of auckland with destinations]: Christchurch --[Served by]-> Cycleways 0.8120211362838745
+[Central business district of auckland with destinations]: Auckland transport --[Introduced]-> Auckland integrated ticketing system 0.8406291007995605
+[Central business district of auckland with destinations]: Auckland transport --[Responsible for]-> Managing public transport services 0.860530436038971
+[Central business district of auckland with destinations]: Greater wellington regional council --[Responsible for]-> Managing public transport services 0.8100576400756836
+[Central business district of auckland with destinations]: Auckland transport --[Responsible for]-> Development 0.8643018007278442
+[Central business district of auckland with destinations]: Waka kotahi --[Plays crucial role in]-> Development 0.7284334301948547
+[Central business district of auckland with destinations]: Kiwirail --[Involved in]-> Development 0.8135865330696106
+[Central business district of auckland with destinations]: Waka kotahi nz transport agency --[Oversees]-> Development 0.7973617911338806
+[Central business district of auckland with destinations]: Auckland transport --[Responsible for]-> Management 0.8480290174484253
+[Central business district of auckland with destinations]: Waka kotahi --[Responsible for]-> Management 0.7278868556022644
+[Central business district of auckland with destinations]: Waka kotahi nz transport agency --[Responsible for]-> Management 0.7969533205032349
+[Central business district of auckland with destinations]: Auckland transport --[Responsible for]-> Planning 0.8584763407707214

@@ -1,0 +1,34 @@
+What program, established in the year when the Onehunga Line was reintroduced, enhancing the connection between the two locations connected by the first railway line constructed in New Zealand in 1873, requires periodic testing of older vehicles to ensure they meet emissions standards throughout their operational life?
+None
+Seed: First railway line between auckland and onehunga in 1873
+Seed: Vehicles meet specific emissions standards
+Seed: Periodic testing of older vehicles
+Seed: Vehicle exhaust emissions testing programme
+[First railway line between auckland and onehunga in 1873]: New zealand --[Had]-> First railway line between auckland and onehunga in 1873 0.9003486633300781
+[Vehicles meet specific emissions standards]: Nzta --[Ensures]-> Vehicles meet specific emissions standards 0.8248958587646484
+[Periodic testing of older vehicles]: Vehicle exhaust emissions testing programme --[Mandates]-> Periodic testing of older vehicles 0.839051365852356
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Objective]-> Data collection 0.7942938208580017
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Has]-> Impact 0.8088700771331787
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Future direction]-> Expand scope 0.8118693232536316
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Impact]-> Greater public awareness 0.784458339214325
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Focuses on]-> Monitoring and controlling emissions 0.8150977492332458
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Involves]-> Testing procedures 0.8141736388206482
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Is]-> Regulatory initiative 0.8204081058502197
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Aligns with]-> Paris agreement 0.8053746223449707
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Testing procedure]-> Emissions tests 0.7981488704681396
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Testing procedure]-> Determine compliance 0.79789137840271
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Objective]-> Encouraging cleaner technologies 0.8099642992019653
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Future direction]-> Promote electric vehicles 0.7934665083885193
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Objective]-> Monitoring emissions 0.8049808740615845
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Testing procedure]-> Penalties for non-compliance 0.7915583848953247
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Testing procedure]-> Measure pollutants 0.7825472354888916
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Impact]-> Improvement in air quality 0.7978634238243103
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Future direction]-> Enhance programme 0.8151803612709045
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Has]-> Objectives 0.8230739235877991
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Future direction]-> Achieve emissions reduction targets 0.8043408989906311
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Aligns with]-> International standards 0.8138530254364014
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Objective]-> Public health protection 0.7903859615325928
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Future direction]-> Integrate advanced testing technologies 0.8072549700737
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Ensures]-> Vehicles continue to meet emissions standards 0.8177903890609741
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Mandates]-> Periodic testing of older vehicles 0.839051365852356
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Established]-> 2010 0.8199007511138916

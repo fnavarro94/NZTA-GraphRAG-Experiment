@@ -1,0 +1,36 @@
+What was the total spending on the Let’s Get Wellington Moving Programme from January to June 2020?
+None
+Seed: itemised list of all Let’s Get Wellington Moving spending in 2020 to date
+Seed: Let’s Get Wellington Moving Programme
+Seed: bid for NZ Transport Agency funding
+Seed: update on budget and costs
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Joel MacManus --[ITEMISED]-> itemised list of all Let’s Get Wellington Moving spending in 2020 to date 0.8854416608810425
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Joel MacManus --[EMAIL]-> joel.macmanus@stuff.co.nz 0.751139223575592
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Joel MacManus --[REQUEST]-> Request made under the Official Information Act 1982 0.7201310396194458
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Joel MacManus --[REQUESTED]-> information under the Official Information Act 1982 0.7029175162315369
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Joel MacManus --[DATE]-> 4 September 2020 0.7450978755950928
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Joel MacManus --[EMAIL]-> 28 July 2020 0.7601410150527954
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Joel MacManus --[REF]-> REF: OIA -6939 0.7111057043075562
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Joel MacManus --[DEAR]-> Dear Joel 0.6828532218933105
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Joel MacManus --[ITEMISED]-> itemised breakdown of all spending on public consultation for Golden Mile upgrades 0.770423173904419
+[Let’s Get Wellington Moving Programme]: Let’s Get Wellington Moving Programme --[RESPONSIBLE]-> improve the experience of all Wellingtonians as they move around the city 0.8380661010742188
+[Let’s Get Wellington Moving Programme]: Let’s Get Wellington Moving Programme --[PLAN]-> large, complex, and ambitious plan 0.8681885600090027
+[Let’s Get Wellington Moving Programme]: Let’s Get Wellington Moving Programme --[INVESTMENT]-> $6.4 billion 0.8906567096710205
+[bid for NZ Transport Agency funding]: Auckland Transport --[SUBMITS]-> bid for NZ Transport Agency funding 0.8069843649864197
+[bid for NZ Transport Agency funding]: Waka Kotahi --[COLLABORATES_WITH]-> Auckland Transport 0.7894337177276611
+[bid for NZ Transport Agency funding]: Auckland Transport --[SIGNED_OFF]-> Waka Kotahi Board 0.7593517303466797
+[bid for NZ Transport Agency funding]: Waka Kotahi Board --[SIGNED_OFF]-> Auckland Transport 0.7567788362503052
+[bid for NZ Transport Agency funding]: Auckland Transport --[CONTRIBUTED]-> No 0.7853021025657654
+[bid for NZ Transport Agency funding]: public transport --[PROVIDED_BY]-> Auckland Transport 0.7969311475753784
+[bid for NZ Transport Agency funding]: Auckland Transport --[MANAGES]-> roads 0.7738567590713501
+[bid for NZ Transport Agency funding]: Auckland Transport --[PROVIDES]-> funding 0.8275618553161621
+[bid for NZ Transport Agency funding]: Auckland Transport --[DEVELOPS]-> AT Mobile app 0.7807844877243042
+[bid for NZ Transport Agency funding]: Auckland Transport --[RESPONSIBLE_FOR]-> AT Mobile app 0.768406867980957
+[bid for NZ Transport Agency funding]: Auckland Transport --[CONTACT]-> officialinformation@at.govt.nz 0.8012919425964355
+[update on budget and costs]: New Zealand Transport Agency --[PROVIDES]-> update on budget and costs 0.829887330532074
+[update on budget and costs]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8150582313537598
+[update on budget and costs]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8003303408622742
+[update on budget and costs]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7961563467979431
+[update on budget and costs]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7735326290130615
+[update on budget and costs]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.8238832354545593
+[update on budget and costs]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7820632457733154

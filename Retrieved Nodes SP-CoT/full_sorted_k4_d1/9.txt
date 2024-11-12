@@ -1,0 +1,10 @@
+In what year did the project that aims to develop a high-quality public transport corridor in Wellington begin?
+None
+Seed: Significant step towards creating sustainable and user-friendly public transport system
+Seed: Transport link between wellington and northern regions of north island
+Seed: Meet the evolving needs of new zealand's transport system
+Seed: Promoting public transport initiatives
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Represents]-> Significant step towards creating sustainable and user-friendly public transport system 0.8819208145141602
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Aims to improve]-> Transport link between wellington and northern regions of north island 0.8676568865776062
+[Meet the evolving needs of new zealand's transport system]: Wellington northern corridor --[Aims to]-> Meet the evolving needs of new zealand's transport system 0.892913281917572
+[Promoting public transport initiatives]: New zealand transport agency --[Is responsible for]-> Promoting public transport initiatives 0.8495414853096008

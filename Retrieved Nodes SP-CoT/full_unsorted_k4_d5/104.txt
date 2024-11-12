@@ -1,0 +1,36 @@
+Who is responsible for enforcing the Health and Safety at Work Act in the country that has a comprehensive framework of transport safety regulations covering road, rail, maritime, and aviation?
+None
+Seed: Health and safety at work act 2015
+Seed: Health and safety at work act
+Seed: Legislative framework for road safety initiatives
+Seed: Enforcement of road safety regulations
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Emphasizes]-> Importance of proactive risk management 0.8449850082397461
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Introduced]-> Robust approach to workplace safety 0.84010910987854
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Applies to]-> Road transport 0.8774207830429077
+[Health and safety at work act 2015]: Road transport --[Uses]-> Gps for navigation and route optimization 0.7602869272232056
+[Health and safety at work act 2015]: Kiwirail group --[Committed to]-> Road transport 0.7907572984695435
+[Health and safety at work act 2015]: Kiwirail group --[Is]-> State-owned enterprise 0.7715532183647156
+[Health and safety at work act 2015]: Kiwirail --[Is]-> State-owned enterprise 0.7805757522583008
+[Health and safety at work act 2015]: Kiwirail --[Operates]-> Great journeys of new zealand 0.7693213224411011
+[Health and safety at work act 2015]: Kiwirail --[Operates]-> Freight route 0.7988718748092651
+[Health and safety at work act 2015]: Kiwirail --[Transports]-> Manufactured items 0.7719059586524963
+[Health and safety at work act 2015]: Kiwirail --[Operates]-> Northern explorer 0.7654955387115479
+[Health and safety at work act 2015]: North island main trunk line --[Operated by]-> Kiwirail 0.7589699029922485
+[Health and safety at work act 2015]: Tranzalpine --[Operated by]-> Kiwirail 0.7511718273162842
+[Health and safety at work act 2015]: Kiwirail --[Operates]-> Rail network 0.783930242061615
+[Health and safety at work act 2015]: Kiwirail --[Manages]-> Both freight and passenger services 0.8048961758613586
+[Health and safety at work act 2015]: Kiwirail --[Involved in]-> Development 0.7817548513412476
+[Health and safety at work act 2015]: Kiwirail --[Contributes to]-> Lower carbon emissions 0.7720654606819153
+[Health and safety at work act 2015]: Kiwirail --[Collaborates with]-> Maritime services 0.7723172307014465
+[Health and safety at work act 2015]: Kiwirail --[Collaborates with]-> Road transport 0.7794768214225769
+[Health and safety at work act 2015]: Kiwirail --[Emerged from]-> New zealand railways corporation 0.74947190284729
+[Health and safety at work act 2015]: Kiwirail --[Reduces]-> Road congestion 0.7606845498085022
+[Health and safety at work act 2015]: Kiwirail --[Supports]-> Improving connectivity 0.724239706993103
+[Health and safety at work act 2015]: Kiwirail --[Facilitates]-> Movement of people 0.7686496376991272
+[Health and safety at work act 2015]: Kiwirail --[Supports]-> Fostering economic growth 0.7578715085983276
+[Health and safety at work act 2015]: Kiwirail --[Provides]-> Passenger services 0.7730536460876465
+[Health and safety at work act 2015]: Kiwirail --[Involved in]-> Maintenance 0.7760915160179138
+[Health and safety at work act 2015]: Kiwirail --[Facilitates]-> Movement of goods 0.7809363007545471
+[Health and safety at work act 2015]: Kiwirail --[Operates]-> Rail services 0.7840259671211243
+[Health and safety at work act 2015]: Kiwirail --[Established in]-> 2008 0.7671984434127808
+[Health and safety at work act 2015]: Kiwirail --[Transports]-> Coal 0.7739923000335693

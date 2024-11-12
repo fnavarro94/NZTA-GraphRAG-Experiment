@@ -1,0 +1,36 @@
+What has NZTA budgeted for median barriers over the last five years?
+None
+Seed: median barriers
+Seed: Median Barriers
+Seed: manage fare revenue and public transport budgets within current funding allocations
+Seed: public transport budgets
+[median barriers]: information --[RELATES_TO]-> median barriers 0.821408748626709
+[median barriers]: information --[PROVIDES]-> New Zealand Transport Agency 0.8199508190155029
+[median barriers]: Coroner’s reports --[PROVIDES]-> information 0.7506926655769348
+[median barriers]: Ministry --[WITHHOLD]-> information 0.7311148047447205
+[median barriers]: information --[RELATES_TO]-> transport data 0.7423233985900879
+[median barriers]: information --[RELATES_TO]-> safety risk ratings 0.7539380788803101
+[median barriers]: public interest --[CONSIDERS]-> information 0.7691587209701538
+[median barriers]: file_path --[RETAINS]-> information 0.7136146426200867
+[median barriers]: Attachment 1 --[CONTAINS]-> information 0.7456938028335571
+[median barriers]: NZTA --[WITHHOLD]-> information 0.7988128662109375
+[median barriers]: information --[FALLS_OUTSIDE]-> scope of request 0.7363678812980652
+[median barriers]: information --[IS]-> withheld 0.7244445085525513
+[median barriers]: information --[PROTECT]-> natural persons 0.7413432002067566
+[median barriers]: Request --[REQUESTED]-> information 0.7291818857192993
+[median barriers]: decision --[WITHHOLD]-> information 0.7236710786819458
+[median barriers]: request --[IS_FOR]-> information 0.7310084104537964
+[median barriers]: information --[PROVIDED_BY]-> Waka Kotahi 0.7530598044395447
+[median barriers]: CAS --[CONTAINS]-> information 0.7351816892623901
+[median barriers]: Transport Agency --[PROVIDES_ACCESS]-> information 0.7815197110176086
+[median barriers]: information --[REQUESTED]-> request 0.7395963668823242
+[median barriers]: information --[USED_FOR]-> analysis 0.7266511917114258
+[median barriers]: crash reports --[PROVIDES]-> information 0.7449778318405151
+[median barriers]: information --[IS_LIKELY]-> prejudice the commercial position of the person who supplied or who is the subject of the information 0.7291396260261536
+[median barriers]: section 9(2)(b)(ii) of the Act --[PROTECTS]-> information 0.7661251425743103
+[median barriers]: memorandum --[CONTAINS]-> information 0.7403415441513062
+[median barriers]: correspondence --[CONTAINS]-> information 0.726689338684082
+[median barriers]: Transport Agency --[WITHHOLDS]-> information 0.751061201095581
+[median barriers]: information --[WITHHELD]-> public interest 0.7571551203727722
+[median barriers]: New Zealand Transport Agency --[PROVIDES]-> information 0.8166685700416565
+[median barriers]: response letter --[CONTAINS]-> information 0.7231982350349426

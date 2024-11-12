@@ -1,0 +1,36 @@
+What is the abbreviation for the agency that provides policy advice, oversees the transport sector, and is in addition to Waka Kotahi?
+None
+Seed: Waka kotahi nz transport agency
+Seed: Transport policies
+Seed: Transport initiatives
+Seed: Active transport initiatives
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Responsible for]-> Managing national land transport system 0.8856600522994995
+[Waka kotahi nz transport agency]: National land transport programme --[Developed by]-> Waka kotahi nz transport agency 0.8547705411911011
+[Waka kotahi nz transport agency]: National land transport programme --[Is]-> Key component of new zealand's transport planning framework 0.780089259147644
+[Waka kotahi nz transport agency]: National land transport programme --[Updated]-> Every three years 0.7605699300765991
+[Waka kotahi nz transport agency]: National land transport programme --[Promotes]-> Environmental sustainability 0.7531901001930237
+[Waka kotahi nz transport agency]: Government objectives --[Include]-> Environmental sustainability 0.7500313520431519
+[Waka kotahi nz transport agency]: Government objectives --[Include]-> Social equity 0.747187614440918
+[Waka kotahi nz transport agency]: New zealand transport strategy --[Aligned with]-> Government objectives 0.8003622889518738
+[Waka kotahi nz transport agency]: New zealand transport strategy --[Emphasizes]-> Multimodal approach 0.7803475856781006
+[Waka kotahi nz transport agency]: New zealand transport strategy --[Promotes]-> Public transport 0.7725887298583984
+[Waka kotahi nz transport agency]: New zealand transport strategy --[Aims]-> Sustainable transport network 0.7677363753318787
+[Waka kotahi nz transport agency]: New zealand transport strategy --[Is]-> Comprehensive framework 0.7855750322341919
+[Waka kotahi nz transport agency]: New zealand transport strategy --[Established]-> 2008 0.795107364654541
+[Waka kotahi nz transport agency]: New zealand transport strategy --[Promotes]-> Active transport options 0.7785945534706116
+[Waka kotahi nz transport agency]: New zealand transport strategy --[Outlines]-> Long-term vision 0.7739838361740112
+[Waka kotahi nz transport agency]: New zealand transport strategy --[Emphasizes]-> Integrating transport planning with land use and environmental considerations 0.7708114385604858
+[Waka kotahi nz transport agency]: New zealand transport strategy --[Outlines]-> Priorities for transport investment 0.7738794684410095
+[Waka kotahi nz transport agency]: New zealand transport strategy --[Emphasizes]-> Need for more integrated and sustainable transport system 0.7664227485656738
+[Waka kotahi nz transport agency]: New zealand transport strategy --[Emphasizes]-> Importance of community engagement 0.777163028717041
+[Waka kotahi nz transport agency]: Government objectives --[Include]-> Economic growth 0.748989462852478
+[Waka kotahi nz transport agency]: National land transport programme --[Supports]-> Economic growth 0.7550822496414185
+[Waka kotahi nz transport agency]: Kiwirail group --[Promotes]-> Economic growth 0.7466235160827637
+[Waka kotahi nz transport agency]: Waka kotahi --[Contributes to]-> Economic growth 0.8462893962860107
+[Waka kotahi nz transport agency]: Auckland western ring route --[Supports]-> Economic growth 0.7546970844268799
+[Waka kotahi nz transport agency]: Transport infrastructure development --[Is crucial for]-> Economic growth 0.7486396431922913
+[Waka kotahi nz transport agency]: Freight transport --[Essential for]-> Economic growth 0.7462834119796753
+[Waka kotahi nz transport agency]: Road infrastructure --[Is vital for]-> Economic growth 0.7293475866317749
+[Waka kotahi nz transport agency]: Waka kotahi --[Contributes to]-> Environmental sustainability 0.8457638025283813
+[Waka kotahi nz transport agency]: Waka kotahi --[Has]-> Road to zero  strategy 0.8308425545692444
+[Waka kotahi nz transport agency]: Waka kotahi --[Is]-> Primary agency 0.8835383653640747

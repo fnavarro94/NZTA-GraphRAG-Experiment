@@ -1,0 +1,36 @@
+What was the Board's instruction regarding the number of direct reports for the Chief Executive in 2018?
+None
+Seed: Chief Financial Officer
+Seed: Chief Executive
+Seed: Annual Reports
+Seed: Annual Monitoring Report 2020
+[Chief Financial Officer]: Chief Financial Officer --[HELD_BY]-> Howard Cattermole 0.8007078170776367
+[Chief Financial Officer]: Howard Cattermole --[SIGNED]-> response letter 0.7548502683639526
+[Chief Financial Officer]: /Users/felipenavarro/Documents/Auckland/nzta/nzta_dev/NZTA-GraphRAG/transport_data/sample_files/nzta/temp_files/oia-14980-response-letter.pdf --[CONTAINS]-> response letter 0.7490699291229248
+[Chief Financial Officer]: response letter --[FILE_PATH]-> /Users/felipenavarro/Documents/Auckland/nzta/nzta_dev/NZTA-GraphRAG/transport_data/sample_files/nzta/temp_files/oia-14980-response-letter.pdf 0.7491930723190308
+[Chief Financial Officer]: response letter --[CONTAINS]-> Mark Kinvig 0.7539706826210022
+[Chief Financial Officer]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7446140050888062
+[Chief Financial Officer]: Mark Kinvig --[SIGNED]-> response letter 0.7520129084587097
+[Chief Financial Officer]: Mark Kinvig --[IS]-> National Manager Infrastructure Delivery 0.7537378668785095
+[Chief Financial Officer]: sincerely --[FROM]-> Mark Kinvig 0.7240400314331055
+[Chief Financial Officer]: Mark Kinvig --[EMPLOYED_BY]-> New Zealand Transport Agency 0.7422494888305664
+[Chief Financial Officer]: response letter --[CONTAINS]-> contact information 0.7520081996917725
+[Chief Financial Officer]: contact information --[INCLUDES]-> email 0.7339539527893066
+[Chief Financial Officer]: letter --[CONTAINS]-> contact information 0.7480257153511047
+[Chief Financial Officer]: contact information --[INCLUDES]-> phone number 0.7407179474830627
+[Chief Financial Officer]: Waka Kotahi --[PROVIDES]-> contact information 0.754554033279419
+[Chief Financial Officer]: contact information --[CONTAINS]-> email address 0.729036808013916
+[Chief Financial Officer]: contact information --[PROVIDES]-> email address 0.7336744070053101
+[Chief Financial Officer]: content --[DESCRIBES]-> contact information 0.7512285709381104
+[Chief Financial Officer]: Ministerial Services --[PROVIDES]-> contact information 0.7681101560592651
+[Chief Financial Officer]: contact information --[AVAILABLE_AT]-> official.correspondence@nzta.govt.nz 0.7607828378677368
+[Chief Financial Officer]: New Zealand Transport Agency --[PROVIDES]-> contact information 0.7609004974365234
+[Chief Financial Officer]: response letter --[CONTAINS]-> information 0.7564318180084229
+[Chief Financial Officer]: information --[PROVIDES]-> New Zealand Transport Agency 0.7773154377937317
+[Chief Financial Officer]: Coroner’s reports --[PROVIDES]-> information 0.7912834882736206
+[Chief Financial Officer]: Ministry --[WITHHOLD]-> information 0.7489191293716431
+[Chief Financial Officer]: information --[RELATES_TO]-> transport data 0.7335790395736694
+[Chief Financial Officer]: information --[RELATES_TO]-> safety risk ratings 0.7636450529098511
+[Chief Financial Officer]: public interest --[CONSIDERS]-> information 0.7838612198829651
+[Chief Financial Officer]: file_path --[RETAINS]-> information 0.695457935333252
+[Chief Financial Officer]: Attachment 1 --[CONTAINS]-> information 0.737474262714386

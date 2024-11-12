@@ -1,0 +1,36 @@
+How many driver licenses have been granted annually over the last ten years?
+None
+Seed: driver licenses
+Seed: Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019
+Seed: information related to criminal convictions of driving instructor (I) endorsement holders
+Seed: information on vehicle and driver registration and licensing
+[driver licenses]: driver licenses --[CONTAINS]-> annual data 0.874234139919281
+[driver licenses]: annual data --[BREAKDOWN]-> age categories 0.7751296162605286
+[driver licenses]: age categories --[BREAKDOWN]-> learners, restricted, full licenses and vehicle classes 0.8205157518386841
+[driver licenses]: learners, restricted, full licenses and vehicle classes --[TREND]-> increase/decrease 0.8389438986778259
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Data --[IS]-> Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019 0.8293493986129761
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Crash Analysis System --[PROVIDES]-> Data 0.7528660297393799
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Deceased Drivers --[ASSOCIATED_WITH]-> Crash Analysis System 0.7911256551742554
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Crash Analysis System --[ASSOCIATED_WITH]-> Deceased Drivers 0.7856878638267517
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Deceased Drivers --[ASSOCIATED_WITH]-> Fatal Crashes 0.7944062948226929
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Fatal Crashes --[ASSOCIATED_WITH]-> Deceased Drivers 0.7887418866157532
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Crash Analysis System --[UPDATED]-> Traffic Crash Report 0.786711573600769
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Crash Analysis System --[PROVIDES]-> Traffic Crash Report 0.7714399099349976
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Crash Analysis System --[ASSOCIATED_WITH]-> Traffic Crash Report 0.7660703659057617
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Traffic Crash Report --[ASSOCIATED_WITH]-> Crash Analysis System 0.7698401212692261
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Traffic Crash Report --[PROVIDED_BY]-> NZ Police 0.7476981282234192
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Traffic Crash Report --[RECEIVED]-> NZ Police 0.7421033382415771
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Crash Analysis System --[UPDATES]-> Traffic Crash Report 0.7742763757705688
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: CAS --[IS_UPDATING]-> Traffic Crash Report 0.761210560798645
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Traffic Crash Report --[CONTAINS]-> Crash Data 0.7689114809036255
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Traffic Crash Report --[PROVIDED_BY]-> New Zealand Police 0.7503960728645325
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Traffic Crash Report --[RECORDED_IN]-> Crash Analysis System 0.7697749733924866
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: New Zealand Police --[SUBMITS]-> Traffic Crash Report 0.7438684701919556
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Traffic Crash Report --[RECEIVED_FROM]-> NZ Police 0.7494362592697144
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Crash Analysis System --[CONTAINS]-> Traffic Crash Report 0.769390881061554
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Traffic Crash Report --[RECORDS]-> Crash Data 0.7761090993881226
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: NZ Police --[PROVIDES]-> Traffic Crash Report 0.7411336898803711
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: 2020 --[FATAL_CRASHES]-> Crash Analysis System 0.7726914286613464
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Road to Zero Strategy --[INITIATED]-> 2020 0.7403634786605835
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: 2020 --[HAS_FATAL_CRASHES]-> 12 0.7678546905517578
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Roadside Drug Testing --[NOT_DONE]-> 2020 0.7763411998748779

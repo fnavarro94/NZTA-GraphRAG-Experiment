@@ -1,0 +1,34 @@
+Which major urban center is located to the south of the city in the region known for its Metlink services, which focus on providing comprehensive coverage across the region?
+None
+Seed: To connect urban centers with rural areas
+Seed: Major urban centers
+Seed: Urban centers and rural communities
+Seed: Key urban centers
+[To connect urban centers with rural areas]: Sustainable urban transport --[Key component]-> Metlink network 0.8307896852493286
+[To connect urban centers with rural areas]: Pch --[Connects]-> Key urban centers 0.8215506076812744
+[To connect urban centers with rural areas]: Air new zealand --[Plays crucial role in]-> Connecting new zealand's remote regions with major urban centers 0.8182979226112366
+[To connect urban centers with rural areas]: Rail network --[Connects]-> Major cities and industrial hubs 0.807607889175415
+[To connect urban centers with rural areas]: Wellington --[Connected to]-> Other major urban centers 0.8045737147331238
+[To connect urban centers with rural areas]: Air new zealand --[Operates]-> Numerous routes connecting major cities and regional centers 0.8028738498687744
+[To connect urban centers with rural areas]: Wellington --[Has]-> Metlink brand 0.8009863495826721
+[Major urban centers]: State highway 1 --[Links]-> Major urban centers 0.8290444612503052
+[Major urban centers]: Christchurch southern motorway --[Serves as]-> Critical link between southern suburbs and central business district 0.8072569966316223
+[Major urban centers]: Wellington --[Connected to]-> Other major urban centers 0.8045737147331238
+[Major urban centers]: Road infrastructure --[Is vital for]-> Regional connectivity 0.8043738007545471
+[Major urban centers]: Wellington --[Has]-> Metlink brand 0.8009863495826721
+[Major urban centers]: Wellington --[Has]-> Metlink 0.8001734018325806
+[Major urban centers]: Christchurch --[Is]-> Largest city in south island 0.796817421913147
+[Urban centers and rural communities]: Sustainable urban transport --[Key component]-> Metlink network 0.8307896852493286
+[Urban centers and rural communities]: Pch --[Connects]-> Key urban centers 0.8215506076812744
+[Urban centers and rural communities]: Air new zealand --[Plays crucial role in]-> Connecting new zealand's remote regions with major urban centers 0.8182979226112366
+[Urban centers and rural communities]: Rail network --[Connects]-> Major cities and industrial hubs 0.807607889175415
+[Urban centers and rural communities]: Wellington --[Connected to]-> Other major urban centers 0.8045737147331238
+[Urban centers and rural communities]: Air new zealand --[Operates]-> Numerous routes connecting major cities and regional centers 0.8028738498687744
+[Urban centers and rural communities]: Wellington --[Has]-> Metlink brand 0.8009863495826721
+[Key urban centers]: Sustainable urban transport --[Key component]-> Metlink network 0.8307896852493286
+[Key urban centers]: Pch --[Connects]-> Key urban centers 0.8215506076812744
+[Key urban centers]: Air new zealand --[Plays crucial role in]-> Connecting new zealand's remote regions with major urban centers 0.8182979226112366
+[Key urban centers]: Rail network --[Connects]-> Major cities and industrial hubs 0.807607889175415
+[Key urban centers]: Air new zealand --[Operates]-> Numerous routes connecting major cities and regional centers 0.8028738498687744
+[Key urban centers]: Sustainable urban transport --[Key component]-> City centers 0.7975489497184753
+[Key urban centers]: New zealand --[Has]-> Urban centers 0.7961864471435547

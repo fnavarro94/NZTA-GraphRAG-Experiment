@@ -1,0 +1,36 @@
+What is the abbreviation commonly used for the method that involves the use of advanced sensors and cameras to gather real-time data on road conditions in the context of transport systems in New Zealand?
+None
+Seed: Advanced sensors and cameras
+Seed: Cameras and sensors
+Seed: Real-time tracking of buses and trains
+Seed: Systematic collection and analysis of data related to the physical state of roadways
+[Advanced sensors and cameras]: Automated data collection --[Uses]-> Advanced sensors and cameras 0.8507516980171204
+[Advanced sensors and cameras]: Automated data collection --[Is]-> Technology 0.8083797693252563
+[Advanced sensors and cameras]: Waka kotahi --[Leverages]-> Technology 0.7634514570236206
+[Advanced sensors and cameras]: Waka kotahi --[Has]-> Road to zero  strategy 0.742881178855896
+[Advanced sensors and cameras]: Waka kotahi --[Is]-> Primary agency 0.7579777240753174
+[Advanced sensors and cameras]: Waka kotahi --[Is]-> Government agency 0.751899003982544
+[Advanced sensors and cameras]: Waka kotahi --[Responsible for]-> Funding 0.7471200227737427
+[Advanced sensors and cameras]: Waka kotahi --[Responsible for]-> Management 0.7361135482788086
+[Advanced sensors and cameras]: Waka kotahi --[Responsible for]-> Planning 0.7620407342910767
+[Advanced sensors and cameras]: Waka kotahi --[Ensures]-> Investments 0.7223098874092102
+[Advanced sensors and cameras]: Waka kotahi --[Ensures]-> Transport system is effective and efficient 0.7750511765480042
+[Advanced sensors and cameras]: Waka kotahi --[Ensures]-> Sustainable transport network 0.7732129096984863
+[Advanced sensors and cameras]: Waka kotahi --[Ensures]-> Efficient transport network 0.7847545742988586
+[Advanced sensors and cameras]: Waka kotahi --[Ensures]-> Safe transport network 0.7752951383590698
+[Advanced sensors and cameras]: Waka kotahi --[Ensures]-> Sustainability goals 0.7333950996398926
+[Advanced sensors and cameras]: Waka kotahi --[Promotes]-> Public transit 0.7498090863227844
+[Advanced sensors and cameras]: Waka kotahi --[Promotes]-> Road safety initiatives 0.7720420360565186
+[Advanced sensors and cameras]: Waka kotahi --[Promotes]-> Public transport initiatives 0.7615340352058411
+[Advanced sensors and cameras]: Waka kotahi --[Promotes]-> Walking 0.741856575012207
+[Advanced sensors and cameras]: Waka kotahi --[Promotes]-> Cycling 0.7524214386940002
+[Advanced sensors and cameras]: Waka kotahi --[Aims to]-> Reduce injuries 0.7376450300216675
+[Advanced sensors and cameras]: Waka kotahi --[Aims to]-> Reduce greenhouse gas emissions 0.7394444942474365
+[Advanced sensors and cameras]: Waka kotahi --[Aims to]-> Promote healthier lifestyles 0.7172470092773438
+[Advanced sensors and cameras]: Waka kotahi --[Aims to]-> Reduce fatalities 0.7553062438964844
+[Advanced sensors and cameras]: Waka kotahi --[Plays]-> Pivotal role 0.7294203042984009
+[Advanced sensors and cameras]: Waka kotahi --[Plays]-> Vital role in shaping future of transport in new zealand 0.8125182390213013
+[Advanced sensors and cameras]: Waka kotahi --[Outlines]-> Funding priorities 0.7243411540985107
+[Advanced sensors and cameras]: Waka kotahi --[Emphasizes]-> Safe system approach 0.7691785097122192
+[Advanced sensors and cameras]: Waka kotahi --[Allocates]-> Local road projects 0.7683383226394653
+[Advanced sensors and cameras]: Waka kotahi --[Allocates]-> Funding 0.7219099402427673

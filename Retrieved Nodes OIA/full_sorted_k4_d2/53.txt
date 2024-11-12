@@ -1,0 +1,24 @@
+What information can be found in the Driver Licence Register (DLR)?
+None
+Seed: information on vehicle and driver registration and licensing
+Seed: information related to criminal convictions of driving instructor (I) endorsement holders
+Seed: vehicle registration and licensing
+Seed: driver licenses
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[PROVIDES]-> information on vehicle and driver registration and licensing 0.8656876087188721
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[PROVIDES]-> information 0.8320701718330383
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[PROVIDES]-> information on visiting drivers survey 0.8310438394546509
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[PROVIDES]-> information on road user charges 0.8283184170722961
+[information on vehicle and driver registration and licensing]: information --[PROVIDES]-> New Zealand Transport Agency 0.826711118221283
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[PROVIDES]-> documents 0.8262056708335876
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[PROVIDES]-> Transport Data 0.8216787576675415
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Michael Morrah --[REQUESTS]-> information related to criminal convictions of driving instructor (I) endorsement holders 0.8492350578308105
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Michael Morrah --[SUBMITTED]-> request for information 0.7887676954269409
+[vehicle registration and licensing]: transport data --[PROVIDED_BY]-> Waka Kotahi 0.7933750152587891
+[vehicle registration and licensing]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7891963720321655
+[vehicle registration and licensing]: Waka Kotahi --[REFUSES_REQUEST]-> vehicle registration and licensing 0.788785457611084
+[vehicle registration and licensing]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.7833265066146851
+[vehicle registration and licensing]: Waka Kotahi --[PROVIDES]-> Transport Data 0.7833220958709717
+[vehicle registration and licensing]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.7828642725944519
+[vehicle registration and licensing]: information --[PROVIDED_BY]-> Waka Kotahi 0.7809632420539856
+[driver licenses]: driver licenses --[CONTAINS]-> annual data 0.8542440533638
+[driver licenses]: annual data --[BREAKDOWN]-> age categories 0.7529799342155457

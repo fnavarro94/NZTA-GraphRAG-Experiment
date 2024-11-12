@@ -1,0 +1,12 @@
+How does the proportion of 80km/h zone length compare to the 100km/h zone length on SH16?
+None
+Seed: comparing the number of accidents under the 100km speed limit versus the current 80km speed rate
+Seed: annual accident rate on SH16
+Seed: 100M
+Seed: Discuss this reply with the NZ Transport Agency
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[INTERESTED_IN]-> comparing the number of accidents under the 100km speed limit versus the current 80km speed rate 0.8331906795501709
+[annual accident rate on SH16]: Debrin Foxcroft --[REQUESTS]-> annual accident rate on SH16 0.7988010048866272
+[100M]: New Zealand Transport Agency --[FUNDING]-> 100M 0.7982755899429321
+[100M]: 100M --[ALLOCATED_FOR]-> State Highway 1 0.8327129483222961
+[Discuss this reply with the NZ Transport Agency]: Discuss this reply with the NZ Transport Agency --[IS]-> Contact Andrew Knackstedt 0.7726411819458008
+[Discuss this reply with the NZ Transport Agency]: Reply --[IS]-> Discuss this reply with the NZ Transport Agency 0.7741459012031555

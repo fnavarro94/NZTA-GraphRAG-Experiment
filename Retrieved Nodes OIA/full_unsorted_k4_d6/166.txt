@@ -1,0 +1,36 @@
+What are the main considerations for regional fare policies according to Waka Kotahi?
+None
+Seed: wider impacts of fare policy on people and cities
+Seed: review of public transport fare policy
+Seed: fare policy guidance
+Seed: fares play an important role in helping cover the cost of public transport within available budgets
+[wider impacts of fare policy on people and cities]: wider impacts of fare policy on people and cities --[INCLUCES]-> national farebox recovery target 0.844484806060791
+[wider impacts of fare policy on people and cities]: 2018-21 NLTP --[APPLIES]-> national farebox recovery target 0.7948822975158691
+[wider impacts of fare policy on people and cities]: national farebox recovery target --[REPLACED]-> 2018-21 NLTP 0.7786740064620972
+[wider impacts of fare policy on people and cities]: national farebox recovery target --[INTRODUCED]-> 2010 0.7805708050727844
+[wider impacts of fare policy on people and cities]: 2010 --[APPLIES]-> national farebox recovery target 0.7884587645530701
+[wider impacts of fare policy on people and cities]: national farebox recovery target --[REPLACED_BY]-> underlying principles of the current policy 0.8226667642593384
+[wider impacts of fare policy on people and cities]: underlying principles of the current policy --[CONTRIBUTES]-> wider objectives in Regional Public Transport Plans 0.8513203859329224
+[wider impacts of fare policy on people and cities]: wider objectives in Regional Public Transport Plans --[CONTRIBUTES]-> government's transport priorities 0.8334429264068604
+[wider impacts of fare policy on people and cities]: government's transport priorities --[INCLUDES]-> fares play an important role in helping cover the cost of public transport within available budgets 0.8362239003181458
+[wider impacts of fare policy on people and cities]: fares play an important role in helping cover the cost of public transport within available budgets --[CONTRIBUTES]-> public transport budgets 0.8408769965171814
+[wider impacts of fare policy on people and cities]: public transport affordability --[RELATES_TO]-> wider impacts of fare policy on people and cities 0.8432769179344177
+[wider impacts of fare policy on people and cities]: councils with greater flexibility --[ADDRESS]-> public transport affordability 0.791164755821228
+[wider impacts of fare policy on people and cities]: access --[PROVIDES]-> councils with greater flexibility 0.7431848049163818
+[wider impacts of fare policy on people and cities]: mode shift --[IMPROVES]-> access 0.7089694738388062
+[wider impacts of fare policy on people and cities]: public transport fare policy --[SUPPORTS]-> mode shift 0.8382638096809387
+[review of public transport fare policy]: New Zealand Transport Agency --[UNDERTAKES]-> review of public transport fare policy 0.8370202779769897
+[review of public transport fare policy]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7761765718460083
+[review of public transport fare policy]: New Zealand Transport Agency --[BASED]-> Wellington 0.7807437777519226
+[review of public transport fare policy]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7782940864562988
+[review of public transport fare policy]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.7783990502357483
+[review of public transport fare policy]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7773745656013489
+[review of public transport fare policy]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7777295708656311
+[review of public transport fare policy]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7767006158828735
+[review of public transport fare policy]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7784894704818726
+[review of public transport fare policy]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7860785126686096
+[review of public transport fare policy]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7817234992980957
+[review of public transport fare policy]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7837167978286743
+[review of public transport fare policy]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7805930376052856
+[review of public transport fare policy]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7750440239906311
+[review of public transport fare policy]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7878212332725525

@@ -1,0 +1,36 @@
+How many road deaths in Christchurch between 2017 and 2019 were attributed to alcohol being a contributing factor?
+None
+Seed: information on Christchurch road deaths
+Seed: Road Traffic Crashes
+Seed: Alcohol Consumption
+Seed: 45-60 fatalities
+[information on Christchurch road deaths]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8587267398834229
+[information on Christchurch road deaths]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7581126093864441
+[information on Christchurch road deaths]: New Zealand Transport Agency --[BASED]-> Wellington 0.7924361824989319
+[information on Christchurch road deaths]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7889584302902222
+[information on Christchurch road deaths]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7547750473022461
+[information on Christchurch road deaths]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.7708830237388611
+[information on Christchurch road deaths]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.7508872151374817
+[information on Christchurch road deaths]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7494818568229675
+[information on Christchurch road deaths]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7790272831916809
+[information on Christchurch road deaths]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.770677924156189
+[information on Christchurch road deaths]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.7738379240036011
+[information on Christchurch road deaths]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7417916655540466
+[information on Christchurch road deaths]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7293323278427124
+[information on Christchurch road deaths]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7533268928527832
+[information on Christchurch road deaths]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7401494979858398
+[information on Christchurch road deaths]: Wellington --[CONTAINS]-> Private Bag 6995 0.7680352330207825
+[information on Christchurch road deaths]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7909322381019592
+[information on Christchurch road deaths]: Golden Mile --[LOCATED]-> Wellington 0.7672225832939148
+[information on Christchurch road deaths]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7934899926185608
+[information on Christchurch road deaths]: road safety --[ENHANCED_BY]-> State Highway 1 0.7938165068626404
+[information on Christchurch road deaths]: State Highway 1 --[REPAIRS]-> potholes 0.7526432275772095
+[information on Christchurch road deaths]: Road Safety Initiatives --[IMPROVES]-> State Highway 1 0.7848104238510132
+[information on Christchurch road deaths]: road maintenance --[OVERDUE]-> State Highway 1 0.7780125737190247
+[information on Christchurch road deaths]: State Highway 1 --[OVERDUE]-> road maintenance 0.7847084999084473
+[information on Christchurch road deaths]: State Highway 1 --[IN]-> Bay of Plenty 0.7582469582557678
+[information on Christchurch road deaths]: State Highway 1 --[IMPROVES]-> safety 0.7681037783622742
+[information on Christchurch road deaths]: 100M --[ALLOCATED_FOR]-> State Highway 1 0.772067666053772
+[information on Christchurch road deaths]: State Highway 1 --[IS_PART_OF]-> New Zealand 0.821495532989502
+[information on Christchurch road deaths]: road maintenance --[ASSOCIATED_WITH]-> State Highway 1 0.7870847582817078
+[information on Christchurch road deaths]: funding for road maintenance --[FOR]-> State Highway 1 0.7836084961891174

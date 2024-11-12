@@ -1,0 +1,36 @@
+I'm sorry, but the questions provided are too complex and convoluted for me to provide accurate answers. If you could simplify the questions or provide more context, I would be happy to help answer them.
+None
+Seed: Criticism for complexity
+Seed: Surveys
+Seed: Cultural influences
+Seed: Cultural factors
+[Criticism for complexity]: Resource management act 1991 --[Subject to]-> Criticism for complexity 0.8291789889335632
+[Criticism for complexity]: Teia --[Governed by]-> Resource management act 1991 0.7666939496994019
+[Criticism for complexity]: Teia --[Evaluates]-> Potential effects of transport projects 0.7700625658035278
+[Criticism for complexity]: Teia --[Includes]-> Economic factors 0.8027251958847046
+[Criticism for complexity]: Regional transport planning --[Considers]-> Economic factors 0.7748749256134033
+[Criticism for complexity]: Regional transport planning --[Aims to]-> Meet mobility needs of communities 0.7572582364082336
+[Criticism for complexity]: Regional transport planning --[Is]-> Critical component 0.7686904668807983
+[Criticism for complexity]: Regional transport planning --[Considers]-> Environmental factors 0.7706158757209778
+[Criticism for complexity]: Regional transport planning --[Considers]-> Social factors 0.7808594703674316
+[Criticism for complexity]: Land transport management act 2003 --[Governs]-> Regional transport planning 0.7403125762939453
+[Criticism for complexity]: Regional transport planning --[Involves]-> Coordination of transport policies 0.7512763738632202
+[Criticism for complexity]: New zealand --[Has]-> Regional transport planning 0.7597850561141968
+[Criticism for complexity]: Regional transport planning --[Involves]-> Coordination of transport services 0.7520653009414673
+[Criticism for complexity]: Regional transport planning --[Involves]-> Coordination of transport infrastructure 0.7613033056259155
+[Criticism for complexity]: Teia --[Includes]-> Ecological factors 0.7909159660339355
+[Criticism for complexity]: Teia --[Used in]-> New zealand 0.7673000693321228
+[Criticism for complexity]: New zealand --[Has]-> Transport projects 0.7608740925788879
+[Criticism for complexity]: New zealand transport agency --[Oversees]-> Transport projects 0.7171469926834106
+[Criticism for complexity]: Auckland --[Has]-> Transport projects 0.7559576034545898
+[Criticism for complexity]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.7463741302490234
+[Criticism for complexity]: New zealand --[Has]-> Diverse transport network 0.7711834907531738
+[Criticism for complexity]: New zealand --[Has]-> Post-incident review 0.7476439476013184
+[Criticism for complexity]: Post-incident review --[Crucial for]-> Improving operational efficiency 0.7622878551483154
+[Criticism for complexity]: Post-incident review --[Crucial for]-> Fostering culture of continuous improvement 0.7568310499191284
+[Criticism for complexity]: Post-incident review --[Aimed at]-> Recommending measures 0.7799255847930908
+[Criticism for complexity]: Post-incident review --[Crucial for]-> Enhancing safety 0.7591063976287842
+[Criticism for complexity]: Post-incident review --[Is]-> Systematic process 0.7579262852668762
+[Criticism for complexity]: Post-incident review --[Conducted]-> Following an incident 0.7788541316986084
+[Criticism for complexity]: Post-incident review --[Aimed at]-> Analyzing circumstances 0.7912910580635071
+[Criticism for complexity]: Post-incident review --[Aimed at]-> Identifying contributing factors 0.7948530912399292

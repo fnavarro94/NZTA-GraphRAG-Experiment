@@ -1,0 +1,28 @@
+How many MR1 and MR1B transactions were completed online between 1 October 2022 and 30 September 2023?
+None
+Seed: MR1/B transactions data
+Seed: statistics for MR1/B transactions
+Seed: 1 October 2022 to 30 September 2023
+Seed: MR1/B transactions
+[MR1/B transactions data]: Motor Vehicle Register --[CONTAINS]-> MR1/B transactions data 0.8250961303710938
+[statistics for MR1/B transactions]: Request --[CLARIFIED]-> 30 November 2022 0.8469439744949341
+[statistics for MR1/B transactions]: Request --[EXTENDED]-> 9 December 2022 0.8306039571762085
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[PROVIDES]-> statistics for MR1/B transactions 0.8297469615936279
+[statistics for MR1/B transactions]: email of 12 May 2023 --[REQUESTS]-> accident or crash history 0.8235631585121155
+[statistics for MR1/B transactions]: information under the Official Information Act 1982 --[ASSOCIATED_WITH]-> email of 20 October 2023 0.8224812150001526
+[statistics for MR1/B transactions]: information under the Official Information Act 1982 --[PROVIDED]-> email of 20 October 2023 0.817331850528717
+[statistics for MR1/B transactions]: Request made under the Official Information Act 1982 --[REQUEST_DATE]-> 30 October 2018 0.8138836026191711
+[1 October 2022 to 30 September 2023]: transactions --[OCCURRED]-> 1 October 2022 to 30 September 2023 0.9104255437850952
+[1 October 2022 to 30 September 2023]: response letter --[CONTAINS]-> transactions 0.787542998790741
+[1 October 2022 to 30 September 2023]: Richard Osborne --[SIGNED]-> response letter 0.7723539471626282
+[1 October 2022 to 30 September 2023]: New Zealand Transport Agency --[PROACTIVELY_RELEASED]-> response letter 0.7695568799972534
+[1 October 2022 to 30 September 2023]: response letter --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7663203477859497
+[1 October 2022 to 30 September 2023]: response letter --[ASSOCIATED_WITH]-> /Users/felipenavarro/Documents/Auckland/nzta/nzta_dev/NZTA-GraphRAG/transport_data/sample_files/nzta/temp_files/oia-14980-response-letter.pdf 0.7654282450675964
+[1 October 2022 to 30 September 2023]: Neil Walker --[SIGNED]-> response letter 0.7652796506881714
+[MR1/B transactions]: MR1/B transactions --[TOTAL]-> 5,496,319 0.8856984972953796
+[MR1/B transactions]: MR1/B transactions --[COMPLETED]-> online 0.8824238181114197
+[MR1/B transactions]: MR1/B transactions --[COMPLETED]-> agent 0.8389739394187927
+[MR1/B transactions]: Transport Agency --[PUBLISHES]-> response to this request on our website 0.7941604256629944
+[MR1/B transactions]: current and future renewal programmes --[PUBLISHED]-> National Maintenance Forward Work Map 0.7904264330863953
+[MR1/B transactions]: Transport Agency --[PROVIDES]-> response to this request on our website 0.788162112236023
+[MR1/B transactions]: online --[RELATES_TO]-> https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c 0.7833598852157593

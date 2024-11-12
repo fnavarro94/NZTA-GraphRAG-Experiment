@@ -1,0 +1,36 @@
+How many sick days were taken by permanent staff since March 2015?
+None
+Seed: sick days taken by full-time permanent staff
+Seed: sick leave data
+Seed: 2015
+Seed: Employee Assistance Programme
+[sick days taken by full-time permanent staff]: New Zealand Transport Agency --[PROVIDES]-> sick days taken by full-time permanent staff 0.8707587718963623
+[sick days taken by full-time permanent staff]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7374218106269836
+[sick days taken by full-time permanent staff]: New Zealand Transport Agency --[BASED]-> Wellington 0.7406212687492371
+[sick days taken by full-time permanent staff]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7453796863555908
+[sick days taken by full-time permanent staff]: Golden Mile --[LOCATED]-> Wellington 0.7232295274734497
+[sick days taken by full-time permanent staff]: State Highway 1 --[LOCATED_IN]-> Wellington 0.70137619972229
+[sick days taken by full-time permanent staff]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7498198747634888
+[sick days taken by full-time permanent staff]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7288513779640198
+[sick days taken by full-time permanent staff]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7376483678817749
+[sick days taken by full-time permanent staff]: Wellington --[PART_OF]-> Wellington Region 0.7372571229934692
+[sick days taken by full-time permanent staff]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7573697566986084
+[sick days taken by full-time permanent staff]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7100460529327393
+[sick days taken by full-time permanent staff]: Wellington --[HAS]-> tunnel 0.7363040447235107
+[sick days taken by full-time permanent staff]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7305638790130615
+[sick days taken by full-time permanent staff]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7547335624694824
+[sick days taken by full-time permanent staff]: Wellington --[POSTCODE]-> 6141 0.7169688940048218
+[sick days taken by full-time permanent staff]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7322407960891724
+[sick days taken by full-time permanent staff]: Wellington --[IS_PART_OF]-> New Zealand 0.7266193628311157
+[sick days taken by full-time permanent staff]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7168281078338623
+[sick days taken by full-time permanent staff]: 50 Victoria Street --[IN]-> Wellington 0.7256636023521423
+[sick days taken by full-time permanent staff]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7474908828735352
+[sick days taken by full-time permanent staff]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.700238823890686
+[sick days taken by full-time permanent staff]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7314751148223877
+[sick days taken by full-time permanent staff]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7341784238815308
+[sick days taken by full-time permanent staff]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7384311556816101
+[sick days taken by full-time permanent staff]: NZ Transport Agency --[LOCATED]-> Wellington 0.7336522340774536
+[sick days taken by full-time permanent staff]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7321082949638367
+[sick days taken by full-time permanent staff]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.719476580619812
+[sick days taken by full-time permanent staff]: New Zealand --[CONTAINS]-> Wellington 0.738829493522644
+[sick days taken by full-time permanent staff]: Wellington --[PART_OF]-> New Zealand 0.731232762336731

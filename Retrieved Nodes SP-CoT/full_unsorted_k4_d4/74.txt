@@ -1,0 +1,36 @@
+What is the abbreviation for The program that includes the expressway project aimed at improving freight transport efficiency in the region in the country known for its transport system innovation aimed at improving efficiency, sustainability, and accessibility in response to unique geographical challenges?
+None
+Seed: Efficiency of freight transport in region
+Seed: Driving innovation in freight transport sector
+Seed: Regional transport initiatives
+Seed: Enhancing safety and efficiency of transportation systems in new zealand
+[Efficiency of freight transport in region]: Waikato expressway --[Significantly enhances]-> Efficiency of freight transport in region 0.8661929965019226
+[Efficiency of freight transport in region]: Waikato expressway --[Is part of]-> National land transport programme 0.8318911790847778
+[Efficiency of freight transport in region]: National land transport programme --[Is]-> Key component of new zealand's transport planning framework 0.8095321655273438
+[Efficiency of freight transport in region]: National land transport programme --[Updated]-> Every three years 0.8058054447174072
+[Efficiency of freight transport in region]: National land transport programme --[Promotes]-> Environmental sustainability 0.812761127948761
+[Efficiency of freight transport in region]: Government objectives --[Include]-> Environmental sustainability 0.7768642902374268
+[Efficiency of freight transport in region]: Waka kotahi --[Contributes to]-> Environmental sustainability 0.7553657293319702
+[Efficiency of freight transport in region]: Sustainable urban transport --[Key component]-> Environmental sustainability 0.8116552233695984
+[Efficiency of freight transport in region]: Vehicle technology advancements --[Enhanced]-> Environmental sustainability 0.7973875999450684
+[Efficiency of freight transport in region]: Environmental sustainability --[Has become]-> Key consideration in road infrastructure development 0.8218714594841003
+[Efficiency of freight transport in region]: Smart mobility solutions --[Address]-> Environmental sustainability 0.7807780504226685
+[Efficiency of freight transport in region]: New zealand --[Address]-> Environmental sustainability 0.751287043094635
+[Efficiency of freight transport in region]: National land transport programme --[Supports]-> Economic growth 0.801021933555603
+[Efficiency of freight transport in region]: Government objectives --[Include]-> Economic growth 0.7715517282485962
+[Efficiency of freight transport in region]: Kiwirail group --[Promotes]-> Economic growth 0.7557560205459595
+[Efficiency of freight transport in region]: Waka kotahi --[Contributes to]-> Economic growth 0.7418515086174011
+[Efficiency of freight transport in region]: Auckland western ring route --[Supports]-> Economic growth 0.7602348923683167
+[Efficiency of freight transport in region]: Transport infrastructure development --[Is crucial for]-> Economic growth 0.8208541870117188
+[Efficiency of freight transport in region]: Freight transport --[Essential for]-> Economic growth 0.8202558159828186
+[Efficiency of freight transport in region]: Road infrastructure --[Is vital for]-> Economic growth 0.8135319948196411
+[Efficiency of freight transport in region]: National land transport programme --[Is]-> Key framework 0.8233894109725952
+[Efficiency of freight transport in region]: National land transport programme --[Aims to]-> Enhance sustainability 0.8299486041069031
+[Efficiency of freight transport in region]: National land transport programme --[Aims to]-> Enhance efficiency 0.835212230682373
+[Efficiency of freight transport in region]: National land transport programme --[Developed by]-> Waka kotahi nz transport agency 0.8069685697555542
+[Efficiency of freight transport in region]: Waka kotahi nz transport agency --[Responsible for]-> Managing national land transport system 0.7692534923553467
+[Efficiency of freight transport in region]: New zealand traffic control devices manual --[Published by]-> Waka kotahi nz transport agency 0.7780869603157043
+[Efficiency of freight transport in region]: Waka kotahi nz transport agency --[Established under]-> Land transport management act 2003 0.767905592918396
+[Efficiency of freight transport in region]: Waka kotahi nz transport agency --[Aims to create]-> Safe transport system 0.7605469226837158
+[Efficiency of freight transport in region]: Waka kotahi nz transport agency --[Ensures]-> Transport network is efficient 0.769898533821106
+[Efficiency of freight transport in region]: Waka kotahi nz transport agency --[Involved in]-> Developing innovative transport solutions 0.7877891659736633

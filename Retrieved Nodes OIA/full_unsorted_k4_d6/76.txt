@@ -1,0 +1,36 @@
+Why was the information related to the RFP submissions and preferred supplier selection withheld?
+None
+Seed: Some information has been withheld under section 9(2)(f)(iv)
+Seed: Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)
+Seed: decision to withhold information
+Seed: withheld
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[IS]-> Some information has been withheld under section 9(2)(f)(iv) 0.8323378562927246
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[DATE]-> 24 April 2024 0.7577831745147705
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[IS]-> NTS rollout timeline 0.7705423831939697
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[IS]-> Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv) 0.8329633474349976
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[IS]-> Transport stakeholders meeting 0.793108344078064
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[DATE]-> 17 April 2024 0.7672479152679443
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4449 --[DATE]-> 17 April 2024 0.7684364914894104
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4449 --[IS]-> Average cost of resurfacing and rehabilitation 0.7310360670089722
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4449 --[IS]-> Released in full 0.7779865860939026
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: 29 April 2024 --[RELEASED]-> Released in full 0.7303671836853027
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MINO -1047 Driver instructors --[TESTING]-> 29 April 2024 0.7530011534690857
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: 30 April 2024 --[RELEASED]-> Released in full 0.7288534641265869
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MINO -1051 Supporting information --[DEBATE]-> 30 April 2024 0.8113811612129211
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: Ministers Report --[IS]-> Released in full 0.7885640859603882
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: Ministers Report --[DATE]-> 8 April 2024 0.7745881676673889
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: Ministers Report --[IS]-> Ministers Report 0.7728776335716248
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: 8 April 2024 --[RELEASED]-> Released in full 0.7312860488891602
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MINO -1029 Minister Office's --[QUERY]-> 8 April 2024 0.794182538986206
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: 19 April 2024 --[RELEASED]-> Released in full 0.7304238677024841
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MINO -1042 Waterview Tunnel --[WARNING]-> 19 April 2024 0.7697892785072327
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: 22 April 2024 --[RELEASED]-> Released in full 0.7313984632492065
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MINO -1039 Road User Charges --[REVENUE]-> 22 April 2024 0.7536364793777466
+[decision to withhold information]: Ombudsman --[REVIEW]-> decision to withhold information 0.8423203229904175
+[decision to withhold information]: www.ombudsman.parliament.nz --[LINKS_TO]-> Ombudsman 0.7837426066398621
+[decision to withhold information]: website --[LOCATED_AT]-> www.ombudsman.parliament.nz 0.7741128206253052
+[decision to withhold information]: scheduled tasks --[IS_REMOVED]-> website 0.7613756656646729
+[decision to withhold information]: information requested --[DOES_NOT_EXIST]-> scheduled tasks 0.7782389521598816
+[decision to withhold information]: section 18(e) of the Act --[EXEMPTS]-> information requested 0.8080002069473267
+[decision to withhold information]: information requested --[REQUESTED_BY]-> requester name 0.7847651839256287
+[decision to withhold information]: response to OIA request --[PROVIDES]-> information requested 0.7959516048431396

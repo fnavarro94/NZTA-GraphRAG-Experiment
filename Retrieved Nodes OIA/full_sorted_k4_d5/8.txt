@@ -1,0 +1,30 @@
+Under which sections of the Official Information Act was certain information withheld in the OIA-15599 response?
+None
+Seed: Some information has been withheld under section 9(2)(f)(iv)
+Seed: Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)
+Seed: Request made under the Official Information Act 1982
+Seed: section 9(2)(j) of the Act
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[IS]-> Some information has been withheld under section 9(2)(f)(iv) 0.843669056892395
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[IS]-> NTS rollout timeline 0.7368964552879333
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[DATE]-> 24 April 2024 0.7288557887077332
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[IS]-> Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv) 0.8366753458976746
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: Ministers Report --[IS]-> Released in full 0.7864646911621094
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[IS]-> Transport stakeholders meeting 0.7502071857452393
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4449 --[DATE]-> 17 April 2024 0.7427646517753601
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4449 --[IS]-> Released in full 0.7418938875198364
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[DATE]-> 17 April 2024 0.7410187125205994
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: 22 April 2024 --[RELEASED]-> Released in full 0.7239023447036743
+[Request made under the Official Information Act 1982]: REF: OIA -13915 --[ASSOCIATED_WITH]-> Request made under the Official Information Act 1982 0.8864210247993469
+[Request made under the Official Information Act 1982]: certain information --[WITHHELD]-> section 9(2)(a) of the Act 0.8826509118080139
+[Request made under the Official Information Act 1982]: Oli Lewis --[REQUESTED]-> information under the Official Information Act 1982 0.8753279447555542
+[Request made under the Official Information Act 1982]: Request made under the Official Information Act 1982 --[ASSOCIATED_WITH]-> information under the Official Information Act 1982 0.8689075708389282
+[Request made under the Official Information Act 1982]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.8678512573242188
+[Request made under the Official Information Act 1982]: Dear --[OFFICIAL_INFORMATION]-> Request made under the Official Information Act 1982 0.8628548383712769
+[Request made under the Official Information Act 1982]: Request made under the Official Information Act 1982 --[REQUESTED]-> information under the Official Information Act 1982 0.858259916305542
+[section 9(2)(j) of the Act]: REF: OIA -13915 --[ASSOCIATED_WITH]-> Request made under the Official Information Act 1982 0.8864210247993469
+[section 9(2)(j) of the Act]: certain information --[WITHHELD]-> section 9(2)(a) of the Act 0.8826509118080139
+[section 9(2)(j) of the Act]: Oli Lewis --[REQUESTED]-> information under the Official Information Act 1982 0.8753279447555542
+[section 9(2)(j) of the Act]: Request made under the Official Information Act 1982 --[ASSOCIATED_WITH]-> information under the Official Information Act 1982 0.8689075708389282
+[section 9(2)(j) of the Act]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.8678512573242188
+[section 9(2)(j) of the Act]: Dear --[OFFICIAL_INFORMATION]-> Request made under the Official Information Act 1982 0.8628548383712769
+[section 9(2)(j) of the Act]: Request made under the Official Information Act 1982 --[REQUESTED]-> information under the Official Information Act 1982 0.858259916305542

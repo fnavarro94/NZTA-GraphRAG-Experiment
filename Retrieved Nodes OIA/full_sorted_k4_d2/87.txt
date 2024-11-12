@@ -1,0 +1,33 @@
+What is the total amount of investment planned to achieve the Road to Zero campaign goals?
+None
+Seed: cost of the current Road to Zero advertising campaign
+Seed: development of the next Road to Zero Action Plan
+Seed: information about Road To Zero campaign
+Seed: 2023-24 State Highway Investment Proposal
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[COST]-> cost of the current Road to Zero advertising campaign 0.8801161050796509
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[TARGET]-> zero accidents 0.8698713779449463
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[EVALUATED_BY]-> post campaign polling or research 0.8598682880401611
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[LAUNCHED_BY]-> New Zealand Transport Agency 0.8435074687004089
+[cost of the current Road to Zero advertising campaign]: Request made under the Official Information Act 1982 --[CHALLENGES]-> Road To Zero campaign 0.8393644094467163
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[LOGIC]-> logic in making this critical decision 0.8301404118537903
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[WORKING_WITH]-> development of the next Road to Zero Action Plan 0.8422333002090454
+[development of the next Road to Zero Action Plan]: Road to Zero --[IS_IMPLEMENTED_BY]-> Waka Kotahi 0.8230278491973877
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[SUPPORTS]-> Road to Zero strategy 0.8203655481338501
+[development of the next Road to Zero Action Plan]: national fund --[DISTRIBUTED_BY]-> Waka Kotahi 0.8010426759719849
+[development of the next Road to Zero Action Plan]: National Land Transport Fund --[ADMINISTERED_BY]-> Waka Kotahi 0.7868164777755737
+[development of the next Road to Zero Action Plan]: Regional Public Transport Plans --[DEVELOPED_BY]-> Waka Kotahi 0.7805778384208679
+[development of the next Road to Zero Action Plan]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.7796972393989563
+[information about Road To Zero campaign]: Request made under the Official Information Act 1982 --[REQUESTS]-> information about Road To Zero campaign 0.8429238796234131
+[information about Road To Zero campaign]: Request made under the Official Information Act 1982 --[CHALLENGES]-> Road To Zero campaign 0.8393644094467163
+[information about Road To Zero campaign]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.7765892148017883
+[information about Road To Zero campaign]: logic in making this critical decision --[CHALLENGED_BY]-> Request made under the Official Information Act 1982 0.7701441049575806
+[information about Road To Zero campaign]: Request made under the Official Information Act 1982 --[REQUEST_DATE]-> 30 October 2018 0.7692317962646484
+[information about Road To Zero campaign]: Request made under the Official Information Act 1982 --[REQUESTED_BY]-> Thomas Coughlan 0.7605463862419128
+[information about Road To Zero campaign]: REF: OIA -13915 --[ASSOCIATED_WITH]-> Request made under the Official Information Act 1982 0.7585859894752502
+[2023-24 State Highway Investment Proposal]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.827923059463501
+[2023-24 State Highway Investment Proposal]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Access and Development Programme Business Case 0.8202199935913086
+[2023-24 State Highway Investment Proposal]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.8116206526756287
+[2023-24 State Highway Investment Proposal]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Access and Development Programme Business Case 0.8106780648231506
+[2023-24 State Highway Investment Proposal]: Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.8059531450271606
+[2023-24 State Highway Investment Proposal]: Hornby Access and Development Programme Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.8053060173988342
+[2023-24 State Highway Investment Proposal]: Main South Road, Shands Road and Carmen Road intersection --[LOCATED_NEAR]-> Hornby Access and Development Programme Business Case 0.7496731281280518

@@ -1,0 +1,24 @@
+How much will it cost to repair the damage to Milford Rd from the September 10/11 avalanches, and who will pay?
+None
+Seed: request for pothole repair cost information
+Seed: opportunities to make an announcement regarding changes to the national farebox recovery policy
+Seed: report on the impacts of the Fare Recovery Ratio
+Seed: $5.91m
+[request for pothole repair cost information]: New Zealand Transport Agency --[CONSIDERS]-> request for pothole repair cost information 0.8270890116691589
+[request for pothole repair cost information]: request for pothole repair cost information --[SUBJECT_TO]-> section 18(f) of the Act 0.8223533034324646
+[request for pothole repair cost information]: request for pothole repair cost information --[SUBJECT_TO]-> sections 18A and 18B of the Act 0.8190203905105591
+[request for pothole repair cost information]: funding for road maintenance --[FOR]-> State Highway 1 0.8089951276779175
+[request for pothole repair cost information]: New Zealand Transport Agency --[NEGOTIATING]-> Transmission Gully 0.807317852973938
+[request for pothole repair cost information]: maintenance --[FUNDED_BY]-> tolls 0.8070817589759827
+[request for pothole repair cost information]: section 18(f) of the Act --[APPLIES_TO]-> request for pothole repair cost information 0.8026232719421387
+[opportunities to make an announcement regarding changes to the national farebox recovery policy]: MIN-3132 --[RELATES_TO]-> opportunities to make an announcement regarding changes to the national farebox recovery policy 0.7796892523765564
+[opportunities to make an announcement regarding changes to the national farebox recovery policy]: MIN/O-0005 --[FOLLOWS_UP]-> MIN-3132 0.7414705157279968
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[CONSIDERS]-> request for pothole repair cost information 0.8270890116691589
+[report on the impacts of the Fare Recovery Ratio]: request for pothole repair cost information --[SUBJECT_TO]-> section 18(f) of the Act 0.8223533034324646
+[report on the impacts of the Fare Recovery Ratio]: request for pothole repair cost information --[SUBJECT_TO]-> sections 18A and 18B of the Act 0.8190203905105591
+[report on the impacts of the Fare Recovery Ratio]: funding for road maintenance --[FOR]-> State Highway 1 0.8089951276779175
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[NEGOTIATING]-> Transmission Gully 0.807317852973938
+[report on the impacts of the Fare Recovery Ratio]: maintenance --[FUNDED_BY]-> tolls 0.8070817589759827
+[report on the impacts of the Fare Recovery Ratio]: section 18(f) of the Act --[APPLIES_TO]-> request for pothole repair cost information 0.8026232719421387
+[$5.91m]: 29 Feb 2020 --[AS_OF]-> $5.91m 0.7848023176193237
+[$5.91m]: $5.91m --[SPENT]-> HVSC related inspections, case reviews and recertifications 0.7796093225479126

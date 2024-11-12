@@ -1,0 +1,10 @@
+What notable project aims to improve transportation connectivity in Auckland and support the region's economic growth, and also aims to improve rail connectivity in Auckland?
+None
+Seed: Addressing transport challenges in auckland
+Seed: Regional transport initiatives
+Seed: Transport planning aligns with urban development goals
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Addressing transport challenges in auckland 0.8884895443916321
+[Regional transport initiatives]: Local councils --[Contribute to]-> Regional transport initiatives 0.8255856037139893
+[Transport planning aligns with urban development goals]: Auckland transport --[Ensures]-> Transport planning aligns with urban development goals 0.8655921220779419
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Plays]-> Significant role in shaping transport infrastructure and policy in new zealand 0.8556763529777527

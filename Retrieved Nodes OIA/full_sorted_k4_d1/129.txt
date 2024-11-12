@@ -1,0 +1,11 @@
+How much did Meredith Connell invoice NZTA for legal services from November 2018 to June 2019?
+None
+Seed: highest single amount invoiced was $93,114.27
+Seed: administration fee
+Seed: $130,675
+Seed: $949,349
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[INVOICES]-> highest single amount invoiced was $93,114.27 0.8336039781570435
+[administration fee]: administration fee --[APPLIED_TO]-> toll payment notice 0.7713233828544617
+[administration fee]: toll roads --[INCLUDE]-> administration fee 0.7503587007522583
+[$130,675]: Stantec --[COST]-> $130,675 0.7368848323822021
+[$949,349]: various organizations --[COST]-> $949,349 0.7699165940284729

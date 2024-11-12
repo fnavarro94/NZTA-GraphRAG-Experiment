@@ -1,0 +1,21 @@
+Who should be contacted to discuss the Kaipara Coast Highway (SH16) near Omeru Reserve remedial work?
+None
+Seed: contact details for the Ombudsman
+Seed: 2023-24 State Highway Investment Proposal
+Seed: Transport stakeholders meeting
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+[contact details for the Ombudsman]: Transport Agency --[PROVIDES]-> contact details for the Ombudsman 0.816931962966919
+[contact details for the Ombudsman]: www.ombudsman.parliament.nz --[HOSTS]-> contact details for the Ombudsman 0.8288267850875854
+[contact details for the Ombudsman]: contact details for the Ombudsman --[LOCATED_AT]-> www.ombudsman.parliament.nz 0.8359570503234863
+[contact details for the Ombudsman]: contact details for the Ombudsman --[AVAILABLE_AT]-> www.ombudsman.parliament.nz 0.8365206718444824
+[contact details for the Ombudsman]: response --[CONTAINS]-> contact details for the Ombudsman 0.8003816604614258
+[contact details for the Ombudsman]: New Zealand Transport Agency --[PROVIDES]-> contact details for the Ombudsman 0.8212437629699707
+[contact details for the Ombudsman]: contact details for the Ombudsman --[FOUND]-> www.ombudsman.parliament.nz 0.8388278484344482
+[contact details for the Ombudsman]: Jackie Smith --[PROVIDES]-> contact details for the Ombudsman 0.7897639274597168
+[contact details for the Ombudsman]: contact details for the Ombudsman --[LOCATED]-> www.ombudsman.parliament.nz 0.8390175104141235
+[contact details for the Ombudsman]: response letter --[CONTAINS]-> contact details for the Ombudsman 0.8050135970115662
+[2023-24 State Highway Investment Proposal]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.7948270440101624
+[2023-24 State Highway Investment Proposal]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Access and Development Programme Business Case 0.8002135753631592
+[Transport stakeholders meeting]: MIN-4452 --[IS]-> Transport stakeholders meeting 0.8014978766441345
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUESTS]-> detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) 0.801615297794342
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) --[CONTRACTS]-> consultants 0.7951442003250122

@@ -1,0 +1,34 @@
+What is the abbreviation commonly used for the method that involves the use of advanced sensors and cameras to gather real-time data on road conditions in the context of transport systems in New Zealand?
+None
+Seed: Advanced sensors and cameras
+Seed: Cameras and sensors
+Seed: Real-time tracking of buses and trains
+Seed: Systematic collection and analysis of data related to the physical state of roadways
+[Advanced sensors and cameras]: Automated data collection --[Used in]-> Transport in new zealand 0.8857194185256958
+[Advanced sensors and cameras]: Auckland transport operations centre --[Utilizes]-> Advanced traffic monitoring systems 0.8817510604858398
+[Advanced sensors and cameras]: Transport in new zealand --[Has]-> Automated data collection 0.8808994293212891
+[Advanced sensors and cameras]: Auckland transport operations centre --[Utilizes]-> Advanced technology and real-time data analytics 0.8720269203186035
+[Advanced sensors and cameras]: Intelligent transport systems --[Use]-> Traffic cameras 0.8683350086212158
+[Advanced sensors and cameras]: Transport data analytics --[Gained importance]-> New zealand 0.8677038550376892
+[Advanced sensors and cameras]: New zealand --[Transport system]-> Primarily road-based 0.8675124049186707
+[Cameras and sensors]: Road condition monitoring --[Is]-> Critical aspect of transport management in new zealand 0.8892637491226196
+[Cameras and sensors]: Automated data collection --[Used in]-> Transport in new zealand 0.8857194185256958
+[Cameras and sensors]: Auckland transport operations centre --[Utilizes]-> Advanced traffic monitoring systems 0.8817510604858398
+[Cameras and sensors]: Transport in new zealand --[Has]-> Automated data collection 0.8808994293212891
+[Cameras and sensors]: New zealand traffic control devices manual --[Updated to reflect]-> Best practices 0.8780926465988159
+[Cameras and sensors]: New zealand traffic control devices manual --[Serves as]-> Critical resource 0.8773183822631836
+[Cameras and sensors]: New zealand traffic control devices manual --[Applicable to]-> All public roads in new zealand 0.8750029802322388
+[Real-time tracking of buses and trains]: Automated data collection --[Used in]-> Transport in new zealand 0.8857194185256958
+[Real-time tracking of buses and trains]: Auckland transport operations centre --[Utilizes]-> Advanced traffic monitoring systems 0.8817510604858398
+[Real-time tracking of buses and trains]: Transport in new zealand --[Has]-> Automated data collection 0.8808994293212891
+[Real-time tracking of buses and trains]: Auckland transport operations centre --[Utilizes]-> Advanced technology and real-time data analytics 0.8720269203186035
+[Real-time tracking of buses and trains]: Intelligent transport systems --[Use]-> Traffic cameras 0.8683350086212158
+[Real-time tracking of buses and trains]: Transport data analytics --[Gained importance]-> New zealand 0.8677038550376892
+[Real-time tracking of buses and trains]: New zealand --[Transport system]-> Primarily road-based 0.8675124049186707
+[Systematic collection and analysis of data related to the physical state of roadways]: Road condition monitoring --[Is]-> Critical aspect of transport management in new zealand 0.8892637491226196
+[Systematic collection and analysis of data related to the physical state of roadways]: Intelligent transport systems --[Use]-> Traffic cameras 0.8683350086212158
+[Systematic collection and analysis of data related to the physical state of roadways]: Transport data analytics --[Gained importance]-> New zealand 0.8677038550376892
+[Systematic collection and analysis of data related to the physical state of roadways]: New zealand --[Transport system]-> Primarily road-based 0.8675124049186707
+[Systematic collection and analysis of data related to the physical state of roadways]: Intelligent transport systems --[Use]-> Sensors 0.8666205406188965
+[Systematic collection and analysis of data related to the physical state of roadways]: New zealand --[Has adopted]-> Advanced driver-assistance systems 0.8639739155769348
+[Systematic collection and analysis of data related to the physical state of roadways]: Road user engagement --[Is]-> New zealand 0.8638607263565063

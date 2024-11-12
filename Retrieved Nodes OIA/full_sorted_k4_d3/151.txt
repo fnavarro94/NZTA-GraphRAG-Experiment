@@ -1,0 +1,29 @@
+What is the total projected cost for the Greater Christchurch Mass Rapid Transit Indicative Business Case?
+None
+Seed: cost breakdown for Greater Christchurch Mass Rapid Transit
+Seed: costing information for Greater Christchurch Mass Rapid Transit
+Seed: cost of the current Road to Zero advertising campaign
+Seed: $5.91m
+[cost breakdown for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[PROVIDES]-> costing information for Greater Christchurch Mass Rapid Transit 0.8969981074333191
+[cost breakdown for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[PROVIDES]-> cost breakdown for Greater Christchurch Mass Rapid Transit 0.8945010900497437
+[cost breakdown for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[PLANS_TO_SPEND]-> total amount of money 0.8536037802696228
+[cost breakdown for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[PROVIDES]-> update on budget and costs 0.8463113307952881
+[cost breakdown for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[PAID]-> $7,221,290.02 0.8453114032745361
+[cost breakdown for Greater Christchurch Mass Rapid Transit]: North Auckland Rapid Transit Corridor --[ECONOMIC_STUDY]-> Economic Study 0.844139814376831
+[cost breakdown for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[PROVIDES]-> funding 0.8411270976066589
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[PROVIDES]-> costing information for Greater Christchurch Mass Rapid Transit 0.8969981074333191
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[PROVIDES]-> cost breakdown for Greater Christchurch Mass Rapid Transit 0.8945010900497437
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[PLANS_TO_SPEND]-> total amount of money 0.8536037802696228
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[PROVIDES]-> update on budget and costs 0.8463113307952881
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[PAID]-> $7,221,290.02 0.8453114032745361
+[costing information for Greater Christchurch Mass Rapid Transit]: North Auckland Rapid Transit Corridor --[ECONOMIC_STUDY]-> Economic Study 0.844139814376831
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[PROVIDES]-> funding 0.8411270976066589
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[PROVIDES]-> costing information for Greater Christchurch Mass Rapid Transit 0.8969981074333191
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[PROVIDES]-> cost breakdown for Greater Christchurch Mass Rapid Transit 0.8945010900497437
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[PLANS_TO_SPEND]-> total amount of money 0.8536037802696228
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[PROVIDES]-> update on budget and costs 0.8463113307952881
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[PAID]-> $7,221,290.02 0.8453114032745361
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[PROVIDES]-> funding 0.8411270976066589
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[CONTACT]-> 04 894 6285 0.8403346538543701
+[$5.91m]: 29 Feb 2020 --[AS_OF]-> $5.91m 0.8073399066925049
+[$5.91m]: $5.91m --[SPENT]-> HVSC related inspections, case reviews and recertifications 0.7907288074493408

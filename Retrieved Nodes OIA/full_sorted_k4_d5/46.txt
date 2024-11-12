@@ -1,0 +1,34 @@
+What action can an individual take if they wish to contest the decision to refuse their request?
+None
+Seed: decision to refuse request
+Seed: refusal of request
+Seed: I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.
+Seed: public interest in seeking and receiving confidential legal advice
+[decision to refuse request]: request --[REFUSE]-> decision 0.899573802947998
+[decision to refuse request]: request --[REFUSED]-> decision to refuse request 0.8788845539093018
+[decision to refuse request]: decision --[REFUSE]-> request 0.8785701394081116
+[decision to refuse request]: decision to refuse request --[BASED_ON]-> section 28 of the Act 0.8774951696395874
+[decision to refuse request]: Ombudsman --[REVIEW]-> decision to refuse request 0.8718570470809937
+[decision to refuse request]: Decision --[REFUSED]-> Request 0.8612117767333984
+[decision to refuse request]: section 18(f) of the Act --[PERMITS]-> refusal of request 0.8591588735580444
+[refusal of request]: request --[REFUSE]-> decision 0.899573802947998
+[refusal of request]: request --[REFUSED]-> decision to refuse request 0.8788845539093018
+[refusal of request]: decision --[REFUSE]-> request 0.8785701394081116
+[refusal of request]: decision to refuse request --[BASED_ON]-> section 28 of the Act 0.8774951696395874
+[refusal of request]: Ombudsman --[REVIEW]-> decision to refuse request 0.8718570470809937
+[refusal of request]: Decision --[REFUSED]-> Request 0.8612117767333984
+[refusal of request]: section 18(f) of the Act --[PERMITS]-> refusal of request 0.8591588735580444
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: logic in making this critical decision --[CHALLENGED_BY]-> Request made under the Official Information Act 1982 0.842559814453125
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: Request made under the Official Information Act 1982 --[CHALLENGES]-> Road To Zero campaign 0.8055672645568848
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: Request made under the Official Information Act 1982 --[REQUESTS]-> information about Road To Zero campaign 0.8050700426101685
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.79904705286026
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: Request made under the Official Information Act 1982 --[REQUEST_DATE]-> 30 October 2018 0.7863466143608093
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: Dear --[OFFICIAL_INFORMATION]-> Request made under the Official Information Act 1982 0.7857702970504761
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: Joel MacManus --[REQUEST]-> Request made under the Official Information Act 1982 0.785742998123169
+[public interest in seeking and receiving confidential legal advice]: request --[REFUSE]-> decision 0.899573802947998
+[public interest in seeking and receiving confidential legal advice]: request --[REFUSED]-> decision to refuse request 0.8788845539093018
+[public interest in seeking and receiving confidential legal advice]: decision --[REFUSE]-> request 0.8785701394081116
+[public interest in seeking and receiving confidential legal advice]: decision to refuse request --[BASED_ON]-> section 28 of the Act 0.8774951696395874
+[public interest in seeking and receiving confidential legal advice]: Ombudsman --[REVIEW]-> decision to refuse request 0.8718570470809937
+[public interest in seeking and receiving confidential legal advice]: Decision --[REFUSED]-> Request 0.8612117767333984
+[public interest in seeking and receiving confidential legal advice]: section 18(f) of the Act --[PERMITS]-> refusal of request 0.8591588735580444

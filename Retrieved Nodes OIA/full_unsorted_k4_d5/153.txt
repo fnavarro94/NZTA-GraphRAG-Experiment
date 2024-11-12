@@ -1,0 +1,36 @@
+What topic does the OIA-2127 request focus on?
+None
+Seed: conflict of interest
+Seed: Conflict of interest
+Seed: public interest in accountability
+Seed: public interest in seeking and receiving confidential legal advice
+[conflict of interest]: New Zealand Transport Agency --[MANAGES]-> conflict of interest 0.7862646579742432
+[conflict of interest]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7573069334030151
+[conflict of interest]: New Zealand Transport Agency --[BASED]-> Wellington 0.7575348019599915
+[conflict of interest]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7619169354438782
+[conflict of interest]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.7702630758285522
+[conflict of interest]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7506962418556213
+[conflict of interest]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.7428830862045288
+[conflict of interest]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7415947318077087
+[conflict of interest]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7520744204521179
+[conflict of interest]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.75550377368927
+[conflict of interest]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7403767704963684
+[conflict of interest]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7259398698806763
+[conflict of interest]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7544227838516235
+[conflict of interest]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7214310169219971
+[conflict of interest]: Wellington --[CONTAINS]-> Private Bag 6995 0.7441302537918091
+[conflict of interest]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7758934497833252
+[conflict of interest]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7541245818138123
+[conflict of interest]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.7622183561325073
+[conflict of interest]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7398877143859863
+[conflict of interest]: 50 Victoria Street --[IN]-> Wellington 0.7200154662132263
+[conflict of interest]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.7521747350692749
+[conflict of interest]: New Zealand Transport Agency --[LOCATED]-> 50 Victoria Street 0.7496031522750854
+[conflict of interest]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7237036824226379
+[conflict of interest]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7268112897872925
+[conflict of interest]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7307854890823364
+[conflict of interest]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7219752073287964
+[conflict of interest]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7452729940414429
+[conflict of interest]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7587619423866272
+[conflict of interest]: New Zealand Transport Agency --[CONTACT]-> Wellington 6141 0.7728310227394104
+[conflict of interest]: Wellington 6141 --[POSTAL_ADDRESS]-> New Zealand 0.7301230430603027

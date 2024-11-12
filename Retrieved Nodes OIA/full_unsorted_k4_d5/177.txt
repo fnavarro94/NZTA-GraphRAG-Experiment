@@ -1,0 +1,36 @@
+What initiative was discussed to improve safety for visiting drivers in New Zealand?
+None
+Seed: Road safety initiatives
+Seed: Road Safety Initiatives
+Seed: road safety initiatives
+Seed: summary of the visiting drivers survey
+[Road safety initiatives]: New Zealand Transport Agency --[ASSOCIATED]-> Road safety initiatives 0.9172646999359131
+[Road safety initiatives]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8326317071914673
+[Road safety initiatives]: New Zealand Transport Agency --[BASED]-> Wellington 0.8451541662216187
+[Road safety initiatives]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8287695646286011
+[Road safety initiatives]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.8182934522628784
+[Road safety initiatives]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7757563591003418
+[Road safety initiatives]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.7639424800872803
+[Road safety initiatives]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7695157527923584
+[Road safety initiatives]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.8120144605636597
+[Road safety initiatives]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.8226327896118164
+[Road safety initiatives]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7854299545288086
+[Road safety initiatives]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7673797607421875
+[Road safety initiatives]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7623683214187622
+[Road safety initiatives]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7351274490356445
+[Road safety initiatives]: Wellington --[CONTAINS]-> Private Bag 6995 0.7783628702163696
+[Road safety initiatives]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8292490243911743
+[Road safety initiatives]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8314776420593262
+[Road safety initiatives]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.8121445178985596
+[Road safety initiatives]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.8066408038139343
+[Road safety initiatives]: 50 Victoria Street --[IN]-> Wellington 0.768851637840271
+[Road safety initiatives]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.8159222602844238
+[Road safety initiatives]: New Zealand Transport Agency --[LOCATED]-> 50 Victoria Street 0.8275561332702637
+[Road safety initiatives]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7852241396903992
+[Road safety initiatives]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7764059901237488
+[Road safety initiatives]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7835285663604736
+[Road safety initiatives]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7635780572891235
+[Road safety initiatives]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.8128023743629456
+[Road safety initiatives]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.8341448307037354
+[Road safety initiatives]: New Zealand Transport Agency --[CONTACT]-> Wellington 6141 0.8159662485122681
+[Road safety initiatives]: Wellington 6141 --[POSTAL_ADDRESS]-> New Zealand 0.7748652100563049

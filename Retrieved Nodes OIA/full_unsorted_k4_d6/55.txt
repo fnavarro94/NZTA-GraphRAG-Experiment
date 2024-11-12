@@ -1,0 +1,36 @@
+What is the definition of a road used by the Crash Analysis System (CAS)?
+None
+Seed: Guide for the interpretation of coded crash reports
+Seed: Road Safety Analysis
+Seed: Crash Analysis System
+Seed: Road Traffic Crash Data
+[Guide for the interpretation of coded crash reports]: Guide for the interpretation of coded crash reports --[AVAILABLE_AT]-> https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf 0.8188116550445557
+[Guide for the interpretation of coded crash reports]: https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf --[ACCESSIBLE]-> online 0.8101710677146912
+[Guide for the interpretation of coded crash reports]: online --[RELATES_TO]-> https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c 0.7789459228515625
+[Guide for the interpretation of coded crash reports]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.770673394203186
+[Guide for the interpretation of coded crash reports]: Response --[CONTAINS]-> Waka Kotahi 0.723639965057373
+[Guide for the interpretation of coded crash reports]: Waka Kotahi --[PUBLISHES]-> Response 0.7130475044250488
+[Guide for the interpretation of coded crash reports]: response --[CONTAINS]-> Waka Kotahi 0.7177956104278564
+[Guide for the interpretation of coded crash reports]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.7422024607658386
+[Guide for the interpretation of coded crash reports]: Charles Ronaldson --[SIGNED]-> response 0.6960936784744263
+[Guide for the interpretation of coded crash reports]: Lauren Cooke --[SIGNED]-> response 0.6981174945831299
+[Guide for the interpretation of coded crash reports]: Waka Kotahi --[PUBLISHED_BY]-> response 0.7082982063293457
+[Guide for the interpretation of coded crash reports]: Ministry --[PROVIDE]-> response 0.699431300163269
+[Guide for the interpretation of coded crash reports]: response --[REMOVED]-> personal information 0.686188817024231
+[Guide for the interpretation of coded crash reports]: Waka Kotahi website --[CONTAINS]-> response 0.7077992558479309
+[Guide for the interpretation of coded crash reports]: New Zealand Transport Agency --[DISCUSSES]-> response 0.7612215280532837
+[Guide for the interpretation of coded crash reports]: response --[IS_A]-> letter 0.7151612639427185
+[Guide for the interpretation of coded crash reports]: Waka Kotahi --[FOLLOWS]-> response 0.699177622795105
+[Guide for the interpretation of coded crash reports]: New Zealand Transport Agency --[PUBLISH]-> response 0.7664520740509033
+[Guide for the interpretation of coded crash reports]: New Zealand Transport Agency --[PUBLISHES]-> response 0.760280430316925
+[Guide for the interpretation of coded crash reports]: response --[IS]-> response letter 0.7084888219833374
+[Guide for the interpretation of coded crash reports]: response letter --[IS]-> response 0.7107486724853516
+[Guide for the interpretation of coded crash reports]: response --[CONTAINS]-> contact details for the Ombudsman 0.6995642781257629
+[Guide for the interpretation of coded crash reports]: response --[CONTAINS]-> Jamie Ensor 0.7230037450790405
+[Guide for the interpretation of coded crash reports]: response --[RELATES_TO]-> personal information removed 0.7149361371994019
+[Guide for the interpretation of coded crash reports]: Conan Young --[RECEIVES]-> response 0.7044709324836731
+[Guide for the interpretation of coded crash reports]: oia-14650-response-letter.pdf --[CONTAINS]-> response 0.7206910848617554
+[Guide for the interpretation of coded crash reports]: response --[IS]-> sincerely 0.6755484938621521
+[Guide for the interpretation of coded crash reports]: NZTA --[REPLY]-> response 0.7170943021774292
+[Guide for the interpretation of coded crash reports]: response --[REMOVE]-> personal information 0.6792375445365906
+[Guide for the interpretation of coded crash reports]: Waka Kotahi --[PUBLISHED]-> response 0.708603024482727

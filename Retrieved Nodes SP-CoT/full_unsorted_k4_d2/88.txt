@@ -1,0 +1,36 @@
+Which city in New Zealand utilizes the Snapper card as part of its initiative that has improved the reliability of public transport services and allowed users to plan their journeys more effectively, and what is the headquarters city of the airline that provides domestic air travel services between the North and South Islands of New Zealand and is crucial for the tourism sector?
+None
+Seed: Domestic flights to major cities across new zealand
+Seed: Flagship airline of new zealand
+Seed: Flights within new zealand
+Seed: Domestic and international travel
+[Domestic flights to major cities across new zealand]: Wellington international airport --[Provides]-> Domestic flights to major cities across new zealand 0.8587126731872559
+[Domestic flights to major cities across new zealand]: Wellington international airport --[Provides]-> International flights to australia and the south pacific 0.8472933173179626
+[Domestic flights to major cities across new zealand]: Wellington international airport --[Is]-> Primary airport serving the city 0.8269467353820801
+[Domestic flights to major cities across new zealand]: Wellington international airport --[Located]-> Just 8 kilometers from the central business district 0.8132662773132324
+[Domestic flights to major cities across new zealand]: Wellington international airport --[Known for]-> Unique location 0.822270393371582
+[Domestic flights to major cities across new zealand]: Wellington international airport --[Situated on]-> Narrow strip of land between the hills and the sea 0.8184518814086914
+[Domestic flights to major cities across new zealand]: Wellington international airport --[Presents challenges for]-> Both takeoff and landing 0.8017758131027222
+[Flagship airline of new zealand]: Air new zealand --[Is]-> Flagship airline of new zealand 0.8615130186080933
+[Flagship airline of new zealand]: Air new zealand --[Operates]-> Boeing 787 dreamliners 0.8255338668823242
+[Flagship airline of new zealand]: Air new zealand --[Member of]-> Star alliance 0.83612060546875
+[Flagship airline of new zealand]: Air new zealand --[Operates]-> Modern fleet of aircraft 0.8337572813034058
+[Flagship airline of new zealand]: Air new zealand --[Headquartered in]-> Auckland 0.8479682207107544
+[Flagship airline of new zealand]: Air new zealand --[Aligns with]-> New zealand's broader environmental goals 0.8243800401687622
+[Flagship airline of new zealand]: Air new zealand --[Continues to evolve in response to]-> Dynamic landscape of global aviation 0.8208204507827759
+[Flagship airline of new zealand]: Air new zealand --[Implemented]-> Various initiatives aimed at improving fuel efficiency 0.8200241327285767
+[Flagship airline of new zealand]: Air new zealand --[Reflects]-> Airline's responsibility as a key player in the transport sector 0.8353010416030884
+[Flagship airline of new zealand]: Air new zealand --[Known for]-> Innovative approach to customer service and safety 0.8528536558151245
+[Flagship airline of new zealand]: Air new zealand --[Operates]-> Airbus a320s 0.8359091877937317
+[Flagship airline of new zealand]: Air new zealand --[Expanded services to include]-> Long-haul international flights 0.8287161588668823
+[Flagship airline of new zealand]: Air new zealand --[Invested in]-> Sustainable aviation fuel 0.8237624168395996
+[Flagship airline of new zealand]: Air new zealand --[Contributes significantly to]-> Country's economy and connectivity 0.8360903263092041
+[Flagship airline of new zealand]: Air new zealand --[Established in]-> 1940 0.8331881761550903
+[Flagship airline of new zealand]: Air new zealand --[Plays crucial role in]-> Connecting new zealand's remote regions with major urban centers 0.8653209209442139
+[Flagship airline of new zealand]: Air new zealand --[Remains]-> Cornerstone of new zealand's transport infrastructure 0.8328980207443237
+[Flagship airline of new zealand]: Air new zealand --[Committed to]-> Sustainability and reducing its carbon footprint 0.8179433345794678
+[Flagship airline of new zealand]: Air new zealand --[Operates]-> Numerous routes connecting major cities and regional centers 0.8687546253204346
+[Flagship airline of new zealand]: Air new zealand --[Expanded]-> Domestic air services 0.8435288667678833
+[Flagship airline of new zealand]: Air new zealand --[Introduced]-> Jet aircraft 0.8020262718200684
+[Flagship airline of new zealand]: Teal --[Became]-> Air new zealand 0.8292629718780518
+[Flights within new zealand]: Auckland airport --[Serves]-> Flights within new zealand 0.8422168493270874

@@ -1,0 +1,36 @@
+What measures did NZTA take to ensure conflicts of interest were managed in the 2017/18 Annual Review?
+None
+Seed: conflicts of interest by senior staff
+Seed: Review of regulatory role
+Seed: Enforcement of regulatory role
+Seed: Conflict of interest
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[NOTIFIES]-> conflicts of interest by senior staff 0.862028956413269
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.783737301826477
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8082459568977356
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7905780673027039
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7714884877204895
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7911600470542908
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7926522493362427
+[conflicts of interest by senior staff]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.8104704022407532
+[conflicts of interest by senior staff]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7980772256851196
+[conflicts of interest by senior staff]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8170854449272156
+[conflicts of interest by senior staff]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.805419921875
+[conflicts of interest by senior staff]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8059389591217041
+[conflicts of interest by senior staff]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8028877973556519
+[conflicts of interest by senior staff]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7961502075195312
+[conflicts of interest by senior staff]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7915675044059753
+[conflicts of interest by senior staff]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8066080808639526
+[conflicts of interest by senior staff]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8200168609619141
+[conflicts of interest by senior staff]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7832474708557129
+[conflicts of interest by senior staff]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7882493138313293
+[conflicts of interest by senior staff]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8149300813674927
+[conflicts of interest by senior staff]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7869623899459839
+[conflicts of interest by senior staff]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8180385828018188
+[conflicts of interest by senior staff]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8170274496078491
+[conflicts of interest by senior staff]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8156064748764038
+[conflicts of interest by senior staff]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7821061015129089
+[conflicts of interest by senior staff]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.77843177318573
+[conflicts of interest by senior staff]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8277009725570679
+[conflicts of interest by senior staff]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7832696437835693
+[conflicts of interest by senior staff]: Senior Engineer Vehicle Standard --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7885570526123047
+[conflicts of interest by senior staff]: oia-15834-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8242937922477722

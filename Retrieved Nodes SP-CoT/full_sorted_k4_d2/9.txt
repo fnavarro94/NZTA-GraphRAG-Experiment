@@ -1,0 +1,34 @@
+In what year did the project that aims to develop a high-quality public transport corridor in Wellington begin?
+None
+Seed: Significant step towards creating sustainable and user-friendly public transport system
+Seed: Transport link between wellington and northern regions of north island
+Seed: Meet the evolving needs of new zealand's transport system
+Seed: Promoting public transport initiatives
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Developed by]-> Greater wellington regional council 0.8852235674858093
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Initiated in response to]-> Increasing urbanization 0.882498025894165
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Represents]-> Significant step towards creating sustainable and user-friendly public transport system 0.8819208145141602
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Outlines]-> Comprehensive approach 0.8812780380249023
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Aimed at]-> Promoting sustainability 0.880703330039978
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Is]-> Strategic framework 0.8795210123062134
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Objectives include]-> Enhancing service quality 0.8773477077484131
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Aims to]-> Meet the evolving needs of new zealand's transport system 0.892913281917572
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Is]-> Key transport route 0.8695229291915894
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Begins]-> Wellington urban area 0.8677528500556946
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Accommodates]-> Sustainable transport options 0.8677428960800171
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Aims to improve]-> Transport link between wellington and northern regions of north island 0.8676568865776062
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Connects]-> Wellington 0.8663425445556641
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Enhances]-> Connectivity for commuters 0.8616744875907898
+[Meet the evolving needs of new zealand's transport system]: Wellington northern corridor --[Aims to]-> Meet the evolving needs of new zealand's transport system 0.892913281917572
+[Meet the evolving needs of new zealand's transport system]: Wellington northern corridor --[Is]-> Key transport route 0.8695229291915894
+[Meet the evolving needs of new zealand's transport system]: Wellington northern corridor --[Begins]-> Wellington urban area 0.8677528500556946
+[Meet the evolving needs of new zealand's transport system]: Wellington northern corridor --[Accommodates]-> Sustainable transport options 0.8677428960800171
+[Meet the evolving needs of new zealand's transport system]: Wellington northern corridor --[Aims to improve]-> Transport link between wellington and northern regions of north island 0.8676568865776062
+[Meet the evolving needs of new zealand's transport system]: Wellington northern corridor --[Connects]-> Wellington 0.8663425445556641
+[Meet the evolving needs of new zealand's transport system]: Wellington northern corridor --[Enhances]-> Connectivity for commuters 0.8616744875907898
+[Promoting public transport initiatives]: New zealand transport agency --[Implemented]-> Initiatives 0.8525348901748657
+[Promoting public transport initiatives]: New zealand transport agency --[Is]-> Developing integrated transport solutions 0.8503149747848511
+[Promoting public transport initiatives]: New zealand transport agency --[Is responsible for]-> Promoting public transport initiatives 0.8495414853096008
+[Promoting public transport initiatives]: New zealand transport agency --[Plays]-> A crucial role in funding and promoting cycling infrastructure projects 0.8424080610275269
+[Promoting public transport initiatives]: New zealand transport agency --[Established in]-> 2008 0.8390930891036987
+[Promoting public transport initiatives]: New zealand transport agency --[Initiated]-> Programs aimed at improving transport access 0.8381202816963196
+[Promoting public transport initiatives]: New zealand transport agency --[Develops]-> Road design guidelines 0.8378440737724304

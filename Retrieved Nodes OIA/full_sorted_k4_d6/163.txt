@@ -1,0 +1,34 @@
+What is the total value of construction contracts currently held by Let's Get Wellington Moving?
+None
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: information on LGWM construction contracts
+Seed: clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement
+Seed: Let's Get Wellington Moving
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: LGWM construction contracts --[ASSOCIATED_WITH]-> Wellington City Council 0.8751720786094666
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Let's Get Wellington Moving --[COLLABORATES_WITH]-> New Zealand Transport Agency 0.8703458905220032
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Golden Mile revitalisation project --[IS_PART_OF]-> Let's Get Wellington Moving 0.8681716918945312
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: technical feasibility and cost --[FOR]-> proposed long tunnel option for Wellington 0.8666214942932129
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Let's Get Wellington Moving --[HAS_COMPONENT]-> Strategic Highway Improvements 0.866247296333313
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[BASED]-> Wellington 0.8600246906280518
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Waka Kotahi --[FOLLOWS]-> clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement 0.8583539724349976
+[information on LGWM construction contracts]: LGWM construction contracts --[ASSOCIATED_WITH]-> Wellington City Council 0.8751720786094666
+[information on LGWM construction contracts]: Let's Get Wellington Moving --[COLLABORATES_WITH]-> New Zealand Transport Agency 0.8703458905220032
+[information on LGWM construction contracts]: Golden Mile revitalisation project --[IS_PART_OF]-> Let's Get Wellington Moving 0.8681716918945312
+[information on LGWM construction contracts]: technical feasibility and cost --[FOR]-> proposed long tunnel option for Wellington 0.8666214942932129
+[information on LGWM construction contracts]: Let's Get Wellington Moving --[HAS_COMPONENT]-> Strategic Highway Improvements 0.866247296333313
+[information on LGWM construction contracts]: New Zealand Transport Agency --[BASED]-> Wellington 0.8600246906280518
+[information on LGWM construction contracts]: Waka Kotahi --[FOLLOWS]-> clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement 0.8583539724349976
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: LGWM construction contracts --[ASSOCIATED_WITH]-> Wellington City Council 0.8751720786094666
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Let's Get Wellington Moving --[COLLABORATES_WITH]-> New Zealand Transport Agency 0.8703458905220032
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Golden Mile revitalisation project --[IS_PART_OF]-> Let's Get Wellington Moving 0.8681716918945312
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: technical feasibility and cost --[FOR]-> proposed long tunnel option for Wellington 0.8666214942932129
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Let's Get Wellington Moving --[HAS_COMPONENT]-> Strategic Highway Improvements 0.866247296333313
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: New Zealand Transport Agency --[BASED]-> Wellington 0.8600246906280518
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi --[FOLLOWS]-> clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement 0.8583539724349976
+[Let's Get Wellington Moving]: LGWM construction contracts --[ASSOCIATED_WITH]-> Wellington City Council 0.8751720786094666
+[Let's Get Wellington Moving]: Let's Get Wellington Moving --[COLLABORATES_WITH]-> New Zealand Transport Agency 0.8703458905220032
+[Let's Get Wellington Moving]: Golden Mile revitalisation project --[IS_PART_OF]-> Let's Get Wellington Moving 0.8681716918945312
+[Let's Get Wellington Moving]: technical feasibility and cost --[FOR]-> proposed long tunnel option for Wellington 0.8666214942932129
+[Let's Get Wellington Moving]: Let's Get Wellington Moving --[HAS_COMPONENT]-> Strategic Highway Improvements 0.866247296333313
+[Let's Get Wellington Moving]: New Zealand Transport Agency --[BASED]-> Wellington 0.8600246906280518
+[Let's Get Wellington Moving]: Waka Kotahi --[FOLLOWS]-> clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement 0.8583539724349976

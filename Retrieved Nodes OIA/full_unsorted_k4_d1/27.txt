@@ -1,0 +1,36 @@
+What information does Waka Kotahi NZTA provide regarding the amount of money spent on litter collection?
+None
+Seed: information regarding actual costs of litter collection
+Seed: information regarding amount of litter collected and disposed
+Seed: information to Waka Kotahi
+Seed: Waka Kotahi
+[information regarding actual costs of litter collection]: Waka Kotahi NZ Transport Agency --[DOES_NOT_HOLD]-> information regarding actual costs of litter collection 0.9002106785774231
+[information regarding amount of litter collected and disposed]: Waka Kotahi NZ Transport Agency --[DOES_NOT_HOLD]-> information regarding amount of litter collected and disposed 0.8816825747489929
+[information to Waka Kotahi]: New Zealand Transport Agency --[PROVIDES]-> information to Waka Kotahi 0.8655425310134888
+[Waka Kotahi]: Response --[CONTAINS]-> Waka Kotahi 0.8309487104415894
+[Waka Kotahi]: response --[CONTAINS]-> Waka Kotahi 0.8293020129203796
+[Waka Kotahi]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.8327273726463318
+[Waka Kotahi]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.8304433822631836
+[Waka Kotahi]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7833273410797119
+[Waka Kotahi]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7974113821983337
+[Waka Kotahi]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.779625415802002
+[Waka Kotahi]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7625969648361206
+[Waka Kotahi]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.8277831673622131
+[Waka Kotahi]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.852210521697998
+[Waka Kotahi]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8603096604347229
+[Waka Kotahi]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.8242741823196411
+[Waka Kotahi]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.8478990793228149
+[Waka Kotahi]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.8115435838699341
+[Waka Kotahi]: Leisa Coley --[EMPLOYED_BY]-> Waka Kotahi 0.8232762813568115
+[Waka Kotahi]: Lizette Marais --[EMPLOYED_BY]-> Waka Kotahi 0.8030616641044617
+[Waka Kotahi]: Waka Kotahi --[EMPLOYS]-> Andy Knackstedt 0.8088674545288086
+[Waka Kotahi]: Waka Kotahi --[EMPLOYS]-> Qualified Staff 0.8122400045394897
+[Waka Kotahi]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.850367546081543
+[Waka Kotahi]: website --[RELATES_TO]-> Waka Kotahi 0.8295738697052002
+[Waka Kotahi]: Waka Kotahi --[RESPONDS_TO]-> OIA request 0.808567225933075
+[Waka Kotahi]: Waka Kotahi --[RESPONDS_TO]-> request 0.8037700653076172
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> OIA-10601-response-georgina-campbell.pdf 0.8278201818466187
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> outcome of suspension 0.8163981437683105
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> outcome of surrendered 0.8031034469604492
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> information on website 0.8410748839378357
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> outcome of revoke 0.8116607666015625

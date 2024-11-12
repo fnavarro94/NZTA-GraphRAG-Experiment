@@ -1,0 +1,36 @@
+What is the official designation of the scenic route in New Zealand that is known for attracting both domestic and international tourists?
+None
+Seed: Scenic routes such as the tranzalpine and the northern explorer
+Seed: Domestic and international tourists
+Seed: Renowned scenic roadway
+Seed: Scenic routes
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Include]-> Scenic routes such as the tranzalpine and the northern explorer 0.8044208884239197
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Showcase]-> New zealand's stunning landscapes 0.8293941617012024
+[Domestic and international tourists]: Road transport --[Attracts]-> Domestic and international tourists 0.8422207832336426
+[Domestic and international tourists]: Road transport --[Uses]-> Gps for navigation and route optimization 0.7651116847991943
+[Domestic and international tourists]: Health and safety at work act 2015 --[Applies to]-> Road transport 0.7375304102897644
+[Domestic and international tourists]: Health and safety at work act 2015 --[Emphasizes]-> Importance of proactive risk management 0.7025836706161499
+[Domestic and international tourists]: Health and safety at work act 2015 --[Introduced]-> Robust approach to workplace safety 0.693871259689331
+[Domestic and international tourists]: Health and safety at work act 2015 --[Emphasizes]-> Importance of risk management 0.69730544090271
+[Domestic and international tourists]: Health and safety at work act 2015 --[Applies to]-> Maritime 0.7012849450111389
+[Domestic and international tourists]: Health and safety at work act 2015 --[Emphasizes]-> Worker participation 0.684969425201416
+[Domestic and international tourists]: Health and safety at work act 2015 --[Is]-> Key piece of legislation 0.700081467628479
+[Domestic and international tourists]: Health and safety at work act 2015 --[Applies to]-> Aviation 0.706238865852356
+[Domestic and international tourists]: Health and safety at work act 2015 --[Replaced]-> Health and safety in employment act 1992 0.6827762722969055
+[Domestic and international tourists]: Health and safety at work act 2015 --[Applies to]-> Rail 0.7219686508178711
+[Domestic and international tourists]: Health and safety at work act 2015 --[Introduced]-> Robust approach to workplace health and safety 0.6952321529388428
+[Domestic and international tourists]: Rail transport safety --[Governed by]-> Health and safety at work act 2015 0.7280791997909546
+[Domestic and international tourists]: Kiwirail group --[Committed to]-> Road transport 0.7883493900299072
+[Domestic and international tourists]: Kiwirail group --[Is]-> State-owned enterprise 0.7786465883255005
+[Domestic and international tourists]: Kiwirail group --[Provides]-> Essential services 0.7666376829147339
+[Domestic and international tourists]: Kiwirail group --[Provides]-> Efficient transport 0.7845579981803894
+[Domestic and international tourists]: Kiwirail group --[Provides]-> Sustainable transport 0.7823846936225891
+[Domestic and international tourists]: Kiwirail group --[Addresses]-> Environmental concerns 0.7701859474182129
+[Domestic and international tourists]: Kiwirail group --[Addresses]-> Road congestion 0.7856873869895935
+[Domestic and international tourists]: Kiwirail group --[Responsible for]-> Rail transport 0.7904214262962341
+[Domestic and international tourists]: Kiwirail group --[Responsible for]-> Freight services 0.7669901847839355
+[Domestic and international tourists]: Kiwirail group --[Promotes]-> Integrated transport solutions 0.7731850743293762
+[Domestic and international tourists]: Kiwirail group --[Promotes]-> Economic growth 0.7688801288604736
+[Domestic and international tourists]: Kiwirail group --[Aims to]-> Rail transport 0.7713232636451721
+[Domestic and international tourists]: Kiwirail group --[Aims to]-> Increase modal share 0.754170298576355
+[Domestic and international tourists]: Kiwirail group --[Connects]-> Ports 0.7723475694656372

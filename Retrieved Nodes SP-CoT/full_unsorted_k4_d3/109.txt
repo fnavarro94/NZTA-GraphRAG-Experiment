@@ -1,0 +1,21 @@
+What is the destination of the scenic train operated by the organization that operates the rail network in New Zealand, primarily serving freight and providing passenger services in metropolitan areas, known for its breathtaking views of New Zealand's landscapes, departing from the urban area in New Zealand that has experienced significant investment in public transport infrastructure alongside Auckland and Wellington?
+None
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+Seed: Both passenger and freight transport across the cook strait
+Seed: New zealand's transport network
+Seed: New zealand's stunning landscapes
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Plays]-> Significant role in shaping transport infrastructure and policy in new zealand 0.8417080640792847
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Conducts]-> Extensive research and development projects 0.7441821694374084
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Collaborates with]-> New zealand transport agency (nzta 0.804751992225647
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Aims to]-> Enhance resilience and adaptability of new zealand's transport network 0.8262017369270325
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Is]-> Collective of australian and new zealand road transport and traffic agencies 0.8021344542503357
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Founded in]-> 1990 0.7240598201751709
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Engages in]-> International collaborations to align initiatives with global best practices 0.7276057004928589
+[Both passenger and freight transport across the cook strait]: Port of wellington --[Facilitates]-> Both passenger and freight transport across the cook strait 0.8339502811431885
+[Both passenger and freight transport across the cook strait]: Port of wellington --[Is]-> One of the busiest ports in new zealand 0.8157321214675903
+[Both passenger and freight transport across the cook strait]: Port of wellington --[Connects]-> Wellington to the south island 0.8132359981536865
+[Both passenger and freight transport across the cook strait]: Port of wellington --[Handles]-> Variety of cargo 0.810056209564209
+[Both passenger and freight transport across the cook strait]: Port of wellington --[Serves as]-> Departure point for ferries 0.8157471418380737
+[New zealand's transport network]: Road infrastructure projects --[Play crucial role in]-> New zealand's transport network 0.8444597721099854
+[New zealand's stunning landscapes]: Passenger rail services --[Showcase]-> New zealand's stunning landscapes 0.8840147256851196
+[New zealand's stunning landscapes]: Passenger rail services --[Include]-> Scenic routes such as the tranzalpine and the northern explorer 0.8200933933258057

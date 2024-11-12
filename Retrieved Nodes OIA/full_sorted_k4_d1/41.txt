@@ -1,0 +1,15 @@
+How many staff does NZTA currently hire to oversee Fuel Excise Duty Refunds, and what are their roles?
+None
+Seed: fuel excise refunds
+Seed: information on fuel excise duty
+Seed: transportation services
+Seed: Qualified Staff
+[fuel excise refunds]: fuel excise refunds --[RELATED_TO]-> transportation 0.8510607481002808
+[fuel excise refunds]: transportation services --[SUPPORTED_BY]-> fuel excise refunds 0.8477108478546143
+[fuel excise refunds]: OIA-1153-fuel-excise-refunds.pdf --[ASSOCIATED_WITH]-> fuel excise refunds 0.8268705606460571
+[information on fuel excise duty]: New Zealand Transport Agency --[PROVIDES]-> information on fuel excise duty 0.8857650756835938
+[transportation services]: transportation services --[SUPPORTED_BY]-> fuel excise refunds 0.8477108478546143
+[transportation services]: New Zealand Transport Agency --[PROVIDES]-> transportation services 0.8252577781677246
+[transportation services]: transportation services --[OFFERED_BY]-> New Zealand Transport Agency 0.8180885314941406
+[transportation services]: transportation services --[REGULATED_BY]-> transportation laws 0.7727000713348389
+[Qualified Staff]: Waka Kotahi --[EMPLOYS]-> Qualified Staff 0.8044732809066772

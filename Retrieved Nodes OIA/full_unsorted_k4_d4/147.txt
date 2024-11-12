@@ -1,0 +1,36 @@
+Does Waka Kotahi provide data distinguishing private vehicle movements on Hewletts Road?
+None
+Seed: information on daily private vehicle movements
+Seed: traffic counter sites on Hewletts Road
+Seed: Open Data portal for information about daily traffic volumes on Hewletts Road
+Seed: Waka Kotahi N Z Transport Agency
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[REFUSED_REQUEST]-> information on daily private vehicle movements 0.8857535123825073
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.8629688620567322
+[information on daily private vehicle movements]: New Zealand Transport Agency --[BASED]-> Wellington 0.8159834742546082
+[information on daily private vehicle movements]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8162739872932434
+[information on daily private vehicle movements]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8431264162063599
+[information on daily private vehicle movements]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8378713130950928
+[information on daily private vehicle movements]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.8156529068946838
+[information on daily private vehicle movements]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.8132662773132324
+[information on daily private vehicle movements]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.8236291408538818
+[information on daily private vehicle movements]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.8219818472862244
+[information on daily private vehicle movements]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.8171242475509644
+[information on daily private vehicle movements]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8392658233642578
+[information on daily private vehicle movements]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8059515357017517
+[information on daily private vehicle movements]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8144614100456238
+[information on daily private vehicle movements]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8235518336296082
+[information on daily private vehicle movements]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8332611918449402
+[information on daily private vehicle movements]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8179662227630615
+[information on daily private vehicle movements]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8102099299430847
+[information on daily private vehicle movements]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8148244619369507
+[information on daily private vehicle movements]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8172062039375305
+[information on daily private vehicle movements]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8057169318199158
+[information on daily private vehicle movements]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8249490261077881
+[information on daily private vehicle movements]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7997303009033203
+[information on daily private vehicle movements]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8174689412117004
+[information on daily private vehicle movements]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.811942458152771
+[information on daily private vehicle movements]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8154034614562988
+[information on daily private vehicle movements]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8013007640838623
+[information on daily private vehicle movements]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8193286657333374
+[information on daily private vehicle movements]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8132274150848389
+[information on daily private vehicle movements]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.809744119644165

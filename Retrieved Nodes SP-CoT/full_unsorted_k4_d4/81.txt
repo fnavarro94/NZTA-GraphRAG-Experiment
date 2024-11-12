@@ -1,0 +1,36 @@
+What nickname is commonly associated with the cities that are implementing extensive cycling networks and pedestrian-friendly infrastructure to address traffic congestion, in the country where individuals must be at least 16 years old to apply for a learner's permit, which is the first stage of the driver licensing process that can be obtained at the age of 16, highlighting Auckland's maritime culture?
+None
+Seed: Driver licensing and vehicle registration
+Seed: Licensing of drivers and vehicles
+Seed: Legal framework for licensing of drivers
+Seed: Age of 16
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Provisions on]-> Driver licensing and vehicle registration 0.8103563189506531
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Aiming to]-> Reduce road traffic accidents and fatalities 0.7898603081703186
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Reflected in]-> Land transport act 1998 0.8023087978363037
+[Driver licensing and vehicle registration]: Road transport safety --[Governed by]-> Land transport act 1998 0.7907605767250061
+[Driver licensing and vehicle registration]: Road transport safety --[Focus on]-> Safer roads 0.7877206802368164
+[Driver licensing and vehicle registration]: Road transport safety --[Focus on]-> Safer road users 0.7852270603179932
+[Driver licensing and vehicle registration]: Road transport safety --[Focus on]-> Safer vehicles 0.7789783477783203
+[Driver licensing and vehicle registration]: Land transport act 1998 --[Establishes]-> Legal framework for enforcement of road rules 0.7826801538467407
+[Driver licensing and vehicle registration]: Land transport act 1998 --[Establishes]-> Legal framework for registration of vehicles 0.7950716614723206
+[Driver licensing and vehicle registration]: Road safety legislation --[Governed by]-> Land transport act 1998 0.7817813754081726
+[Driver licensing and vehicle registration]: Road safety legislation --[Is]-> New zealand 0.8177286982536316
+[Driver licensing and vehicle registration]: Land transport act 1998 --[Establishes]-> Legal framework for licensing of drivers 0.8143637180328369
+[Driver licensing and vehicle registration]: Land transport act 1998 --[Complemented by]-> Land transport (road user 0.8012259602546692
+[Driver licensing and vehicle registration]: Vehicle maintenance standards --[Are set forth in]-> Land transport act 1998 0.7539212107658386
+[Driver licensing and vehicle registration]: Vehicle maintenance standards --[Include]-> Warrant of fitness system 0.7484638690948486
+[Driver licensing and vehicle registration]: Vehicle maintenance standards --[Are critical to]-> Ensuring the safety 0.7450871467590332
+[Driver licensing and vehicle registration]: Vehicle maintenance standards --[Apply to]-> Private cars 0.7620841264724731
+[Driver licensing and vehicle registration]: Vehicle maintenance standards --[Encourage]-> Use of cleaner technologies 0.7350099086761475
+[Driver licensing and vehicle registration]: Vehicle maintenance standards --[Aim to]-> Reduce environmental impact 0.7351572513580322
+[Driver licensing and vehicle registration]: Vehicle maintenance standards --[Aim to]-> Identify and rectify potential safety issues 0.7449659705162048
+[Driver licensing and vehicle registration]: Vehicle maintenance standards --[Are overseen by]-> New zealand transport agency 0.7930063605308533
+[Driver licensing and vehicle registration]: Vehicle maintenance standards --[Apply to]-> Public transport systems 0.7760687470436096
+[Driver licensing and vehicle registration]: Vehicle maintenance standards --[Are essential for]-> Minimizing environmental impacts 0.7325357794761658
+[Driver licensing and vehicle registration]: Vehicle maintenance standards --[Are promoted by]-> Ministry of transport 0.7578964233398438
+[Driver licensing and vehicle registration]: Vehicle maintenance standards --[Include]-> Heavy vehicle maintenance code 0.754406213760376
+[Driver licensing and vehicle registration]: Vehicle maintenance standards --[Are promoted by]-> New zealand transport agency 0.7873939871788025
+[Driver licensing and vehicle registration]: Vehicle maintenance standards --[Encourage]-> Adoption of sustainable practices 0.7559757232666016
+[Driver licensing and vehicle registration]: Vehicle maintenance standards --[Aim to]-> Enhance operational efficiency 0.7429623603820801
+[Driver licensing and vehicle registration]: Vehicle maintenance standards --[Include]-> Certificate of fitness system 0.7577564120292664
+[Driver licensing and vehicle registration]: Vehicle maintenance standards --[Are governed by]-> Legislation 0.7718077898025513

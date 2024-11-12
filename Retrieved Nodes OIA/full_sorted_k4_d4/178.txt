@@ -1,0 +1,27 @@
+How were rental companies involved in the Visiting Drivers Signature Project?
+None
+Seed: rental companies might be prepared to pay for this
+Seed: Visiting Drivers Signature Project Working Group
+Seed: summary of the visiting drivers survey
+Seed: information on visiting drivers survey
+[rental companies might be prepared to pay for this]: Kate Meldrum --[INDICATED]-> rental companies might be prepared to pay for this 0.8086701035499573
+[rental companies might be prepared to pay for this]: Kate Meldrum --[DEVELOP]-> proposal for funding the steering wheel tags 0.7870950102806091
+[rental companies might be prepared to pay for this]: Steve Hanrahan --[DEVELOP]-> proposal for funding the steering wheel tags 0.7696219086647034
+[rental companies might be prepared to pay for this]: Steve Hanrahan --[REPORT]-> back to the group on his discussions with the Responsible Camping Forum and the interisland ferries 0.7661447525024414
+[rental companies might be prepared to pay for this]: Steve Hanrahan --[RAISE]-> possibility of including road safety messaging 0.7482100129127502
+[rental companies might be prepared to pay for this]: Steve Hanrahan --[AGREED]-> this fits in with the rollout of the TIA guidelines across the country 0.7145286798477173
+[Visiting Drivers Signature Project Working Group]: Visiting Drivers Signature Project Working Group --[MEETS]-> 20 October 2014 0.8574808835983276
+[summary of the visiting drivers survey]: summary of the visiting drivers survey --[AVAILABLE]-> www.saferjourneys.govt.nz/action-plans/signature-programme/ 0.8582960367202759
+[summary of the visiting drivers survey]: The Property Group --[ENGAGED_BY]-> New Zealand Transport Agency 0.8273175954818726
+[summary of the visiting drivers survey]: New Zealand Transport Agency --[POLICY]-> Investigating transport companies 0.8218868970870972
+[summary of the visiting drivers survey]: New Zealand Transport Agency --[PROVIDES]-> information on visiting drivers survey 0.8188506364822388
+[summary of the visiting drivers survey]: questions and responses --[FROM]-> NZ Transport Agency 0.8153583407402039
+[summary of the visiting drivers survey]: Transport Agency --[GRANT]-> I endorsements 0.8151645660400391
+[summary of the visiting drivers survey]: Transport Agency --[ASSESS]-> applications for I endorsements 0.8139680624008179
+[information on visiting drivers survey]: Connected Journeys --[DEVELOPS]-> Vehicle permits 0.8468319177627563
+[information on visiting drivers survey]: Vehicle permits --[DEVELOPED_BY]-> Connected Journeys 0.8434799909591675
+[information on visiting drivers survey]: David Williams --[REQUESTS]-> information on visiting drivers survey 0.8311476111412048
+[information on visiting drivers survey]: The Property Group --[ENGAGED_BY]-> New Zealand Transport Agency 0.8273175954818726
+[information on visiting drivers survey]: New Zealand Transport Agency --[POLICY]-> Investigating transport companies 0.8218868970870972
+[information on visiting drivers survey]: Transport Services --[RELATES_TO]-> Occupancy Protection 0.8200109004974365
+[information on visiting drivers survey]: New Zealand Transport Agency --[PROVIDES]-> information on visiting drivers survey 0.8188506364822388

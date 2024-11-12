@@ -1,0 +1,36 @@
+What are the paid administration fees for unpaid tolls from 2017 to 2019?
+None
+Seed: unpaid tolls
+Seed: administration fee
+Seed: paid toll revenues
+Seed: toll tariffs
+[unpaid tolls]: unpaid tolls --[ASSOCIATED_WITH]-> toll roads 0.8675546050071716
+[unpaid tolls]: toll roads --[INCLUDE]-> administration fee 0.8912104964256287
+[unpaid tolls]: administration fee --[APPLIED_TO]-> toll payment notice 0.8823209404945374
+[unpaid tolls]: toll roads --[COLLECTS]-> toll tariffs 0.846647322177887
+[unpaid tolls]: toll tariffs --[USED_FOR]-> road maintenance 0.8501385450363159
+[unpaid tolls]: toll tariffs --[SPENT_ON]-> road maintenance 0.8564249873161316
+[unpaid tolls]: road maintenance --[FUNDED_BY]-> toll tariffs 0.8511849045753479
+[unpaid tolls]: New Zealand Transport Agency --[MANAGES]-> toll roads 0.8296980857849121
+[unpaid tolls]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7669855356216431
+[unpaid tolls]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7914606928825378
+[unpaid tolls]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7799208760261536
+[unpaid tolls]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7518686056137085
+[unpaid tolls]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7767124772071838
+[unpaid tolls]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7687036991119385
+[unpaid tolls]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7667038440704346
+[unpaid tolls]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7590843439102173
+[unpaid tolls]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.801372230052948
+[unpaid tolls]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7870872020721436
+[unpaid tolls]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7728193402290344
+[unpaid tolls]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7916892766952515
+[unpaid tolls]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.782320499420166
+[unpaid tolls]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7799321413040161
+[unpaid tolls]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7704790234565735
+[unpaid tolls]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7865391969680786
+[unpaid tolls]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7492223978042603
+[unpaid tolls]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7599495053291321
+[unpaid tolls]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.790921688079834
+[unpaid tolls]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7637321352958679
+[unpaid tolls]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7850347757339478
+[unpaid tolls]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7824997901916504

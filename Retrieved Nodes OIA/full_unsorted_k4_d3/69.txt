@@ -1,0 +1,36 @@
+How many road and street signs were stolen or vandalized in Hamilton over the last three years?
+None
+Seed: road/street signs
+Seed: one crossing near Daniell Street
+Seed: Theft Ex Car (Over $100)
+Seed: one crossing near SH2/Lyon Street/Birdwood Street intersection
+[road/street signs]: road/street signs --[VANDALISED]-> last three years 0.901990532875061
+[road/street signs]: street name signs --[STOLEN]-> last three years 0.8956465125083923
+[road/street signs]: street name signs --[VANDALISED]-> last three years 0.8899542093276978
+[road/street signs]: others --[STOLEN]-> last three years 0.8566558957099915
+[road/street signs]: others --[VANDALISED]-> last three years 0.8568940162658691
+[road/street signs]: road/street signs --[STOLEN]-> last three years 0.918391227722168
+[one crossing near Daniell Street]: Featherston --[RAISED_CROSSINGS]-> one crossing near Daniell Street 0.7939562201499939
+[one crossing near Daniell Street]: Featherston --[RAISED_CROSSINGS]-> staged way over time 0.7594492435455322
+[one crossing near Daniell Street]: Featherston --[RANKING]-> not in the top 200 high risk intersections 0.7659838199615479
+[one crossing near Daniell Street]: Featherston --[RAISED_CROSSINGS]-> five 0.759194016456604
+[one crossing near Daniell Street]: Featherston --[RAISED_CROSSINGS]-> one crossing near SH2/Lyon Street/Birdwood Street intersection 0.7846695780754089
+[one crossing near Daniell Street]: Featherston --[PART_OF]-> New Zealand 0.7619412541389465
+[one crossing near Daniell Street]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7647326588630676
+[one crossing near Daniell Street]: New Zealand Media and Entertainment --[LOCATED_IN]-> New Zealand 0.7568767666816711
+[one crossing near Daniell Street]: State Highway 1 --[LOCATED_IN]-> New Zealand 0.7663276195526123
+[one crossing near Daniell Street]: Ombudsman --[LOCATED_IN]-> New Zealand 0.7600729465484619
+[one crossing near Daniell Street]: Queenstown Lakes --[LOCATED_IN]-> New Zealand 0.7450215816497803
+[one crossing near Daniell Street]: Central Otago --[LOCATED_IN]-> New Zealand 0.7404663562774658
+[one crossing near Daniell Street]: Wellington 6141 --[CONTAINS]-> New Zealand 0.7677932977676392
+[one crossing near Daniell Street]: Auckland --[CONTAINS]-> New Zealand 0.7799850106239319
+[one crossing near Daniell Street]: New Zealand --[CONTAINS]-> Wellington 0.7801827788352966
+[one crossing near Daniell Street]: New Zealand --[CONTAINS]-> nzta.govt.nz 0.755338191986084
+[one crossing near Daniell Street]: New Zealand --[CONTAINS]-> Auckland 0.7780389785766602
+[one crossing near Daniell Street]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7762038707733154
+[one crossing near Daniell Street]: New Zealand --[CONTAINS]-> nzta_dev 0.74704509973526
+[one crossing near Daniell Street]: Auckland --[ASSOCIATED_WITH]-> New Zealand 0.7615271806716919
+[one crossing near Daniell Street]: New Zealand --[ASSOCIATED_WITH]-> transport 0.7727300524711609
+[one crossing near Daniell Street]: New Zealand --[ASSOCIATED_WITH]-> NZTRANSPORT AGENCY 0.7545435428619385
+[one crossing near Daniell Street]: New Zealand --[ASSOCIATED_WITH]-> oia-4543-Phil-Pennington.pdf 0.7385296821594238
+[one crossing near Daniell Street]: Wellington --[PART_OF]-> New Zealand 0.7771818041801453

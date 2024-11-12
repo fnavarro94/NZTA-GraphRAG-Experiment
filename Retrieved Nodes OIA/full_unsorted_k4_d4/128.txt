@@ -1,0 +1,36 @@
+Who should be contacted to discuss the Kaipara Coast Highway (SH16) near Omeru Reserve remedial work?
+None
+Seed: contact details for the Ombudsman
+Seed: 2023-24 State Highway Investment Proposal
+Seed: Transport stakeholders meeting
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+[contact details for the Ombudsman]: Transport Agency --[PROVIDES]-> contact details for the Ombudsman 0.816931962966919
+[contact details for the Ombudsman]: www.ombudsman.parliament.nz --[PROVIDES]-> Transport Agency 0.8116551041603088
+[contact details for the Ombudsman]: www.ombudsman.parliament.nz --[LINKS_TO]-> Ombudsman 0.8096777200698853
+[contact details for the Ombudsman]: right to ask the Ombudsman to review --[IS_GRANTED_BY]-> Ombudsman 0.7659587860107422
+[contact details for the Ombudsman]: Ombudsman --[REVIEW_REQUEST]-> decision 0.7571511268615723
+[contact details for the Ombudsman]: Ombudsman --[REVIEW]-> decision to withhold information 0.761708676815033
+[contact details for the Ombudsman]: Ombudsman --[PROVIDES]-> New Zealand Transport Agency 0.7960178256034851
+[contact details for the Ombudsman]: New Zealand Transport Agency --[PROVIDES]-> Ombudsman 0.8013470768928528
+[contact details for the Ombudsman]: Ombudsman --[REVIEW]-> withheld information 0.7535337805747986
+[contact details for the Ombudsman]: Ombudsman --[PROVIDES]-> review of decision 0.7729082107543945
+[contact details for the Ombudsman]: Ombudsman --[PROVIDES]-> withheld information 0.7576897740364075
+[contact details for the Ombudsman]: Ombudsman --[LOCATED_AT]-> www.ombudsman.parliament.nz 0.8056015372276306
+[contact details for the Ombudsman]: Ombudsman --[PARLIAMENT]-> parliament.nz 0.7949818968772888
+[contact details for the Ombudsman]: contact details --[FOR]-> Ombudsman 0.8131464719772339
+[contact details for the Ombudsman]: decision --[REVIEW]-> Ombudsman 0.7733336687088013
+[contact details for the Ombudsman]: Ombudsman --[IS]-> www.ombudsman.parliament.nz 0.8026405572891235
+[contact details for the Ombudsman]: Ombudsman --[REVIEW]-> Waka Kotahi 0.7845151424407959
+[contact details for the Ombudsman]: review by the Ombudsman --[CONDUCTED_BY]-> Ombudsman 0.7765865325927734
+[contact details for the Ombudsman]: Ombudsman --[LOCATED_IN]-> New Zealand 0.806125819683075
+[contact details for the Ombudsman]: Ombudsman --[PROVIDES]-> review 0.7670344710350037
+[contact details for the Ombudsman]: review --[CONDUCTED_BY]-> Ombudsman 0.7719855308532715
+[contact details for the Ombudsman]: Kevin Reid --[APPEAL]-> Ombudsman 0.7800310254096985
+[contact details for the Ombudsman]: Kevin Reid --[ASSIST]-> Ombudsman 0.778872013092041
+[contact details for the Ombudsman]: Ombudsman --[REVIEW]-> decision to refuse request 0.7542164325714111
+[contact details for the Ombudsman]: Ombudsman --[LOCATED]-> www.ombudsman.parliament.nz 0.8131224513053894
+[contact details for the Ombudsman]: www.ombudsman.parliament.nz --[PROVIDES]-> Ombudsman 0.805151104927063
+[contact details for the Ombudsman]: Ombudsman --[REVIEW]-> Decision 0.7600339651107788
+[contact details for the Ombudsman]: Ombudsman --[PROVIDES]-> contact details 0.7906677722930908
+[contact details for the Ombudsman]: www.ombudsman.parliament.nz --[ASSOCIATED]-> Ombudsman 0.8038209676742554
+[contact details for the Ombudsman]: Ombudsman --[REVIEW]-> decision 0.7600339651107788

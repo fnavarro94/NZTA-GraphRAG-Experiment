@@ -1,0 +1,36 @@
+Which notable transport project in New Zealand, alongside the City Rail Link located to the north of the city known for its Metlink services, which focus on providing comprehensive coverage across the region, has undergone the process with the acronym used in New Zealand to assess the environmental impacts of transport projects?
+None
+Seed: Transport link between wellington and northern regions of north island
+Seed: Regional transport initiatives
+Seed: New zealand's transport network
+Seed: Addressing transport challenges in auckland
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Aims to improve]-> Transport link between wellington and northern regions of north island 0.8353258371353149
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Links with]-> State highway 1 0.7938615679740906
+[Transport link between wellington and northern regions of north island]: State highway 1 --[Links]-> Major urban centers 0.7695187926292419
+[Transport link between wellington and northern regions of north island]: State highway 1 --[Runs]-> Length of north island 0.7744668126106262
+[Transport link between wellington and northern regions of north island]: Hamilton --[Served by]-> State highway 1 0.7416479587554932
+[Transport link between wellington and northern regions of north island]: Hamilton --[Offers]-> International services 0.7589584589004517
+[Transport link between wellington and northern regions of north island]: Hamilton --[Focus of]-> Local authorities 0.7842769622802734
+[Transport link between wellington and northern regions of north island]: Road safety authority --[Works closely with]-> Local authorities 0.7578327655792236
+[Transport link between wellington and northern regions of north island]: New zealand --[Has]-> Local authorities 0.8070737719535828
+[Transport link between wellington and northern regions of north island]: New zealand transport agency --[Collaborates with]-> Local authorities 0.8419703841209412
+[Transport link between wellington and northern regions of north island]: Hamilton --[Focus of]-> Development of cycleways 0.7889779210090637
+[Transport link between wellington and northern regions of north island]: Hamilton --[Located]-> 13 kilometers from city center 0.7548453211784363
+[Transport link between wellington and northern regions of north island]: Hamilton --[Focus of]-> Transport planning 0.8087905645370483
+[Transport link between wellington and northern regions of north island]: Vissim --[Widely utilized in]-> Transport planning 0.7639279365539551
+[Transport link between wellington and northern regions of north island]: Sustainable urban transport --[Key component]-> Transport planning 0.7993564605712891
+[Transport link between wellington and northern regions of north island]: New zealand --[Has]-> Transport planning 0.8492113351821899
+[Transport link between wellington and northern regions of north island]: Hamilton --[Offers]-> Domestic flights 0.7296184301376343
+[Transport link between wellington and northern regions of north island]: Christchurch international airport --[Offers]-> Domestic flights 0.7596471309661865
+[Transport link between wellington and northern regions of north island]: Hamilton --[Managed by]-> Hamilton city council 0.738203763961792
+[Transport link between wellington and northern regions of north island]: Hamilton --[Situated]-> 40 kilometers north of tauranga 0.774596095085144
+[Transport link between wellington and northern regions of north island]: Hamilton --[Has]-> Hamilton bus network 0.7761027812957764
+[Transport link between wellington and northern regions of north island]: Hamilton --[Served by]-> State highway 3 0.7486851215362549
+[Transport link between wellington and northern regions of north island]: Hamilton --[Focus of]-> Ongoing investments 0.7608527541160583
+[Transport link between wellington and northern regions of north island]: Hamilton --[Focus of]-> Strategic planning 0.7664701342582703
+[Transport link between wellington and northern regions of north island]: Hamilton --[Is]-> Transport hub 0.8020954728126526
+[Transport link between wellington and northern regions of north island]: Christchurch --[Is]-> Transport hub 0.8301995992660522
+[Transport link between wellington and northern regions of north island]: Hamilton --[Is]-> Vital link 0.7750477194786072
+[Transport link between wellington and northern regions of north island]: North island main trunk railway --[Holds]-> Vital link 0.8247551918029785
+[Transport link between wellington and northern regions of north island]: Hamilton --[Situated]-> 130 kilometers south of auckland 0.7759204506874084
+[Transport link between wellington and northern regions of north island]: Hamilton --[Located in]-> Waikato region 0.7841097116470337

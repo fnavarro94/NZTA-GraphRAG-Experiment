@@ -1,0 +1,34 @@
+Which island does the city in New Zealand known for its Metlink services, which focus on providing comprehensive coverage across the region, the capital city of New Zealand, belong to?
+None
+Seed: Largest city in south island
+Seed: Largest city in new zealand
+Seed: Transport link between wellington and northern regions of north island
+Seed: Connecting new zealand's remote regions with major urban centers
+[Largest city in south island]: Christchurch --[Is]-> Largest city in south island 0.8325684070587158
+[Largest city in south island]: Auckland --[Has]-> Comprehensive public transport networks 0.8161145448684692
+[Largest city in south island]: Christchurch --[Has]-> Comprehensive public transport networks 0.8131680488586426
+[Largest city in south island]: Christchurch --[Linked to]-> Dunedin 0.8105871081352234
+[Largest city in south island]: New zealand --[Has]-> Public transport 0.8093971014022827
+[Largest city in south island]: Wellington --[Has]-> Comprehensive public transport networks 0.8090918064117432
+[Largest city in south island]: Christchurch --[Located in]-> South island 0.8076204061508179
+[Largest city in new zealand]: New zealand --[Has]-> Cities 0.8396409749984741
+[Largest city in new zealand]: New zealand --[Characterized by]-> Mix of services 0.837095320224762
+[Largest city in new zealand]: Air new zealand --[Plays crucial role in]-> Connecting new zealand's remote regions with major urban centers 0.8327395915985107
+[Largest city in new zealand]: Auckland --[Is]-> Largest city in new zealand 0.8325598239898682
+[Largest city in new zealand]: Auckland --[Serves]-> New zealand 0.8321657776832581
+[Largest city in new zealand]: New zealand --[Has]-> Urban centers 0.8302180171012878
+[Largest city in new zealand]: New zealand --[Has]-> Numerous islands 0.828586995601654
+[Transport link between wellington and northern regions of north island]: Wellington --[Has]-> Metlink 0.8530012369155884
+[Transport link between wellington and northern regions of north island]: Wellington --[Has]-> Metlink brand 0.8522277474403381
+[Transport link between wellington and northern regions of north island]: Wellington --[Is]-> Capital city of new zealand 0.8464573621749878
+[Transport link between wellington and northern regions of north island]: Wellington --[Metlink brand]-> Serves as the umbrella for its operations 0.8272332549095154
+[Transport link between wellington and northern regions of north island]: Wellington --[Connected to]-> Other major urban centers 0.8139540553092957
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Connects]-> Northern regions of the north island 0.812394917011261
+[Transport link between wellington and northern regions of north island]: Wellington --[Has]-> Bus network covering city and surrounding suburbs 0.810408890247345
+[Connecting new zealand's remote regions with major urban centers]: Air new zealand --[Plays crucial role in]-> Connecting new zealand's remote regions with major urban centers 0.8327395915985107
+[Connecting new zealand's remote regions with major urban centers]: Auckland --[Is]-> Largest city in new zealand 0.8325598239898682
+[Connecting new zealand's remote regions with major urban centers]: Auckland --[Serves]-> New zealand 0.8321657776832581
+[Connecting new zealand's remote regions with major urban centers]: Auckland --[Has]-> City rail link 0.8262525200843811
+[Connecting new zealand's remote regions with major urban centers]: Auckland --[Has]-> Bus network with extensive coverage 0.825740396976471
+[Connecting new zealand's remote regions with major urban centers]: Auckland --[Connected to]-> Surrounding suburbs and regions 0.8228137493133545
+[Connecting new zealand's remote regions with major urban centers]: Auckland --[Is]-> Major transport hub 0.8225505352020264

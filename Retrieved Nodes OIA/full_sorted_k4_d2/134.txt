@@ -1,0 +1,31 @@
+How does the proportion of 80km/h zone length compare to the 100km/h zone length on SH16?
+None
+Seed: comparing the number of accidents under the 100km speed limit versus the current 80km speed rate
+Seed: annual accident rate on SH16
+Seed: 100M
+Seed: Discuss this reply with the NZ Transport Agency
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[INTERESTED_IN]-> comparing the number of accidents under the 100km speed limit versus the current 80km speed rate 0.8331906795501709
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[REQUESTS]-> annual accident rate on SH16 0.7988010048866272
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[EMAILS]-> NZ Transport Agency 0.7453160285949707
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[WRITES]-> email dated 30 April 2018 0.7365221977233887
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[REQUESTS]-> information under the Official Information Act 1982 0.7284393310546875
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[WRITES]-> email to the NZ Transport Agency 0.7242133021354675
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[LIVES]-> New Zealand 0.703758955001831
+[annual accident rate on SH16]: Debrin Foxcroft --[INTERESTED_IN]-> comparing the number of accidents under the 100km speed limit versus the current 80km speed rate 0.8331906795501709
+[annual accident rate on SH16]: Debrin Foxcroft --[REQUESTS]-> annual accident rate on SH16 0.7988010048866272
+[annual accident rate on SH16]: Debrin Foxcroft --[EMAILS]-> NZ Transport Agency 0.7453160285949707
+[annual accident rate on SH16]: Debrin Foxcroft --[WRITES]-> email dated 30 April 2018 0.7365221977233887
+[annual accident rate on SH16]: Debrin Foxcroft --[REQUESTS]-> information under the Official Information Act 1982 0.7284393310546875
+[annual accident rate on SH16]: Debrin Foxcroft --[WRITES]-> email to the NZ Transport Agency 0.7242133021354675
+[annual accident rate on SH16]: Debrin Foxcroft --[LIVES]-> New Zealand 0.703758955001831
+[100M]: 100M --[ALLOCATED_FOR]-> State Highway 1 0.8327129483222961
+[100M]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.8087270855903625
+[100M]: Pedestrian Safer speeds --[ASSOCIATED_WITH]-> State Highway 1 0.8025473356246948
+[100M]: New Zealand Transport Agency --[BASED_ON]-> comparable driver to population ratios 0.7997771501541138
+[100M]: New Zealand Transport Agency --[FUNDING]-> 100M 0.7982755899429321
+[100M]: traffic management --[IMPROVES]-> State Highway 1 0.7965686321258545
+[100M]: New Zealand Transport Agency --[PLACES]-> significant value 0.7947522401809692
+[Discuss this reply with the NZ Transport Agency]: New Zealand Transport Agency --[PROVIDES]-> Reply 0.7786784172058105
+[Discuss this reply with the NZ Transport Agency]: Reply --[IS]-> Discuss this reply with the NZ Transport Agency 0.7741459012031555
+[Discuss this reply with the NZ Transport Agency]: Discuss this reply with the NZ Transport Agency --[IS]-> Contact Andrew Knackstedt 0.7726411819458008
+[Discuss this reply with the NZ Transport Agency]: Contact Andrew Knackstedt --[BY]-> Email or Phone 0.7083899974822998

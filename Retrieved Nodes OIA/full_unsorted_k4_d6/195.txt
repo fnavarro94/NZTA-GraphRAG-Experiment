@@ -1,0 +1,36 @@
+How did NZTA handle a conflict of interest involving a staff member who was a rideshare company shareholder?
+None
+Seed: shareholder/director of rideshare company
+Seed: conflicts of interest by senior staff
+Seed: Conflict of interest
+Seed: conflict of interest
+[shareholder/director of rideshare company]: senior staff member --[IS]-> shareholder/director of rideshare company 0.8890764117240906
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[NOTIFIES]-> conflicts of interest by senior staff 0.8883085250854492
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8244614005088806
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[BASED]-> Wellington 0.8188868165016174
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8376899361610413
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.8394678831100464
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8212306499481201
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.8060111999511719
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.8216701745986938
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.8308682441711426
+[conflicts of interest by senior staff]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.8204708099365234
+[conflicts of interest by senior staff]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.8136849403381348
+[conflicts of interest by senior staff]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8521201014518738
+[conflicts of interest by senior staff]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8341062664985657
+[conflicts of interest by senior staff]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8411737084388733
+[conflicts of interest by senior staff]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8414680361747742
+[conflicts of interest by senior staff]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8328511714935303
+[conflicts of interest by senior staff]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8422279953956604
+[conflicts of interest by senior staff]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8533977270126343
+[conflicts of interest by senior staff]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8467745184898376
+[conflicts of interest by senior staff]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8276411294937134
+[conflicts of interest by senior staff]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8267218470573425
+[conflicts of interest by senior staff]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8577407002449036
+[conflicts of interest by senior staff]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8365209102630615
+[conflicts of interest by senior staff]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8489598035812378
+[conflicts of interest by senior staff]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8454627990722656
+[conflicts of interest by senior staff]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8516083359718323
+[conflicts of interest by senior staff]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8322871923446655
+[conflicts of interest by senior staff]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8263390064239502
+[conflicts of interest by senior staff]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8430761694908142

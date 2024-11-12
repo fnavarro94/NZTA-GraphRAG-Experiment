@@ -1,0 +1,36 @@
+Why was the information related to the RFP submissions and preferred supplier selection withheld?
+None
+Seed: Some information has been withheld under section 9(2)(f)(iv)
+Seed: Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)
+Seed: decision to withhold information
+Seed: withheld
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[IS]-> Some information has been withheld under section 9(2)(f)(iv) 0.8323378562927246
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[DATE]-> 24 April 2024 0.7577831745147705
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[IS]-> NTS rollout timeline 0.7705423831939697
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[IS]-> Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv) 0.8329633474349976
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[IS]-> Transport stakeholders meeting 0.793108344078064
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[DATE]-> 17 April 2024 0.7672479152679443
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4449 --[DATE]-> 17 April 2024 0.7684364914894104
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4449 --[IS]-> Average cost of resurfacing and rehabilitation 0.7310360670089722
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4449 --[IS]-> Released in full 0.7779865860939026
+[decision to withhold information]: Ombudsman --[REVIEW]-> decision to withhold information 0.8423203229904175
+[decision to withhold information]: www.ombudsman.parliament.nz --[LINKS_TO]-> Ombudsman 0.7837426066398621
+[decision to withhold information]: website --[LOCATED_AT]-> www.ombudsman.parliament.nz 0.7741128206253052
+[decision to withhold information]: scheduled tasks --[IS_REMOVED]-> website 0.7613756656646729
+[decision to withhold information]: personal information removed --[IS_REMOVED]-> website 0.7836512923240662
+[decision to withhold information]: responses --[PUBLISHED_ON]-> website 0.8037254810333252
+[decision to withhold information]: maintenance specifications --[AVAILABLE]-> website 0.7588805556297302
+[decision to withhold information]: website --[LINKS]-> https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf 0.7716073989868164
+[decision to withhold information]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7909231185913086
+[decision to withhold information]: Waka Kotahi --[FOLLOW]-> website 0.7423924207687378
+[decision to withhold information]: personal information removed --[RELATES_TO]-> website 0.7985061407089233
+[decision to withhold information]: website --[RELATES_TO]-> Waka Kotahi 0.7648401260375977
+[decision to withhold information]: Waka Kotahi policy --[PUBLISHED]-> website 0.7841662168502808
+[decision to withhold information]: Waka Kotahi --[PUBLISHES]-> website 0.7468398809432983
+[decision to withhold information]: website --[BELONGS_TO]-> Waka Kotahi 0.7734678387641907
+[decision to withhold information]: response --[IS_PUBLISHED_ON]-> website 0.7878833413124084
+[decision to withhold information]: response letter --[IS_PUBLISHED_ON]-> website 0.8007569909095764
+[decision to withhold information]: policy --[APPLIES_TO]-> website 0.7646551728248596
+[decision to withhold information]: website --[PUBLISHES]-> response 0.7839517593383789
+[decision to withhold information]: New Zealand Transport Agency --[PROVIDES]-> www.ombudsman.parliament.nz 0.7690528631210327
+[decision to withhold information]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7529915571212769

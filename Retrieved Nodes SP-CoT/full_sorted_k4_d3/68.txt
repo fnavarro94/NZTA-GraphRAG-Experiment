@@ -1,0 +1,33 @@
+Which city in the country known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, utilizes the Snapper card as part of its initiative that has improved the reliability of public transport services and allowed users to plan their journeys more effectively?
+None
+Seed: Increased demand for effective transportation systems
+Seed: Critical aspect of transportation planning
+Seed: Adopting integrated transport planning approaches that consider public transport
+Seed: Critical for freight and passenger movement
+[Increased demand for effective transportation systems]: Integrated ticketing system --[Driven by]-> Need to encourage greater use of sustainable transport options 0.8374449014663696
+[Increased demand for effective transportation systems]: Integrated ticketing system --[Part of]-> Broader strategy to promote public transport as a viable alternative to private vehicle use 0.8337005376815796
+[Increased demand for effective transportation systems]: Sustainable urban transport --[Key component]-> Ambitious targets 0.8289960622787476
+[Increased demand for effective transportation systems]: Integrated ticketing system --[Aims to]-> Enhance convenience and efficiency of public transport services 0.8285397887229919
+[Increased demand for effective transportation systems]: Pch --[Reflects]-> Importance of well-planned transport systems in both countries 0.8280594348907471
+[Increased demand for effective transportation systems]: Sustainable urban transport --[Key component]-> Atap 0.8272466063499451
+[Increased demand for effective transportation systems]: Sustainable urban transport --[Implemented]-> Initiatives 0.8253609538078308
+[Critical aspect of transportation planning]: Transport demand forecasting --[Is]-> Critical aspect of transportation planning 0.8531844019889832
+[Critical aspect of transportation planning]: Transport demand forecasting --[Involves]-> Socio-economic indicators 0.8479941487312317
+[Critical aspect of transportation planning]: Transport demand forecasting --[Estimates]-> Future travel patterns 0.8352764844894409
+[Critical aspect of transportation planning]: Transport demand forecasting --[Involves]-> Statistical models 0.8292701840400696
+[Critical aspect of transportation planning]: Transport demand forecasting --[Estimates]-> Demand for various transport services 0.8238946199417114
+[Critical aspect of transportation planning]: Transport demand forecasting --[Involves]-> Historical data 0.8226068615913391
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Aims to]-> Create more efficient transport networks 0.8173280358314514
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Aims to]-> Create more sustainable transport networks 0.815064013004303
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches 0.8136506676673889
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting 0.8119127750396729
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider public transport 0.8116986751556396
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider active transport modes 0.8035451173782349
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider land use 0.8021007776260376
+[Critical for freight and passenger movement]: Snapper card --[Used in]-> Wellington 0.8371000289916992
+[Critical for freight and passenger movement]: Freight transport in new zealand --[Driven by]-> Sustainability 0.8172969818115234
+[Critical for freight and passenger movement]: Hamilton --[Focus of]-> Transport planning 0.8162413835525513
+[Critical for freight and passenger movement]: Urban mobility solutions --[Aimed at]-> Sustainability 0.8088230490684509
+[Critical for freight and passenger movement]: Hamilton --[Focus of]-> Improving public transport options 0.8081684112548828
+[Critical for freight and passenger movement]: Intelligent transport systems --[Enhance]-> Sustainability 0.8081168532371521
+[Critical for freight and passenger movement]: Sustainable urban transport --[Key component]-> Wellington 0.8064810633659363

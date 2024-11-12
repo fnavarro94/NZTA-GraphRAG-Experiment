@@ -1,0 +1,36 @@
+What is the largest city in the country where individuals must be at least 16 years old to apply for a learner's permit, which is the first stage of the driver licensing process that can be obtained at the age of 16, served by the key transport corridor critical for freight and passenger movement and runs through the North Island?
+None
+Seed: Age of 16
+Seed: Drivers to obtain specific licenses that demonstrate their competency in handling large vehicles
+Seed: Licensing of drivers and vehicles
+Seed: Legal framework for licensing of drivers
+[Age of 16]: Learner license --[Obtained at]-> Age of 16 0.8489243984222412
+[Age of 16]: Learner license --[Aims]-> Reduce risk of accidents 0.7974907159805298
+[Age of 16]: Learner license --[Promotes]-> Responsible driving habits 0.800751268863678
+[Age of 16]: Learner license --[Valid]-> Five years 0.803164541721344
+[Age of 16]: Learner license --[Importance]-> Road safety 0.8110213279724121
+[Age of 16]: Smart technology integration --[Improves]-> Road safety 0.7373032569885254
+[Age of 16]: Smart technology integration --[Facilitates]-> Transition to evs 0.7091938257217407
+[Age of 16]: Smart technology integration --[Has]-> Smart traffic signals 0.7308605313301086
+[Age of 16]: Smart technology integration --[Minimizes]-> Delays 0.7051634192466736
+[Age of 16]: Smart technology integration --[Will]-> Expand further 0.6971288919448853
+[Age of 16]: Smart technology integration --[Is]-> For all new zealanders 0.7324259877204895
+[Age of 16]: Smart technology integration --[Contributes to]-> Reduction of greenhouse gas emissions 0.6968560218811035
+[Age of 16]: Smart technology integration --[Adapts to]-> Real-time traffic conditions 0.7269051671028137
+[Age of 16]: Smart technology integration --[Monitors]-> Traffic flow 0.7411810159683228
+[Age of 16]: Smart technology integration --[Manages]-> Traffic flow 0.7490729093551636
+[Age of 16]: Smart technology integration --[Collaborates with]-> Local councils and private sector stakeholders 0.7266937494277954
+[Age of 16]: Smart technology integration --[Allows]-> Seamless fare collection 0.736535906791687
+[Age of 16]: Smart technology integration --[Provides]-> Real-time information 0.6941385269165039
+[Age of 16]: Smart technology integration --[Manages]-> Energy consumption 0.6879792809486389
+[Age of 16]: Smart technology integration --[Is]-> In public transport 0.755060076713562
+[Age of 16]: Smart technology integration --[Is]-> Key area of development 0.7131476998329163
+[Age of 16]: Smart technology integration --[Is]-> In future prospects 0.6947848796844482
+[Age of 16]: Smart technology integration --[Is]-> Vital component in addressing challenges 0.7049461603164673
+[Age of 16]: Smart technology integration --[Ensures]-> Benefits of smart technology are realized 0.6833595037460327
+[Age of 16]: Smart technology integration --[Promises]-> To revolutionize way goods and people are transported 0.7409045696258545
+[Age of 16]: Smart technology integration --[Has]-> Contactless payment systems 0.6966644525527954
+[Age of 16]: Smart technology integration --[Is]-> In electric vehicle infrastructure 0.7148644328117371
+[Age of 16]: Smart technology integration --[Is]-> In new zealand government 0.7363844513893127
+[Age of 16]: Smart technology integration --[Is]-> In cities like auckland and wellington 0.7626257538795471
+[Age of 16]: Smart technology integration --[Refers to]-> Incorporation of advanced digital technologies 0.6976157426834106

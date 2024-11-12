@@ -1,0 +1,36 @@
+In what year did the organization that provides free emergency medical services to residents in the Wellington region first establish its services in New Zealand?
+None
+Seed: First free ambulance service
+Seed: Healthcare providers
+Seed: Emergency medical services
+Seed: Delivering high-quality pre-hospital care
+[First free ambulance service]: Wellington free ambulance --[Is]-> First free ambulance service 0.9068116545677185
+[First free ambulance service]: Wellington free ambulance --[Engages in]-> Community education programs 0.8765830397605896
+[First free ambulance service]: Wellington free ambulance --[Operates]-> Rapid response vehicles 0.8473877310752869
+[First free ambulance service]: Wellington free ambulance --[Offers]-> Services without charge 0.8735775351524353
+[First free ambulance service]: Wellington free ambulance --[Funded by]-> Grants 0.8789377808570862
+[First free ambulance service]: Wellington free ambulance --[Continues to]-> Evolve 0.8679842948913574
+[First free ambulance service]: Wellington free ambulance --[Collaborates with]-> Healthcare providers 0.8935640454292297
+[First free ambulance service]: Wellington free ambulance --[Promotes]-> Safety 0.8688491582870483
+[First free ambulance service]: Wellington free ambulance --[Fosters]-> Culture of preparedness 0.8605594635009766
+[First free ambulance service]: Wellington free ambulance --[Promotes]-> Health awareness 0.8822996616363525
+[First free ambulance service]: Wellington free ambulance --[Established in]-> 1927 0.8960773944854736
+[First free ambulance service]: Wellington free ambulance --[Is]-> Charitable organization 0.893242359161377
+[First free ambulance service]: Wellington free ambulance --[Dedicated to]-> Transport to individuals experiencing medical emergencies 0.8903748989105225
+[First free ambulance service]: Wellington free ambulance --[Contributes to]-> Overall resilience 0.8599379658699036
+[First free ambulance service]: Wellington free ambulance --[Provides]-> Non-urgent patient transport services 0.8679642081260681
+[First free ambulance service]: Wellington free ambulance --[Continues to]-> Adapt to changing needs 0.8513785004615784
+[First free ambulance service]: Wellington free ambulance --[Operates in]-> Wellington region 0.9128578901290894
+[First free ambulance service]: Wellington free ambulance --[Operates under]-> Unique model 0.8583451509475708
+[First free ambulance service]: Wellington free ambulance --[Staffed by]-> Trained paramedics 0.8746941089630127
+[First free ambulance service]: Wellington free ambulance --[Staffed by]-> Emergency medical technicians 0.877858579158783
+[First free ambulance service]: Wellington free ambulance --[Funded by]-> Government support 0.873868465423584
+[First free ambulance service]: Wellington free ambulance --[Provides]-> Emergency medical services 0.9131776094436646
+[First free ambulance service]: Wellington free ambulance --[Funded by]-> Community donations 0.8854888677597046
+[First free ambulance service]: Wellington free ambulance --[Contributes to]-> Transport and healthcare systems 0.8727254271507263
+[First free ambulance service]: Wellington free ambulance --[Maintains]-> Core mission 0.8532661199569702
+[First free ambulance service]: Wellington free ambulance --[Dedicated to]-> Delivering high-quality pre-hospital care 0.8853606581687927
+[First free ambulance service]: Wellington free ambulance --[Collaborates with]-> Other emergency services 0.8958510160446167
+[First free ambulance service]: Wellington free ambulance --[Operates]-> Fleet of ambulances 0.8596190214157104
+[First free ambulance service]: Wellington free ambulance --[Engages in]-> Public health initiatives 0.8871971964836121
+[First free ambulance service]: Wellington free ambulance --[Plays]-> Crucial role in broader transport network 0.8654614090919495

@@ -1,0 +1,33 @@
+How many road and street signs were stolen or vandalized in Hamilton over the last three years?
+None
+Seed: road/street signs
+Seed: one crossing near Daniell Street
+Seed: Theft Ex Car (Over $100)
+Seed: one crossing near SH2/Lyon Street/Birdwood Street intersection
+[road/street signs]: road/street signs --[STOLEN]-> last three years 0.918391227722168
+[road/street signs]: road/street signs --[VANDALISED]-> last three years 0.901990532875061
+[road/street signs]: street name signs --[STOLEN]-> last three years 0.8956465125083923
+[road/street signs]: street name signs --[VANDALISED]-> last three years 0.8899542093276978
+[road/street signs]: others --[VANDALISED]-> last three years 0.8568940162658691
+[road/street signs]: others --[STOLEN]-> last three years 0.8566558957099915
+[one crossing near Daniell Street]: tolls --[SPENT]-> on various roads 0.8096402287483215
+[one crossing near Daniell Street]: Road Traffic --[DECREASED]-> Lockdowns 0.8089273571968079
+[one crossing near Daniell Street]: road renewal --[OVERDUE]-> road maintenance 0.8072348833084106
+[one crossing near Daniell Street]: road safety initiatives --[ASSOCIATED_WITH]-> Wellington City Council 0.8068294525146484
+[one crossing near Daniell Street]: NZ Police --[INVESTIGATES]-> road traffic crashes 0.8066253662109375
+[one crossing near Daniell Street]: Let's Get Wellington Moving --[HAS_COMPONENT]-> City Streets 0.806503415107727
+[one crossing near Daniell Street]: road traffic crashes --[OCCURS_IN]-> Queenstown Lakes and Central Otago 0.8059266805648804
+[Theft Ex Car (Over $100)]: Theft Ex Car (Over $100) --[COUNT]-> 1 0.8232280611991882
+[Theft Ex Car (Over $100)]: Theft Ex Dwelling (Under $500) --[COUNT]-> 1 0.8138244152069092
+[Theft Ex Car (Over $100)]: Unlawful Take Motor Vehicle Etc --[COUNT]-> 3 0.8089863657951355
+[Theft Ex Car (Over $100)]: Theft Ex Car (Under $500) --[COUNT]-> 2 0.8081409931182861
+[Theft Ex Car (Over $100)]: Theft Ex Person (Over $100) --[COUNT]-> 1 0.8031728267669678
+[Theft Ex Car (Over $100)]: response letter --[CONTAINS]-> street lights information 0.8019572496414185
+[Theft Ex Car (Over $100)]: Other Burglary (Other Property) --[COUNT]-> 1 0.795778214931488
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: tolls --[SPENT]-> on various roads 0.8096402287483215
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: Road Traffic --[DECREASED]-> Lockdowns 0.8089273571968079
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: road renewal --[OVERDUE]-> road maintenance 0.8072348833084106
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: road safety initiatives --[ASSOCIATED_WITH]-> Wellington City Council 0.8068294525146484
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: NZ Police --[INVESTIGATES]-> road traffic crashes 0.8066253662109375
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: Let's Get Wellington Moving --[HAS_COMPONENT]-> City Streets 0.806503415107727
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: road traffic crashes --[OCCURS_IN]-> Queenstown Lakes and Central Otago 0.8059266805648804

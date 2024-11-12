@@ -1,0 +1,34 @@
+What topic does the OIA-2127 request focus on?
+None
+Seed: conflict of interest
+Seed: Conflict of interest
+Seed: public interest in accountability
+Seed: public interest in seeking and receiving confidential legal advice
+[conflict of interest]: Mathew Dearnaley --[SUBMITTED_REQUEST]-> OIA-2127 0.861163854598999
+[conflict of interest]: letter --[CONTAINS]-> OIA request 0.8519392013549805
+[conflict of interest]: Conan Young --[SUBMITTED]-> OIA Request 0.8519248366355896
+[conflict of interest]: response to OIA request --[PROVIDES]-> information requested 0.8513254523277283
+[conflict of interest]: OIA-10601 --[SUBMITTED_BY]-> Georgina Campbell 0.8504088521003723
+[conflict of interest]: New Zealand Transport Agency --[DISCUSSES]-> OIA request 0.8484711050987244
+[conflict of interest]: Georgina Campbell --[SUBMITTED_REQUEST]-> OIA-10601 0.8464269638061523
+[Conflict of interest]: Mathew Dearnaley --[SUBMITTED_REQUEST]-> OIA-2127 0.861163854598999
+[Conflict of interest]: letter --[CONTAINS]-> OIA request 0.8519392013549805
+[Conflict of interest]: Conan Young --[SUBMITTED]-> OIA Request 0.8519248366355896
+[Conflict of interest]: response to OIA request --[PROVIDES]-> information requested 0.8513254523277283
+[Conflict of interest]: OIA-10601 --[SUBMITTED_BY]-> Georgina Campbell 0.8504088521003723
+[Conflict of interest]: New Zealand Transport Agency --[DISCUSSES]-> OIA request 0.8484711050987244
+[Conflict of interest]: Georgina Campbell --[SUBMITTED_REQUEST]-> OIA-10601 0.8464269638061523
+[public interest in accountability]: John Coulter --[RESPONDS]-> OIA Request 0.8529599905014038
+[public interest in accountability]: letter --[CONTAINS]-> OIA request 0.8519392013549805
+[public interest in accountability]: Conan Young --[SUBMITTED]-> OIA Request 0.8519248366355896
+[public interest in accountability]: New Zealand Transport Agency --[DISCUSSES]-> OIA request 0.8484711050987244
+[public interest in accountability]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8420661687850952
+[public interest in accountability]: Waka Kotahi --[RESPONDS_TO]-> OIA request 0.8411622047424316
+[public interest in accountability]: Waka Kotahi --[DISCUSS]-> OIA-8555-response.pdf 0.8407622575759888
+[public interest in seeking and receiving confidential legal advice]: John Coulter --[RESPONDS]-> OIA Request 0.8529599905014038
+[public interest in seeking and receiving confidential legal advice]: letter --[CONTAINS]-> OIA request 0.8519392013549805
+[public interest in seeking and receiving confidential legal advice]: Conan Young --[SUBMITTED]-> OIA Request 0.8519248366355896
+[public interest in seeking and receiving confidential legal advice]: New Zealand Transport Agency --[DISCUSSES]-> OIA request 0.8484711050987244
+[public interest in seeking and receiving confidential legal advice]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8420661687850952
+[public interest in seeking and receiving confidential legal advice]: Waka Kotahi --[RESPONDS_TO]-> OIA request 0.8411622047424316
+[public interest in seeking and receiving confidential legal advice]: Waka Kotahi --[DISCUSS]-> OIA-8555-response.pdf 0.8407622575759888

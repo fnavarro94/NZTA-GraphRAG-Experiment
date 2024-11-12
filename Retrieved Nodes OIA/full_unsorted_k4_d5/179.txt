@@ -1,0 +1,36 @@
+What are the two types of toll revenue for the Tākitimu Drive Toll Road?
+None
+Seed: Takitimu Drive Toll Road
+Seed: Toll Revenue
+Seed: toll revenue
+Seed: paid toll revenues
+[Takitimu Drive Toll Road]: Takitimu Drive Toll Road --[PROVIDES]-> Toll Revenue 0.9322882294654846
+[Takitimu Drive Toll Road]: Tauranga Eastern Link Toll Road --[PROVIDES]-> Toll Revenue 0.852565586566925
+[Takitimu Drive Toll Road]: Northern Gateway Toll Road --[PROVIDES]-> Toll Revenue 0.8446418642997742
+[Takitimu Drive Toll Road]: Northern Gateway Toll Road --[DEBT_REPAYMENT]-> 35 years 0.8155136108398438
+[Takitimu Drive Toll Road]: Northern Gateway Toll Road --[ESTIMATED_END_DATE]-> 2045 0.8091853857040405
+[Toll Revenue]: Tauranga Eastern Link Toll Road --[PROVIDES]-> Toll Revenue 0.852565586566925
+[Toll Revenue]: Takitimu Drive Toll Road --[PROVIDES]-> Toll Revenue 0.9322882294654846
+[Toll Revenue]: Northern Gateway Toll Road --[PROVIDES]-> Toll Revenue 0.8446418642997742
+[Toll Revenue]: Northern Gateway Toll Road --[DEBT_REPAYMENT]-> 35 years 0.8155136108398438
+[Toll Revenue]: Northern Gateway Toll Road --[ESTIMATED_END_DATE]-> 2045 0.8091853857040405
+[toll revenue]: NZTA --[RETAINS]-> toll revenue 0.813494861125946
+[toll revenue]: NZTA --[SETS]-> quality standards 0.7198219895362854
+[toll revenue]: quality standards --[THROUGH]-> Maintenance Management Plan 0.7423098087310791
+[toll revenue]: Maintenance Management Plan --[REPORT]-> quarterly reports 0.7516701221466064
+[toll revenue]: quarterly reports --[AUDITED]-> NZTA 0.7569300532341003
+[toll revenue]: NZTA --[PROVIDES]-> maintenance specifications 0.7494863271713257
+[toll revenue]: maintenance specifications --[AVAILABLE]-> website 0.7504262328147888
+[toll revenue]: scheduled tasks --[IS_REMOVED]-> website 0.7155307531356812
+[toll revenue]: information requested --[DOES_NOT_EXIST]-> scheduled tasks 0.7177364826202393
+[toll revenue]: website --[LOCATED_AT]-> www.ombudsman.parliament.nz 0.7460600733757019
+[toll revenue]: www.ombudsman.parliament.nz --[LINKS_TO]-> Ombudsman 0.7633266448974609
+[toll revenue]: New Zealand Transport Agency --[PROVIDES]-> www.ombudsman.parliament.nz 0.7798634171485901
+[toll revenue]: www.ombudsman.parliament.nz --[PROVIDES]-> New Zealand Transport Agency 0.7779289484024048
+[toll revenue]: Ombudsman --[LOCATED_AT]-> www.ombudsman.parliament.nz 0.7468239068984985
+[toll revenue]: www.ombudsman.parliament.nz --[HOSTS]-> contact details for the Ombudsman 0.7380138635635376
+[toll revenue]: contact details for the Ombudsman --[LOCATED_AT]-> www.ombudsman.parliament.nz 0.7352391481399536
+[toll revenue]: contact details for the Ombudsman --[AVAILABLE_AT]-> www.ombudsman.parliament.nz 0.7401783466339111
+[toll revenue]: www.ombudsman.parliament.nz --[PROVIDES]-> contact details 0.7458707690238953
+[toll revenue]: contact details --[LOCATED]-> www.ombudsman.parliament.nz 0.7427443265914917
+[toll revenue]: www.ombudsman.parliament.nz --[PROVIDES]-> Transport Agency 0.7833106517791748

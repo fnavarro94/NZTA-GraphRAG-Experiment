@@ -1,0 +1,36 @@
+Where can information about the average length of time taken to respond to OIA requests be found?
+None
+Seed: deadline for responding to request
+Seed: response to OIA request
+Seed: Request made under the Official Information Act 1982
+Seed: Request for Information
+[deadline for responding to request]: New Zealand Transport Agency --[EXTENDS]-> deadline for responding to request 0.8230007886886597
+[deadline for responding to request]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7743121385574341
+[deadline for responding to request]: New Zealand Transport Agency --[BASED]-> Wellington 0.7708762884140015
+[deadline for responding to request]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7843774557113647
+[deadline for responding to request]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.7962382435798645
+[deadline for responding to request]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7719185948371887
+[deadline for responding to request]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7618503570556641
+[deadline for responding to request]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7714856863021851
+[deadline for responding to request]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7758877277374268
+[deadline for responding to request]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7686600685119629
+[deadline for responding to request]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7662222385406494
+[deadline for responding to request]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7849747538566589
+[deadline for responding to request]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8513432145118713
+[deadline for responding to request]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7950021624565125
+[deadline for responding to request]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8164955973625183
+[deadline for responding to request]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7987405061721802
+[deadline for responding to request]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8096398711204529
+[deadline for responding to request]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7644140720367432
+[deadline for responding to request]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8555358052253723
+[deadline for responding to request]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7510038018226624
+[deadline for responding to request]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7589333057403564
+[deadline for responding to request]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8016522526741028
+[deadline for responding to request]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7579962611198425
+[deadline for responding to request]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8552494049072266
+[deadline for responding to request]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8381654620170593
+[deadline for responding to request]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8508014678955078
+[deadline for responding to request]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.737606942653656
+[deadline for responding to request]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.755875825881958
+[deadline for responding to request]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8187999725341797
+[deadline for responding to request]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7577012181282043

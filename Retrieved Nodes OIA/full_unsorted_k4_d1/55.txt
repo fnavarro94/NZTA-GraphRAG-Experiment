@@ -1,0 +1,36 @@
+What is the definition of a road used by the Crash Analysis System (CAS)?
+None
+Seed: Guide for the interpretation of coded crash reports
+Seed: Road Safety Analysis
+Seed: Crash Analysis System
+Seed: Road Traffic Crash Data
+[Guide for the interpretation of coded crash reports]: Guide for the interpretation of coded crash reports --[AVAILABLE_AT]-> https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf 0.8188116550445557
+[Guide for the interpretation of coded crash reports]: Transport Agency --[PROVIDES]-> Guide for the interpretation of coded crash reports 0.8414613604545593
+[Road Safety Analysis]: Galina Mitchelhill --[RESPONSIBLE_FOR]-> Road Safety Analysis 0.8029646873474121
+[Crash Analysis System]: Deceased Drivers --[ASSOCIATED_WITH]-> Crash Analysis System 0.8444362878799438
+[Crash Analysis System]: Crash Analysis System --[UPDATED]-> Traffic Crash Report 0.8320452570915222
+[Crash Analysis System]: Crash Analysis System --[PROVIDES]-> Traffic Crash Report 0.8751748204231262
+[Crash Analysis System]: Crash Analysis System --[ASSOCIATED_WITH]-> Deceased Drivers 0.859265923500061
+[Crash Analysis System]: Crash Analysis System --[ASSOCIATED_WITH]-> Traffic Crash Report 0.8716850876808167
+[Crash Analysis System]: Crash Analysis System --[PROVIDES]-> Data 0.8534446358680725
+[Crash Analysis System]: 2020 --[FATAL_CRASHES]-> Crash Analysis System 0.8354427814483643
+[Crash Analysis System]: Traffic Crash Report --[ASSOCIATED_WITH]-> Crash Analysis System 0.8653901815414429
+[Crash Analysis System]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.8516104221343994
+[Crash Analysis System]: Crash Analysis System --[MAINTAINS]-> Waka Kotahi N Z Transport Agency 0.8290302753448486
+[Crash Analysis System]: Crash Analysis System --[UPDATES]-> Traffic Crash Report 0.8401286005973816
+[Crash Analysis System]: road accident data --[FROM]-> Crash Analysis System 0.8611133694648743
+[Crash Analysis System]: Crash Analysis System --[PROVIDES]-> road accident data 0.8840524554252625
+[Crash Analysis System]: Crash Analysis System --[MANAGED_BY]-> New Zealand Transport Agency 0.8633283376693726
+[Crash Analysis System]: crash movements and cause factors --[RECORDED_IN]-> Crash Analysis System 0.8417625427246094
+[Crash Analysis System]: New Zealand Transport Agency --[MAINTAINS]-> Crash Analysis System 0.8422194719314575
+[Crash Analysis System]: primary contribution --[DETERMINED]-> Crash Analysis System 0.8607149124145508
+[Crash Analysis System]: Crash Analysis System --[PROVIDES]-> data on road traffic crashes 0.8805290460586548
+[Crash Analysis System]: Crash Analysis System --[UPDATES]-> Traffic Crash Reports 0.8377535343170166
+[Crash Analysis System]: Crash Analysis System --[CAPTURES]-> information on crashes 0.842065691947937
+[Crash Analysis System]: Crash Analysis System --[USES]-> contributing factor codes 0.8534972667694092
+[Crash Analysis System]: New Zealand Transport Agency --[MANAGES]-> Crash Analysis System 0.843601405620575
+[Crash Analysis System]: Traffic Crash Report --[RECORDED_IN]-> Crash Analysis System 0.8411746621131897
+[Crash Analysis System]: Crash Analysis System --[UPDATES]-> Data 0.8038229942321777
+[Crash Analysis System]: New Zealand Transport Agency Waka Kotahi --[MAINTAINS]-> Crash Analysis System 0.8205302953720093
+[Crash Analysis System]: Crash Analysis System --[PROVIDES]-> traffic crash data 0.8734886050224304
+[Crash Analysis System]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.8200898766517639

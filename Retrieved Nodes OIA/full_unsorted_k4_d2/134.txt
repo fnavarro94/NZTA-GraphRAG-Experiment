@@ -1,0 +1,36 @@
+How does the proportion of 80km/h zone length compare to the 100km/h zone length on SH16?
+None
+Seed: comparing the number of accidents under the 100km speed limit versus the current 80km speed rate
+Seed: annual accident rate on SH16
+Seed: 100M
+Seed: Discuss this reply with the NZ Transport Agency
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[INTERESTED_IN]-> comparing the number of accidents under the 100km speed limit versus the current 80km speed rate 0.8331906795501709
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[EMAILS]-> NZ Transport Agency 0.7453160285949707
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[REQUESTS]-> annual accident rate on SH16 0.7988010048866272
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[LIVES]-> New Zealand 0.703758955001831
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[WRITES]-> email to the NZ Transport Agency 0.7242133021354675
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[WRITES]-> email dated 30 April 2018 0.7365221977233887
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[REQUESTS]-> information under the Official Information Act 1982 0.7284393310546875
+[annual accident rate on SH16]: Debrin Foxcroft --[REQUESTS]-> annual accident rate on SH16 0.7988010048866272
+[annual accident rate on SH16]: Debrin Foxcroft --[EMAILS]-> NZ Transport Agency 0.7453160285949707
+[annual accident rate on SH16]: Debrin Foxcroft --[LIVES]-> New Zealand 0.703758955001831
+[annual accident rate on SH16]: Debrin Foxcroft --[WRITES]-> email to the NZ Transport Agency 0.7242133021354675
+[annual accident rate on SH16]: Debrin Foxcroft --[WRITES]-> email dated 30 April 2018 0.7365221977233887
+[annual accident rate on SH16]: Debrin Foxcroft --[INTERESTED_IN]-> comparing the number of accidents under the 100km speed limit versus the current 80km speed rate 0.8331906795501709
+[annual accident rate on SH16]: Debrin Foxcroft --[REQUESTS]-> information under the Official Information Act 1982 0.7284393310546875
+[100M]: New Zealand Transport Agency --[FUNDING]-> 100M 0.7982755899429321
+[100M]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7503423690795898
+[100M]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7566128373146057
+[100M]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.748089075088501
+[100M]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7416607737541199
+[100M]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7451069355010986
+[100M]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7551276683807373
+[100M]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7629179954528809
+[100M]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7559341788291931
+[100M]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7721010446548462
+[100M]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.766459047794342
+[100M]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7587666511535645
+[100M]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7664164304733276
+[100M]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.77073073387146
+[100M]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7640766501426697
+[100M]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7580482959747314

@@ -1,0 +1,36 @@
+What is the longest overdue road for renewal in New Zealand?
+None
+Seed: longest overdue road
+Seed: road renewal
+Seed: toll roads
+Seed: information on tolls and road maintenance
+[longest overdue road]: longest overdue road --[OVERDUE]-> road renewal 0.9225471615791321
+[longest overdue road]: road renewal --[OVERDUE]-> road maintenance 0.8822011947631836
+[longest overdue road]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> road maintenance 0.8547061681747437
+[longest overdue road]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8366097807884216
+[longest overdue road]: New Zealand Transport Agency --[BASED]-> Wellington 0.8361520767211914
+[longest overdue road]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.8068685531616211
+[longest overdue road]: Golden Mile --[LOCATED]-> Wellington 0.8248867988586426
+[longest overdue road]: State Highway 1 --[LOCATED_IN]-> Wellington 0.8466073870658875
+[longest overdue road]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7754625082015991
+[longest overdue road]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7890954613685608
+[longest overdue road]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7968394756317139
+[longest overdue road]: Wellington --[PART_OF]-> Wellington Region 0.8112226128578186
+[longest overdue road]: New Zealand --[HAS_CAPITAL]-> Wellington 0.8359628319740295
+[longest overdue road]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.8445101380348206
+[longest overdue road]: Wellington --[HAS]-> tunnel 0.8275102376937866
+[longest overdue road]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.8101929426193237
+[longest overdue road]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.802311897277832
+[longest overdue road]: Wellington --[POSTCODE]-> 6141 0.7898265719413757
+[longest overdue road]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.8326912522315979
+[longest overdue road]: Wellington --[IS_PART_OF]-> New Zealand 0.8269167542457581
+[longest overdue road]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.8346250057220459
+[longest overdue road]: 50 Victoria Street --[IN]-> Wellington 0.7882688045501709
+[longest overdue road]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7791789174079895
+[longest overdue road]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7946276664733887
+[longest overdue road]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.8018724918365479
+[longest overdue road]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.812781810760498
+[longest overdue road]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.8104562163352966
+[longest overdue road]: NZ Transport Agency --[LOCATED]-> Wellington 0.8364490270614624
+[longest overdue road]: Wellington --[CONTAINS]-> 50 Victoria Street 0.810524046421051
+[longest overdue road]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7885122299194336

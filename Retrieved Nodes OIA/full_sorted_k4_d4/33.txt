@@ -1,0 +1,34 @@
+What percentage of a project's total budget is typically allocated to communications and public engagement on large roading projects?
+None
+Seed: 32 percent of the roading network
+Seed: wider objectives in Regional Public Transport Plans
+Seed: manage fare revenue and public transport budgets within current funding allocations
+Seed: itemised breakdown of all spending on public consultation for Golden Mile upgrades
+[32 percent of the roading network]: 32 percent of the roading network --[PAST_DESIGN_LIFE]-> design life 0.8453732132911682
+[32 percent of the roading network]: road maintenance data --[OVERDUE]-> 32 percent of the roading network 0.839047908782959
+[32 percent of the roading network]: Road to Zero Strategy --[DEVELOPMENT_FUNDING]-> expenditure breakdown 0.8299170732498169
+[32 percent of the roading network]: 100M --[ALLOCATED_FOR]-> State Highway 1 0.8270689845085144
+[32 percent of the roading network]: Road to Zero Strategy Development --[BREAKDOWN]-> Expenditure 0.8246039152145386
+[32 percent of the roading network]: New Zealand Transport Agency --[PLANS_TO_SPEND]-> total amount of money 0.8185854554176331
+[32 percent of the roading network]: New Zealand Transport Agency --[BUDGETS]-> median barriers 0.8176811933517456
+[wider objectives in Regional Public Transport Plans]: wider objectives in Regional Public Transport Plans --[CONTRIBUTES]-> government's transport priorities 0.8237691521644592
+[wider objectives in Regional Public Transport Plans]: public transport budgets --[MANAGED_BY]-> councils 0.8173267841339111
+[wider objectives in Regional Public Transport Plans]: underlying principles of the current policy --[CONTRIBUTES]-> wider objectives in Regional Public Transport Plans 0.8128712177276611
+[wider objectives in Regional Public Transport Plans]: fares play an important role in helping cover the cost of public transport within available budgets --[CONTRIBUTES]-> public transport budgets 0.8050857186317444
+[wider objectives in Regional Public Transport Plans]: government's transport priorities --[INCLUDES]-> fares play an important role in helping cover the cost of public transport within available budgets 0.8030875325202942
+[wider objectives in Regional Public Transport Plans]: public transport affordability --[RELATES_TO]-> wider impacts of fare policy on people and cities 0.7998678684234619
+[wider objectives in Regional Public Transport Plans]: wider impacts of fare policy on people and cities --[INCLUCES]-> national farebox recovery target 0.777084231376648
+[manage fare revenue and public transport budgets within current funding allocations]: manage fare revenue and public transport budgets within current funding allocations --[REQUIRES]-> standard cost scope adjustment process 0.8184453845024109
+[manage fare revenue and public transport budgets within current funding allocations]: public transport budgets --[MANAGED_BY]-> councils 0.8173267841339111
+[manage fare revenue and public transport budgets within current funding allocations]: councils --[MUST]-> manage fare revenue and public transport budgets within current funding allocations 0.8148019313812256
+[manage fare revenue and public transport budgets within current funding allocations]: fares play an important role in helping cover the cost of public transport within available budgets --[CONTRIBUTES]-> public transport budgets 0.8050857186317444
+[manage fare revenue and public transport budgets within current funding allocations]: government's transport priorities --[INCLUDES]-> fares play an important role in helping cover the cost of public transport within available budgets 0.8030875325202942
+[manage fare revenue and public transport budgets within current funding allocations]: funding requests --[NEEDS]-> follow the standard cost scope adjustment process 0.7964809536933899
+[manage fare revenue and public transport budgets within current funding allocations]: standard cost scope adjustment process --[APPLIES_TO]-> funding requests 0.7833966016769409
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: New Zealand Transport Agency --[PLANS_TO_SPEND]-> total amount of money 0.8185854554176331
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: New Zealand Transport Agency --[BUDGETS]-> median barriers 0.8176811933517456
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: New Zealand Transport Agency --[SPENT]-> Road to Zero Strategy Development 0.8128594756126404
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[ITEMISED]-> itemised breakdown of all spending on public consultation for Golden Mile upgrades 0.8118395805358887
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: New Zealand Transport Agency --[SPENDS_ON]-> Road to Zero Strategy 0.8080601692199707
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.806727945804596
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: New Zealand Transport Agency --[FUNDING]-> 100M 0.8058029413223267

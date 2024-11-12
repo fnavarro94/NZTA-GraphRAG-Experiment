@@ -1,0 +1,36 @@
+In what year did the legislation overseen by the Transport and Infrastructure Committee in relation to road safety come into effect in New Zealand?
+None
+Seed: Legislative framework for road safety initiatives
+Seed: Significant shift in new zealand's approach to road safety
+Seed: Road safety legislation
+Seed: New zealand's road safety initiatives
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Provides]-> Legislative framework for road safety initiatives 0.8685125708580017
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Reflected in]-> Land transport act 1998 0.8495038151741028
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Aiming to]-> Reduce road traffic accidents and fatalities 0.8280630707740784
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Emphasis on]-> Standardized road signs and signals 0.7914724946022034
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Aimed at]-> Facilitating international road traffic 0.8165378570556641
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Integrated into]-> New zealand's national road traffic laws 0.8745287656784058
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Ratified by]-> Numerous countries 0.8024494647979736
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Aimed at]-> Promoting road safety 0.833633303642273
+[Legislative framework for road safety initiatives]: Road safety authority --[Responsible for]-> Promoting road safety 0.8504292964935303
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Adopted]-> Graduated licensing system 0.7960716485977173
+[Legislative framework for road safety initiatives]: New zealand --[Has]-> Graduated licensing system 0.8048086762428284
+[Legislative framework for road safety initiatives]: Graduated licensing system --[Ensures]-> New drivers acquire skills 0.7429617047309875
+[Legislative framework for road safety initiatives]: Graduated licensing system --[Aims]-> Improve road safety 0.8002973794937134
+[Legislative framework for road safety initiatives]: Learner license --[First stage]-> Graduated licensing system 0.7425699234008789
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Reflected in]-> Road user rule 2004 0.8158220052719116
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Reflects]-> New zealand's commitment to international standards in road safety and traffic management 0.8376581072807312
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Establishes]-> Uniform rules for road users 0.7945149540901184
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Promotes]-> Responsible use of vehicles 0.8039460182189941
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Aiming to]-> Novice drivers 0.7876114845275879
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Promotes]-> Safe driving practices 0.804282546043396
+[Legislative framework for road safety initiatives]: New zealand police --[Promoting]-> Safe driving practices 0.838590681552887
+[Legislative framework for road safety initiatives]: Theory test --[Assesses]-> Safe driving practices 0.7814455032348633
+[Legislative framework for road safety initiatives]: Nzta --[Encourages]-> Safe driving practices 0.8384233117103577
+[Legislative framework for road safety initiatives]: Road safety education --[Covers]-> Safe driving practices 0.8257298469543457
+[Legislative framework for road safety initiatives]: Diverse terrain and weather conditions --[Can complicate]-> Safe driving practices 0.7728886604309082
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Instrumental in]-> Shaping new zealand's transport policies 0.8618684411048889
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Provisions on]-> Driver licensing and vehicle registration 0.7978570461273193
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Implemented by]-> New zealand transport agency 0.8624520301818848
+[Legislative framework for road safety initiatives]: New zealand --[Has]-> New zealand transport agency 0.8507590293884277
+[Legislative framework for road safety initiatives]: New zealand transport agency --[Is]-> Forefront of promoting active transport 0.8391759395599365

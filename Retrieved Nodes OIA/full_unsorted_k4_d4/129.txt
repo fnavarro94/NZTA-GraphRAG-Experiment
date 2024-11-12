@@ -1,0 +1,36 @@
+How much did Meredith Connell invoice NZTA for legal services from November 2018 to June 2019?
+None
+Seed: highest single amount invoiced was $93,114.27
+Seed: administration fee
+Seed: $130,675
+Seed: $949,349
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[INVOICES]-> highest single amount invoiced was $93,114.27 0.8336039781570435
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7732927799224854
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[BASED]-> Wellington 0.7662817239761353
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.797673225402832
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7884523868560791
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.749518871307373
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7794538140296936
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7713611125946045
+[highest single amount invoiced was $93,114.27]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7622740268707275
+[highest single amount invoiced was $93,114.27]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7512024641036987
+[highest single amount invoiced was $93,114.27]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8063365817070007
+[highest single amount invoiced was $93,114.27]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.783092200756073
+[highest single amount invoiced was $93,114.27]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7904178500175476
+[highest single amount invoiced was $93,114.27]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7962111234664917
+[highest single amount invoiced was $93,114.27]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7864950299263
+[highest single amount invoiced was $93,114.27]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7897007465362549
+[highest single amount invoiced was $93,114.27]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7769882082939148
+[highest single amount invoiced was $93,114.27]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7831596732139587
+[highest single amount invoiced was $93,114.27]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7506771683692932
+[highest single amount invoiced was $93,114.27]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7491862177848816
+[highest single amount invoiced was $93,114.27]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8095366954803467
+[highest single amount invoiced was $93,114.27]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7647060751914978
+[highest single amount invoiced was $93,114.27]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7821654081344604
+[highest single amount invoiced was $93,114.27]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7884508967399597
+[highest single amount invoiced was $93,114.27]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7861254215240479
+[highest single amount invoiced was $93,114.27]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7550228834152222
+[highest single amount invoiced was $93,114.27]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7666057348251343
+[highest single amount invoiced was $93,114.27]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7921764850616455
+[highest single amount invoiced was $93,114.27]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7684277892112732
+[highest single amount invoiced was $93,114.27]: Senior Engineer Vehicle Standard --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.750298261642456

@@ -1,0 +1,34 @@
+How many drivers had a zero-alcohol condition on their licence as of 1 July 2019?
+None
+Seed: Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence
+Seed: Standard condition of drivers under 20 subject to zero alcohol level are not included
+Seed: Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019
+Seed: Driving With Excess Blood Alcohol Level
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Data --[IS]-> Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019 0.8885011076927185
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Data --[IS]-> Standard condition of drivers under 20 subject to zero alcohol level are not included 0.8803609609603882
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Alcohol and Drugs --[TESTED]-> Drivers 0.8578091859817505
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Data --[IS]-> Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence 0.857560396194458
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Drivers --[TESTED_FOR]-> Alcohol and Drugs 0.8538812398910522
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: drugs or alcohol --[AFFECTS]-> drivers 0.8444323539733887
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: drivers --[IMPAIRED]-> drugs 0.8342655897140503
+[Standard condition of drivers under 20 subject to zero alcohol level are not included]: Data --[IS]-> Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019 0.8885011076927185
+[Standard condition of drivers under 20 subject to zero alcohol level are not included]: Data --[IS]-> Standard condition of drivers under 20 subject to zero alcohol level are not included 0.8803609609603882
+[Standard condition of drivers under 20 subject to zero alcohol level are not included]: Alcohol and Drugs --[TESTED]-> Drivers 0.8578091859817505
+[Standard condition of drivers under 20 subject to zero alcohol level are not included]: Data --[IS]-> Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence 0.857560396194458
+[Standard condition of drivers under 20 subject to zero alcohol level are not included]: Drivers --[TESTED_FOR]-> Alcohol and Drugs 0.8538812398910522
+[Standard condition of drivers under 20 subject to zero alcohol level are not included]: drugs or alcohol --[AFFECTS]-> drivers 0.8444323539733887
+[Standard condition of drivers under 20 subject to zero alcohol level are not included]: drivers --[IMPAIRED]-> drugs 0.8342655897140503
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Data --[IS]-> Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019 0.8885011076927185
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Data --[IS]-> Standard condition of drivers under 20 subject to zero alcohol level are not included 0.8803609609603882
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Alcohol and Drugs --[TESTED]-> Drivers 0.8578091859817505
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Data --[IS]-> Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence 0.857560396194458
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Drivers --[TESTED_FOR]-> Alcohol and Drugs 0.8538812398910522
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: drugs or alcohol --[AFFECTS]-> drivers 0.8444323539733887
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: drivers --[IMPAIRED]-> drugs 0.8342655897140503
+[Driving With Excess Blood Alcohol Level]: Driving With Excess Blood Alcohol Level --[COUNT]-> 1 0.865689754486084
+[Driving With Excess Blood Alcohol Level]: No Driver Licence --[COUNT]-> 1 0.8597014546394348
+[Driving With Excess Blood Alcohol Level]: 2019 --[INCLUDES]-> no records of fatal, serious or minor injury crashes 0.8504690527915955
+[Driving With Excess Blood Alcohol Level]: Drove With Excess Blood Alcohol Content Blood/Breath --[COUNT]-> 2 0.8365398645401001
+[Driving With Excess Blood Alcohol Level]: 2019 --[NON_INJURY_CRASHES]-> 214 0.8352174758911133
+[Driving With Excess Blood Alcohol Level]: 2019 --[HAS_NON_INJURY_CRASHES]-> 13 0.8339419960975647
+[Driving With Excess Blood Alcohol Level]: 2019 --[INCLUDES]-> two non-injury crashes 0.8338622450828552

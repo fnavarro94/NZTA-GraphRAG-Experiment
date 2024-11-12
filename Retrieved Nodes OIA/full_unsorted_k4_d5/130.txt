@@ -1,0 +1,36 @@
+What was included in the legal costs from Meredith Connell during this period?
+None
+Seed: Summary of legal and other costs
+Seed: Meredith Connell
+Seed: transaction costs
+Seed: Costs
+[Summary of legal and other costs]: Robert Pines --[REQUESTED]-> Summary of legal and other costs 0.8374570608139038
+[Meredith Connell]: Meredith Connell --[ASSOCIATED]-> Enforcement of regulatory role 0.8630585074424744
+[Meredith Connell]: New Zealand Transport Agency --[ASSOCIATED]-> Enforcement of regulatory role 0.7582228183746338
+[Meredith Connell]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7109242081642151
+[Meredith Connell]: New Zealand Transport Agency --[BASED]-> Wellington 0.7178975343704224
+[Meredith Connell]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.728206992149353
+[Meredith Connell]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7162514925003052
+[Meredith Connell]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.6988962292671204
+[Meredith Connell]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7168864011764526
+[Meredith Connell]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7043240070343018
+[Meredith Connell]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.724267303943634
+[Meredith Connell]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7152857780456543
+[Meredith Connell]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.755652666091919
+[Meredith Connell]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.739852786064148
+[Meredith Connell]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7273285388946533
+[Meredith Connell]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7243937253952026
+[Meredith Connell]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7479953169822693
+[Meredith Connell]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.718298077583313
+[Meredith Connell]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7426621913909912
+[Meredith Connell]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7417435646057129
+[Meredith Connell]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7283941507339478
+[Meredith Connell]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7334985733032227
+[Meredith Connell]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.746644139289856
+[Meredith Connell]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7383774518966675
+[Meredith Connell]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7414826154708862
+[Meredith Connell]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7453666925430298
+[Meredith Connell]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7388066053390503
+[Meredith Connell]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7266899347305298
+[Meredith Connell]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7450349926948547
+[Meredith Connell]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7414735555648804

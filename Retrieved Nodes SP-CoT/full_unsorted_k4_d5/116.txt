@@ -1,0 +1,36 @@
+What significant engineering challenge associated with the key transport corridor critical for freight and passenger movement and running through the North Island, completed in the year the major railway line in New Zealand is being upgraded to enhance its capacity and efficiency for sustainable transport, is known for its unique spiral design?
+None
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+Seed: Critical component of new zealand's transport strategy
+Seed: New zealand's commitment to promoting sustainable transport solutions
+Seed: Growing emphasis on sustainable transport solutions
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Plays]-> Significant role in shaping transport infrastructure and policy in new zealand 0.8465326428413391
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Conducts]-> Extensive research and development projects 0.7718237638473511
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Collaborates with]-> New zealand transport agency (nzta 0.8093392848968506
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Aims to]-> Enhance resilience and adaptability of new zealand's transport network 0.8562822341918945
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Is]-> Collective of australian and new zealand road transport and traffic agencies 0.7922015190124512
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Founded in]-> 1990 0.7261661887168884
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Engages in]-> International collaborations to align initiatives with global best practices 0.7564767003059387
+[Critical component of new zealand's transport strategy]: Road safety education --[Is]-> Critical component of new zealand's transport strategy 0.8351141214370728
+[Critical component of new zealand's transport strategy]: Nzta --[Promotes]-> Road safety education 0.7954465746879578
+[Critical component of new zealand's transport strategy]: Nzta --[Plays a pivotal role in]-> The development and implementation of these systems 0.7915177345275879
+[Critical component of new zealand's transport strategy]: Nzta --[Actively exploring]-> Connected and autonomous vehicles 0.791836678981781
+[Critical component of new zealand's transport strategy]: Nzta --[Actively exploring]-> The potential of emerging technologies 0.8105086088180542
+[Critical component of new zealand's transport strategy]: Nzta --[Actively exploring]-> Improving road safety 0.8229451179504395
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Influenced by]-> Improving road safety 0.7613212466239929
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Designed to]-> Enhance vehicle stability 0.7469989657402039
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Is]-> Advanced safety feature 0.7519673109054565
+[Critical component of new zealand's transport strategy]: Vehicle safety technologies --[Include]-> Electronic stability control 0.7453568577766418
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Utilize]-> Sensors 0.737625002861023
+[Critical component of new zealand's transport strategy]: New zealand --[Has adopted]-> Electronic stability control 0.8069836497306824
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Helps]-> Reduce skidding 0.7462961673736572
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Helps]-> Reduce rollovers 0.7630506753921509
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Helps]-> Maintain control 0.7427417039871216
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Mandatory]-> New zealand 0.802769660949707
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Mandatory]-> New vehicles 0.7707039713859558
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Contributed to]-> Challenging driving conditions 0.7764304876327515
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Contributed to]-> Improved road safety 0.7684792280197144
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Contributed to]-> Rural areas 0.7715469598770142
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Particularly relevant in]-> New zealand 0.8006551861763
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Range from]-> Mountainous terrains 0.7606223821640015
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Range from]-> Urban environments 0.7479593753814697

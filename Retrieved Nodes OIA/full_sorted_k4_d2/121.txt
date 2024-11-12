@@ -1,0 +1,26 @@
+What information did NZTA provide in response to the OIA request on median barriers (OIA-3396)?
+None
+Seed: installing median barriers
+Seed: median barriers
+Seed: Median Barriers
+Seed: information about the NZ Transport Agency's Information Technology (IT) projects
+[installing median barriers]: Safe System approach --[INCLUDES]-> installing median barriers 0.8215978145599365
+[installing median barriers]: resolution A/RES/74/299 --[PROMOTES]-> Safe System approach 0.7813894748687744
+[installing median barriers]: Safe System approach --[INCLUDES]-> improving the safety performance of the vehicle fleet 0.7649362087249756
+[installing median barriers]: Safe System approach --[INCLUDES]-> encouraging road users to be alert and compliant 0.7614872455596924
+[median barriers]: New Zealand Transport Agency --[PROVIDES]-> response to OIA request 0.8936640620231628
+[median barriers]: median barriers --[LOCATED]-> New Zealand 0.8916404843330383
+[median barriers]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA request 0.890121579170227
+[median barriers]: New Zealand Transport Agency --[RESPONDS_TO]-> oia-14650-response-letter.pdf 0.8899285197257996
+[median barriers]: New Zealand Transport Agency --[RESPONDS]-> oia-8452-response.pdf 0.8899145722389221
+[median barriers]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA requests 0.8892194032669067
+[median barriers]: New Zealand Transport Agency --[RESPONDS]-> OIA-10752 0.8891638517379761
+[Median Barriers]: New Zealand Transport Agency --[RESPONDS]-> John-Michael Swannix 0.8400980234146118
+[Median Barriers]: John-Michael Swannix --[REQUESTS]-> Median Barriers 0.8356444835662842
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[PROVIDES]-> response to OIA request 0.8936640620231628
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA request 0.890121579170227
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[RESPONDS_TO]-> oia-14650-response-letter.pdf 0.8899285197257996
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[RESPONDS]-> oia-8452-response.pdf 0.8899145722389221
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA requests 0.8892194032669067
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[RESPONDS]-> OIA-10752 0.8891638517379761
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[RESPONDS_TO]-> oia-9157-response.pdf 0.888651430606842

@@ -1,0 +1,36 @@
+How does Waka Kotahi gather data on fatal crashes?
+None
+Seed: figures on drivers involved in fatal crashes
+Seed: drivers involved in fatal crashes
+Seed: information on driver fatalities
+Seed: https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf
+[figures on drivers involved in fatal crashes]: AA --[PROVIDES]-> figures on drivers involved in fatal crashes 0.8548164367675781
+[drivers involved in fatal crashes]: drivers involved in fatal crashes --[INVOLVED_IN]-> fatal crashes 0.8432331085205078
+[drivers involved in fatal crashes]: fatal crashes --[CAUSED_BY]-> drugs or alcohol 0.8312917351722717
+[drivers involved in fatal crashes]: drugs or alcohol --[AFFECTS]-> drivers 0.7661128640174866
+[drivers involved in fatal crashes]: tolls --[COLLECTED]-> drivers 0.787864089012146
+[drivers involved in fatal crashes]: New Zealand Transport Agency --[MANAGES]-> tolls 0.7861806750297546
+[drivers involved in fatal crashes]: tolls --[PAID]-> each year 0.7560088038444519
+[drivers involved in fatal crashes]: tolls --[SPENT]-> on various roads 0.7758882641792297
+[drivers involved in fatal crashes]: drivers --[PAY]-> tolls 0.7472121715545654
+[drivers involved in fatal crashes]: tolls --[COLLECTED_BY]-> New Zealand Transport Agency 0.7995787262916565
+[drivers involved in fatal crashes]: road maintenance --[SUPPORTED_BY]-> tolls 0.7722769975662231
+[drivers involved in fatal crashes]: tolls --[USED_FOR]-> road maintenance 0.7623816132545471
+[drivers involved in fatal crashes]: maintenance --[FUNDED_BY]-> tolls 0.7708661556243896
+[drivers involved in fatal crashes]: drivers --[CONTRIBUTE]-> crash 0.8136579394340515
+[drivers involved in fatal crashes]: crash --[HAS_FACTOR]-> alcohol 0.7922440767288208
+[drivers involved in fatal crashes]: crash --[HAS_FACTOR]-> multiple factors 0.7905206680297852
+[drivers involved in fatal crashes]: crash --[HAS_FACTOR]-> drug 0.7924178838729858
+[drivers involved in fatal crashes]: crash --[HAS]-> multiple factors 0.8299075365066528
+[drivers involved in fatal crashes]: drivers --[IMPAIRED]-> drugs 0.7613821625709534
+[drivers involved in fatal crashes]: drugs --[ASSOCIATED_WITH]-> Bay of Plenty 0.738450825214386
+[drivers involved in fatal crashes]: road accident data --[ATTRIBUTED_TO]-> drugs 0.8215433359146118
+[drivers involved in fatal crashes]: contributing factor codes --[RELATING_TO]-> drugs 0.7406700849533081
+[drivers involved in fatal crashes]: drugs --[AFFECTS]-> road safety 0.774385929107666
+[drivers involved in fatal crashes]: drugs --[PRESENT]-> drivers 0.7596279382705688
+[drivers involved in fatal crashes]: drugs --[FREQUENCY]-> frequency 0.7332069873809814
+[drivers involved in fatal crashes]: drug test results --[IDENTIFY]-> drugs 0.7358871102333069
+[drivers involved in fatal crashes]: drugs --[SUSPECTED]-> impaired driving 0.7603917121887207
+[drivers involved in fatal crashes]: drivers --[INVOLVED_IN]-> fatal crashes 0.8419779539108276
+[drivers involved in fatal crashes]: fatal crashes --[RECORDED]-> CAS 0.8588717579841614
+[drivers involved in fatal crashes]: New Zealand Transport Agency --[RESPONDED]-> drivers 0.8020520210266113

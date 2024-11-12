@@ -1,0 +1,28 @@
+How many potential mobile phone use offenses were detected during the hidden texting camera trial?
+None
+Seed: criminal history
+Seed: Attempted Burglary
+Seed: no notifications of offences detected by speed cameras
+Seed: one infringement for failing to comply with the instructions given by a steady red-light signal
+[criminal history]: assault --[EXAMPLE_OF]-> criminal convictions 0.799781084060669
+[criminal history]: fit and proper person assessments --[FORM]-> criminal history 0.7980396747589111
+[criminal history]: criminal history --[PART_OF]-> fitness and propriety factors 0.7947542667388916
+[criminal history]: drugs --[SUSPECTED]-> impaired driving 0.7913228273391724
+[criminal history]: free text --[CONTAINS]-> drug related information 0.7907888293266296
+[criminal history]: criminal convictions --[ASSOCIATED_WITH]-> driver trainers or instructors 0.7903496623039246
+[criminal history]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.7902252674102783
+[Attempted Burglary]: Applicant 4 --[CONVICTED]-> Attempted Burglary 0.7914906144142151
+[no notifications of offences detected by speed cameras]: Resist Police --[COUNT]-> 2 0.8109118342399597
+[no notifications of offences detected by speed cameras]: Road Safety Campaigns --[USES]-> Social Media Platforms 0.8080756068229675
+[no notifications of offences detected by speed cameras]: Careless Use/Driving --[COUNT]-> 2 0.8040010929107666
+[no notifications of offences detected by speed cameras]: Road Safety Campaigns --[USES]-> Online Platforms 0.8027316331863403
+[no notifications of offences detected by speed cameras]: Road Safety Campaigns --[USES]-> Traditional Media 0.8020104169845581
+[no notifications of offences detected by speed cameras]: Occupancy Protection Risk --[EVIDENCED_BY]-> Publicly Available Information 0.801652193069458
+[no notifications of offences detected by speed cameras]: Unique App Users --[COUNT]-> 25,629 0.7986184358596802
+[one infringement for failing to comply with the instructions given by a steady red-light signal]: Resist Police --[COUNT]-> 2 0.8109118342399597
+[one infringement for failing to comply with the instructions given by a steady red-light signal]: Road Safety Campaigns --[USES]-> Social Media Platforms 0.8080756068229675
+[one infringement for failing to comply with the instructions given by a steady red-light signal]: Careless Use/Driving --[COUNT]-> 2 0.8040010929107666
+[one infringement for failing to comply with the instructions given by a steady red-light signal]: Road Safety Campaigns --[USES]-> Online Platforms 0.8027316331863403
+[one infringement for failing to comply with the instructions given by a steady red-light signal]: Road Safety Campaigns --[USES]-> Traditional Media 0.8020104169845581
+[one infringement for failing to comply with the instructions given by a steady red-light signal]: Occupancy Protection Risk --[EVIDENCED_BY]-> Publicly Available Information 0.801652193069458
+[one infringement for failing to comply with the instructions given by a steady red-light signal]: Unique App Users --[COUNT]-> 25,629 0.7986184358596802

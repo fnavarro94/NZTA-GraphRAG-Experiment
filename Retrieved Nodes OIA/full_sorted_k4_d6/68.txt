@@ -1,0 +1,34 @@
+How much has been spent on heavy vehicle certification reviews and inspections as of February 2020?
+None
+Seed: 7,162 Clean Car fees
+Seed: audits under s198 of the Land Transport Act
+Seed: Audits under s198 of the Land Transport Act
+Seed: paid toll revenues
+[7,162 Clean Car fees]: toll tariffs --[SPENT_ON]-> road maintenance 0.8474502563476562
+[7,162 Clean Car fees]: Vehicle Inspection Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8335992693901062
+[7,162 Clean Car fees]: tolls --[SPENT]-> on various roads 0.8334580063819885
+[7,162 Clean Car fees]: toll road --[COST]-> $45 million 0.8328066468238831
+[7,162 Clean Car fees]: New Zealand Transport Agency --[ASSOCIATED]-> Review of 850 open compliance files 0.8320945501327515
+[7,162 Clean Car fees]: toll road --[MAINTENANCE]-> $579,000 0.8306655287742615
+[7,162 Clean Car fees]: Road Safety Investment and Delivery Review --[AVAILABLE_ON]-> Ministry of Transport website 0.8293190002441406
+[audits under s198 of the Land Transport Act]: toll tariffs --[SPENT_ON]-> road maintenance 0.8474502563476562
+[audits under s198 of the Land Transport Act]: Vehicle Inspection Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8335992693901062
+[audits under s198 of the Land Transport Act]: tolls --[SPENT]-> on various roads 0.8334580063819885
+[audits under s198 of the Land Transport Act]: toll road --[COST]-> $45 million 0.8328066468238831
+[audits under s198 of the Land Transport Act]: New Zealand Transport Agency --[ASSOCIATED]-> Review of 850 open compliance files 0.8320945501327515
+[audits under s198 of the Land Transport Act]: toll road --[MAINTENANCE]-> $579,000 0.8306655287742615
+[audits under s198 of the Land Transport Act]: Road Safety Investment and Delivery Review --[AVAILABLE_ON]-> Ministry of Transport website 0.8293190002441406
+[Audits under s198 of the Land Transport Act]: toll tariffs --[SPENT_ON]-> road maintenance 0.8474502563476562
+[Audits under s198 of the Land Transport Act]: Vehicle Inspection Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8335992693901062
+[Audits under s198 of the Land Transport Act]: tolls --[SPENT]-> on various roads 0.8334580063819885
+[Audits under s198 of the Land Transport Act]: toll road --[COST]-> $45 million 0.8328066468238831
+[Audits under s198 of the Land Transport Act]: New Zealand Transport Agency --[ASSOCIATED]-> Review of 850 open compliance files 0.8320945501327515
+[Audits under s198 of the Land Transport Act]: toll road --[MAINTENANCE]-> $579,000 0.8306655287742615
+[Audits under s198 of the Land Transport Act]: Road Safety Investment and Delivery Review --[AVAILABLE_ON]-> Ministry of Transport website 0.8293190002441406
+[paid toll revenues]: toll tariffs --[SPENT_ON]-> road maintenance 0.8474502563476562
+[paid toll revenues]: Vehicle Inspection Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8335992693901062
+[paid toll revenues]: tolls --[SPENT]-> on various roads 0.8334580063819885
+[paid toll revenues]: New Zealand Transport Agency --[ASSOCIATED]-> Review of 850 open compliance files 0.8320945501327515
+[paid toll revenues]: Road Safety Investment and Delivery Review --[AVAILABLE_ON]-> Ministry of Transport website 0.8293190002441406
+[paid toll revenues]: road maintenance --[FUNDED_BY]-> toll tariffs 0.8291824460029602
+[paid toll revenues]: Vehicle Inspection --[Undertakes]-> Calculations 0.8267220258712769

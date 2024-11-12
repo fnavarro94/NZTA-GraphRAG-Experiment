@@ -1,0 +1,10 @@
+What body of water does the public transport system that connects the central business district of Auckland with various suburbs and islands operate across to connect the central business district with destinations like Devonport and Waiheke Island?
+None
+Seed: Central business district of auckland with destinations
+Seed: 21 kilometers south of auckland's central business district
+Seed: Hub for tourism and business travel
+Seed: Public transport in auckland
+[Central business district of auckland with destinations]: Auckland ferry network --[Connects]-> Central business district of auckland with destinations 0.9097281694412231
+[21 kilometers south of auckland's central business district]: Auckland airport --[Located]-> 21 kilometers south of auckland's central business district 0.8624376058578491
+[Hub for tourism and business travel]: Auckland airport --[Vital]-> Hub for tourism and business travel 0.8645349144935608
+[Public transport in auckland]: Auckland transport --[Manages]-> Public transport in auckland 0.858410120010376

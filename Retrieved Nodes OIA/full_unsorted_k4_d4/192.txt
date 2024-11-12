@@ -1,0 +1,36 @@
+Where can information about the successful applications to the Innovation Fund be found?
+None
+Seed: innovation-fund/innovation-fund-round-one-successful-applicants.pdf
+Seed: Innovation Fund
+Seed: Regional Investment Opportunities
+Seed: national fund
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: innovation-fund/innovation-fund-round-one-successful-applicants.pdf --[PROVIDES]-> successful applications 0.9087211489677429
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: successful applications --[LISTS]-> Hoe ki angitū – Innovation Fund 0.8917794227600098
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Hoe ki angitū – Innovation Fund --[FUNDED_BY]-> National Land Transport Fund 0.8315647840499878
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: National Land Transport Fund --[ADMINISTERED_BY]-> Waka Kotahi 0.7887466549873352
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Innovation Fund --[FUNDED_BY]-> National Land Transport Fund 0.8542628288269043
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Innovation Fund --[PART_OF]-> Hoe ki angitū – Innovation Fund 0.8462390899658203
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: $15 million --[FOR]-> Innovation Fund 0.8505209684371948
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: New Zealand Transport Agency --[PROVIDES]-> Innovation Fund 0.8404898047447205
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Hoe ki angitū – Innovation Fund --[APPROVED_BY]-> New Zealand Transport Agency 0.8150658011436462
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7595884799957275
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7661978006362915
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7653824090957642
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7508431673049927
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7479432821273804
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7627001404762268
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7702287435531616
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7740316390991211
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7658554911613464
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7741057276725769
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7557124495506287
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7813957929611206
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7797431945800781
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7762413620948792
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7657048106193542
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7747352123260498
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7483415603637695
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.757063090801239
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7844635844230652
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7363644242286682
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7749395370483398

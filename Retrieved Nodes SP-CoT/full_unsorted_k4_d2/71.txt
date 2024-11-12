@@ -1,0 +1,36 @@
+What is the capital city of New Zealand, which is connected to the city home to the Te Ara I Whiti (Lightpath) project, which has transformed underutilized spaces into vibrant cycling and pedestrian pathways, by the specific rail line in New Zealand that has been enhanced as part of the government's investment in upgrading rail infrastructure to support sustainable freight solutions?
+None
+Seed: Ongoing investments in rail infrastructure
+Seed: New zealand's transport network
+Seed: Addressing transport challenges in auckland
+Seed: Significant infrastructure project
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Ongoing investments in rail infrastructure 0.8649382591247559
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Public transport system 0.8498795628547668
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Pedestrian-friendly projects 0.8529870510101318
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Network of cycle lanes and shared paths 0.8447055220603943
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Bus network with extensive coverage 0.8136120438575745
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Rail network with several lines 0.866888165473938
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Growing population 0.8132790923118591
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Transport infrastructure 0.8704708814620972
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Public transport services 0.8479905128479004
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Rail network 0.874698281288147
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> International airport 0.8161473274230957
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Waterfront 0.8352419137954712
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Motorways 0.8324673771858215
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Traffic congestion 0.8255143165588379
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Southern motorway and northern motorway 0.8142538070678711
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Rideshare services 0.8286117315292358
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Focus on improving road infrastructure 0.8460617661476135
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Trains 0.8539388179779053
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> International and domestic flights 0.7972098588943481
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Significant transport hub 0.8595155477523804
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Ferries 0.8365384340286255
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Buses 0.8322861790657043
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Focus on expanding public transport networks 0.8407965898513794
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Transport projects 0.8755506277084351
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> City rail link 0.8798591494560242
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Seen significant improvements in its cycling network 0.8201942443847656
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Low-floor buses 0.8204345107078552
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Comprehensive public transport system 0.842386782169342
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Invested in modernizing public transport networks 0.8435173630714417
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Atap 0.8282104134559631

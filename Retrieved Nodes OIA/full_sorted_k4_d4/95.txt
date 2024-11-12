@@ -1,0 +1,29 @@
+What was the cost of the artwork component of the Mackenzie Basin Improvement Project?
+None
+Seed: request for pothole repair cost information
+Seed: funding requests
+Seed: itemised breakdown of all spending on public consultation for Golden Mile upgrades
+Seed: financial settlement of $190.6 million
+[request for pothole repair cost information]: request for pothole repair cost information --[SUBJECT_TO]-> sections 18A and 18B of the Act 0.8031024932861328
+[request for pothole repair cost information]: technical feasibility and cost --[FOR]-> proposed long tunnel option for Wellington 0.8027303218841553
+[request for pothole repair cost information]: Let's Get Wellington Moving --[HAS_COMPONENT]-> Strategic Highway Improvements 0.7993524074554443
+[request for pothole repair cost information]: Joel MacManus --[ITEMISED]-> itemised breakdown of all spending on public consultation for Golden Mile upgrades 0.7993409633636475
+[request for pothole repair cost information]: request --[SUBMITTED_BY]-> Georgina Campbell 0.7985644936561584
+[request for pothole repair cost information]: request for pothole repair cost information --[SUBJECT_TO]-> section 18(f) of the Act 0.7983831167221069
+[request for pothole repair cost information]: handback of works --[to]-> KiwiRail 0.7976499199867249
+[funding requests]: funding requests --[NEEDS]-> follow the standard cost scope adjustment process 0.7919644117355347
+[funding requests]: standard cost scope adjustment process --[APPLIES_TO]-> funding requests 0.7912728190422058
+[funding requests]: manage fare revenue and public transport budgets within current funding allocations --[REQUIRES]-> standard cost scope adjustment process 0.762819766998291
+[funding requests]: follow the standard cost scope adjustment process --[REQUIRES]-> no additional funding for fare reductions before the next NLTP in June 2021 0.7437082529067993
+[funding requests]: public transport budgets --[MANAGED_BY]-> councils 0.7381144762039185
+[funding requests]: no additional funding for fare reductions before the next NLTP in June 2021 --[APPLIES_TO]-> funding allocations 0.7348153591156006
+[funding requests]: councils --[MUST]-> manage fare revenue and public transport budgets within current funding allocations 0.7339963316917419
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[ITEMISED]-> itemised breakdown of all spending on public consultation for Golden Mile upgrades 0.7993409633636475
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Jo-Lines-MacKenzie --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7971017956733704
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Transport Gully --[FINANCED_BY]-> New Zealand Transport Agency 0.7954719662666321
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: New Zealand Transport Agency --[CONSIDERS]-> request for pothole repair cost information 0.7931645512580872
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Request for information on Hornby Intersection improvements --[REQUESTS]-> New Zealand Transport Agency 0.7916521430015564
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.7913882732391357
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Request made under the Official Information Act 1982 --[REQUESTS]-> detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) 0.7905648946762085
+[financial settlement of $190.6 million]: Joint Venture --[RECEIVED]-> financial settlement 0.7749224901199341
+[financial settlement of $190.6 million]: Joint Venture --[RECEIVED]-> financial settlement of $190.6 million 0.7681580781936646

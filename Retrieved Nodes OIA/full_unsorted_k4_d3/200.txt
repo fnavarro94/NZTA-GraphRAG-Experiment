@@ -1,0 +1,36 @@
+What was the Board's instruction regarding the number of direct reports for the Chief Executive in 2018?
+None
+Seed: Chief Financial Officer
+Seed: Chief Executive
+Seed: Annual Reports
+Seed: Annual Monitoring Report 2020
+[Chief Financial Officer]: Chief Financial Officer --[HELD_BY]-> Howard Cattermole 0.8007078170776367
+[Chief Financial Officer]: Howard Cattermole --[SIGNED]-> response letter 0.7548502683639526
+[Chief Financial Officer]: /Users/felipenavarro/Documents/Auckland/nzta/nzta_dev/NZTA-GraphRAG/transport_data/sample_files/nzta/temp_files/oia-14980-response-letter.pdf --[CONTAINS]-> response letter 0.7490699291229248
+[Chief Financial Officer]: response letter --[CONTAINS]-> Mark Kinvig 0.7539706826210022
+[Chief Financial Officer]: response letter --[CONTAINS]-> contact information 0.7520081996917725
+[Chief Financial Officer]: response letter --[CONTAINS]-> information 0.7564318180084229
+[Chief Financial Officer]: response letter --[CONTAINS]-> contact details for the Ombudsman 0.786003828048706
+[Chief Financial Officer]: response letter --[CONTAINS]-> Ombudsman contact details 0.7763563990592957
+[Chief Financial Officer]: response letter --[CONTAINS]-> sincerely 0.7235446572303772
+[Chief Financial Officer]: response letter --[CONTAINS]-> Yours sincerely 0.7238525152206421
+[Chief Financial Officer]: response letter --[CONTAINS]-> personal information 0.7525807619094849
+[Chief Financial Officer]: response letter --[CONTAINS]-> transactions 0.7542577981948853
+[Chief Financial Officer]: response letter --[CONTAINS]-> street lights information 0.7516713738441467
+[Chief Financial Officer]: response letter --[CONTAINS]-> page_label: 2 0.7409161329269409
+[Chief Financial Officer]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> response letter 0.7590309381484985
+[Chief Financial Officer]: oia-12201-response-letter.pdf --[ASSOCIATED_WITH]-> response letter 0.7302905917167664
+[Chief Financial Officer]: 2 --[ASSOCIATED_WITH]-> response letter 0.7235435843467712
+[Chief Financial Officer]: NZ Transport Agency Waka Kotahi --[ASSOCIATED_WITH]-> response letter 0.7575547695159912
+[Chief Financial Officer]: /Users/felipenavarro/Documents/Auckland/nzta/nzta_dev/NZTA-GraphRAG/transport_data/sample_files/nzta/temp_files/oia-14980-response-letter.pdf --[ASSOCIATED_WITH]-> response letter 0.7456498146057129
+[Chief Financial Officer]: response letter --[ASSOCIATED_WITH]-> NZ Transport Agency Waka Kotahi 0.7717838287353516
+[Chief Financial Officer]: response letter --[ASSOCIATED_WITH]-> 2 0.7274090051651001
+[Chief Financial Officer]: response letter --[ASSOCIATED_WITH]-> /Users/felipenavarro/Documents/Auckland/nzta/nzta_dev/NZTA-GraphRAG/transport_data/sample_files/nzta/temp_files/oia-14980-response-letter.pdf 0.7565447092056274
+[Chief Financial Officer]: response letter --[ASSOCIATED_WITH]-> OIA-12662 0.7570130825042725
+[Chief Financial Officer]: response letter --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.770179271697998
+[Chief Financial Officer]: response letter --[ASSOCIATED_WITH]-> page_label: 3 0.7391602396965027
+[Chief Financial Officer]: response letter --[ASSOCIATED_WITH]-> oia-12115-response-letter.pdf 0.7398748397827148
+[Chief Financial Officer]: response letter --[ASSOCIATED_WITH]-> NZTRANSPORT AGENCY 0.7516406178474426
+[Chief Financial Officer]: request --[RELATES_TO]-> response letter 0.7239653468132019
+[Chief Financial Officer]: New Zealand Transport Agency --[PROVIDES]-> response letter 0.7627480626106262
+[Chief Financial Officer]: Waka Kotahi --[PROVIDES]-> response letter 0.7586265802383423

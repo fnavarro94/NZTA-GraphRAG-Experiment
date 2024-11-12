@@ -1,0 +1,36 @@
+How does NZTA handle conflicts of interest when investigating contractors?
+None
+Seed: conflicts of interest by senior staff
+Seed: Conflict of interest
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: conflict of interest
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[NOTIFIES]-> conflicts of interest by senior staff 0.87937992811203
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8061963319778442
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[BASED]-> Wellington 0.8018321394920349
+[conflicts of interest by senior staff]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7712061405181885
+[conflicts of interest by senior staff]: Golden Mile --[LOCATED]-> Wellington 0.7389621138572693
+[conflicts of interest by senior staff]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7573492527008057
+[conflicts of interest by senior staff]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7721108198165894
+[conflicts of interest by senior staff]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.745342493057251
+[conflicts of interest by senior staff]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7610836625099182
+[conflicts of interest by senior staff]: Wellington --[PART_OF]-> Wellington Region 0.7818162441253662
+[conflicts of interest by senior staff]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7999775409698486
+[conflicts of interest by senior staff]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7787257432937622
+[conflicts of interest by senior staff]: Wellington --[HAS]-> tunnel 0.7817057967185974
+[conflicts of interest by senior staff]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7702029943466187
+[conflicts of interest by senior staff]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7695578336715698
+[conflicts of interest by senior staff]: Wellington --[POSTCODE]-> 6141 0.7345088720321655
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7961682081222534
+[conflicts of interest by senior staff]: Wellington --[IS_PART_OF]-> New Zealand 0.7775775194168091
+[conflicts of interest by senior staff]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7795048356056213
+[conflicts of interest by senior staff]: 50 Victoria Street --[IN]-> Wellington 0.7443256378173828
+[conflicts of interest by senior staff]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7718002200126648
+[conflicts of interest by senior staff]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7601861357688904
+[conflicts of interest by senior staff]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7717031240463257
+[conflicts of interest by senior staff]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7725248336791992
+[conflicts of interest by senior staff]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7653293013572693
+[conflicts of interest by senior staff]: NZ Transport Agency --[LOCATED]-> Wellington 0.8014659881591797
+[conflicts of interest by senior staff]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7544018030166626
+[conflicts of interest by senior staff]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7457379698753357
+[conflicts of interest by senior staff]: New Zealand --[CONTAINS]-> Wellington 0.7717207670211792
+[conflicts of interest by senior staff]: Wellington --[PART_OF]-> New Zealand 0.7804328799247742

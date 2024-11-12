@@ -1,0 +1,34 @@
+What entity is responsible for identifying and mapping walking access routes under the legislation that aims to enhance the safety and accessibility of walking routes for pedestrians?
+None
+Seed: Legislative framework for road safety initiatives
+Seed: Developing pedestrian crossings
+Seed: Framework for implementing road safety campaigns and initiatives
+Seed: Advocacy groups
+[Legislative framework for road safety initiatives]: Walking access act --[Promotes]-> Sustainable transport options 0.8654268383979797
+[Legislative framework for road safety initiatives]: Land transport management act 2003 --[Supports]-> Transport accessibility 0.8589614629745483
+[Legislative framework for road safety initiatives]: Road design guidelines --[Promote]-> Accessibility and inclusivity 0.8499302864074707
+[Legislative framework for road safety initiatives]: Road design guidelines --[Encompass]-> Road safety 0.8484141230583191
+[Legislative framework for road safety initiatives]: Road safety authority --[Responsible for]-> Promoting road safety 0.8466485738754272
+[Legislative framework for road safety initiatives]: Road safety legislation --[Governed by]-> Land transport act 1998 0.8426333069801331
+[Legislative framework for road safety initiatives]: Road design guidelines --[Encompass]-> Traffic control devices 0.8426151275634766
+[Developing pedestrian crossings]: Walking access act --[Is]-> Significant piece of legislation 0.885195255279541
+[Developing pedestrian crossings]: Walking access act --[Aims to enhance]-> Public access to the outdoors 0.8659092783927917
+[Developing pedestrian crossings]: Walking access act --[Promotes]-> Sustainable transport options 0.8654268383979797
+[Developing pedestrian crossings]: Land transport management act 2003 --[Supports]-> Transport accessibility 0.8589614629745483
+[Developing pedestrian crossings]: Road safety education --[Covers]-> Pedestrian safety 0.8585247993469238
+[Developing pedestrian crossings]: Walking access act --[Established]-> New zealand walking access commission 0.8534919023513794
+[Developing pedestrian crossings]: Road design guidelines --[Promote]-> Accessibility and inclusivity 0.8499302864074707
+[Framework for implementing road safety campaigns and initiatives]: Land transport management act 2003 --[Supports]-> Transport accessibility 0.8589614629745483
+[Framework for implementing road safety campaigns and initiatives]: Land transport act --[Provides]-> Framework for implementing road safety campaigns and initiatives 0.8417495489120483
+[Framework for implementing road safety campaigns and initiatives]: Road safety legislation --[Is]-> New zealand 0.8355472087860107
+[Framework for implementing road safety campaigns and initiatives]: Rail transport safety --[Governed by]-> Health and safety at work act 2015 0.8336143493652344
+[Framework for implementing road safety campaigns and initiatives]: Health and safety at work act 2015 --[Applies to]-> Road transport 0.8268569707870483
+[Framework for implementing road safety campaigns and initiatives]: New zealand --[Has]-> Road safety initiatives 0.8265130519866943
+[Framework for implementing road safety campaigns and initiatives]: Land transport act --[Aims to create]-> Comprehensive framework for safe and efficient movement of people and goods 0.8230206966400146
+[Advocacy groups]: Walking access act --[Promotes]-> Sustainable transport options 0.8654268383979797
+[Advocacy groups]: Land transport management act 2003 --[Supports]-> Transport accessibility 0.8589614629745483
+[Advocacy groups]: Road design guidelines --[Promote]-> Accessibility and inclusivity 0.8499302864074707
+[Advocacy groups]: Road design guidelines --[Encompass]-> Road safety 0.8484141230583191
+[Advocacy groups]: Transport risk assessment --[Encompasses]-> Road 0.8469611406326294
+[Advocacy groups]: Hamilton --[Focus of]-> Development of pedestrian pathways 0.8467315435409546
+[Advocacy groups]: Road safety authority --[Responsible for]-> Promoting road safety 0.8466485738754272

@@ -1,0 +1,10 @@
+What region does the Northern Motorway from the country where an initiative aiming to achieve a significant reduction in road deaths and serious injuries by promoting a "Safe System" approach to road safety is implemented to reduce road traffic injuries and fatalities provide access to?
+None
+Seed: Crucial role in promoting road safety
+Seed: Significant shift in new zealand's approach to road safety
+Seed: Commitment to reducing road traffic injuries and fatalities
+Seed: Achieve significant reduction in road deaths and serious injuries
+[Crucial role in promoting road safety]: Education and awareness programs --[Play]-> Crucial role in promoting road safety 0.8559138774871826
+[Significant shift in new zealand's approach to road safety]: Safer journeys strategy --[Marked]-> Significant shift in new zealand's approach to road safety 0.8583922982215881
+[Commitment to reducing road traffic injuries and fatalities]: New zealand --[Has]-> Commitment to reducing road traffic injuries and fatalities 0.8596739768981934
+[Achieve significant reduction in road deaths and serious injuries]: Road safety strategy --[Aims]-> Achieve significant reduction in road deaths and serious injuries 0.8918066024780273

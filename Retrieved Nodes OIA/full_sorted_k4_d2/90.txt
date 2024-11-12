@@ -1,0 +1,28 @@
+How does Waka Kotahi prioritize road renewal and resurfacing beyond design life?
+None
+Seed: Waka Kotahi Senior Project Manager
+Seed: Waka Kotahi N Z Transport Agency
+Seed: Waka Kotahi policy
+Seed: Waka Kotahi NZ Transport Agency
+[Waka Kotahi Senior Project Manager]: Waka Kotahi Senior Project Manager --[MANAGES]-> State Highway 25A Rebuild Project 0.8687067627906799
+[Waka Kotahi N Z Transport Agency]: Data --[PROVIDED]-> Waka Kotahi N Z Transport Agency 0.8461179733276367
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.8433426022529602
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINS]-> Waka Kotahi N Z Transport Agency 0.8340190649032593
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.8339090347290039
+[Waka Kotahi N Z Transport Agency]: New Zealand Transport Agency Waka Kotahi --[MAINTAINS]-> Crash Analysis System 0.8330623507499695
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MANAGED_BY]-> New Zealand Transport Agency 0.7773945331573486
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[UPDATED]-> Traffic Crash Report 0.7692983746528625
+[Waka Kotahi policy]: Waka Kotahi --[WORKING_WITH]-> development of the next Road to Zero Action Plan 0.8909357190132141
+[Waka Kotahi policy]: Waka Kotahi --[SUPPORTS]-> Road to Zero strategy 0.8880118727684021
+[Waka Kotahi policy]: Regional Public Transport Plans --[DEVELOPED_BY]-> Waka Kotahi 0.8873778581619263
+[Waka Kotahi policy]: Waka Kotahi --[AIMS]-> create a sustainable future 0.88686203956604
+[Waka Kotahi policy]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.8865256309509277
+[Waka Kotahi policy]: transport infrastructure --[SERVED_BY]-> Waka Kotahi 0.8831841349601746
+[Waka Kotahi policy]: Waka Kotahi --[AIMS]-> increase sustainability 0.8809395432472229
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[MANAGES]-> road maintenance 0.8784803748130798
+[Waka Kotahi NZ Transport Agency]: New Zealand Transport Agency --[POLICY]-> Waka Kotahi policy 0.8762567639350891
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[FOLLOWS]-> Waka Kotahi policy 0.8681348562240601
+[Waka Kotahi NZ Transport Agency]: Road to Zero --[IS_IMPLEMENTED_BY]-> Waka Kotahi 0.8665504455566406
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[APPROVES]-> funding for road maintenance 0.8647933602333069
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi policy --[PUBLISHED]-> website 0.8629480600357056
+[Waka Kotahi NZ Transport Agency]: Road to Zero --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8622374534606934

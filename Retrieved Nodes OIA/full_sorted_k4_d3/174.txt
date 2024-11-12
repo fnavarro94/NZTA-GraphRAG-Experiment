@@ -1,0 +1,28 @@
+How is Waka Kotahi addressing the delays in the Transmission Gully project due to COVID-19?
+None
+Seed: Waka Kotahi N Z Transport Agency
+Seed: NZ Transport Agency Waka Kotahi
+Seed: Waka Kotahi NZ Transport Agency
+Seed: Waka Kotahi Senior Project Manager
+[Waka Kotahi N Z Transport Agency]: New Zealand Transport Agency --[POLICY]-> Waka Kotahi policy 0.8676119446754456
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.8660276532173157
+[Waka Kotahi N Z Transport Agency]: New Zealand Transport Agency --[ASSOCIATED]-> Waka Kotahi 0.8653667569160461
+[Waka Kotahi N Z Transport Agency]: New Zealand Transport Agency --[DISCUSS]-> Waka Kotahi 0.864648699760437
+[Waka Kotahi N Z Transport Agency]: NZ Transport Agency Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8642706871032715
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8627418875694275
+[Waka Kotahi N Z Transport Agency]: Robyn Elston --[RESPONDS]-> Waka Kotahi NZ Transport Agency 0.8617425560951233
+[NZ Transport Agency Waka Kotahi]: Waka Kotahi --[INFORMS]-> affected area 0.883439302444458
+[NZ Transport Agency Waka Kotahi]: Waka Kotahi --[WORKING_WITH]-> development of the next Road to Zero Action Plan 0.8736025094985962
+[NZ Transport Agency Waka Kotahi]: transport infrastructure --[SERVED_BY]-> Waka Kotahi 0.8729739189147949
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[BASED_ON]-> investigations, construction findings, on-site progress, design updates, design assumptions 0.8716537952423096
+[NZ Transport Agency Waka Kotahi]: National Land Transport Fund --[ADMINISTERED_BY]-> Waka Kotahi 0.8696495890617371
+[NZ Transport Agency Waka Kotahi]: Waka Kotahi --[PROVIDES]-> updates on progress 0.8690427541732788
+[NZ Transport Agency Waka Kotahi]: Waka Kotahi --[CONTACT]-> Ministerial Services team 0.8686618804931641
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[INFORMS]-> affected area 0.883439302444458
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[WORKING_WITH]-> development of the next Road to Zero Action Plan 0.8736025094985962
+[Waka Kotahi NZ Transport Agency]: transport infrastructure --[SERVED_BY]-> Waka Kotahi 0.8729739189147949
+[Waka Kotahi NZ Transport Agency]: National Land Transport Fund --[ADMINISTERED_BY]-> Waka Kotahi 0.8696495890617371
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[PROVIDES]-> updates on progress 0.8690427541732788
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[CONTACT]-> Ministerial Services team 0.8686618804931641
+[Waka Kotahi NZ Transport Agency]: Ministerial Services team --[DISCUSS]-> Waka Kotahi 0.868202805519104
+[Waka Kotahi Senior Project Manager]: Waka Kotahi Senior Project Manager --[MANAGES]-> State Highway 25A Rebuild Project 0.8435410261154175

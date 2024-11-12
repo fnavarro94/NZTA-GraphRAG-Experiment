@@ -1,0 +1,23 @@
+What nickname is associated with Christchurch, a key transport hub in the island where the scenic passenger rail service in New Zealand, known for showcasing stunning landscapes, particularly through the Southern Alps, is located, in contrast to the cities in New Zealand implementing extensive cycling networks and pedestrian-friendly infrastructure to address traffic congestion?
+None
+Seed: Critical link between southern suburbs and central business district
+Seed: New zealand's transport network
+Seed: Scenic routes such as the tranzalpine and the northern explorer
+Seed: Cities like christchurch
+[Critical link between southern suburbs and central business district]: Christchurch --[Is]-> Transport hub 0.8950846791267395
+[Critical link between southern suburbs and central business district]: Christchurch --[Has]-> Public transport 0.8738735914230347
+[Critical link between southern suburbs and central business district]: Christchurch --[Has]-> Comprehensive public transport networks 0.8729739189147949
+[Critical link between southern suburbs and central business district]: Christchurch --[Has]-> Public transport system 0.8693053722381592
+[Critical link between southern suburbs and central business district]: Christchurch --[Has]-> Buses 0.8667745590209961
+[Critical link between southern suburbs and central business district]: Christchurch --[Served by]-> Kiwirail 0.8635108470916748
+[Critical link between southern suburbs and central business district]: Christchurch --[Is]-> Largest city in south island 0.8626824617385864
+[New zealand's transport network]: Road infrastructure projects --[Play crucial role in]-> New zealand's transport network 0.827688455581665
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Showcase]-> New zealand's stunning landscapes 0.8763473629951477
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Include]-> Scenic routes such as the tranzalpine and the northern explorer 0.7962424755096436
+[Cities like christchurch]: Christchurch --[Has]-> Public transport 0.8738735914230347
+[Cities like christchurch]: Christchurch --[Has]-> Buses 0.8667745590209961
+[Cities like christchurch]: New zealand --[Includes]-> Scenic routes 0.8599006533622742
+[Cities like christchurch]: New zealand --[Has]-> Rail transport 0.8596125841140747
+[Cities like christchurch]: Auckland --[Is]-> Major transport hub 0.8582039475440979
+[Cities like christchurch]: Auckland --[Has]-> Significant transport hub 0.8579416871070862
+[Cities like christchurch]: New zealand --[Has]-> Diverse transport network 0.8560517430305481

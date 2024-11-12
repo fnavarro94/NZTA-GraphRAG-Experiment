@@ -1,0 +1,29 @@
+Were any complaints about vehicle certifications upheld, and what actions were taken?
+None
+Seed: information on vehicle and driver registration and licensing
+Seed: vehicle registration and licensing
+Seed: 196 complaints about Uber drivers
+Seed: instances where a driver and/or passenger may automatically be excused from the requirement to utilise a child restrain and seatbelt
+[information on vehicle and driver registration and licensing]: questions and responses --[FROM]-> NZ Transport Agency 0.8586647510528564
+[information on vehicle and driver registration and licensing]: HVSCs --[QUESTION]-> Transport Agency decisions 0.8569113612174988
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[RESPONSIBLE_FOR]-> Vehicle Standard 0.8545479774475098
+[information on vehicle and driver registration and licensing]: Waka Kotahi --[REFUSES_REQUEST]-> vehicle registration and licensing 0.851997971534729
+[information on vehicle and driver registration and licensing]: Transport Agency --[REVOKE]-> LT400 certification 0.8517850041389465
+[information on vehicle and driver registration and licensing]: Transport Agency --[PUBLISHES]-> response to this request on our website 0.8478366732597351
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[RESPONDED]-> complaint 0.8471698760986328
+[vehicle registration and licensing]: questions and responses --[FROM]-> NZ Transport Agency 0.8586647510528564
+[vehicle registration and licensing]: HVSCs --[QUESTION]-> Transport Agency decisions 0.8569113612174988
+[vehicle registration and licensing]: New Zealand Transport Agency --[RESPONSIBLE_FOR]-> Vehicle Standard 0.8545479774475098
+[vehicle registration and licensing]: Waka Kotahi --[REFUSES_REQUEST]-> vehicle registration and licensing 0.851997971534729
+[vehicle registration and licensing]: Transport Agency --[REVOKE]-> LT400 certification 0.8517850041389465
+[vehicle registration and licensing]: Transport Agency --[PUBLISHES]-> response to this request on our website 0.8478366732597351
+[vehicle registration and licensing]: New Zealand Transport Agency --[RESPONDED]-> complaint 0.8471698760986328
+[196 complaints about Uber drivers]: questions and responses --[FROM]-> NZ Transport Agency 0.8586647510528564
+[196 complaints about Uber drivers]: HVSCs --[QUESTION]-> Transport Agency decisions 0.8569113612174988
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[RESPONSIBLE_FOR]-> Vehicle Standard 0.8545479774475098
+[196 complaints about Uber drivers]: Waka Kotahi --[REFUSES_REQUEST]-> vehicle registration and licensing 0.851997971534729
+[196 complaints about Uber drivers]: Transport Agency --[REVOKE]-> LT400 certification 0.8517850041389465
+[196 complaints about Uber drivers]: Transport Agency --[PUBLISHES]-> response to this request on our website 0.8478366732597351
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[RESPONDED]-> complaint 0.8471698760986328
+[instances where a driver and/or passenger may automatically be excused from the requirement to utilise a child restrain and seatbelt]: Land Transport (Road User) Rule 2004 --[SPECIFIES]-> instances where a driver and/or passenger may automatically be excused from the requirement to utilise a child restrain and seatbelt 0.8005300760269165
+[instances where a driver and/or passenger may automatically be excused from the requirement to utilise a child restrain and seatbelt]: Land Transport (Road User) Rule 2004 --[ALLOWS]-> an adherent of the Sikh religion to be excused from wearing a motorcycle helmet, providing they will not be travelling at a speed exceeding 50kmph 0.7765862345695496

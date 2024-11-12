@@ -1,0 +1,34 @@
+What body of water encircles the geological region located in the country where a method involving the use of advanced sensors and cameras to gather real-time data on road conditions significantly enhances the efficiency and accuracy of transport data acquisition processes, making it susceptible to natural disasters such as earthquakes, volcanic eruptions, and tsunamis?
+None
+Seed: Natural hazards
+Seed: Regions prone to wet conditions
+Seed: Volcanic activity
+Seed: Heavily on road transport for trade and tourism
+[Natural hazards]: New zealand --[Is vulnerable to]-> Volcanic activity 0.8523914217948914
+[Natural hazards]: Road condition monitoring --[Is]-> Critical aspect of transport management in new zealand 0.8477939367294312
+[Natural hazards]: New zealand --[Is vulnerable to]-> Natural hazards 0.8477253317832947
+[Natural hazards]: Road condition monitoring --[Involves]-> Systematic collection and analysis of data related to the physical state of roadways 0.8471810817718506
+[Natural hazards]: New zealand --[Susceptible to]-> Natural hazards 0.8462419509887695
+[Natural hazards]: Road condition monitoring --[Is]-> Vital for several reasons 0.842686116695404
+[Natural hazards]: Road condition monitoring --[Employs]-> Variety of technologies and methodologies 0.8409382104873657
+[Regions prone to wet conditions]: New zealand --[Is vulnerable to]-> Volcanic activity 0.8523914217948914
+[Regions prone to wet conditions]: Road condition monitoring --[Is]-> Critical aspect of transport management in new zealand 0.8477939367294312
+[Regions prone to wet conditions]: New zealand --[Is vulnerable to]-> Natural hazards 0.8477253317832947
+[Regions prone to wet conditions]: Road condition monitoring --[Involves]-> Systematic collection and analysis of data related to the physical state of roadways 0.8471810817718506
+[Regions prone to wet conditions]: New zealand --[Susceptible to]-> Natural hazards 0.8462419509887695
+[Regions prone to wet conditions]: Road condition monitoring --[Is]-> Vital for several reasons 0.842686116695404
+[Regions prone to wet conditions]: Road condition monitoring --[Employs]-> Variety of technologies and methodologies 0.8409382104873657
+[Volcanic activity]: New zealand --[Is vulnerable to]-> Volcanic activity 0.8523914217948914
+[Volcanic activity]: Road condition monitoring --[Is]-> Critical aspect of transport management in new zealand 0.8477939367294312
+[Volcanic activity]: New zealand --[Is vulnerable to]-> Natural hazards 0.8477253317832947
+[Volcanic activity]: Road condition monitoring --[Involves]-> Systematic collection and analysis of data related to the physical state of roadways 0.8471810817718506
+[Volcanic activity]: New zealand --[Susceptible to]-> Natural hazards 0.8462419509887695
+[Volcanic activity]: Road condition monitoring --[Is]-> Vital for several reasons 0.842686116695404
+[Volcanic activity]: Road condition monitoring --[Employs]-> Variety of technologies and methodologies 0.8409382104873657
+[Heavily on road transport for trade and tourism]: New zealand --[Is vulnerable to]-> Volcanic activity 0.8523914217948914
+[Heavily on road transport for trade and tourism]: Road condition monitoring --[Is]-> Critical aspect of transport management in new zealand 0.8477939367294312
+[Heavily on road transport for trade and tourism]: New zealand --[Is vulnerable to]-> Natural hazards 0.8477253317832947
+[Heavily on road transport for trade and tourism]: Road condition monitoring --[Involves]-> Systematic collection and analysis of data related to the physical state of roadways 0.8471810817718506
+[Heavily on road transport for trade and tourism]: New zealand --[Susceptible to]-> Natural hazards 0.8462419509887695
+[Heavily on road transport for trade and tourism]: Road condition monitoring --[Is]-> Vital for several reasons 0.842686116695404
+[Heavily on road transport for trade and tourism]: Road condition monitoring --[Employs]-> Variety of technologies and methodologies 0.8409382104873657

@@ -1,0 +1,36 @@
+Why will it take until 2041 to fully recover the costs of the Tākitimu Drive Toll Road?
+None
+Seed: Takitimu Drive Toll Road
+Seed: transaction costs won’t be recovered until 2041
+Seed: information on tolls and road maintenance
+Seed: 2023-24 State Highway Investment Proposal
+[Takitimu Drive Toll Road]: Takitimu Drive Toll Road --[PROVIDES]-> Toll Revenue 0.8785049915313721
+[Takitimu Drive Toll Road]: Tauranga Eastern Link Toll Road --[PROVIDES]-> Toll Revenue 0.8250727653503418
+[Takitimu Drive Toll Road]: Northern Gateway Toll Road --[PROVIDES]-> Toll Revenue 0.8073102235794067
+[Takitimu Drive Toll Road]: Northern Gateway Toll Road --[DEBT_REPAYMENT]-> 35 years 0.8416087031364441
+[Takitimu Drive Toll Road]: Northern Gateway Toll Road --[ESTIMATED_END_DATE]-> 2045 0.8710928559303284
+[transaction costs won’t be recovered until 2041]: NZTA --[PREDICTS]-> transaction costs won’t be recovered until 2041 0.8673965930938721
+[transaction costs won’t be recovered until 2041]: NZTA --[SETS]-> quality standards 0.7035126686096191
+[transaction costs won’t be recovered until 2041]: quality standards --[THROUGH]-> Maintenance Management Plan 0.7441526055335999
+[transaction costs won’t be recovered until 2041]: Maintenance Management Plan --[REPORT]-> quarterly reports 0.7584216594696045
+[transaction costs won’t be recovered until 2041]: quarterly reports --[AUDITED]-> NZTA 0.7530715465545654
+[transaction costs won’t be recovered until 2041]: NZTA --[PROVIDES]-> maintenance specifications 0.7443346381187439
+[transaction costs won’t be recovered until 2041]: pothole repair specifications --[FROM]-> NZTA 0.7549789547920227
+[transaction costs won’t be recovered until 2041]: NZTA --[PROVIDES]-> third-party web pages 0.7184553146362305
+[transaction costs won’t be recovered until 2041]: transport_data --[ASSOCIATED_WITH]-> NZTA 0.7337690591812134
+[transaction costs won’t be recovered until 2041]: NZTA --[ASSOCIATED_WITH]-> nzta_dev 0.689628541469574
+[transaction costs won’t be recovered until 2041]: temp files --[ASSOCIATED_WITH]-> NZTA 0.7166500091552734
+[transaction costs won’t be recovered until 2041]: Auckland --[ASSOCIATED_WITH]-> NZTA 0.7254972457885742
+[transaction costs won’t be recovered until 2041]: temp_files --[ASSOCIATED_WITH]-> NZTA 0.7202156782150269
+[transaction costs won’t be recovered until 2041]: NZTA --[ASSOCIATED_WITH]-> sample_files 0.6920080184936523
+[transaction costs won’t be recovered until 2041]: increase/decrease --[AWARE_OF]-> NZTA 0.7123638391494751
+[transaction costs won’t be recovered until 2041]: sample_files --[ASSOCIATED_WITH]-> NZTA 0.6962786316871643
+[transaction costs won’t be recovered until 2041]: NZTA --[ASSOCIATED_WITH]-> Andrew McFarlane 0.7079129815101624
+[transaction costs won’t be recovered until 2041]: NZTA --[ASSOCIATED_WITH]-> temp files 0.7096012234687805
+[transaction costs won’t be recovered until 2041]: oia-4903 --[ASSOCIATED_WITH]-> NZTA 0.7276126742362976
+[transaction costs won’t be recovered until 2041]: NZTA --[ASSOCIATED_WITH]-> temp_files 0.7159640192985535
+[transaction costs won’t be recovered until 2041]: nzta_dev --[ASSOCIATED_WITH]-> NZTA 0.6853396892547607
+[transaction costs won’t be recovered until 2041]: NZTA --[ASSOCIATED_WITH]-> Auckland 0.7218739986419678
+[transaction costs won’t be recovered until 2041]: NZTA --[ASSOCIATED_WITH]-> oia-4903 0.7249405384063721
+[transaction costs won’t be recovered until 2041]: Andrew McFarlane --[ASSOCIATED_WITH]-> NZTA 0.7015160918235779
+[transaction costs won’t be recovered until 2041]: NZTA --[CONSIDER]-> public interest 0.7567987442016602

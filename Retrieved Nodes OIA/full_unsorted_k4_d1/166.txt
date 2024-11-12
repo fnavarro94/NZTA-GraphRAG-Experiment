@@ -1,0 +1,13 @@
+What are the main considerations for regional fare policies according to Waka Kotahi?
+None
+Seed: wider impacts of fare policy on people and cities
+Seed: review of public transport fare policy
+Seed: fare policy guidance
+Seed: fares play an important role in helping cover the cost of public transport within available budgets
+[wider impacts of fare policy on people and cities]: wider impacts of fare policy on people and cities --[INCLUCES]-> national farebox recovery target 0.844484806060791
+[wider impacts of fare policy on people and cities]: public transport affordability --[RELATES_TO]-> wider impacts of fare policy on people and cities 0.8432769179344177
+[review of public transport fare policy]: New Zealand Transport Agency --[UNDERTAKES]-> review of public transport fare policy 0.8370202779769897
+[fare policy guidance]: Waka Kotahi --[UPDATE]-> fare policy guidance 0.9201019406318665
+[fare policy guidance]: fare policy guidance --[CONTRIBUTES]-> achieving mode shift 0.8536269068717957
+[fares play an important role in helping cover the cost of public transport within available budgets]: government's transport priorities --[INCLUDES]-> fares play an important role in helping cover the cost of public transport within available budgets 0.8362239003181458
+[fares play an important role in helping cover the cost of public transport within available budgets]: fares play an important role in helping cover the cost of public transport within available budgets --[CONTRIBUTES]-> public transport budgets 0.8408769965171814

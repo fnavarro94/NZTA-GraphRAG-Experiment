@@ -1,0 +1,36 @@
+How many road and street signs were stolen or vandalized in Hamilton over the last three years?
+None
+Seed: road/street signs
+Seed: one crossing near Daniell Street
+Seed: Theft Ex Car (Over $100)
+Seed: one crossing near SH2/Lyon Street/Birdwood Street intersection
+[road/street signs]: road/street signs --[VANDALISED]-> last three years 0.901990532875061
+[road/street signs]: street name signs --[STOLEN]-> last three years 0.8956465125083923
+[road/street signs]: others --[STOLEN]-> last three years 0.8566558957099915
+[road/street signs]: road/street signs --[STOLEN]-> last three years 0.918391227722168
+[road/street signs]: others --[VANDALISED]-> last three years 0.8568940162658691
+[road/street signs]: street name signs --[VANDALISED]-> last three years 0.8899542093276978
+[one crossing near Daniell Street]: Featherston --[RAISED_CROSSINGS]-> one crossing near Daniell Street 0.7939562201499939
+[one crossing near Daniell Street]: Featherston --[RAISED_CROSSINGS]-> staged way over time 0.7594492435455322
+[one crossing near Daniell Street]: Featherston --[RANKING]-> not in the top 200 high risk intersections 0.7659838199615479
+[one crossing near Daniell Street]: Featherston --[RAISED_CROSSINGS]-> five 0.759194016456604
+[one crossing near Daniell Street]: Featherston --[RAISED_CROSSINGS]-> one crossing near SH2/Lyon Street/Birdwood Street intersection 0.7846695780754089
+[one crossing near Daniell Street]: Featherston --[PART_OF]-> New Zealand 0.7619412541389465
+[one crossing near Daniell Street]: intersection of SH2 and SH53 --[LOCATED_IN]-> Featherston 0.7276524305343628
+[one crossing near Daniell Street]: Featherston --[HAS_SPEED_LIMIT]-> 40km/h 0.7397717237472534
+[one crossing near Daniell Street]: Featherston --[RAISED_CROSSINGS]-> two new crossings 0.7762131690979004
+[one crossing near Daniell Street]: Featherston --[RAISED_CROSSINGS]-> SH2 and SH53 0.7195427417755127
+[one crossing near Daniell Street]: Featherston --[RAISED_CROSSINGS]-> no other intersection safety improvements planned 0.7606929540634155
+[one crossing near Daniell Street]: Featherston --[RAISED_CROSSINGS]-> three improvements to existing crossings 0.7785898447036743
+[one crossing near Daniell Street]: Featherston --[RAISED_CROSSINGS]-> this year 0.7874636650085449
+[one crossing near Daniell Street]: Featherston --[CONSULTATION]-> August and September 2021 0.7404069900512695
+[Theft Ex Car (Over $100)]: Theft Ex Car (Over $100) --[COUNT]-> 1 0.8232280611991882
+[Theft Ex Car (Over $100)]: Other Burglary (Other Property) --[COUNT]-> 1 0.795778214931488
+[Theft Ex Car (Over $100)]: Consume/Smoke/Use Cannabis Plant --[COUNT]-> 1 0.7432644963264465
+[Theft Ex Car (Over $100)]: Possession Pipe Under Mod Act --[COUNT]-> 1 0.7705467343330383
+[Theft Ex Car (Over $100)]: Obtain By Cheque ($100) By F Pret --[COUNT]-> 1 0.719516932964325
+[Theft Ex Car (Over $100)]: Possess Class (B) Controlled Drug --[COUNT]-> 1 0.7459721565246582
+[Theft Ex Car (Over $100)]: Unlawfully In Building --[COUNT]-> 1 0.7662947177886963
+[Theft Ex Car (Over $100)]: Unlaw Carry Imitation Firearm --[COUNT]-> 1 0.7726109623908997
+[Theft Ex Car (Over $100)]: Use Document --[COUNT]-> 1 0.7313116192817688
+[Theft Ex Car (Over $100)]: Minor Found In Bar --[COUNT]-> 1 0.7350682020187378

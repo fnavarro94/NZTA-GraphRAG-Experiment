@@ -1,0 +1,17 @@
+Under which sections of the Official Information Act was certain information withheld in the OIA-15599 response?
+None
+Seed: Some information has been withheld under section 9(2)(f)(iv)
+Seed: Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)
+Seed: Request made under the Official Information Act 1982
+Seed: section 9(2)(j) of the Act
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[IS]-> Some information has been withheld under section 9(2)(f)(iv) 0.843669056892395
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[IS]-> Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv) 0.8366753458976746
+[Request made under the Official Information Act 1982]: REF: OIA -13915 --[ASSOCIATED_WITH]-> Request made under the Official Information Act 1982 0.8864210247993469
+[Request made under the Official Information Act 1982]: Request made under the Official Information Act 1982 --[ASSOCIATED_WITH]-> information under the Official Information Act 1982 0.8689075708389282
+[Request made under the Official Information Act 1982]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.8678512573242188
+[Request made under the Official Information Act 1982]: Dear --[OFFICIAL_INFORMATION]-> Request made under the Official Information Act 1982 0.8628548383712769
+[Request made under the Official Information Act 1982]: Request made under the Official Information Act 1982 --[REQUESTED]-> information under the Official Information Act 1982 0.858259916305542
+[Request made under the Official Information Act 1982]: New Zealand Transport Agency --[RESPONDS_TO]-> Request made under the Official Information Act 1982 0.8538910150527954
+[Request made under the Official Information Act 1982]: New Zealand Transport Agency --[RESPONDS]-> Request made under the Official Information Act 1982 0.8506203889846802
+[section 9(2)(j) of the Act]: section 9(2)(j) of the Act --[ENABLES]-> negotiations 0.7999403476715088
+[section 9(2)(j) of the Act]: NZ Transport Agency Waka Kotahi --[APPLIES]-> section 9(2)(j) of the Act 0.790500819683075

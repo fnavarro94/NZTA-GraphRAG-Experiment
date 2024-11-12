@@ -1,0 +1,36 @@
+Who operates the rail network in the country known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, and is responsible for the term that describes the regular activities performed to keep roads safe and functional, including vegetation control, litter removal, and drainage maintenance?
+None
+Seed: Significant role in planning and management of transport infrastructure and services
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+Seed: Critical for freight and passenger movement
+Seed: Critical component of new zealand's transport strategy
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Plays]-> Significant role in planning and management of transport infrastructure and services 0.8216127753257751
+[Significant role in planning and management of transport infrastructure and services]: Teia --[Governed by]-> Resource management act 1991 0.7674981355667114
+[Significant role in planning and management of transport infrastructure and services]: Teia --[Evaluates]-> Potential effects of transport projects 0.7984905242919922
+[Significant role in planning and management of transport infrastructure and services]: Teia --[Includes]-> Economic factors 0.7337576746940613
+[Significant role in planning and management of transport infrastructure and services]: Regional transport planning --[Considers]-> Economic factors 0.8033387660980225
+[Significant role in planning and management of transport infrastructure and services]: Teia --[Includes]-> Ecological factors 0.7415976524353027
+[Significant role in planning and management of transport infrastructure and services]: Teia --[Used in]-> New zealand 0.7130898833274841
+[Significant role in planning and management of transport infrastructure and services]: New zealand --[Has]-> Transport projects 0.8021133542060852
+[Significant role in planning and management of transport infrastructure and services]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.8032782673835754
+[Significant role in planning and management of transport infrastructure and services]: New zealand --[Has]-> Diverse transport network 0.7916572093963623
+[Significant role in planning and management of transport infrastructure and services]: New zealand --[Has]-> Post-incident review 0.7160615921020508
+[Significant role in planning and management of transport infrastructure and services]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.7461304068565369
+[Significant role in planning and management of transport infrastructure and services]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.780704140663147
+[Significant role in planning and management of transport infrastructure and services]: New zealand --[Has]-> Broader environmental policies 0.7736462950706482
+[Significant role in planning and management of transport infrastructure and services]: New zealand --[Has]-> Traffic congestion 0.7720633745193481
+[Significant role in planning and management of transport infrastructure and services]: New zealand --[Has]-> Increasing urbanization 0.7492554783821106
+[Significant role in planning and management of transport infrastructure and services]: New zealand --[Has]-> Graduated licensing system 0.7310537099838257
+[Significant role in planning and management of transport infrastructure and services]: New zealand --[Has]-> Extensive coastline supporting a thriving fishing industry and recreational boating activities 0.7472602128982544
+[Significant role in planning and management of transport infrastructure and services]: New zealand --[Has]-> Trend towards more integrated and environmentally friendly transport solutions 0.79579097032547
+[Significant role in planning and management of transport infrastructure and services]: New zealand --[Has]-> Extensive network of roads 0.7992258667945862
+[Significant role in planning and management of transport infrastructure and services]: New zealand --[Has]-> Public transport network planning 0.8050861358642578
+[Significant role in planning and management of transport infrastructure and services]: New zealand --[Has]-> Public transit 0.7692592144012451
+[Significant role in planning and management of transport infrastructure and services]: New zealand --[Has]-> Goal 0.7340185046195984
+[Significant role in planning and management of transport infrastructure and services]: New zealand --[Has]-> Transport system sustainability 0.8101828694343567
+[Significant role in planning and management of transport infrastructure and services]: New zealand --[Has]-> Walking 0.7451923489570618
+[Significant role in planning and management of transport infrastructure and services]: New zealand --[Has]-> Cycling 0.7538149356842041
+[Significant role in planning and management of transport infrastructure and services]: New zealand --[Has]-> Biodiversity 0.7493335008621216
+[Significant role in planning and management of transport infrastructure and services]: New zealand --[Has]-> Urban-rural dynamics 0.7835680246353149
+[Significant role in planning and management of transport infrastructure and services]: New zealand --[Has]-> Unique geographical features 0.7618602514266968
+[Significant role in planning and management of transport infrastructure and services]: New zealand --[Has]-> Growing emphasis on sustainable transport solutions 0.795089066028595

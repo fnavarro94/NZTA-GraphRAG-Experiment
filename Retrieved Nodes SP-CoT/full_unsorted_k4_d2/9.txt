@@ -1,0 +1,36 @@
+In what year did the project that aims to develop a high-quality public transport corridor in Wellington begin?
+None
+Seed: Significant step towards creating sustainable and user-friendly public transport system
+Seed: Transport link between wellington and northern regions of north island
+Seed: Meet the evolving needs of new zealand's transport system
+Seed: Promoting public transport initiatives
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Represents]-> Significant step towards creating sustainable and user-friendly public transport system 0.8819208145141602
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Initiated in response to]-> Increasing urbanization 0.882498025894165
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Objectives include]-> Integration of transport modes 0.8664133548736572
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Objectives include]-> Community engagement 0.8677370548248291
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Objectives include]-> Sustainability 0.8520267605781555
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Key initiatives include]-> Infrastructure upgrades 0.8742271661758423
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Aimed at]-> Improving accessibility 0.872621476650238
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Aimed at]-> Enhancing efficiency 0.876124382019043
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Key initiatives include]-> Smart ticketing systems 0.8619004487991333
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Objectives include]-> Enhancing service quality 0.8773477077484131
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Developed by]-> Greater wellington regional council 0.8852235674858093
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Initiated in response to]-> Traffic congestion 0.875737190246582
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Aimed at]-> Promoting sustainability 0.880703330039978
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Key initiatives include]-> Light rail development 0.8725583553314209
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Key initiatives include]-> Bus rapid transit 0.8688243627548218
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Outlines]-> Comprehensive approach 0.8812780380249023
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Is]-> Strategic framework 0.8795210123062134
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Initiated in response to]-> Need for environmentally friendly transport system 0.8703118562698364
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Aims to improve]-> Transport link between wellington and northern regions of north island 0.8676568865776062
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Links with]-> State highway 1 0.8288931846618652
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Reduces]-> Travel times 0.8268821239471436
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Undergoes]-> Ongoing improvements and upgrades 0.8571529388427734
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Protects]-> Local wildlife and habitats 0.8333796262741089
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Passes through]-> Levin 0.8385199308395386
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Connects]-> Wellington 0.8663425445556641
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Extends]-> Northward 0.841324508190155
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Features]-> Transmission gully motorway 0.8560846447944641
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Stretches]-> Approximately 110 kilometers 0.858669638633728
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Passes through]-> Masterton 0.8359520435333252
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Is]-> Integral part of the country's national road network 0.8497225046157837

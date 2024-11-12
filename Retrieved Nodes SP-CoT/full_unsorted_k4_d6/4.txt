@@ -1,0 +1,36 @@
+Which island does the city in New Zealand known for its Metlink services, which focus on providing comprehensive coverage across the region, the capital city of New Zealand, belong to?
+None
+Seed: Largest city in south island
+Seed: Largest city in new zealand
+Seed: Transport link between wellington and northern regions of north island
+Seed: Connecting new zealand's remote regions with major urban centers
+[Largest city in south island]: Christchurch --[Is]-> Largest city in south island 0.8325684070587158
+[Largest city in south island]: Christchurch --[Has]-> Cycling initiatives 0.7746877670288086
+[Largest city in south island]: Christchurch --[Has]-> Metro system 0.8037614226341248
+[Largest city in south island]: Christchurch --[Linked to]-> Dunedin 0.8105871081352234
+[Largest city in south island]: Christchurch --[Connected to]-> Dunedin 0.8072273135185242
+[Largest city in south island]: Christchurch --[Has]-> Potential development of light rail system 0.7571926116943359
+[Largest city in south island]: Christchurch --[Served by]-> Tranzalpine train service 0.7657526731491089
+[Largest city in south island]: Christchurch --[Has]-> Walking initiatives 0.7767539024353027
+[Largest city in south island]: Christchurch --[Served by]-> Main south line 0.7808553576469421
+[Largest city in south island]: Christchurch --[Has]-> Road infrastructure 0.790270209312439
+[Largest city in south island]: Road infrastructure --[Is]-> Backbone of new zealand's transport system 0.7904250025749207
+[Largest city in south island]: Road infrastructure --[Is vital for]-> Regional connectivity 0.7606350183486938
+[Largest city in south island]: North island main trunk railway --[Facilitates]-> Regional connectivity 0.7899396419525146
+[Largest city in south island]: North island main trunk line --[Facilitates]-> Regional connectivity 0.7978925108909607
+[Largest city in south island]: Road infrastructure --[Is vital for]-> Economic growth 0.7198636531829834
+[Largest city in south island]: National land transport programme --[Supports]-> Economic growth 0.7282930016517639
+[Largest city in south island]: Government objectives --[Include]-> Economic growth 0.7118608951568604
+[Largest city in south island]: Kiwirail group --[Promotes]-> Economic growth 0.7384716272354126
+[Largest city in south island]: Waka kotahi --[Contributes to]-> Economic growth 0.7314213514328003
+[Largest city in south island]: Auckland western ring route --[Supports]-> Economic growth 0.7664504647254944
+[Largest city in south island]: Transport infrastructure development --[Is crucial for]-> Economic growth 0.7303793430328369
+[Largest city in south island]: Freight transport --[Essential for]-> Economic growth 0.7115298509597778
+[Largest city in south island]: Road infrastructure --[Is vital for]-> Social inclusion 0.7298153042793274
+[Largest city in south island]: Christchurch --[Linked to]-> Picton 0.7882119417190552
+[Largest city in south island]: Christchurch --[Connected to]-> Picton 0.7861169576644897
+[Largest city in south island]: Christchurch --[Connected by]-> State highways 0.7869687080383301
+[Largest city in south island]: Christchurch --[Has]-> Focus on enhancing bus services 0.7664153575897217
+[Largest city in south island]: Christchurch --[Has]-> New bus network 0.7761287689208984
+[Largest city in south island]: Christchurch --[Has]-> Public transport system 0.7964160442352295
+[Largest city in south island]: Christchurch --[Has]-> Second-busiest airport in new zealand 0.7715431451797485

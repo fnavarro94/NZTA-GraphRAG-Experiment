@@ -1,0 +1,36 @@
+Who should be contacted to discuss the Kaipara Coast Highway (SH16) near Omeru Reserve remedial work?
+None
+Seed: contact details for the Ombudsman
+Seed: 2023-24 State Highway Investment Proposal
+Seed: Transport stakeholders meeting
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+[contact details for the Ombudsman]: Transport Agency --[PROVIDES]-> contact details for the Ombudsman 0.816931962966919
+[contact details for the Ombudsman]: www.ombudsman.parliament.nz --[PROVIDES]-> Transport Agency 0.8116551041603088
+[contact details for the Ombudsman]: www.ombudsman.parliament.nz --[LINKS_TO]-> Ombudsman 0.8096777200698853
+[contact details for the Ombudsman]: right to ask the Ombudsman to review --[IS_GRANTED_BY]-> Ombudsman 0.7659587860107422
+[contact details for the Ombudsman]: right to ask the Ombudsman to review --[EXERCISED_BY]-> requester 0.7811862230300903
+[contact details for the Ombudsman]: section 28 of the Act --[GRANTS]-> right to ask the Ombudsman to review 0.7530032396316528
+[contact details for the Ombudsman]: Ombudsman --[REVIEW_REQUEST]-> decision 0.7571511268615723
+[contact details for the Ombudsman]: decision --[REFUSES]-> request 0.7238653302192688
+[contact details for the Ombudsman]: request --[REFUSE]-> decision 0.7315314412117004
+[contact details for the Ombudsman]: decision --[REVIEW]-> Ombudsman 0.7733336687088013
+[contact details for the Ombudsman]: decision --[REFUSE]-> request 0.7354521155357361
+[contact details for the Ombudsman]: decision --[WITHHOLD]-> information 0.7099709510803223
+[contact details for the Ombudsman]: Kevin Reid --[REVIEW]-> decision 0.761475682258606
+[contact details for the Ombudsman]: Ombudsman --[REVIEW]-> decision 0.7600339651107788
+[contact details for the Ombudsman]: Waka Kotahi --[MAKES]-> decision 0.7458887696266174
+[contact details for the Ombudsman]: Ombudsman --[REVIEW]-> decision to withhold information 0.761708676815033
+[contact details for the Ombudsman]: Ombudsman --[PROVIDES]-> New Zealand Transport Agency 0.7960178256034851
+[contact details for the Ombudsman]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7854368090629578
+[contact details for the Ombudsman]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7875858545303345
+[contact details for the Ombudsman]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.792853832244873
+[contact details for the Ombudsman]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7678378224372864
+[contact details for the Ombudsman]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7913346290588379
+[contact details for the Ombudsman]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.794530987739563
+[contact details for the Ombudsman]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7725539207458496
+[contact details for the Ombudsman]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7733138799667358
+[contact details for the Ombudsman]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7854479551315308
+[contact details for the Ombudsman]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8044941425323486
+[contact details for the Ombudsman]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8030070066452026
+[contact details for the Ombudsman]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8234885931015015
+[contact details for the Ombudsman]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7920818328857422

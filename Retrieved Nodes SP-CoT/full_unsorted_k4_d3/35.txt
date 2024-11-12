@@ -1,0 +1,36 @@
+In which decade did the construction of the major railway line in New Zealand that is being upgraded to enhance its capacity and efficiency for sustainable transport begin?
+None
+Seed: New zealand's commitment to promoting sustainable transport solutions
+Seed: Growing emphasis on sustainable transport solutions
+Seed: New zealand's commitment to sustainable transport
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+[New zealand's commitment to promoting sustainable transport solutions]: Vissim --[Aligns with]-> New zealand's commitment to promoting sustainable transport solutions 0.834850549697876
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport --[Utilized]-> Vissim 0.8309662938117981
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport --[Has]-> Vision to support growth 0.8640479445457458
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport --[Has]-> Vision to minimize environmental impact 0.8561338186264038
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport --[Has]-> Vision to create efficient transport system 0.8632935881614685
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport --[Has]-> Vision to create integrated transport system 0.8533487915992737
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport --[Has]-> Long-term vision 0.858524739742279
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport --[Has]-> Vision to create safe transport system 0.8357400894165039
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport --[Focused on]-> Promoting active transport modes 0.8577280044555664
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport --[Focused on]-> Promoting cycling 0.84311842918396
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport --[Focused on]-> Promoting walking 0.8433195948600769
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport --[Is]-> Primary agency 0.8330424427986145
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport --[Implemented]-> Cycling infrastructure projects 0.8500359058380127
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport --[Implemented]-> Dedicated bike lanes 0.8301752805709839
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport --[Implemented]-> Cycleways 0.8304318189620972
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport --[Introduced]-> Auckland integrated ticketing system 0.8321179747581482
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport --[Responsible for]-> Managing public transport services 0.8336799144744873
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport --[Responsible for]-> Development 0.8546925783157349
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport --[Responsible for]-> Management 0.8381283283233643
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport --[Responsible for]-> Planning 0.8482949137687683
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport --[Ensures]-> Transport planning aligns with urban development goals 0.8307601809501648
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport --[Plays]-> Crucial role 0.8611616492271423
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport --[Manages]-> Public transport in auckland 0.8132185935974121
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport --[Manages]-> Public transport 0.8270143866539001
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport --[Oversees]-> Ferries 0.8149964809417725
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport --[Oversees]-> Trains 0.8409497737884521
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport --[Oversees]-> Buses 0.8062433004379272
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport --[Oversees]-> Roads 0.8249021768569946
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport --[Oversees]-> Cycling 0.8134613633155823
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport --[Oversees]-> Public transport 0.8220168948173523

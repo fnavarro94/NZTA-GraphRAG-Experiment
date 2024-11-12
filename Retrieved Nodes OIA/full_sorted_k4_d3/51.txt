@@ -1,0 +1,28 @@
+How many potential mobile phone use offenses were detected during the hidden texting camera trial?
+None
+Seed: criminal history
+Seed: Attempted Burglary
+Seed: no notifications of offences detected by speed cameras
+Seed: one infringement for failing to comply with the instructions given by a steady red-light signal
+[criminal history]: fit and proper person assessments --[FORM]-> criminal history 0.7980396747589111
+[criminal history]: criminal history --[PART_OF]-> fitness and propriety factors 0.7947542667388916
+[criminal history]: frequency --[ANALYZED]-> Transport Agency 0.7883644104003906
+[criminal history]: frequency --[ANALYZED_BY]-> Transport Agency 0.7836706638336182
+[criminal history]: Transport Agency --[FOCUSED_ON]-> commerical operators privacy 0.7811126708984375
+[criminal history]: Mobility Marketplace --[TESTED]-> Transport Agency 0.7798072099685669
+[criminal history]: Transport Agency --[PROVIDES]-> summary of engagement survey results 0.778264045715332
+[Attempted Burglary]: Applicant 4 --[CONVICTED]-> Attempted Burglary 0.7914906144142151
+[no notifications of offences detected by speed cameras]: Road to Zero --[RAISES_AWARENESS_OF]-> public awareness of Road to Zero 0.7973338961601257
+[no notifications of offences detected by speed cameras]: Uber --[HAS]-> Under investigation 20 0.793488621711731
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.7902252674102783
+[no notifications of offences detected by speed cameras]: Amanda Cropp --[REQUESTED]-> Transport Data 0.7877641916275024
+[no notifications of offences detected by speed cameras]: Road to Zero --[CAMPAIGN]-> public awareness campaign 0.7868432998657227
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[INVESTIGATES]-> breaches of rules or regulations 0.7864698171615601
+[no notifications of offences detected by speed cameras]: information --[WITHHELD]-> public interest 0.7825956344604492
+[one infringement for failing to comply with the instructions given by a steady red-light signal]: Road to Zero --[RAISES_AWARENESS_OF]-> public awareness of Road to Zero 0.7973338961601257
+[one infringement for failing to comply with the instructions given by a steady red-light signal]: Uber --[HAS]-> Under investigation 20 0.793488621711731
+[one infringement for failing to comply with the instructions given by a steady red-light signal]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.7902252674102783
+[one infringement for failing to comply with the instructions given by a steady red-light signal]: Amanda Cropp --[REQUESTED]-> Transport Data 0.7877641916275024
+[one infringement for failing to comply with the instructions given by a steady red-light signal]: Road to Zero --[CAMPAIGN]-> public awareness campaign 0.7868432998657227
+[one infringement for failing to comply with the instructions given by a steady red-light signal]: Waka Kotahi --[INVESTIGATES]-> breaches of rules or regulations 0.7864698171615601
+[one infringement for failing to comply with the instructions given by a steady red-light signal]: information --[WITHHELD]-> public interest 0.7825956344604492

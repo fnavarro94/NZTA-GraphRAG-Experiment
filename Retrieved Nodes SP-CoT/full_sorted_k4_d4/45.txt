@@ -1,0 +1,34 @@
+In what year did the organization that has focused on enhancing its bus rapid transit system to provide faster and more reliable public transport services become established?
+None
+Seed: Enhancing public transport systems
+Seed: Promoting public transport initiatives
+Seed: Renewed focus on public transport in recent decades
+Seed: Broader strategy to promote public transport as a viable alternative to private vehicle use
+[Enhancing public transport systems]: Public transport systems --[Prompted]-> Renewed focus on public transport in recent decades 0.8662749528884888
+[Enhancing public transport systems]: Sustainable transport solutions --[Invested in]-> Expanding public transport networks 0.8614054918289185
+[Enhancing public transport systems]: Sustainable transport solutions --[Focuses on]-> Public transport enhancements 0.8599373698234558
+[Enhancing public transport systems]: Initiatives --[Include]-> Promotion of electric buses within the public transport system 0.856109619140625
+[Enhancing public transport systems]: Community transport services --[Operated by]-> Non-profit organizations 0.8541111946105957
+[Enhancing public transport systems]: Public transport --[Underwent]-> Significant evolution 0.8534857034683228
+[Enhancing public transport systems]: Northern busway --[Designed to]-> Enhance public transport efficiency 0.8510657548904419
+[Promoting public transport initiatives]: Public transport systems --[Prompted]-> Renewed focus on public transport in recent decades 0.8662749528884888
+[Promoting public transport initiatives]: Initiatives --[Include]-> Promotion of electric buses within the public transport system 0.856109619140625
+[Promoting public transport initiatives]: Community transport services --[Operated by]-> Non-profit organizations 0.8541111946105957
+[Promoting public transport initiatives]: Public transport --[Underwent]-> Significant evolution 0.8534857034683228
+[Promoting public transport initiatives]: Northern busway --[Designed to]-> Enhance public transport efficiency 0.8510657548904419
+[Promoting public transport initiatives]: Northern busway --[Is]-> Dedicated bus rapid transit corridor 0.8470640182495117
+[Promoting public transport initiatives]: Walking school bus --[Is]-> Innovative transport initiative 0.8461390733718872
+[Renewed focus on public transport in recent decades]: Public transport systems --[Prompted]-> Renewed focus on public transport in recent decades 0.8662749528884888
+[Renewed focus on public transport in recent decades]: Sustainable transport solutions --[Focuses on]-> Public transport enhancements 0.8599373698234558
+[Renewed focus on public transport in recent decades]: Sustainable urban transport --[Key component]-> Promoting public transit use 0.8427212834358215
+[Renewed focus on public transport in recent decades]: Ministry of transport --[Established in]-> 1962 0.8415425419807434
+[Renewed focus on public transport in recent decades]: Sustainable urban transport --[Key component]-> Comprehensive bus and train services 0.8394240736961365
+[Renewed focus on public transport in recent decades]: Public transport systems --[Evolved]-> Since the late 19th century 0.8381059169769287
+[Renewed focus on public transport in recent decades]: New zealand transport agency --[Is responsible for]-> Promoting public transport initiatives 0.8374068737030029
+[Broader strategy to promote public transport as a viable alternative to private vehicle use]: Sustainable transport solutions --[Invested in]-> Expanding public transport networks 0.8614054918289185
+[Broader strategy to promote public transport as a viable alternative to private vehicle use]: Sustainable transport solutions --[Focuses on]-> Public transport enhancements 0.8599373698234558
+[Broader strategy to promote public transport as a viable alternative to private vehicle use]: Northern busway --[Designed to]-> Enhance public transport efficiency 0.8510657548904419
+[Broader strategy to promote public transport as a viable alternative to private vehicle use]: Integrated ticketing system --[Part of]-> Broader strategy to promote public transport as a viable alternative to private vehicle use 0.8492244482040405
+[Broader strategy to promote public transport as a viable alternative to private vehicle use]: Sustainable transport solutions --[Includes]-> Promotion of public transport systems 0.8483232259750366
+[Broader strategy to promote public transport as a viable alternative to private vehicle use]: Integrated ticketing system --[Aims to]-> Enhance convenience and efficiency of public transport services 0.8479800820350647
+[Broader strategy to promote public transport as a viable alternative to private vehicle use]: Northern busway --[Is]-> Dedicated bus rapid transit corridor 0.8470640182495117

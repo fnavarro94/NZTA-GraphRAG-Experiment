@@ -1,0 +1,36 @@
+Which country hosted the adoption of the international agreement that promotes road safety and the harmonization of traffic regulations among member countries, to which New Zealand is a signatory?
+None
+Seed: New zealand's commitment to international standards in road safety and traffic management
+Seed: New zealand's road safety initiatives
+Seed: New zealand's national road traffic laws
+Seed: Significant shift in new zealand's approach to road safety
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Reflects]-> New zealand's commitment to international standards in road safety and traffic management 0.8843696117401123
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Aiming to]-> Reduce road traffic accidents and fatalities 0.8274402022361755
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Reflected in]-> Land transport act 1998 0.8215301036834717
+[New zealand's commitment to international standards in road safety and traffic management]: Road transport safety --[Governed by]-> Land transport act 1998 0.8148519992828369
+[New zealand's commitment to international standards in road safety and traffic management]: Road transport safety --[Focus on]-> Safer roads 0.798611044883728
+[New zealand's commitment to international standards in road safety and traffic management]: Road transport safety --[Focus on]-> Safer road users 0.7962392568588257
+[New zealand's commitment to international standards in road safety and traffic management]: Road transport safety --[Focus on]-> Safer vehicles 0.7920652627944946
+[New zealand's commitment to international standards in road safety and traffic management]: Land transport act 1998 --[Establishes]-> Legal framework for enforcement of road rules 0.8200961947441101
+[New zealand's commitment to international standards in road safety and traffic management]: Land transport act 1998 --[Establishes]-> Legal framework for registration of vehicles 0.8017659783363342
+[New zealand's commitment to international standards in road safety and traffic management]: Road safety legislation --[Governed by]-> Land transport act 1998 0.8154389262199402
+[New zealand's commitment to international standards in road safety and traffic management]: Road safety legislation --[Is]-> New zealand 0.8717683553695679
+[New zealand's commitment to international standards in road safety and traffic management]: Land transport act 1998 --[Establishes]-> Legal framework for licensing of drivers 0.7978875637054443
+[New zealand's commitment to international standards in road safety and traffic management]: Land transport act 1998 --[Complemented by]-> Land transport (road user 0.8059901595115662
+[New zealand's commitment to international standards in road safety and traffic management]: Vehicle maintenance standards --[Are set forth in]-> Land transport act 1998 0.770148754119873
+[New zealand's commitment to international standards in road safety and traffic management]: Vehicle maintenance standards --[Include]-> Warrant of fitness system 0.7608194351196289
+[New zealand's commitment to international standards in road safety and traffic management]: Vehicle maintenance standards --[Are critical to]-> Ensuring the safety 0.7772912979125977
+[New zealand's commitment to international standards in road safety and traffic management]: Vehicle maintenance standards --[Apply to]-> Private cars 0.7654012441635132
+[New zealand's commitment to international standards in road safety and traffic management]: Vehicle maintenance standards --[Encourage]-> Use of cleaner technologies 0.7200890779495239
+[New zealand's commitment to international standards in road safety and traffic management]: Vehicle maintenance standards --[Aim to]-> Reduce environmental impact 0.7456620931625366
+[New zealand's commitment to international standards in road safety and traffic management]: Vehicle maintenance standards --[Aim to]-> Identify and rectify potential safety issues 0.7626553773880005
+[New zealand's commitment to international standards in road safety and traffic management]: Vehicle maintenance standards --[Are overseen by]-> New zealand transport agency 0.8418110609054565
+[New zealand's commitment to international standards in road safety and traffic management]: Vehicle maintenance standards --[Apply to]-> Public transport systems 0.7728235125541687
+[New zealand's commitment to international standards in road safety and traffic management]: Vehicle maintenance standards --[Are essential for]-> Minimizing environmental impacts 0.7379129528999329
+[New zealand's commitment to international standards in road safety and traffic management]: Vehicle maintenance standards --[Are promoted by]-> Ministry of transport 0.7833340764045715
+[New zealand's commitment to international standards in road safety and traffic management]: Vehicle maintenance standards --[Include]-> Heavy vehicle maintenance code 0.774478554725647
+[New zealand's commitment to international standards in road safety and traffic management]: Vehicle maintenance standards --[Are promoted by]-> New zealand transport agency 0.8244873285293579
+[New zealand's commitment to international standards in road safety and traffic management]: Vehicle maintenance standards --[Encourage]-> Adoption of sustainable practices 0.7553361058235168
+[New zealand's commitment to international standards in road safety and traffic management]: Vehicle maintenance standards --[Aim to]-> Enhance operational efficiency 0.7446932792663574
+[New zealand's commitment to international standards in road safety and traffic management]: Vehicle maintenance standards --[Include]-> Certificate of fitness system 0.7666245102882385
+[New zealand's commitment to international standards in road safety and traffic management]: Vehicle maintenance standards --[Are governed by]-> Legislation 0.7939648628234863

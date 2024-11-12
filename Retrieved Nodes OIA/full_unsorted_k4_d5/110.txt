@@ -1,0 +1,36 @@
+Who should be contacted to discuss the SH2 Hebden Crescent / Liverton Road intersection project?
+None
+Seed: Request for information on Hornby Intersection improvements
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: one crossing near SH2/Lyon Street/Birdwood Street intersection
+Seed: request to Minister of Transport
+[Request for information on Hornby Intersection improvements]: Request for information on Hornby Intersection improvements --[REQUESTS]-> New Zealand Transport Agency 0.8545761108398438
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7958704233169556
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[BASED]-> Wellington 0.7811626195907593
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7877810001373291
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.820006251335144
+[Request for information on Hornby Intersection improvements]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7699142694473267
+[Request for information on Hornby Intersection improvements]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.7729194760322571
+[Request for information on Hornby Intersection improvements]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7741106152534485
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7746911644935608
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.7785018086433411
+[Request for information on Hornby Intersection improvements]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7596227526664734
+[Request for information on Hornby Intersection improvements]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7648354768753052
+[Request for information on Hornby Intersection improvements]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7499156594276428
+[Request for information on Hornby Intersection improvements]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7516478896141052
+[Request for information on Hornby Intersection improvements]: Wellington --[CONTAINS]-> Private Bag 6995 0.7501156330108643
+[Request for information on Hornby Intersection improvements]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7792021036148071
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7982069849967957
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.838645339012146
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7970888614654541
+[Request for information on Hornby Intersection improvements]: 50 Victoria Street --[IN]-> Wellington 0.7765506505966187
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.799545168876648
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[LOCATED]-> 50 Victoria Street 0.7974230647087097
+[Request for information on Hornby Intersection improvements]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7783026099205017
+[Request for information on Hornby Intersection improvements]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7880924940109253
+[Request for information on Hornby Intersection improvements]: Wellington --[CONTAINS]-> 50 Victoria Street 0.775793194770813
+[Request for information on Hornby Intersection improvements]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7778117656707764
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7762531042098999
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7904819846153259
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[CONTACT]-> Wellington 6141 0.8315682411193848
+[Request for information on Hornby Intersection improvements]: Wellington 6141 --[POSTAL_ADDRESS]-> New Zealand 0.7639363408088684

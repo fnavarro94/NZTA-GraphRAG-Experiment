@@ -1,0 +1,12 @@
+Who should be contacted to discuss the SH2 Hebden Crescent / Liverton Road intersection project?
+None
+Seed: Request for information on Hornby Intersection improvements
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: one crossing near SH2/Lyon Street/Birdwood Street intersection
+Seed: request to Minister of Transport
+[Request for information on Hornby Intersection improvements]: Request for information on Hornby Intersection improvements --[REQUESTS]-> New Zealand Transport Agency 0.8545761108398438
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[RESPONDS_TO]-> Request for information on Hornby Intersection improvements 0.8491339683532715
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUESTS]-> detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) 0.8256518840789795
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) --[CONTRACTS]-> consultants 0.8117787837982178
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: Featherston --[RAISED_CROSSINGS]-> one crossing near SH2/Lyon Street/Birdwood Street intersection 0.8307766914367676
+[request to Minister of Transport]: Jordan Bond --[MADE_REQUEST]-> request to Minister of Transport 0.8144181966781616

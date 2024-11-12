@@ -1,0 +1,36 @@
+What information can be found in the Driver Licence Register (DLR)?
+None
+Seed: information on vehicle and driver registration and licensing
+Seed: information related to criminal convictions of driving instructor (I) endorsement holders
+Seed: vehicle registration and licensing
+Seed: driver licenses
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[PROVIDES]-> information on vehicle and driver registration and licensing 0.8656876087188721
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7561763525009155
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[BASED]-> Wellington 0.7628682851791382
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7684547901153564
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.7761740684509277
+[information on vehicle and driver registration and licensing]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7316374778747559
+[information on vehicle and driver registration and licensing]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.7359336018562317
+[information on vehicle and driver registration and licensing]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7467517852783203
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7795624732971191
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.7656204700469971
+[information on vehicle and driver registration and licensing]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.747638463973999
+[information on vehicle and driver registration and licensing]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7407945990562439
+[information on vehicle and driver registration and licensing]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7348361611366272
+[information on vehicle and driver registration and licensing]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.739505410194397
+[information on vehicle and driver registration and licensing]: Wellington --[CONTAINS]-> Private Bag 6995 0.7372511625289917
+[information on vehicle and driver registration and licensing]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7834371328353882
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7604771256446838
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.7666746377944946
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7579835057258606
+[information on vehicle and driver registration and licensing]: 50 Victoria Street --[IN]-> Wellington 0.7075814008712769
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.7759856581687927
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[LOCATED]-> 50 Victoria Street 0.7550535798072815
+[information on vehicle and driver registration and licensing]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7307190895080566
+[information on vehicle and driver registration and licensing]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7330837249755859
+[information on vehicle and driver registration and licensing]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7273618578910828
+[information on vehicle and driver registration and licensing]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7080949544906616
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7557210922241211
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7526721954345703
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[CONTACT]-> Wellington 6141 0.7655543684959412
+[information on vehicle and driver registration and licensing]: Wellington 6141 --[POSTAL_ADDRESS]-> New Zealand 0.7278860807418823

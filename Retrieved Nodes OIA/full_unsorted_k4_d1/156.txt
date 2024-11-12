@@ -1,0 +1,36 @@
+Are all costs related to flood damage recorded in Waka Kotahi’s asset management system?
+None
+Seed: Waka Kotahi
+Seed: Waka Kotahi policy
+Seed: information to Waka Kotahi
+Seed: Waka Kotahi Senior Project Manager
+[Waka Kotahi]: Response --[CONTAINS]-> Waka Kotahi 0.8355218768119812
+[Waka Kotahi]: response --[CONTAINS]-> Waka Kotahi 0.8370877504348755
+[Waka Kotahi]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.8379636406898499
+[Waka Kotahi]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.8489760160446167
+[Waka Kotahi]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7843357920646667
+[Waka Kotahi]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7896333932876587
+[Waka Kotahi]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.7925851345062256
+[Waka Kotahi]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7858484983444214
+[Waka Kotahi]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.8356393575668335
+[Waka Kotahi]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.8456598520278931
+[Waka Kotahi]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8456999063491821
+[Waka Kotahi]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.8753679990768433
+[Waka Kotahi]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.8426609635353088
+[Waka Kotahi]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.807748019695282
+[Waka Kotahi]: Leisa Coley --[EMPLOYED_BY]-> Waka Kotahi 0.8150084018707275
+[Waka Kotahi]: Lizette Marais --[EMPLOYED_BY]-> Waka Kotahi 0.7861461639404297
+[Waka Kotahi]: Waka Kotahi --[EMPLOYS]-> Andy Knackstedt 0.8006575107574463
+[Waka Kotahi]: Waka Kotahi --[EMPLOYS]-> Qualified Staff 0.8269124627113342
+[Waka Kotahi]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.864112377166748
+[Waka Kotahi]: website --[RELATES_TO]-> Waka Kotahi 0.8335275650024414
+[Waka Kotahi]: Waka Kotahi --[RESPONDS_TO]-> OIA request 0.8053455352783203
+[Waka Kotahi]: Waka Kotahi --[RESPONDS_TO]-> request 0.7947156429290771
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> OIA-10601-response-georgina-campbell.pdf 0.8351956605911255
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> outcome of suspension 0.8421679139137268
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> outcome of surrendered 0.8249843716621399
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> information on website 0.8333147764205933
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> outcome of revoke 0.828698992729187
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> warnings to individuals 0.8240526914596558
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> Transport Data 0.8622711896896362
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> raw data 0.8398268222808838

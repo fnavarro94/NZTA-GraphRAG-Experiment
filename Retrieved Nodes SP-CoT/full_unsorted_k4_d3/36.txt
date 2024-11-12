@@ -1,0 +1,36 @@
+What is the abbreviation commonly used to refer to the initiative that focuses on expanding bus and train services, improving infrastructure, and integrating different modes of transport in Auckland to enhance public transport?
+None
+Seed: Promoting public transport initiatives
+Seed: Regional transport initiatives
+Seed: Adopting integrated transport planning approaches that consider public transport
+Seed: Enhancing public transport systems
+[Promoting public transport initiatives]: New zealand transport agency --[Is responsible for]-> Promoting public transport initiatives 0.8604874014854431
+[Promoting public transport initiatives]: New zealand --[Has]-> New zealand transport agency 0.8531492948532104
+[Promoting public transport initiatives]: New zealand --[Has]-> Transport projects 0.8578726649284363
+[Promoting public transport initiatives]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.8256103992462158
+[Promoting public transport initiatives]: New zealand --[Has]-> Diverse transport network 0.8396939039230347
+[Promoting public transport initiatives]: New zealand --[Has]-> Post-incident review 0.7589499354362488
+[Promoting public transport initiatives]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.810884952545166
+[Promoting public transport initiatives]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.805478036403656
+[Promoting public transport initiatives]: New zealand --[Has]-> Broader environmental policies 0.7893350720405579
+[Promoting public transport initiatives]: New zealand --[Has]-> Traffic congestion 0.8108476400375366
+[Promoting public transport initiatives]: New zealand --[Has]-> Increasing urbanization 0.8035902976989746
+[Promoting public transport initiatives]: New zealand --[Has]-> Graduated licensing system 0.808792769908905
+[Promoting public transport initiatives]: New zealand --[Has]-> Extensive coastline supporting a thriving fishing industry and recreational boating activities 0.7776658535003662
+[Promoting public transport initiatives]: New zealand --[Has]-> Trend towards more integrated and environmentally friendly transport solutions 0.8337815999984741
+[Promoting public transport initiatives]: New zealand --[Has]-> Extensive network of roads 0.819245457649231
+[Promoting public transport initiatives]: New zealand --[Has]-> Public transport network planning 0.8609762191772461
+[Promoting public transport initiatives]: New zealand --[Has]-> Public transit 0.8508970141410828
+[Promoting public transport initiatives]: New zealand --[Has]-> Goal 0.8078975677490234
+[Promoting public transport initiatives]: New zealand --[Has]-> Transport system sustainability 0.8335028886795044
+[Promoting public transport initiatives]: New zealand --[Has]-> Walking 0.80816251039505
+[Promoting public transport initiatives]: New zealand --[Has]-> Cycling 0.8098055124282837
+[Promoting public transport initiatives]: New zealand --[Has]-> Biodiversity 0.7670871019363403
+[Promoting public transport initiatives]: New zealand --[Has]-> Urban-rural dynamics 0.8048264384269714
+[Promoting public transport initiatives]: New zealand --[Has]-> Unique geographical features 0.8059222102165222
+[Promoting public transport initiatives]: New zealand --[Has]-> Growing emphasis on sustainable transport solutions 0.8328495621681213
+[Promoting public transport initiatives]: New zealand --[Has]-> Transport funding strategies 0.8555642366409302
+[Promoting public transport initiatives]: New zealand --[Has]-> Growing population 0.7813093066215515
+[Promoting public transport initiatives]: New zealand --[Has]-> Light rail 0.8304852247238159
+[Promoting public transport initiatives]: New zealand --[Has]-> Buses 0.8456962704658508
+[Promoting public transport initiatives]: New zealand --[Has]-> Land transport management act 2003 0.8144850134849548

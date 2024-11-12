@@ -1,0 +1,36 @@
+Which organization, along with the entity responsible for engaging with the community to enhance the project in Wellington that connects various neighborhoods and promotes cycling as a primary mode of transport, is involved in the development of the initiative in Wellington that aims to create a comprehensive network of safe cycling routes?
+None
+Seed: A crucial role in funding and promoting cycling infrastructure projects
+Seed: Broader initiative by the wellington city council and greater wellington regional council
+Seed: Wellington's commitment to becoming a more cycle-friendly city
+Seed: Cycling infrastructure and public transport initiatives
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Plays]-> A crucial role in funding and promoting cycling infrastructure projects 0.8672978281974792
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> New zealand transport agency 0.8172001242637634
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Transport projects 0.8397314548492432
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.8187916278839111
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Diverse transport network 0.8242997527122498
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Post-incident review 0.7512491941452026
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.7842665910720825
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.7991932034492493
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Broader environmental policies 0.7671812772750854
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Traffic congestion 0.7886501550674438
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Increasing urbanization 0.7800523638725281
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Graduated licensing system 0.7654110193252563
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Extensive coastline supporting a thriving fishing industry and recreational boating activities 0.7710046172142029
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Trend towards more integrated and environmentally friendly transport solutions 0.81038498878479
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Extensive network of roads 0.8146756887435913
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Public transport network planning 0.8346158266067505
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Public transit 0.8167645335197449
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Goal 0.7781840562820435
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Transport system sustainability 0.8164365887641907
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Walking 0.7798619270324707
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Cycling 0.828889012336731
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Biodiversity 0.7738499045372009
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Urban-rural dynamics 0.8033515214920044
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Unique geographical features 0.7832387685775757
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Growing emphasis on sustainable transport solutions 0.8111932277679443
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Transport funding strategies 0.8265783786773682
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Growing population 0.7617958784103394
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Light rail 0.7912969589233398
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Buses 0.8009730577468872
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Land transport management act 2003 0.7898015975952148

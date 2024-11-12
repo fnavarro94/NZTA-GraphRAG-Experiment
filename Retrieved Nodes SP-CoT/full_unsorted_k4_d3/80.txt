@@ -1,0 +1,36 @@
+Where is the major transport infrastructure project in the country where the project in Wellington connects various neighborhoods and promotes cycling as a primary mode of transport, and aims to improve rail connectivity and reduce congestion in Auckland located?
+None
+Seed: Addressing transport challenges in auckland
+Seed: Transport link between wellington and northern regions of north island
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+Seed: New zealand's transport network
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Addressing transport challenges in auckland 0.8823292255401611
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On enhancing road infrastructure 0.8934457898139954
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Outlines]-> Strategic approach to address challenges 0.8745278716087341
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On improving public transport 0.8806018829345703
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On promoting sustainable transport solutions 0.8773684501647949
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Promote sustainable transport options 0.8772976994514465
+[Addressing transport challenges in auckland]: Walking school bus --[Aligns with]-> Promote sustainable transport options 0.7887067198753357
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Reduce congestion 0.8822751045227051
+[Addressing transport challenges in auckland]: Transmission gully motorway --[Designed to]-> Reduce congestion 0.8281473517417908
+[Addressing transport challenges in auckland]: Transport system optimization --[Aims to]-> Reduce congestion 0.8071813583374023
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Is]-> Strategic initiative 0.8816128373146057
+[Addressing transport challenges in auckland]: Auckland cycling network plan --[Is]-> Strategic initiative 0.8654146194458008
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Improve efficiency and effectiveness of transport system 0.8803121447563171
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Launched in]-> 2016 0.868703305721283
+[Addressing transport challenges in auckland]: New zealand electric vehicle programme --[Launched in]-> 2016 0.80457603931427
+[Addressing transport challenges in auckland]: Auckland city rail link --[Began]-> 2016 0.854045033454895
+[Addressing transport challenges in auckland]: Wellington public transport spine study --[Launched in]-> 2016 0.8419987559318542
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Development of comprehensive transport network 0.8896852731704712
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Is]-> Collaborative effort 0.8784146308898926
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Aligning transport investments 0.873909592628479
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Create unified transport network 0.8861718773841858
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Encompasses]-> Range of projects 0.8853225708007812
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Emphasizes]-> Need for balanced transport system 0.8722071647644043
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Aims to improve]-> Transport link between wellington and northern regions of north island 0.8773736953735352
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Links with]-> State highway 1 0.8323339819908142
+[Transport link between wellington and northern regions of north island]: State highway 1 --[Links]-> Major urban centers 0.7956936955451965
+[Transport link between wellington and northern regions of north island]: State highway 1 --[Runs]-> Length of north island 0.7735661268234253
+[Transport link between wellington and northern regions of north island]: Hamilton --[Served by]-> State highway 1 0.7606794834136963
+[Transport link between wellington and northern regions of north island]: Auckland western ring route --[Serves as]-> State highway 1 0.8144899010658264
+[Transport link between wellington and northern regions of north island]: Auckland western ring route --[Reconnects]-> State highway 1 0.8233279585838318

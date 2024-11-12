@@ -1,0 +1,10 @@
+What were the concerns raised in the complaint about Uber to the NZ Transport Agency?
+None
+Seed: 196 complaints about Uber drivers
+Seed: ride share operator complaints
+Seed: Complaint Data
+Seed: why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’
+[196 complaints about Uber drivers]: Waka Kotahi --[RECEIVES]-> 196 complaints about Uber drivers 0.8648542165756226
+[ride share operator complaints]: Waka Kotahi --[INVESTIGATES]-> ride share operator complaints 0.8786748647689819
+[Complaint Data]: Request for Information --[REQUESTS]-> Complaint Data 0.8073140978813171
+[why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’]: enquiry --[ASKS]-> why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’ 0.8985319137573242

@@ -1,0 +1,10 @@
+What is the abbreviation for the initiative in New Zealand that aims to increase the number of electric trucks and vans on the roads in the freight sector?
+None
+Seed: Growing number of initiatives
+Seed: Increasing the number of electric vehicles on new zealand roads
+Seed: Increase number of electric vehicles on the road
+Seed: Driving innovation in freight transport sector
+[Growing number of initiatives]: New zealand --[Has]-> Growing number of initiatives 0.8601331114768982
+[Increasing the number of electric vehicles on new zealand roads]: New zealand electric vehicle programme --[Objective]-> Increasing the number of electric vehicles on new zealand roads 0.8829523921012878
+[Increase number of electric vehicles on the road]: New zealand --[Aims]-> Increase number of electric vehicles on the road 0.8820715546607971
+[Driving innovation in freight transport sector]: Collaborative approaches --[Played crucial role]-> Driving innovation in freight transport sector 0.8137353658676147

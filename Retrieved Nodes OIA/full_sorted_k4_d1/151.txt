@@ -1,0 +1,11 @@
+What is the total projected cost for the Greater Christchurch Mass Rapid Transit Indicative Business Case?
+None
+Seed: cost breakdown for Greater Christchurch Mass Rapid Transit
+Seed: costing information for Greater Christchurch Mass Rapid Transit
+Seed: cost of the current Road to Zero advertising campaign
+Seed: $5.91m
+[cost breakdown for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[PROVIDES]-> cost breakdown for Greater Christchurch Mass Rapid Transit 0.8945010900497437
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[PROVIDES]-> costing information for Greater Christchurch Mass Rapid Transit 0.8969981074333191
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[COST]-> cost of the current Road to Zero advertising campaign 0.7958967685699463
+[$5.91m]: 29 Feb 2020 --[AS_OF]-> $5.91m 0.8073399066925049
+[$5.91m]: $5.91m --[SPENT]-> HVSC related inspections, case reviews and recertifications 0.7907288074493408

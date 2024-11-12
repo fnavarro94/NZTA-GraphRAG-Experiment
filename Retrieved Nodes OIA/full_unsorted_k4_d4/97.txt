@@ -1,0 +1,36 @@
+What information did NZTA provide about converting the shoulder of Auckland Motorway into bus lanes?
+None
+Seed: reports on converting the shoulder of Auckland Motorway into Bus Lanes
+Seed: Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf
+Seed: Commercial Buses
+Seed: Expressway
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Zachary Wong --[REQUESTED]-> reports on converting the shoulder of Auckland Motorway into Bus Lanes 0.9098303318023682
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Zachary Wong --[EMAIL]-> fyi-request-9242-f4aad453@requests.fyi.org.nz 0.7588059902191162
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: reports on converting the shoulder of Auckland Motorway into Bus Lanes --[PROVIDED]-> Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf 0.921581506729126
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf --[APPENDIX]-> Appendices A to E 0.9052956104278564
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf --[APPENDIX]-> Appendices A to E 0.9052956104278564
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: reports on converting the shoulder of Auckland Motorway into Bus Lanes --[PROVIDED]-> Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf 0.921581506729126
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: Zachary Wong --[REQUESTED]-> reports on converting the shoulder of Auckland Motorway into Bus Lanes 0.9098303318023682
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: Zachary Wong --[EMAIL]-> fyi-request-9242-f4aad453@requests.fyi.org.nz 0.7588059902191162
+[Commercial Buses]: New Zealand --[REGULATES]-> Commercial Buses 0.8423852920532227
+[Commercial Buses]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.8452470898628235
+[Commercial Buses]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8411620855331421
+[Commercial Buses]: New Zealand Transport Agency --[BASED]-> Wellington 0.851843535900116
+[Commercial Buses]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7922936081886292
+[Commercial Buses]: Golden Mile --[LOCATED]-> Wellington 0.7618003487586975
+[Commercial Buses]: State Highway 1 --[LOCATED_IN]-> Wellington 0.8155524730682373
+[Commercial Buses]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7614068984985352
+[Commercial Buses]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7843688726425171
+[Commercial Buses]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7748434543609619
+[Commercial Buses]: Wellington --[PART_OF]-> Wellington Region 0.7988694906234741
+[Commercial Buses]: New Zealand --[HAS_CAPITAL]-> Wellington 0.8134889006614685
+[Commercial Buses]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.8118234276771545
+[Commercial Buses]: Wellington --[HAS]-> tunnel 0.8099666237831116
+[Commercial Buses]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.8212150931358337
+[Commercial Buses]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.783396303653717
+[Commercial Buses]: Wellington --[POSTCODE]-> 6141 0.7654492259025574
+[Commercial Buses]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.8415213823318481
+[Commercial Buses]: Wellington --[IS_PART_OF]-> New Zealand 0.8050047159194946
+[Commercial Buses]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.8159422874450684
+[Commercial Buses]: 50 Victoria Street --[IN]-> Wellington 0.7693462371826172
+[Commercial Buses]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7646193504333496

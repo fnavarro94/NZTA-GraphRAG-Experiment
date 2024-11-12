@@ -1,0 +1,36 @@
+In what year did the airline that provides domestic air travel services between the North and South Islands of New Zealand and is crucial for the tourism sector become established?
+None
+Seed: Flagship airline of new zealand
+Seed: Airline's responsibility as a key player in the transport sector
+Seed: Flights within new zealand
+Seed: Local economy and tourism industry
+[Flagship airline of new zealand]: Air new zealand --[Is]-> Flagship airline of new zealand 0.8666887283325195
+[Flagship airline of new zealand]: Air new zealand --[Operates]-> Boeing 787 dreamliners 0.8381915092468262
+[Flagship airline of new zealand]: Air new zealand --[Member of]-> Star alliance 0.8434815406799316
+[Flagship airline of new zealand]: Air new zealand --[Operates]-> Modern fleet of aircraft 0.848160445690155
+[Flagship airline of new zealand]: Air new zealand --[Headquartered in]-> Auckland 0.8444938659667969
+[Flagship airline of new zealand]: Air new zealand --[Aligns with]-> New zealand's broader environmental goals 0.8272572755813599
+[Flagship airline of new zealand]: Air new zealand --[Continues to evolve in response to]-> Dynamic landscape of global aviation 0.8481543064117432
+[Flagship airline of new zealand]: Air new zealand --[Implemented]-> Various initiatives aimed at improving fuel efficiency 0.8101304173469543
+[Flagship airline of new zealand]: Air new zealand --[Reflects]-> Airline's responsibility as a key player in the transport sector 0.8512676358222961
+[Flagship airline of new zealand]: Air new zealand --[Known for]-> Innovative approach to customer service and safety 0.8569130897521973
+[Flagship airline of new zealand]: Air new zealand --[Operates]-> Airbus a320s 0.8448413014411926
+[Flagship airline of new zealand]: Air new zealand --[Expanded services to include]-> Long-haul international flights 0.8489677906036377
+[Flagship airline of new zealand]: Air new zealand --[Invested in]-> Sustainable aviation fuel 0.8345549702644348
+[Flagship airline of new zealand]: Air new zealand --[Contributes significantly to]-> Country's economy and connectivity 0.8485751748085022
+[Flagship airline of new zealand]: Air new zealand --[Established in]-> 1940 0.8644154071807861
+[Flagship airline of new zealand]: Air new zealand --[Plays crucial role in]-> Connecting new zealand's remote regions with major urban centers 0.8587659597396851
+[Flagship airline of new zealand]: Air new zealand --[Remains]-> Cornerstone of new zealand's transport infrastructure 0.8324650526046753
+[Flagship airline of new zealand]: Air new zealand --[Committed to]-> Sustainability and reducing its carbon footprint 0.8213361501693726
+[Flagship airline of new zealand]: Air new zealand --[Operates]-> Numerous routes connecting major cities and regional centers 0.8455550670623779
+[Flagship airline of new zealand]: Air new zealand --[Expanded]-> Domestic air services 0.8726975321769714
+[Flagship airline of new zealand]: Air new zealand --[Introduced]-> Jet aircraft 0.8311089873313904
+[Flagship airline of new zealand]: Teal --[Became]-> Air new zealand 0.8327770829200745
+[Airline's responsibility as a key player in the transport sector]: Air new zealand --[Reflects]-> Airline's responsibility as a key player in the transport sector 0.8512676358222961
+[Airline's responsibility as a key player in the transport sector]: Air new zealand --[Operates]-> Boeing 787 dreamliners 0.8381915092468262
+[Airline's responsibility as a key player in the transport sector]: Air new zealand --[Member of]-> Star alliance 0.8434815406799316
+[Airline's responsibility as a key player in the transport sector]: Air new zealand --[Operates]-> Modern fleet of aircraft 0.848160445690155
+[Airline's responsibility as a key player in the transport sector]: Air new zealand --[Headquartered in]-> Auckland 0.8444938659667969
+[Airline's responsibility as a key player in the transport sector]: Air new zealand --[Aligns with]-> New zealand's broader environmental goals 0.8272572755813599
+[Airline's responsibility as a key player in the transport sector]: Air new zealand --[Continues to evolve in response to]-> Dynamic landscape of global aviation 0.8481543064117432
+[Airline's responsibility as a key player in the transport sector]: Air new zealand --[Implemented]-> Various initiatives aimed at improving fuel efficiency 0.8101304173469543

@@ -1,0 +1,36 @@
+When is the first implementation of the National Ticketing System (NTS) expected to take place?
+None
+Seed: National Ticketing Solution request for proposal
+Seed: National Ticketing System
+Seed: Request for National Ticketing System Documentation
+Seed: RFP for National Ticket System
+[National Ticketing Solution request for proposal]: www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ --[CONTAINS]-> National Ticketing Solution request for proposal 0.8462520837783813
+[National Ticketing Solution request for proposal]: RFP for National Ticket System --[AVAILABLE]-> www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ 0.8455162048339844
+[National Ticketing System]: Request for National Ticketing System Documentation --[REQUESTS]-> National Ticketing System 0.8697406053543091
+[National Ticketing System]: Email --[CONTAINS]-> Request for National Ticketing System Documentation 0.8476017117500305
+[Request for National Ticketing System Documentation]: Email --[CONTAINS]-> Request for National Ticketing System Documentation 0.8476017117500305
+[Request for National Ticketing System Documentation]: Email --[IS]-> andrew.knackstedt@nzta.govt.nz 0.7811930179595947
+[Request for National Ticketing System Documentation]: Contact Information --[CONTAINS]-> Email 0.7159121632575989
+[Request for National Ticketing System Documentation]: New Zealand Transport Agency --[RECEIVED_REQUEST]-> Email 0.778652548789978
+[Request for National Ticketing System Documentation]: Email --[CONTAINS]-> request 0.7116091847419739
+[Request for National Ticketing System Documentation]: Request for National Ticketing System Documentation --[REQUESTS]-> National Ticketing System 0.8697406053543091
+[RFP for National Ticket System]: New Zealand Transport Agency --[REFUSES]-> RFP for National Ticket System 0.7967264652252197
+[RFP for National Ticket System]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7782233357429504
+[RFP for National Ticket System]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7776042222976685
+[RFP for National Ticket System]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7881168127059937
+[RFP for National Ticket System]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7793660759925842
+[RFP for National Ticket System]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.785890519618988
+[RFP for National Ticket System]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7772035598754883
+[RFP for National Ticket System]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7869783639907837
+[RFP for National Ticket System]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7756145000457764
+[RFP for National Ticket System]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7782069444656372
+[RFP for National Ticket System]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7780891060829163
+[RFP for National Ticket System]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7608472108840942
+[RFP for National Ticket System]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7815946340560913
+[RFP for National Ticket System]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7885891795158386
+[RFP for National Ticket System]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7750006318092346
+[RFP for National Ticket System]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7820869088172913
+[RFP for National Ticket System]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7755450010299683
+[RFP for National Ticket System]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.767386257648468
+[RFP for National Ticket System]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7666634321212769
+[RFP for National Ticket System]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7953600883483887

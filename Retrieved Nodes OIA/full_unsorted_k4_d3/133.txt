@@ -1,0 +1,36 @@
+What is the annual accident rate on State Highway 16 (SH16) over the last decade for the 80km/h and 100km/h speed limits?
+None
+Seed: annual accident rate on SH16
+Seed: comparing the number of accidents under the 100km speed limit versus the current 80km speed rate
+Seed: vehicle accidents
+Seed: information on vehicle accidents
+[annual accident rate on SH16]: Debrin Foxcroft --[REQUESTS]-> annual accident rate on SH16 0.8697636723518372
+[annual accident rate on SH16]: Debrin Foxcroft --[EMAILS]-> NZ Transport Agency 0.745874285697937
+[annual accident rate on SH16]: NZ Transport Agency --[ASSOCIATED]-> Andrew Knackstedt 0.7516719102859497
+[annual accident rate on SH16]: Andrew Knackstedt --[ASSOCIATED]-> NZ Transport Agency 0.7607129216194153
+[annual accident rate on SH16]: NZ Transport Agency --[ASSOCIATED]-> oia-4596 0.7801111340522766
+[annual accident rate on SH16]: NZ Transport Agency --[ANTICIPATE]-> work on the payment option 0.7320361733436584
+[annual accident rate on SH16]: oia-4596 --[ASSOCIATED]-> NZ Transport Agency 0.7763855457305908
+[annual accident rate on SH16]: NZ Transport Agency --[REVIEWS]-> risk rating 0.7917848229408264
+[annual accident rate on SH16]: risk rating --[REVIEWED_BY]-> NZ Transport Agency 0.7935643196105957
+[annual accident rate on SH16]: NZ Transport Agency --[RESPONSIBLE_FOR]-> risk rating 0.7841445207595825
+[annual accident rate on SH16]: NZ Transport Agency --[CONDUCTS]-> vehicle inspection 0.7683244943618774
+[annual accident rate on SH16]: vehicle inspection --[CONDUCTED_BY]-> NZ Transport Agency 0.7771437168121338
+[annual accident rate on SH16]: risk rating --[ASSIGNED_BY]-> NZ Transport Agency 0.7863650321960449
+[annual accident rate on SH16]: NZ Transport Agency --[DISCUSS]-> Paul Giles 0.7338280081748962
+[annual accident rate on SH16]: Letter --[DISCUSS]-> NZ Transport Agency 0.7545614242553711
+[annual accident rate on SH16]: NZ Transport Agency --[PUBLISHES]-> Response to OIA Request 0.7699628472328186
+[annual accident rate on SH16]: NZ Transport Agency --[ADVERTISES]-> Road Safety Campaigns 0.7777780294418335
+[annual accident rate on SH16]: crash data --[RELATES_TO]-> NZ Transport Agency 0.804008960723877
+[annual accident rate on SH16]: NZ Transport Agency --[PROVIDES]-> response to the request 0.767823338508606
+[annual accident rate on SH16]: questions and responses --[FROM]-> NZ Transport Agency 0.7958264350891113
+[annual accident rate on SH16]: full and correct crash records --[AVAILABLE]-> NZ Transport Agency 0.8019895553588867
+[annual accident rate on SH16]: NZ Transport Agency --[DECLINE]-> summary of the visiting drivers survey 0.7723609805107117
+[annual accident rate on SH16]: NZ Transport Agency --[PROACTIVELY_RELEASED]-> Waka Kotahi 0.7680622935295105
+[annual accident rate on SH16]: Waka Kotahi --[PROACTIVELY_RELEASED]-> NZ Transport Agency 0.7576899528503418
+[annual accident rate on SH16]: Kane Patena --[SIGNED]-> NZ Transport Agency 0.6971508264541626
+[annual accident rate on SH16]: NZ Transport Agency --[DISCUSS]-> Kalpana Narsi-Brown 0.7389792203903198
+[annual accident rate on SH16]: Kane Patena --[DISCUSS]-> NZ Transport Agency 0.7089769244194031
+[annual accident rate on SH16]: Georgina Campbell --[REQUESTS]-> NZ Transport Agency 0.7379145622253418
+[annual accident rate on SH16]: NZ Transport Agency --[PROVIDES]-> 23 documents 0.7650513648986816
+[annual accident rate on SH16]: NZ Transport Agency --[DOES_NOT]-> support the Agency Approach 0.7347036600112915

@@ -1,0 +1,10 @@
+What is the annual accident rate on State Highway 16 (SH16) over the last decade for the 80km/h and 100km/h speed limits?
+None
+Seed: annual accident rate on SH16
+Seed: comparing the number of accidents under the 100km speed limit versus the current 80km speed rate
+Seed: vehicle accidents
+Seed: information on vehicle accidents
+[annual accident rate on SH16]: Debrin Foxcroft --[REQUESTS]-> annual accident rate on SH16 0.8697636723518372
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[INTERESTED_IN]-> comparing the number of accidents under the 100km speed limit versus the current 80km speed rate 0.8590115904808044
+[vehicle accidents]: vehicle accidents --[LOCATED]-> intersection of Kiddle Drive/Arrowsmith Ave 0.8030250072479248
+[information on vehicle accidents]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.8011813163757324

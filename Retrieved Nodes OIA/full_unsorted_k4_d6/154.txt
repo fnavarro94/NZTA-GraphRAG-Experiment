@@ -1,0 +1,36 @@
+What specific type of endorsement is mentioned in the OIA-2127 document?
+None
+Seed: applications for I endorsements
+Seed: standards for all licence endorsement holders
+Seed: I endorsement holders
+Seed: renewals of existing endorsement holders
+[applications for I endorsements]: Transport Agency --[ASSESS]-> applications for I endorsements 0.8482099175453186
+[applications for I endorsements]: www.ombudsman.parliament.nz --[PROVIDES]-> Transport Agency 0.8039979934692383
+[applications for I endorsements]: www.ombudsman.parliament.nz --[LINKS_TO]-> Ombudsman 0.8097286224365234
+[applications for I endorsements]: right to ask the Ombudsman to review --[IS_GRANTED_BY]-> Ombudsman 0.7851700782775879
+[applications for I endorsements]: right to ask the Ombudsman to review --[EXERCISED_BY]-> requester 0.7858508229255676
+[applications for I endorsements]: requester --[SUBMITTED]-> request 0.7432562112808228
+[applications for I endorsements]: OIA requests --[SUBMITTED_BY]-> requester 0.7920887470245361
+[applications for I endorsements]: requester --[LIVES_IN]-> Auckland 0.7325310111045837
+[applications for I endorsements]: Andrew Knackstedt --[CONTACTED]-> requester 0.7621627449989319
+[applications for I endorsements]: section 28 of the Act --[GRANTS]-> right to ask the Ombudsman to review 0.7804539203643799
+[applications for I endorsements]: request --[RELATES_TO]-> section 28 of the Act 0.7790712714195251
+[applications for I endorsements]: decision to refuse request --[BASED_ON]-> section 28 of the Act 0.7709509134292603
+[applications for I endorsements]: Ombudsman --[REVIEW_REQUEST]-> decision 0.7788274884223938
+[applications for I endorsements]: decision --[REFUSES]-> request 0.7353601455688477
+[applications for I endorsements]: request --[RELATES_TO]-> section 18(e) of the Act 0.7924872636795044
+[applications for I endorsements]: Waka Kotahi NZ Transport Agency --[REFUSES]-> request 0.7241581082344055
+[applications for I endorsements]: request --[REFUSED]-> decision to refuse request 0.7487990856170654
+[applications for I endorsements]: request --[REFUSED]-> section 18(e) of the Act 0.7684612274169922
+[applications for I endorsements]: New Zealand Transport Agency --[RESPONDS]-> request 0.776814341545105
+[applications for I endorsements]: request --[RELATES_TO]-> response letter 0.7637324333190918
+[applications for I endorsements]: Waka Kotahi --[CONSIDERS]-> request 0.7372260093688965
+[applications for I endorsements]: request --[RELATES_TO]-> renewal and resurfacing programmes 0.7648326754570007
+[applications for I endorsements]: request --[FROM]-> Taylor Rice 0.770256519317627
+[applications for I endorsements]: New Zealand Transport Agency --[RESPONDS_TO]-> request 0.7699849605560303
+[applications for I endorsements]: request --[REFUSE]-> decision 0.7512125968933105
+[applications for I endorsements]: request --[DISCUSS]-> Andrew Knackstedt 0.7626215219497681
+[applications for I endorsements]: Andrew Knackstedt --[DISCUSS]-> request 0.7731859683990479
+[applications for I endorsements]: decision --[REFUSE]-> request 0.7551501393318176
+[applications for I endorsements]: Chris Lokum --[RESPONDS]-> request 0.7620590329170227
+[applications for I endorsements]: Waka Kotahi --[RESPONDS]-> request 0.7447004914283752

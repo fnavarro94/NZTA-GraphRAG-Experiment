@@ -1,0 +1,11 @@
+How does NZTA handle reports of threats or attacks against driving test examiners?
+None
+Seed: Speed and Drunk Driving Enforcement
+Seed: national, regional and local road safety promotion and education campaigns
+Seed: Road Policing Activities
+Seed: breaches of rules or regulations
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[DOUBLES]-> Speed and Drunk Driving Enforcement 0.7971984148025513
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.820286750793457
+[national, regional and local road safety promotion and education campaigns]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8349337577819824
+[Road Policing Activities]: Road Safety Partnership Programme --[PROVIDES]-> Road Policing Activities 0.8016133308410645
+[breaches of rules or regulations]: Waka Kotahi --[INVESTIGATES]-> breaches of rules or regulations 0.8159617185592651

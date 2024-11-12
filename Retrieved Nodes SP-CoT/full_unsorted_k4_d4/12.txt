@@ -1,0 +1,36 @@
+What international agreement does the program, established in 2010, which requires periodic testing of older vehicles to ensure they meet emissions standards throughout their operational life, align with to help limit global warming and reduce carbon emissions?
+None
+Seed: Vehicles meet specific emissions standards
+Seed: International agreements
+Seed: Paris agreement
+Seed: Commitment to reducing carbon emissions
+[Vehicles meet specific emissions standards]: Nzta --[Ensures]-> Vehicles meet specific emissions standards 0.8418089151382446
+[Vehicles meet specific emissions standards]: Nzta --[Plays a pivotal role in]-> The development and implementation of these systems 0.7434272766113281
+[Vehicles meet specific emissions standards]: Nzta --[Actively exploring]-> Connected and autonomous vehicles 0.7741276621818542
+[Vehicles meet specific emissions standards]: Nzta --[Actively exploring]-> The potential of emerging technologies 0.7467508912086487
+[Vehicles meet specific emissions standards]: Nzta --[Actively exploring]-> Improving road safety 0.7577587366104126
+[Vehicles meet specific emissions standards]: Electronic stability control --[Influenced by]-> Improving road safety 0.7589055895805359
+[Vehicles meet specific emissions standards]: Electronic stability control --[Designed to]-> Enhance vehicle stability 0.7918471097946167
+[Vehicles meet specific emissions standards]: Electronic stability control --[Is]-> Advanced safety feature 0.7700400352478027
+[Vehicles meet specific emissions standards]: Vehicle safety technologies --[Include]-> Electronic stability control 0.8032435774803162
+[Vehicles meet specific emissions standards]: Electronic stability control --[Utilize]-> Sensors 0.7605942487716675
+[Vehicles meet specific emissions standards]: New zealand --[Has adopted]-> Electronic stability control 0.7784794569015503
+[Vehicles meet specific emissions standards]: Electronic stability control --[Helps]-> Reduce skidding 0.7570358514785767
+[Vehicles meet specific emissions standards]: Electronic stability control --[Helps]-> Reduce rollovers 0.7735545635223389
+[Vehicles meet specific emissions standards]: Electronic stability control --[Helps]-> Maintain control 0.7576246857643127
+[Vehicles meet specific emissions standards]: Electronic stability control --[Mandatory]-> New zealand 0.7849544286727905
+[Vehicles meet specific emissions standards]: Electronic stability control --[Mandatory]-> New vehicles 0.8083235025405884
+[Vehicles meet specific emissions standards]: Electronic stability control --[Contributed to]-> Challenging driving conditions 0.7903969287872314
+[Vehicles meet specific emissions standards]: Electronic stability control --[Contributed to]-> Improved road safety 0.7737615704536438
+[Vehicles meet specific emissions standards]: Electronic stability control --[Contributed to]-> Rural areas 0.7789311408996582
+[Vehicles meet specific emissions standards]: Electronic stability control --[Particularly relevant in]-> New zealand 0.7853561639785767
+[Vehicles meet specific emissions standards]: Electronic stability control --[Range from]-> Mountainous terrains 0.7550584077835083
+[Vehicles meet specific emissions standards]: Electronic stability control --[Range from]-> Urban environments 0.7673346400260925
+[Vehicles meet specific emissions standards]: Electronic stability control --[Range from]-> Rural roads 0.7764949202537537
+[Vehicles meet specific emissions standards]: Electronic stability control --[Monitor]-> Vehicle's direction 0.7671623826026917
+[Vehicles meet specific emissions standards]: Electronic stability control --[Monitor]-> Vehicle's speed 0.7742117047309875
+[Vehicles meet specific emissions standards]: Electronic stability control --[Intervene]-> When necessary 0.7554929852485657
+[Vehicles meet specific emissions standards]: Electronic stability control --[Prevent]-> Loss of control 0.7449089288711548
+[Vehicles meet specific emissions standards]: Electronic stability control --[Prevent]-> Skidding 0.7503778338432312
+[Vehicles meet specific emissions standards]: Electronic stability control --[Especially during]-> Adverse weather conditions 0.7818191647529602
+[Vehicles meet specific emissions standards]: Electronic stability control --[Especially during]-> Emergency maneuvers 0.7610628604888916

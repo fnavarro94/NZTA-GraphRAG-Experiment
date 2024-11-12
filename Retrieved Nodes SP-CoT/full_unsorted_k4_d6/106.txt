@@ -1,0 +1,36 @@
+Who operates the rail network in the country where the regular activities performed to keep roads safe and functional, including vegetation control, litter removal, and drainage maintenance, are described by what term?
+None
+Seed: Transport as critical component of nation's infrastructure
+Seed: Significant role in planning and management of transport infrastructure and services
+Seed: Crucial role in promoting road safety
+Seed: Rail infrastructure
+[Transport as critical component of nation's infrastructure]: Resource management act 1991 --[Recognizes]-> Transport as critical component of nation's infrastructure 0.8075459003448486
+[Transport as critical component of nation's infrastructure]: Teia --[Governed by]-> Resource management act 1991 0.7773156762123108
+[Transport as critical component of nation's infrastructure]: Teia --[Evaluates]-> Potential effects of transport projects 0.7828806042671204
+[Transport as critical component of nation's infrastructure]: Teia --[Includes]-> Economic factors 0.7188557386398315
+[Transport as critical component of nation's infrastructure]: Regional transport planning --[Considers]-> Economic factors 0.7705471515655518
+[Transport as critical component of nation's infrastructure]: Regional transport planning --[Aims to]-> Meet mobility needs of communities 0.7923985719680786
+[Transport as critical component of nation's infrastructure]: Regional transport planning --[Is]-> Critical component 0.8066506385803223
+[Transport as critical component of nation's infrastructure]: Regional transport planning --[Considers]-> Environmental factors 0.7969182729721069
+[Transport as critical component of nation's infrastructure]: Environmental factors --[Explore]-> How weather conditions influence road user behavior 0.7509819865226746
+[Transport as critical component of nation's infrastructure]: Environmental factors --[Explore]-> How road infrastructure quality influences road user behavior 0.7622432112693787
+[Transport as critical component of nation's infrastructure]: Regional transport planning --[Considers]-> Social factors 0.7841171622276306
+[Transport as critical component of nation's infrastructure]: Teia --[Includes]-> Social factors 0.7219653129577637
+[Transport as critical component of nation's infrastructure]: Land transport management act 2003 --[Governs]-> Regional transport planning 0.7925122976303101
+[Transport as critical component of nation's infrastructure]: Land transport management act 2003 --[Aims to]-> Provide framework for sustainable development 0.7766568660736084
+[Transport as critical component of nation's infrastructure]: Land transport management act 2003 --[Provides for]-> Establishment of national land transport fund 0.7613555192947388
+[Transport as critical component of nation's infrastructure]: Land transport management act 2003 --[Enacted on]-> 1 july 2004 0.7781671285629272
+[Transport as critical component of nation's infrastructure]: Land transport management act 2003 --[Is]-> Key piece of legislation 0.7874226570129395
+[Transport as critical component of nation's infrastructure]: Land transport management act 2003 --[Has been updated]-> To incorporate principles of sustainability 0.7780235409736633
+[Transport as critical component of nation's infrastructure]: Land transport management act 2003 --[Has undergone]-> Several amendments to address emerging transport challenges 0.7731388807296753
+[Transport as critical component of nation's infrastructure]: Land transport management act 2003 --[Mandates]-> Involvement of various stakeholders in planning and decision-making processes 0.7837966084480286
+[Transport as critical component of nation's infrastructure]: Land transport management act 2003 --[Establishes]-> Framework for development of regional land transport plans 0.7754188179969788
+[Transport as critical component of nation's infrastructure]: Land transport management act 2003 --[Emphasizes]-> Importance of integrating land transport planning with land use planning 0.7692906260490417
+[Transport as critical component of nation's infrastructure]: National land transport programme --[Established under]-> Land transport management act 2003 0.7927438616752625
+[Transport as critical component of nation's infrastructure]: Wellington regional public transport plan --[Established under]-> Land transport management act 2003 0.775343656539917
+[Transport as critical component of nation's infrastructure]: National land transport fund --[Established under]-> Land transport management act 2003 0.7802663445472717
+[Transport as critical component of nation's infrastructure]: Waka kotahi nz transport agency --[Established under]-> Land transport management act 2003 0.7750545740127563
+[Transport as critical component of nation's infrastructure]: Waka kotahi --[Established under]-> Land transport management act 2003 0.7604492902755737
+[Transport as critical component of nation's infrastructure]: New zealand --[Has]-> Land transport management act 2003 0.7791072130203247
+[Transport as critical component of nation's infrastructure]: Land transport management act 2003 --[Marked]-> Shift towards integrated transport planning 0.7753582000732422
+[Transport as critical component of nation's infrastructure]: Land transport management act 2003 --[Governs]-> Public transport services 0.7850098609924316

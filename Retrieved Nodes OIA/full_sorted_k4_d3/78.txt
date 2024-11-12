@@ -1,0 +1,34 @@
+What were the concerns raised in the complaint about Uber to the NZ Transport Agency?
+None
+Seed: 196 complaints about Uber drivers
+Seed: ride share operator complaints
+Seed: Complaint Data
+Seed: why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’
+[196 complaints about Uber drivers]: questions and responses --[FROM]-> NZ Transport Agency 0.924270510673523
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[RESPONDED]-> Uber 0.9176509380340576
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[RESPONDED]-> complaint 0.9107036590576172
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[RECEIVED]-> one complaint 0.9107010960578918
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[RESPONDS]-> queries 0.9045649170875549
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[RESPONDS]-> OIA-10752 0.9033845067024231
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[RECEIVES]-> personal grievances 0.9028943777084351
+[ride share operator complaints]: questions and responses --[FROM]-> NZ Transport Agency 0.924270510673523
+[ride share operator complaints]: New Zealand Transport Agency --[RESPONDED]-> Uber 0.9176509380340576
+[ride share operator complaints]: New Zealand Transport Agency --[RESPONDED]-> complaint 0.9107036590576172
+[ride share operator complaints]: New Zealand Transport Agency --[RECEIVED]-> one complaint 0.9107010960578918
+[ride share operator complaints]: New Zealand Transport Agency --[RESPONDS]-> queries 0.9045649170875549
+[ride share operator complaints]: New Zealand Transport Agency --[RESPONDS]-> OIA-10752 0.9033845067024231
+[ride share operator complaints]: New Zealand Transport Agency --[RECEIVES]-> personal grievances 0.9028943777084351
+[Complaint Data]: New Zealand Transport Agency --[RESPONDED]-> Uber 0.9176509380340576
+[Complaint Data]: New Zealand Transport Agency --[RESPONDED]-> complaint 0.9107036590576172
+[Complaint Data]: New Zealand Transport Agency --[RECEIVED]-> one complaint 0.9107010960578918
+[Complaint Data]: New Zealand Transport Agency --[RESPONDS]-> queries 0.9045649170875549
+[Complaint Data]: New Zealand Transport Agency --[RESPONDS]-> OIA-10752 0.9033845067024231
+[Complaint Data]: New Zealand Transport Agency --[RECEIVES]-> personal grievances 0.9028943777084351
+[Complaint Data]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.9021261930465698
+[why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’]: enquiry --[ASKS]-> why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’ 0.8985319137573242
+[why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’]: Transport Agency --[PUBLISHES]-> response to this request on our website 0.8840321898460388
+[why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’]: Transport Agency --[PROVIDES]-> response to this request on our website 0.8816167116165161
+[why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’]: www.ombudsman.parliament.nz --[PROVIDES]-> Transport Agency 0.8794441819190979
+[why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’]: New Zealand --[HOME_TO]-> Transport Agency 0.8678276538848877
+[why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’]: RideMate --[TESTED]-> Transport Agency 0.8633997440338135
+[why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’]: Mobility Marketplace --[TESTED]-> Transport Agency 0.8620305061340332

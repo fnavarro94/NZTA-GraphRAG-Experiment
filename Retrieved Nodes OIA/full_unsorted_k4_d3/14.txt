@@ -1,0 +1,36 @@
+Does NZTA impose a quality assurance or performance clause for pothole repair work, and if so, where can it be found?
+None
+Seed: pothole repair specifications
+Seed: request for pothole repair cost information
+Seed: https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf
+Seed: potholes
+[pothole repair specifications]: https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf --[ACCESS]-> pothole repair specifications 0.8869953751564026
+[pothole repair specifications]: website --[LINKS]-> https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf 0.8628110885620117
+[pothole repair specifications]: scheduled tasks --[IS_REMOVED]-> website 0.7621158957481384
+[pothole repair specifications]: website --[LOCATED_AT]-> www.ombudsman.parliament.nz 0.7808322906494141
+[pothole repair specifications]: personal information removed --[IS_REMOVED]-> website 0.7319315075874329
+[pothole repair specifications]: responses --[PUBLISHED_ON]-> website 0.7784184217453003
+[pothole repair specifications]: maintenance specifications --[AVAILABLE]-> website 0.8083298206329346
+[pothole repair specifications]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8165701627731323
+[pothole repair specifications]: Waka Kotahi --[FOLLOW]-> website 0.7491892576217651
+[pothole repair specifications]: personal information removed --[RELATES_TO]-> website 0.7237662076950073
+[pothole repair specifications]: website --[RELATES_TO]-> Waka Kotahi 0.7653273940086365
+[pothole repair specifications]: Waka Kotahi policy --[PUBLISHED]-> website 0.7967675924301147
+[pothole repair specifications]: Waka Kotahi --[PUBLISHES]-> website 0.762818455696106
+[pothole repair specifications]: website --[BELONGS_TO]-> Waka Kotahi 0.7625346779823303
+[pothole repair specifications]: response --[IS_PUBLISHED_ON]-> website 0.7862260341644287
+[pothole repair specifications]: response letter --[IS_PUBLISHED_ON]-> website 0.7806271314620972
+[pothole repair specifications]: policy --[APPLIES_TO]-> website 0.7734358310699463
+[pothole repair specifications]: website --[PUBLISHES]-> response 0.7662265300750732
+[pothole repair specifications]: pothole repair specifications --[FROM]-> NZTA 0.9272093772888184
+[pothole repair specifications]: NZTA --[SETS]-> quality standards 0.8805959820747375
+[pothole repair specifications]: quality standards --[THROUGH]-> Maintenance Management Plan 0.8097679615020752
+[pothole repair specifications]: NZTA --[PROVIDES]-> maintenance specifications 0.8799540996551514
+[pothole repair specifications]: NZTA --[PROVIDES]-> third-party web pages 0.8211961984634399
+[pothole repair specifications]: third-party web pages --[LINKS]-> https://www.ezstreetasphalt.co.nz/ 0.7734535932540894
+[pothole repair specifications]: quarterly reports --[AUDITED]-> NZTA 0.8362637162208557
+[pothole repair specifications]: Maintenance Management Plan --[REPORT]-> quarterly reports 0.7922330498695374
+[pothole repair specifications]: transport_data --[ASSOCIATED_WITH]-> NZTA 0.7981883883476257
+[pothole repair specifications]: page_label: 1 --[ASSOCIATED_WITH]-> transport_data 0.741807758808136
+[pothole repair specifications]: transport_data --[ASSOCIATED_WITH]-> Andrew McFarlane 0.7623541355133057
+[pothole repair specifications]: Andrew McFarlane --[ASSOCIATED_WITH]-> transport_data 0.7579848766326904

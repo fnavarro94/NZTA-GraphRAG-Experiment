@@ -1,0 +1,36 @@
+Who is the Programme Director for the National Ticketing System (NTS) mentioned in the letter?
+None
+Seed: Programme Director, NTS
+Seed: National Ticketing System
+Seed: RFP for National Ticket System
+Seed: National Ticketing Solution request for proposal
+[Programme Director, NTS]: Programme Director, NTS --[AT]-> New Zealand Transport Agency 0.878320574760437
+[Programme Director, NTS]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7728176116943359
+[Programme Director, NTS]: New Zealand Transport Agency --[BASED]-> Wellington 0.7763341665267944
+[Programme Director, NTS]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7772300243377686
+[Programme Director, NTS]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.781090259552002
+[Programme Director, NTS]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7726486921310425
+[Programme Director, NTS]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.779078483581543
+[Programme Director, NTS]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7763451337814331
+[Programme Director, NTS]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7901718616485596
+[Programme Director, NTS]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7671504616737366
+[Programme Director, NTS]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7878806591033936
+[Programme Director, NTS]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7812947034835815
+[Programme Director, NTS]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8020285367965698
+[Programme Director, NTS]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8054415583610535
+[Programme Director, NTS]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8011848330497742
+[Programme Director, NTS]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8132355809211731
+[Programme Director, NTS]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8076649904251099
+[Programme Director, NTS]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7953940629959106
+[Programme Director, NTS]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8039950728416443
+[Programme Director, NTS]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7824819684028625
+[Programme Director, NTS]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8148627877235413
+[Programme Director, NTS]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7894730567932129
+[Programme Director, NTS]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7954626083374023
+[Programme Director, NTS]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8035688400268555
+[Programme Director, NTS]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8007661700248718
+[Programme Director, NTS]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7904655337333679
+[Programme Director, NTS]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7971788644790649
+[Programme Director, NTS]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7925853133201599
+[Programme Director, NTS]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8081125020980835
+[Programme Director, NTS]: Senior Engineer Vehicle Standard --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7757580280303955

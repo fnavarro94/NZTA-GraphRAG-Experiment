@@ -1,0 +1,36 @@
+How does Waka Kotahi prioritize road renewal and resurfacing beyond design life?
+None
+Seed: Waka Kotahi Senior Project Manager
+Seed: Waka Kotahi N Z Transport Agency
+Seed: Waka Kotahi policy
+Seed: Waka Kotahi NZ Transport Agency
+[Waka Kotahi Senior Project Manager]: Waka Kotahi Senior Project Manager --[MANAGES]-> State Highway 25A Rebuild Project 0.8687067627906799
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINS]-> Waka Kotahi N Z Transport Agency 0.8340190649032593
+[Waka Kotahi N Z Transport Agency]: Data --[PROVIDED]-> Waka Kotahi N Z Transport Agency 0.8461179733276367
+[Waka Kotahi policy]: Waka Kotahi --[FOLLOWS]-> Waka Kotahi policy 0.8681348562240601
+[Waka Kotahi policy]: Waka Kotahi policy --[PUBLISHED]-> website 0.8629480600357056
+[Waka Kotahi policy]: Waka Kotahi policy --[REQUIRES]-> publishing responses on website 0.8282471895217896
+[Waka Kotahi policy]: Waka Kotahi NZ Transport Agency --[FOLLOWS]-> Waka Kotahi policy 0.8506582379341125
+[Waka Kotahi policy]: New Zealand Transport Agency --[POLICY]-> Waka Kotahi policy 0.8762567639350891
+[Waka Kotahi policy]: Waka Kotahi --[POLICY]-> Waka Kotahi policy 0.8537205457687378
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.8308906555175781
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.8405656218528748
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.8399344086647034
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> list of LGWM construction contracts 0.8251621723175049
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> public transport fare policy review 0.8344305753707886
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.8401138782501221
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8412054181098938
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.8430029153823853
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.8406111598014832
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[FAX]-> F 64 4 894 6100 0.8374057412147522
+[Waka Kotahi NZ Transport Agency]: Andrew Knackstedt --[CONTACT]-> Waka Kotahi NZ Transport Agency 0.8319405317306519
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[CONTACT]-> T 64 4 894 5400 0.8264899849891663
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.8298512101173401
+[Waka Kotahi NZ Transport Agency]: Chris Marshall --[REQUESTS]-> Waka Kotahi NZ Transport Agency 0.8281393647193909
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.8505014777183533
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.8527266979217529
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.8339090347290039
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[ANNOUNCED]-> Road to Zero 0.8568103313446045
+[Waka Kotahi NZ Transport Agency]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8555330038070679
+[Waka Kotahi NZ Transport Agency]: Road to Zero --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8622374534606934
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.8599269390106201

@@ -1,0 +1,34 @@
+Who operates the rail network in the country known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, and is responsible for the term that describes the regular activities performed to keep roads safe and functional, including vegetation control, litter removal, and drainage maintenance?
+None
+Seed: Significant role in planning and management of transport infrastructure and services
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+Seed: Critical for freight and passenger movement
+Seed: Critical component of new zealand's transport strategy
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Plays]-> Significant role in planning and management of transport infrastructure and services 0.8216127753257751
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Recognizes]-> Transport as critical component of nation's infrastructure 0.8194189071655273
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Recognizes]-> Transport as critical component 0.819398820400238
+[Significant role in planning and management of transport infrastructure and services]: Land transport act --[Provides]-> Framework for implementing road safety campaigns and initiatives 0.8178150653839111
+[Significant role in planning and management of transport infrastructure and services]: Regional transport planning --[Considers]-> Social factors 0.8172659873962402
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Plays]-> Significant role in shaping transport infrastructure 0.8169958591461182
+[Significant role in planning and management of transport infrastructure and services]: New zealand --[Is]-> Critical aspect of transport policy 0.8162128329277039
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Aims to]-> Enhance resilience and adaptability of new zealand's transport network 0.813478946685791
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Plays]-> Significant role in shaping transport infrastructure and policy in new zealand 0.8073991537094116
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Is]-> Collective of australian and new zealand road transport and traffic agencies 0.7993488907814026
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Engages in]-> International collaborations to align initiatives with global best practices 0.770313024520874
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Conducts]-> Extensive research and development projects 0.7635674476623535
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Collaborates with]-> New zealand transport agency (nzta 0.7594257593154907
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Founded in]-> 1990 0.7370621562004089
+[Critical for freight and passenger movement]: Rail network --[Plays]-> Crucial role in freight transport 0.8653159141540527
+[Critical for freight and passenger movement]: Rail network --[Is]-> Integral for freight transport 0.8447299003601074
+[Critical for freight and passenger movement]: Road maintenance strategies --[Are]-> Critical components 0.8365098237991333
+[Critical for freight and passenger movement]: Road transport --[Accounts for]-> Majority of passenger and freight movements 0.8320252299308777
+[Critical for freight and passenger movement]: Road transport --[Accounts for]-> Majority of passenger and freight movement 0.8285796642303467
+[Critical for freight and passenger movement]: Rail network --[Connects]-> Major cities and industrial hubs 0.8280989527702332
+[Critical for freight and passenger movement]: Road transport --[Accounts for]-> Significant portion of passenger and freight movement 0.8278068900108337
+[Critical component of new zealand's transport strategy]: Sustainable urban transport --[Encompasses]-> Strategies 0.8264285326004028
+[Critical component of new zealand's transport strategy]: Sustainable urban transport --[Characterized by]-> Major cities 0.8258134126663208
+[Critical component of new zealand's transport strategy]: Community engagement --[Is]-> Critical aspect of transport planning 0.8244311809539795
+[Critical component of new zealand's transport strategy]: Sustainable urban transport --[Key component]-> Transport sector 0.8240604400634766
+[Critical component of new zealand's transport strategy]: Road safety strategy --[Encompasses]-> Range of initiatives and policies 0.823583722114563
+[Critical component of new zealand's transport strategy]: Road safety strategy --[Aimed to reduce]-> Road deaths and serious injuries 0.8234139084815979
+[Critical component of new zealand's transport strategy]: Sustainable urban transport --[Key component]-> Ongoing projects 0.8232830762863159

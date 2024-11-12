@@ -1,0 +1,34 @@
+When was NZTA advised about the sale of VINZ, and what were the implications for vehicle inspection authority?
+None
+Seed: Sale of VINZ
+Seed: Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below.
+Seed: Vehicle Inspection
+Seed: bid for NZ Transport Agency funding
+[Sale of VINZ]: Transport Agency --[ADVISED_OF]-> Sale of VINZ 0.8939305543899536
+[Sale of VINZ]: Sale of VINZ --[DATE]-> March 2015 0.8474085927009583
+[Sale of VINZ]: VINZ --[SOLD]-> March 2015 0.8432580232620239
+[Sale of VINZ]: Transport Agency --[FOCUSED_ON]-> gauge interest from commerical operators 0.8150429725646973
+[Sale of VINZ]: www.ombudsman.parliament.nz --[PROVIDES]-> Transport Agency 0.8146957159042358
+[Sale of VINZ]: Transport Agency --[DISCUSS]-> HVSCs 0.8090072274208069
+[Sale of VINZ]: Kevin Reid --[TRUST]-> Transport Agency 0.8069989085197449
+[Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below.]: Vehicle Inspection --[CONDUCTED_BY]-> New Zealand Transport Agency 0.8666824698448181
+[Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below.]: New Zealand Transport Agency --[PROVIDES]-> Vehicle Inspection Data 0.8492883443832397
+[Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below.]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.841768741607666
+[Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below.]: New Zealand Transport Agency --[PROVIDES]-> information to bernard.orsman@nzherald.co.nz 0.841239869594574
+[Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below.]: New Zealand Transport Agency --[POLICY]-> Investigating transport companies 0.8411905765533447
+[Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below.]: NZTA Website --[OPERATED_BY]-> New Zealand Transport Agency 0.8407784700393677
+[Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below.]: Audits, Reviews, Investigations --[CONDUCTED_BY]-> New Zealand Transport Agency 0.8391821980476379
+[Vehicle Inspection]: Vehicle Inspection --[CONDUCTED_BY]-> New Zealand Transport Agency 0.8666824698448181
+[Vehicle Inspection]: New Zealand --[REGULATES]-> Vehicle Inspection 0.8570104241371155
+[Vehicle Inspection]: New Zealand Transport Agency --[PROVIDES]-> Vehicle Inspection Data 0.8492883443832397
+[Vehicle Inspection]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.841768741607666
+[Vehicle Inspection]: New Zealand Transport Agency --[PROVIDES]-> information to bernard.orsman@nzherald.co.nz 0.841239869594574
+[Vehicle Inspection]: New Zealand Transport Agency --[POLICY]-> Investigating transport companies 0.8411905765533447
+[Vehicle Inspection]: NZTA Website --[OPERATED_BY]-> New Zealand Transport Agency 0.8407784700393677
+[bid for NZ Transport Agency funding]: Auckland Transport --[SUBMITS]-> bid for NZ Transport Agency funding 0.8232093453407288
+[bid for NZ Transport Agency funding]: Auckland Transport --[CONTACT]-> officialinformation@at.govt.nz 0.800433874130249
+[bid for NZ Transport Agency funding]: Auckland Transport --[PROVIDES]-> funding 0.7994524836540222
+[bid for NZ Transport Agency funding]: Auckland Transport --[MANAGES]-> roads 0.7933334112167358
+[bid for NZ Transport Agency funding]: Auckland Transport --[RESPONSIBLE_FOR]-> AT Mobile app 0.7931032180786133
+[bid for NZ Transport Agency funding]: Auckland Transport --[DEVELOPS]-> AT Mobile app 0.7899063229560852
+[bid for NZ Transport Agency funding]: Auckland Transport --[CONTRIBUTED]-> No 0.7898479700088501

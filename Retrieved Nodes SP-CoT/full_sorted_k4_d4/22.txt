@@ -1,0 +1,34 @@
+What is the abbreviation for the project in Auckland that uses real-time data to manage traffic and provide timely information to commuters?
+None
+Seed: Addressing transport challenges in auckland
+Seed: Real-time traffic data collection
+Seed: Real-time traffic management systems
+Seed: Advanced technology and real-time data analytics
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Development of comprehensive transport network 0.8833969831466675
+[Addressing transport challenges in auckland]: Auckland cycling network plan --[Developed by]-> Auckland transport 0.8753441572189331
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Encompasses]-> Range of projects 0.8718466758728027
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Addressing transport challenges in auckland 0.8703999519348145
+[Addressing transport challenges in auckland]: Auckland city rail link --[Is]-> Significant infrastructure project 0.8698794841766357
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Create unified transport network 0.868393063545227
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On enhancing road infrastructure 0.867870032787323
+[Real-time traffic data collection]: Auckland --[Has]-> Transport projects 0.8918423652648926
+[Real-time traffic data collection]: Auckland transport --[Implemented]-> Cycling infrastructure projects 0.8823006749153137
+[Real-time traffic data collection]: Auckland transport --[Responsible for]-> Planning 0.8806260228157043
+[Real-time traffic data collection]: Auckland transport --[Responsible for]-> Development 0.8774411082267761
+[Real-time traffic data collection]: Auckland transport --[Implemented]-> Cycleways 0.8761576414108276
+[Real-time traffic data collection]: Auckland transport --[Plays]-> Crucial role 0.8753831386566162
+[Real-time traffic data collection]: Auckland cycling network plan --[Developed by]-> Auckland transport 0.8753441572189331
+[Real-time traffic management systems]: New zealand government --[Has invested in]-> Real-time traffic management systems 0.8760640621185303
+[Real-time traffic management systems]: Traffic management systems --[Governed by]-> New zealand transport agency 0.8737232089042664
+[Real-time traffic management systems]: Sustainable urban transport --[Key component]-> Auckland 0.873478353023529
+[Real-time traffic management systems]: New zealand --[Has]-> Transport projects 0.873328685760498
+[Real-time traffic management systems]: New zealand --[Has]-> Innovative traffic management strategies 0.8714302182197571
+[Real-time traffic management systems]: New zealand --[Address]-> Traffic congestion 0.8690528273582458
+[Real-time traffic management systems]: Transport data analytics --[Gained importance]-> New zealand 0.8688346147537231
+[Advanced technology and real-time data analytics]: Auckland transport operations centre --[Utilizes]-> Advanced technology and real-time data analytics 0.9095391035079956
+[Advanced technology and real-time data analytics]: Auckland transport operations centre --[Utilizes]-> Advanced traffic monitoring systems 0.9084839820861816
+[Advanced technology and real-time data analytics]: Auckland --[Has]-> Transport projects 0.8918423652648926
+[Advanced technology and real-time data analytics]: Auckland --[Has]-> Transport infrastructure 0.8899842500686646
+[Advanced technology and real-time data analytics]: Auckland transport --[Implemented]-> Cycling infrastructure projects 0.8823006749153137
+[Advanced technology and real-time data analytics]: Auckland --[Has]-> Public transport system 0.8817687630653381
+[Advanced technology and real-time data analytics]: Auckland --[Has]-> Traffic congestion 0.8808380961418152

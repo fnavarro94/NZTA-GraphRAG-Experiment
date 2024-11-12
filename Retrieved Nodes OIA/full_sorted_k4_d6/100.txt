@@ -1,0 +1,28 @@
+How many crashes occurred at the Kiddle Drive/Arrowsmith Avenue intersection in Taupō after October 2019?
+None
+Seed: intersection of Kiddle Drive/Arrowsmith Ave
+Seed: Kiddle Drive/Arrowsmith Ave Taupō
+Seed: Road Traffic Crashes
+Seed: Traffic Crash Report
+[intersection of Kiddle Drive/Arrowsmith Ave]: vehicle accidents --[LOCATED]-> intersection of Kiddle Drive/Arrowsmith Ave 0.909781813621521
+[intersection of Kiddle Drive/Arrowsmith Ave]: intersection of Kiddle Drive/Arrowsmith Ave --[CROSSES]-> Napier Road 0.8553223609924316
+[intersection of Kiddle Drive/Arrowsmith Ave]: Napier Road --[IN]-> Taupo 0.8495903015136719
+[intersection of Kiddle Drive/Arrowsmith Ave]: Data --[LIMITED]-> intersection of Kiddle Drive/Arrowsmith Ave 0.8450238108634949
+[intersection of Kiddle Drive/Arrowsmith Ave]: road traffic crashes --[OCCURS_IN]-> Queenstown Lakes and Central Otago 0.8355650901794434
+[intersection of Kiddle Drive/Arrowsmith Ave]: one non-injury crash --[OCCURRED]-> 2022 0.8343721628189087
+[intersection of Kiddle Drive/Arrowsmith Ave]: crashes --[OCCURRED]-> Territorial Local Authorities 0.8295955657958984
+[Kiddle Drive/Arrowsmith Ave Taupō]: Kiddle Drive/Arrowsmith Ave Taupō --[HAS_INTERSECTION]-> intersection 0.8774054646492004
+[Road Traffic Crashes]: vehicle accidents --[LOCATED]-> intersection of Kiddle Drive/Arrowsmith Ave 0.909781813621521
+[Road Traffic Crashes]: intersection of Kiddle Drive/Arrowsmith Ave --[CROSSES]-> Napier Road 0.8553223609924316
+[Road Traffic Crashes]: Data --[LIMITED]-> intersection of Kiddle Drive/Arrowsmith Ave 0.8450238108634949
+[Road Traffic Crashes]: road traffic crashes --[OCCURS_IN]-> Queenstown Lakes and Central Otago 0.8355650901794434
+[Road Traffic Crashes]: one non-injury crash --[OCCURRED]-> 2022 0.8343721628189087
+[Road Traffic Crashes]: crashes --[OCCURRED]-> Territorial Local Authorities 0.8295955657958984
+[Road Traffic Crashes]: crashes --[OCCURRED]-> State Highway 16 0.8248258233070374
+[Traffic Crash Report]: vehicle accidents --[LOCATED]-> intersection of Kiddle Drive/Arrowsmith Ave 0.909781813621521
+[Traffic Crash Report]: intersection of Kiddle Drive/Arrowsmith Ave --[CROSSES]-> Napier Road 0.8553223609924316
+[Traffic Crash Report]: Napier Road --[IN]-> Taupo 0.8495903015136719
+[Traffic Crash Report]: Data --[LIMITED]-> intersection of Kiddle Drive/Arrowsmith Ave 0.8450238108634949
+[Traffic Crash Report]: road traffic crashes --[OCCURS_IN]-> Queenstown Lakes and Central Otago 0.8355650901794434
+[Traffic Crash Report]: one non-injury crash --[OCCURRED]-> 2022 0.8343721628189087
+[Traffic Crash Report]: crashes --[OCCURRED]-> Territorial Local Authorities 0.8295955657958984

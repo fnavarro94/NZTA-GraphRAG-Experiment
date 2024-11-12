@@ -1,0 +1,36 @@
+What independent Crown entity is established by the legislation in New Zealand that aims to enhance the safety and accessibility of walking routes for pedestrians to promote and facilitate walking access throughout New Zealand?
+None
+Seed: Independent crown entity
+Seed: Rights of individuals with disabilities
+Seed: Legislative framework for road safety initiatives
+Seed: Advocacy groups
+[Independent crown entity]: New zealand walking access commission --[Is]-> Independent crown entity 0.9367455244064331
+[Independent crown entity]: New zealand walking access commission --[Promotes]-> Walking access throughout the country 0.8798844814300537
+[Independent crown entity]: New zealand walking access commission --[Provides]-> Information to the public about available routes 0.8605131506919861
+[Independent crown entity]: New zealand walking access commission --[Negotiates]-> Access agreements with landowners 0.8303369283676147
+[Independent crown entity]: Walking access act --[Established]-> New zealand walking access commission 0.8921356201171875
+[Independent crown entity]: Walking access act --[Promotes]-> Sustainable transport options 0.8332085609436035
+[Independent crown entity]: Wellington northern corridor --[Accommodates]-> Sustainable transport options 0.8134628534317017
+[Independent crown entity]: Waka kotahi --[Prioritizes]-> Sustainable transport options 0.763485312461853
+[Independent crown entity]: New zealand --[Promotes]-> Sustainable transport options 0.83011794090271
+[Independent crown entity]: Walking access act --[Aims to enhance]-> Public access to the outdoors 0.8389099836349487
+[Independent crown entity]: Walking access act --[Is]-> Significant piece of legislation 0.8554077744483948
+[Independent crown entity]: Road user charges act 2012 --[Is]-> Significant piece of legislation 0.8155295252799988
+[Independent crown entity]: Walking access act --[Encourages]-> Outdoor recreation 0.8233075141906738
+[Independent crown entity]: New zealand walking access commission --[Identifies]-> Walking access routes 0.8667775988578796
+[Rights of individuals with disabilities]: Human rights act 1993 --[Outlines]-> Rights of individuals with disabilities 0.8031203150749207
+[Rights of individuals with disabilities]: Transport accessibility standards --[Rooted in]-> Human rights act 1993 0.8292848467826843
+[Rights of individuals with disabilities]: Transport accessibility standards --[Are]-> Guidelines and regulations 0.8142415881156921
+[Rights of individuals with disabilities]: Transport accessibility standards --[Rooted in]-> Disability discrimination act 1992 0.8289329409599304
+[Rights of individuals with disabilities]: Transport accessibility standards --[Aim]-> Ensure access 0.8117139935493469
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Provides]-> Legislative framework for road safety initiatives 0.8113654255867004
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Reflected in]-> Land transport act 1998 0.8049939274787903
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Aiming to]-> Reduce road traffic accidents and fatalities 0.7948659062385559
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Emphasis on]-> Standardized road signs and signals 0.7920315265655518
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Aimed at]-> Facilitating international road traffic 0.8083001375198364
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Integrated into]-> New zealand's national road traffic laws 0.8552041053771973
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Ratified by]-> Numerous countries 0.8020358085632324
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Aimed at]-> Promoting road safety 0.8048044443130493
+[Legislative framework for road safety initiatives]: Road safety authority --[Responsible for]-> Promoting road safety 0.8304718136787415
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Adopted]-> Graduated licensing system 0.7892682552337646
+[Legislative framework for road safety initiatives]: New zealand --[Has]-> Graduated licensing system 0.8255755305290222

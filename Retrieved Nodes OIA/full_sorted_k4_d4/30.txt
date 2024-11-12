@@ -1,0 +1,31 @@
+What type of public transport solution was being considered for the route between Wynyard Quarter and the north-western motorway?
+None
+Seed: reports on converting the shoulder of Auckland Motorway into Bus Lanes
+Seed: https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/
+Seed: review of public transport fare policy
+Seed: Briefing for Fergus on WCC proposal to install non-complying rainbow pedestrian crossing traffic control device
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Zachary Wong --[REQUESTED]-> reports on converting the shoulder of Auckland Motorway into Bus Lanes 0.8135884404182434
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf --[APPENDIX]-> Appendices A to E 0.806395947933197
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: reports on converting the shoulder of Auckland Motorway into Bus Lanes --[PROVIDED]-> Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf 0.7956129312515259
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Zachary Wong --[EMAIL]-> fyi-request-9242-f4aad453@requests.fyi.org.nz 0.7037843465805054
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Project Agreement --[AVAILABLE]-> https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/ 0.8196707367897034
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: New Zealand Transport Agency --[PROVIDES]-> Prolongation Costs 0.7841321229934692
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Wellington Gateway Partnership --[RECEIVES]-> Prolongation Costs 0.7792150974273682
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: New Zealand Transport Agency --[PROVIDES]-> Periodic Payments 0.76742023229599
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Prolongation Costs --[INCURRED]-> WGP 0.7661184072494507
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Wellington Gateway Partnership --[RECEIVES]-> Periodic Payments 0.7632173895835876
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Project Agreement --[GOVERNED_BY]-> Public Private Partnership 0.7453817129135132
+[review of public transport fare policy]: Regional Public Transport Plans --[DEVELOPED_BY]-> Waka Kotahi 0.8381390571594238
+[review of public transport fare policy]: Connected Journey Solutions --[IS_PART_OF]-> New Zealand Transport Agency 0.8281615972518921
+[review of public transport fare policy]: Transport Gully --[MEETS]-> needs of customers 0.8274713754653931
+[review of public transport fare policy]: transport infrastructure --[SERVED_BY]-> Waka Kotahi 0.8238844871520996
+[review of public transport fare policy]: Connected Journey Solutions --[DELIVERS]-> innovative transport solutions 0.8232333064079285
+[review of public transport fare policy]: New Zealand Transport Agency --[PROVIDES]-> Connected Journey Solutions 0.8230506181716919
+[review of public transport fare policy]: public transport --[PROVIDED_BY]-> Auckland Transport 0.8226079940795898
+[Briefing for Fergus on WCC proposal to install non-complying rainbow pedestrian crossing traffic control device]: Fergus Gammie --[BRIEFING]-> Briefing for Fergus on WCC proposal to install non-complying rainbow pedestrian crossing traffic control device 0.810894250869751
+[Briefing for Fergus on WCC proposal to install non-complying rainbow pedestrian crossing traffic control device]: WCC --[PROPOSAL]-> install non-complying rainbow pedestrian crossing traffic control device 0.807042121887207
+[Briefing for Fergus on WCC proposal to install non-complying rainbow pedestrian crossing traffic control device]: National Manager Infrastructure Delivery --[AT]-> NZTA 0.7820769548416138
+[Briefing for Fergus on WCC proposal to install non-complying rainbow pedestrian crossing traffic control device]: Emma Speight --[Director Regional Relationships]-> New Zealand Transport Agency 0.7757411003112793
+[Briefing for Fergus on WCC proposal to install non-complying rainbow pedestrian crossing traffic control device]: NZTA --[TOOK_OVER]-> road 0.7707843780517578
+[Briefing for Fergus on WCC proposal to install non-complying rainbow pedestrian crossing traffic control device]: WCC --[SAFETY_ASSESSMENT]-> Rainbow Crossing Safety Review FINAL 0.7702110409736633
+[Briefing for Fergus on WCC proposal to install non-complying rainbow pedestrian crossing traffic control device]: Rainbow Crossing --[SAFETY_REVIEW]-> Safety Review 0.7599555253982544

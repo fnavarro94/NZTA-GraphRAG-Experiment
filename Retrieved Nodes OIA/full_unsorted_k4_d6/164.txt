@@ -1,0 +1,36 @@
+What is the typical early termination notice period for Let's Get Wellington Moving contracts?
+None
+Seed: clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: Let's Get Wellington Moving
+Seed: information on LGWM construction contracts
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi --[FOLLOWS]-> clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement 0.8482562303543091
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Response --[CONTAINS]-> Waka Kotahi 0.7439332008361816
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi --[PUBLISHES]-> Response 0.7533411383628845
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: response --[CONTAINS]-> Waka Kotahi 0.7404325008392334
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.8124601244926453
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.8233504295349121
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.7819656133651733
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.8161681294441223
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> list of LGWM construction contracts 0.8050360083580017
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> public transport fare policy review 0.7755133509635925
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.7697409987449646
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.772970974445343
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.7811058163642883
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.7792385816574097
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi NZ Transport Agency --[FAX]-> F 64 4 894 6100 0.8013908863067627
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Andrew Knackstedt --[CONTACT]-> Waka Kotahi NZ Transport Agency 0.8090769052505493
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi NZ Transport Agency --[CONTACT]-> T 64 4 894 5400 0.7999759912490845
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.82257479429245
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Chris Marshall --[REQUESTS]-> Waka Kotahi NZ Transport Agency 0.7950538992881775
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.8105743527412415
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.778799831867218
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi NZ Transport Agency --[ANNOUNCED]-> Road to Zero 0.7894472479820251
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.7707688212394714
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Road to Zero --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.7996612787246704
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.7517037391662598
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.8243531584739685
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: New Zealand --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.800478994846344
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.7917292714118958
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7901707291603088
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: www.nzta.govt.nz --[OF]-> Waka Kotahi NZ Transport Agency 0.8050601482391357

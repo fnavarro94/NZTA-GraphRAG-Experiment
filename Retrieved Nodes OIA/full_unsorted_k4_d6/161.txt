@@ -1,0 +1,36 @@
+How many complaints were made to the NZTA regarding threats or attacks against examiners during driving tests in recent years?
+None
+Seed: Speed and Drunk Driving Enforcement
+Seed: 196 complaints about Uber drivers
+Seed: national, regional and local road safety promotion and education campaigns
+Seed: information related to criminal convictions of driving instructor (I) endorsement holders
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[DOUBLES]-> Speed and Drunk Driving Enforcement 0.7969679832458496
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[FOCUSES_ON]-> Restraints, Impairment, Distraction, Speed 0.7843165397644043
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[PROVIDES]-> Road Policing Activities 0.7802242636680603
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[PROVIDES]-> https://www.nzta.govt.nz/assets/resources/road-policing-programme/docs/rpp-2021-24.pdf 0.827177882194519
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[ALLOCATES]-> $1.24 billion 0.7560480237007141
+[196 complaints about Uber drivers]: Waka Kotahi --[RECEIVES]-> 196 complaints about Uber drivers 0.7992056012153625
+[196 complaints about Uber drivers]: Response --[CONTAINS]-> Waka Kotahi 0.7412903308868408
+[196 complaints about Uber drivers]: Waka Kotahi --[PUBLISHES]-> Response 0.7325502634048462
+[196 complaints about Uber drivers]: response --[CONTAINS]-> Waka Kotahi 0.739385187625885
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.8224936723709106
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7758386135101318
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.8068141937255859
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.7694271206855774
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> list of LGWM construction contracts 0.7508112788200378
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> public transport fare policy review 0.8072912693023682
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.8105612993240356
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8154194951057434
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.7927933931350708
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.7926250100135803
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[FAX]-> F 64 4 894 6100 0.770051896572113
+[196 complaints about Uber drivers]: Andrew Knackstedt --[CONTACT]-> Waka Kotahi NZ Transport Agency 0.781846284866333
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[CONTACT]-> T 64 4 894 5400 0.7695361971855164
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7741963863372803
+[196 complaints about Uber drivers]: Chris Marshall --[REQUESTS]-> Waka Kotahi NZ Transport Agency 0.7749024033546448
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.8162912726402283
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.802099883556366
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[ANNOUNCED]-> Road to Zero 0.7819551229476929
+[196 complaints about Uber drivers]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8324542045593262
+[196 complaints about Uber drivers]: Road to Zero --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.7954287528991699
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.8078385591506958

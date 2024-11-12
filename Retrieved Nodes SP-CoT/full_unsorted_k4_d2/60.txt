@@ -1,0 +1,27 @@
+What is the destination of the scenic train operated by the organization that operates the rail network in New Zealand, primarily serving freight and providing passenger services in metropolitan areas, known for its breathtaking views of New Zealand's landscapes, departing from Christchurch?
+None
+Seed: Scenic passenger train service
+Seed: Scenic routes such as the tranzalpine and the northern explorer
+Seed: New zealand's stunning landscapes
+Seed: Both passenger and freight transport across the cook strait
+[Scenic passenger train service]: Tranzalpine --[Is]-> Scenic passenger train service 0.8189067840576172
+[Scenic passenger train service]: Kiwirail group --[Known for]-> Tranzalpine 0.8045026659965515
+[Scenic passenger train service]: Tranzalpine --[Operated by]-> Kiwirail 0.810579776763916
+[Scenic passenger train service]: Tranzalpine --[Travels through]-> Canterbury plains 0.7974779009819031
+[Scenic passenger train service]: Tranzalpine --[Covers]-> 223 kilometers 0.7384073138237
+[Scenic passenger train service]: Tranzalpine --[Journey]-> Through southern alps 0.7611385583877563
+[Scenic passenger train service]: Tranzalpine --[Traverses]-> Diverse landscapes 0.7653534412384033
+[Scenic passenger train service]: Tranzalpine --[Ascends into]-> Mountains 0.7552276253700256
+[Scenic passenger train service]: Tranzalpine --[Operates between]-> Christchurch and greymouth 0.7836053371429443
+[Scenic passenger train service]: Tranzalpine --[Journey begins]-> Christchurch railway station 0.8179295659065247
+[Scenic passenger train service]: Tranzalpine --[Renowned for]-> Breathtaking views 0.7704275846481323
+[Scenic passenger train service]: Tranzalpine --[Is]-> Scenic train 0.8218117952346802
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Include]-> Scenic routes such as the tranzalpine and the northern explorer 0.82259202003479
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Showcase]-> New zealand's stunning landscapes 0.8866977691650391
+[New zealand's stunning landscapes]: Passenger rail services --[Showcase]-> New zealand's stunning landscapes 0.8866977691650391
+[New zealand's stunning landscapes]: Passenger rail services --[Include]-> Scenic routes such as the tranzalpine and the northern explorer 0.82259202003479
+[Both passenger and freight transport across the cook strait]: Port of wellington --[Facilitates]-> Both passenger and freight transport across the cook strait 0.8195949196815491
+[Both passenger and freight transport across the cook strait]: Port of wellington --[Is]-> One of the busiest ports in new zealand 0.8043075799942017
+[Both passenger and freight transport across the cook strait]: Port of wellington --[Connects]-> Wellington to the south island 0.7951292991638184
+[Both passenger and freight transport across the cook strait]: Port of wellington --[Handles]-> Variety of cargo 0.7945336103439331
+[Both passenger and freight transport across the cook strait]: Port of wellington --[Serves as]-> Departure point for ferries 0.8026805520057678

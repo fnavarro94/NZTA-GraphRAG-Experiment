@@ -1,0 +1,34 @@
+I'm sorry, but the raw question you provided is incomplete. Could you please provide the missing information so I can form a complete and accurate natural question for you?
+None
+Seed: Paramount importance
+Seed: Cultural factors
+Seed: Ecological factors
+Seed: Environmental concerns
+[Paramount importance]: Resource management act 1991 --[Subject to]-> Criticism for complexity 0.8097231388092041
+[Paramount importance]: New zealand --[Has]-> Significant issue 0.8074634671211243
+[Paramount importance]: Teia --[Includes]-> Ecological factors 0.8074631690979004
+[Paramount importance]: Teia --[Includes]-> Cultural factors 0.8063626289367676
+[Paramount importance]: New zealand --[Has]-> Dispersed population 0.8037899732589722
+[Paramount importance]: Unique challenges --[Include]-> Erosion 0.8027291893959045
+[Paramount importance]: New zealand --[Characterized by]-> Dispersed population 0.802230179309845
+[Cultural factors]: Resource management act 1991 --[Subject to]-> Criticism for complexity 0.8097231388092041
+[Cultural factors]: New zealand --[Has]-> Significant issue 0.8074634671211243
+[Cultural factors]: Teia --[Includes]-> Ecological factors 0.8074631690979004
+[Cultural factors]: Teia --[Includes]-> Cultural factors 0.8063626289367676
+[Cultural factors]: New zealand --[Has]-> Dispersed population 0.8037899732589722
+[Cultural factors]: Unique challenges --[Include]-> Erosion 0.8027291893959045
+[Cultural factors]: New zealand --[Characterized by]-> Dispersed population 0.802230179309845
+[Ecological factors]: Resource management act 1991 --[Subject to]-> Criticism for complexity 0.8097231388092041
+[Ecological factors]: New zealand --[Has]-> Significant issue 0.8074634671211243
+[Ecological factors]: Teia --[Includes]-> Ecological factors 0.8074631690979004
+[Ecological factors]: Teia --[Includes]-> Cultural factors 0.8063626289367676
+[Ecological factors]: New zealand --[Has]-> Dispersed population 0.8037899732589722
+[Ecological factors]: Unique challenges --[Include]-> Erosion 0.8027291893959045
+[Ecological factors]: New zealand --[Characterized by]-> Dispersed population 0.802230179309845
+[Environmental concerns]: Resource management act 1991 --[Subject to]-> Criticism for complexity 0.8097231388092041
+[Environmental concerns]: New zealand --[Has]-> Significant issue 0.8074634671211243
+[Environmental concerns]: Teia --[Includes]-> Ecological factors 0.8074631690979004
+[Environmental concerns]: Teia --[Includes]-> Cultural factors 0.8063626289367676
+[Environmental concerns]: New zealand --[Has]-> Dispersed population 0.8037899732589722
+[Environmental concerns]: Unique challenges --[Include]-> Erosion 0.8027291893959045
+[Environmental concerns]: New zealand --[Characterized by]-> Dispersed population 0.802230179309845

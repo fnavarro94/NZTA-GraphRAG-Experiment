@@ -1,0 +1,36 @@
+What legislation established the source of funding for road maintenance strategies in New Zealand, which is derived from fuel excise duties and road user charges?
+None
+Seed: Primarily financed through fuel excise duties
+Seed: Funding maintenance and development of roads
+Seed: Fuel excise duties
+Seed: Legislative framework for road safety initiatives
+[Primarily financed through fuel excise duties]: National land transport fund --[Is]-> Primarily financed through fuel excise duties 0.8661221265792847
+[Primarily financed through fuel excise duties]: National land transport fund --[Is]-> Key financial mechanism 0.8118752837181091
+[Primarily financed through fuel excise duties]: National land transport fund --[Plays crucial role in]-> Ensuring transport infrastructure meets needs of growing population and economy 0.8080506324768066
+[Primarily financed through fuel excise duties]: National land transport fund --[Established under]-> Land transport management act 2003 0.8147459030151367
+[Primarily financed through fuel excise duties]: Land transport management act 2003 --[Aims to]-> Provide framework for sustainable development 0.7949228882789612
+[Primarily financed through fuel excise duties]: Land transport management act 2003 --[Provides for]-> Establishment of national land transport fund 0.8035871386528015
+[Primarily financed through fuel excise duties]: Land transport management act 2003 --[Enacted on]-> 1 july 2004 0.8073768615722656
+[Primarily financed through fuel excise duties]: Land transport management act 2003 --[Is]-> Key piece of legislation 0.8248935341835022
+[Primarily financed through fuel excise duties]: Health and safety at work act 2015 --[Is]-> Key piece of legislation 0.7944871187210083
+[Primarily financed through fuel excise duties]: Health and safety at work act 2015 --[Emphasizes]-> Importance of proactive risk management 0.7715034484863281
+[Primarily financed through fuel excise duties]: Health and safety at work act 2015 --[Introduced]-> Robust approach to workplace safety 0.759453296661377
+[Primarily financed through fuel excise duties]: Health and safety at work act 2015 --[Applies to]-> Road transport 0.8184282779693604
+[Primarily financed through fuel excise duties]: Health and safety at work act 2015 --[Emphasizes]-> Importance of risk management 0.7632148265838623
+[Primarily financed through fuel excise duties]: Health and safety at work act 2015 --[Applies to]-> Maritime 0.7702056169509888
+[Primarily financed through fuel excise duties]: Health and safety at work act 2015 --[Emphasizes]-> Worker participation 0.7630419135093689
+[Primarily financed through fuel excise duties]: Health and safety at work act 2015 --[Applies to]-> Aviation 0.774124801158905
+[Primarily financed through fuel excise duties]: Health and safety at work act 2015 --[Replaced]-> Health and safety in employment act 1992 0.7676386833190918
+[Primarily financed through fuel excise duties]: Health and safety at work act 2015 --[Applies to]-> Rail 0.7906463146209717
+[Primarily financed through fuel excise duties]: Health and safety at work act 2015 --[Introduced]-> Robust approach to workplace health and safety 0.7607644200325012
+[Primarily financed through fuel excise duties]: Rail transport safety --[Governed by]-> Health and safety at work act 2015 0.8041465878486633
+[Primarily financed through fuel excise duties]: Land transport act --[Is]-> Key piece of legislation 0.8273845911026001
+[Primarily financed through fuel excise duties]: Electric scooters --[Classified under]-> Land transport act 0.78641277551651
+[Primarily financed through fuel excise duties]: Land transport act --[Provides]-> Framework for implementing road safety campaigns and initiatives 0.8173692226409912
+[Primarily financed through fuel excise duties]: Land transport act --[Sets]-> Safety and emissions standards 0.7925947904586792
+[Primarily financed through fuel excise duties]: Land transport act --[Reflects]-> New zealand's commitment to sustainable development 0.8220754861831665
+[Primarily financed through fuel excise duties]: Land transport act --[Mandates]-> Registration of all motor vehicles 0.7735000848770142
+[Primarily financed through fuel excise duties]: Land transport act --[Aims to create]-> Comprehensive framework for safe and efficient movement of people and goods 0.8016351461410522
+[Primarily financed through fuel excise duties]: Land transport act --[Includes]-> Structured licensing system 0.8055855631828308
+[Primarily financed through fuel excise duties]: Land transport act --[Consolidates and updates]-> Previous transport laws 0.7982878684997559
+[Primarily financed through fuel excise duties]: Land transport act --[Enacted in]-> 1998 0.8233626484870911

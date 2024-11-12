@@ -1,0 +1,36 @@
+How many staff have resigned from NZTA since March 2016?
+None
+Seed: resignations by year since 2014
+Seed: staff resignation data
+Seed: staff joining and resigning data
+Seed: context for resignations
+[resignations by year since 2014]: New Zealand Transport Agency --[PROVIDES]-> resignations by year since 2014 0.8769615292549133
+[resignations by year since 2014]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8109264373779297
+[resignations by year since 2014]: New Zealand Transport Agency --[BASED]-> Wellington 0.8090346455574036
+[resignations by year since 2014]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7676176428794861
+[resignations by year since 2014]: Golden Mile --[LOCATED]-> Wellington 0.7500948309898376
+[resignations by year since 2014]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7499858140945435
+[resignations by year since 2014]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7824825048446655
+[resignations by year since 2014]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7676706314086914
+[resignations by year since 2014]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7780686020851135
+[resignations by year since 2014]: Wellington --[PART_OF]-> Wellington Region 0.7937623262405396
+[resignations by year since 2014]: New Zealand --[HAS_CAPITAL]-> Wellington 0.8095418810844421
+[resignations by year since 2014]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.745274543762207
+[resignations by year since 2014]: Wellington --[HAS]-> tunnel 0.7799354195594788
+[resignations by year since 2014]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7882608771324158
+[resignations by year since 2014]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7659850120544434
+[resignations by year since 2014]: Wellington --[POSTCODE]-> 6141 0.7631349563598633
+[resignations by year since 2014]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.8085135817527771
+[resignations by year since 2014]: Wellington --[IS_PART_OF]-> New Zealand 0.7952991724014282
+[resignations by year since 2014]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7582809925079346
+[resignations by year since 2014]: 50 Victoria Street --[IN]-> Wellington 0.7433589696884155
+[resignations by year since 2014]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7838954925537109
+[resignations by year since 2014]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7548505663871765
+[resignations by year since 2014]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7689291834831238
+[resignations by year since 2014]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7893139123916626
+[resignations by year since 2014]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7894551753997803
+[resignations by year since 2014]: NZ Transport Agency --[LOCATED]-> Wellington 0.8109149932861328
+[resignations by year since 2014]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7524532675743103
+[resignations by year since 2014]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7405994534492493
+[resignations by year since 2014]: New Zealand --[CONTAINS]-> Wellington 0.7964657545089722
+[resignations by year since 2014]: Wellington --[PART_OF]-> New Zealand 0.8049683570861816

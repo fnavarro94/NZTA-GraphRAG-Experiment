@@ -1,0 +1,36 @@
+How much did Meredith Connell invoice NZTA for legal services from November 2018 to June 2019?
+None
+Seed: highest single amount invoiced was $93,114.27
+Seed: administration fee
+Seed: $130,675
+Seed: $949,349
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[INVOICES]-> highest single amount invoiced was $93,114.27 0.8336039781570435
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7732927799224854
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[BASED]-> Wellington 0.7662817239761353
+[highest single amount invoiced was $93,114.27]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7887653112411499
+[highest single amount invoiced was $93,114.27]: Golden Mile --[LOCATED]-> Wellington 0.7299622297286987
+[highest single amount invoiced was $93,114.27]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7385008335113525
+[highest single amount invoiced was $93,114.27]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7609112858772278
+[highest single amount invoiced was $93,114.27]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7628821730613708
+[highest single amount invoiced was $93,114.27]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.781815767288208
+[highest single amount invoiced was $93,114.27]: Wellington --[PART_OF]-> Wellington Region 0.7405130863189697
+[highest single amount invoiced was $93,114.27]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7576913237571716
+[highest single amount invoiced was $93,114.27]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7310022115707397
+[highest single amount invoiced was $93,114.27]: Wellington --[HAS]-> tunnel 0.7406142950057983
+[highest single amount invoiced was $93,114.27]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7554637789726257
+[highest single amount invoiced was $93,114.27]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7967242002487183
+[highest single amount invoiced was $93,114.27]: Wellington --[POSTCODE]-> 6141 0.7612923383712769
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7665046453475952
+[highest single amount invoiced was $93,114.27]: Wellington --[IS_PART_OF]-> New Zealand 0.7420148849487305
+[highest single amount invoiced was $93,114.27]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7468982934951782
+[highest single amount invoiced was $93,114.27]: 50 Victoria Street --[IN]-> Wellington 0.7528537511825562
+[highest single amount invoiced was $93,114.27]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7621990442276001
+[highest single amount invoiced was $93,114.27]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7571431398391724
+[highest single amount invoiced was $93,114.27]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7810059785842896
+[highest single amount invoiced was $93,114.27]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7600743174552917
+[highest single amount invoiced was $93,114.27]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7572404146194458
+[highest single amount invoiced was $93,114.27]: NZ Transport Agency --[LOCATED]-> Wellington 0.7747043371200562
+[highest single amount invoiced was $93,114.27]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7482235431671143
+[highest single amount invoiced was $93,114.27]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7578002214431763
+[highest single amount invoiced was $93,114.27]: New Zealand --[CONTAINS]-> Wellington 0.7404057383537292
+[highest single amount invoiced was $93,114.27]: Wellington --[PART_OF]-> New Zealand 0.7475460171699524

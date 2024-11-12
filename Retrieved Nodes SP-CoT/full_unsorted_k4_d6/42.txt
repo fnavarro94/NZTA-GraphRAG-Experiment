@@ -1,0 +1,36 @@
+Which country hosted the adoption of the international agreement that promotes road safety and the harmonization of traffic regulations among member countries, to which New Zealand is a signatory?
+None
+Seed: New zealand's commitment to international standards in road safety and traffic management
+Seed: New zealand's road safety initiatives
+Seed: New zealand's national road traffic laws
+Seed: Significant shift in new zealand's approach to road safety
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Reflects]-> New zealand's commitment to international standards in road safety and traffic management 0.8843696117401123
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Aiming to]-> Reduce road traffic accidents and fatalities 0.8274402022361755
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Reflected in]-> Land transport act 1998 0.8215301036834717
+[New zealand's commitment to international standards in road safety and traffic management]: Road transport safety --[Governed by]-> Land transport act 1998 0.8148519992828369
+[New zealand's commitment to international standards in road safety and traffic management]: Road transport safety --[Focus on]-> Safer roads 0.798611044883728
+[New zealand's commitment to international standards in road safety and traffic management]: Road transport safety --[Focus on]-> Safer road users 0.7962392568588257
+[New zealand's commitment to international standards in road safety and traffic management]: Road transport safety --[Focus on]-> Safer vehicles 0.7920652627944946
+[New zealand's commitment to international standards in road safety and traffic management]: Safer journeys strategy --[Focused on]-> Safer vehicles 0.7955062389373779
+[New zealand's commitment to international standards in road safety and traffic management]: Safer journeys strategy --[Marked]-> Significant shift in new zealand's approach to road safety 0.8467788696289062
+[New zealand's commitment to international standards in road safety and traffic management]: Safer journeys strategy --[Focused on]-> Safer roads and roadsides 0.8053977489471436
+[New zealand's commitment to international standards in road safety and traffic management]: Safer journeys strategy --[Focused on]-> Safer speeds 0.7817592620849609
+[New zealand's commitment to international standards in road safety and traffic management]: Safer journeys strategy --[Focused on]-> Safer road use 0.8091036677360535
+[New zealand's commitment to international standards in road safety and traffic management]: Safer journeys strategy --[Focused on]-> Four key areas 0.7819715738296509
+[New zealand's commitment to international standards in road safety and traffic management]: Land transport act 1998 --[Establishes]-> Legal framework for enforcement of road rules 0.8200961947441101
+[New zealand's commitment to international standards in road safety and traffic management]: Land transport act 1998 --[Establishes]-> Legal framework for registration of vehicles 0.8017659783363342
+[New zealand's commitment to international standards in road safety and traffic management]: Road safety legislation --[Governed by]-> Land transport act 1998 0.8154389262199402
+[New zealand's commitment to international standards in road safety and traffic management]: Road safety legislation --[Is]-> New zealand 0.8717683553695679
+[New zealand's commitment to international standards in road safety and traffic management]: New zealand --[Has]-> Transport projects 0.8354260325431824
+[New zealand's commitment to international standards in road safety and traffic management]: New zealand transport agency --[Oversees]-> Transport projects 0.8328592777252197
+[New zealand's commitment to international standards in road safety and traffic management]: Auckland --[Has]-> Transport projects 0.8017506003379822
+[New zealand's commitment to international standards in road safety and traffic management]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.858968198299408
+[New zealand's commitment to international standards in road safety and traffic management]: New zealand --[Has]-> Diverse transport network 0.8320692181587219
+[New zealand's commitment to international standards in road safety and traffic management]: New zealand --[Has]-> Post-incident review 0.8056926131248474
+[New zealand's commitment to international standards in road safety and traffic management]: Post-incident review --[Crucial for]-> Improving operational efficiency 0.7340794801712036
+[New zealand's commitment to international standards in road safety and traffic management]: Post-incident review --[Crucial for]-> Fostering culture of continuous improvement 0.723383903503418
+[New zealand's commitment to international standards in road safety and traffic management]: Post-incident review --[Aimed at]-> Recommending measures 0.7247257232666016
+[New zealand's commitment to international standards in road safety and traffic management]: Post-incident review --[Crucial for]-> Enhancing safety 0.7446361184120178
+[New zealand's commitment to international standards in road safety and traffic management]: Post-incident review --[Is]-> Systematic process 0.7348679304122925
+[New zealand's commitment to international standards in road safety and traffic management]: Post-incident review --[Conducted]-> Following an incident 0.7362971305847168
+[New zealand's commitment to international standards in road safety and traffic management]: Post-incident review --[Aimed at]-> Analyzing circumstances 0.7246915698051453

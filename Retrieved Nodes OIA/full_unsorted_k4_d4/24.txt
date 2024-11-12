@@ -1,0 +1,36 @@
+How many fatal crashes in the Queenstown Lakes and Central Otago districts involved local drivers between 2015 and 2019?
+None
+Seed: drivers involved in fatal crashes
+Seed: Road Traffic Crashes
+Seed: road traffic crashes
+Seed: figures on drivers involved in fatal crashes
+[drivers involved in fatal crashes]: drivers involved in fatal crashes --[INVOLVED_IN]-> fatal crashes 0.8420449495315552
+[drivers involved in fatal crashes]: fatal crashes --[CAUSED_BY]-> drugs or alcohol 0.8159748315811157
+[drivers involved in fatal crashes]: drugs or alcohol --[AFFECTS]-> drivers 0.7775927186012268
+[drivers involved in fatal crashes]: tolls --[COLLECTED]-> drivers 0.7876066565513611
+[drivers involved in fatal crashes]: drivers --[PAY]-> tolls 0.7617901563644409
+[drivers involved in fatal crashes]: drivers --[CONTRIBUTE]-> crash 0.807377815246582
+[drivers involved in fatal crashes]: drivers --[IMPAIRED]-> drugs 0.768540620803833
+[drivers involved in fatal crashes]: drivers --[INVOLVED_IN]-> fatal crashes 0.8439590334892273
+[drivers involved in fatal crashes]: drugs --[PRESENT]-> drivers 0.7614827752113342
+[drivers involved in fatal crashes]: New Zealand Transport Agency --[RESPONDED]-> drivers 0.8267025947570801
+[drivers involved in fatal crashes]: New Zealand Transport Agency --[MANAGES]-> tolls 0.7909975647926331
+[drivers involved in fatal crashes]: tolls --[PAID]-> each year 0.7597220540046692
+[drivers involved in fatal crashes]: tolls --[SPENT]-> on various roads 0.7923597693443298
+[drivers involved in fatal crashes]: tolls --[COLLECTED_BY]-> New Zealand Transport Agency 0.806647539138794
+[drivers involved in fatal crashes]: road maintenance --[SUPPORTED_BY]-> tolls 0.7680671215057373
+[drivers involved in fatal crashes]: tolls --[USED_FOR]-> road maintenance 0.7673451900482178
+[drivers involved in fatal crashes]: maintenance --[FUNDED_BY]-> tolls 0.7490139007568359
+[drivers involved in fatal crashes]: crash --[HAS_FACTOR]-> alcohol 0.7726463675498962
+[drivers involved in fatal crashes]: crash --[HAS_FACTOR]-> multiple factors 0.7722161412239075
+[drivers involved in fatal crashes]: crash --[HAS_FACTOR]-> drug 0.7593652606010437
+[drivers involved in fatal crashes]: crash --[HAS]-> multiple factors 0.786801815032959
+[drivers involved in fatal crashes]: drugs --[ASSOCIATED_WITH]-> Bay of Plenty 0.7392324805259705
+[drivers involved in fatal crashes]: road accident data --[ATTRIBUTED_TO]-> drugs 0.7957168817520142
+[drivers involved in fatal crashes]: contributing factor codes --[RELATING_TO]-> drugs 0.7209718227386475
+[drivers involved in fatal crashes]: drugs --[AFFECTS]-> road safety 0.7760483026504517
+[drivers involved in fatal crashes]: drugs --[FREQUENCY]-> frequency 0.7013938426971436
+[drivers involved in fatal crashes]: drug test results --[IDENTIFY]-> drugs 0.6891049146652222
+[drivers involved in fatal crashes]: drugs --[SUSPECTED]-> impaired driving 0.7701222896575928
+[drivers involved in fatal crashes]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7980141639709473
+[drivers involved in fatal crashes]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7861716747283936

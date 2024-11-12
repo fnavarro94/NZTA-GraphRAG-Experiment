@@ -1,0 +1,36 @@
+What is the current status of the construction drawings for the SH1 Brynderwyn closure, and why are they subject to change?
+None
+Seed: information on LGWM construction contracts
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: investigations, construction findings, on-site progress, design updates, design assumptions
+Seed: Waito hi Picton Ferry Precinct Redevelopment
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.7884243726730347
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7475433349609375
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.7495654821395874
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> list of LGWM construction contracts 0.7735399603843689
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> public transport fare policy review 0.7535334229469299
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.7424306869506836
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.7542386651039124
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.7684020400047302
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.7590734958648682
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[FAX]-> F 64 4 894 6100 0.7417548894882202
+[information on LGWM construction contracts]: Andrew Knackstedt --[CONTACT]-> Waka Kotahi NZ Transport Agency 0.7684811949729919
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[CONTACT]-> T 64 4 894 5400 0.7516478896141052
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7480965852737427
+[information on LGWM construction contracts]: Chris Marshall --[REQUESTS]-> Waka Kotahi NZ Transport Agency 0.7602545619010925
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.7804300785064697
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.78517085313797
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.7483071088790894
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[ANNOUNCED]-> Road to Zero 0.7695672512054443
+[information on LGWM construction contracts]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.7634257078170776
+[information on LGWM construction contracts]: Road to Zero --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.7792948484420776
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.7504576444625854
+[information on LGWM construction contracts]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7572076916694641
+[information on LGWM construction contracts]: New Zealand --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7543717622756958
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.7559250593185425
+[information on LGWM construction contracts]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7463440895080566
+[information on LGWM construction contracts]: www.nzta.govt.nz --[OF]-> Waka Kotahi NZ Transport Agency 0.7774724960327148
+[information on LGWM construction contracts]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.74969083070755
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7406185865402222
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7379472851753235
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[COUNTRY]-> New Zealand 0.7400897145271301

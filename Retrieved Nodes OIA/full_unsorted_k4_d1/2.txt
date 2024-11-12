@@ -1,0 +1,12 @@
+When is the draft Strategic Case for Picton Port Access expected to be completed?
+None
+Seed: 2023-24 State Highway Investment Proposal
+Seed: RE WK PPP Strategy draft
+Seed: Waito hi Picton Ferry Precinct Redevelopment
+Seed: https://nzta.govt.nz/assets/projects/waitohi-picton-transport-network-improvements/picton-transport-improvements-factsheet-202010.pdf
+[2023-24 State Highway Investment Proposal]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.8369826674461365
+[2023-24 State Highway Investment Proposal]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Access and Development Programme Business Case 0.8444842100143433
+[RE WK PPP Strategy draft]: New Zealand Transport Agency --[FALLS_IN_SCOPE]-> RE WK PPP Strategy draft 0.7971137166023254
+[Waito hi Picton Ferry Precinct Redevelopment]: Waito hi Picton Ferry Precinct Redevelopment --[ASSOCIATED_WITH]-> Integrated Transportation Assessment 0.8574420213699341
+[Waito hi Picton Ferry Precinct Redevelopment]: 10 September 2020 --[ASSOCIATED_WITH]-> Waito hi Picton Ferry Precinct Redevelopment 0.8679131269454956
+[https://nzta.govt.nz/assets/projects/waitohi-picton-transport-network-improvements/picton-transport-improvements-factsheet-202010.pdf]: Picton Transport Improvements Factsheet --[AVAILABLE_AT]-> https://nzta.govt.nz/assets/projects/waitohi-picton-transport-network-improvements/picton-transport-improvements-factsheet-202010.pdf 0.8026319742202759

@@ -1,0 +1,36 @@
+Were there any personal grievances or employment law processes underway with Charles Ronaldson, Giles Southwell, or Leigh Mitchell?
+None
+Seed: Giles Southwell
+Seed: Leigh Mitchell
+Seed: Charles Ronaldson
+Seed: public interest in legal professional privilege
+[Giles Southwell]: Giles Southwell --[EMPLOYED_BY]-> New Zealand Transport Agency 0.8193958401679993
+[Giles Southwell]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.6982417106628418
+[Giles Southwell]: New Zealand Transport Agency --[BASED]-> Wellington 0.6955692768096924
+[Giles Southwell]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7084251642227173
+[Giles Southwell]: Golden Mile --[LOCATED]-> Wellington 0.7035318613052368
+[Giles Southwell]: State Highway 1 --[LOCATED_IN]-> Wellington 0.6710755825042725
+[Giles Southwell]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7343476414680481
+[Giles Southwell]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7105532884597778
+[Giles Southwell]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7101976871490479
+[Giles Southwell]: Wellington --[PART_OF]-> Wellington Region 0.7168504595756531
+[Giles Southwell]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7085175514221191
+[Giles Southwell]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.68614262342453
+[Giles Southwell]: Wellington --[HAS]-> tunnel 0.710269033908844
+[Giles Southwell]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.6832423806190491
+[Giles Southwell]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7154127359390259
+[Giles Southwell]: Wellington --[POSTCODE]-> 6141 0.6882476806640625
+[Giles Southwell]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.6925792098045349
+[Giles Southwell]: Wellington --[IS_PART_OF]-> New Zealand 0.7050859928131104
+[Giles Southwell]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7018595933914185
+[Giles Southwell]: 50 Victoria Street --[IN]-> Wellington 0.7181763648986816
+[Giles Southwell]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7323718667030334
+[Giles Southwell]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.6887221336364746
+[Giles Southwell]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7092786431312561
+[Giles Southwell]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.6870564222335815
+[Giles Southwell]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.6911461353302002
+[Giles Southwell]: NZ Transport Agency --[LOCATED]-> Wellington 0.6956150531768799
+[Giles Southwell]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7176609039306641
+[Giles Southwell]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.713510274887085
+[Giles Southwell]: New Zealand --[CONTAINS]-> Wellington 0.6942299604415894
+[Giles Southwell]: Wellington --[PART_OF]-> New Zealand 0.7060379981994629

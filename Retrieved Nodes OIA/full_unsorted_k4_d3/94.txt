@@ -1,0 +1,36 @@
+Where can more information about the retroreflective sheeting for registration plates be found?
+None
+Seed: information on retroreflective sheeting
+Seed: retroreflective sheeting for use in New Zealand
+Seed: retroreflective sheeting
+Seed: https://www.nzta.govt.nz/resources/retroflective-sheeting/
+[information on retroreflective sheeting]: https://www.nzta.govt.nz/resources/retroflective-sheeting/ --[PROVIDES]-> information on retroreflective sheeting 0.9210338592529297
+[information on retroreflective sheeting]: NZTA M25 Retroreflective sheeting --[AVAILABLE]-> https://www.nzta.govt.nz/resources/retroflective-sheeting/ 0.9051926136016846
+[information on retroreflective sheeting]: AS 1906.1 2017 --[LISTS]-> NZTA M25 Retroreflective sheeting 0.9001421928405762
+[information on retroreflective sheeting]: NZTA M25 Retroreflective sheeting --[PROVIDES]-> guidance for manufacturers 0.9009207487106323
+[information on retroreflective sheeting]: information on retroreflective sheeting --[RELATES]-> retroreflective sheeting 0.9330810308456421
+[information on retroreflective sheeting]: retroreflective sheeting --[USED]-> road traffic control purposes 0.8799675703048706
+[information on retroreflective sheeting]: road traffic control purposes --[RELATES]-> retroreflective sheeting 0.8822464942932129
+[information on retroreflective sheeting]: retroreflective sheeting --[MUST_MEET]-> New Zealand standards and specifications 0.8887985348701477
+[information on retroreflective sheeting]: New Zealand standards and specifications --[LISTS]-> AS 1906.1 2017 0.7836721539497375
+[information on retroreflective sheeting]: retroreflective sheeting --[MUST_COMPLY]-> New Zealand standards and specifications 0.8811131119728088
+[information on retroreflective sheeting]: retroreflective sheeting --[APPROVED]-> Waka Kotahi 0.8706974387168884
+[information on retroreflective sheeting]: Response --[CONTAINS]-> Waka Kotahi 0.7413269281387329
+[information on retroreflective sheeting]: response --[CONTAINS]-> Waka Kotahi 0.7324073910713196
+[information on retroreflective sheeting]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.7470850944519043
+[information on retroreflective sheeting]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.7444472908973694
+[information on retroreflective sheeting]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7341365814208984
+[information on retroreflective sheeting]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7333077192306519
+[information on retroreflective sheeting]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.7464666962623596
+[information on retroreflective sheeting]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7484871745109558
+[information on retroreflective sheeting]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.746533215045929
+[information on retroreflective sheeting]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.7471039295196533
+[information on retroreflective sheeting]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7350667715072632
+[information on retroreflective sheeting]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.7462682723999023
+[information on retroreflective sheeting]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.7201619148254395
+[information on retroreflective sheeting]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.730712890625
+[information on retroreflective sheeting]: Leisa Coley --[EMPLOYED_BY]-> Waka Kotahi 0.7145644426345825
+[information on retroreflective sheeting]: Lizette Marais --[EMPLOYED_BY]-> Waka Kotahi 0.7036144733428955
+[information on retroreflective sheeting]: Waka Kotahi --[EMPLOYS]-> Andy Knackstedt 0.7177159190177917
+[information on retroreflective sheeting]: Waka Kotahi --[EMPLOYS]-> Qualified Staff 0.707128643989563
+[information on retroreflective sheeting]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.7824910879135132

@@ -1,0 +1,10 @@
+Which island does the city in New Zealand known for its Metlink services, which focus on providing comprehensive coverage across the region, the capital city of New Zealand, belong to?
+None
+Seed: Largest city in south island
+Seed: Largest city in new zealand
+Seed: Transport link between wellington and northern regions of north island
+Seed: Connecting new zealand's remote regions with major urban centers
+[Largest city in south island]: Christchurch --[Is]-> Largest city in south island 0.8325684070587158
+[Largest city in new zealand]: Auckland --[Is]-> Largest city in new zealand 0.8325598239898682
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Aims to improve]-> Transport link between wellington and northern regions of north island 0.787225604057312
+[Connecting new zealand's remote regions with major urban centers]: Air new zealand --[Plays crucial role in]-> Connecting new zealand's remote regions with major urban centers 0.8327395915985107

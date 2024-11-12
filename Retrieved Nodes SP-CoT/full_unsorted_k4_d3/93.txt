@@ -1,0 +1,36 @@
+In which decade did the construction of the major railway line that is being upgraded to enhance its capacity and efficiency for sustainable transport begin?
+None
+Seed: Growing emphasis on sustainable transport solutions
+Seed: Vision for sustainable transport system
+Seed: Growing emphasis on sustainable transport options
+Seed: Sustainable and efficient transportation solutions
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Growing emphasis on sustainable transport solutions 0.8435629606246948
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Transport projects 0.814051628112793
+[Growing emphasis on sustainable transport solutions]: New zealand transport agency --[Oversees]-> Transport projects 0.7713162899017334
+[Growing emphasis on sustainable transport solutions]: Auckland --[Has]-> Transport projects 0.815281093120575
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.790014386177063
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Diverse transport network 0.7935557961463928
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Post-incident review 0.7144147753715515
+[Growing emphasis on sustainable transport solutions]: Post-incident review --[Crucial for]-> Improving operational efficiency 0.75583815574646
+[Growing emphasis on sustainable transport solutions]: Post-incident review --[Crucial for]-> Fostering culture of continuous improvement 0.7536478638648987
+[Growing emphasis on sustainable transport solutions]: Post-incident review --[Aimed at]-> Recommending measures 0.7284095883369446
+[Growing emphasis on sustainable transport solutions]: Post-incident review --[Crucial for]-> Enhancing safety 0.7367554903030396
+[Growing emphasis on sustainable transport solutions]: Post-incident review --[Is]-> Systematic process 0.7124874591827393
+[Growing emphasis on sustainable transport solutions]: Post-incident review --[Conducted]-> Following an incident 0.7125185132026672
+[Growing emphasis on sustainable transport solutions]: Post-incident review --[Aimed at]-> Analyzing circumstances 0.7223857641220093
+[Growing emphasis on sustainable transport solutions]: Post-incident review --[Aimed at]-> Identifying contributing factors 0.7232704162597656
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.7772168517112732
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.7751072645187378
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Broader environmental policies 0.7797656059265137
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Traffic congestion 0.7614507079124451
+[Growing emphasis on sustainable transport solutions]: Auckland --[Faces challenges]-> Traffic congestion 0.7586021423339844
+[Growing emphasis on sustainable transport solutions]: Wellington public transport plan --[Initiated in response to]-> Traffic congestion 0.7964613437652588
+[Growing emphasis on sustainable transport solutions]: Auckland --[Has]-> Traffic congestion 0.7584625482559204
+[Growing emphasis on sustainable transport solutions]: Wellington --[Has]-> Traffic congestion 0.7436292767524719
+[Growing emphasis on sustainable transport solutions]: Wellington public transport spine study --[Initiated in response to]-> Traffic congestion 0.7684392929077148
+[Growing emphasis on sustainable transport solutions]: Sustainable urban transport --[Faces challenges]-> Traffic congestion 0.8166387677192688
+[Growing emphasis on sustainable transport solutions]: New zealand --[Face]-> Traffic congestion 0.7467222213745117
+[Growing emphasis on sustainable transport solutions]: New zealand --[Address]-> Traffic congestion 0.7366828918457031
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Increasing urbanization 0.7779672145843506
+[Growing emphasis on sustainable transport solutions]: Wellington public transport plan --[Initiated in response to]-> Increasing urbanization 0.8204076290130615
+[Growing emphasis on sustainable transport solutions]: Wellington regional rail plan --[Developed in response to]-> Increasing urbanization 0.838340699672699

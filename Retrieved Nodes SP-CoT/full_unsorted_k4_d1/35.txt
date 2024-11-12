@@ -1,0 +1,10 @@
+In which decade did the construction of the major railway line in New Zealand that is being upgraded to enhance its capacity and efficiency for sustainable transport begin?
+None
+Seed: New zealand's commitment to promoting sustainable transport solutions
+Seed: Growing emphasis on sustainable transport solutions
+Seed: New zealand's commitment to sustainable transport
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+[New zealand's commitment to promoting sustainable transport solutions]: Vissim --[Aligns with]-> New zealand's commitment to promoting sustainable transport solutions 0.834850549697876
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Growing emphasis on sustainable transport solutions 0.8931872844696045
+[New zealand's commitment to sustainable transport]: Vehicle emissions regulations --[Reflect]-> New zealand's commitment to sustainable transport 0.8454888463020325
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Plays]-> Significant role in shaping transport infrastructure and policy in new zealand 0.8473653793334961

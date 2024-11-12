@@ -1,0 +1,31 @@
+What is the current status of the construction drawings for the SH1 Brynderwyn closure, and why are they subject to change?
+None
+Seed: information on LGWM construction contracts
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: investigations, construction findings, on-site progress, design updates, design assumptions
+Seed: Waito hi Picton Ferry Precinct Redevelopment
+[information on LGWM construction contracts]: funding for road maintenance --[FOR]-> State Highway 1 0.8274524807929993
+[information on LGWM construction contracts]: funding for road maintenance --[ASSOCIATED_WITH]-> State Highway 1 0.8232117295265198
+[information on LGWM construction contracts]: road renewal --[OVERDUE]-> road maintenance 0.8154587745666504
+[information on LGWM construction contracts]: LGWM construction contracts --[ASSOCIATED_WITH]-> Wellington City Council 0.814696192741394
+[information on LGWM construction contracts]: State Highway 1 --[OVERDUE]-> road maintenance 0.8137713670730591
+[information on LGWM construction contracts]: road maintenance --[OVERDUE]-> State Highway 1 0.8121208548545837
+[information on LGWM construction contracts]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.8120195865631104
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[RESPONDS_TO]-> Request for information on Hornby Intersection improvements 0.827340841293335
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request for information on Hornby Intersection improvements --[REQUESTS]-> New Zealand Transport Agency 0.8236481547355652
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.8210252523422241
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Road Network Changes --[PLANNED_BY]-> New Zealand Transport Agency 0.8190774917602539
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: roads --[MAINTAINED_BY]-> New Zealand Transport Agency 0.8156424164772034
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUESTS]-> detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) 0.8151016235351562
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[FALLS_IN_SCOPE]-> TG project – builders claim documents 0.8149698972702026
+[investigations, construction findings, on-site progress, design updates, design assumptions]: New Zealand Transport Agency --[RESPONDS_TO]-> Request for information on Hornby Intersection improvements 0.827340841293335
+[investigations, construction findings, on-site progress, design updates, design assumptions]: Request for information on Hornby Intersection improvements --[REQUESTS]-> New Zealand Transport Agency 0.8236481547355652
+[investigations, construction findings, on-site progress, design updates, design assumptions]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.8210252523422241
+[investigations, construction findings, on-site progress, design updates, design assumptions]: Road Network Changes --[PLANNED_BY]-> New Zealand Transport Agency 0.8190774917602539
+[investigations, construction findings, on-site progress, design updates, design assumptions]: roads --[MAINTAINED_BY]-> New Zealand Transport Agency 0.8156424164772034
+[investigations, construction findings, on-site progress, design updates, design assumptions]: NZ Transport Agency Waka Kotahi --[BASED_ON]-> investigations, construction findings, on-site progress, design updates, design assumptions 0.8155858516693115
+[investigations, construction findings, on-site progress, design updates, design assumptions]: New Zealand Transport Agency --[FALLS_IN_SCOPE]-> TG project – builders claim documents 0.8149698972702026
+[Waito hi Picton Ferry Precinct Redevelopment]: 10 September 2020 --[ASSOCIATED_WITH]-> Waito hi Picton Ferry Precinct Redevelopment 0.8342288136482239
+[Waito hi Picton Ferry Precinct Redevelopment]: Waito hi Picton Ferry Precinct Redevelopment --[ASSOCIATED_WITH]-> Integrated Transportation Assessment 0.8197584748268127
+[Waito hi Picton Ferry Precinct Redevelopment]: Draft --[ASSOCIATED_WITH]-> 10 September 2020 0.7901241183280945
+[Waito hi Picton Ferry Precinct Redevelopment]: Integrated Transportation Assessment --[ASSOCIATED_WITH]-> Draft 0.7744304537773132

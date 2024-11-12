@@ -1,0 +1,36 @@
+How can someone challenge a decision made under the Official Information Act?
+None
+Seed: I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.
+Seed: decision making
+Seed: public interest in seeking and receiving confidential legal advice
+Seed: seeking and receiving confidential legal advice
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. --[OFFICIAL_INFORMATION]-> I am refusing this part of your request under section 18(d) of the Act as the information is publicly available. 0.8088490962982178
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: I will respond to each of your questions in turn. --[OFFICIAL_INFORMATION]-> 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. 0.8029297590255737
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act). --[OFFICIAL_INFORMATION]-> I will respond to each of your questions in turn. 0.8180079460144043
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: Request made under the Official Information Act 1982 --[OFFICIAL_INFORMATION]-> Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act). 0.8300280570983887
+[decision making]: feedback --[CONTRIBUTES_TO]-> decision making 0.7780090570449829
+[decision making]: feedback --[IS_RESOLVED]-> issues 0.736014187335968
+[decision making]: issues --[RAISED]-> public 0.7857451438903809
+[decision making]: public --[RAISES]-> concerns 0.8052527904510498
+[decision making]: public transport fare policy review --[AFFECTS]-> public 0.7775272130966187
+[decision making]: public transport fare policy review --[ENGAGES]-> public 0.7720715403556824
+[decision making]: public --[AFFECTED_BY]-> public transport fare policy review 0.7871423959732056
+[decision making]: communities --[PROVIDES]-> feedback 0.7345631122589111
+[decision making]: community engagement --[INFORMS]-> communities 0.7337962985038757
+[decision making]: consultation --[CONSISTS_OF]-> community engagement 0.7628664374351501
+[decision making]: community engagement --[COST]-> $245,475 0.7415972352027893
+[decision making]: significant value --[IS_PLACED]-> community engagement 0.7361147403717041
+[decision making]: speed review process --[AFFECTS]-> communities 0.7604556083679199
+[decision making]: speed review process --[INVOLVES]-> stakeholders 0.7823472023010254
+[decision making]: consultation --[PART_OF]-> speed review process 0.7830037474632263
+[decision making]: Waka Kotahi --[CONDUCTS]-> speed review process 0.7504358887672424
+[decision making]: Setting of Speed Limits Rule 2017 --[APPLIES_TO]-> speed review process 0.779230535030365
+[decision making]: decision making --[PART_OF]-> speed review process 0.8000133037567139
+[decision making]: speed review process --[AFFECTS]-> road safety 0.7738363146781921
+[decision making]: speed review process --[REQUIRES]-> consultation 0.799062967300415
+[decision making]: Waka Kotahi --[PROVIDES]-> feedback 0.740167498588562
+[decision making]: Response --[CONTAINS]-> Waka Kotahi 0.7946222424507141
+[decision making]: Waka Kotahi --[PUBLISHES]-> Response 0.755273699760437
+[decision making]: response --[CONTAINS]-> Waka Kotahi 0.7671080827713013
+[decision making]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.7736056447029114
+[decision making]: Charles Ronaldson --[SIGNED]-> response 0.7721407413482666

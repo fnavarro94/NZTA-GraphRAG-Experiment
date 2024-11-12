@@ -1,0 +1,34 @@
+What is the abbreviation commonly used for the method that involves the use of advanced sensors and cameras to gather real-time data on road conditions in the context of transport systems in New Zealand?
+None
+Seed: Advanced sensors and cameras
+Seed: Cameras and sensors
+Seed: Real-time tracking of buses and trains
+Seed: Systematic collection and analysis of data related to the physical state of roadways
+[Advanced sensors and cameras]: Automated data collection --[Used in]-> Transport in new zealand 0.8857194185256958
+[Advanced sensors and cameras]: Transport in new zealand --[Has]-> Automated data collection 0.8808994293212891
+[Advanced sensors and cameras]: Automated data collection --[Uses]-> Advanced sensors and cameras 0.8507516980171204
+[Advanced sensors and cameras]: Transport in new zealand --[Encompasses]-> Diverse range of modes and systems 0.8495856523513794
+[Advanced sensors and cameras]: Transport in new zealand --[Encompasses]-> Diverse range of modes and infrastructure 0.8393529057502747
+[Advanced sensors and cameras]: New zealand --[Has]-> Public transport 0.8352037668228149
+[Advanced sensors and cameras]: Public transport --[Integrates]-> Automated data collection 0.8277570009231567
+[Cameras and sensors]: Intelligent transport systems --[Use]-> Traffic cameras 0.8683350086212158
+[Cameras and sensors]: Transport data analytics --[Gained importance]-> New zealand 0.8677038550376892
+[Cameras and sensors]: New zealand --[Transport system]-> Primarily road-based 0.8675124049186707
+[Cameras and sensors]: Intelligent transport systems --[Use]-> Sensors 0.8666205406188965
+[Cameras and sensors]: Road safety technologies --[Play crucial role in]-> Enhancing safety and efficiency of transportation systems in new zealand 0.8660089373588562
+[Cameras and sensors]: New zealand --[Has adopted]-> Advanced driver-assistance systems 0.8639739155769348
+[Cameras and sensors]: Road user engagement --[Is]-> New zealand 0.8638607263565063
+[Real-time tracking of buses and trains]: Public transport innovations --[Provide]-> Real-time tracking systems 0.8463709950447083
+[Real-time tracking of buses and trains]: Public transport innovations --[Include]-> Real-time tracking of buses and trains 0.8386215567588806
+[Real-time tracking of buses and trains]: New zealand --[Has]-> Public transport 0.8352037668228149
+[Real-time tracking of buses and trains]: Public transport innovations --[Provide]-> Accurate arrival times 0.8326164484024048
+[Real-time tracking of buses and trains]: Public transport --[Integrates]-> Automated data collection 0.8277570009231567
+[Real-time tracking of buses and trains]: Auckland transport --[Manages]-> Public transport 0.8180972337722778
+[Real-time tracking of buses and trains]: Christchurch --[Has]-> Public transport 0.8162779808044434
+[Systematic collection and analysis of data related to the physical state of roadways]: Road condition monitoring --[Is]-> Critical aspect of transport management in new zealand 0.8892637491226196
+[Systematic collection and analysis of data related to the physical state of roadways]: Road condition monitoring --[Involves]-> Systematic collection and analysis of data related to the physical state of roadways 0.8632848262786865
+[Systematic collection and analysis of data related to the physical state of roadways]: Road condition monitoring --[Employs]-> Variety of technologies and methodologies 0.8581719994544983
+[Systematic collection and analysis of data related to the physical state of roadways]: Heavy vehicle safety --[Is]-> Critical aspect of transport management in new zealand 0.8433859348297119
+[Systematic collection and analysis of data related to the physical state of roadways]: Road condition monitoring --[Contributes]-> To the overall efficiency of the transport network 0.8432716131210327
+[Systematic collection and analysis of data related to the physical state of roadways]: Road condition monitoring --[Facilitates]-> Movement of goods and people 0.8408077955245972
+[Systematic collection and analysis of data related to the physical state of roadways]: Road condition monitoring --[Allows]-> Proactive maintenance strategies 0.8401365876197815

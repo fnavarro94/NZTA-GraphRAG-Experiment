@@ -1,0 +1,36 @@
+How many Clean Car rebates have been issued between 1 July 2021 and 31 May 2022?
+None
+Seed: 19,662 applications for Clean Car rebates
+Seed: Clean Car rebate scheme
+Seed: 7,162 Clean Car fees
+Seed: Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below.
+[19,662 applications for Clean Car rebates]: Waka Kotahi NZ Transport Agency --[APPROVED]-> 19,662 applications for Clean Car rebates 0.8218832612037659
+[19,662 applications for Clean Car rebates]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7372697591781616
+[19,662 applications for Clean Car rebates]: New Zealand Transport Agency --[BASED]-> Wellington 0.754785418510437
+[19,662 applications for Clean Car rebates]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7447805404663086
+[19,662 applications for Clean Car rebates]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.742789626121521
+[19,662 applications for Clean Car rebates]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.763587236404419
+[19,662 applications for Clean Car rebates]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.7442218065261841
+[19,662 applications for Clean Car rebates]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7450262904167175
+[19,662 applications for Clean Car rebates]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7591782808303833
+[19,662 applications for Clean Car rebates]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7567360401153564
+[19,662 applications for Clean Car rebates]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.760440468788147
+[19,662 applications for Clean Car rebates]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7591326832771301
+[19,662 applications for Clean Car rebates]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.736916184425354
+[19,662 applications for Clean Car rebates]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.743851900100708
+[19,662 applications for Clean Car rebates]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7406910061836243
+[19,662 applications for Clean Car rebates]: Wellington --[CONTAINS]-> Private Bag 6995 0.7539514303207397
+[19,662 applications for Clean Car rebates]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7791135907173157
+[19,662 applications for Clean Car rebates]: Golden Mile --[LOCATED]-> Wellington 0.7056764364242554
+[19,662 applications for Clean Car rebates]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7320911288261414
+[19,662 applications for Clean Car rebates]: road safety --[ENHANCED_BY]-> State Highway 1 0.7392222881317139
+[19,662 applications for Clean Car rebates]: State Highway 1 --[REPAIRS]-> potholes 0.7220970988273621
+[19,662 applications for Clean Car rebates]: Road Safety Initiatives --[IMPROVES]-> State Highway 1 0.7286764979362488
+[19,662 applications for Clean Car rebates]: road maintenance --[OVERDUE]-> State Highway 1 0.7534027099609375
+[19,662 applications for Clean Car rebates]: State Highway 1 --[OVERDUE]-> road maintenance 0.7544875741004944
+[19,662 applications for Clean Car rebates]: State Highway 1 --[IN]-> Bay of Plenty 0.7412835359573364
+[19,662 applications for Clean Car rebates]: State Highway 1 --[IMPROVES]-> safety 0.7273855805397034
+[19,662 applications for Clean Car rebates]: 100M --[ALLOCATED_FOR]-> State Highway 1 0.771756112575531
+[19,662 applications for Clean Car rebates]: State Highway 1 --[IS_PART_OF]-> New Zealand 0.7482836246490479
+[19,662 applications for Clean Car rebates]: road maintenance --[ASSOCIATED_WITH]-> State Highway 1 0.7492279410362244
+[19,662 applications for Clean Car rebates]: funding for road maintenance --[FOR]-> State Highway 1 0.7611724138259888

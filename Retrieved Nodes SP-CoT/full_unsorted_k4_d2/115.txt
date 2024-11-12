@@ -1,0 +1,36 @@
+Which country did the airline that initially operated trans-Tasman flights to in 1940 connect to for tourism and business travel, alongside major cities in New Zealand and Asia, alongside the urban area in New Zealand that has experienced significant investment in public transport infrastructure alongside Auckland and Wellington?
+None
+Seed: Local economy and tourism industry
+Seed: Trans-tasman flights between new zealand and australia
+Seed: Domestic flights to major cities across new zealand
+Seed: Both passenger and freight transport across the cook strait
+[Local economy and tourism industry]: Auckland airport --[Supporting]-> Local economy and tourism industry 0.8570446968078613
+[Local economy and tourism industry]: Auckland airport --[Serves]-> As hub for domestic and international flights 0.8487673401832581
+[Local economy and tourism industry]: Auckland airport --[Is]-> Undergoing significant expansion 0.8432936072349548
+[Local economy and tourism industry]: Auckland airport --[Serves as]-> Primary international gateway for new zealand 0.8462353944778442
+[Local economy and tourism industry]: Auckland airport --[Committed]-> Sustainability 0.8062562942504883
+[Local economy and tourism industry]: Auckland airport --[Serves]-> Critical gateway for new zealand 0.8375171422958374
+[Local economy and tourism industry]: Auckland airport --[Key player]-> Future of transport in new zealand 0.8479346632957458
+[Local economy and tourism industry]: Auckland airport --[Implemented]-> Various initiatives to minimize environmental impact 0.8204380869865417
+[Local economy and tourism industry]: Auckland airport --[Opened]-> 1966 0.8295833468437195
+[Local economy and tourism industry]: Auckland airport --[Underwent]-> Several expansions and renovations 0.839202880859375
+[Local economy and tourism industry]: Auckland airport --[Plays]-> Crucial role in new zealand's transport infrastructure 0.859595000743866
+[Local economy and tourism industry]: Auckland airport --[Facilitates]-> Domestic and international travel 0.8515406847000122
+[Local economy and tourism industry]: Auckland airport --[Serves]-> Flights within new zealand 0.8509033918380737
+[Local economy and tourism industry]: Auckland airport --[Well-connected]-> Wider transport network of new zealand 0.8500762581825256
+[Local economy and tourism industry]: Auckland airport --[Is]-> Primary international airport 0.8353912830352783
+[Local economy and tourism industry]: Auckland airport --[Handled]-> Over 21 million passengers in 2019 0.8160414695739746
+[Local economy and tourism industry]: Auckland airport --[Replaced]-> Former auckland international airport at mangere 0.8067816495895386
+[Local economy and tourism industry]: Auckland airport --[Vital]-> Hub for tourism and business travel 0.8601557016372681
+[Local economy and tourism industry]: Auckland airport --[Working towards]-> Achieving carbon neutrality in operations by 2025 0.8191215395927429
+[Local economy and tourism industry]: Auckland airport --[Connecting]-> Country to the rest of the world 0.8521264791488647
+[Local economy and tourism industry]: Auckland airport --[Features]-> Two main terminals 0.8302913308143616
+[Local economy and tourism industry]: Auckland airport --[Equipped with]-> Modern amenities 0.8258846402168274
+[Local economy and tourism industry]: Auckland airport --[Located]-> 21 kilometers south of auckland's central business district 0.828376829624176
+[Local economy and tourism industry]: Auckland airport --[Serves]-> Primary gateway for international travel 0.8405079245567322
+[Local economy and tourism industry]: Auckland airport --[Is]-> Busiest airport in new zealand 0.8328335881233215
+[Local economy and tourism industry]: Auckland airport --[Is]-> International airport 0.8339912295341492
+[Local economy and tourism industry]: Auckland airport --[Has]-> Goal to enhance travel experience 0.8400330543518066
+[Local economy and tourism industry]: Auckland airport --[Has]-> Undergone significant expansion and modernization 0.8429862260818481
+[Local economy and tourism industry]: Auckland airport --[Is]-> Main international gateway to new zealand 0.8471899628639221
+[Local economy and tourism industry]: Auckland airport --[Connects]-> Auckland to major cities around the world 0.8654124736785889

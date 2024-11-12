@@ -1,0 +1,36 @@
+What nickname is commonly associated with the cities in New Zealand that are implementing extensive cycling networks and pedestrian-friendly infrastructure to address traffic congestion, highlighting Auckland's maritime culture?
+None
+Seed: Cycling infrastructure and public transport initiatives
+Seed: Culture of cycling as a primary mode of transport
+Seed: Addressing transport challenges in auckland
+Seed: New zealand's transport network
+[Cycling infrastructure and public transport initiatives]: North island --[Features]-> Cycling infrastructure and public transport initiatives 0.840054988861084
+[Cycling infrastructure and public transport initiatives]: North island --[Has]-> Growing emphasis on sustainable transport options 0.7894980311393738
+[Culture of cycling as a primary mode of transport]: Wellington cycle network --[Fosters]-> Culture of cycling as a primary mode of transport 0.8694759011268616
+[Culture of cycling as a primary mode of transport]: Wellington cycle network --[Established in response to]-> Increasing urban congestion 0.8643757700920105
+[Culture of cycling as a primary mode of transport]: Wellington cycle network --[Established in response to]-> Growing emphasis on environmentally friendly transport options 0.841562807559967
+[Culture of cycling as a primary mode of transport]: Wellington cycle network --[Aligned with]-> New zealand's broader transport goals 0.8497895002365112
+[Culture of cycling as a primary mode of transport]: Wellington cycle network --[Part of]-> Broader initiative by the wellington city council and greater wellington regional council 0.8332623839378357
+[Culture of cycling as a primary mode of transport]: Wellington cycle network --[Encourages]-> Cycling 0.8472935557365417
+[Culture of cycling as a primary mode of transport]: Auckland transport --[Oversees]-> Cycling 0.8577231764793396
+[Culture of cycling as a primary mode of transport]: Auckland transport --[Has]-> Vision to support growth 0.8267388343811035
+[Culture of cycling as a primary mode of transport]: Auckland transport --[Has]-> Vision to minimize environmental impact 0.8231334090232849
+[Culture of cycling as a primary mode of transport]: Auckland transport --[Has]-> Vision to create efficient transport system 0.840019702911377
+[Culture of cycling as a primary mode of transport]: Auckland transport --[Has]-> Vision to create integrated transport system 0.8278144598007202
+[Culture of cycling as a primary mode of transport]: Auckland transport --[Has]-> Long-term vision 0.8393961191177368
+[Culture of cycling as a primary mode of transport]: Auckland transport --[Has]-> Vision to create safe transport system 0.8187811970710754
+[Culture of cycling as a primary mode of transport]: Auckland transport --[Focused on]-> Promoting active transport modes 0.8573563694953918
+[Culture of cycling as a primary mode of transport]: Auckland transport --[Focused on]-> Promoting cycling 0.8752762079238892
+[Culture of cycling as a primary mode of transport]: Auckland transport --[Focused on]-> Promoting walking 0.8559455871582031
+[Culture of cycling as a primary mode of transport]: Auckland transport --[Is]-> Primary agency 0.8341991901397705
+[Culture of cycling as a primary mode of transport]: Auckland transport --[Implemented]-> Cycling infrastructure projects 0.8715356588363647
+[Culture of cycling as a primary mode of transport]: Auckland transport --[Implemented]-> Dedicated bike lanes 0.8558355569839478
+[Culture of cycling as a primary mode of transport]: Auckland transport --[Implemented]-> Cycleways 0.8630744218826294
+[Culture of cycling as a primary mode of transport]: Auckland transport --[Introduced]-> Auckland integrated ticketing system 0.820244312286377
+[Culture of cycling as a primary mode of transport]: Auckland transport --[Responsible for]-> Managing public transport services 0.8338698148727417
+[Culture of cycling as a primary mode of transport]: Auckland transport --[Responsible for]-> Development 0.8414379358291626
+[Culture of cycling as a primary mode of transport]: Auckland transport --[Responsible for]-> Management 0.8315872550010681
+[Culture of cycling as a primary mode of transport]: Auckland transport --[Responsible for]-> Planning 0.8388746976852417
+[Culture of cycling as a primary mode of transport]: Auckland transport --[Ensures]-> Transport planning aligns with urban development goals 0.821035623550415
+[Culture of cycling as a primary mode of transport]: Auckland transport --[Plays]-> Crucial role 0.8519590497016907
+[Culture of cycling as a primary mode of transport]: Auckland transport --[Manages]-> Public transport in auckland 0.8307673931121826

@@ -1,0 +1,29 @@
+Who is the Programme Director for the National Ticketing System (NTS) mentioned in the letter?
+None
+Seed: Programme Director, NTS
+Seed: National Ticketing System
+Seed: RFP for National Ticket System
+Seed: National Ticketing Solution request for proposal
+[Programme Director, NTS]: Programme Director, NTS --[AT]-> New Zealand Transport Agency 0.878320574760437
+[Programme Director, NTS]: Yogesh Anand --[POSITION]-> Programme Director, NTS 0.8621550798416138
+[Programme Director, NTS]: New Zealand Transport Agency --[MANAGES]-> NTS 0.8498550653457642
+[Programme Director, NTS]: Email --[CONTAINS]-> Request for National Ticketing System Documentation 0.8462775945663452
+[Programme Director, NTS]: RFP for National Ticket System --[AVAILABLE]-> www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ 0.8429312705993652
+[Programme Director, NTS]: NTS --[PROVIDES]-> all New Zealand regions 0.8254446983337402
+[Programme Director, NTS]: NTS --[TRANSITIONS]-> 2026 0.8232426643371582
+[National Ticketing System]: Email --[CONTAINS]-> Request for National Ticketing System Documentation 0.8462775945663452
+[National Ticketing System]: Request for National Ticketing System Documentation --[REQUESTS]-> National Ticketing System 0.8407952785491943
+[National Ticketing System]: Email --[IS]-> andrew.knackstedt@nzta.govt.nz 0.8095670342445374
+[National Ticketing System]: New Zealand Transport Agency --[RECEIVED_REQUEST]-> Email 0.7925828695297241
+[National Ticketing System]: Contact Information --[CONTAINS]-> Email 0.7492336630821228
+[National Ticketing System]: Email --[CONTAINS]-> request 0.727698802947998
+[RFP for National Ticket System]: Programme Director, NTS --[AT]-> New Zealand Transport Agency 0.878320574760437
+[RFP for National Ticket System]: Yogesh Anand --[POSITION]-> Programme Director, NTS 0.8621550798416138
+[RFP for National Ticket System]: New Zealand Transport Agency --[MANAGES]-> NTS 0.8498550653457642
+[RFP for National Ticket System]: Email --[CONTAINS]-> Request for National Ticketing System Documentation 0.8462775945663452
+[RFP for National Ticket System]: RFP for National Ticket System --[AVAILABLE]-> www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ 0.8429312705993652
+[RFP for National Ticket System]: www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ --[CONTAINS]-> National Ticketing Solution request for proposal 0.8398559093475342
+[RFP for National Ticket System]: NTS --[PROVIDES]-> all New Zealand regions 0.8254446983337402
+[National Ticketing Solution request for proposal]: RFP for National Ticket System --[AVAILABLE]-> www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ 0.8429312705993652
+[National Ticketing Solution request for proposal]: www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ --[CONTAINS]-> National Ticketing Solution request for proposal 0.8398559093475342
+[National Ticketing Solution request for proposal]: New Zealand Transport Agency --[REFUSES]-> RFP for National Ticket System 0.8187078237533569

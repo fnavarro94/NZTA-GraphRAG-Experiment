@@ -1,0 +1,24 @@
+What improvements were identified following the safety incidents in May 2017?
+None
+Seed: improving the safety performance of the vehicle fleet
+Seed: Safety Incidents
+Seed: health and safety incidents
+Seed: opportunities to make an announcement regarding changes to the national farebox recovery policy
+[improving the safety performance of the vehicle fleet]: Safe System approach --[INCLUDES]-> improving the safety performance of the vehicle fleet 0.8620311617851257
+[improving the safety performance of the vehicle fleet]: Safe System approach --[INCLUDES]-> encouraging road users to be alert and compliant 0.8363494873046875
+[improving the safety performance of the vehicle fleet]: resolution A/RES/74/299 --[PROMOTES]-> Safe System approach 0.8203502297401428
+[improving the safety performance of the vehicle fleet]: Safe System approach --[INCLUDES]-> installing median barriers 0.8189390301704407
+[improving the safety performance of the vehicle fleet]: United Nations General Assembly --[ADOPTED]-> resolution A/RES/74/299 0.7683308124542236
+[Safety Incidents]: Health, Safety & Quality Report --[CONTAINS]-> Safety Incidents 0.8810409903526306
+[Safety Incidents]: Safety Incidents --[INVESTIGATED]-> Board 0.8661335706710815
+[Safety Incidents]: Board --[RECEIVES_REPORT]-> Health, Safety & Quality Report 0.8333064317703247
+[Safety Incidents]: Stephen Bell --[SUBMITS_REPORT]-> Health, Safety & Quality Report 0.8322706818580627
+[health and safety incidents]: health and safety incidents --[OCCURRED]-> 2008-2013 0.8856861591339111
+[health and safety incidents]: Health and Safety Committee --[REVIEW]-> incident reports 0.8632611036300659
+[health and safety incidents]: health and safety incidents --[REGIONAL_BREAKDOWN]-> regional breakdown 0.8592875599861145
+[health and safety incidents]: incident reports --[RELATE_TO]-> health and safety incidents 0.8573017120361328
+[health and safety incidents]: 2008-2013 --[CONTAINS]-> incident reports 0.8568356037139893
+[health and safety incidents]: incident reports --[REVIEWED]-> regional managers 0.8477926850318909
+[health and safety incidents]: total incidents per year --[SHOWS]-> 2008-2013 0.8391137719154358
+[opportunities to make an announcement regarding changes to the national farebox recovery policy]: MIN-3132 --[RELATES_TO]-> opportunities to make an announcement regarding changes to the national farebox recovery policy 0.8383221626281738
+[opportunities to make an announcement regarding changes to the national farebox recovery policy]: MIN/O-0005 --[FOLLOWS_UP]-> MIN-3132 0.7740073800086975

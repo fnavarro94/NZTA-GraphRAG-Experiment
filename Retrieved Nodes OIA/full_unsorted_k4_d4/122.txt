@@ -1,0 +1,36 @@
+What has NZTA budgeted for median barriers over the last five years?
+None
+Seed: median barriers
+Seed: Median Barriers
+Seed: manage fare revenue and public transport budgets within current funding allocations
+Seed: public transport budgets
+[median barriers]: information --[RELATES_TO]-> median barriers 0.821408748626709
+[median barriers]: information --[PROVIDES]-> New Zealand Transport Agency 0.8199508190155029
+[median barriers]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7895894646644592
+[median barriers]: New Zealand Transport Agency --[BASED]-> Wellington 0.8037372827529907
+[median barriers]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.777644157409668
+[median barriers]: Golden Mile --[LOCATED]-> Wellington 0.7336058616638184
+[median barriers]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7538674473762512
+[median barriers]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7487175464630127
+[median barriers]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7733672857284546
+[median barriers]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.751991331577301
+[median barriers]: Wellington --[PART_OF]-> Wellington Region 0.7732709050178528
+[median barriers]: New Zealand --[HAS_CAPITAL]-> Wellington 0.79246586561203
+[median barriers]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7969039678573608
+[median barriers]: Wellington --[HAS]-> tunnel 0.7932051420211792
+[median barriers]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7644225358963013
+[median barriers]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7670374512672424
+[median barriers]: Wellington --[POSTCODE]-> 6141 0.7371100187301636
+[median barriers]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7902252674102783
+[median barriers]: Wellington --[IS_PART_OF]-> New Zealand 0.7689525485038757
+[median barriers]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7880340814590454
+[median barriers]: 50 Victoria Street --[IN]-> Wellington 0.7610870599746704
+[median barriers]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7500820159912109
+[median barriers]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7576131820678711
+[median barriers]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7572986483573914
+[median barriers]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7648905515670776
+[median barriers]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7667271494865417
+[median barriers]: NZ Transport Agency --[LOCATED]-> Wellington 0.7946230173110962
+[median barriers]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7765240669250488
+[median barriers]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7549983263015747
+[median barriers]: New Zealand --[CONTAINS]-> Wellington 0.7818712592124939

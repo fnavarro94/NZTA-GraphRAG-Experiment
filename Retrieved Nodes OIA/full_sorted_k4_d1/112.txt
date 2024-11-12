@@ -1,0 +1,12 @@
+Where can formal advice on the second Ashburton Bridge be found?
+None
+Seed: Ashburton Bridge
+Seed: proposed second bridge
+Seed: Ashburton District Councillors
+Seed: Ashburton-Tin wald Connectivity Business Case
+[Ashburton Bridge]: Information --[RELATES_TO]-> Ashburton Bridge 0.8809502720832825
+[Ashburton Bridge]: Information in Scope --[RELATES_TO]-> Ashburton Bridge 0.8550906181335449
+[proposed second bridge]: Information --[RELATES_TO]-> proposed second bridge 0.866146445274353
+[proposed second bridge]: Information in Scope --[RELATES_TO]-> proposed second bridge 0.8577600121498108
+[Ashburton District Councillors]: Ashburton District Councillors --[RECEIVES]-> written communication 0.829969584941864
+[Ashburton-Tin wald Connectivity Business Case]: Ashburton-Tin wald Connectivity Business Case --[PROVIDED]-> attached document 0.8181138038635254

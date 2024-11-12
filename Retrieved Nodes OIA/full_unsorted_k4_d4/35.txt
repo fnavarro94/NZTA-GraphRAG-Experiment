@@ -1,0 +1,36 @@
+How many streetlights are there on motorways in New Zealand?
+None
+Seed: street lights information from local councils
+Seed: information on traffic light cameras
+Seed: street lights information
+Seed: information on traffic light cameras and speed cameras
+[street lights information from local councils]: street lights information from local councils --[OBTAINABLE_FROM]-> local councils 0.8449780941009521
+[street lights information from local councils]: New Zealand Transport Agency --[REFUSES]-> street lights information from local councils 0.8319506049156189
+[street lights information from local councils]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.825151801109314
+[street lights information from local councils]: New Zealand Transport Agency --[BASED]-> Wellington 0.8304378986358643
+[street lights information from local councils]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8074659109115601
+[street lights information from local councils]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8186220526695251
+[street lights information from local councils]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.8027231693267822
+[street lights information from local councils]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.8206143379211426
+[street lights information from local councils]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.8253868818283081
+[street lights information from local councils]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.8336455821990967
+[street lights information from local councils]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.8347034454345703
+[street lights information from local councils]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8072831630706787
+[street lights information from local councils]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7944760918617249
+[street lights information from local councils]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7949807047843933
+[street lights information from local councils]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8076750040054321
+[street lights information from local councils]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8031168580055237
+[street lights information from local councils]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7972720861434937
+[street lights information from local councils]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7977845668792725
+[street lights information from local councils]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7930798530578613
+[street lights information from local councils]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7852962613105774
+[street lights information from local councils]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8139674663543701
+[street lights information from local councils]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8184025287628174
+[street lights information from local councils]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7908055782318115
+[street lights information from local councils]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.788737416267395
+[street lights information from local councils]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.790519118309021
+[street lights information from local councils]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7948347330093384
+[street lights information from local councils]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7778732180595398
+[street lights information from local councils]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.795052170753479
+[street lights information from local councils]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8151799440383911
+[street lights information from local councils]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7751477360725403

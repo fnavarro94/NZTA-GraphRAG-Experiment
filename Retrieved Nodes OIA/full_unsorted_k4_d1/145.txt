@@ -1,0 +1,13 @@
+What were NZTA's safety concerns regarding Wellington's Rainbow Crossing proposal?
+None
+Seed: safety of Wellington's Rainbow Crossing proposal
+Seed: Briefing for Fergus on WCC proposal to install non-complying rainbow pedestrian crossing traffic control device
+Seed: Wellington's Rainbow Crossing proposal
+Seed: Rainbow Crossing Safety Review FINAL
+[safety of Wellington's Rainbow Crossing proposal]: correspondence, attachments and briefings --[REGARDS]-> safety of Wellington's Rainbow Crossing proposal 0.9254133701324463
+[safety of Wellington's Rainbow Crossing proposal]: safety of Wellington's Rainbow Crossing proposal --[RAISES_CONCERNS]-> New Zealand Transport Agency 0.9520038366317749
+[Briefing for Fergus on WCC proposal to install non-complying rainbow pedestrian crossing traffic control device]: Fergus Gammie --[BRIEFING]-> Briefing for Fergus on WCC proposal to install non-complying rainbow pedestrian crossing traffic control device 0.852637529373169
+[Wellington's Rainbow Crossing proposal]: suggested action to address concerns --[RELATES_TO]-> Wellington's Rainbow Crossing proposal 0.8985710144042969
+[Wellington's Rainbow Crossing proposal]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.8827207088470459
+[Rainbow Crossing Safety Review FINAL]: WCC --[SAFETY_ASSESSMENT]-> Rainbow Crossing Safety Review FINAL 0.8816252946853638
+[Rainbow Crossing Safety Review FINAL]: Rainbow Crossing Safety Review FINAL --[ATTACHED]-> email 0.8584280014038086

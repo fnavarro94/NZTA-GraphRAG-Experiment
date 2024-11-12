@@ -1,0 +1,36 @@
+What specific type of endorsement is mentioned in the OIA-2127 document?
+None
+Seed: applications for I endorsements
+Seed: standards for all licence endorsement holders
+Seed: I endorsement holders
+Seed: renewals of existing endorsement holders
+[applications for I endorsements]: Transport Agency --[ASSESS]-> applications for I endorsements 0.8482099175453186
+[applications for I endorsements]: www.ombudsman.parliament.nz --[PROVIDES]-> Transport Agency 0.8039979934692383
+[applications for I endorsements]: www.ombudsman.parliament.nz --[LINKS_TO]-> Ombudsman 0.8097286224365234
+[applications for I endorsements]: right to ask the Ombudsman to review --[IS_GRANTED_BY]-> Ombudsman 0.7851700782775879
+[applications for I endorsements]: right to ask the Ombudsman to review --[EXERCISED_BY]-> requester 0.7858508229255676
+[applications for I endorsements]: section 28 of the Act --[GRANTS]-> right to ask the Ombudsman to review 0.7804539203643799
+[applications for I endorsements]: Ombudsman --[REVIEW_REQUEST]-> decision 0.7788274884223938
+[applications for I endorsements]: decision --[REFUSES]-> request 0.7353601455688477
+[applications for I endorsements]: request --[REFUSE]-> decision 0.7512125968933105
+[applications for I endorsements]: decision --[REVIEW]-> Ombudsman 0.7959814071655273
+[applications for I endorsements]: decision --[REFUSE]-> request 0.7551501393318176
+[applications for I endorsements]: decision --[WITHHOLD]-> information 0.7456315755844116
+[applications for I endorsements]: Kevin Reid --[REVIEW]-> decision 0.7726308107376099
+[applications for I endorsements]: Ombudsman --[REVIEW]-> decision 0.7922893762588501
+[applications for I endorsements]: Waka Kotahi --[MAKES]-> decision 0.7456664443016052
+[applications for I endorsements]: Ombudsman --[REVIEW]-> decision to withhold information 0.7946555018424988
+[applications for I endorsements]: Ombudsman --[PROVIDES]-> New Zealand Transport Agency 0.7839828729629517
+[applications for I endorsements]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7565062046051025
+[applications for I endorsements]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7590237855911255
+[applications for I endorsements]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7516623735427856
+[applications for I endorsements]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7445370554924011
+[applications for I endorsements]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7525956630706787
+[applications for I endorsements]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7584290504455566
+[applications for I endorsements]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7894728183746338
+[applications for I endorsements]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.772993803024292
+[applications for I endorsements]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7916678786277771
+[applications for I endorsements]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8218718767166138
+[applications for I endorsements]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.791987419128418
+[applications for I endorsements]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7820065021514893
+[applications for I endorsements]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.791135311126709

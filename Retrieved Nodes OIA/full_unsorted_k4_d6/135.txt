@@ -1,0 +1,36 @@
+What reports discuss the progress and outcomes of the Road to Zero strategy since it was initiated?
+None
+Seed: Road to Zero Strategy Reports
+Seed: development of the next Road to Zero Action Plan
+Seed: Road to Zero initiatives
+Seed: Road to Zero Strategy Development
+[Road to Zero Strategy Reports]: Road to Zero Strategy Reports --[CONTAINS]-> Basis for Strategy 0.8862780332565308
+[Road to Zero Strategy Reports]: Basis for Strategy --[DISCUSSES]-> Road to Zero Strategy 0.8678669333457947
+[Road to Zero Strategy Reports]: Road to Zero Strategy --[FUNDING]-> Road to Zero Strategy 0.87179034948349
+[Road to Zero Strategy Reports]: New Zealand Transport Agency --[DEVELOPS]-> Road to Zero Strategy 0.8578948974609375
+[Road to Zero Strategy Reports]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7279629111289978
+[Road to Zero Strategy Reports]: New Zealand Transport Agency --[BASED]-> Wellington 0.7418434619903564
+[Road to Zero Strategy Reports]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.6961692571640015
+[Road to Zero Strategy Reports]: Golden Mile --[LOCATED]-> Wellington 0.7177203297615051
+[Road to Zero Strategy Reports]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7380635738372803
+[Road to Zero Strategy Reports]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7170568108558655
+[Road to Zero Strategy Reports]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7377104759216309
+[Road to Zero Strategy Reports]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.693927526473999
+[Road to Zero Strategy Reports]: Wellington --[PART_OF]-> Wellington Region 0.7258496284484863
+[Road to Zero Strategy Reports]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7377985715866089
+[Road to Zero Strategy Reports]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7362094521522522
+[Road to Zero Strategy Reports]: Wellington --[HAS]-> tunnel 0.7392587065696716
+[Road to Zero Strategy Reports]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7097664475440979
+[Road to Zero Strategy Reports]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.6925123929977417
+[Road to Zero Strategy Reports]: Wellington --[POSTCODE]-> 6141 0.6593183875083923
+[Road to Zero Strategy Reports]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7285681962966919
+[Road to Zero Strategy Reports]: Wellington --[IS_PART_OF]-> New Zealand 0.7145808935165405
+[Road to Zero Strategy Reports]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7409712672233582
+[Road to Zero Strategy Reports]: 50 Victoria Street --[IN]-> Wellington 0.70634925365448
+[Road to Zero Strategy Reports]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7185330986976624
+[Road to Zero Strategy Reports]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.690783679485321
+[Road to Zero Strategy Reports]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7018884420394897
+[Road to Zero Strategy Reports]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7077281475067139
+[Road to Zero Strategy Reports]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.710267186164856
+[Road to Zero Strategy Reports]: NZ Transport Agency --[LOCATED]-> Wellington 0.725227952003479
+[Road to Zero Strategy Reports]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7247599363327026

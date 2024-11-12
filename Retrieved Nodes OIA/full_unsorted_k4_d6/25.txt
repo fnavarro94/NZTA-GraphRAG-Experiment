@@ -1,0 +1,36 @@
+Since when does the NZ Transport Agency have records of directives or requests to process OIA requests with urgency?
+None
+Seed: information about the NZ Transport Agency's Information Technology (IT) projects
+Seed: New Zealand Transport Agency
+Seed: reply with NZ Transport Agency Waka Kotahi (NZTA)
+Seed: information to New Zealand Transport Agency Waka Kotahi
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[PROVIDES]-> information about the NZ Transport Agency's Information Technology (IT) projects 0.8676409721374512
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8802053928375244
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[BASED]-> Wellington 0.8745959997177124
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8730817437171936
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.8612009286880493
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.873273491859436
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.8568161725997925
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.8820912837982178
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.8910969495773315
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.880536675453186
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.869480311870575
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8653599619865417
+[information about the NZ Transport Agency's Information Technology (IT) projects]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.9150516986846924
+[information about the NZ Transport Agency's Information Technology (IT) projects]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8730417490005493
+[information about the NZ Transport Agency's Information Technology (IT) projects]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8881421089172363
+[information about the NZ Transport Agency's Information Technology (IT) projects]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8689846396446228
+[information about the NZ Transport Agency's Information Technology (IT) projects]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.875227153301239
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8604342341423035
+[information about the NZ Transport Agency's Information Technology (IT) projects]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.9031890034675598
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8568264842033386
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8673167824745178
+[information about the NZ Transport Agency's Information Technology (IT) projects]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8785539269447327
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8398572206497192
+[information about the NZ Transport Agency's Information Technology (IT) projects]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.9004298448562622
+[information about the NZ Transport Agency's Information Technology (IT) projects]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8998084664344788
+[information about the NZ Transport Agency's Information Technology (IT) projects]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.906280517578125
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8395912051200867
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.859218180179596
+[information about the NZ Transport Agency's Information Technology (IT) projects]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.9123343825340271
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8488315343856812

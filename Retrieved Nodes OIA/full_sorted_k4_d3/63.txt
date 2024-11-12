@@ -1,0 +1,22 @@
+What does the Crash Analysis System (CAS) track with regards to incidents involving cyclists and pedestrians wearing headphones?
+None
+Seed: Pedestrian and Cyclist Crashes
+Seed: Pedestrian Safety Analysis
+Seed: figures on drivers involved in fatal crashes
+Seed: information on driver fatalities
+[Pedestrian and Cyclist Crashes]: Pedestrian and Cyclist Crashes --[ASSOCIATED_WITH]-> Headphones, Earphones, Earbuds, or Headsets 0.9088004231452942
+[Pedestrian and Cyclist Crashes]: Pedestrian and Cyclist Crashes --[ASSOCIATED_WITH]-> Road Safety Initiatives 0.8825461864471436
+[Pedestrian and Cyclist Crashes]: Crash Analysis System --[PROVIDES]-> data on road traffic crashes 0.8753159046173096
+[Pedestrian and Cyclist Crashes]: Crash Data --[RELATES_TO]-> Pedestrian and Cyclist Crashes 0.8734562397003174
+[Pedestrian and Cyclist Crashes]: Crash Analysis System --[PROVIDES]-> Traffic Crash Report 0.8712465763092041
+[Pedestrian and Cyclist Crashes]: Crash Analysis System --[PROVIDES]-> road accident data 0.8704837560653687
+[Pedestrian and Cyclist Crashes]: Crash Analysis System --[PROVIDES]-> traffic crash data 0.8664398789405823
+[Pedestrian Safety Analysis]: Crash Analysis System --[MANAGED_BY]-> New Zealand Transport Agency 0.8518120646476746
+[Pedestrian Safety Analysis]: New Zealand Transport Agency --[MANAGES]-> Crash Analysis System 0.836428701877594
+[Pedestrian Safety Analysis]: Galina Mitchelhill --[RESPONSIBLE_FOR]-> Pedestrian Safety Analysis 0.829122006893158
+[Pedestrian Safety Analysis]: New Zealand Transport Agency --[MAINTAINS]-> Crash Analysis System 0.8280436396598816
+[Pedestrian Safety Analysis]: Content --[DISCUSSES]-> Transport Safety 0.8231936693191528
+[Pedestrian Safety Analysis]: Galina Mitchelhill --[RESPONSIBLE_FOR]-> Cycling Safety Analysis 0.8212462663650513
+[Pedestrian Safety Analysis]: New Zealand Transport Agency --[PROVIDES]-> crash data 0.8161653280258179
+[figures on drivers involved in fatal crashes]: AA --[PROVIDES]-> figures on drivers involved in fatal crashes 0.8222339749336243
+[information on driver fatalities]: Emma Conyngham --[REQUESTS]-> information on driver fatalities 0.8210787177085876

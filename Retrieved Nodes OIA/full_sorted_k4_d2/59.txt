@@ -1,0 +1,31 @@
+How many complaints about taxi drivers were received by the NZ Transport Agency from 2009 to 2013?
+None
+Seed: 196 complaints about Uber drivers
+Seed: Complaint Data
+Seed: ride share operator complaints
+Seed: Annual review of the New Zealand Transport Agency
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.8415888547897339
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[IS]-> Waka Kotahi 0.8395035266876221
+[196 complaints about Uber drivers]: Waka Kotahi --[RECEIVES]-> 196 complaints about Uber drivers 0.832348108291626
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[ASSOCIATED]-> Waka Kotahi 0.8298786878585815
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[DISCUSS]-> Waka Kotahi 0.8275764584541321
+[196 complaints about Uber drivers]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.827252209186554
+[196 complaints about Uber drivers]: Waka Kotahi --[DISCUSS]-> New Zealand Transport Agency 0.8268518447875977
+[Complaint Data]: New Zealand Transport Agency --[RESPONDED]-> Request for Information 0.8535324931144714
+[Complaint Data]: Request for Information --[REQUESTS]-> Complaint Data 0.766524076461792
+[Complaint Data]: Request for Information --[REQUESTS]-> Warning Letters 0.7440087795257568
+[Complaint Data]: Antoinette Spicer --[SUBMITTED]-> Request for Information 0.732276439666748
+[ride share operator complaints]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.8415888547897339
+[ride share operator complaints]: New Zealand Transport Agency --[IS]-> Waka Kotahi 0.8395035266876221
+[ride share operator complaints]: Waka Kotahi --[RECEIVES]-> 196 complaints about Uber drivers 0.832348108291626
+[ride share operator complaints]: New Zealand Transport Agency --[ASSOCIATED]-> Waka Kotahi 0.8298786878585815
+[ride share operator complaints]: New Zealand Transport Agency --[DISCUSS]-> Waka Kotahi 0.8275764584541321
+[ride share operator complaints]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.827252209186554
+[ride share operator complaints]: Waka Kotahi --[DISCUSS]-> New Zealand Transport Agency 0.8268518447875977
+[Annual review of the New Zealand Transport Agency]: Audits, Reviews, Investigations --[CONDUCTED_BY]-> New Zealand Transport Agency 0.887299656867981
+[Annual review of the New Zealand Transport Agency]: New Zealand Transport Agency --[RESPONDED]-> complaint 0.8841468691825867
+[Annual review of the New Zealand Transport Agency]: New Zealand Transport Agency --[RECEIVED]-> one complaint 0.8790208101272583
+[Annual review of the New Zealand Transport Agency]: New Zealand Transport Agency --[RECEIVES]-> personal grievances 0.8779603242874146
+[Annual review of the New Zealand Transport Agency]: New Zealand Transport Agency --[CONDUCTS]-> Audits, Reviews, Investigations 0.8769031167030334
+[Annual review of the New Zealand Transport Agency]: New Zealand Transport Agency --[RESPONSE]-> OIA-8289 0.8758494257926941
+[Annual review of the New Zealand Transport Agency]: New Zealand Transport Agency --[RESPONDED]-> drivers 0.8751824498176575

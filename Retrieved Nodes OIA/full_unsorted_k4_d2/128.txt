@@ -1,0 +1,36 @@
+Who should be contacted to discuss the Kaipara Coast Highway (SH16) near Omeru Reserve remedial work?
+None
+Seed: contact details for the Ombudsman
+Seed: 2023-24 State Highway Investment Proposal
+Seed: Transport stakeholders meeting
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+[contact details for the Ombudsman]: Transport Agency --[PROVIDES]-> contact details for the Ombudsman 0.816931962966919
+[contact details for the Ombudsman]: www.ombudsman.parliament.nz --[PROVIDES]-> Transport Agency 0.8116551041603088
+[contact details for the Ombudsman]: Transport Agency --[PROVIDES]-> summary of survey results 0.773999035358429
+[contact details for the Ombudsman]: Transport Agency --[PROVIDES]-> summary of exit interview results 0.7592481374740601
+[contact details for the Ombudsman]: Transport Agency --[PROVIDES]-> summary of engagement survey results 0.7764561772346497
+[contact details for the Ombudsman]: Transport Agency --[PROVIDES]-> EAP 0.7649827003479004
+[contact details for the Ombudsman]: Transport Agency --[PROVIDES]-> response to this request on our website 0.805894136428833
+[contact details for the Ombudsman]: Transport Agency --[PROVIDES]-> summary of exit interview results since March 2016 0.7467579245567322
+[contact details for the Ombudsman]: Transport Agency --[PROVIDES]-> Contact Details 0.8058179616928101
+[contact details for the Ombudsman]: Transport Agency --[PROVIDES]-> address of the Office of the Ombudsmen 0.7947741746902466
+[contact details for the Ombudsman]: Transport Agency --[PROVIDES]-> Guide for the interpretation of coded crash reports 0.7523115873336792
+[contact details for the Ombudsman]: Transport Agency --[PROVIDES]-> contact details 0.8058179616928101
+[contact details for the Ombudsman]: Transport Agency --[PROVIDES]-> reply 0.7968882322311401
+[contact details for the Ombudsman]: Transport Agency --[WITHHOLDS]-> exact copies of staff exit interview notes 0.7449840903282166
+[contact details for the Ombudsman]: Transport Agency --[WITHHOLDS]-> information 0.7637497782707214
+[contact details for the Ombudsman]: Kevin Reid --[DISCUSS]-> Transport Agency 0.7946443557739258
+[contact details for the Ombudsman]: Transport Agency --[DISCUSS]-> HVSCs 0.8022525310516357
+[contact details for the Ombudsman]: Andrew Knackstedt --[CONTACT]-> Transport Agency 0.815269947052002
+[contact details for the Ombudsman]: Transport Agency --[CONTACT]-> Andrew Knackstedt 0.8268266916275024
+[contact details for the Ombudsman]: Transport Agency --[PUBLISHES]-> response to this request on our website 0.8058786392211914
+[contact details for the Ombudsman]: Transport Agency --[MAINTAINS]-> database 0.7687454223632812
+[contact details for the Ombudsman]: Transport Agency --[COLLABORATES_WITH]-> Wellington City Council 0.7682003974914551
+[contact details for the Ombudsman]: Andrew Knackstedt --[EMPLOYER]-> Transport Agency 0.7602567672729492
+[contact details for the Ombudsman]: OIA-6026 --[REFUSED]-> Transport Agency 0.7560549974441528
+[contact details for the Ombudsman]: Transport Agency --[REFUSED]-> section 18(e) of the Act 0.7504609823226929
+[contact details for the Ombudsman]: Transport Agency --[REFUSED]-> information request 0.762785792350769
+[contact details for the Ombudsman]: Mobility Marketplace --[ESTABLISHED]-> Transport Agency 0.74930739402771
+[contact details for the Ombudsman]: Mobility Marketplace --[TESTED]-> Transport Agency 0.7521408796310425
+[contact details for the Ombudsman]: RideMate --[TESTED]-> Transport Agency 0.7574043273925781
+[contact details for the Ombudsman]: Choice --[TESTED]-> Transport Agency 0.7606028914451599

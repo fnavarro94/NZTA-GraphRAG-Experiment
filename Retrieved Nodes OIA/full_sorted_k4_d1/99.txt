@@ -1,0 +1,13 @@
+How many crashes occurred at the Kiddle Drive/Arrowsmith Avenue intersection in Taupō before October 2019?
+None
+Seed: Kiddle Drive/Arrowsmith Ave Taupō
+Seed: intersection of Kiddle Drive/Arrowsmith Ave
+Seed: Road Traffic Crashes
+Seed: traffic crash data
+[Kiddle Drive/Arrowsmith Ave Taupō]: Kiddle Drive/Arrowsmith Ave Taupō --[HAS_INTERSECTION]-> intersection 0.8762183785438538
+[intersection of Kiddle Drive/Arrowsmith Ave]: vehicle accidents --[LOCATED]-> intersection of Kiddle Drive/Arrowsmith Ave 0.9081364274024963
+[intersection of Kiddle Drive/Arrowsmith Ave]: intersection of Kiddle Drive/Arrowsmith Ave --[CROSSES]-> Napier Road 0.8535614609718323
+[intersection of Kiddle Drive/Arrowsmith Ave]: Data --[LIMITED]-> intersection of Kiddle Drive/Arrowsmith Ave 0.8449587225914001
+[Road Traffic Crashes]: Road Traffic Crashes --[ANALYZED_BY]-> Crash Analysis 0.812159538269043
+[Road Traffic Crashes]: Alcohol Consumption --[CONTRIBUTES_TO]-> Road Traffic Crashes 0.7808210253715515
+[traffic crash data]: Crash Analysis System --[PROVIDES]-> traffic crash data 0.7959896326065063

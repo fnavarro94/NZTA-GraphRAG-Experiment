@@ -1,0 +1,16 @@
+How many Fuel Excise Duty Refunds were accepted in 2012, and what was the total value of refunds?
+None
+Seed: fuel excise refunds
+Seed: information on fuel excise duty
+Seed: OIA-1153-fuel-excise-refunds.pdf
+Seed: fuel excise duty
+[fuel excise refunds]: fuel excise refunds --[RELATED_TO]-> transportation 0.8935950994491577
+[fuel excise refunds]: OIA-1153-fuel-excise-refunds.pdf --[ASSOCIATED_WITH]-> fuel excise refunds 0.8549160957336426
+[fuel excise refunds]: transportation services --[SUPPORTED_BY]-> fuel excise refunds 0.8744730353355408
+[information on fuel excise duty]: New Zealand Transport Agency --[PROVIDES]-> information on fuel excise duty 0.8289080858230591
+[OIA-1153-fuel-excise-refunds.pdf]: file_path --[CONTAINS]-> OIA-1153-fuel-excise-refunds.pdf 0.8266487121582031
+[OIA-1153-fuel-excise-refunds.pdf]: OIA-1153-fuel-excise-refunds.pdf --[ASSOCIATED_WITH]-> fuel excise refunds 0.8549160957336426
+[fuel excise duty]: New Zealand Customs --[COLLECTS]-> fuel excise duty 0.8245758414268494
+[fuel excise duty]: fuel excise duty --[ADDED_TO]-> national fund 0.852643609046936
+[fuel excise duty]: fuel excise duty --[PAID_TO]-> Waka Kotahi 0.8522053956985474
+[fuel excise duty]: customers --[PAY]-> fuel excise duty 0.8468526601791382

@@ -1,0 +1,32 @@
+How many complaints were made to the NZTA regarding threats or attacks against examiners during driving tests in recent years?
+None
+Seed: Speed and Drunk Driving Enforcement
+Seed: 196 complaints about Uber drivers
+Seed: national, regional and local road safety promotion and education campaigns
+Seed: information related to criminal convictions of driving instructor (I) endorsement holders
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[PROVIDES]-> https://www.nzta.govt.nz/assets/resources/road-policing-programme/docs/rpp-2021-24.pdf 0.827177882194519
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[DOUBLES]-> Speed and Drunk Driving Enforcement 0.7969679832458496
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[FOCUSES_ON]-> Restraints, Impairment, Distraction, Speed 0.7843165397644043
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[PROVIDES]-> Road Policing Activities 0.7802242636680603
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[ALLOCATES]-> $1.24 billion 0.7560480237007141
+[196 complaints about Uber drivers]: questions and responses --[FROM]-> NZ Transport Agency 0.8738451600074768
+[196 complaints about Uber drivers]: Audits, Reviews, Investigations --[CONDUCTED_BY]-> New Zealand Transport Agency 0.8723768591880798
+[196 complaints about Uber drivers]: NZ Transport Agency --[REVIEWS]-> risk rating 0.8670983910560608
+[196 complaints about Uber drivers]: risk rating --[REVIEWED_BY]-> NZ Transport Agency 0.8639086484909058
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[RESPONDED]-> complaint 0.8634252548217773
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[ASSOCIATED]-> Review of 850 open compliance files 0.8632322549819946
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[REVIEWED]-> 850 open compliance files 0.8620015382766724
+[national, regional and local road safety promotion and education campaigns]: questions and responses --[FROM]-> NZ Transport Agency 0.8738451600074768
+[national, regional and local road safety promotion and education campaigns]: Audits, Reviews, Investigations --[CONDUCTED_BY]-> New Zealand Transport Agency 0.8723768591880798
+[national, regional and local road safety promotion and education campaigns]: NZ Transport Agency --[REVIEWS]-> risk rating 0.8670983910560608
+[national, regional and local road safety promotion and education campaigns]: risk rating --[REVIEWED_BY]-> NZ Transport Agency 0.8639086484909058
+[national, regional and local road safety promotion and education campaigns]: New Zealand Transport Agency --[RESPONDED]-> complaint 0.8634252548217773
+[national, regional and local road safety promotion and education campaigns]: New Zealand Transport Agency --[ASSOCIATED]-> Review of 850 open compliance files 0.8632322549819946
+[national, regional and local road safety promotion and education campaigns]: New Zealand Transport Agency --[REVIEWED]-> 850 open compliance files 0.8620015382766724
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Audits, Reviews, Investigations --[CONDUCTED_BY]-> New Zealand Transport Agency 0.8723768591880798
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[RESPONDED]-> complaint 0.8634252548217773
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[ASSOCIATED]-> Review of 850 open compliance files 0.8632322549819946
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[REVIEWED]-> 850 open compliance files 0.8620015382766724
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Police --[NOTIFIES]-> New Zealand Transport Agency 0.8609051704406738
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[RECEIVED]-> one complaint 0.8605528473854065
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[RESPONSE]-> OIA-8289 0.860069990158081

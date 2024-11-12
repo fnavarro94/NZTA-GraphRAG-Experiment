@@ -1,0 +1,36 @@
+How does Waka Kotahi prioritize road renewal and resurfacing beyond design life?
+None
+Seed: Waka Kotahi Senior Project Manager
+Seed: Waka Kotahi N Z Transport Agency
+Seed: Waka Kotahi policy
+Seed: Waka Kotahi NZ Transport Agency
+[Waka Kotahi Senior Project Manager]: Waka Kotahi Senior Project Manager --[MANAGES]-> State Highway 25A Rebuild Project 0.8687067627906799
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINS]-> Waka Kotahi N Z Transport Agency 0.8340190649032593
+[Waka Kotahi N Z Transport Agency]: Deceased Drivers --[ASSOCIATED_WITH]-> Crash Analysis System 0.743627667427063
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[ASSOCIATED_WITH]-> Deceased Drivers 0.7463883757591248
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[UPDATED]-> Traffic Crash Report 0.7692983746528625
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[PROVIDES]-> Traffic Crash Report 0.7479808926582336
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[ASSOCIATED_WITH]-> Traffic Crash Report 0.7376953363418579
+[Waka Kotahi N Z Transport Agency]: Traffic Crash Report --[ASSOCIATED_WITH]-> Crash Analysis System 0.7357438802719116
+[Waka Kotahi N Z Transport Agency]: Traffic Crash Report --[PROVIDED_BY]-> NZ Police 0.744288444519043
+[Waka Kotahi N Z Transport Agency]: Traffic Crash Report --[RECEIVED]-> NZ Police 0.7280102968215942
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[UPDATES]-> Traffic Crash Report 0.7641611695289612
+[Waka Kotahi N Z Transport Agency]: CAS --[IS_UPDATING]-> Traffic Crash Report 0.7593941688537598
+[Waka Kotahi N Z Transport Agency]: Traffic Crash Report --[CONTAINS]-> Crash Data 0.746361255645752
+[Waka Kotahi N Z Transport Agency]: Traffic Crash Report --[PROVIDED_BY]-> New Zealand Police 0.7467296123504639
+[Waka Kotahi N Z Transport Agency]: Traffic Crash Report --[RECORDED_IN]-> Crash Analysis System 0.7279115915298462
+[Waka Kotahi N Z Transport Agency]: New Zealand Police --[SUBMITS]-> Traffic Crash Report 0.7370259165763855
+[Waka Kotahi N Z Transport Agency]: Traffic Crash Report --[RECEIVED_FROM]-> NZ Police 0.738166332244873
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[CONTAINS]-> Traffic Crash Report 0.7474108934402466
+[Waka Kotahi N Z Transport Agency]: Traffic Crash Report --[RECORDS]-> Crash Data 0.7415273189544678
+[Waka Kotahi N Z Transport Agency]: NZ Police --[PROVIDES]-> Traffic Crash Report 0.7371066212654114
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[PROVIDES]-> Data 0.7442325353622437
+[Waka Kotahi N Z Transport Agency]: Data --[LIMITED_TO]-> Fatal Crashes 0.7185929417610168
+[Waka Kotahi N Z Transport Agency]: Data --[IS]-> Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence 0.720679521560669
+[Waka Kotahi N Z Transport Agency]: Data --[IS]-> Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019 0.750360369682312
+[Waka Kotahi N Z Transport Agency]: Data --[IS]-> Standard condition of drivers under 20 subject to zero alcohol level are not included 0.7237542867660522
+[Waka Kotahi N Z Transport Agency]: Driver Licence Register --[PROVIDES]-> Data 0.7265148162841797
+[Waka Kotahi N Z Transport Agency]: Data --[IS]-> Current at 18 September 2019 0.7389995455741882
+[Waka Kotahi N Z Transport Agency]: Cyclists --[EXCLUDED]-> Data 0.7312211394309998
+[Waka Kotahi N Z Transport Agency]: Tractor drivers --[EXCLUDED]-> Data 0.7350858449935913
+[Waka Kotahi N Z Transport Agency]: Bus occupants --[EXCLUDED]-> Data 0.7372482419013977

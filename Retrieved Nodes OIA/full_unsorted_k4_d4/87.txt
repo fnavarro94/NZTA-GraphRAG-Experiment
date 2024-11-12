@@ -1,0 +1,36 @@
+What is the total amount of investment planned to achieve the Road to Zero campaign goals?
+None
+Seed: cost of the current Road to Zero advertising campaign
+Seed: development of the next Road to Zero Action Plan
+Seed: information about Road To Zero campaign
+Seed: 2023-24 State Highway Investment Proposal
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[COST]-> cost of the current Road to Zero advertising campaign 0.8801161050796509
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[LAUNCHED_BY]-> New Zealand Transport Agency 0.8435074687004089
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7301307916641235
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[BASED]-> Wellington 0.739865243434906
+[cost of the current Road to Zero advertising campaign]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7410032749176025
+[cost of the current Road to Zero advertising campaign]: Golden Mile --[LOCATED]-> Wellington 0.7301640510559082
+[cost of the current Road to Zero advertising campaign]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7430737018585205
+[cost of the current Road to Zero advertising campaign]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7218560576438904
+[cost of the current Road to Zero advertising campaign]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7454818487167358
+[cost of the current Road to Zero advertising campaign]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7203494310379028
+[cost of the current Road to Zero advertising campaign]: Wellington --[PART_OF]-> Wellington Region 0.7374067306518555
+[cost of the current Road to Zero advertising campaign]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7543928027153015
+[cost of the current Road to Zero advertising campaign]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7655789256095886
+[cost of the current Road to Zero advertising campaign]: Wellington --[HAS]-> tunnel 0.7445001006126404
+[cost of the current Road to Zero advertising campaign]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7124003171920776
+[cost of the current Road to Zero advertising campaign]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7290343046188354
+[cost of the current Road to Zero advertising campaign]: Wellington --[POSTCODE]-> 6141 0.6902297735214233
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7246911525726318
+[cost of the current Road to Zero advertising campaign]: Wellington --[IS_PART_OF]-> New Zealand 0.7349663972854614
+[cost of the current Road to Zero advertising campaign]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7626731395721436
+[cost of the current Road to Zero advertising campaign]: 50 Victoria Street --[IN]-> Wellington 0.7164830565452576
+[cost of the current Road to Zero advertising campaign]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7221344113349915
+[cost of the current Road to Zero advertising campaign]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7236641645431519
+[cost of the current Road to Zero advertising campaign]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7308659553527832
+[cost of the current Road to Zero advertising campaign]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7109026908874512
+[cost of the current Road to Zero advertising campaign]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7104703187942505
+[cost of the current Road to Zero advertising campaign]: NZ Transport Agency --[LOCATED]-> Wellington 0.7245722413063049
+[cost of the current Road to Zero advertising campaign]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7391566634178162
+[cost of the current Road to Zero advertising campaign]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7154545783996582
+[cost of the current Road to Zero advertising campaign]: New Zealand --[CONTAINS]-> Wellington 0.7396979928016663

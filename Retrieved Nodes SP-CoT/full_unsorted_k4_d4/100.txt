@@ -1,0 +1,36 @@
+What region does the Metlink bus service connect to, besides Porirua, that is known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, and utilizes the Snapper card as part of its initiative in Auckland that has improved the reliability of public transport services and allowed users to plan their journeys more effectively?
+None
+Seed: Importance of well-planned transport systems in both countries
+Seed: Adopting integrated transport planning approaches that consider public transport
+Seed: Regional transport initiatives
+Seed: Increased demand for effective transportation systems
+[Importance of well-planned transport systems in both countries]: Pch --[Reflects]-> Importance of well-planned transport systems in both countries 0.8142849802970886
+[Importance of well-planned transport systems in both countries]: Pch --[Supports]-> Freight movement 0.7784344553947449
+[Importance of well-planned transport systems in both countries]: Rail transport --[Plays vital role]-> Freight movement 0.7753888368606567
+[Importance of well-planned transport systems in both countries]: Kiwirail group --[Responsible for]-> Rail transport 0.8151923418045044
+[Importance of well-planned transport systems in both countries]: Kiwirail group --[Aims to]-> Rail transport 0.8040790557861328
+[Importance of well-planned transport systems in both countries]: Rail transport --[Has]-> Rich history dating back to the 19th century 0.7759563326835632
+[Importance of well-planned transport systems in both countries]: Rail transport --[Has]-> Rich history dating back to 19th century 0.7768114805221558
+[Importance of well-planned transport systems in both countries]: Rail transport --[Plays]-> Crucial role in freight movement 0.7814199924468994
+[Importance of well-planned transport systems in both countries]: New zealand --[Has]-> Rail transport 0.8388159275054932
+[Importance of well-planned transport systems in both countries]: Pch --[Contributes to]-> Overall accessibility of the region 0.7514681220054626
+[Importance of well-planned transport systems in both countries]: Pch --[Offers]-> Fishing 0.7252353429794312
+[Importance of well-planned transport systems in both countries]: Pch --[Connects]-> Gisborne 0.7740439176559448
+[Importance of well-planned transport systems in both countries]: Pch --[Popular among]-> Tourists and locals 0.7643972635269165
+[Importance of well-planned transport systems in both countries]: Pch --[Supports]-> Passenger travel 0.7901321649551392
+[Importance of well-planned transport systems in both countries]: New zealand --[Relies on]-> Passenger travel 0.8344127535820007
+[Importance of well-planned transport systems in both countries]: New zealand --[Has]-> Transport projects 0.8441290855407715
+[Importance of well-planned transport systems in both countries]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.8108032941818237
+[Importance of well-planned transport systems in both countries]: New zealand --[Has]-> Diverse transport network 0.8515529036521912
+[Importance of well-planned transport systems in both countries]: New zealand --[Has]-> Post-incident review 0.7722281813621521
+[Importance of well-planned transport systems in both countries]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.7888004779815674
+[Importance of well-planned transport systems in both countries]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.8167093396186829
+[Importance of well-planned transport systems in both countries]: New zealand --[Has]-> Broader environmental policies 0.7883519530296326
+[Importance of well-planned transport systems in both countries]: New zealand --[Has]-> Traffic congestion 0.8166885375976562
+[Importance of well-planned transport systems in both countries]: New zealand --[Has]-> Increasing urbanization 0.797429621219635
+[Importance of well-planned transport systems in both countries]: New zealand --[Has]-> Graduated licensing system 0.8050001263618469
+[Importance of well-planned transport systems in both countries]: New zealand --[Has]-> Extensive coastline supporting a thriving fishing industry and recreational boating activities 0.7859989404678345
+[Importance of well-planned transport systems in both countries]: New zealand --[Has]-> Trend towards more integrated and environmentally friendly transport solutions 0.8323801159858704
+[Importance of well-planned transport systems in both countries]: New zealand --[Has]-> Extensive network of roads 0.8199770450592041
+[Importance of well-planned transport systems in both countries]: New zealand --[Has]-> Public transport network planning 0.8613036274909973
+[Importance of well-planned transport systems in both countries]: New zealand --[Has]-> Public transit 0.8517559766769409

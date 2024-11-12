@@ -1,0 +1,36 @@
+What information was withheld from the response about the Road Efficiency Group briefing?
+None
+Seed: Some information has been withheld under section 9(2)(f)(iv)
+Seed: Road Efficiency Group
+Seed: Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)
+Seed: specific questions and the NZ Transport Agency’s responses
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[IS]-> Some information has been withheld under section 9(2)(f)(iv) 0.8298884034156799
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[DATE]-> 24 April 2024 0.7442833781242371
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[IS]-> NTS rollout timeline 0.7642608880996704
+[Road Efficiency Group]: Documents --[CONTAINS]-> Road Efficiency Group 0.8644993305206299
+[Road Efficiency Group]: Documents --[CONTAINS]-> Brown Update on the installation of cameras 0.7910003662109375
+[Road Efficiency Group]: Documents --[CONTAINS]-> GPS advice updates 0.8150349855422974
+[Road Efficiency Group]: MIN-4467 --[IS]-> GPS advice updates 0.784432590007782
+[Road Efficiency Group]: MIN-4467 --[DATE]-> 26 April 2024 0.7509340047836304
+[Road Efficiency Group]: MINO-990 --[DATE]-> 26 April 2024 0.7340252995491028
+[Road Efficiency Group]: MIN-4467 --[IS]-> Not enclosed 0.7483636140823364
+[Road Efficiency Group]: MINO-990 --[IS]-> Not enclosed 0.7415211796760559
+[Road Efficiency Group]: Request for Official Information --[COVERS]-> Documents 0.8201377987861633
+[Road Efficiency Group]: New Zealand Transport Agency --[RESPONDS]-> Request for Official Information 0.8490582704544067
+[Road Efficiency Group]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7763121128082275
+[Road Efficiency Group]: New Zealand Transport Agency --[BASED]-> Wellington 0.7809368968009949
+[Road Efficiency Group]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7454054951667786
+[Road Efficiency Group]: Golden Mile --[LOCATED]-> Wellington 0.7316316366195679
+[Road Efficiency Group]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7649549841880798
+[Road Efficiency Group]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7519744634628296
+[Road Efficiency Group]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7685768604278564
+[Road Efficiency Group]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7525029182434082
+[Road Efficiency Group]: Wellington --[PART_OF]-> Wellington Region 0.7607983946800232
+[Road Efficiency Group]: New Zealand --[HAS_CAPITAL]-> Wellington 0.765781819820404
+[Road Efficiency Group]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.751244306564331
+[Road Efficiency Group]: Wellington --[HAS]-> tunnel 0.755815327167511
+[Road Efficiency Group]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.737610936164856
+[Road Efficiency Group]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7571192383766174
+[Road Efficiency Group]: Wellington --[POSTCODE]-> 6141 0.7203952074050903
+[Road Efficiency Group]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7728329300880432
+[Road Efficiency Group]: Wellington --[IS_PART_OF]-> New Zealand 0.7557233572006226

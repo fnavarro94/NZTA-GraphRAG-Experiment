@@ -1,0 +1,36 @@
+Who should be contacted to discuss the Kaipara Coast Highway (SH16) near Omeru Reserve remedial work?
+None
+Seed: contact details for the Ombudsman
+Seed: 2023-24 State Highway Investment Proposal
+Seed: Transport stakeholders meeting
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+[contact details for the Ombudsman]: Transport Agency --[PROVIDES]-> contact details for the Ombudsman 0.816931962966919
+[contact details for the Ombudsman]: www.ombudsman.parliament.nz --[PROVIDES]-> Transport Agency 0.8116551041603088
+[contact details for the Ombudsman]: www.ombudsman.parliament.nz --[LINKS_TO]-> Ombudsman 0.8096777200698853
+[contact details for the Ombudsman]: right to ask the Ombudsman to review --[IS_GRANTED_BY]-> Ombudsman 0.7659587860107422
+[contact details for the Ombudsman]: right to ask the Ombudsman to review --[EXERCISED_BY]-> requester 0.7811862230300903
+[contact details for the Ombudsman]: requester --[SUBMITTED]-> request 0.7508476972579956
+[contact details for the Ombudsman]: OIA requests --[SUBMITTED_BY]-> requester 0.764557957649231
+[contact details for the Ombudsman]: requester --[LIVES_IN]-> Auckland 0.7907425165176392
+[contact details for the Ombudsman]: Andrew Knackstedt --[CONTACTED]-> requester 0.7988057136535645
+[contact details for the Ombudsman]: section 28 of the Act --[GRANTS]-> right to ask the Ombudsman to review 0.7530032396316528
+[contact details for the Ombudsman]: request --[RELATES_TO]-> section 28 of the Act 0.7589850425720215
+[contact details for the Ombudsman]: decision to refuse request --[BASED_ON]-> section 28 of the Act 0.741356372833252
+[contact details for the Ombudsman]: Ombudsman --[REVIEW_REQUEST]-> decision 0.7571511268615723
+[contact details for the Ombudsman]: decision --[REFUSES]-> request 0.7238653302192688
+[contact details for the Ombudsman]: request --[RELATES_TO]-> section 18(e) of the Act 0.7654819488525391
+[contact details for the Ombudsman]: Waka Kotahi NZ Transport Agency --[REFUSES]-> request 0.7636661529541016
+[contact details for the Ombudsman]: request --[REFUSED]-> decision to refuse request 0.7244224548339844
+[contact details for the Ombudsman]: request --[REFUSED]-> section 18(e) of the Act 0.7489520311355591
+[contact details for the Ombudsman]: New Zealand Transport Agency --[RESPONDS]-> request 0.796730637550354
+[contact details for the Ombudsman]: request --[RELATES_TO]-> response letter 0.753887951374054
+[contact details for the Ombudsman]: Waka Kotahi --[CONSIDERS]-> request 0.7639551162719727
+[contact details for the Ombudsman]: request --[RELATES_TO]-> renewal and resurfacing programmes 0.7625088095664978
+[contact details for the Ombudsman]: request --[FROM]-> Taylor Rice 0.7709340453147888
+[contact details for the Ombudsman]: New Zealand Transport Agency --[RESPONDS_TO]-> request 0.7883745431900024
+[contact details for the Ombudsman]: request --[REFUSE]-> decision 0.7315314412117004
+[contact details for the Ombudsman]: request --[DISCUSS]-> Andrew Knackstedt 0.7926108837127686
+[contact details for the Ombudsman]: Andrew Knackstedt --[DISCUSS]-> request 0.7896605134010315
+[contact details for the Ombudsman]: decision --[REFUSE]-> request 0.7354521155357361
+[contact details for the Ombudsman]: Chris Lokum --[RESPONDS]-> request 0.7497859001159668
+[contact details for the Ombudsman]: Waka Kotahi --[RESPONDS]-> request 0.7636551856994629

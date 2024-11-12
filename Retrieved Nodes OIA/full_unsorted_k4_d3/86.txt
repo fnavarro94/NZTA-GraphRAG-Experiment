@@ -1,0 +1,36 @@
+What improvements were identified following the safety incidents in May 2017?
+None
+Seed: improving the safety performance of the vehicle fleet
+Seed: Safety Incidents
+Seed: health and safety incidents
+Seed: opportunities to make an announcement regarding changes to the national farebox recovery policy
+[improving the safety performance of the vehicle fleet]: Safe System approach --[INCLUDES]-> improving the safety performance of the vehicle fleet 0.8620311617851257
+[improving the safety performance of the vehicle fleet]: Safe System approach --[INCLUDES]-> installing median barriers 0.8189390301704407
+[improving the safety performance of the vehicle fleet]: Safe System approach --[INCLUDES]-> encouraging road users to be alert and compliant 0.8363494873046875
+[improving the safety performance of the vehicle fleet]: resolution A/RES/74/299 --[PROMOTES]-> Safe System approach 0.8203502297401428
+[improving the safety performance of the vehicle fleet]: United Nations General Assembly --[ADOPTED]-> resolution A/RES/74/299 0.7683308124542236
+[Safety Incidents]: Health, Safety & Quality Report --[CONTAINS]-> Safety Incidents 0.8810409903526306
+[Safety Incidents]: Stephen Bell --[SUBMITS_REPORT]-> Health, Safety & Quality Report 0.8322706818580627
+[Safety Incidents]: Board --[RECEIVES_REPORT]-> Health, Safety & Quality Report 0.8333064317703247
+[Safety Incidents]: Safety Incidents --[INVESTIGATED]-> Board 0.8661335706710815
+[health and safety incidents]: health and safety incidents --[REGIONAL_BREAKDOWN]-> regional breakdown 0.8592875599861145
+[health and safety incidents]: regional breakdown --[LISTS]-> incidents by region 0.8370051980018616
+[health and safety incidents]: incidents by region --[INCLUDES]-> total incidents per year 0.8384017944335938
+[health and safety incidents]: Waka Kotahi --[DOES_NOT_CAPTURE]-> regional breakdown 0.7299187183380127
+[health and safety incidents]: Response --[CONTAINS]-> Waka Kotahi 0.7654803991317749
+[health and safety incidents]: response --[CONTAINS]-> Waka Kotahi 0.7447006702423096
+[health and safety incidents]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.7558955550193787
+[health and safety incidents]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.7559548616409302
+[health and safety incidents]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7282535433769226
+[health and safety incidents]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.744525671005249
+[health and safety incidents]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.7179638147354126
+[health and safety incidents]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7250739336013794
+[health and safety incidents]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.7519049048423767
+[health and safety incidents]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.7681411504745483
+[health and safety incidents]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7562928199768066
+[health and safety incidents]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.7801826000213623
+[health and safety incidents]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.7551898956298828
+[health and safety incidents]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.7504106760025024
+[health and safety incidents]: Leisa Coley --[EMPLOYED_BY]-> Waka Kotahi 0.7338191866874695
+[health and safety incidents]: Lizette Marais --[EMPLOYED_BY]-> Waka Kotahi 0.7326787114143372
+[health and safety incidents]: Waka Kotahi --[EMPLOYS]-> Andy Knackstedt 0.7278666496276855

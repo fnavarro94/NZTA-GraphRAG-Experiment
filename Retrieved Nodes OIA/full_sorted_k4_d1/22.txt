@@ -1,0 +1,10 @@
+How many drivers had a zero-alcohol condition on their licence as of 1 July 2019?
+None
+Seed: Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence
+Seed: Standard condition of drivers under 20 subject to zero alcohol level are not included
+Seed: Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019
+Seed: Driving With Excess Blood Alcohol Level
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Data --[IS]-> Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence 0.857560396194458
+[Standard condition of drivers under 20 subject to zero alcohol level are not included]: Data --[IS]-> Standard condition of drivers under 20 subject to zero alcohol level are not included 0.8803609609603882
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Data --[IS]-> Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019 0.8885011076927185
+[Driving With Excess Blood Alcohol Level]: Driving With Excess Blood Alcohol Level --[COUNT]-> 1 0.865689754486084

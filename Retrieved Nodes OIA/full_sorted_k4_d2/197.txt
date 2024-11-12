@@ -1,0 +1,31 @@
+How many complaints have been received about Uber drivers since 2019?
+None
+Seed: 196 complaints about Uber drivers
+Seed: Uber drivers
+Seed: Complaint Data
+Seed: ride share operator complaints
+[196 complaints about Uber drivers]: Waka Kotahi --[RECEIVES]-> 196 complaints about Uber drivers 0.8900079727172852
+[196 complaints about Uber drivers]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.8500398993492126
+[196 complaints about Uber drivers]: Waka Kotahi --[INVESTIGATES]-> ride share operator complaints 0.8351490497589111
+[196 complaints about Uber drivers]: Waka Kotahi --[RECEIVES]-> 8 complaints about Zoomy drivers 0.8196007609367371
+[196 complaints about Uber drivers]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.8016658425331116
+[196 complaints about Uber drivers]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7892156839370728
+[196 complaints about Uber drivers]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.788956880569458
+[Uber drivers]: Waka Kotahi --[RECEIVES]-> 196 complaints about Uber drivers 0.8900079727172852
+[Uber drivers]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.8500398993492126
+[Uber drivers]: Waka Kotahi --[INVESTIGATES]-> ride share operator complaints 0.8351490497589111
+[Uber drivers]: Waka Kotahi --[RECEIVES]-> 8 complaints about Zoomy drivers 0.8196007609367371
+[Uber drivers]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.8016658425331116
+[Uber drivers]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7892156839370728
+[Uber drivers]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.788956880569458
+[Complaint Data]: Request for Information --[REQUESTS]-> Complaint Data 0.7904334664344788
+[Complaint Data]: New Zealand Transport Agency --[RESPONDED]-> Request for Information 0.780799150466919
+[Complaint Data]: Antoinette Spicer --[SUBMITTED]-> Request for Information 0.7551817893981934
+[Complaint Data]: Request for Information --[REQUESTS]-> Warning Letters 0.7538629770278931
+[ride share operator complaints]: Waka Kotahi --[RECEIVES]-> 196 complaints about Uber drivers 0.8900079727172852
+[ride share operator complaints]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.8500398993492126
+[ride share operator complaints]: Waka Kotahi --[INVESTIGATES]-> ride share operator complaints 0.8351490497589111
+[ride share operator complaints]: Waka Kotahi --[RECEIVES]-> 8 complaints about Zoomy drivers 0.8196007609367371
+[ride share operator complaints]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.8016658425331116
+[ride share operator complaints]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7892156839370728
+[ride share operator complaints]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.788956880569458

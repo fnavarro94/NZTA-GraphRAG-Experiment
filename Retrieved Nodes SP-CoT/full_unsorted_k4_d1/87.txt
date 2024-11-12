@@ -1,0 +1,11 @@
+I'm sorry, but the raw question you provided is incomplete. Could you please provide the missing information so I can form a complete and accurate natural question for you?
+None
+Seed: Paramount importance
+Seed: Cultural factors
+Seed: Ecological factors
+Seed: Environmental concerns
+[Paramount importance]: Road infrastructure resilience --[Is]-> Paramount importance 0.7861039042472839
+[Cultural factors]: Teia --[Includes]-> Cultural factors 0.8063626289367676
+[Ecological factors]: Teia --[Includes]-> Ecological factors 0.8074631690979004
+[Environmental concerns]: Kiwirail group --[Addresses]-> Environmental concerns 0.7432647943496704
+[Environmental concerns]: New zealand --[Face]-> Environmental concerns 0.7615792155265808

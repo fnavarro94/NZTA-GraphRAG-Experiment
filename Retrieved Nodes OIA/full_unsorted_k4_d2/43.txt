@@ -1,0 +1,36 @@
+How many staff does NZTA have employed in relation to fuel excise duty refunds?
+None
+Seed: fuel excise refunds
+Seed: transportation services
+Seed: information on fuel excise duty
+Seed: transportation
+[fuel excise refunds]: fuel excise refunds --[RELATED_TO]-> transportation 0.850355863571167
+[fuel excise refunds]: transportation --[AFFECTED_BY]-> flooding 0.7458655834197998
+[fuel excise refunds]: New Zealand Transport Agency --[RESPONSIBLE_FOR]-> transportation 0.8148184418678284
+[fuel excise refunds]: transportation --[GOVERNED_BY]-> New Zealand Transport Agency 0.8212732672691345
+[fuel excise refunds]: OIA-1153-fuel-excise-refunds.pdf --[ASSOCIATED_WITH]-> fuel excise refunds 0.8282991647720337
+[fuel excise refunds]: file_path --[CONTAINS]-> OIA-1153-fuel-excise-refunds.pdf 0.7978229522705078
+[fuel excise refunds]: transportation services --[SUPPORTED_BY]-> fuel excise refunds 0.8434840440750122
+[fuel excise refunds]: transportation services --[OFFERED_BY]-> New Zealand Transport Agency 0.8212237358093262
+[fuel excise refunds]: transportation services --[REGULATED_BY]-> transportation laws 0.76851886510849
+[fuel excise refunds]: New Zealand Transport Agency --[PROVIDES]-> transportation services 0.829698920249939
+[transportation services]: transportation services --[OFFERED_BY]-> New Zealand Transport Agency 0.8212237358093262
+[transportation services]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8190572261810303
+[transportation services]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8196423649787903
+[transportation services]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8123915195465088
+[transportation services]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7953374981880188
+[transportation services]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.8204765915870667
+[transportation services]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.8252677321434021
+[transportation services]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.8264999985694885
+[transportation services]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.819076657295227
+[transportation services]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8238503336906433
+[transportation services]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8116652965545654
+[transportation services]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8342747688293457
+[transportation services]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8302643299102783
+[transportation services]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8124659061431885
+[transportation services]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8277838230133057
+[transportation services]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8287948966026306
+[transportation services]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8166377544403076
+[transportation services]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8213167786598206
+[transportation services]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8014156818389893
+[transportation services]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8585505485534668

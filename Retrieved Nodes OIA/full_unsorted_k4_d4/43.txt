@@ -1,0 +1,36 @@
+How many staff does NZTA have employed in relation to fuel excise duty refunds?
+None
+Seed: fuel excise refunds
+Seed: transportation services
+Seed: information on fuel excise duty
+Seed: transportation
+[fuel excise refunds]: fuel excise refunds --[RELATED_TO]-> transportation 0.850355863571167
+[fuel excise refunds]: transportation --[AFFECTED_BY]-> flooding 0.7458655834197998
+[fuel excise refunds]: road maintenance --[AFFECTED_BY]-> flooding 0.7371107935905457
+[fuel excise refunds]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> road maintenance 0.8180348873138428
+[fuel excise refunds]: transport --[ASSOCIATED_WITH]-> road maintenance 0.7496906518936157
+[fuel excise refunds]: road maintenance --[OVERDUE]-> State Highway 1 0.742897629737854
+[fuel excise refunds]: State Highway 1 --[OVERDUE]-> road maintenance 0.7485044598579407
+[fuel excise refunds]: road maintenance --[OVERDUE]-> Wellington City Council 0.7531186938285828
+[fuel excise refunds]: road renewal --[OVERDUE]-> road maintenance 0.7535042762756348
+[fuel excise refunds]: toll tariffs --[USED_FOR]-> road maintenance 0.7712283730506897
+[fuel excise refunds]: toll tariffs --[SPENT_ON]-> road maintenance 0.7781553268432617
+[fuel excise refunds]: road maintenance --[PERFORMED_BY]-> New Zealand Transport Agency 0.8066582083702087
+[fuel excise refunds]: road maintenance --[FUNDED_BY]-> toll tariffs 0.7779964208602905
+[fuel excise refunds]: road maintenance --[NECESSARY_FOR]-> safe driving conditions 0.7342492341995239
+[fuel excise refunds]: road maintenance --[SUPPORTED_BY]-> tolls 0.7593439817428589
+[fuel excise refunds]: road maintenance --[IMPROVES]-> road safety 0.7296997308731079
+[fuel excise refunds]: tolls --[USED_FOR]-> road maintenance 0.7679126858711243
+[fuel excise refunds]: driver safety --[IMPROVED_BY]-> road maintenance 0.7279855608940125
+[fuel excise refunds]: transport --[FOCUSES_ON]-> road maintenance 0.7555336952209473
+[fuel excise refunds]: road maintenance --[ASSOCIATED_WITH]-> State Highway 1 0.7467566728591919
+[fuel excise refunds]: road maintenance --[FUNDING]-> approved 0.7458930015563965
+[fuel excise refunds]: flooding --[CAN_AFFECT]-> road maintenance 0.7263104915618896
+[fuel excise refunds]: New Zealand Transport Agency --[RESPONSIBLE_FOR]-> road maintenance 0.8094649314880371
+[fuel excise refunds]: Waka Kotahi NZ Transport Agency --[MANAGES]-> road maintenance 0.7901701927185059
+[fuel excise refunds]: road maintenance --[AFFECTS]-> public transport fare policy review 0.7653700709342957
+[fuel excise refunds]: Saddle Road Route --[REQUIRES]-> road maintenance 0.7354655265808105
+[fuel excise refunds]: road maintenance --[IMPROVES]-> State Highway 1 0.7207362055778503
+[fuel excise refunds]: State Highway 1 --[ASSOCIATED_WITH]-> road maintenance 0.7444140315055847
+[fuel excise refunds]: flooding --[CAUSES]-> damage 0.7062892317771912
+[fuel excise refunds]: damage --[RELATED_TO]-> weather event s, storm s, cyclone s, or floods 0.7102822661399841

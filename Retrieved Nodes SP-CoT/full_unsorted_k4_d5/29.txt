@@ -1,0 +1,36 @@
+Under which regional council does the entity responsible for planning and delivering public transport services in Auckland operate?
+None
+Seed: Regional councils and local authorities
+Seed: Local councils and new zealand transport agency
+Seed: Local government initiatives
+Seed: Regional transport initiatives
+[Regional councils and local authorities]: National land transport programme --[Developed in consultation with]-> Regional councils and local authorities 0.8255428075790405
+[Regional councils and local authorities]: National land transport programme --[Is]-> Key component of new zealand's transport planning framework 0.8358884453773499
+[Regional councils and local authorities]: National land transport programme --[Updated]-> Every three years 0.770031213760376
+[Regional councils and local authorities]: National land transport programme --[Promotes]-> Environmental sustainability 0.7723351120948792
+[Regional councils and local authorities]: Government objectives --[Include]-> Environmental sustainability 0.7330392003059387
+[Regional councils and local authorities]: Government objectives --[Include]-> Social equity 0.7324202060699463
+[Regional councils and local authorities]: New zealand transport strategy --[Aligned with]-> Government objectives 0.8412314653396606
+[Regional councils and local authorities]: New zealand transport strategy --[Emphasizes]-> Multimodal approach 0.8336852192878723
+[Regional councils and local authorities]: New zealand transport strategy --[Promotes]-> Public transport 0.8461849093437195
+[Regional councils and local authorities]: New zealand transport strategy --[Aims]-> Sustainable transport network 0.8276602625846863
+[Regional councils and local authorities]: New zealand transport strategy --[Is]-> Comprehensive framework 0.8324308395385742
+[Regional councils and local authorities]: New zealand transport strategy --[Established]-> 2008 0.8507840037345886
+[Regional councils and local authorities]: New zealand transport strategy --[Promotes]-> Active transport options 0.8337762951850891
+[Regional councils and local authorities]: New zealand transport strategy --[Outlines]-> Long-term vision 0.8272689580917358
+[Regional councils and local authorities]: New zealand transport strategy --[Emphasizes]-> Integrating transport planning with land use and environmental considerations 0.8316840529441833
+[Regional councils and local authorities]: New zealand transport strategy --[Outlines]-> Priorities for transport investment 0.83255934715271
+[Regional councils and local authorities]: New zealand transport strategy --[Emphasizes]-> Need for more integrated and sustainable transport system 0.8263404369354248
+[Regional councils and local authorities]: New zealand transport strategy --[Emphasizes]-> Importance of community engagement 0.8357805013656616
+[Regional councils and local authorities]: Government objectives --[Include]-> Economic growth 0.7317616939544678
+[Regional councils and local authorities]: National land transport programme --[Supports]-> Economic growth 0.7702039480209351
+[Regional councils and local authorities]: Kiwirail group --[Promotes]-> Economic growth 0.7950313687324524
+[Regional councils and local authorities]: Waka kotahi --[Contributes to]-> Economic growth 0.7335472702980042
+[Regional councils and local authorities]: Auckland western ring route --[Supports]-> Economic growth 0.8141211271286011
+[Regional councils and local authorities]: Transport infrastructure development --[Is crucial for]-> Economic growth 0.771583080291748
+[Regional councils and local authorities]: Freight transport --[Essential for]-> Economic growth 0.7451663017272949
+[Regional councils and local authorities]: Road infrastructure --[Is vital for]-> Economic growth 0.7433516979217529
+[Regional councils and local authorities]: Waka kotahi --[Contributes to]-> Environmental sustainability 0.7398027181625366
+[Regional councils and local authorities]: Waka kotahi --[Has]-> Road to zero  strategy 0.7295846939086914
+[Regional councils and local authorities]: Waka kotahi --[Is]-> Primary agency 0.7515686750411987
+[Regional councils and local authorities]: Auckland transport --[Is]-> Primary agency 0.8890541791915894

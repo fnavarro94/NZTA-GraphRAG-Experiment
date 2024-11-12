@@ -1,0 +1,28 @@
+What is the process for proposing improvements to the Hornby Intersection if no improvements are planned?
+None
+Seed: Request for information on Hornby Intersection improvements
+Seed: no other intersection safety improvements planned
+Seed: Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case
+Seed: Hornby Intersection
+[Request for information on Hornby Intersection improvements]: Request for information on Hornby Intersection improvements --[REQUESTS]-> New Zealand Transport Agency 0.9006513357162476
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[RESPONDS_TO]-> Request for information on Hornby Intersection improvements 0.8891997337341309
+[Request for information on Hornby Intersection improvements]: Road Network Changes --[PLANNED_BY]-> New Zealand Transport Agency 0.829669713973999
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[PLANS]-> Road to Zero Strategy 0.8279025554656982
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[SPENT]-> Road to Zero Strategy Development 0.8193227052688599
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[NEGOTIATING]-> Transmission Gully 0.8173611164093018
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[DEVELOPS]-> Road to Zero Strategy 0.8171721696853638
+[no other intersection safety improvements planned]: Featherston --[RAISED_CROSSINGS]-> no other intersection safety improvements planned 0.8450115323066711
+[no other intersection safety improvements planned]: Featherston --[RAISED_CROSSINGS]-> three improvements to existing crossings 0.8374655246734619
+[no other intersection safety improvements planned]: Featherston --[RAISED_CROSSINGS]-> one crossing near SH2/Lyon Street/Birdwood Street intersection 0.8131490349769592
+[no other intersection safety improvements planned]: Featherston --[RAISED_CROSSINGS]-> one crossing near Daniell Street 0.8126132488250732
+[no other intersection safety improvements planned]: Featherston --[RAISED_CROSSINGS]-> two new crossings 0.806904673576355
+[no other intersection safety improvements planned]: Featherston --[RAISED_CROSSINGS]-> staged way over time 0.8048109412193298
+[no other intersection safety improvements planned]: Featherston --[RAISED_CROSSINGS]-> this year 0.7960285544395447
+[Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Access and Development Programme Business Case 0.8754116296768188
+[Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.873885989189148
+[Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case]: Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.8706427216529846
+[Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case]: Hornby Access and Development Programme Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.861638605594635
+[Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.8597006797790527
+[Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Access and Development Programme Business Case 0.8549774885177612
+[Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case]: 2024-27 National Land Transport Programme --[DEVELOPMENT_OF]-> Regional Land Transport Plan 0.8062283396720886
+[Hornby Intersection]: Hornby Intersection --[IMPROVEMENTS_PLANNED]-> next 10 years 0.9156594276428223

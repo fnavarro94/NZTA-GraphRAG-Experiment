@@ -1,0 +1,36 @@
+By when is it planned for all regions to transfer to the National Ticketing System?
+None
+Seed: National Ticketing Solution request for proposal
+Seed: National Ticketing System
+Seed: no additional funding for fare reductions before the next NLTP in June 2021
+Seed: Request for National Ticketing System Documentation
+[National Ticketing Solution request for proposal]: www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ --[CONTAINS]-> National Ticketing Solution request for proposal 0.8485479354858398
+[National Ticketing Solution request for proposal]: RFP for National Ticket System --[AVAILABLE]-> www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ 0.8439344167709351
+[National Ticketing Solution request for proposal]: New Zealand Transport Agency --[REFUSES]-> RFP for National Ticket System 0.7890021800994873
+[National Ticketing Solution request for proposal]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7694430351257324
+[National Ticketing Solution request for proposal]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7765814661979675
+[National Ticketing Solution request for proposal]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7779579758644104
+[National Ticketing Solution request for proposal]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7732431292533875
+[National Ticketing Solution request for proposal]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7728596925735474
+[National Ticketing Solution request for proposal]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7815126180648804
+[National Ticketing Solution request for proposal]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.798133373260498
+[National Ticketing Solution request for proposal]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7783175706863403
+[National Ticketing Solution request for proposal]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7837920188903809
+[National Ticketing Solution request for proposal]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7841953039169312
+[National Ticketing Solution request for proposal]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7692186236381531
+[National Ticketing Solution request for proposal]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7914115190505981
+[National Ticketing Solution request for proposal]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.786353349685669
+[National Ticketing Solution request for proposal]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.780221164226532
+[National Ticketing Solution request for proposal]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.771362841129303
+[National Ticketing Solution request for proposal]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.782760500907898
+[National Ticketing Solution request for proposal]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.748936116695404
+[National Ticketing Solution request for proposal]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7564001083374023
+[National Ticketing Solution request for proposal]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7872475385665894
+[National Ticketing Solution request for proposal]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7540327310562134
+[National Ticketing Solution request for proposal]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7848105430603027
+[National Ticketing Solution request for proposal]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7702261805534363
+[National Ticketing Solution request for proposal]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7846584320068359
+[National Ticketing Solution request for proposal]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7595815658569336
+[National Ticketing Solution request for proposal]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.765752375125885
+[National Ticketing Solution request for proposal]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7855747938156128
+[National Ticketing Solution request for proposal]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7570004463195801

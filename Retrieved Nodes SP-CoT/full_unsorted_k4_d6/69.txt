@@ -1,0 +1,36 @@
+What is the largest city in the country known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, served by the key transport corridor critical for freight and passenger movement and runs through the North Island?
+None
+Seed: Critical for freight and passenger movement
+Seed: Critical aspect of transportation planning
+Seed: Critical component of new zealand's transport strategy
+Seed: Major cities and industrial hubs
+[Critical for freight and passenger movement]: North island main trunk railway --[Is]-> Critical for freight and passenger movement 0.8789194822311401
+[Critical for freight and passenger movement]: North island main trunk railway --[Supports]-> Tourism 0.8196532726287842
+[Critical for freight and passenger movement]: North island main trunk railway --[Supports]-> Industry 0.8065513968467712
+[Critical for freight and passenger movement]: North island main trunk railway --[Holds]-> Efficiency 0.7964693307876587
+[Critical for freight and passenger movement]: Tms --[Drives]-> Efficiency 0.7191572189331055
+[Critical for freight and passenger movement]: Tms --[Integrates with]-> Iot devices 0.7001814842224121
+[Critical for freight and passenger movement]: Tms --[Improves]-> Customer satisfaction 0.7018575668334961
+[Critical for freight and passenger movement]: Tms --[Requires]-> Investment 0.7120829820632935
+[Critical for freight and passenger movement]: North island main trunk line --[Focus]-> Investment 0.81009441614151
+[Critical for freight and passenger movement]: North island main trunk line --[Focus]-> Improve efficiency 0.7931467890739441
+[Critical for freight and passenger movement]: North island main trunk line --[Enhances]-> Regional development 0.8268920183181763
+[Critical for freight and passenger movement]: North island main trunk line --[Plays]-> Significant role 0.8245609402656555
+[Critical for freight and passenger movement]: North island main trunk line --[Serves]-> Freight services 0.8276488780975342
+[Critical for freight and passenger movement]: North island main trunk line --[Enhances]-> Connectivity 0.8055649399757385
+[Critical for freight and passenger movement]: North island main trunk line --[Operated by]-> Kiwirail 0.8147546052932739
+[Critical for freight and passenger movement]: North island main trunk line --[Construction began]-> 1880s 0.7965640425682068
+[Critical for freight and passenger movement]: North island main trunk line --[Supports]-> Freight services 0.8192102909088135
+[Critical for freight and passenger movement]: North island main trunk line --[Enhances]-> Sustainability 0.8230651617050171
+[Critical for freight and passenger movement]: North island main trunk line --[Facilitates]-> Economic activity 0.8292355537414551
+[Critical for freight and passenger movement]: North island main trunk line --[Spans]-> 423 miles 0.8219015598297119
+[Critical for freight and passenger movement]: North island main trunk line --[Features]-> Raurimu spiral 0.8010114431381226
+[Critical for freight and passenger movement]: North island main trunk line --[Supports]-> Agricultural products 0.7955672740936279
+[Critical for freight and passenger movement]: North island main trunk line --[Facilitates]-> Regional connectivity 0.8252369165420532
+[Critical for freight and passenger movement]: North island main trunk line --[Focus]-> Modernization 0.7979946732521057
+[Critical for freight and passenger movement]: North island main trunk line --[Focus]-> Sustainable transport solutions 0.8479913473129272
+[Critical for freight and passenger movement]: North island main trunk line --[Supports]-> Northern explorer 0.7972304821014404
+[Critical for freight and passenger movement]: North island main trunk line --[Focus]-> Meet demand 0.8085379004478455
+[Critical for freight and passenger movement]: North island main trunk line --[Focus]-> Improve capacity 0.7917400002479553
+[Critical for freight and passenger movement]: North island main trunk line --[Connects]-> Wellington 0.798671543598175
+[Critical for freight and passenger movement]: North island main trunk line --[Features]-> Makatote viaduct 0.8124160766601562

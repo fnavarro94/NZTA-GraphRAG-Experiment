@@ -1,0 +1,18 @@
+What changes have been made to the national farebox recovery policy since 2018?
+None
+Seed: opportunities to make an announcement regarding changes to the national farebox recovery policy
+Seed: national farebox recovery policy review
+Seed: information on farebox recovery ratio
+Seed: national farebox recovery target
+[opportunities to make an announcement regarding changes to the national farebox recovery policy]: MIN-3132 --[RELATES_TO]-> opportunities to make an announcement regarding changes to the national farebox recovery policy 0.8885550498962402
+[opportunities to make an announcement regarding changes to the national farebox recovery policy]: MIN/O-0005 --[FOLLOWS_UP]-> MIN-3132 0.7668495178222656
+[national farebox recovery policy review]: BRI-1700 --[RELATES_TO]-> national farebox recovery policy review 0.901208758354187
+[information on farebox recovery ratio]: Final Mode Shift Plans --[PROVIDES]-> information on farebox recovery ratio 0.8932086229324341
+[information on farebox recovery ratio]: BRI-1721 --[CONTAINS]-> Final Mode Shift Plans 0.764072835445404
+[national farebox recovery target]: national farebox recovery target --[REPLACED_BY]-> underlying principles of the current policy 0.9245614409446716
+[national farebox recovery target]: national farebox recovery target --[REPLACED]-> 2018-21 NLTP 0.916868269443512
+[national farebox recovery target]: wider impacts of fare policy on people and cities --[INCLUCES]-> national farebox recovery target 0.9161339402198792
+[national farebox recovery target]: national farebox recovery target --[INTRODUCED]-> 2010 0.9121695160865784
+[national farebox recovery target]: 2018-21 NLTP --[APPLIES]-> national farebox recovery target 0.9109488725662231
+[national farebox recovery target]: 2010 --[APPLIES]-> national farebox recovery target 0.9040045142173767
+[national farebox recovery target]: public transport affordability --[RELATES_TO]-> wider impacts of fare policy on people and cities 0.8379464745521545

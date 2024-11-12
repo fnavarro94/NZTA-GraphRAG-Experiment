@@ -1,0 +1,36 @@
+What independent Crown entity is established by the legislation in New Zealand that aims to enhance the safety and accessibility of walking routes for pedestrians to promote and facilitate walking access throughout New Zealand?
+None
+Seed: Independent crown entity
+Seed: Rights of individuals with disabilities
+Seed: Legislative framework for road safety initiatives
+Seed: Advocacy groups
+[Independent crown entity]: New zealand walking access commission --[Is]-> Independent crown entity 0.9367455244064331
+[Independent crown entity]: New zealand walking access commission --[Promotes]-> Walking access throughout the country 0.8798844814300537
+[Independent crown entity]: New zealand walking access commission --[Provides]-> Information to the public about available routes 0.8605131506919861
+[Independent crown entity]: New zealand walking access commission --[Negotiates]-> Access agreements with landowners 0.8303369283676147
+[Independent crown entity]: Walking access act --[Established]-> New zealand walking access commission 0.8921356201171875
+[Independent crown entity]: New zealand walking access commission --[Identifies]-> Walking access routes 0.8667775988578796
+[Rights of individuals with disabilities]: Human rights act 1993 --[Outlines]-> Rights of individuals with disabilities 0.8031203150749207
+[Rights of individuals with disabilities]: Transport accessibility standards --[Rooted in]-> Human rights act 1993 0.8292848467826843
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Provides]-> Legislative framework for road safety initiatives 0.8113654255867004
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Reflected in]-> Land transport act 1998 0.8049939274787903
+[Legislative framework for road safety initiatives]: Road transport safety --[Governed by]-> Land transport act 1998 0.8143553733825684
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Establishes]-> Legal framework for enforcement of road rules 0.8022580146789551
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Establishes]-> Legal framework for registration of vehicles 0.7912343144416809
+[Legislative framework for road safety initiatives]: Road safety legislation --[Governed by]-> Land transport act 1998 0.8158431053161621
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Establishes]-> Legal framework for licensing of drivers 0.7850345373153687
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Complemented by]-> Land transport (road user 0.813128650188446
+[Legislative framework for road safety initiatives]: Vehicle maintenance standards --[Are set forth in]-> Land transport act 1998 0.7633635997772217
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Provides]-> Legal foundation 0.8123095631599426
+[Legislative framework for road safety initiatives]: New zealand --[Has]-> Land transport act 1998 0.8360985517501831
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Outlines]-> Driver licensing 0.7752515077590942
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Outlines]-> Rules for vehicle operation 0.7807048559188843
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Outlines]-> Road safety 0.7966302633285522
+[Legislative framework for road safety initiatives]: Vehicle safety standards --[Are overseen by]-> Land transport act 1998 0.7850194573402405
+[Legislative framework for road safety initiatives]: New zealand --[Governed by]-> Land transport act 1998 0.8416042327880859
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Complemented by]-> Resource management act 1991 0.7991513013839722
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Provides]-> Foundation for vehicle standards and compliance 0.7850633859634399
+[Advocacy groups]: New zealand transport agency --[Works with]-> Advocacy groups 0.8433495759963989
+[Advocacy groups]: New zealand --[Has]-> New zealand transport agency 0.8516035676002502
+[Advocacy groups]: New zealand transport agency --[Is]-> Forefront of promoting active transport 0.8324457406997681
+[Advocacy groups]: New zealand transport agency --[Is]-> Government agency 0.8419186472892761

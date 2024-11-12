@@ -1,0 +1,23 @@
+What nickname is commonly associated with the cities in New Zealand that are implementing extensive cycling networks and pedestrian-friendly infrastructure to address traffic congestion, highlighting Auckland's maritime culture?
+None
+Seed: Cycling infrastructure and public transport initiatives
+Seed: Culture of cycling as a primary mode of transport
+Seed: Addressing transport challenges in auckland
+Seed: New zealand's transport network
+[Cycling infrastructure and public transport initiatives]: North island --[Features]-> Cycling infrastructure and public transport initiatives 0.840054988861084
+[Cycling infrastructure and public transport initiatives]: North island --[Has]-> Growing emphasis on sustainable transport options 0.7894980311393738
+[Culture of cycling as a primary mode of transport]: Auckland --[Has]-> Transport infrastructure 0.8827546834945679
+[Culture of cycling as a primary mode of transport]: Auckland --[Known for]-> Significant road network 0.8799828290939331
+[Culture of cycling as a primary mode of transport]: Auckland --[Has]-> Extensive road network 0.8797171115875244
+[Culture of cycling as a primary mode of transport]: Auckland --[Has]-> Auckland cycle network 0.8795003294944763
+[Culture of cycling as a primary mode of transport]: Auckland --[Has]-> Network of cycle lanes and shared paths 0.8793874979019165
+[Culture of cycling as a primary mode of transport]: Auckland --[Has]-> Significant transport hub 0.8773001432418823
+[Culture of cycling as a primary mode of transport]: Cycling infrastructure --[Is]-> Part of new zealand's transport strategy 0.8768762350082397
+[Addressing transport challenges in auckland]: Auckland city rail link --[Is]-> Significant infrastructure project 0.8553999066352844
+[Addressing transport challenges in auckland]: Auckland cycling network plan --[Developed by]-> Auckland transport 0.853888988494873
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Development of comprehensive transport network 0.8502084612846375
+[Addressing transport challenges in auckland]: Auckland cycling network plan --[Introduced in]-> Early 2010s 0.847402036190033
+[Addressing transport challenges in auckland]: Auckland cycling network plan --[Part of]-> Broader effort 0.8473883271217346
+[Addressing transport challenges in auckland]: Auckland cycling network plan --[Is]-> Strategic initiative 0.8473497629165649
+[Addressing transport challenges in auckland]: Auckland cycling network plan --[Aligns with]-> New zealand's national transport objectives 0.8471660017967224
+[New zealand's transport network]: Road infrastructure projects --[Play crucial role in]-> New zealand's transport network 0.8587719202041626

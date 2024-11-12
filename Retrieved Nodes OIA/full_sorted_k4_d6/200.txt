@@ -1,0 +1,34 @@
+What was the Board's instruction regarding the number of direct reports for the Chief Executive in 2018?
+None
+Seed: Chief Financial Officer
+Seed: Chief Executive
+Seed: Annual Reports
+Seed: Annual Monitoring Report 2020
+[Chief Financial Officer]: Board papers --[CONTAINS]-> legal advice 0.8220525979995728
+[Chief Financial Officer]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.8132454752922058
+[Chief Financial Officer]: Kate Styles --[FOR]-> Chief Executive 0.8075463175773621
+[Chief Financial Officer]: Michael Morrah --[SUBMITTED]-> request for information 0.8064003586769104
+[Chief Financial Officer]: review --[CONDUCTED_BY]-> Ombudsman 0.8053731918334961
+[Chief Financial Officer]: Response to OIA Request --[CONTAINS]-> Advertising Media Spend 2017-2018 0.803826630115509
+[Chief Financial Officer]: Annual Reports --[CONTAINS]-> paid toll revenues 0.8028664588928223
+[Chief Executive]: Board papers --[CONTAINS]-> legal advice 0.8220525979995728
+[Chief Executive]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.8132454752922058
+[Chief Executive]: Kate Styles --[FOR]-> Chief Executive 0.8075463175773621
+[Chief Executive]: Michael Morrah --[SUBMITTED]-> request for information 0.8064003586769104
+[Chief Executive]: review --[CONDUCTED_BY]-> Ombudsman 0.8053731918334961
+[Chief Executive]: settlement benefits/risks --[INFORMED]-> Board's decision 0.8049927353858948
+[Chief Executive]: Response to OIA Request --[CONTAINS]-> Advertising Media Spend 2017-2018 0.803826630115509
+[Annual Reports]: Board papers --[CONTAINS]-> legal advice 0.8220525979995728
+[Annual Reports]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.8132454752922058
+[Annual Reports]: Kate Styles --[FOR]-> Chief Executive 0.8075463175773621
+[Annual Reports]: Michael Morrah --[SUBMITTED]-> request for information 0.8064003586769104
+[Annual Reports]: review --[CONDUCTED_BY]-> Ombudsman 0.8053731918334961
+[Annual Reports]: settlement benefits/risks --[INFORMED]-> Board's decision 0.8049927353858948
+[Annual Reports]: Response to OIA Request --[CONTAINS]-> Advertising Media Spend 2017-2018 0.803826630115509
+[Annual Monitoring Report 2020]: Board papers --[CONTAINS]-> legal advice 0.8220525979995728
+[Annual Monitoring Report 2020]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.8132454752922058
+[Annual Monitoring Report 2020]: Kate Styles --[FOR]-> Chief Executive 0.8075463175773621
+[Annual Monitoring Report 2020]: Michael Morrah --[SUBMITTED]-> request for information 0.8064003586769104
+[Annual Monitoring Report 2020]: review --[CONDUCTED_BY]-> Ombudsman 0.8053731918334961
+[Annual Monitoring Report 2020]: settlement benefits/risks --[INFORMED]-> Board's decision 0.8049927353858948
+[Annual Monitoring Report 2020]: Response to OIA Request --[CONTAINS]-> Advertising Media Spend 2017-2018 0.803826630115509

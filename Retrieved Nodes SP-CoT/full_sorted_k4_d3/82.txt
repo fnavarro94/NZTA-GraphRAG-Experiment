@@ -1,0 +1,33 @@
+What organization did emerge from during its establishment in 2008, which operates the rail network in the country where the term describing the regular activities performed to keep roads safe and functional, including vegetation control, litter removal, and drainage maintenance of local roads is particularly important due to diverse geography and challenges such as landslides, flooding, and erosion, primarily serving freight and providing passenger services in metropolitan areas?
+None
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+Seed: Crucial role in promoting road safety
+Seed: Critical for freight and passenger movement
+Seed: Improving road safety and reducing congestion in urban areas
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Aims to]-> Enhance resilience and adaptability of new zealand's transport network 0.8178541660308838
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Plays]-> Significant role in shaping transport infrastructure and policy in new zealand 0.8142414689064026
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Is]-> Collective of australian and new zealand road transport and traffic agencies 0.8110703229904175
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Engages in]-> International collaborations to align initiatives with global best practices 0.7734746932983398
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Collaborates with]-> New zealand transport agency (nzta 0.7658791542053223
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Conducts]-> Extensive research and development projects 0.7584726810455322
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Founded in]-> 1990 0.7584134936332703
+[Crucial role in promoting road safety]: Education and awareness programs --[Play]-> Crucial role in promoting road safety 0.8174929022789001
+[Crucial role in promoting road safety]: Education and awareness programs --[Include]-> Road safety week 0.801123321056366
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about safe driving practices 0.7843621969223022
+[Crucial role in promoting road safety]: Education and awareness programs --[Include]-> Belt up campaign 0.7710846662521362
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about importance of seatbelt use 0.7542949914932251
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about dangers of distracted driving 0.7500773668289185
+[Critical for freight and passenger movement]: Road infrastructure --[Is vital for]-> Regional connectivity 0.828142523765564
+[Critical for freight and passenger movement]: Road system --[Is vital for]-> Economic activity 0.8195682764053345
+[Critical for freight and passenger movement]: Kiwirail group --[Facilitates]-> Movement of goods 0.8176445364952087
+[Critical for freight and passenger movement]: North island main trunk railway --[Is]-> Critical for freight and passenger movement 0.8147746920585632
+[Critical for freight and passenger movement]: Road maintenance strategies --[Ensure]-> Efficiency 0.8094437122344971
+[Critical for freight and passenger movement]: Transport skills strategy --[Primary objectives include]-> Sustainability 0.8087289333343506
+[Critical for freight and passenger movement]: Kiwirail --[Facilitates]-> Movement of goods 0.8087007999420166
+[Improving road safety and reducing congestion in urban areas]: Road transport --[Boasts]-> Extensive network of roads 0.833748459815979
+[Improving road safety and reducing congestion in urban areas]: Kiwirail group --[Established in]-> 2008 0.8306464552879333
+[Improving road safety and reducing congestion in urban areas]: Road transport --[Accounts for]-> Significant portion of passenger and freight movement 0.8266153931617737
+[Improving road safety and reducing congestion in urban areas]: Road safety authority --[Operates under]-> Ministry of transport 0.8265944123268127
+[Improving road safety and reducing congestion in urban areas]: Kiwirail --[Established in]-> 2008 0.8260388374328613
+[Improving road safety and reducing congestion in urban areas]: Ministry of transport --[Oversees]-> Rail 0.8227392435073853
+[Improving road safety and reducing congestion in urban areas]: Road transport --[Accounts for]-> Majority of passenger and freight movement 0.8219407796859741

@@ -1,0 +1,33 @@
+What information did NZTA provide in response to the OIA request on median barriers (OIA-3396)?
+None
+Seed: installing median barriers
+Seed: median barriers
+Seed: Median Barriers
+Seed: information about the NZ Transport Agency's Information Technology (IT) projects
+[installing median barriers]: Safe System approach --[INCLUDES]-> installing median barriers 0.8215978145599365
+[installing median barriers]: United Nations General Assembly --[ADOPTED]-> resolution A/RES/74/299 0.7846859693527222
+[installing median barriers]: resolution A/RES/74/299 --[PROMOTES]-> Safe System approach 0.7813894748687744
+[installing median barriers]: United Nations General Assembly --[ADOPTED]-> A/RES/74/299 0.774597704410553
+[installing median barriers]: Safe System approach --[INCLUDES]-> improving the safety performance of the vehicle fleet 0.7649362087249756
+[installing median barriers]: Safe System approach --[INCLUDES]-> encouraging road users to be alert and compliant 0.7614872455596924
+[median barriers]: NZ Transport Agency --[PUBLISHES]-> Response to OIA Request 0.9016703367233276
+[median barriers]: New Zealand Transport Agency --[PROVIDES]-> response to OIA request 0.8936640620231628
+[median barriers]: median barriers --[LOCATED]-> New Zealand 0.8916404843330383
+[median barriers]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA request 0.890121579170227
+[median barriers]: New Zealand Transport Agency --[RESPONDS_TO]-> oia-14650-response-letter.pdf 0.8899285197257996
+[median barriers]: New Zealand Transport Agency --[RESPONDS]-> oia-8452-response.pdf 0.8899145722389221
+[median barriers]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA requests 0.8892194032669067
+[Median Barriers]: New Zealand Transport Agency --[PROVIDES]-> response to OIA request 0.8936640620231628
+[Median Barriers]: median barriers --[LOCATED]-> New Zealand 0.8916404843330383
+[Median Barriers]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA request 0.890121579170227
+[Median Barriers]: New Zealand Transport Agency --[RESPONDS_TO]-> oia-14650-response-letter.pdf 0.8899285197257996
+[Median Barriers]: New Zealand Transport Agency --[RESPONDS]-> oia-8452-response.pdf 0.8899145722389221
+[Median Barriers]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA requests 0.8892194032669067
+[Median Barriers]: New Zealand Transport Agency --[RESPONDS]-> OIA-10752 0.8891638517379761
+[information about the NZ Transport Agency's Information Technology (IT) projects]: NZ Transport Agency --[PUBLISHES]-> Response to OIA Request 0.9016703367233276
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[PROVIDES]-> response to OIA request 0.8936640620231628
+[information about the NZ Transport Agency's Information Technology (IT) projects]: median barriers --[LOCATED]-> New Zealand 0.8916404843330383
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA request 0.890121579170227
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[RESPONDS_TO]-> oia-14650-response-letter.pdf 0.8899285197257996
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[RESPONDS]-> oia-8452-response.pdf 0.8899145722389221
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA requests 0.8892194032669067

@@ -1,0 +1,29 @@
+What body of water encircles the geological region where New Zealand is located, making it susceptible to natural disasters such as earthquakes, volcanic eruptions, and tsunamis?
+None
+Seed: Horseshoe-shaped zone of high seismic and volcanic activity
+Seed: North island's eastern coastline
+Seed: Volcanic activity
+Seed: Natural hazards
+[Horseshoe-shaped zone of high seismic and volcanic activity]: Pacific ring of fire --[Encircles]-> Pacific ocean 0.8413668870925903
+[Horseshoe-shaped zone of high seismic and volcanic activity]: Pacific ring of fire --[Is]-> Horseshoe-shaped zone of high seismic and volcanic activity 0.8409578800201416
+[North island's eastern coastline]: New zealand --[Has]-> Transport network 0.8419811129570007
+[North island's eastern coastline]: Auckland --[Has]-> Waterfront 0.8350501656532288
+[North island's eastern coastline]: Auckland --[Is]-> Largest city in new zealand 0.8292181491851807
+[North island's eastern coastline]: Auckland --[Serves]-> New zealand 0.8263131380081177
+[North island's eastern coastline]: Pch --[Runs along]-> North island's eastern coastline 0.8261814713478088
+[North island's eastern coastline]: Auckland --[Is]-> Location 0.8260844349861145
+[North island's eastern coastline]: Auckland --[Has]-> Ferries 0.8211814165115356
+[Volcanic activity]: New zealand --[Is vulnerable to]-> Volcanic activity 0.9155840277671814
+[Volcanic activity]: New zealand --[Susceptible to]-> Natural hazards 0.908810555934906
+[Volcanic activity]: New zealand --[Is vulnerable to]-> Natural hazards 0.9015886783599854
+[Volcanic activity]: New zealand --[Is situated on]-> Boundary of the australian and pacific tectonic plates 0.9011723399162292
+[Volcanic activity]: New zealand --[Is vulnerable to]-> Earthquakes 0.8965996503829956
+[Volcanic activity]: New zealand --[Has]-> Unique topography 0.8952313661575317
+[Volcanic activity]: New zealand --[Has]-> Coastal areas 0.8898882865905762
+[Natural hazards]: New zealand --[Is vulnerable to]-> Volcanic activity 0.9155840277671814
+[Natural hazards]: New zealand --[Susceptible to]-> Natural hazards 0.908810555934906
+[Natural hazards]: New zealand --[Is vulnerable to]-> Natural hazards 0.9015886783599854
+[Natural hazards]: New zealand --[Is situated on]-> Boundary of the australian and pacific tectonic plates 0.9011723399162292
+[Natural hazards]: New zealand --[Is vulnerable to]-> Earthquakes 0.8965996503829956
+[Natural hazards]: New zealand --[Has]-> Unique topography 0.8952313661575317
+[Natural hazards]: New zealand --[Has]-> Coastal areas 0.8898882865905762

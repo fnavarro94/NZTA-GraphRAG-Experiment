@@ -1,0 +1,26 @@
+How many crashes occurred at the Kiddle Drive/Arrowsmith Avenue intersection in Taupō before October 2019?
+None
+Seed: Kiddle Drive/Arrowsmith Ave Taupō
+Seed: intersection of Kiddle Drive/Arrowsmith Ave
+Seed: Road Traffic Crashes
+Seed: traffic crash data
+[Kiddle Drive/Arrowsmith Ave Taupō]: Kiddle Drive/Arrowsmith Ave Taupō --[HAS_INTERSECTION]-> intersection 0.8762183785438538
+[intersection of Kiddle Drive/Arrowsmith Ave]: vehicle accidents --[LOCATED]-> intersection of Kiddle Drive/Arrowsmith Ave 0.9081364274024963
+[intersection of Kiddle Drive/Arrowsmith Ave]: intersection of Kiddle Drive/Arrowsmith Ave --[CROSSES]-> Napier Road 0.8535614609718323
+[intersection of Kiddle Drive/Arrowsmith Ave]: Napier Road --[IN]-> Taupo 0.8493763208389282
+[intersection of Kiddle Drive/Arrowsmith Ave]: Data --[LIMITED]-> intersection of Kiddle Drive/Arrowsmith Ave 0.8449587225914001
+[intersection of Kiddle Drive/Arrowsmith Ave]: Data --[IS]-> Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019 0.8032729029655457
+[intersection of Kiddle Drive/Arrowsmith Ave]: Data --[RELATES_TO]-> Pedestrian and Cyclist Crashes 0.7957638502120972
+[intersection of Kiddle Drive/Arrowsmith Ave]: Data --[PROVIDED]-> Waka Kotahi N Z Transport Agency 0.7782937288284302
+[Road Traffic Crashes]: Road Traffic Crashes --[ANALYZED_BY]-> Crash Analysis 0.812159538269043
+[Road Traffic Crashes]: Crash Analysis --[PERFORMED_BY]-> Waka Kotahi NZ Transport Agency 0.8107101321220398
+[Road Traffic Crashes]: Alcohol Consumption --[CONTRIBUTES_TO]-> Road Traffic Crashes 0.7808210253715515
+[Road Traffic Crashes]: Factor 103 --[CONTRIBUTES_TO]-> Crash Analysis 0.7771361470222473
+[Road Traffic Crashes]: Road Traffic --[AFFECTED_BY]-> Alcohol Consumption 0.774193286895752
+[traffic crash data]: Crash Analysis System --[UPDATED]-> Traffic Crash Report 0.8096208572387695
+[traffic crash data]: Crash Analysis System --[UPDATES]-> Traffic Crash Report 0.8000070452690125
+[traffic crash data]: Crash Analysis System --[UPDATES]-> Traffic Crash Reports 0.799967348575592
+[traffic crash data]: 2020 --[FATAL_CRASHES]-> Crash Analysis System 0.7992267608642578
+[traffic crash data]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.7975569367408752
+[traffic crash data]: Crash Analysis System --[PROVIDES]-> road accident data 0.797208309173584
+[traffic crash data]: Crash Analysis System --[PROVIDES]-> data on road traffic crashes 0.7967346906661987

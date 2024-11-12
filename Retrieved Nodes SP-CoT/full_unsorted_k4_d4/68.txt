@@ -1,0 +1,36 @@
+Which city in the country known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, utilizes the Snapper card as part of its initiative that has improved the reliability of public transport services and allowed users to plan their journeys more effectively?
+None
+Seed: Increased demand for effective transportation systems
+Seed: Critical aspect of transportation planning
+Seed: Adopting integrated transport planning approaches that consider public transport
+Seed: Critical for freight and passenger movement
+[Increased demand for effective transportation systems]: Auckland --[Leading to]-> Increased demand for effective transportation systems 0.7975560426712036
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Public transport system 0.7898191213607788
+[Increased demand for effective transportation systems]: Christchurch --[Has]-> Public transport system 0.794465184211731
+[Increased demand for effective transportation systems]: Christchurch --[Has]-> Cycling initiatives 0.7618627548217773
+[Increased demand for effective transportation systems]: Christchurch --[Has]-> Metro system 0.783490777015686
+[Increased demand for effective transportation systems]: Christchurch --[Linked to]-> Dunedin 0.7268531322479248
+[Increased demand for effective transportation systems]: Christchurch --[Has]-> Potential development of light rail system 0.7616673707962036
+[Increased demand for effective transportation systems]: Christchurch --[Served by]-> Tranzalpine train service 0.7529948353767395
+[Increased demand for effective transportation systems]: Christchurch --[Has]-> Walking initiatives 0.7747989892959595
+[Increased demand for effective transportation systems]: Christchurch --[Served by]-> Main south line 0.7564178109169006
+[Increased demand for effective transportation systems]: Christchurch --[Has]-> Road infrastructure 0.7614469528198242
+[Increased demand for effective transportation systems]: Christchurch --[Linked to]-> Picton 0.7238423824310303
+[Increased demand for effective transportation systems]: Christchurch --[Connected by]-> State highways 0.7481099963188171
+[Increased demand for effective transportation systems]: Christchurch --[Has]-> Focus on enhancing bus services 0.7703450322151184
+[Increased demand for effective transportation systems]: Christchurch --[Has]-> New bus network 0.7531536817550659
+[Increased demand for effective transportation systems]: Christchurch --[Has]-> Second-busiest airport in new zealand 0.7479053735733032
+[Increased demand for effective transportation systems]: Christchurch --[Has]-> Shuttles 0.7636451721191406
+[Increased demand for effective transportation systems]: Christchurch --[Has]-> Focus on promoting active transport options 0.7854561805725098
+[Increased demand for effective transportation systems]: Christchurch --[Has]-> Focus on expanding public transport networks 0.7765325307846069
+[Increased demand for effective transportation systems]: Christchurch --[Has]-> International travelers 0.7794361114501953
+[Increased demand for effective transportation systems]: Christchurch --[Is]-> Largest city in south island 0.763170063495636
+[Increased demand for effective transportation systems]: Christchurch --[Has]-> Public transport 0.7947760224342346
+[Increased demand for effective transportation systems]: Christchurch --[Has]-> Plans for future enhancements 0.7363282442092896
+[Increased demand for effective transportation systems]: Christchurch --[Has]-> Focus on improving road infrastructure 0.7541673183441162
+[Increased demand for effective transportation systems]: Christchurch --[Has]-> Upgrades 0.7410130500793457
+[Increased demand for effective transportation systems]: Christchurch --[Has]-> Airport 0.775270402431488
+[Increased demand for effective transportation systems]: Christchurch --[Has]-> Buses 0.779545783996582
+[Increased demand for effective transportation systems]: Christchurch --[Has]-> Christchurch international airport 0.7634893655776978
+[Increased demand for effective transportation systems]: Christchurch --[Has]-> Taxis 0.7797918319702148
+[Increased demand for effective transportation systems]: Christchurch --[Served by]-> Cycleways 0.7430263161659241

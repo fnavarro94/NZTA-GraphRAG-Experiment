@@ -1,0 +1,36 @@
+What is required for obtaining an I endorsement, and how are criminal convictions considered during the process?
+None
+Seed: information related to criminal convictions of driving instructor (I) endorsement holders
+Seed: criminal convictions
+Seed: applications for I endorsements
+Seed: Applicant 7
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Michael Morrah --[REQUESTS]-> information related to criminal convictions of driving instructor (I) endorsement holders 0.8631559610366821
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Michael Morrah --[SUBMITTED]-> request for information 0.7815238833427429
+[criminal convictions]: assault --[EXAMPLE_OF]-> criminal convictions 0.8160470724105835
+[criminal convictions]: drink driving --[EXAMPLE_OF]-> criminal convictions 0.8239001035690308
+[criminal convictions]: I endorsements --[HOLD]-> criminal convictions 0.9105414152145386
+[criminal convictions]: Transport Agency --[GRANT]-> I endorsements 0.8239597082138062
+[criminal convictions]: criminal convictions --[ASSOCIATED]-> Table 2 0.8187154531478882
+[criminal convictions]: criminal convictions --[ASSOCIATED_WITH]-> driver trainers or instructors 0.846613347530365
+[criminal convictions]: driver trainers or instructors --[ASSOCIATED_WITH]-> NZTA-approved training or education outlet 0.790972113609314
+[applications for I endorsements]: Transport Agency --[ASSESS]-> applications for I endorsements 0.862134575843811
+[applications for I endorsements]: www.ombudsman.parliament.nz --[PROVIDES]-> Transport Agency 0.7724140882492065
+[applications for I endorsements]: Transport Agency --[PROVIDES]-> summary of survey results 0.748157262802124
+[applications for I endorsements]: Transport Agency --[PROVIDES]-> summary of exit interview results 0.7565157413482666
+[applications for I endorsements]: Transport Agency --[PROVIDES]-> summary of engagement survey results 0.7488930821418762
+[applications for I endorsements]: Transport Agency --[PROVIDES]-> contact details for the Ombudsman 0.7540771961212158
+[applications for I endorsements]: Transport Agency --[PROVIDES]-> EAP 0.756770133972168
+[applications for I endorsements]: Transport Agency --[PROVIDES]-> response to this request on our website 0.7537410855293274
+[applications for I endorsements]: Transport Agency --[PROVIDES]-> summary of exit interview results since March 2016 0.731420636177063
+[applications for I endorsements]: Transport Agency --[PROVIDES]-> Contact Details 0.7484793066978455
+[applications for I endorsements]: Transport Agency --[PROVIDES]-> address of the Office of the Ombudsmen 0.7435407638549805
+[applications for I endorsements]: Transport Agency --[PROVIDES]-> Guide for the interpretation of coded crash reports 0.7740522623062134
+[applications for I endorsements]: Transport Agency --[PROVIDES]-> contact details 0.7484793066978455
+[applications for I endorsements]: Transport Agency --[PROVIDES]-> reply 0.7517528533935547
+[applications for I endorsements]: Transport Agency --[WITHHOLDS]-> exact copies of staff exit interview notes 0.7460536956787109
+[applications for I endorsements]: Transport Agency --[WITHHOLDS]-> information 0.7644352912902832
+[applications for I endorsements]: Kevin Reid --[DISCUSS]-> Transport Agency 0.7534631490707397
+[applications for I endorsements]: Transport Agency --[DISCUSS]-> HVSCs 0.7509768605232239
+[applications for I endorsements]: Andrew Knackstedt --[CONTACT]-> Transport Agency 0.7466015815734863
+[applications for I endorsements]: Transport Agency --[CONTACT]-> Andrew Knackstedt 0.74966961145401
+[applications for I endorsements]: Transport Agency --[PUBLISHES]-> response to this request on our website 0.7600793838500977

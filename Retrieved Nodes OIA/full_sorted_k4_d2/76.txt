@@ -1,0 +1,26 @@
+Why was the information related to the RFP submissions and preferred supplier selection withheld?
+None
+Seed: Some information has been withheld under section 9(2)(f)(iv)
+Seed: Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)
+Seed: decision to withhold information
+Seed: withheld
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[IS]-> Some information has been withheld under section 9(2)(f)(iv) 0.8323378562927246
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[IS]-> NTS rollout timeline 0.7705423831939697
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[DATE]-> 24 April 2024 0.7577831745147705
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[IS]-> Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv) 0.8329633474349976
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[IS]-> Transport stakeholders meeting 0.793108344078064
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[DATE]-> 17 April 2024 0.7672479152679443
+[decision to withhold information]: Ombudsman --[REVIEW]-> withheld information 0.854758620262146
+[decision to withhold information]: Ombudsman --[REVIEW]-> decision to withhold information 0.8423203229904175
+[decision to withhold information]: Ombudsman --[PROVIDES]-> withheld information 0.8261054754257202
+[decision to withhold information]: Ombudsman --[REVIEW]-> decision to refuse request 0.7990913987159729
+[decision to withhold information]: review --[CONDUCTED_BY]-> Ombudsman 0.7978335618972778
+[decision to withhold information]: Ombudsman --[REVIEW]-> Decision 0.796363890171051
+[decision to withhold information]: Ombudsman --[REVIEW]-> decision 0.796363890171051
+[withheld]: information --[WITHHELD]-> public interest 0.8481772541999817
+[withheld]: Transport Agency --[WITHHOLDS]-> information 0.8347058892250061
+[withheld]: information --[IS]-> withheld 0.8245967030525208
+[withheld]: information --[IS_LIKELY]-> prejudice the commercial position of the person who supplied or who is the subject of the information 0.8236450552940369
+[withheld]: decision --[WITHHOLD]-> information 0.820622980594635
+[withheld]: Ministry --[WITHHOLD]-> information 0.8176031112670898
+[withheld]: information --[RELATES_TO]-> safety risk ratings 0.8140441179275513

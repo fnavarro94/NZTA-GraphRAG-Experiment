@@ -1,0 +1,36 @@
+How many crashes occurred at the Kiddle Drive/Arrowsmith Avenue intersection in Taupō before October 2019?
+None
+Seed: Kiddle Drive/Arrowsmith Ave Taupō
+Seed: intersection of Kiddle Drive/Arrowsmith Ave
+Seed: Road Traffic Crashes
+Seed: traffic crash data
+[Kiddle Drive/Arrowsmith Ave Taupō]: Kiddle Drive/Arrowsmith Ave Taupō --[HAS_INTERSECTION]-> intersection 0.8762183785438538
+[intersection of Kiddle Drive/Arrowsmith Ave]: Data --[LIMITED]-> intersection of Kiddle Drive/Arrowsmith Ave 0.8449587225914001
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[PROVIDES]-> Data 0.7710015773773193
+[intersection of Kiddle Drive/Arrowsmith Ave]: Deceased Drivers --[ASSOCIATED_WITH]-> Crash Analysis System 0.7887880206108093
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[ASSOCIATED_WITH]-> Deceased Drivers 0.7911019325256348
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[UPDATED]-> Traffic Crash Report 0.8096208572387695
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[PROVIDES]-> Traffic Crash Report 0.7935010194778442
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[ASSOCIATED_WITH]-> Traffic Crash Report 0.7903000116348267
+[intersection of Kiddle Drive/Arrowsmith Ave]: 2020 --[FATAL_CRASHES]-> Crash Analysis System 0.7992267608642578
+[intersection of Kiddle Drive/Arrowsmith Ave]: Traffic Crash Report --[ASSOCIATED_WITH]-> Crash Analysis System 0.7965661287307739
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.7975569367408752
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[MAINTAINS]-> Waka Kotahi N Z Transport Agency 0.7840030789375305
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[UPDATES]-> Traffic Crash Report 0.8000070452690125
+[intersection of Kiddle Drive/Arrowsmith Ave]: road accident data --[FROM]-> Crash Analysis System 0.7913304567337036
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[PROVIDES]-> road accident data 0.797208309173584
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[MANAGED_BY]-> New Zealand Transport Agency 0.7938416600227356
+[intersection of Kiddle Drive/Arrowsmith Ave]: crash movements and cause factors --[RECORDED_IN]-> Crash Analysis System 0.7863501310348511
+[intersection of Kiddle Drive/Arrowsmith Ave]: New Zealand Transport Agency --[MAINTAINS]-> Crash Analysis System 0.7775454521179199
+[intersection of Kiddle Drive/Arrowsmith Ave]: primary contribution --[DETERMINED]-> Crash Analysis System 0.7850148677825928
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[PROVIDES]-> data on road traffic crashes 0.7967346906661987
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[UPDATES]-> Traffic Crash Reports 0.799967348575592
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[CAPTURES]-> information on crashes 0.774181604385376
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[USES]-> contributing factor codes 0.7706162929534912
+[intersection of Kiddle Drive/Arrowsmith Ave]: New Zealand Transport Agency --[MANAGES]-> Crash Analysis System 0.7791247367858887
+[intersection of Kiddle Drive/Arrowsmith Ave]: Traffic Crash Report --[RECORDED_IN]-> Crash Analysis System 0.78338623046875
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[UPDATES]-> Data 0.7526195049285889
+[intersection of Kiddle Drive/Arrowsmith Ave]: New Zealand Transport Agency Waka Kotahi --[MAINTAINS]-> Crash Analysis System 0.7784596681594849
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[PROVIDES]-> traffic crash data 0.7959896326065063
+[intersection of Kiddle Drive/Arrowsmith Ave]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.7817875146865845
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[CONTAINS]-> Traffic Crash Report 0.7909494042396545

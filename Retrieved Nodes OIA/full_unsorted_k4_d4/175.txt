@@ -1,0 +1,36 @@
+How many speeding offences were detected by speed cameras for NZTA vehicles in 2021?
+None
+Seed: information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021
+Seed: no notifications of offences detected by speed cameras
+Seed: information on traffic light cameras and speed cameras
+Seed: information on speed cameras
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.8546799421310425
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Response --[CONTAINS]-> Waka Kotahi 0.7356197237968445
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[PUBLISHES]-> Response 0.7358776330947876
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: response --[CONTAINS]-> Waka Kotahi 0.7312164306640625
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.7464664578437805
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.7428090572357178
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7279480695724487
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7643526792526245
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.7158449292182922
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7381254434585571
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.7376797199249268
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.8072007894515991
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7950214147567749
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.7444732189178467
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.7922461628913879
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.7409420013427734
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Leisa Coley --[EMPLOYED_BY]-> Waka Kotahi 0.710158109664917
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Lizette Marais --[EMPLOYED_BY]-> Waka Kotahi 0.7137473821640015
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[EMPLOYS]-> Andy Knackstedt 0.7260273098945618
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[EMPLOYS]-> Qualified Staff 0.7164028882980347
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.7734695672988892
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: website --[RELATES_TO]-> Waka Kotahi 0.7265849709510803
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[RESPONDS_TO]-> OIA request 0.7337889671325684
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[RESPONDS_TO]-> request 0.721890389919281
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[PROVIDES]-> OIA-10601-response-georgina-campbell.pdf 0.7594681978225708
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[PROVIDES]-> outcome of suspension 0.7469617128372192
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[PROVIDES]-> outcome of surrendered 0.714746356010437
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[PROVIDES]-> information on website 0.730937123298645
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[PROVIDES]-> outcome of revoke 0.736400842666626
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[PROVIDES]-> warnings to individuals 0.7607619762420654

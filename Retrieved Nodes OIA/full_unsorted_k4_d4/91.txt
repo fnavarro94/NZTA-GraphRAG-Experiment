@@ -1,0 +1,36 @@
+How many times has the Milford Rd closed each year for the past 5 years?
+None
+Seed: 5 years
+Seed: vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas
+Seed: resignations by year since 2014
+Seed: Milford Alliance
+[5 years]: Transport Service Licences --[ACTIVE_FOR]-> 5 years 0.8066335916519165
+[5 years]: Transport Service Licences --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7455906867980957
+[5 years]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7566347122192383
+[5 years]: New Zealand Transport Agency --[BASED]-> Wellington 0.7568411231040955
+[5 years]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7748245000839233
+[5 years]: Golden Mile --[LOCATED]-> Wellington 0.7522791624069214
+[5 years]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7660276889801025
+[5 years]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7354204654693604
+[5 years]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7452000379562378
+[5 years]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7433722019195557
+[5 years]: Wellington --[PART_OF]-> Wellington Region 0.7661288976669312
+[5 years]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7836027145385742
+[5 years]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7685900926589966
+[5 years]: Wellington --[HAS]-> tunnel 0.7725861072540283
+[5 years]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7444254755973816
+[5 years]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7535053491592407
+[5 years]: Wellington --[POSTCODE]-> 6141 0.744819164276123
+[5 years]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7513893842697144
+[5 years]: Wellington --[IS_PART_OF]-> New Zealand 0.7643624544143677
+[5 years]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7656625509262085
+[5 years]: 50 Victoria Street --[IN]-> Wellington 0.7576768398284912
+[5 years]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7359901070594788
+[5 years]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7642039060592651
+[5 years]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7550473809242249
+[5 years]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7470692992210388
+[5 years]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7554698586463928
+[5 years]: NZ Transport Agency --[LOCATED]-> Wellington 0.7560083270072937
+[5 years]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7660812139511108
+[5 years]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7581011056900024
+[5 years]: New Zealand --[CONTAINS]-> Wellington 0.7729197144508362

@@ -1,0 +1,24 @@
+What is the Mobility Marketplace platform and when was it anticipated to go live?
+None
+Seed: Mobility Marketplace concept
+Seed: Mobility Marketplace
+Seed: who is developing the AT Mobile app and what is it?
+Seed: multi-tenanted platform
+[Mobility Marketplace concept]: Choice app --[DEVELOPED_FOR]-> Mobility Marketplace concept 0.8811706900596619
+[Mobility Marketplace concept]: RideMate app --[DEVELOPED_FOR]-> Mobility Marketplace concept 0.8808578252792358
+[Mobility Marketplace concept]: RideMate app --[DEVELOPMENT_COST]-> $1,000,000 0.8148412108421326
+[Mobility Marketplace]: Mobility Marketplace --[GO_LIVE]-> Autumn 2019 0.911848247051239
+[Mobility Marketplace]: Mobility Marketplace --[PROVIDES]-> real-time data processing 0.8839882612228394
+[Mobility Marketplace]: Mobility Marketplace --[BRINGS_TOGETHER]-> various sources of transport information 0.8750109672546387
+[Mobility Marketplace]: Mobility Marketplace --[ESTABLISHED]-> Transport Agency 0.8729724287986755
+[Mobility Marketplace]: Mobility Marketplace --[TESTED]-> Auckland 0.8712702393531799
+[Mobility Marketplace]: Mobility Marketplace --[TESTED_IN]-> New Zealand 0.8689186573028564
+[Mobility Marketplace]: Mobility Marketplace --[TESTED]-> Transport Agency 0.8638394474983215
+[who is developing the AT Mobile app and what is it?]: Amanda Cropp --[REQUESTED]-> who is developing the AT Mobile app and what is it? 0.837860107421875
+[who is developing the AT Mobile app and what is it?]: Waka Kotahi --[PROVIDES]-> Transport Data 0.7918609976768494
+[who is developing the AT Mobile app and what is it?]: Amanda Cropp --[REQUESTED]-> does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it? 0.7886971235275269
+[who is developing the AT Mobile app and what is it?]: Transport Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.7875872254371643
+[who is developing the AT Mobile app and what is it?]: New Zealand Transport Agency --[MANAGES]-> transport_data 0.7764902114868164
+[who is developing the AT Mobile app and what is it?]: Amanda Cropp --[REQUESTED]-> Transport Data 0.7755917310714722
+[who is developing the AT Mobile app and what is it?]: Amanda Cropp --[REQUESTED]-> is this just for Otago, other individual regions, or is there going to be a national version? 0.7740368843078613
+[multi-tenanted platform]: multi-tenanted platform --[DELIVERS]-> delivery 0.8114676475524902

@@ -1,0 +1,36 @@
+When is the first implementation of the National Ticketing System (NTS) expected to take place?
+None
+Seed: National Ticketing Solution request for proposal
+Seed: National Ticketing System
+Seed: Request for National Ticketing System Documentation
+Seed: RFP for National Ticket System
+[National Ticketing Solution request for proposal]: www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ --[CONTAINS]-> National Ticketing Solution request for proposal 0.8462520837783813
+[National Ticketing Solution request for proposal]: RFP for National Ticket System --[AVAILABLE]-> www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ 0.8455162048339844
+[National Ticketing Solution request for proposal]: New Zealand Transport Agency --[REFUSES]-> RFP for National Ticket System 0.7967264652252197
+[National Ticketing System]: Request for National Ticketing System Documentation --[REQUESTS]-> National Ticketing System 0.8697406053543091
+[National Ticketing System]: Email --[CONTAINS]-> Request for National Ticketing System Documentation 0.8476017117500305
+[National Ticketing System]: Email --[IS]-> andrew.knackstedt@nzta.govt.nz 0.7811930179595947
+[National Ticketing System]: Contact Information --[CONTAINS]-> Email 0.7159121632575989
+[National Ticketing System]: New Zealand Transport Agency --[RECEIVED_REQUEST]-> Email 0.778652548789978
+[National Ticketing System]: Email --[CONTAINS]-> request 0.7116091847419739
+[Request for National Ticketing System Documentation]: Email --[CONTAINS]-> Request for National Ticketing System Documentation 0.8476017117500305
+[Request for National Ticketing System Documentation]: Email --[IS]-> andrew.knackstedt@nzta.govt.nz 0.7811930179595947
+[Request for National Ticketing System Documentation]: Senior Media Manager --[ASSOCIATED_WITH]-> andrew.knackstedt@nzta.govt.nz 0.7683189511299133
+[Request for National Ticketing System Documentation]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> NZ Transport Agency Waka Kotahi 0.7907983660697937
+[Request for National Ticketing System Documentation]: Senior Media Manager --[CONTACT]-> andrew.knackstedt@nzta.govt.nz 0.7701181173324585
+[Request for National Ticketing System Documentation]: andrew.knackstedt@nzta.govt.nz --[FOR]-> contacting Andy Knackstedt 0.7645250558853149
+[Request for National Ticketing System Documentation]: email --[IS]-> andrew.knackstedt@nzta.govt.nz 0.7811930179595947
+[Request for National Ticketing System Documentation]: Leisa Coley --[CONTACTABLE_VIA]-> andrew.knackstedt@nzta.govt.nz 0.7588115334510803
+[Request for National Ticketing System Documentation]: Andrew Knackstedt --[CONTACTABLE]-> andrew.knackstedt@nzta.govt.nz 0.770664393901825
+[Request for National Ticketing System Documentation]: Leisa Coley --[CONTACTABLE]-> andrew.knackstedt@nzta.govt.nz 0.7577345371246338
+[Request for National Ticketing System Documentation]: email address --[IS]-> andrew.knackstedt@nzta.govt.nz 0.7716042995452881
+[Request for National Ticketing System Documentation]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7953600883483887
+[Request for National Ticketing System Documentation]: andrew.knackstedt@nzta.govt.nz --[EMAIL_OF]-> Andy Knackstedt 0.770514726638794
+[Request for National Ticketing System Documentation]: Andrew Knackstedt --[EMAIL]-> andrew.knackstedt@nzta.govt.nz 0.7696908712387085
+[Request for National Ticketing System Documentation]: Andy Knackstedt --[CONTACT]-> andrew.knackstedt@nzta.govt.nz 0.77073073387146
+[Request for National Ticketing System Documentation]: Andrew Knackstedt --[CONTACT]-> andrew.knackstedt@nzta.govt.nz 0.7754191756248474
+[Request for National Ticketing System Documentation]: Andy Knackstedt --[EMAIL]-> andrew.knackstedt@nzta.govt.nz 0.7649100422859192
+[Request for National Ticketing System Documentation]: Contact Information --[CONTAINS]-> Email 0.7159121632575989
+[Request for National Ticketing System Documentation]: Contact Information --[CONTAINS]-> Phone 0.716946005821228
+[Request for National Ticketing System Documentation]: Contact Information --[FOR]-> Ministerial Services Team 0.7599727511405945
+[Request for National Ticketing System Documentation]: New Zealand Transport Agency --[PROVIDES]-> Contact Information 0.778130054473877

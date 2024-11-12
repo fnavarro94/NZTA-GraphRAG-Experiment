@@ -1,0 +1,36 @@
+In what year did the airline that provides domestic air travel services between the two main islands of New Zealand, where the transport system facilitates the movement of people and goods, become established?
+None
+Seed: Flagship airline of new zealand
+Seed: Domestic flights to major cities across new zealand
+Seed: Significant air and maritime transport services
+Seed: Domestic and international travel
+[Flagship airline of new zealand]: Air new zealand --[Is]-> Flagship airline of new zealand 0.865277886390686
+[Flagship airline of new zealand]: Air new zealand --[Operates]-> Boeing 787 dreamliners 0.8387883305549622
+[Flagship airline of new zealand]: Air new zealand --[Member of]-> Star alliance 0.8310976624488831
+[Flagship airline of new zealand]: Air new zealand --[Operates]-> Modern fleet of aircraft 0.8581469655036926
+[Flagship airline of new zealand]: Air new zealand --[Headquartered in]-> Auckland 0.853702962398529
+[Flagship airline of new zealand]: Auckland --[Has]-> Public transport system 0.8334227800369263
+[Flagship airline of new zealand]: Christchurch --[Has]-> Public transport system 0.8266948461532593
+[Flagship airline of new zealand]: Christchurch --[Has]-> Cycling initiatives 0.7588560581207275
+[Flagship airline of new zealand]: Christchurch --[Has]-> Metro system 0.7991397380828857
+[Flagship airline of new zealand]: Christchurch --[Linked to]-> Dunedin 0.7971971035003662
+[Flagship airline of new zealand]: Christchurch --[Has]-> Potential development of light rail system 0.7852689027786255
+[Flagship airline of new zealand]: Christchurch --[Served by]-> Tranzalpine train service 0.7943631410598755
+[Flagship airline of new zealand]: Christchurch --[Has]-> Walking initiatives 0.778923749923706
+[Flagship airline of new zealand]: Christchurch --[Served by]-> Main south line 0.8072050213813782
+[Flagship airline of new zealand]: Christchurch --[Has]-> Road infrastructure 0.7814784049987793
+[Flagship airline of new zealand]: Christchurch --[Linked to]-> Picton 0.7747676968574524
+[Flagship airline of new zealand]: Christchurch --[Connected by]-> State highways 0.7818574905395508
+[Flagship airline of new zealand]: Christchurch --[Has]-> Focus on enhancing bus services 0.7777523994445801
+[Flagship airline of new zealand]: Christchurch --[Has]-> New bus network 0.7860270738601685
+[Flagship airline of new zealand]: Christchurch --[Has]-> Second-busiest airport in new zealand 0.8169022798538208
+[Flagship airline of new zealand]: Christchurch --[Has]-> Shuttles 0.802016019821167
+[Flagship airline of new zealand]: Christchurch --[Has]-> Focus on promoting active transport options 0.7908970713615417
+[Flagship airline of new zealand]: Christchurch --[Has]-> Focus on expanding public transport networks 0.790024995803833
+[Flagship airline of new zealand]: Christchurch --[Has]-> International travelers 0.8143090009689331
+[Flagship airline of new zealand]: Christchurch --[Is]-> Largest city in south island 0.7963768243789673
+[Flagship airline of new zealand]: Christchurch --[Has]-> Public transport 0.8190253973007202
+[Flagship airline of new zealand]: Christchurch --[Has]-> Plans for future enhancements 0.7476385831832886
+[Flagship airline of new zealand]: Christchurch --[Has]-> Focus on improving road infrastructure 0.7500364780426025
+[Flagship airline of new zealand]: Christchurch --[Has]-> Upgrades 0.7729740738868713
+[Flagship airline of new zealand]: Christchurch --[Has]-> Airport 0.824855387210846

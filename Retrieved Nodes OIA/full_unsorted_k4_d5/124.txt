@@ -1,0 +1,36 @@
+When is the Detailed Business Case (DBC) for the North Auckland Rapid Transit Corridor expected to be available?
+None
+Seed: North Auckland Rapid Transit Corridor
+Seed: National Ticketing Solution request for proposal
+Seed: Rapid Transit Network Delivery Plan
+Seed: Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case
+[North Auckland Rapid Transit Corridor]: North Auckland Rapid Transit Corridor --[LOCATED]-> Auckland 0.887446939945221
+[North Auckland Rapid Transit Corridor]: State Highway 1 --[LOCATED_IN]-> Auckland 0.8183478713035583
+[North Auckland Rapid Transit Corridor]: road safety --[ENHANCED_BY]-> State Highway 1 0.756011962890625
+[North Auckland Rapid Transit Corridor]: transportation infrastructure --[IMPROVES]-> road safety 0.7617480754852295
+[North Auckland Rapid Transit Corridor]: New Zealand Transport Agency --[RESPONSIBLE_FOR]-> transportation infrastructure 0.8271618485450745
+[North Auckland Rapid Transit Corridor]: road maintenance --[IMPROVES]-> road safety 0.7409902811050415
+[North Auckland Rapid Transit Corridor]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> road maintenance 0.8157899379730225
+[North Auckland Rapid Transit Corridor]: transport --[ASSOCIATED_WITH]-> road maintenance 0.7658545970916748
+[North Auckland Rapid Transit Corridor]: road maintenance --[OVERDUE]-> State Highway 1 0.7707954049110413
+[North Auckland Rapid Transit Corridor]: State Highway 1 --[OVERDUE]-> road maintenance 0.7736679911613464
+[North Auckland Rapid Transit Corridor]: road maintenance --[OVERDUE]-> Wellington City Council 0.7825403809547424
+[North Auckland Rapid Transit Corridor]: road renewal --[OVERDUE]-> road maintenance 0.7707245349884033
+[North Auckland Rapid Transit Corridor]: toll tariffs --[USED_FOR]-> road maintenance 0.7691013216972351
+[North Auckland Rapid Transit Corridor]: toll tariffs --[SPENT_ON]-> road maintenance 0.7716996669769287
+[North Auckland Rapid Transit Corridor]: road maintenance --[PERFORMED_BY]-> New Zealand Transport Agency 0.8108044862747192
+[North Auckland Rapid Transit Corridor]: road maintenance --[FUNDED_BY]-> toll tariffs 0.7830157279968262
+[North Auckland Rapid Transit Corridor]: road maintenance --[NECESSARY_FOR]-> safe driving conditions 0.7530643939971924
+[North Auckland Rapid Transit Corridor]: road maintenance --[SUPPORTED_BY]-> tolls 0.7626836895942688
+[North Auckland Rapid Transit Corridor]: tolls --[USED_FOR]-> road maintenance 0.7547401189804077
+[North Auckland Rapid Transit Corridor]: driver safety --[IMPROVED_BY]-> road maintenance 0.7375071048736572
+[North Auckland Rapid Transit Corridor]: transport --[FOCUSES_ON]-> road maintenance 0.7915001511573792
+[North Auckland Rapid Transit Corridor]: road maintenance --[ASSOCIATED_WITH]-> State Highway 1 0.7564122080802917
+[North Auckland Rapid Transit Corridor]: road maintenance --[AFFECTED_BY]-> flooding 0.7456613183021545
+[North Auckland Rapid Transit Corridor]: road maintenance --[FUNDING]-> approved 0.7717439532279968
+[North Auckland Rapid Transit Corridor]: flooding --[CAN_AFFECT]-> road maintenance 0.742849588394165
+[North Auckland Rapid Transit Corridor]: New Zealand Transport Agency --[RESPONSIBLE_FOR]-> road maintenance 0.8119133114814758
+[North Auckland Rapid Transit Corridor]: Waka Kotahi NZ Transport Agency --[MANAGES]-> road maintenance 0.7992227077484131
+[North Auckland Rapid Transit Corridor]: road maintenance --[AFFECTS]-> public transport fare policy review 0.7874975204467773
+[North Auckland Rapid Transit Corridor]: Saddle Road Route --[REQUIRES]-> road maintenance 0.7709137797355652
+[North Auckland Rapid Transit Corridor]: road maintenance --[IMPROVES]-> State Highway 1 0.7509424090385437

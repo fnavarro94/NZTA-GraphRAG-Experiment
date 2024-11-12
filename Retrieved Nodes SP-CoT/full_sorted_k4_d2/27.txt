@@ -1,0 +1,31 @@
+In what year did the car-sharing service mentioned in the passage as a local initiative providing residents with flexible transportation options launch its car-sharing service in New Zealand?
+None
+Seed: Ride-sharing initiatives
+Seed: Limited public transport services in rural and isolated areas
+Seed: Car-sharing service
+Seed: Residents to share rides
+[Ride-sharing initiatives]: Community transport services --[Include]-> Ride-sharing initiatives 0.8550734519958496
+[Ride-sharing initiatives]: Community transport services --[Operated by]-> Non-profit organizations 0.8370229601860046
+[Ride-sharing initiatives]: Ride-sharing initiatives --[Allow]-> Residents to share rides 0.8367809057235718
+[Ride-sharing initiatives]: Community transport services --[Play vital role in]-> Enhancing mobility and accessibility 0.8338848948478699
+[Ride-sharing initiatives]: Community transport services --[Include]-> Volunteer driver programs 0.831268310546875
+[Ride-sharing initiatives]: Ride-sharing initiatives --[Reduce]-> Transport costs 0.8296337127685547
+[Ride-sharing initiatives]: Community transport services --[Operated by]-> Community groups 0.8292893171310425
+[Limited public transport services in rural and isolated areas]: Volunteer driver programs --[Emerged in response to]-> Growing need for accessible transport options 0.8338586688041687
+[Limited public transport services in rural and isolated areas]: Volunteer driver programs --[Emerged in response to]-> Limited public transport services in rural and isolated areas 0.8336604833602905
+[Limited public transport services in rural and isolated areas]: Community transport services --[Include]-> Volunteer driver programs 0.831268310546875
+[Limited public transport services in rural and isolated areas]: Volunteer driver programs --[Are]-> Community-based initiatives 0.8217676281929016
+[Limited public transport services in rural and isolated areas]: Volunteer driver programs --[Provide]-> Transport to social events 0.8161300420761108
+[Limited public transport services in rural and isolated areas]: Volunteer driver programs --[Play]-> Crucial role in enhancing mobility 0.8154049515724182
+[Limited public transport services in rural and isolated areas]: Volunteer driver programs --[Designed to provide]-> Essential transportation services 0.8144549131393433
+[Car-sharing service]: Mevo --[Is]-> Car-sharing service 0.8251420259475708
+[Car-sharing service]: Mevo --[Operates in]-> New zealand 0.8124282360076904
+[Car-sharing service]: Mevo --[Focused on]-> Environmentally friendly transportation 0.7985256314277649
+[Car-sharing service]: Mevo --[Popular in]-> Auckland 0.7924782037734985
+[Car-sharing service]: Mevo --[Popular in]-> Wellington 0.7845376133918762
+[Car-sharing service]: Mevo --[Aims to]-> Reduce reliance on private vehicle ownership 0.783444881439209
+[Car-sharing service]: Mevo --[Offers]-> Electric and hybrid vehicles 0.7793753147125244
+[Residents to share rides]: Community transport services --[Include]-> Ride-sharing initiatives 0.8550734519958496
+[Residents to share rides]: Ride-sharing initiatives --[Allow]-> Residents to share rides 0.8367809057235718
+[Residents to share rides]: Ride-sharing initiatives --[Reduce]-> Transport costs 0.8296337127685547
+[Residents to share rides]: Ride-sharing initiatives --[Foster]-> Social connections 0.8247779607772827

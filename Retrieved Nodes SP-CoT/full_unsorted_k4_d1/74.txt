@@ -1,0 +1,10 @@
+What is the abbreviation for The program that includes the expressway project aimed at improving freight transport efficiency in the region in the country known for its transport system innovation aimed at improving efficiency, sustainability, and accessibility in response to unique geographical challenges?
+None
+Seed: Efficiency of freight transport in region
+Seed: Driving innovation in freight transport sector
+Seed: Regional transport initiatives
+Seed: Enhancing safety and efficiency of transportation systems in new zealand
+[Efficiency of freight transport in region]: Waikato expressway --[Significantly enhances]-> Efficiency of freight transport in region 0.8661929965019226
+[Driving innovation in freight transport sector]: Collaborative approaches --[Played crucial role]-> Driving innovation in freight transport sector 0.8253429532051086
+[Regional transport initiatives]: Local councils --[Contribute to]-> Regional transport initiatives 0.8160632848739624
+[Enhancing safety and efficiency of transportation systems in new zealand]: Road safety technologies --[Play crucial role in]-> Enhancing safety and efficiency of transportation systems in new zealand 0.8095881938934326

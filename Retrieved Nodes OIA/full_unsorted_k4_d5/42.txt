@@ -1,0 +1,36 @@
+How many Fuel Excise Duty Refunds were accepted in 2012, and what was the total value of refunds?
+None
+Seed: fuel excise refunds
+Seed: information on fuel excise duty
+Seed: OIA-1153-fuel-excise-refunds.pdf
+Seed: fuel excise duty
+[fuel excise refunds]: fuel excise refunds --[RELATED_TO]-> transportation 0.8935950994491577
+[fuel excise refunds]: transportation --[AFFECTED_BY]-> flooding 0.7632441520690918
+[fuel excise refunds]: road maintenance --[AFFECTED_BY]-> flooding 0.7551754713058472
+[fuel excise refunds]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> road maintenance 0.7639546394348145
+[fuel excise refunds]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7414345741271973
+[fuel excise refunds]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.745010256767273
+[fuel excise refunds]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7398831844329834
+[fuel excise refunds]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7324526309967041
+[fuel excise refunds]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7432302236557007
+[fuel excise refunds]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7357263565063477
+[fuel excise refunds]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.760471761226654
+[fuel excise refunds]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7460429668426514
+[fuel excise refunds]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7699018120765686
+[fuel excise refunds]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7601407766342163
+[fuel excise refunds]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7533102631568909
+[fuel excise refunds]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.754703164100647
+[fuel excise refunds]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7652682662010193
+[fuel excise refunds]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7524306774139404
+[fuel excise refunds]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7727962732315063
+[fuel excise refunds]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7728818655014038
+[fuel excise refunds]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7567756175994873
+[fuel excise refunds]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7498221397399902
+[fuel excise refunds]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7812434434890747
+[fuel excise refunds]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7527438402175903
+[fuel excise refunds]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7782982587814331
+[fuel excise refunds]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7734344601631165
+[fuel excise refunds]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7775125503540039
+[fuel excise refunds]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7500908374786377
+[fuel excise refunds]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.760958194732666
+[fuel excise refunds]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7575658559799194

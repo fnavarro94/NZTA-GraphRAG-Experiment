@@ -1,0 +1,36 @@
+How much will it cost to repair the damage to Milford Rd from the September 10/11 avalanches, and who will pay?
+None
+Seed: request for pothole repair cost information
+Seed: opportunities to make an announcement regarding changes to the national farebox recovery policy
+Seed: report on the impacts of the Fare Recovery Ratio
+Seed: $5.91m
+[request for pothole repair cost information]: sections 18A and 18B of the Act --[APPLIES_TO]-> request for pothole repair cost information 0.7949165105819702
+[request for pothole repair cost information]: New Zealand Transport Agency --[CONSIDERS]-> sections 18A and 18B of the Act 0.7493116855621338
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7473771572113037
+[request for pothole repair cost information]: New Zealand Transport Agency --[BASED]-> Wellington 0.7426233887672424
+[request for pothole repair cost information]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7508533000946045
+[request for pothole repair cost information]: Golden Mile --[LOCATED]-> Wellington 0.7276331782341003
+[request for pothole repair cost information]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7455520629882812
+[request for pothole repair cost information]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.741243839263916
+[request for pothole repair cost information]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7333327531814575
+[request for pothole repair cost information]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7447277307510376
+[request for pothole repair cost information]: Wellington --[PART_OF]-> Wellington Region 0.7460749745368958
+[request for pothole repair cost information]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7579458951950073
+[request for pothole repair cost information]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7729595899581909
+[request for pothole repair cost information]: Wellington --[HAS]-> tunnel 0.7609246969223022
+[request for pothole repair cost information]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.744304895401001
+[request for pothole repair cost information]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7445501685142517
+[request for pothole repair cost information]: Wellington --[POSTCODE]-> 6141 0.7372258305549622
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7426272630691528
+[request for pothole repair cost information]: Wellington --[IS_PART_OF]-> New Zealand 0.7451300621032715
+[request for pothole repair cost information]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7560940384864807
+[request for pothole repair cost information]: 50 Victoria Street --[IN]-> Wellington 0.7487055659294128
+[request for pothole repair cost information]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7434555292129517
+[request for pothole repair cost information]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7725474834442139
+[request for pothole repair cost information]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7509691715240479
+[request for pothole repair cost information]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7452385425567627
+[request for pothole repair cost information]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7472432851791382
+[request for pothole repair cost information]: NZ Transport Agency --[LOCATED]-> Wellington 0.7495659589767456
+[request for pothole repair cost information]: Wellington --[CONTAINS]-> 50 Victoria Street 0.742219090461731
+[request for pothole repair cost information]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7474669218063354
+[request for pothole repair cost information]: New Zealand --[CONTAINS]-> Wellington 0.738452136516571

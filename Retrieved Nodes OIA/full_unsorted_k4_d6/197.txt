@@ -1,0 +1,36 @@
+How many complaints have been received about Uber drivers since 2019?
+None
+Seed: 196 complaints about Uber drivers
+Seed: Uber drivers
+Seed: Complaint Data
+Seed: ride share operator complaints
+[196 complaints about Uber drivers]: Waka Kotahi --[RECEIVES]-> 196 complaints about Uber drivers 0.8900079727172852
+[196 complaints about Uber drivers]: Response --[CONTAINS]-> Waka Kotahi 0.7342654466629028
+[196 complaints about Uber drivers]: Waka Kotahi --[PUBLISHES]-> Response 0.7464140057563782
+[196 complaints about Uber drivers]: response --[CONTAINS]-> Waka Kotahi 0.7473061680793762
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.7943406105041504
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7324444055557251
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.761624813079834
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.7369673252105713
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> list of LGWM construction contracts 0.7214412689208984
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> public transport fare policy review 0.7703889608383179
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.7617477178573608
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.7491568326950073
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.737957239151001
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.7598600387573242
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[FAX]-> F 64 4 894 6100 0.7525836229324341
+[196 complaints about Uber drivers]: Andrew Knackstedt --[CONTACT]-> Waka Kotahi NZ Transport Agency 0.7654162645339966
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[CONTACT]-> T 64 4 894 5400 0.7532166242599487
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7272392511367798
+[196 complaints about Uber drivers]: Chris Marshall --[REQUESTS]-> Waka Kotahi NZ Transport Agency 0.7527315616607666
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.7892047762870789
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.7572070956230164
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[ANNOUNCED]-> Road to Zero 0.7368431687355042
+[196 complaints about Uber drivers]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.7697640657424927
+[196 complaints about Uber drivers]: Road to Zero --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.7643636465072632
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.72965407371521
+[196 complaints about Uber drivers]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7345094084739685
+[196 complaints about Uber drivers]: New Zealand --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7430204749107361
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.7364652752876282
+[196 complaints about Uber drivers]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7307826280593872
+[196 complaints about Uber drivers]: www.nzta.govt.nz --[OF]-> Waka Kotahi NZ Transport Agency 0.761538565158844

@@ -1,0 +1,23 @@
+How much has been spent on consultants for the long tunnel option investigation in Wellington?
+None
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: proposed long tunnel option for Wellington
+Seed: $130,675
+Seed: $6.185 million
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) --[CONTRACTS]-> consultants 0.9122844934463501
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUESTS]-> detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) 0.8784940242767334
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency Waka Kotahi --[ENGAGES]-> consultants 0.8072457313537598
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUESTS]-> New Zealand Transport Agency 0.7872304916381836
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[RESPONDS]-> Request made under the Official Information Act 1982 0.7831628322601318
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: consultants --[FROM]-> various organizations 0.7831401228904724
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[RESPONDS_TO]-> Request made under the Official Information Act 1982 0.7796939015388489
+[proposed long tunnel option for Wellington]: technical feasibility and cost --[FOR]-> proposed long tunnel option for Wellington 0.8984545469284058
+[proposed long tunnel option for Wellington]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.8709438443183899
+[proposed long tunnel option for Wellington]: Wellington --[HAS]-> tunnel 0.8476678133010864
+[proposed long tunnel option for Wellington]: NZ Transport Agency --[LOCATED]-> Wellington 0.8285353183746338
+[proposed long tunnel option for Wellington]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8278571367263794
+[proposed long tunnel option for Wellington]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.8271217346191406
+[proposed long tunnel option for Wellington]: New Zealand Transport Agency --[BASED]-> Wellington 0.8258094787597656
+[$130,675]: Stantec --[COST]-> $130,675 0.7842550277709961
+[$130,675]: various organizations --[INCLUDE]-> Stantec 0.7364912033081055
+[$6.185 million]: Road to Zero advertising campaign --[COST]-> $6.185 million 0.7638944387435913

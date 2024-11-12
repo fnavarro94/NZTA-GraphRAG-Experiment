@@ -1,0 +1,36 @@
+How much will it cost to repair the damage to Milford Rd from the September 10/11 avalanches, and who will pay?
+None
+Seed: request for pothole repair cost information
+Seed: opportunities to make an announcement regarding changes to the national farebox recovery policy
+Seed: report on the impacts of the Fare Recovery Ratio
+Seed: $5.91m
+[request for pothole repair cost information]: sections 18A and 18B of the Act --[APPLIES_TO]-> request for pothole repair cost information 0.7949165105819702
+[request for pothole repair cost information]: New Zealand Transport Agency --[CONSIDERS]-> sections 18A and 18B of the Act 0.7493116855621338
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7473771572113037
+[request for pothole repair cost information]: New Zealand Transport Agency --[BASED]-> Wellington 0.7426233887672424
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.754050076007843
+[request for pothole repair cost information]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.7683470249176025
+[request for pothole repair cost information]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7508533000946045
+[request for pothole repair cost information]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.740954577922821
+[request for pothole repair cost information]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7445501685142517
+[request for pothole repair cost information]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7442910075187683
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.7515915036201477
+[request for pothole repair cost information]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7444767951965332
+[request for pothole repair cost information]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7360424995422363
+[request for pothole repair cost information]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7392290234565735
+[request for pothole repair cost information]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7321418523788452
+[request for pothole repair cost information]: Wellington --[CONTAINS]-> Private Bag 6995 0.7416397929191589
+[request for pothole repair cost information]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7597091197967529
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7623564004898071
+[request for pothole repair cost information]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.782533586025238
+[request for pothole repair cost information]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7596433162689209
+[request for pothole repair cost information]: 50 Victoria Street --[IN]-> Wellington 0.7487055659294128
+[request for pothole repair cost information]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.7614614963531494
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED]-> 50 Victoria Street 0.7643371820449829
+[request for pothole repair cost information]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7533290386199951
+[request for pothole repair cost information]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7567732334136963
+[request for pothole repair cost information]: Wellington --[CONTAINS]-> 50 Victoria Street 0.742219090461731
+[request for pothole repair cost information]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7474669218063354
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7378474473953247
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7519071102142334
+[request for pothole repair cost information]: New Zealand Transport Agency --[CONTACT]-> Wellington 6141 0.7692789435386658

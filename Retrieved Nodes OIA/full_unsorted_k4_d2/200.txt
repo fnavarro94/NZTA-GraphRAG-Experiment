@@ -1,0 +1,36 @@
+What was the Board's instruction regarding the number of direct reports for the Chief Executive in 2018?
+None
+Seed: Chief Financial Officer
+Seed: Chief Executive
+Seed: Annual Reports
+Seed: Annual Monitoring Report 2020
+[Chief Financial Officer]: Chief Financial Officer --[HELD_BY]-> Howard Cattermole 0.8007078170776367
+[Chief Financial Officer]: Howard Cattermole --[SIGNED]-> response letter 0.7548502683639526
+[Chief Financial Officer]: Yours sincerely --[FOLLOWS]-> Howard Cattermole 0.7065346837043762
+[Chief Executive]: Kate Styles --[FOR]-> Chief Executive 0.8075463175773621
+[Chief Executive]: Chief Executive --[EMPLOYER]-> New Zealand Transport Agency 0.7991557121276855
+[Chief Executive]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.735126256942749
+[Chief Executive]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7470625042915344
+[Chief Executive]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.742173969745636
+[Chief Executive]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7274664640426636
+[Chief Executive]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7282166481018066
+[Chief Executive]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7366963028907776
+[Chief Executive]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7368835806846619
+[Chief Executive]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7260385155677795
+[Chief Executive]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.751997709274292
+[Chief Executive]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7466108798980713
+[Chief Executive]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7540558576583862
+[Chief Executive]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7712154388427734
+[Chief Executive]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7529221773147583
+[Chief Executive]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7602666616439819
+[Chief Executive]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7446140050888062
+[Chief Executive]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7692711353302002
+[Chief Executive]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7470954656600952
+[Chief Executive]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7532901763916016
+[Chief Executive]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7780869007110596
+[Chief Executive]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7424678802490234
+[Chief Executive]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7729739546775818
+[Chief Executive]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7670477032661438
+[Chief Executive]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7681434154510498
+[Chief Executive]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7357213497161865
+[Chief Executive]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7395437955856323

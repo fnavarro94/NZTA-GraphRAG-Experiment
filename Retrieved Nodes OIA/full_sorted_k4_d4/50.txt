@@ -1,0 +1,31 @@
+How is the NZTA engaging with regional councils regarding the Choice application?
+None
+Seed: Regional Investment Opportunities
+Seed: wider objectives in Regional Public Transport Plans
+Seed: does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?
+Seed: regional council readiness
+[Regional Investment Opportunities]: Ministry of Business, Innovation and Employment --[ADMINISTERS]-> Regional Investment Opportunities 0.8345450758934021
+[Regional Investment Opportunities]: Kānoa --[ADMINISTERS]-> Regional Investment Opportunities 0.8156194090843201
+[Regional Investment Opportunities]: project artworks --[PART_OF]-> Regional Investment Opportunities 0.8083450794219971
+[Regional Investment Opportunities]: Regional Investment Opportunities --[FUNDED]-> project artworks 0.8042013049125671
+[wider objectives in Regional Public Transport Plans]: wider objectives in Regional Public Transport Plans --[CONTRIBUTES]-> government's transport priorities 0.8225748538970947
+[wider objectives in Regional Public Transport Plans]: underlying principles of the current policy --[CONTRIBUTES]-> wider objectives in Regional Public Transport Plans 0.8158113956451416
+[wider objectives in Regional Public Transport Plans]: public transport budgets --[MANAGED_BY]-> councils 0.8059189319610596
+[wider objectives in Regional Public Transport Plans]: wider impacts of fare policy on people and cities --[INCLUCES]-> national farebox recovery target 0.7872493267059326
+[wider objectives in Regional Public Transport Plans]: government's transport priorities --[INCLUDES]-> fares play an important role in helping cover the cost of public transport within available budgets 0.7853552103042603
+[wider objectives in Regional Public Transport Plans]: public transport affordability --[RELATES_TO]-> wider impacts of fare policy on people and cities 0.7832124829292297
+[wider objectives in Regional Public Transport Plans]: national farebox recovery target --[REPLACED_BY]-> underlying principles of the current policy 0.7819162011146545
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: Amanda Cropp --[REQUESTED]-> does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it? 0.9094824194908142
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: NZTA --[CONSIDER]-> public interest 0.8765102028846741
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: questions and responses --[FROM]-> NZ Transport Agency 0.8722660541534424
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: draft letter --[FROM]-> NZTA 0.8647008538246155
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: New Zealand Transport Agency --[CONDUCTED]-> consultation 0.8619891405105591
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: New Zealand --[CONTAINS]-> nzta.govt.nz 0.8609145879745483
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: New Zealand Transport Agency --[collaborating]-> Wellington City Council 0.8598418831825256
+[regional council readiness]: payment option --[DEPENDENT_ON]-> regional council readiness 0.8448729515075684
+[regional council readiness]: regional council readiness --[READY_FOR]-> integration of payments 0.8217708468437195
+[regional council readiness]: payment option --[DEPENDENT_ON]-> current programmes 0.7938295602798462
+[regional council readiness]: change of the right of way priority --[OCCURRED]-> early October 2019 0.7908064126968384
+[regional council readiness]: integration of payments --[INTO]-> transport marketplaces 0.7680323123931885
+[regional council readiness]: payment option --[BEGIN]-> 2019 0.7636877298355103
+[regional council readiness]: response letter --[LABEL]-> 2 0.7613934874534607

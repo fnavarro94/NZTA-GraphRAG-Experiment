@@ -1,0 +1,36 @@
+What percentage of a project's total budget is typically allocated to communications and public engagement on large roading projects?
+None
+Seed: 32 percent of the roading network
+Seed: wider objectives in Regional Public Transport Plans
+Seed: manage fare revenue and public transport budgets within current funding allocations
+Seed: itemised breakdown of all spending on public consultation for Golden Mile upgrades
+[32 percent of the roading network]: road maintenance data --[OVERDUE]-> 32 percent of the roading network 0.839047908782959
+[32 percent of the roading network]: New Zealand Transport Agency --[PROVIDES]-> road maintenance data 0.776996374130249
+[32 percent of the roading network]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7499825954437256
+[32 percent of the roading network]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7516406178474426
+[32 percent of the roading network]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7598044872283936
+[32 percent of the roading network]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7316937446594238
+[32 percent of the roading network]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7463825345039368
+[32 percent of the roading network]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7441352605819702
+[32 percent of the roading network]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.750301718711853
+[32 percent of the roading network]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7557297945022583
+[32 percent of the roading network]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7618893980979919
+[32 percent of the roading network]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7488754987716675
+[32 percent of the roading network]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7750784754753113
+[32 percent of the roading network]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.764102578163147
+[32 percent of the roading network]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7569997310638428
+[32 percent of the roading network]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7489131093025208
+[32 percent of the roading network]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7686588764190674
+[32 percent of the roading network]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7628135085105896
+[32 percent of the roading network]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7444595098495483
+[32 percent of the roading network]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.764701783657074
+[32 percent of the roading network]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7785178422927856
+[32 percent of the roading network]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7429901361465454
+[32 percent of the roading network]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7651573419570923
+[32 percent of the roading network]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7734354734420776
+[32 percent of the roading network]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7646942138671875
+[32 percent of the roading network]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7428269386291504
+[32 percent of the roading network]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7461555004119873
+[32 percent of the roading network]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7435555458068848
+[32 percent of the roading network]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.738849937915802
+[32 percent of the roading network]: Senior Engineer Vehicle Standard --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.757228434085846

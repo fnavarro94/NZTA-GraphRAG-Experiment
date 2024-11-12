@@ -1,0 +1,10 @@
+What is the largest city in the country known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, served by the key transport corridor critical for freight and passenger movement and runs through the North Island?
+None
+Seed: Critical for freight and passenger movement
+Seed: Critical aspect of transportation planning
+Seed: Critical component of new zealand's transport strategy
+Seed: Major cities and industrial hubs
+[Critical for freight and passenger movement]: North island main trunk railway --[Is]-> Critical for freight and passenger movement 0.8789194822311401
+[Critical aspect of transportation planning]: Transport demand forecasting --[Is]-> Critical aspect of transportation planning 0.8554959297180176
+[Critical component of new zealand's transport strategy]: Road safety education --[Is]-> Critical component of new zealand's transport strategy 0.8159320950508118
+[Major cities and industrial hubs]: Rail network --[Connects]-> Major cities and industrial hubs 0.8035582304000854

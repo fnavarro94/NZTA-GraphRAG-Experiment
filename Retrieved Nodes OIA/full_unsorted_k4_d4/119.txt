@@ -1,0 +1,36 @@
+How many staff have resigned from NZTA since March 2016?
+None
+Seed: resignations by year since 2014
+Seed: staff resignation data
+Seed: staff joining and resigning data
+Seed: context for resignations
+[resignations by year since 2014]: New Zealand Transport Agency --[PROVIDES]-> resignations by year since 2014 0.8769615292549133
+[resignations by year since 2014]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8109264373779297
+[resignations by year since 2014]: New Zealand Transport Agency --[BASED]-> Wellington 0.8090346455574036
+[resignations by year since 2014]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8009586334228516
+[resignations by year since 2014]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8042362332344055
+[resignations by year since 2014]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.78773432970047
+[resignations by year since 2014]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.8120073080062866
+[resignations by year since 2014]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.8178279995918274
+[resignations by year since 2014]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.8164238929748535
+[resignations by year since 2014]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.8089308142662048
+[resignations by year since 2014]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7977039217948914
+[resignations by year since 2014]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7912188768386841
+[resignations by year since 2014]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.823924720287323
+[resignations by year since 2014]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8197083473205566
+[resignations by year since 2014]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8029375672340393
+[resignations by year since 2014]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8128465414047241
+[resignations by year since 2014]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8067731857299805
+[resignations by year since 2014]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8086786270141602
+[resignations by year since 2014]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7906407713890076
+[resignations by year since 2014]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7885451912879944
+[resignations by year since 2014]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8339973092079163
+[resignations by year since 2014]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7963292598724365
+[resignations by year since 2014]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8076961040496826
+[resignations by year since 2014]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8099297881126404
+[resignations by year since 2014]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8150423765182495
+[resignations by year since 2014]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7909600138664246
+[resignations by year since 2014]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7921935319900513
+[resignations by year since 2014]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8048447370529175
+[resignations by year since 2014]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.78782057762146
+[resignations by year since 2014]: Senior Engineer Vehicle Standard --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7743992805480957

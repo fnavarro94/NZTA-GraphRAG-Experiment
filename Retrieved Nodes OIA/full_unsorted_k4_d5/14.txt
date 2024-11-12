@@ -1,0 +1,36 @@
+Does NZTA impose a quality assurance or performance clause for pothole repair work, and if so, where can it be found?
+None
+Seed: pothole repair specifications
+Seed: request for pothole repair cost information
+Seed: https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf
+Seed: potholes
+[pothole repair specifications]: https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf --[ACCESS]-> pothole repair specifications 0.8869953751564026
+[pothole repair specifications]: website --[LINKS]-> https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf 0.8628110885620117
+[pothole repair specifications]: scheduled tasks --[IS_REMOVED]-> website 0.7621158957481384
+[pothole repair specifications]: information requested --[DOES_NOT_EXIST]-> scheduled tasks 0.787149965763092
+[pothole repair specifications]: section 18(e) of the Act --[EXEMPTS]-> information requested 0.7603514790534973
+[pothole repair specifications]: information requested --[REQUESTED_BY]-> requester name 0.7553536295890808
+[pothole repair specifications]: response to OIA request --[PROVIDES]-> information requested 0.7689439058303833
+[pothole repair specifications]: website --[LOCATED_AT]-> www.ombudsman.parliament.nz 0.7808322906494141
+[pothole repair specifications]: www.ombudsman.parliament.nz --[LINKS_TO]-> Ombudsman 0.7777770757675171
+[pothole repair specifications]: right to ask the Ombudsman to review --[IS_GRANTED_BY]-> Ombudsman 0.7738791108131409
+[pothole repair specifications]: Ombudsman --[REVIEW_REQUEST]-> decision 0.7735438346862793
+[pothole repair specifications]: Ombudsman --[REVIEW]-> decision to withhold information 0.7714594602584839
+[pothole repair specifications]: Ombudsman --[PROVIDES]-> New Zealand Transport Agency 0.7898200154304504
+[pothole repair specifications]: New Zealand Transport Agency --[PROVIDES]-> Ombudsman 0.8056512475013733
+[pothole repair specifications]: Ombudsman --[REVIEW]-> withheld information 0.763836681842804
+[pothole repair specifications]: Ombudsman --[PROVIDES]-> review of decision 0.7621464729309082
+[pothole repair specifications]: Ombudsman --[PROVIDES]-> withheld information 0.7425900101661682
+[pothole repair specifications]: Ombudsman --[LOCATED_AT]-> www.ombudsman.parliament.nz 0.7766549587249756
+[pothole repair specifications]: Ombudsman --[PARLIAMENT]-> parliament.nz 0.7740528583526611
+[pothole repair specifications]: contact details --[FOR]-> Ombudsman 0.7343138456344604
+[pothole repair specifications]: decision --[REVIEW]-> Ombudsman 0.7645976543426514
+[pothole repair specifications]: Ombudsman --[IS]-> www.ombudsman.parliament.nz 0.7796279191970825
+[pothole repair specifications]: Ombudsman --[REVIEW]-> Waka Kotahi 0.7647044658660889
+[pothole repair specifications]: review by the Ombudsman --[CONDUCTED_BY]-> Ombudsman 0.7714306116104126
+[pothole repair specifications]: Ombudsman --[LOCATED_IN]-> New Zealand 0.7922335863113403
+[pothole repair specifications]: Ombudsman --[PROVIDES]-> review 0.7701992392539978
+[pothole repair specifications]: review --[CONDUCTED_BY]-> Ombudsman 0.7838320136070251
+[pothole repair specifications]: Kevin Reid --[APPEAL]-> Ombudsman 0.7598278522491455
+[pothole repair specifications]: Kevin Reid --[ASSIST]-> Ombudsman 0.766188383102417
+[pothole repair specifications]: Ombudsman --[REVIEW]-> decision to refuse request 0.7723898887634277

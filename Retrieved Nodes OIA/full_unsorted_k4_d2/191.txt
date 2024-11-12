@@ -1,0 +1,36 @@
+How is the Hoe ki angitū Innovation Fund financed?
+None
+Seed: Hoe ki angitū – Innovation Fund
+Seed: Innovation Fund
+Seed: funding
+Seed: funding requests
+[Hoe ki angitū – Innovation Fund]: Hoe ki angitū – Innovation Fund --[FUNDED_BY]-> National Land Transport Fund 0.9167662858963013
+[Hoe ki angitū – Innovation Fund]: National Land Transport Fund --[ADMINISTERED_BY]-> Waka Kotahi 0.817132830619812
+[Hoe ki angitū – Innovation Fund]: Innovation Fund --[FUNDED_BY]-> National Land Transport Fund 0.8436836004257202
+[Hoe ki angitū – Innovation Fund]: Innovation Fund --[PART_OF]-> Hoe ki angitū – Innovation Fund 0.9279534816741943
+[Hoe ki angitū – Innovation Fund]: $15 million --[FOR]-> Innovation Fund 0.8433240056037903
+[Hoe ki angitū – Innovation Fund]: New Zealand Transport Agency --[PROVIDES]-> Innovation Fund 0.8351341485977173
+[Hoe ki angitū – Innovation Fund]: Hoe ki angitū – Innovation Fund --[APPROVED_BY]-> New Zealand Transport Agency 0.8806213736534119
+[Hoe ki angitū – Innovation Fund]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.747430145740509
+[Hoe ki angitū – Innovation Fund]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7720657587051392
+[Hoe ki angitū – Innovation Fund]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7620142102241516
+[Hoe ki angitū – Innovation Fund]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7451814413070679
+[Hoe ki angitū – Innovation Fund]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7466498613357544
+[Hoe ki angitū – Innovation Fund]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7554311752319336
+[Hoe ki angitū – Innovation Fund]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7688201069831848
+[Hoe ki angitū – Innovation Fund]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7692407369613647
+[Hoe ki angitū – Innovation Fund]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7835798263549805
+[Hoe ki angitū – Innovation Fund]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7615607976913452
+[Hoe ki angitū – Innovation Fund]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7567901611328125
+[Hoe ki angitū – Innovation Fund]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.747307538986206
+[Hoe ki angitū – Innovation Fund]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7598647475242615
+[Hoe ki angitū – Innovation Fund]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7507767081260681
+[Hoe ki angitū – Innovation Fund]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7634308934211731
+[Hoe ki angitū – Innovation Fund]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7668211460113525
+[Hoe ki angitū – Innovation Fund]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7408788800239563
+[Hoe ki angitū – Innovation Fund]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7426782846450806
+[Hoe ki angitū – Innovation Fund]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7791044116020203
+[Hoe ki angitū – Innovation Fund]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7587150931358337
+[Hoe ki angitū – Innovation Fund]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7645047307014465
+[Hoe ki angitū – Innovation Fund]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7691947221755981
+[Hoe ki angitū – Innovation Fund]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7682604193687439

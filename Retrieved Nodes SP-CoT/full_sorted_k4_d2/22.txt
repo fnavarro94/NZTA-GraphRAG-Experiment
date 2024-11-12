@@ -1,0 +1,34 @@
+What is the abbreviation for the project in Auckland that uses real-time data to manage traffic and provide timely information to commuters?
+None
+Seed: Addressing transport challenges in auckland
+Seed: Real-time traffic data collection
+Seed: Real-time traffic management systems
+Seed: Advanced technology and real-time data analytics
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Development of comprehensive transport network 0.8833969831466675
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Encompasses]-> Range of projects 0.8718466758728027
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Addressing transport challenges in auckland 0.8703999519348145
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Create unified transport network 0.868393063545227
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On enhancing road infrastructure 0.867870032787323
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Is]-> Collaborative effort 0.8677524328231812
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On improving public transport 0.867254376411438
+[Real-time traffic data collection]: Traffic management systems --[Governed by]-> New zealand transport agency 0.8737232089042664
+[Real-time traffic data collection]: Traffic management systems --[Include]-> Real-time traffic data collection 0.8615542054176331
+[Real-time traffic data collection]: Traffic management systems --[Utilize]-> Real-time data collection 0.8583914041519165
+[Real-time traffic data collection]: Traffic management systems --[Enable]-> Real-time adjustments 0.8348387479782104
+[Real-time traffic data collection]: Traffic management systems --[Utilize]-> Sensors 0.8322848081588745
+[Real-time traffic data collection]: Traffic management systems --[Relay]-> Information to traffic management centers 0.8319545388221741
+[Real-time traffic data collection]: Traffic management systems --[Expected to evolve further]-> Collection and analysis of traffic data 0.8300639390945435
+[Real-time traffic management systems]: New zealand government --[Has invested in]-> Real-time traffic management systems 0.8760640621185303
+[Real-time traffic management systems]: Real-time traffic management systems --[Provide]-> Timely information to road users 0.8547490835189819
+[Real-time traffic management systems]: New zealand government --[Has invested in]-> Geographic information systems 0.8306741714477539
+[Real-time traffic management systems]: New zealand government --[Improve]-> Overall transport experience 0.8293953537940979
+[Real-time traffic management systems]: New zealand government --[Prioritizes]-> Transport research 0.8284066915512085
+[Real-time traffic management systems]: New zealand government --[Plans to]-> Incorporate data analytics to improve service delivery and user experience 0.8211411833763123
+[Real-time traffic management systems]: New zealand government --[Supported]-> Adoption of sustainable transport technologies 0.8195594549179077
+[Advanced technology and real-time data analytics]: Auckland transport operations centre --[Utilizes]-> Advanced technology and real-time data analytics 0.9095391035079956
+[Advanced technology and real-time data analytics]: Auckland transport operations centre --[Utilizes]-> Advanced traffic monitoring systems 0.9084839820861816
+[Advanced technology and real-time data analytics]: Auckland transport operations centre --[Is]-> Facility 0.873853862285614
+[Advanced technology and real-time data analytics]: Auckland transport operations centre --[Located in]-> Auckland 0.8729868531227112
+[Advanced technology and real-time data analytics]: Auckland transport operations centre --[Responsible for]-> Management and coordination of transport network 0.8665242195129395
+[Advanced technology and real-time data analytics]: Auckland transport operations centre --[Facilitates]-> Communication between different transport operators and agencies 0.8606321811676025
+[Advanced technology and real-time data analytics]: Auckland transport operations centre --[Collaborates with]-> Emergency services 0.8546533584594727

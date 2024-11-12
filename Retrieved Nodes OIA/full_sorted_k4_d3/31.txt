@@ -1,0 +1,34 @@
+What is the reason Waka Kotahi does not provide regional breakdowns for Road User Charges, vehicle registration, and licensing data?
+None
+Seed: Waka Kotahi N Z Transport Agency
+Seed: Waka Kotahi NZ Transport Agency
+Seed: NZ Transport Agency Waka Kotahi
+Seed: New Zealand Transport Agency Waka Kotahi
+[Waka Kotahi N Z Transport Agency]: Data --[PROVIDED]-> Waka Kotahi N Z Transport Agency 0.9088808298110962
+[Waka Kotahi N Z Transport Agency]: New Zealand Transport Agency --[ASSOCIATED]-> Waka Kotahi 0.8901932239532471
+[Waka Kotahi N Z Transport Agency]: NZ Transport Agency Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8892832398414612
+[Waka Kotahi N Z Transport Agency]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.8877357840538025
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8876732587814331
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.8871787786483765
+[Waka Kotahi N Z Transport Agency]: New Zealand Transport Agency --[IS]-> Waka Kotahi 0.8867545127868652
+[Waka Kotahi NZ Transport Agency]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.9159998297691345
+[Waka Kotahi NZ Transport Agency]: Data --[PROVIDED]-> Waka Kotahi N Z Transport Agency 0.9088808298110962
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[REFUSES_REQUEST]-> vehicle registration and licensing 0.8998271822929382
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[PROVIDES]-> Transport Data 0.8986430168151855
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[PROVIDES]-> claimed mileage 0.8979105949401855
+[Waka Kotahi NZ Transport Agency]: transport data --[PROVIDED_BY]-> Waka Kotahi 0.8962979316711426
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[DOES_NOT_CAPTURE]-> regional breakdown 0.8961369395256042
+[NZ Transport Agency Waka Kotahi]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.9159998297691345
+[NZ Transport Agency Waka Kotahi]: Waka Kotahi --[REFUSES_REQUEST]-> vehicle registration and licensing 0.8998271822929382
+[NZ Transport Agency Waka Kotahi]: Waka Kotahi --[PROVIDES]-> Transport Data 0.8986430168151855
+[NZ Transport Agency Waka Kotahi]: Waka Kotahi --[PROVIDES]-> claimed mileage 0.8979105949401855
+[NZ Transport Agency Waka Kotahi]: transport data --[PROVIDED_BY]-> Waka Kotahi 0.8962979316711426
+[NZ Transport Agency Waka Kotahi]: Waka Kotahi --[DOES_NOT_CAPTURE]-> regional breakdown 0.8961369395256042
+[NZ Transport Agency Waka Kotahi]: Waka Kotahi --[REFUSES_REQUEST]-> vehicle kilometres travelled estimates 0.8952337503433228
+[New Zealand Transport Agency Waka Kotahi]: Data --[PROVIDED]-> Waka Kotahi N Z Transport Agency 0.9088808298110962
+[New Zealand Transport Agency Waka Kotahi]: New Zealand Transport Agency --[ASSOCIATED]-> Waka Kotahi 0.8901932239532471
+[New Zealand Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8892832398414612
+[New Zealand Transport Agency Waka Kotahi]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.8877357840538025
+[New Zealand Transport Agency Waka Kotahi]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8876732587814331
+[New Zealand Transport Agency Waka Kotahi]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.8871787786483765
+[New Zealand Transport Agency Waka Kotahi]: New Zealand Transport Agency --[IS]-> Waka Kotahi 0.8867545127868652

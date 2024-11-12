@@ -1,0 +1,36 @@
+What is the abbreviation for the national law enforcement agency responsible for maintaining public safety and order in New Zealand, who is primarily responsible for the enforcement of road traffic laws in New Zealand?
+None
+Seed: Enforcement of road traffic laws
+Seed: National law enforcement agency
+Seed: Legal framework for enforcement of road rules
+Seed: Enforcement of road safety regulations
+[Enforcement of road traffic laws]: New zealand police --[Responsible for]-> Enforcement of road traffic laws 0.9140580296516418
+[Enforcement of road traffic laws]: New zealand police --[Implementing]-> Speed enforcement measures 0.8727403283119202
+[Enforcement of road traffic laws]: New zealand police --[Established]-> 1840 0.8218384385108948
+[Enforcement of road traffic laws]: New zealand police --[Collaborate with]-> New zealand transport agency 0.8676880598068237
+[Enforcement of road traffic laws]: New zealand --[Has]-> New zealand transport agency 0.8706473708152771
+[Enforcement of road traffic laws]: New zealand transport agency --[Is]-> Forefront of promoting active transport 0.8312311172485352
+[Enforcement of road traffic laws]: New zealand transport agency --[Is]-> Government agency 0.8800784349441528
+[Enforcement of road traffic laws]: New zealand transport agency --[Is]-> Key stakeholder 0.8555005192756653
+[Enforcement of road traffic laws]: New zealand transport agency --[Is]-> Primary authority 0.8630053400993347
+[Enforcement of road traffic laws]: New zealand transport agency --[Is]-> Developing integrated transport solutions 0.81396484375
+[Enforcement of road traffic laws]: New zealand transport agency --[Is]-> Collaborating with technology providers 0.811603307723999
+[Enforcement of road traffic laws]: New zealand transport agency --[Implemented]-> Initiatives 0.8240345120429993
+[Enforcement of road traffic laws]: New zealand transport agency --[Responsible for]-> Management and regulation of transport systems 0.8659359216690063
+[Enforcement of road traffic laws]: New zealand transport agency --[Responsible for]-> Management and regulation of the transport system in new zealand 0.8695013523101807
+[Enforcement of road traffic laws]: New zealand transport agency --[Ensures]-> Policies align with national transport objectives 0.8367763161659241
+[Enforcement of road traffic laws]: New zealand transport agency --[Ensures]-> Voices of all road users are considered in decision-making processes 0.8171067833900452
+[Enforcement of road traffic laws]: New zealand transport agency --[Mandates]-> Regular audits 0.8345007300376892
+[Enforcement of road traffic laws]: New zealand transport agency --[Promotes]-> Road safety 0.8610917329788208
+[Enforcement of road traffic laws]: New zealand transport agency --[Aims]-> Reduce greenhouse gas emissions 0.8018536567687988
+[Enforcement of road traffic laws]: New zealand transport agency --[Plays]-> A crucial role in funding and promoting cycling infrastructure projects 0.8348680734634399
+[Enforcement of road traffic laws]: New zealand transport agency --[Plays]-> Pivotal role in conducting forecasts 0.8303661346435547
+[Enforcement of road traffic laws]: New zealand transport agency --[Plays]-> Pivotal role in facilitating road user engagement 0.8512008190155029
+[Enforcement of road traffic laws]: New zealand transport agency --[Plays]-> Crucial role in developing guidelines 0.8582776188850403
+[Enforcement of road traffic laws]: New zealand transport agency --[Plays]-> Crucial role in developing standards 0.8533750772476196
+[Enforcement of road traffic laws]: New zealand transport agency --[Plays]-> Pivotal role 0.8608352541923523
+[Enforcement of road traffic laws]: New zealand transport agency --[Is responsible for]-> Promoting public transport initiatives 0.8539514541625977
+[Enforcement of road traffic laws]: New zealand transport agency --[Is responsible for]-> State highway network 0.8811473846435547
+[Enforcement of road traffic laws]: New zealand transport agency --[Is responsible for]-> Managing state highway network 0.8766303658485413
+[Enforcement of road traffic laws]: New zealand transport agency --[Is responsible for]-> Funding local road projects 0.8548066020011902
+[Enforcement of road traffic laws]: New zealand transport agency --[Is responsible for]-> Road networks 0.8852164149284363

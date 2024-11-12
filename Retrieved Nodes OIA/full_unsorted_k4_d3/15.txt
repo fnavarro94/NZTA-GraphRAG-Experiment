@@ -1,0 +1,36 @@
+What were the safety failures identified in Go Wellington buses during the inspections in April and May 2013?
+None
+Seed: Safety Incidents
+Seed: rail operational safety
+Seed: Senior Manager Road Safety
+Seed: Vehicle Safety
+[Safety Incidents]: Health, Safety & Quality Report --[CONTAINS]-> Safety Incidents 0.8126248717308044
+[Safety Incidents]: Stephen Bell --[SUBMITS_REPORT]-> Health, Safety & Quality Report 0.7792056202888489
+[Safety Incidents]: Board --[RECEIVES_REPORT]-> Health, Safety & Quality Report 0.7784532904624939
+[Safety Incidents]: Safety Incidents --[INVESTIGATED]-> Board 0.829444169998169
+[rail operational safety]: awareness --[increased]-> rail operational safety 0.7968844175338745
+[rail operational safety]: tool box talks --[given]-> awareness 0.7300440073013306
+[rail operational safety]: State Highway 1 --[identified]-> tool box talks 0.770982027053833
+[rail operational safety]: rail operational safety --[improved]-> emergency plan 0.7927109003067017
+[rail operational safety]: emergency plan --[activated]-> injured person 0.7610694766044617
+[rail operational safety]: injured person --[recovered]-> Kaikoura hospital 0.7313873171806335
+[rail operational safety]: rope supervisor --[in place]-> emergency plan 0.7479715347290039
+[rail operational safety]: topside and on rope supervisors --[only]-> rope supervisor 0.7118113040924072
+[Senior Manager Road Safety]: Senior Manager Road Safety --[EMPLOYER]-> Waka Kotahi 0.7954689860343933
+[Senior Manager Road Safety]: Response --[CONTAINS]-> Waka Kotahi 0.736784815788269
+[Senior Manager Road Safety]: Waka Kotahi --[PUBLISHES]-> Response 0.7281270027160645
+[Senior Manager Road Safety]: response --[CONTAINS]-> Waka Kotahi 0.7256616950035095
+[Senior Manager Road Safety]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.8135303258895874
+[Senior Manager Road Safety]: Charles Ronaldson --[SIGNED]-> response 0.7087779641151428
+[Senior Manager Road Safety]: Lauren Cooke --[SIGNED]-> response 0.7125344276428223
+[Senior Manager Road Safety]: Waka Kotahi --[PUBLISHED_BY]-> response 0.720352053642273
+[Senior Manager Road Safety]: Ministry --[PROVIDE]-> response 0.7259541749954224
+[Senior Manager Road Safety]: response --[REMOVED]-> personal information 0.6991171836853027
+[Senior Manager Road Safety]: Waka Kotahi website --[CONTAINS]-> response 0.7264140844345093
+[Senior Manager Road Safety]: New Zealand Transport Agency --[DISCUSSES]-> response 0.814984142780304
+[Senior Manager Road Safety]: response --[IS_A]-> letter 0.7152647376060486
+[Senior Manager Road Safety]: Waka Kotahi --[FOLLOWS]-> response 0.7225954532623291
+[Senior Manager Road Safety]: New Zealand Transport Agency --[PUBLISH]-> response 0.8209487199783325
+[Senior Manager Road Safety]: New Zealand Transport Agency --[PUBLISHES]-> response 0.8192656636238098
+[Senior Manager Road Safety]: response --[IS]-> response letter 0.7119457721710205
+[Senior Manager Road Safety]: response letter --[IS]-> response 0.7123937010765076

@@ -1,0 +1,34 @@
+Who operates the rail network in the country known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, and is responsible for the term that describes the regular activities performed to keep roads safe and functional, including vegetation control, litter removal, and drainage maintenance?
+None
+Seed: Significant role in planning and management of transport infrastructure and services
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+Seed: Critical for freight and passenger movement
+Seed: Critical component of new zealand's transport strategy
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Plays]-> Significant role in planning and management of transport infrastructure and services 0.8216127753257751
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Recognizes]-> Transport as critical component of nation's infrastructure 0.8194189071655273
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Recognizes]-> Transport as critical component 0.819398820400238
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Plays]-> Significant role in shaping transport infrastructure 0.8169958591461182
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Subject]-> Debate regarding effectiveness in addressing challenges of modern transport needs 0.812242865562439
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Cornerstone]-> New zealand's approach to managing transport 0.799534797668457
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Praised for]-> Promoting integrated approach to transport planning 0.7970174551010132
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Aims to]-> Enhance resilience and adaptability of new zealand's transport network 0.813478946685791
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Plays]-> Significant role in shaping transport infrastructure and policy in new zealand 0.8073991537094116
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Is]-> Collective of australian and new zealand road transport and traffic agencies 0.7993488907814026
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Engages in]-> International collaborations to align initiatives with global best practices 0.770313024520874
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Conducts]-> Extensive research and development projects 0.7635674476623535
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Collaborates with]-> New zealand transport agency (nzta 0.7594257593154907
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Founded in]-> 1990 0.7370621562004089
+[Critical for freight and passenger movement]: North island main trunk railway --[Is]-> Critical for freight and passenger movement 0.8133521676063538
+[Critical for freight and passenger movement]: North island main trunk railway --[Facilitates]-> Economic activity 0.8011256456375122
+[Critical for freight and passenger movement]: North island main trunk railway --[Holds]-> Sustainability 0.7854352593421936
+[Critical for freight and passenger movement]: North island main trunk railway --[Facilitates]-> Regional connectivity 0.7807986736297607
+[Critical for freight and passenger movement]: North island main trunk railway --[Holds]-> Vital link 0.7786955833435059
+[Critical for freight and passenger movement]: North island main trunk railway --[Serves]-> Freight 0.7762643694877625
+[Critical for freight and passenger movement]: North island main trunk railway --[Holds]-> Efficiency 0.7755728960037231
+[Critical component of new zealand's transport strategy]: Road safety education --[Is]-> Critical component of new zealand's transport strategy 0.8174973726272583
+[Critical component of new zealand's transport strategy]: Road safety education --[Includes]-> Educational programs and initiatives 0.7982279062271118
+[Critical component of new zealand's transport strategy]: Road safety education --[Requires]-> Adaptability to changing road user behaviors and societal trends 0.7959120869636536
+[Critical component of new zealand's transport strategy]: Road safety education --[Implemented by]-> New zealand government 0.7953967452049255
+[Critical component of new zealand's transport strategy]: Road safety education --[Implemented by]-> Non-governmental organizations 0.7942962050437927
+[Critical component of new zealand's transport strategy]: Road safety education --[Includes]-> Local councils and community organizations 0.7916393280029297
+[Critical component of new zealand's transport strategy]: Road safety education --[Faces challenges]-> High rates of road fatalities among vulnerable road users 0.7903852462768555

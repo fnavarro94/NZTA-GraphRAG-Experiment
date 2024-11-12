@@ -1,0 +1,36 @@
+Where can information about the use of Automatic Number Plate Recognition (ANPR) cameras be found?
+None
+Seed: information on speed cameras
+Seed: information on traffic light cameras and speed cameras
+Seed: information on traffic light cameras
+Seed: cameras
+[information on speed cameras]: Waka Kotahi --[PROVIDES]-> information on speed cameras 0.8391000032424927
+[information on speed cameras]: Response --[CONTAINS]-> Waka Kotahi 0.7498584985733032
+[information on speed cameras]: Waka Kotahi --[PUBLISHES]-> Response 0.7523288130760193
+[information on speed cameras]: response --[CONTAINS]-> Waka Kotahi 0.7562127113342285
+[information on speed cameras]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.7716617584228516
+[information on speed cameras]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7438724637031555
+[information on speed cameras]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.7804689407348633
+[information on speed cameras]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.7463542819023132
+[information on speed cameras]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> list of LGWM construction contracts 0.7251043319702148
+[information on speed cameras]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> public transport fare policy review 0.7615482807159424
+[information on speed cameras]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.7867611050605774
+[information on speed cameras]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.7594423294067383
+[information on speed cameras]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.7551366090774536
+[information on speed cameras]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.7713052034378052
+[information on speed cameras]: Waka Kotahi NZ Transport Agency --[FAX]-> F 64 4 894 6100 0.7509865760803223
+[information on speed cameras]: Andrew Knackstedt --[CONTACT]-> Waka Kotahi NZ Transport Agency 0.755815327167511
+[information on speed cameras]: Waka Kotahi NZ Transport Agency --[CONTACT]-> T 64 4 894 5400 0.7454303503036499
+[information on speed cameras]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7419872879981995
+[information on speed cameras]: Chris Marshall --[REQUESTS]-> Waka Kotahi NZ Transport Agency 0.7494187951087952
+[information on speed cameras]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.7674638628959656
+[information on speed cameras]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.766979992389679
+[information on speed cameras]: Waka Kotahi NZ Transport Agency --[ANNOUNCED]-> Road to Zero 0.7432622909545898
+[information on speed cameras]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.778641939163208
+[information on speed cameras]: Road to Zero --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.7712145447731018
+[information on speed cameras]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.7436941862106323
+[information on speed cameras]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7427840828895569
+[information on speed cameras]: New Zealand --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7469891309738159
+[information on speed cameras]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.7518747448921204
+[information on speed cameras]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.739801287651062
+[information on speed cameras]: www.nzta.govt.nz --[OF]-> Waka Kotahi NZ Transport Agency 0.7687115669250488

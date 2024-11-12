@@ -1,0 +1,29 @@
+What is the abbreviation for the program that includes the expressway project aimed at improving freight transport efficiency in the region in New Zealand?
+None
+Seed: Efficiency of freight transport in region
+Seed: Regional transport initiatives
+Seed: Significant transport infrastructure project
+Seed: Enhancement of new zealand's transport infrastructure
+[Efficiency of freight transport in region]: Waikato expressway --[Significantly enhances]-> Efficiency of freight transport in region 0.8931275606155396
+[Efficiency of freight transport in region]: Waikato expressway --[Is part of]-> National land transport programme 0.879420816898346
+[Efficiency of freight transport in region]: National land transport programme --[Is]-> Key component of new zealand's transport planning framework 0.8686312437057495
+[Efficiency of freight transport in region]: National land transport programme --[Developed by]-> Waka kotahi nz transport agency 0.8531498312950134
+[Efficiency of freight transport in region]: Waikato expressway --[Aims to improve]-> Travel times and safety between auckland and hamilton 0.852462887763977
+[Efficiency of freight transport in region]: National land transport programme --[Developed in consultation with]-> Regional councils and local authorities 0.8344338536262512
+[Efficiency of freight transport in region]: National land transport programme --[Aims to]-> Enhance efficiency 0.8320739269256592
+[Regional transport initiatives]: New zealand transport agency --[Initiated]-> Programs aimed at improving transport access 0.872393012046814
+[Regional transport initiatives]: New zealand transport agency --[Implemented]-> Initiatives 0.867372453212738
+[Regional transport initiatives]: New zealand transport agency --[Is responsible for]-> Funding local road projects 0.8575155735015869
+[Regional transport initiatives]: New zealand --[Has]-> New zealand transport agency 0.8570699691772461
+[Regional transport initiatives]: New zealand transport agency --[Is]-> Developing integrated transport solutions 0.8551663160324097
+[Regional transport initiatives]: New zealand transport agency --[Is responsible for]-> State highway network 0.8535281419754028
+[Regional transport initiatives]: National land transport programme --[Developed by]-> Waka kotahi nz transport agency 0.8531498312950134
+[Significant transport infrastructure project]: Christchurch southern motorway --[Designed to]-> Enhance efficiency of road transport 0.8585169315338135
+[Significant transport infrastructure project]: Christchurch southern motorway --[Part of]-> New zealand government's broader strategy 0.8483372926712036
+[Significant transport infrastructure project]: Christchurch southern motorway --[Is]-> Significant transport infrastructure project 0.8477859497070312
+[Significant transport infrastructure project]: Christchurch southern motorway --[Key component of]-> Christchurch transport strategic plan 0.844982385635376
+[Significant transport infrastructure project]: Christchurch --[Focusing on]-> Enhancing transport infrastructure 0.8439192175865173
+[Significant transport infrastructure project]: Christchurch --[Has]-> Road infrastructure 0.8303623795509338
+[Significant transport infrastructure project]: Christchurch --[Has]-> Focus on improving road infrastructure 0.830345630645752
+[Enhancement of new zealand's transport infrastructure]: Nltf --[Has significantly contributed to]-> Enhancement of new zealand's transport infrastructure 0.8551494479179382
+[Enhancement of new zealand's transport infrastructure]: Nltf --[Expected to play pivotal role in]-> Addressing emerging transport challenges 0.8084802627563477

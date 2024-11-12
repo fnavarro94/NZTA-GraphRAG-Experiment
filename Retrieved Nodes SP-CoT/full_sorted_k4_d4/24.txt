@@ -1,0 +1,29 @@
+What is the abbreviation for the program that includes the expressway project aimed at improving freight transport efficiency in the region in New Zealand?
+None
+Seed: Efficiency of freight transport in region
+Seed: Regional transport initiatives
+Seed: Significant transport infrastructure project
+Seed: Enhancement of new zealand's transport infrastructure
+[Efficiency of freight transport in region]: Waikato expressway --[Significantly enhances]-> Efficiency of freight transport in region 0.8931275606155396
+[Efficiency of freight transport in region]: Waikato expressway --[Is part of]-> National land transport programme 0.879420816898346
+[Efficiency of freight transport in region]: National land transport programme --[Is]-> Key component of new zealand's transport planning framework 0.8686312437057495
+[Efficiency of freight transport in region]: National land transport programme --[Developed by]-> Waka kotahi nz transport agency 0.8531498312950134
+[Efficiency of freight transport in region]: Waikato expressway --[Aims to improve]-> Travel times and safety between auckland and hamilton 0.852462887763977
+[Efficiency of freight transport in region]: New zealand --[Has]-> Land transport management act 2003 0.8425858020782471
+[Efficiency of freight transport in region]: Waka kotahi nz transport agency --[Develops]-> Projects 0.8392064571380615
+[Regional transport initiatives]: New zealand --[Has]-> Transport projects 0.8823741674423218
+[Regional transport initiatives]: Waikato expressway --[Is part of]-> National land transport programme 0.879420816898346
+[Regional transport initiatives]: New zealand --[Has]-> Transport infrastructure development 0.8776222467422485
+[Regional transport initiatives]: New zealand --[Has]-> Regional transport planning 0.8750200271606445
+[Regional transport initiatives]: New zealand transport agency --[Initiated]-> Programs aimed at improving transport access 0.872393012046814
+[Regional transport initiatives]: New zealand --[Has]-> Transport infrastructure 0.8687088489532471
+[Regional transport initiatives]: National land transport programme --[Is]-> Key component of new zealand's transport planning framework 0.8686312437057495
+[Significant transport infrastructure project]: Christchurch southern motorway --[Designed to]-> Enhance efficiency of road transport 0.8585169315338135
+[Significant transport infrastructure project]: Road infrastructure --[Is]-> Backbone of new zealand's transport system 0.8535903692245483
+[Significant transport infrastructure project]: Christchurch southern motorway --[Part of]-> New zealand government's broader strategy 0.8483372926712036
+[Significant transport infrastructure project]: Christchurch southern motorway --[Is]-> Significant transport infrastructure project 0.8477859497070312
+[Significant transport infrastructure project]: Christchurch southern motorway --[Key component of]-> Christchurch transport strategic plan 0.844982385635376
+[Significant transport infrastructure project]: Kiwirail --[Collaborates with]-> Road transport 0.8439769744873047
+[Significant transport infrastructure project]: Christchurch --[Focusing on]-> Enhancing transport infrastructure 0.8439192175865173
+[Enhancement of new zealand's transport infrastructure]: Nltf --[Has significantly contributed to]-> Enhancement of new zealand's transport infrastructure 0.8551494479179382
+[Enhancement of new zealand's transport infrastructure]: Nltf --[Expected to play pivotal role in]-> Addressing emerging transport challenges 0.8084802627563477

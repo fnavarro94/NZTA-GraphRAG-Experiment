@@ -1,0 +1,34 @@
+What body of water does the public transport system that connects the central business district of Auckland with various suburbs and islands operate across to connect the central business district with destinations like Devonport and Waiheke Island?
+None
+Seed: Central business district of auckland with destinations
+Seed: 21 kilometers south of auckland's central business district
+Seed: Hub for tourism and business travel
+Seed: Public transport in auckland
+[Central business district of auckland with destinations]: Auckland ferry network --[Connects]-> Central business district of auckland with destinations 0.9097281694412231
+[Central business district of auckland with destinations]: Auckland --[Has]-> Significant transport hub 0.8841125965118408
+[Central business district of auckland with destinations]: Auckland --[Is]-> Major transport hub 0.8839280605316162
+[Central business district of auckland with destinations]: Auckland --[Has]-> Ferry network 0.8803898692131042
+[Central business district of auckland with destinations]: Auckland ferry network --[Integrated with]-> Other forms of public transport 0.8782156109809875
+[Central business district of auckland with destinations]: Auckland --[Serves as]-> Critical hub for transport 0.8770188093185425
+[Central business district of auckland with destinations]: Auckland --[Has]-> Ferry services 0.8769648671150208
+[21 kilometers south of auckland's central business district]: Auckland ferry network --[Connects]-> Central business district of auckland with destinations 0.9097281694412231
+[21 kilometers south of auckland's central business district]: Auckland --[Has]-> Significant transport hub 0.8841125965118408
+[21 kilometers south of auckland's central business district]: Auckland --[Is]-> Major transport hub 0.8839280605316162
+[21 kilometers south of auckland's central business district]: Auckland --[Has]-> Ferry network 0.8803898692131042
+[21 kilometers south of auckland's central business district]: Auckland ferry network --[Integrated with]-> Other forms of public transport 0.8782156109809875
+[21 kilometers south of auckland's central business district]: Auckland --[Serves as]-> Critical hub for transport 0.8770188093185425
+[21 kilometers south of auckland's central business district]: Auckland --[Has]-> Ferry services 0.8769648671150208
+[Hub for tourism and business travel]: Auckland ferry network --[Connects]-> Central business district of auckland with destinations 0.9097281694412231
+[Hub for tourism and business travel]: Auckland --[Has]-> Significant transport hub 0.8841125965118408
+[Hub for tourism and business travel]: Auckland --[Is]-> Major transport hub 0.8839280605316162
+[Hub for tourism and business travel]: Auckland --[Has]-> Ferry network 0.8803898692131042
+[Hub for tourism and business travel]: Auckland ferry network --[Integrated with]-> Other forms of public transport 0.8782156109809875
+[Hub for tourism and business travel]: Auckland --[Serves as]-> Critical hub for transport 0.8770188093185425
+[Hub for tourism and business travel]: Auckland --[Has]-> Ferry services 0.8769648671150208
+[Public transport in auckland]: Auckland ferry network --[Connects]-> Central business district of auckland with destinations 0.9097281694412231
+[Public transport in auckland]: Auckland --[Has]-> Significant transport hub 0.8841125965118408
+[Public transport in auckland]: Auckland --[Is]-> Major transport hub 0.8839280605316162
+[Public transport in auckland]: Auckland --[Has]-> Ferry network 0.8803898692131042
+[Public transport in auckland]: Auckland ferry network --[Integrated with]-> Other forms of public transport 0.8782156109809875
+[Public transport in auckland]: Auckland --[Serves as]-> Critical hub for transport 0.8770188093185425
+[Public transport in auckland]: Auckland --[Has]-> Ferry services 0.8769648671150208

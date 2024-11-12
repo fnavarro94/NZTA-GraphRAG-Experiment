@@ -1,0 +1,36 @@
+What is the abbreviation for the national law enforcement agency responsible for maintaining public safety and order in New Zealand, who is primarily responsible for the enforcement of road traffic laws in New Zealand?
+None
+Seed: Enforcement of road traffic laws
+Seed: National law enforcement agency
+Seed: Legal framework for enforcement of road rules
+Seed: Enforcement of road safety regulations
+[Enforcement of road traffic laws]: New zealand police --[Responsible for]-> Enforcement of road traffic laws 0.9140580296516418
+[Enforcement of road traffic laws]: New zealand police --[Implementing]-> Speed enforcement measures 0.8727403283119202
+[Enforcement of road traffic laws]: New zealand police --[Established]-> 1840 0.8218384385108948
+[Enforcement of road traffic laws]: New zealand police --[Collaborate with]-> New zealand transport agency 0.8676880598068237
+[Enforcement of road traffic laws]: New zealand --[Has]-> New zealand transport agency 0.8706473708152771
+[Enforcement of road traffic laws]: New zealand --[Has]-> Transport projects 0.813109815120697
+[Enforcement of road traffic laws]: New zealand transport agency --[Oversees]-> Transport projects 0.8486801385879517
+[Enforcement of road traffic laws]: Auckland --[Has]-> Transport projects 0.7817652225494385
+[Enforcement of road traffic laws]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.8432961106300354
+[Enforcement of road traffic laws]: New zealand --[Has]-> Diverse transport network 0.8157624006271362
+[Enforcement of road traffic laws]: New zealand --[Has]-> Post-incident review 0.8311752080917358
+[Enforcement of road traffic laws]: Post-incident review --[Crucial for]-> Improving operational efficiency 0.755926787853241
+[Enforcement of road traffic laws]: Post-incident review --[Crucial for]-> Fostering culture of continuous improvement 0.7332174777984619
+[Enforcement of road traffic laws]: Post-incident review --[Aimed at]-> Recommending measures 0.7459937334060669
+[Enforcement of road traffic laws]: Post-incident review --[Crucial for]-> Enhancing safety 0.7669782638549805
+[Enforcement of road traffic laws]: Post-incident review --[Is]-> Systematic process 0.7570999264717102
+[Enforcement of road traffic laws]: Post-incident review --[Conducted]-> Following an incident 0.7679449319839478
+[Enforcement of road traffic laws]: Post-incident review --[Aimed at]-> Analyzing circumstances 0.7568846940994263
+[Enforcement of road traffic laws]: Post-incident review --[Aimed at]-> Identifying contributing factors 0.7614510655403137
+[Enforcement of road traffic laws]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.8105776309967041
+[Enforcement of road traffic laws]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.8030338287353516
+[Enforcement of road traffic laws]: New zealand --[Has]-> Broader environmental policies 0.7994662523269653
+[Enforcement of road traffic laws]: New zealand --[Has]-> Traffic congestion 0.8292107582092285
+[Enforcement of road traffic laws]: Auckland --[Faces challenges]-> Traffic congestion 0.7884276509284973
+[Enforcement of road traffic laws]: Wellington public transport plan --[Initiated in response to]-> Traffic congestion 0.7988067269325256
+[Enforcement of road traffic laws]: Auckland --[Has]-> Traffic congestion 0.8010386228561401
+[Enforcement of road traffic laws]: Wellington --[Has]-> Traffic congestion 0.8044224977493286
+[Enforcement of road traffic laws]: Wellington public transport spine study --[Initiated in response to]-> Traffic congestion 0.771964430809021
+[Enforcement of road traffic laws]: Sustainable urban transport --[Faces challenges]-> Traffic congestion 0.7257755994796753
+[Enforcement of road traffic laws]: New zealand --[Face]-> Traffic congestion 0.8098897337913513

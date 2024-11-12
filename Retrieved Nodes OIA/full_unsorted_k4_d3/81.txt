@@ -1,0 +1,35 @@
+Why was a list of drugs involved in fatal crashes not provided in response to the request?
+None
+Seed: figures on drivers involved in fatal crashes
+Seed: 1 fatal crash, 3 serious crashes, 8 minor crashes, 12 non-injury crashes, 24 total crashes
+Seed: drivers involved in fatal crashes
+Seed: 2 fatal crashes, 2 serious crashes, 1 minor crash, 4 non-injury crashes, 5 total crashes
+[figures on drivers involved in fatal crashes]: AA --[PROVIDES]-> figures on drivers involved in fatal crashes 0.8342830538749695
+[1 fatal crash, 3 serious crashes, 8 minor crashes, 12 non-injury crashes, 24 total crashes]: 01/10/2020 to 26/05/2021 --[HAS_CRASHES]-> 1 fatal crash, 3 serious crashes, 8 minor crashes, 12 non-injury crashes, 24 total crashes 0.8409827947616577
+[drivers involved in fatal crashes]: drivers involved in fatal crashes --[INVOLVED_IN]-> fatal crashes 0.8515899777412415
+[drivers involved in fatal crashes]: fatal crashes --[CAUSED_BY]-> drugs or alcohol 0.8826371431350708
+[drivers involved in fatal crashes]: drugs or alcohol --[AFFECTS]-> drivers 0.8265054225921631
+[drivers involved in fatal crashes]: drivers --[INVOLVED_IN]-> fatal crashes 0.8430479764938354
+[drivers involved in fatal crashes]: tolls --[COLLECTED]-> drivers 0.7852993607521057
+[drivers involved in fatal crashes]: drivers --[PAY]-> tolls 0.7473154664039612
+[drivers involved in fatal crashes]: drivers --[CONTRIBUTE]-> crash 0.807933509349823
+[drivers involved in fatal crashes]: drivers --[IMPAIRED]-> drugs 0.8323623538017273
+[drivers involved in fatal crashes]: drugs --[PRESENT]-> drivers 0.8352088332176208
+[drivers involved in fatal crashes]: New Zealand Transport Agency --[RESPONDED]-> drivers 0.7887552976608276
+[drivers involved in fatal crashes]: fatal crashes --[RECORDED]-> CAS 0.8134827613830566
+[drivers involved in fatal crashes]: Crash --[RECORDED]-> CAS 0.7751526832580566
+[drivers involved in fatal crashes]: Waka Kotahi --[MAINTAINS]-> CAS 0.7066459059715271
+[drivers involved in fatal crashes]: CAS --[IS_UPDATING]-> Traffic Crash Report 0.8128629922866821
+[drivers involved in fatal crashes]: crash records --[PROCESSED]-> CAS 0.7903589010238647
+[drivers involved in fatal crashes]: CAS --[PROVIDES]-> full and correct crash records 0.7977461814880371
+[drivers involved in fatal crashes]: CAS --[CONTAINS]-> information 0.7424564361572266
+[drivers involved in fatal crashes]: Transport Agency --[CROSS_REFERENCES]-> CAS 0.7909663915634155
+[drivers involved in fatal crashes]: CAS --[DEFINES]-> Road 0.7495414614677429
+[drivers involved in fatal crashes]: minor injury crashes --[RECORDED]-> CAS 0.7979665994644165
+[drivers involved in fatal crashes]: 2023 data --[INCOMPLETE]-> CAS 0.7627480030059814
+[drivers involved in fatal crashes]: Road --[DEFINED_BY]-> CAS 0.7558562755584717
+[drivers involved in fatal crashes]: 2022 data --[INCOMPLETE]-> CAS 0.7650533318519592
+[drivers involved in fatal crashes]: CAS --[CONTAINS]-> crash records 0.7997910380363464
+[drivers involved in fatal crashes]: non-injury crashes --[RECORDED]-> CAS 0.8100787401199341
+[drivers involved in fatal crashes]: serious injury crashes --[RECORDED]-> CAS 0.8059731721878052
+[2 fatal crashes, 2 serious crashes, 1 minor crash, 4 non-injury crashes, 5 total crashes]: 01/10/2017 to 30/09/2018 --[HAS_CRASHES]-> 2 fatal crashes, 2 serious crashes, 1 minor crash, 4 non-injury crashes, 5 total crashes 0.8508543968200684

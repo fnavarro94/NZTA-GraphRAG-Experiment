@@ -1,0 +1,28 @@
+Does Waka Kotahi hold a schedule of tasks for remedial work on the Kaipara Coast Highway (SH16) near Omeru Reserve?
+None
+Seed: Waka Kotahi N Z Transport Agency
+Seed: NZ Transport Agency Waka Kotahi
+Seed: Waka Kotahi NZ Transport Agency
+Seed: Waka Kotahi Senior Project Manager
+[Waka Kotahi N Z Transport Agency]: Data --[PROVIDED]-> Waka Kotahi N Z Transport Agency 0.8447073698043823
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.832505464553833
+[Waka Kotahi N Z Transport Agency]: New Zealand Transport Agency Waka Kotahi --[MAINTAINS]-> Crash Analysis System 0.8301839828491211
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.8299782276153564
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINS]-> Waka Kotahi N Z Transport Agency 0.8259599208831787
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MANAGED_BY]-> New Zealand Transport Agency 0.7781466841697693
+[Waka Kotahi N Z Transport Agency]: New Zealand Transport Agency --[MANAGES]-> Crash Analysis System 0.7675262093544006
+[NZ Transport Agency Waka Kotahi]: New Zealand Transport Agency --[ASSOCIATED]-> Waka Kotahi 0.8651922941207886
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8636596202850342
+[NZ Transport Agency Waka Kotahi]: Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8602035641670227
+[NZ Transport Agency Waka Kotahi]: Waka Kotahi --[ASSOCIATED]-> New Zealand Transport Agency 0.860013484954834
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[BASED_ON]-> investigations, construction findings, on-site progress, design updates, design assumptions 0.8593449592590332
+[NZ Transport Agency Waka Kotahi]: New Zealand Transport Agency --[IS]-> Waka Kotahi 0.8572841286659241
+[NZ Transport Agency Waka Kotahi]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.8565022945404053
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[MANAGES]-> road maintenance 0.8555939197540283
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[COUNTRY]-> New Zealand 0.85521000623703
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.8543012738227844
+[Waka Kotahi NZ Transport Agency]: New Zealand Transport Agency --[POLICY]-> Waka Kotahi policy 0.8538792133331299
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.8492071032524109
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[MANAGES]-> State Highway 1 0.8478224873542786
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[COLLABORATES_WITH]-> Tauranga City Council 0.84731525182724
+[Waka Kotahi Senior Project Manager]: Waka Kotahi Senior Project Manager --[MANAGES]-> State Highway 25A Rebuild Project 0.8541150093078613

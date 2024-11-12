@@ -1,0 +1,25 @@
+Which city is linked to the urban area in New Zealand that has experienced significant investment in public transport infrastructure alongside Auckland and Wellington by State Highway 1 to the north?
+None
+Seed: Transport link between wellington and northern regions of north island
+Seed: Significant investment in public transport infrastructure
+Seed: New zealand's transport network
+Seed: Addressing transport challenges in auckland
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Links with]-> State highway 1 0.8682177066802979
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Begins]-> Wellington urban area 0.8591429591178894
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Aims to]-> Meet the evolving needs of new zealand's transport system 0.8543567657470703
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Aims to improve]-> Transport link between wellington and northern regions of north island 0.8533591032028198
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Enhances]-> Connectivity for commuters 0.8497647643089294
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Alleviates]-> Pressure on existing transport infrastructure 0.8492645025253296
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Includes]-> Upgrades to state highway 1 route 0.8486584424972534
+[Significant investment in public transport infrastructure]: New zealand --[Has]-> Urban areas 0.8717511892318726
+[Significant investment in public transport infrastructure]: Urban areas --[Have]-> Significant investment in public transport infrastructure 0.8570454120635986
+[Significant investment in public transport infrastructure]: Urban areas --[Use]-> Public transport systems 0.8262296915054321
+[Significant investment in public transport infrastructure]: Electric scooters --[Used in]-> Urban areas 0.7552379965782166
+[New zealand's transport network]: Road infrastructure projects --[Play crucial role in]-> New zealand's transport network 0.8776376843452454
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Aligning transport investments 0.8630427718162537
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On enhancing road infrastructure 0.8624625205993652
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On improving public transport 0.8576145172119141
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Development of comprehensive transport network 0.8551918864250183
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Encompasses]-> Range of projects 0.8525838255882263
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Addressing transport challenges in auckland 0.8512289524078369
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Is]-> Strategic initiative 0.8462114334106445

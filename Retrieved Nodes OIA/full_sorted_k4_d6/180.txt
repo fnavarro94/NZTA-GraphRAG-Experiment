@@ -1,0 +1,32 @@
+Why will it take until 2041 to fully recover the costs of the Tākitimu Drive Toll Road?
+None
+Seed: Takitimu Drive Toll Road
+Seed: transaction costs won’t be recovered until 2041
+Seed: information on tolls and road maintenance
+Seed: 2023-24 State Highway Investment Proposal
+[Takitimu Drive Toll Road]: Takitimu Drive Toll Road --[PROVIDES]-> Toll Revenue 0.8785049915313721
+[Takitimu Drive Toll Road]: Northern Gateway Toll Road --[ESTIMATED_END_DATE]-> 2045 0.8710928559303284
+[Takitimu Drive Toll Road]: Northern Gateway Toll Road --[DEBT_REPAYMENT]-> 35 years 0.8416087031364441
+[Takitimu Drive Toll Road]: Tauranga Eastern Link Toll Road --[PROVIDES]-> Toll Revenue 0.8250727653503418
+[Takitimu Drive Toll Road]: Northern Gateway Toll Road --[PROVIDES]-> Toll Revenue 0.8073102235794067
+[transaction costs won’t be recovered until 2041]: NZTA --[PREDICTS]-> transaction costs won’t be recovered until 2041 0.8673965930938721
+[transaction costs won’t be recovered until 2041]: toll road --[COST]-> $45 million 0.860472559928894
+[transaction costs won’t be recovered until 2041]: toll road --[REQUIRES]-> operation money 0.8436358571052551
+[transaction costs won’t be recovered until 2041]: tolls --[SPENT]-> on various roads 0.8408699035644531
+[transaction costs won’t be recovered until 2041]: toll tariffs --[SPENT_ON]-> road maintenance 0.8386783599853516
+[transaction costs won’t be recovered until 2041]: toll road --[GENERATED]-> $53 million 0.8348301649093628
+[transaction costs won’t be recovered until 2041]: road maintenance --[FUNDED_BY]-> toll tariffs 0.8345758318901062
+[information on tolls and road maintenance]: NZTA --[PREDICTS]-> transaction costs won’t be recovered until 2041 0.8673965930938721
+[information on tolls and road maintenance]: toll road --[COST]-> $45 million 0.860472559928894
+[information on tolls and road maintenance]: toll road --[REQUIRES]-> operation money 0.8436358571052551
+[information on tolls and road maintenance]: tolls --[SPENT]-> on various roads 0.8408699035644531
+[information on tolls and road maintenance]: toll tariffs --[SPENT_ON]-> road maintenance 0.8386783599853516
+[information on tolls and road maintenance]: toll road --[GENERATED]-> $53 million 0.8348301649093628
+[information on tolls and road maintenance]: road maintenance --[FUNDED_BY]-> toll tariffs 0.8345758318901062
+[2023-24 State Highway Investment Proposal]: 2024-27 National Land Transport Programme --[DEVELOPMENT_OF]-> Regional Land Transport Plan 0.8003429174423218
+[2023-24 State Highway Investment Proposal]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Access and Development Programme Business Case 0.799808919429779
+[2023-24 State Highway Investment Proposal]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.7981010675430298
+[2023-24 State Highway Investment Proposal]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.7958794832229614
+[2023-24 State Highway Investment Proposal]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Access and Development Programme Business Case 0.7938293218612671
+[2023-24 State Highway Investment Proposal]: Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.786975622177124
+[2023-24 State Highway Investment Proposal]: Hornby Access and Development Programme Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.7727617621421814

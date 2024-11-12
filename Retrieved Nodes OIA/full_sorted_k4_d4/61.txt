@@ -1,0 +1,28 @@
+How many I endorsement holders with criminal convictions were granted their endorsements between 2017 and 2019?
+None
+Seed: information related to criminal convictions of driving instructor (I) endorsement holders
+Seed: criminal convictions
+Seed: Applicant 1
+Seed: renewals of existing endorsement holders
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Michael Morrah --[REQUESTS]-> information related to criminal convictions of driving instructor (I) endorsement holders 0.8539389967918396
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[MONITORS]-> I endorsement holders 0.8310682773590088
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[EMPLOYEE_COUNT]-> 1343 0.7793047428131104
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[IS_AFFILIATED_WITH]-> Jamie Ensor 0.7791163921356201
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[ASSOCIATED]-> Review of 850 open compliance files 0.7741363644599915
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[ASSOCIATED]-> Enforcement of regulatory role 0.7720092535018921
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Jamie Ensor --[IS_AFFILIATED_WITH]-> New Zealand Transport Agency 0.7718769311904907
+[criminal convictions]: I endorsements --[HOLD]-> criminal convictions 0.9177486896514893
+[criminal convictions]: criminal convictions --[ASSOCIATED_WITH]-> driver trainers or instructors 0.8511713147163391
+[criminal convictions]: applications for I endorsements --[INCLUDE]-> renewals of existing endorsement holders 0.8454426527023315
+[criminal convictions]: Transport Agency --[GRANT]-> I endorsements 0.8346659541130066
+[criminal convictions]: criminal convictions --[ASSOCIATED]-> Table 2 0.8299217820167542
+[criminal convictions]: drink driving --[EXAMPLE_OF]-> criminal convictions 0.8187488317489624
+[criminal convictions]: assault --[EXAMPLE_OF]-> criminal convictions 0.817629873752594
+[Applicant 1]: Applicant 1 --[CONVICTED]-> Aggravated Robbery (Other Weapon) 0.8184664845466614
+[renewals of existing endorsement holders]: I endorsements --[HOLD]-> criminal convictions 0.9177486896514893
+[renewals of existing endorsement holders]: applications for I endorsements --[INCLUDE]-> renewals of existing endorsement holders 0.8454426527023315
+[renewals of existing endorsement holders]: Transport Agency --[GRANT]-> I endorsements 0.8346659541130066
+[renewals of existing endorsement holders]: Transport Agency --[ASSESS]-> applications for I endorsements 0.8163508772850037
+[renewals of existing endorsement holders]: fit and proper person assessments --[FORM]-> criminal history 0.8100423216819763
+[renewals of existing endorsement holders]: www.ombudsman.parliament.nz --[ASSOCIATED]-> Ombudsman 0.7903069257736206
+[renewals of existing endorsement holders]: Kevin Reid --[APPEAL]-> Ombudsman 0.7894862294197083

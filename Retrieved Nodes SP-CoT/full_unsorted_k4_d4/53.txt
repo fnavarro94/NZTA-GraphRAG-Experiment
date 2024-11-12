@@ -1,0 +1,36 @@
+Who developed the software that is one of the commonly used traffic simulation models in New Zealand for visualizing traffic patterns and assessing the impact of new developments, used in New Zealand for transport planning?
+None
+Seed: Analyze and predict traffic flow
+Seed: Road traffic simulation models
+Seed: Modeling and analyzing complex traffic scenarios
+Seed: Traffic simulation model
+[Analyze and predict traffic flow]: Road traffic simulation models --[Are essential tools]-> Analyze and predict traffic flow 0.8712893724441528
+[Analyze and predict traffic flow]: Road traffic simulation models --[Play crucial role]-> Urban planning 0.869951605796814
+[Analyze and predict traffic flow]: Urban planning --[Has]-> Embraced principles of active transport 0.7758990526199341
+[Analyze and predict traffic flow]: Road traffic simulation models --[Play crucial role]-> Environmental impact assessments 0.8533721566200256
+[Analyze and predict traffic flow]: Road traffic simulation models --[Play crucial role]-> Infrastructure development 0.8613307476043701
+[Analyze and predict traffic flow]: Auckland cycling network plan --[Primary objectives]-> Infrastructure development 0.8074244856834412
+[Analyze and predict traffic flow]: Auckland cycling network plan --[Seeks to]-> Create cycling network 0.7906461358070374
+[Analyze and predict traffic flow]: Auckland cycling network plan --[Developed by]-> Auckland transport 0.8376696109771729
+[Analyze and predict traffic flow]: Auckland cycling network plan --[Introduced in]-> Early 2010s 0.8136367797851562
+[Analyze and predict traffic flow]: Auckland cycling network plan --[Aligns with]-> New zealand's national transport objectives 0.8163367509841919
+[Analyze and predict traffic flow]: Auckland cycling network plan --[Primary objectives]-> Safety improvements 0.7963874936103821
+[Analyze and predict traffic flow]: Auckland cycling network plan --[Part of]-> Broader effort 0.7973572611808777
+[Analyze and predict traffic flow]: Auckland cycling network plan --[Primary objectives]-> Community engagement 0.7888686656951904
+[Analyze and predict traffic flow]: Auckland cycling network plan --[Is]-> Strategic initiative 0.8040143251419067
+[Analyze and predict traffic flow]: Auckland cycling network plan --[Primary objectives]-> Promotion of cycling 0.7882267236709595
+[Analyze and predict traffic flow]: Wellington regional public transport plan --[Key components]-> Infrastructure development 0.818943977355957
+[Analyze and predict traffic flow]: Wellington regional public transport plan --[Key components]-> Community engagement 0.8014695048332214
+[Analyze and predict traffic flow]: Wellington regional public transport plan --[Key components]-> Sustainability initiatives 0.804469108581543
+[Analyze and predict traffic flow]: Wellington regional public transport plan --[Primary objectives]-> Promote use of public transport as alternative to private vehicle use 0.814660906791687
+[Analyze and predict traffic flow]: Wellington regional public transport plan --[Established under]-> Land transport management act 2003 0.809529721736908
+[Analyze and predict traffic flow]: Wellington regional public transport plan --[Key components]-> Service improvements 0.8071821928024292
+[Analyze and predict traffic flow]: Wellington regional public transport plan --[Aims to]-> Enhance and optimize public transport services 0.812004566192627
+[Analyze and predict traffic flow]: Wellington regional public transport plan --[Is]-> Strategic framework 0.8179486989974976
+[Analyze and predict traffic flow]: Wellington regional public transport plan --[Primary objectives]-> Increase patronage 0.7932953238487244
+[Analyze and predict traffic flow]: Wellington regional public transport plan --[Primary objectives]-> Improve quality and reliability of public transport services 0.8114127516746521
+[Analyze and predict traffic flow]: National cycling policy --[Includes]-> Infrastructure development 0.7727584838867188
+[Analyze and predict traffic flow]: National cycling policy --[Is]-> Strategic framework 0.7689762711524963
+[Analyze and predict traffic flow]: National cycling policy --[Aims]-> Enhance cycling infrastructure 0.7635295391082764
+[Analyze and predict traffic flow]: National cycling policy --[Encourages]-> Greater participation in cycling activities 0.7381554841995239
+[Analyze and predict traffic flow]: National cycling policy --[Promotes]-> Cycling 0.7444977760314941

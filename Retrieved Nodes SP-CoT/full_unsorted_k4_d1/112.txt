@@ -1,0 +1,11 @@
+What passenger service on the rail line in New Zealand that has been enhanced as part of the government's investment in upgrading rail infrastructure to support sustainable freight solutions provides commuter services between the headquarters of the organization in New Zealand that operates the majority of the country's rail services and has launched campaigns to promote rail safety located and Palmerston North?
+None
+Seed: Majority of rail services
+Seed: Passenger rail services
+Seed: Initiatives to promote sustainable transport solutions
+Seed: Both freight and passenger services
+[Majority of rail services]: Kiwirail group --[Operates]-> Majority of rail services 0.8645260334014893
+[Passenger rail services]: Passenger rail services --[Include]-> Scenic routes such as the tranzalpine and the northern explorer 0.8046315312385559
+[Passenger rail services]: Passenger rail services --[Showcase]-> New zealand's stunning landscapes 0.8446164131164551
+[Initiatives to promote sustainable transport solutions]: Climate change response act --[Includes]-> Initiatives to promote sustainable transport solutions 0.8056461811065674
+[Both freight and passenger services]: Kiwirail --[Manages]-> Both freight and passenger services 0.8657674193382263

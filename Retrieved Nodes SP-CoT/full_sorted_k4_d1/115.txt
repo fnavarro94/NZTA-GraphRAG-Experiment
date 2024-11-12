@@ -1,0 +1,10 @@
+Which country did the airline that initially operated trans-Tasman flights to in 1940 connect to for tourism and business travel, alongside major cities in New Zealand and Asia, alongside the urban area in New Zealand that has experienced significant investment in public transport infrastructure alongside Auckland and Wellington?
+None
+Seed: Local economy and tourism industry
+Seed: Trans-tasman flights between new zealand and australia
+Seed: Domestic flights to major cities across new zealand
+Seed: Both passenger and freight transport across the cook strait
+[Local economy and tourism industry]: Auckland airport --[Supporting]-> Local economy and tourism industry 0.8570446968078613
+[Trans-tasman flights between new zealand and australia]: Teal --[Initially operating]-> Trans-tasman flights between new zealand and australia 0.875971794128418
+[Domestic flights to major cities across new zealand]: Wellington international airport --[Provides]-> Domestic flights to major cities across new zealand 0.8632847666740417
+[Both passenger and freight transport across the cook strait]: Port of wellington --[Facilitates]-> Both passenger and freight transport across the cook strait 0.8303159475326538

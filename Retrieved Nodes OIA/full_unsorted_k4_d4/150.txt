@@ -1,0 +1,36 @@
+What is the reason for the toll on the Northern Gateway Toll Road?
+None
+Seed: Northern Gateway Toll Road
+Seed: information on tolls and road maintenance
+Seed: toll roads
+Seed: toll tariffs
+[Northern Gateway Toll Road]: Northern Gateway Toll Road --[PROVIDES]-> Toll Revenue 0.9063264727592468
+[Northern Gateway Toll Road]: Tauranga Eastern Link Toll Road --[PROVIDES]-> Toll Revenue 0.8330012559890747
+[Northern Gateway Toll Road]: Takitimu Drive Toll Road --[PROVIDES]-> Toll Revenue 0.8257232904434204
+[Northern Gateway Toll Road]: Northern Gateway Toll Road --[DEBT_REPAYMENT]-> 35 years 0.8850504159927368
+[Northern Gateway Toll Road]: Northern Gateway Toll Road --[ESTIMATED_END_DATE]-> 2045 0.9006482362747192
+[information on tolls and road maintenance]: response from New Zealand Transport Agency --[CONTAINS]-> information on tolls and road maintenance 0.8385605216026306
+[information on tolls and road maintenance]: Sam Kelway --[RECEIVES]-> response from New Zealand Transport Agency 0.8042090535163879
+[information on tolls and road maintenance]: New Zealand Transport Agency --[RESPONDS]-> Sam Kelway 0.8139613270759583
+[information on tolls and road maintenance]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8004127740859985
+[information on tolls and road maintenance]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8126012086868286
+[information on tolls and road maintenance]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8083451986312866
+[information on tolls and road maintenance]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7947466373443604
+[information on tolls and road maintenance]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.8035900592803955
+[information on tolls and road maintenance]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.8059881925582886
+[information on tolls and road maintenance]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7962040901184082
+[information on tolls and road maintenance]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7990965843200684
+[information on tolls and road maintenance]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8119555711746216
+[information on tolls and road maintenance]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7961006760597229
+[information on tolls and road maintenance]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7741798162460327
+[information on tolls and road maintenance]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7960227131843567
+[information on tolls and road maintenance]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8002355694770813
+[information on tolls and road maintenance]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7873940467834473
+[information on tolls and road maintenance]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7995723485946655
+[information on tolls and road maintenance]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7997783422470093
+[information on tolls and road maintenance]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7822065949440002
+[information on tolls and road maintenance]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7959122061729431
+[information on tolls and road maintenance]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8076801896095276
+[information on tolls and road maintenance]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7647321224212646
+[information on tolls and road maintenance]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7952907085418701
+[information on tolls and road maintenance]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7924981117248535

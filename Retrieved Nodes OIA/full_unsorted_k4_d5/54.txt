@@ -1,0 +1,36 @@
+How does the NZ Transport Agency handle privacy concerns when sharing information about driver tests?
+None
+Seed: individual privacy
+Seed: Place to which the public have access with a motor vehicle
+Seed: why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’
+Seed: information on visiting drivers survey
+[individual privacy]: driver's licence test statistics --[PROTECTED]-> individual privacy 0.8989565372467041
+[individual privacy]: Driving Tests Data.xlsx --[PROVIDES]-> driver's licence test statistics 0.8310308456420898
+[individual privacy]: spreadsheet --[CONTAINS]-> Driving Tests Data.xlsx 0.797585666179657
+[individual privacy]: driver's licence test data --[PROVIDED]-> spreadsheet 0.8424962759017944
+[individual privacy]: Luke Kirkness --[REQUESTED]-> driver's licence test data 0.8447102308273315
+[individual privacy]: NZ Driver Licensing (1998) Limited --[PROVIDES]-> spreadsheet 0.8700799942016602
+[individual privacy]: New Zealand Transport Agency --[CONTRACTS]-> NZ Driver Licensing (1998) Limited 0.8618334531784058
+[individual privacy]: spreadsheet --[CONTAINS]-> incident reports 0.7547789812088013
+[individual privacy]: Health and Safety Committee --[REVIEW]-> incident reports 0.7741734981536865
+[individual privacy]: incident reports --[REVIEWED]-> regional managers 0.7632122039794922
+[individual privacy]: incident reports --[RETAINED]-> 12 months 0.7793704271316528
+[individual privacy]: incident reports --[ISO]-> International Organisation for Standardisation 0.7751755118370056
+[individual privacy]: incident reports --[RELATE_TO]-> health and safety incidents 0.7737716436386108
+[individual privacy]: 12 months --[RETENTION_PERIOD]-> incident reports 0.770865261554718
+[individual privacy]: 2008-2013 --[CONTAINS]-> incident reports 0.7626743912696838
+[individual privacy]: individual privacy --[APPLIED]-> driver's licence test statistics 0.8852270841598511
+[Place to which the public have access with a motor vehicle]: Road --[DEFINITION]-> Place to which the public have access with a motor vehicle 0.7992560863494873
+[Place to which the public have access with a motor vehicle]: Road --[DEFINITION]-> Street, motorway or beach 0.731354832649231
+[Place to which the public have access with a motor vehicle]: Road --[DEFINITION]-> Public car park 0.7737711071968079
+[Place to which the public have access with a motor vehicle]: Crash --[MUST_OCCUR]-> Road 0.7689733505249023
+[Place to which the public have access with a motor vehicle]: Crash --[REPORTED_BY]-> Police 0.7823511958122253
+[Place to which the public have access with a motor vehicle]: does not reflect the formal view of the Police --[RELATES_TO]-> Police 0.7741565108299255
+[Place to which the public have access with a motor vehicle]: comment --[STATES]-> does not reflect the formal view of the Police 0.777087390422821
+[Place to which the public have access with a motor vehicle]: Rainbow crossing --[DISCUSSED_BY]-> Police 0.8111093044281006
+[Place to which the public have access with a motor vehicle]: Rainbow crossing --[DISCUSSED_BY]-> NZTA staff 0.8110913634300232
+[Place to which the public have access with a motor vehicle]: Rainbow crossing --[DISCUSSED_BY]-> Georgina-Campbell 0.7596017718315125
+[Place to which the public have access with a motor vehicle]: Email chain discussion --[REGARDS]-> Rainbow crossing 0.7637335062026978
+[Place to which the public have access with a motor vehicle]: Rainbow crossing --[DISCUSSED_IN]-> Email chain discussion 0.7428938150405884
+[Place to which the public have access with a motor vehicle]: Email chain discussion --[DISCUSSES]-> Rainbow crossing 0.7754851579666138
+[Place to which the public have access with a motor vehicle]: Georgina-Campbell --[DISCUSSES]-> Rainbow crossing 0.7449870109558105

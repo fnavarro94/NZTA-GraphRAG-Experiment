@@ -1,0 +1,30 @@
+Why will it take until 2041 to fully recover the costs of the Tākitimu Drive Toll Road?
+None
+Seed: Takitimu Drive Toll Road
+Seed: transaction costs won’t be recovered until 2041
+Seed: information on tolls and road maintenance
+Seed: 2023-24 State Highway Investment Proposal
+[Takitimu Drive Toll Road]: Takitimu Drive Toll Road --[PROVIDES]-> Toll Revenue 0.8785049915313721
+[Takitimu Drive Toll Road]: Tauranga Eastern Link Toll Road --[PROVIDES]-> Toll Revenue 0.8250727653503418
+[Takitimu Drive Toll Road]: Northern Gateway Toll Road --[PROVIDES]-> Toll Revenue 0.8073102235794067
+[transaction costs won’t be recovered until 2041]: NZTA --[PREDICTS]-> transaction costs won’t be recovered until 2041 0.8673965930938721
+[transaction costs won’t be recovered until 2041]: NZTA --[RETAINS]-> toll revenue 0.7947453856468201
+[transaction costs won’t be recovered until 2041]: NZTA --[TOOK_OVER]-> road 0.7730115652084351
+[transaction costs won’t be recovered until 2041]: National Manager Infrastructure Delivery --[AT]-> NZTA 0.764828085899353
+[transaction costs won’t be recovered until 2041]: NZTA --[CONSIDER]-> public interest 0.7567987442016602
+[transaction costs won’t be recovered until 2041]: NZTA --[PAID]-> $65 million 0.7559996247291565
+[transaction costs won’t be recovered until 2041]: pothole repair specifications --[FROM]-> NZTA 0.7549789547920227
+[information on tolls and road maintenance]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.8103315234184265
+[information on tolls and road maintenance]: response from New Zealand Transport Agency --[CONTAINS]-> information on tolls and road maintenance 0.8099372386932373
+[information on tolls and road maintenance]: New Zealand Transport Agency --[PROVIDES]-> Prolongation Costs 0.8097409009933472
+[information on tolls and road maintenance]: New Zealand Transport Agency --[SPENT]-> Road to Zero Strategy Development 0.805695652961731
+[information on tolls and road maintenance]: New Zealand Transport Agency --[CONSIDERS]-> request for pothole repair cost information 0.8056461811065674
+[information on tolls and road maintenance]: New Zealand Transport Agency --[SPENDS_ON]-> Road to Zero Strategy 0.8039231300354004
+[information on tolls and road maintenance]: New Zealand Transport Agency --[WAITING_FOR]-> guidance from Treasury 0.8038924932479858
+[2023-24 State Highway Investment Proposal]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Access and Development Programme Business Case 0.799808919429779
+[2023-24 State Highway Investment Proposal]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.7981010675430298
+[2023-24 State Highway Investment Proposal]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.7958794832229614
+[2023-24 State Highway Investment Proposal]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Access and Development Programme Business Case 0.7938293218612671
+[2023-24 State Highway Investment Proposal]: Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.786975622177124
+[2023-24 State Highway Investment Proposal]: Hornby Access and Development Programme Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.7727617621421814
+[2023-24 State Highway Investment Proposal]: Main South Road, Shands Road and Carmen Road intersection --[LOCATED_NEAR]-> Hornby Access and Development Programme Business Case 0.7567826509475708

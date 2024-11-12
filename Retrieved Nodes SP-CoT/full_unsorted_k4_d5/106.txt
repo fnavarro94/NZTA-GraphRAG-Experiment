@@ -1,0 +1,36 @@
+Who operates the rail network in the country where the regular activities performed to keep roads safe and functional, including vegetation control, litter removal, and drainage maintenance, are described by what term?
+None
+Seed: Transport as critical component of nation's infrastructure
+Seed: Significant role in planning and management of transport infrastructure and services
+Seed: Crucial role in promoting road safety
+Seed: Rail infrastructure
+[Transport as critical component of nation's infrastructure]: Resource management act 1991 --[Recognizes]-> Transport as critical component of nation's infrastructure 0.8075459003448486
+[Transport as critical component of nation's infrastructure]: Teia --[Governed by]-> Resource management act 1991 0.7773156762123108
+[Transport as critical component of nation's infrastructure]: Teia --[Evaluates]-> Potential effects of transport projects 0.7828806042671204
+[Transport as critical component of nation's infrastructure]: Teia --[Includes]-> Economic factors 0.7188557386398315
+[Transport as critical component of nation's infrastructure]: Regional transport planning --[Considers]-> Economic factors 0.7705471515655518
+[Transport as critical component of nation's infrastructure]: Regional transport planning --[Aims to]-> Meet mobility needs of communities 0.7923985719680786
+[Transport as critical component of nation's infrastructure]: Regional transport planning --[Is]-> Critical component 0.8066506385803223
+[Transport as critical component of nation's infrastructure]: Regional transport planning --[Considers]-> Environmental factors 0.7969182729721069
+[Transport as critical component of nation's infrastructure]: Regional transport planning --[Considers]-> Social factors 0.7841171622276306
+[Transport as critical component of nation's infrastructure]: Land transport management act 2003 --[Governs]-> Regional transport planning 0.7925122976303101
+[Transport as critical component of nation's infrastructure]: Regional transport planning --[Involves]-> Coordination of transport policies 0.8048627376556396
+[Transport as critical component of nation's infrastructure]: New zealand --[Has]-> Regional transport planning 0.7880148887634277
+[Transport as critical component of nation's infrastructure]: Regional transport planning --[Involves]-> Coordination of transport services 0.7968440651893616
+[Transport as critical component of nation's infrastructure]: Regional transport planning --[Involves]-> Coordination of transport infrastructure 0.8064817190170288
+[Transport as critical component of nation's infrastructure]: Teia --[Includes]-> Ecological factors 0.7355451583862305
+[Transport as critical component of nation's infrastructure]: Teia --[Used in]-> New zealand 0.7209267616271973
+[Transport as critical component of nation's infrastructure]: New zealand --[Has]-> Transport projects 0.7951152324676514
+[Transport as critical component of nation's infrastructure]: New zealand transport agency --[Oversees]-> Transport projects 0.7992238998413086
+[Transport as critical component of nation's infrastructure]: Auckland --[Has]-> Transport projects 0.769558310508728
+[Transport as critical component of nation's infrastructure]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.8005605340003967
+[Transport as critical component of nation's infrastructure]: New zealand --[Has]-> Diverse transport network 0.7831310033798218
+[Transport as critical component of nation's infrastructure]: New zealand --[Has]-> Post-incident review 0.7142429947853088
+[Transport as critical component of nation's infrastructure]: Post-incident review --[Crucial for]-> Improving operational efficiency 0.7436127662658691
+[Transport as critical component of nation's infrastructure]: Post-incident review --[Crucial for]-> Fostering culture of continuous improvement 0.7359502911567688
+[Transport as critical component of nation's infrastructure]: Post-incident review --[Aimed at]-> Recommending measures 0.7222403287887573
+[Transport as critical component of nation's infrastructure]: Post-incident review --[Crucial for]-> Enhancing safety 0.734109103679657
+[Transport as critical component of nation's infrastructure]: Post-incident review --[Is]-> Systematic process 0.7177784442901611
+[Transport as critical component of nation's infrastructure]: Post-incident review --[Conducted]-> Following an incident 0.7130942344665527
+[Transport as critical component of nation's infrastructure]: Post-incident review --[Aimed at]-> Analyzing circumstances 0.7180379629135132
+[Transport as critical component of nation's infrastructure]: Post-incident review --[Aimed at]-> Identifying contributing factors 0.7291658520698547

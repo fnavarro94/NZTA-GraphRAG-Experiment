@@ -1,0 +1,11 @@
+How much was spent on public consultation for the Golden Mile upgrades by July 2020?
+None
+Seed: itemised breakdown of all spending on public consultation for Golden Mile upgrades
+Seed: information pertaining to the Golden Mile revitalisation project contract
+Seed: information on Golden Mile revitalisation project contract
+Seed: Golden Mile revitalisation project
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[ITEMISED]-> itemised breakdown of all spending on public consultation for Golden Mile upgrades 0.8785224556922913
+[information pertaining to the Golden Mile revitalisation project contract]: Waka Kotahi --[WITHHOLDS]-> information pertaining to the Golden Mile revitalisation project contract 0.8042905926704407
+[information on Golden Mile revitalisation project contract]: Waka Kotahi --[WITHHOLDS]-> information on Golden Mile revitalisation project contract 0.8095333576202393
+[Golden Mile revitalisation project]: Golden Mile revitalisation project --[IS_PART_OF]-> Let's Get Wellington Moving 0.8360902667045593
+[Golden Mile revitalisation project]: Golden Mile revitalisation project --[IS_IN_NEGOTIATION]-> main works contract 0.8279134035110474

@@ -1,0 +1,28 @@
+Which notable transport project in New Zealand, alongside the City Rail Link located to the north of the city known for its Metlink services, which focus on providing comprehensive coverage across the region, has undergone the process with the acronym used in New Zealand to assess the environmental impacts of transport projects?
+None
+Seed: Transport link between wellington and northern regions of north island
+Seed: Regional transport initiatives
+Seed: New zealand's transport network
+Seed: Addressing transport challenges in auckland
+[Transport link between wellington and northern regions of north island]: New zealand --[Has]-> Transport projects 0.8739697933197021
+[Transport link between wellington and northern regions of north island]: Transport environmental impact assessments --[Are critical tools used in]-> New zealand 0.8676375150680542
+[Transport link between wellington and northern regions of north island]: New zealand --[Has]-> Transport infrastructure development 0.8589389324188232
+[Transport link between wellington and northern regions of north island]: Sustainable urban transport --[Key component]-> New zealand 0.8568518757820129
+[Transport link between wellington and northern regions of north island]: New zealand --[Has]-> Transport infrastructure 0.8554239273071289
+[Transport link between wellington and northern regions of north island]: Sustainable urban transport --[Is]-> New zealand 0.8553556203842163
+[Transport link between wellington and northern regions of north island]: New zealand --[Has]-> Rail transport 0.8542808294296265
+[Regional transport initiatives]: New zealand --[Has]-> Transport projects 0.8739697933197021
+[Regional transport initiatives]: Transport environmental impact assessments --[Are critical tools used in]-> New zealand 0.8676375150680542
+[Regional transport initiatives]: New zealand --[Has]-> Transport infrastructure development 0.8589389324188232
+[Regional transport initiatives]: Sustainable urban transport --[Key component]-> New zealand 0.8568518757820129
+[Regional transport initiatives]: New zealand --[Has]-> Transport infrastructure 0.8554239273071289
+[Regional transport initiatives]: Sustainable urban transport --[Is]-> New zealand 0.8553556203842163
+[Regional transport initiatives]: New zealand --[Has]-> Rail transport 0.8542808294296265
+[New zealand's transport network]: Road infrastructure projects --[Play crucial role in]-> New zealand's transport network 0.8606523275375366
+[Addressing transport challenges in auckland]: Auckland city rail link --[Is]-> Significant infrastructure project 0.8690183162689209
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Encompasses]-> Range of projects 0.8574880361557007
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Development of comprehensive transport network 0.8510354161262512
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Is]-> Strategic initiative 0.8492565751075745
+[Addressing transport challenges in auckland]: Auckland city rail link --[Funded by]-> Public-private partnerships 0.8470041751861572
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On promoting sustainable transport solutions 0.8458153605461121
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Promote sustainable transport options 0.8449883460998535

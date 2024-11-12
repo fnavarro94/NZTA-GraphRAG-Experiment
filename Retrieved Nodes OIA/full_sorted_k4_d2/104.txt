@@ -1,0 +1,30 @@
+What are the paid administration fees for unpaid tolls from 2017 to 2019?
+None
+Seed: unpaid tolls
+Seed: administration fee
+Seed: paid toll revenues
+Seed: toll tariffs
+[unpaid tolls]: toll roads --[INCLUDE]-> administration fee 0.8912104964256287
+[unpaid tolls]: toll payment notice --[CONTAINS]-> unpaid tolls 0.883175253868103
+[unpaid tolls]: administration fee --[APPLIED_TO]-> toll payment notice 0.8823209404945374
+[unpaid tolls]: unpaid tolls --[ASSOCIATED_WITH]-> toll roads 0.8675546050071716
+[unpaid tolls]: toll roads --[COLLECTS]-> toll tariffs 0.846647322177887
+[unpaid tolls]: New Zealand Transport Agency --[ISSUES]-> toll payment notice 0.8437414169311523
+[unpaid tolls]: New Zealand Transport Agency --[MANAGES]-> toll roads 0.8296980857849121
+[administration fee]: toll roads --[INCLUDE]-> administration fee 0.8912104964256287
+[administration fee]: toll payment notice --[CONTAINS]-> unpaid tolls 0.883175253868103
+[administration fee]: administration fee --[APPLIED_TO]-> toll payment notice 0.8823209404945374
+[administration fee]: unpaid tolls --[ASSOCIATED_WITH]-> toll roads 0.8675546050071716
+[administration fee]: toll roads --[COLLECTS]-> toll tariffs 0.846647322177887
+[administration fee]: New Zealand Transport Agency --[ISSUES]-> toll payment notice 0.8437414169311523
+[administration fee]: New Zealand Transport Agency --[MANAGES]-> toll roads 0.8296980857849121
+[paid toll revenues]: paid toll revenues --[AVAILABLE_IN]-> Annual Reports 0.8574235439300537
+[paid toll revenues]: Annual Reports --[CONTAINS]-> paid toll revenues 0.8535614013671875
+[paid toll revenues]: Waka Kotahi --[PUBLISHES]-> Annual Reports 0.7456504702568054
+[toll tariffs]: toll roads --[INCLUDE]-> administration fee 0.8912104964256287
+[toll tariffs]: unpaid tolls --[ASSOCIATED_WITH]-> toll roads 0.8675546050071716
+[toll tariffs]: toll tariffs --[SPENT_ON]-> road maintenance 0.8564249873161316
+[toll tariffs]: tolls --[USED_FOR]-> road maintenance 0.8511945009231567
+[toll tariffs]: road maintenance --[FUNDED_BY]-> toll tariffs 0.8511849045753479
+[toll tariffs]: toll tariffs --[USED_FOR]-> road maintenance 0.8501385450363159
+[toll tariffs]: toll roads --[COLLECTS]-> toll tariffs 0.846647322177887

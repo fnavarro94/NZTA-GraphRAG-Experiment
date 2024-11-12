@@ -1,0 +1,36 @@
+When will the full report from the hidden texting camera trial be made publicly available?
+None
+Seed: WK Exec summary of the TG claim for review
+Seed: public awareness campaign
+Seed: public interest in seeking and receiving confidential legal advice
+Seed: trial
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[FALLS_IN_SCOPE]-> WK Exec summary of the TG claim for review 0.7586785554885864
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7255793809890747
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[BASED]-> Wellington 0.7268843650817871
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7473157048225403
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.753099262714386
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7354739904403687
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.721459150314331
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7249741554260254
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.718214750289917
+[WK Exec summary of the TG claim for review]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7201793193817139
+[WK Exec summary of the TG claim for review]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7195836305618286
+[WK Exec summary of the TG claim for review]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.756716251373291
+[WK Exec summary of the TG claim for review]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7386347055435181
+[WK Exec summary of the TG claim for review]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7399159669876099
+[WK Exec summary of the TG claim for review]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7544596195220947
+[WK Exec summary of the TG claim for review]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7511351108551025
+[WK Exec summary of the TG claim for review]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.752739667892456
+[WK Exec summary of the TG claim for review]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7411061525344849
+[WK Exec summary of the TG claim for review]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7420012354850769
+[WK Exec summary of the TG claim for review]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7162867188453674
+[WK Exec summary of the TG claim for review]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7238037586212158
+[WK Exec summary of the TG claim for review]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.771209180355072
+[WK Exec summary of the TG claim for review]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7137985825538635
+[WK Exec summary of the TG claim for review]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7409594058990479
+[WK Exec summary of the TG claim for review]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7508519887924194
+[WK Exec summary of the TG claim for review]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.745580792427063
+[WK Exec summary of the TG claim for review]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7095963358879089
+[WK Exec summary of the TG claim for review]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7332825064659119
+[WK Exec summary of the TG claim for review]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7472327947616577
+[WK Exec summary of the TG claim for review]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7268307209014893

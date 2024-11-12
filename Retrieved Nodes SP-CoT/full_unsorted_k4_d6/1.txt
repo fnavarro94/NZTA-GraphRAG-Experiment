@@ -1,0 +1,36 @@
+Who manages the State Highway network in the country known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns?
+None
+Seed: Significant role in planning and management of transport infrastructure and services
+Seed: Socio-economic indicators
+Seed: Demand for efficient transportation systems
+Seed: Critical aspect of transportation planning
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Plays]-> Significant role in planning and management of transport infrastructure and services 0.8423475027084351
+[Significant role in planning and management of transport infrastructure and services]: Teia --[Governed by]-> Resource management act 1991 0.7881237268447876
+[Significant role in planning and management of transport infrastructure and services]: Teia --[Evaluates]-> Potential effects of transport projects 0.7963464260101318
+[Significant role in planning and management of transport infrastructure and services]: Teia --[Includes]-> Economic factors 0.746375322341919
+[Significant role in planning and management of transport infrastructure and services]: Regional transport planning --[Considers]-> Economic factors 0.8216918706893921
+[Significant role in planning and management of transport infrastructure and services]: Regional transport planning --[Aims to]-> Meet mobility needs of communities 0.8195255994796753
+[Significant role in planning and management of transport infrastructure and services]: Regional transport planning --[Is]-> Critical component 0.8374351859092712
+[Significant role in planning and management of transport infrastructure and services]: Regional transport planning --[Considers]-> Environmental factors 0.8153041005134583
+[Significant role in planning and management of transport infrastructure and services]: Environmental factors --[Explore]-> How weather conditions influence road user behavior 0.7924872636795044
+[Significant role in planning and management of transport infrastructure and services]: Environmental factors --[Explore]-> How road infrastructure quality influences road user behavior 0.795870840549469
+[Significant role in planning and management of transport infrastructure and services]: Regional transport planning --[Considers]-> Social factors 0.8309929966926575
+[Significant role in planning and management of transport infrastructure and services]: Teia --[Includes]-> Social factors 0.7446610927581787
+[Significant role in planning and management of transport infrastructure and services]: Land transport management act 2003 --[Governs]-> Regional transport planning 0.8210753202438354
+[Significant role in planning and management of transport infrastructure and services]: Land transport management act 2003 --[Aims to]-> Provide framework for sustainable development 0.8109872937202454
+[Significant role in planning and management of transport infrastructure and services]: Land transport management act 2003 --[Provides for]-> Establishment of national land transport fund 0.7847849726676941
+[Significant role in planning and management of transport infrastructure and services]: Land transport management act 2003 --[Enacted on]-> 1 july 2004 0.8000937700271606
+[Significant role in planning and management of transport infrastructure and services]: Land transport management act 2003 --[Is]-> Key piece of legislation 0.8045901656150818
+[Significant role in planning and management of transport infrastructure and services]: Land transport management act 2003 --[Has been updated]-> To incorporate principles of sustainability 0.7953567504882812
+[Significant role in planning and management of transport infrastructure and services]: Land transport management act 2003 --[Has undergone]-> Several amendments to address emerging transport challenges 0.7983514070510864
+[Significant role in planning and management of transport infrastructure and services]: Land transport management act 2003 --[Mandates]-> Involvement of various stakeholders in planning and decision-making processes 0.7949825525283813
+[Significant role in planning and management of transport infrastructure and services]: Land transport management act 2003 --[Establishes]-> Framework for development of regional land transport plans 0.8131955862045288
+[Significant role in planning and management of transport infrastructure and services]: Land transport management act 2003 --[Emphasizes]-> Importance of integrating land transport planning with land use planning 0.7977625727653503
+[Significant role in planning and management of transport infrastructure and services]: National land transport programme --[Established under]-> Land transport management act 2003 0.802452564239502
+[Significant role in planning and management of transport infrastructure and services]: Wellington regional public transport plan --[Established under]-> Land transport management act 2003 0.7913894653320312
+[Significant role in planning and management of transport infrastructure and services]: National land transport fund --[Established under]-> Land transport management act 2003 0.7953654527664185
+[Significant role in planning and management of transport infrastructure and services]: Waka kotahi nz transport agency --[Established under]-> Land transport management act 2003 0.7941480875015259
+[Significant role in planning and management of transport infrastructure and services]: Waka kotahi --[Established under]-> Land transport management act 2003 0.7736092805862427
+[Significant role in planning and management of transport infrastructure and services]: New zealand --[Has]-> Land transport management act 2003 0.8000648617744446
+[Significant role in planning and management of transport infrastructure and services]: Land transport management act 2003 --[Marked]-> Shift towards integrated transport planning 0.8181743621826172
+[Significant role in planning and management of transport infrastructure and services]: Land transport management act 2003 --[Governs]-> Public transport services 0.8012267351150513

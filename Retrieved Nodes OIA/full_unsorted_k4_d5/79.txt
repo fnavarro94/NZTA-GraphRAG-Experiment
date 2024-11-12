@@ -1,0 +1,36 @@
+What repair options are being considered for Kōpū Hill Road, SH25A?
+None
+Seed: committee managing the Kopa Hill Road repair process
+Seed: State Highway 25A Rebuild Project
+Seed: request for pothole repair cost information
+Seed: information on state highway maintenance
+[committee managing the Kopa Hill Road repair process]: committee managing the Kopa Hill Road repair process --[MANAGES]-> New Zealand Transport Agency 0.8485589027404785
+[committee managing the Kopa Hill Road repair process]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7797366380691528
+[committee managing the Kopa Hill Road repair process]: New Zealand Transport Agency --[BASED]-> Wellington 0.7776697874069214
+[committee managing the Kopa Hill Road repair process]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7788289189338684
+[committee managing the Kopa Hill Road repair process]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.781571626663208
+[committee managing the Kopa Hill Road repair process]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7509918808937073
+[committee managing the Kopa Hill Road repair process]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.7348005175590515
+[committee managing the Kopa Hill Road repair process]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7419151067733765
+[committee managing the Kopa Hill Road repair process]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7686513066291809
+[committee managing the Kopa Hill Road repair process]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.7726955413818359
+[committee managing the Kopa Hill Road repair process]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7777460813522339
+[committee managing the Kopa Hill Road repair process]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7726184725761414
+[committee managing the Kopa Hill Road repair process]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7386829853057861
+[committee managing the Kopa Hill Road repair process]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.740801215171814
+[committee managing the Kopa Hill Road repair process]: Wellington --[CONTAINS]-> Private Bag 6995 0.7320923209190369
+[committee managing the Kopa Hill Road repair process]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7746869325637817
+[committee managing the Kopa Hill Road repair process]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7930376529693604
+[committee managing the Kopa Hill Road repair process]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.8008670210838318
+[committee managing the Kopa Hill Road repair process]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7897464036941528
+[committee managing the Kopa Hill Road repair process]: 50 Victoria Street --[IN]-> Wellington 0.7595010995864868
+[committee managing the Kopa Hill Road repair process]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.7910328507423401
+[committee managing the Kopa Hill Road repair process]: New Zealand Transport Agency --[LOCATED]-> 50 Victoria Street 0.7905727624893188
+[committee managing the Kopa Hill Road repair process]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.8017051219940186
+[committee managing the Kopa Hill Road repair process]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7968603372573853
+[committee managing the Kopa Hill Road repair process]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7606865167617798
+[committee managing the Kopa Hill Road repair process]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7586661577224731
+[committee managing the Kopa Hill Road repair process]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7658480405807495
+[committee managing the Kopa Hill Road repair process]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7750552892684937
+[committee managing the Kopa Hill Road repair process]: New Zealand Transport Agency --[CONTACT]-> Wellington 6141 0.7816034555435181
+[committee managing the Kopa Hill Road repair process]: Wellington 6141 --[POSTAL_ADDRESS]-> New Zealand 0.7299213409423828

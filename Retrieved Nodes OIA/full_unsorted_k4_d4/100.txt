@@ -1,0 +1,36 @@
+How many crashes occurred at the Kiddle Drive/Arrowsmith Avenue intersection in Taupō after October 2019?
+None
+Seed: intersection of Kiddle Drive/Arrowsmith Ave
+Seed: Kiddle Drive/Arrowsmith Ave Taupō
+Seed: Road Traffic Crashes
+Seed: Traffic Crash Report
+[intersection of Kiddle Drive/Arrowsmith Ave]: Data --[LIMITED]-> intersection of Kiddle Drive/Arrowsmith Ave 0.8450238108634949
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[PROVIDES]-> Data 0.7695342898368835
+[intersection of Kiddle Drive/Arrowsmith Ave]: Deceased Drivers --[ASSOCIATED_WITH]-> Crash Analysis System 0.7872285842895508
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[ASSOCIATED_WITH]-> Deceased Drivers 0.789466917514801
+[intersection of Kiddle Drive/Arrowsmith Ave]: Deceased Drivers --[ASSOCIATED_WITH]-> Fatal Crashes 0.797631025314331
+[intersection of Kiddle Drive/Arrowsmith Ave]: Fatal Crashes --[ASSOCIATED_WITH]-> Deceased Drivers 0.8029513359069824
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[UPDATED]-> Traffic Crash Report 0.8113682866096497
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[PROVIDES]-> Traffic Crash Report 0.7930148839950562
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[ASSOCIATED_WITH]-> Traffic Crash Report 0.7891193628311157
+[intersection of Kiddle Drive/Arrowsmith Ave]: Traffic Crash Report --[ASSOCIATED_WITH]-> Crash Analysis System 0.7954323291778564
+[intersection of Kiddle Drive/Arrowsmith Ave]: Traffic Crash Report --[PROVIDED_BY]-> NZ Police 0.812217116355896
+[intersection of Kiddle Drive/Arrowsmith Ave]: Traffic Crash Report --[RECEIVED]-> NZ Police 0.7943524122238159
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[UPDATES]-> Traffic Crash Report 0.8011234998703003
+[intersection of Kiddle Drive/Arrowsmith Ave]: CAS --[IS_UPDATING]-> Traffic Crash Report 0.7833325862884521
+[intersection of Kiddle Drive/Arrowsmith Ave]: Traffic Crash Report --[CONTAINS]-> Crash Data 0.7978032827377319
+[intersection of Kiddle Drive/Arrowsmith Ave]: Traffic Crash Report --[PROVIDED_BY]-> New Zealand Police 0.8069351315498352
+[intersection of Kiddle Drive/Arrowsmith Ave]: Traffic Crash Report --[RECORDED_IN]-> Crash Analysis System 0.7829077839851379
+[intersection of Kiddle Drive/Arrowsmith Ave]: New Zealand Police --[SUBMITS]-> Traffic Crash Report 0.800463080406189
+[intersection of Kiddle Drive/Arrowsmith Ave]: Traffic Crash Report --[RECEIVED_FROM]-> NZ Police 0.7981708645820618
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[CONTAINS]-> Traffic Crash Report 0.7905568480491638
+[intersection of Kiddle Drive/Arrowsmith Ave]: Traffic Crash Report --[RECORDS]-> Crash Data 0.8052441477775574
+[intersection of Kiddle Drive/Arrowsmith Ave]: NZ Police --[PROVIDES]-> Traffic Crash Report 0.8037012815475464
+[intersection of Kiddle Drive/Arrowsmith Ave]: 2020 --[FATAL_CRASHES]-> Crash Analysis System 0.7983494997024536
+[intersection of Kiddle Drive/Arrowsmith Ave]: Road to Zero Strategy --[INITIATED]-> 2020 0.7633563876152039
+[intersection of Kiddle Drive/Arrowsmith Ave]: 2020 --[HAS_FATAL_CRASHES]-> 12 0.7944434881210327
+[intersection of Kiddle Drive/Arrowsmith Ave]: Roadside Drug Testing --[NOT_DONE]-> 2020 0.7619397044181824
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.7974053025245667
+[intersection of Kiddle Drive/Arrowsmith Ave]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7568796873092651
+[intersection of Kiddle Drive/Arrowsmith Ave]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.7909067273139954
+[intersection of Kiddle Drive/Arrowsmith Ave]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.7333256006240845

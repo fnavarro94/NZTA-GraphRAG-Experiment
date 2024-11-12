@@ -1,0 +1,36 @@
+What is the abbreviation for the agency that provides policy advice, oversees the transport sector, and is in addition to Waka Kotahi?
+None
+Seed: Waka kotahi nz transport agency
+Seed: Transport policies
+Seed: Transport initiatives
+Seed: Active transport initiatives
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Responsible for]-> Managing national land transport system 0.8856600522994995
+[Waka kotahi nz transport agency]: National land transport programme --[Developed by]-> Waka kotahi nz transport agency 0.8547705411911011
+[Waka kotahi nz transport agency]: National land transport programme --[Is]-> Key component of new zealand's transport planning framework 0.780089259147644
+[Waka kotahi nz transport agency]: National land transport programme --[Updated]-> Every three years 0.7605699300765991
+[Waka kotahi nz transport agency]: National land transport programme --[Promotes]-> Environmental sustainability 0.7531901001930237
+[Waka kotahi nz transport agency]: Government objectives --[Include]-> Environmental sustainability 0.7500313520431519
+[Waka kotahi nz transport agency]: Waka kotahi --[Contributes to]-> Environmental sustainability 0.8457638025283813
+[Waka kotahi nz transport agency]: Sustainable urban transport --[Key component]-> Environmental sustainability 0.765249490737915
+[Waka kotahi nz transport agency]: Vehicle technology advancements --[Enhanced]-> Environmental sustainability 0.738317608833313
+[Waka kotahi nz transport agency]: Environmental sustainability --[Has become]-> Key consideration in road infrastructure development 0.7232487201690674
+[Waka kotahi nz transport agency]: Smart mobility solutions --[Address]-> Environmental sustainability 0.7273514270782471
+[Waka kotahi nz transport agency]: New zealand --[Address]-> Environmental sustainability 0.7551811337471008
+[Waka kotahi nz transport agency]: National land transport programme --[Supports]-> Economic growth 0.7550822496414185
+[Waka kotahi nz transport agency]: Government objectives --[Include]-> Economic growth 0.748989462852478
+[Waka kotahi nz transport agency]: Kiwirail group --[Promotes]-> Economic growth 0.7466235160827637
+[Waka kotahi nz transport agency]: Waka kotahi --[Contributes to]-> Economic growth 0.8462893962860107
+[Waka kotahi nz transport agency]: Auckland western ring route --[Supports]-> Economic growth 0.7546970844268799
+[Waka kotahi nz transport agency]: Transport infrastructure development --[Is crucial for]-> Economic growth 0.7486396431922913
+[Waka kotahi nz transport agency]: Freight transport --[Essential for]-> Economic growth 0.7462834119796753
+[Waka kotahi nz transport agency]: Road infrastructure --[Is vital for]-> Economic growth 0.7293475866317749
+[Waka kotahi nz transport agency]: National land transport programme --[Is]-> Key framework 0.7728279232978821
+[Waka kotahi nz transport agency]: National land transport programme --[Aims to]-> Enhance sustainability 0.7629120349884033
+[Waka kotahi nz transport agency]: National land transport programme --[Aims to]-> Enhance efficiency 0.757361888885498
+[Waka kotahi nz transport agency]: National land transport programme --[Funded through]-> Government revenue 0.778069257736206
+[Waka kotahi nz transport agency]: National land transport programme --[Prioritizes projects]-> Align with regional transport plans 0.7571918964385986
+[Waka kotahi nz transport agency]: National land transport programme --[Aims to]-> Enhance safety 0.7618151903152466
+[Waka kotahi nz transport agency]: Vehicle safety technology --[Designed to]-> Enhance safety 0.7429602146148682
+[Waka kotahi nz transport agency]: National land transport programme --[Established under]-> Land transport management act 2003 0.7732020616531372
+[Waka kotahi nz transport agency]: Land transport management act 2003 --[Aims to]-> Provide framework for sustainable development 0.7554252743721008
+[Waka kotahi nz transport agency]: Land transport management act 2003 --[Provides for]-> Establishment of national land transport fund 0.7584238052368164

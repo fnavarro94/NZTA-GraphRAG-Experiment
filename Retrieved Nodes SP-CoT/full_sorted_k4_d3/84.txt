@@ -1,0 +1,29 @@
+What is the official designation of the scenic route in the country where the infrastructure project in Christchurch, which aims to improve access to the southern suburbs and the city center following the earthquakes in 2010 and 2011, is located and is known for attracting both domestic and international tourists?
+None
+Seed: Significant transport infrastructure project
+Seed: Critical link between southern suburbs and central business district
+Seed: Scenic routes such as the tranzalpine and the northern explorer
+Seed: Crucial role in tourism
+[Significant transport infrastructure project]: Christchurch southern motorway --[Is]-> Significant transport infrastructure project 0.8771300911903381
+[Significant transport infrastructure project]: Christchurch --[Has]-> Road infrastructure 0.8746694326400757
+[Significant transport infrastructure project]: Christchurch --[Is]-> Transport hub 0.8604385852813721
+[Significant transport infrastructure project]: Christchurch --[Focusing on]-> Enhancing transport infrastructure 0.854806661605835
+[Significant transport infrastructure project]: Christchurch southern motorway --[Was developed]-> To improve access to southern suburbs and city center 0.8522080183029175
+[Significant transport infrastructure project]: Christchurch southern motorway --[Serves as]-> Critical link between southern suburbs and central business district 0.8509116172790527
+[Significant transport infrastructure project]: Christchurch --[Connected by]-> State highways 0.8499673008918762
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Is]-> Significant transport infrastructure project 0.8771300911903381
+[Critical link between southern suburbs and central business district]: Christchurch --[Has]-> Road infrastructure 0.8746694326400757
+[Critical link between southern suburbs and central business district]: Christchurch --[Is]-> Transport hub 0.8604385852813721
+[Critical link between southern suburbs and central business district]: Christchurch --[Focusing on]-> Enhancing transport infrastructure 0.854806661605835
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Was developed]-> To improve access to southern suburbs and city center 0.8522080183029175
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Serves as]-> Critical link between southern suburbs and central business district 0.8509116172790527
+[Critical link between southern suburbs and central business district]: Christchurch --[Connected by]-> State highways 0.8499673008918762
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Showcase]-> New zealand's stunning landscapes 0.8097681999206543
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Include]-> Scenic routes such as the tranzalpine and the northern explorer 0.7879317998886108
+[Crucial role in tourism]: Auckland --[Has]-> Transport infrastructure 0.8290773630142212
+[Crucial role in tourism]: Auckland --[Has]-> Transport projects 0.8280717134475708
+[Crucial role in tourism]: Auckland --[Has]-> City rail link project 0.8279852867126465
+[Crucial role in tourism]: Auckland --[Has]-> Significant transport hub 0.8236256837844849
+[Crucial role in tourism]: New zealand --[Has]-> Transport network 0.821986198425293
+[Crucial role in tourism]: Auckland --[Known for]-> Significant road network 0.8219413757324219
+[Crucial role in tourism]: Auckland --[Is]-> Major transport hub 0.8202901482582092

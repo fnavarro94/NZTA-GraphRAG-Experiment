@@ -1,0 +1,34 @@
+Under which regional council does the entity responsible for planning and delivering public transport services in Auckland operate?
+None
+Seed: Regional councils and local authorities
+Seed: Local councils and new zealand transport agency
+Seed: Local government initiatives
+Seed: Regional transport initiatives
+[Regional councils and local authorities]: National land transport programme --[Is]-> Key component of new zealand's transport planning framework 0.8358884453773499
+[Regional councils and local authorities]: Waikato expressway --[Is part of]-> National land transport programme 0.8257021307945251
+[Regional councils and local authorities]: National land transport programme --[Developed in consultation with]-> Regional councils and local authorities 0.8255428075790405
+[Regional councils and local authorities]: National land transport programme --[Developed by]-> Waka kotahi nz transport agency 0.8207391500473022
+[Regional councils and local authorities]: National land transport programme --[Is]-> Developed through collaborative process involving local councils 0.8163987994194031
+[Regional councils and local authorities]: National land transport programme --[Is]-> Developed through collaborative process involving regional transport committees 0.8108280897140503
+[Regional councils and local authorities]: National land transport programme --[Prioritizes projects]-> Align with regional transport plans 0.8098698854446411
+[Local councils and new zealand transport agency]: Greater wellington regional council --[Responsible for]-> Managing public transport services 0.898626446723938
+[Local councils and new zealand transport agency]: Wellington --[Transport system managed by]-> Greater wellington regional council 0.8760177493095398
+[Local councils and new zealand transport agency]: Greater wellington regional council --[Oversees]-> Integrated transport system 0.8756875991821289
+[Local councils and new zealand transport agency]: Wellington public transport plan --[Developed by]-> Greater wellington regional council 0.8755894899368286
+[Local councils and new zealand transport agency]: Greater wellington regional council --[Collaborates with]-> Local councils and new zealand transport agency 0.8677164912223816
+[Local councils and new zealand transport agency]: Greater wellington regional council --[Responsible for]-> Governance and management of wellington region 0.8544023036956787
+[Local councils and new zealand transport agency]: Greater wellington regional council --[Is]-> Regional local government authority 0.8515661954879761
+[Local government initiatives]: Auckland transport plan --[Developed by]-> Auckland transport 0.8873217105865479
+[Local government initiatives]: Auckland transport plan --[Includes]-> Active transport initiatives 0.8745516538619995
+[Local government initiatives]: Auckland transport plan --[Aligns with]-> Local government initiatives 0.8744151592254639
+[Local government initiatives]: Auckland transport plan --[Includes]-> Public transport improvements 0.8702751994132996
+[Local government initiatives]: Auckland transport plan --[Is]-> Strategic framework 0.8679617047309875
+[Local government initiatives]: Auckland transport plan --[Aligns with]-> Broader national transport policies 0.8661690354347229
+[Local government initiatives]: Auckland transport plan --[Includes]-> Sustainability and resilience 0.8616039752960205
+[Regional transport initiatives]: New zealand transport agency --[Collaborates with]-> Local councils 0.8753365874290466
+[Regional transport initiatives]: New zealand transport agency --[Works with]-> Local councils 0.871807336807251
+[Regional transport initiatives]: Community transport services --[Operated by]-> Local councils 0.8538989424705505
+[Regional transport initiatives]: Local councils --[Develop]-> Regional land transport plans 0.8532309532165527
+[Regional transport initiatives]: Waka kotahi nz transport agency --[Works collaboratively with]-> Local councils 0.8518006801605225
+[Regional transport initiatives]: Local councils --[Contribute to]-> Regional transport initiatives 0.8460637927055359
+[Regional transport initiatives]: Regional transport committees --[Consist of]-> Local councils 0.84319007396698

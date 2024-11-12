@@ -1,0 +1,11 @@
+How much has been spent on heavy vehicle certification reviews and inspections as of February 2020?
+None
+Seed: 7,162 Clean Car fees
+Seed: audits under s198 of the Land Transport Act
+Seed: Audits under s198 of the Land Transport Act
+Seed: paid toll revenues
+[7,162 Clean Car fees]: Waka Kotahi --[RECEIVED]-> 7,162 Clean Car fees 0.8075287342071533
+[audits under s198 of the Land Transport Act]: New Zealand Transport Agency --[CONDUCTS]-> audits under s198 of the Land Transport Act 0.7947156429290771
+[Audits under s198 of the Land Transport Act]: New Zealand Transport Agency --[AUDITS]-> Audits under s198 of the Land Transport Act 0.8004095554351807
+[paid toll revenues]: paid toll revenues --[AVAILABLE_IN]-> Annual Reports 0.8142802119255066
+[paid toll revenues]: Annual Reports --[CONTAINS]-> paid toll revenues 0.8129435777664185

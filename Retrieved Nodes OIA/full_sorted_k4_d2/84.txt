@@ -1,0 +1,32 @@
+Where can information on driver licensing trends and related statistics be found?
+None
+Seed: information on vehicle and driver registration and licensing
+Seed: information on visiting drivers survey
+Seed: Speed and Drunk Driving Enforcement
+Seed: summary of the visiting drivers survey
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[PROVIDES]-> information on vehicle and driver registration and licensing 0.8537337779998779
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[PROVIDES]-> information on visiting drivers survey 0.8504960536956787
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[ASSOCIATED]-> Review of 850 open compliance files 0.8322314620018005
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[POLICY]-> publishing responses on website 0.8298922777175903
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[PROVIDES]-> Vehicle Inspection Data 0.8246744275093079
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[PROVIDES]-> Transport Data 0.8235971927642822
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[PROVIDES]-> transport data 0.8235971927642822
+[information on visiting drivers survey]: David Williams --[REQUESTS]-> information on visiting drivers survey 0.8662194013595581
+[information on visiting drivers survey]: New Zealand Transport Agency --[PROVIDES]-> information on vehicle and driver registration and licensing 0.8537337779998779
+[information on visiting drivers survey]: New Zealand Transport Agency --[PROVIDES]-> information on visiting drivers survey 0.8504960536956787
+[information on visiting drivers survey]: New Zealand Transport Agency --[ASSOCIATED]-> Review of 850 open compliance files 0.8322314620018005
+[information on visiting drivers survey]: New Zealand Transport Agency --[POLICY]-> publishing responses on website 0.8298922777175903
+[information on visiting drivers survey]: New Zealand Transport Agency --[PROVIDES]-> Vehicle Inspection Data 0.8246744275093079
+[information on visiting drivers survey]: New Zealand Transport Agency --[PROVIDES]-> transport data 0.8235971927642822
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[FOCUSES_ON]-> Restraints, Impairment, Distraction, Speed 0.8042842745780945
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[PROVIDES]-> https://www.nzta.govt.nz/assets/resources/road-policing-programme/docs/rpp-2021-24.pdf 0.7997173070907593
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[DOUBLES]-> Speed and Drunk Driving Enforcement 0.7957023978233337
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[PROVIDES]-> Road Policing Activities 0.7659034729003906
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[ALLOCATES]-> $1.24 billion 0.7626876831054688
+[summary of the visiting drivers survey]: questions and responses --[FROM]-> NZ Transport Agency 0.8295154571533203
+[summary of the visiting drivers survey]: summary of the visiting drivers survey --[AVAILABLE]-> www.saferjourneys.govt.nz/action-plans/signature-programme/ 0.8287486433982849
+[summary of the visiting drivers survey]: NZ Transport Agency --[DECLINE]-> summary of the visiting drivers survey 0.8214966654777527
+[summary of the visiting drivers survey]: NZ Transport Agency --[PROVIDES]-> transport data 0.8211485147476196
+[summary of the visiting drivers survey]: crash data --[RELATES_TO]-> NZ Transport Agency 0.8099435567855835
+[summary of the visiting drivers survey]: NZ Transport Agency --[PROVIDES]-> 23 documents 0.8073391914367676
+[summary of the visiting drivers survey]: full and correct crash records --[AVAILABLE]-> NZ Transport Agency 0.8049034476280212

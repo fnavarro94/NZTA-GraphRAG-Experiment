@@ -1,0 +1,36 @@
+What city does State Highway 3 (SH3) connect to the western regions from, which is located at the southern end of the Waikato Expressway, improving travel times and safety to Auckland?
+None
+Seed: Waikato expressway
+Seed: State highway 3
+Seed: Significant transport corridor
+Seed: City to waikato region
+[Waikato expressway]: Waikato expressway --[Is part of]-> National land transport programme 0.8589686155319214
+[Waikato expressway]: National land transport programme --[Is]-> Key component of new zealand's transport planning framework 0.801365077495575
+[Waikato expressway]: National land transport programme --[Updated]-> Every three years 0.7662650346755981
+[Waikato expressway]: National land transport programme --[Promotes]-> Environmental sustainability 0.7289568185806274
+[Waikato expressway]: Government objectives --[Include]-> Environmental sustainability 0.7019863724708557
+[Waikato expressway]: Government objectives --[Include]-> Social equity 0.7156510353088379
+[Waikato expressway]: New zealand transport strategy --[Aligned with]-> Government objectives 0.813262939453125
+[Waikato expressway]: Government objectives --[Include]-> Economic growth 0.7099764943122864
+[Waikato expressway]: Waka kotahi --[Contributes to]-> Environmental sustainability 0.753402829170227
+[Waikato expressway]: Waka kotahi --[Has]-> Road to zero  strategy 0.7454006671905518
+[Waikato expressway]: Waka kotahi --[Is]-> Primary agency 0.7494587302207947
+[Waikato expressway]: Waka kotahi --[Is]-> Government agency 0.7570953369140625
+[Waikato expressway]: Waka kotahi --[Responsible for]-> Funding 0.7474522590637207
+[Waikato expressway]: Waka kotahi --[Responsible for]-> Management 0.7382511496543884
+[Waikato expressway]: Waka kotahi --[Responsible for]-> Planning 0.7553560137748718
+[Waikato expressway]: Waka kotahi --[Ensures]-> Investments 0.7439908981323242
+[Waikato expressway]: Waka kotahi --[Ensures]-> Transport system is effective and efficient 0.7827318906784058
+[Waikato expressway]: Waka kotahi --[Ensures]-> Sustainable transport network 0.7890198230743408
+[Waikato expressway]: Waka kotahi --[Ensures]-> Efficient transport network 0.7935583591461182
+[Waikato expressway]: Waka kotahi --[Ensures]-> Safe transport network 0.7899972796440125
+[Waikato expressway]: Waka kotahi --[Ensures]-> Sustainability goals 0.7387179136276245
+[Waikato expressway]: Waka kotahi --[Promotes]-> Public transit 0.7605912685394287
+[Waikato expressway]: Waka kotahi --[Promotes]-> Road safety initiatives 0.7909365892410278
+[Waikato expressway]: Waka kotahi --[Promotes]-> Public transport initiatives 0.781205952167511
+[Waikato expressway]: Waka kotahi --[Promotes]-> Walking 0.7490977048873901
+[Waikato expressway]: Waka kotahi --[Promotes]-> Cycling 0.7531587481498718
+[Waikato expressway]: Waka kotahi --[Aims to]-> Reduce injuries 0.7553442716598511
+[Waikato expressway]: Waka kotahi --[Aims to]-> Reduce greenhouse gas emissions 0.74909907579422
+[Waikato expressway]: Waka kotahi --[Aims to]-> Promote healthier lifestyles 0.7441771626472473
+[Waikato expressway]: Waka kotahi --[Aims to]-> Reduce fatalities 0.767619788646698

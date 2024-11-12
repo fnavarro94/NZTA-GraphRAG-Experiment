@@ -1,0 +1,25 @@
+How does the NZ Transport Agency handle privacy concerns when sharing information about driver tests?
+None
+Seed: individual privacy
+Seed: Place to which the public have access with a motor vehicle
+Seed: why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’
+Seed: information on visiting drivers survey
+[individual privacy]: driver's licence test statistics --[PROTECTED]-> individual privacy 0.8989565372467041
+[individual privacy]: individual privacy --[APPLIED]-> driver's licence test statistics 0.8852270841598511
+[individual privacy]: Driving Tests Data.xlsx --[PROVIDES]-> driver's licence test statistics 0.8310308456420898
+[Place to which the public have access with a motor vehicle]: Motor Vehicle --[ACCESS]-> Road 0.8022091388702393
+[Place to which the public have access with a motor vehicle]: Road --[DEFINITION]-> Place to which the public have access with a motor vehicle 0.7992560863494873
+[Place to which the public have access with a motor vehicle]: Road --[ACCESSIBLE_BY]-> Motor Vehicle 0.7948548197746277
+[Place to which the public have access with a motor vehicle]: CAS --[DEFINES]-> Road 0.7800260782241821
+[Place to which the public have access with a motor vehicle]: Road --[DEFINED_BY]-> CAS 0.778357207775116
+[Place to which the public have access with a motor vehicle]: Road --[DEFINITION]-> Public car park 0.7737711071968079
+[Place to which the public have access with a motor vehicle]: Crash --[MUST_OCCUR]-> Road 0.7689733505249023
+[why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’]: enquiry --[ASKS]-> why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’ 0.8794654011726379
+[why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’]: Transport Agency --[RECEIVED]-> enquiry 0.8534420728683472
+[information on visiting drivers survey]: New Zealand Transport Agency --[PROTECTS]-> privacy of natural persons 0.917756974697113
+[information on visiting drivers survey]: New Zealand Transport Agency --[PROVIDES]-> information on visiting drivers survey 0.9066222906112671
+[information on visiting drivers survey]: New Zealand Transport Agency --[PROTECTS]-> privacy of deceased natural persons 0.9065895676612854
+[information on visiting drivers survey]: New Zealand Transport Agency --[PROVIDES]-> information on vehicle and driver registration and licensing 0.8991758823394775
+[information on visiting drivers survey]: information --[PROVIDES]-> New Zealand Transport Agency 0.8950907588005066
+[information on visiting drivers survey]: New Zealand Transport Agency --[PROVIDES]-> information on road user charges 0.8912094831466675
+[information on visiting drivers survey]: New Zealand Transport Agency --[PROVIDES]-> withheld information 0.8907511830329895

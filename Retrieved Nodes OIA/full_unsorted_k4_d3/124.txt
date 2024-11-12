@@ -1,0 +1,36 @@
+When is the Detailed Business Case (DBC) for the North Auckland Rapid Transit Corridor expected to be available?
+None
+Seed: North Auckland Rapid Transit Corridor
+Seed: National Ticketing Solution request for proposal
+Seed: Rapid Transit Network Delivery Plan
+Seed: Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case
+[North Auckland Rapid Transit Corridor]: North Auckland Rapid Transit Corridor --[LOCATED]-> Auckland 0.887446939945221
+[North Auckland Rapid Transit Corridor]: State Highway 1 --[LOCATED_IN]-> Auckland 0.8183478713035583
+[North Auckland Rapid Transit Corridor]: road safety --[ENHANCED_BY]-> State Highway 1 0.756011962890625
+[North Auckland Rapid Transit Corridor]: State Highway 1 --[REPAIRS]-> potholes 0.7491337060928345
+[North Auckland Rapid Transit Corridor]: Road Safety Initiatives --[IMPROVES]-> State Highway 1 0.7542925477027893
+[North Auckland Rapid Transit Corridor]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7908964157104492
+[North Auckland Rapid Transit Corridor]: road maintenance --[OVERDUE]-> State Highway 1 0.7707954049110413
+[North Auckland Rapid Transit Corridor]: State Highway 1 --[OVERDUE]-> road maintenance 0.7736679911613464
+[North Auckland Rapid Transit Corridor]: State Highway 1 --[IN]-> Bay of Plenty 0.7588241696357727
+[North Auckland Rapid Transit Corridor]: State Highway 1 --[IMPROVES]-> safety 0.7506019473075867
+[North Auckland Rapid Transit Corridor]: 100M --[ALLOCATED_FOR]-> State Highway 1 0.8005417585372925
+[North Auckland Rapid Transit Corridor]: State Highway 1 --[IS_PART_OF]-> New Zealand 0.7994741201400757
+[North Auckland Rapid Transit Corridor]: road maintenance --[ASSOCIATED_WITH]-> State Highway 1 0.7564122080802917
+[North Auckland Rapid Transit Corridor]: funding for road maintenance --[FOR]-> State Highway 1 0.8017823696136475
+[North Auckland Rapid Transit Corridor]: State Highway 1 --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.8042659163475037
+[North Auckland Rapid Transit Corridor]: road safety initiatives --[TARGETS]-> State Highway 1 0.7700126767158508
+[North Auckland Rapid Transit Corridor]: public transport fare policy review --[AFFECTS]-> State Highway 1 0.7956594824790955
+[North Auckland Rapid Transit Corridor]: Waka Kotahi NZ Transport Agency --[MANAGES]-> State Highway 1 0.8053226470947266
+[North Auckland Rapid Transit Corridor]: State Highway 1 --[MAINTAINED_BY]-> New Zealand Transport Agency 0.803743839263916
+[North Auckland Rapid Transit Corridor]: New Zealand --[HAS_HIGHWAY]-> State Highway 1 0.7954146862030029
+[North Auckland Rapid Transit Corridor]: Road Maintenance --[IMPROVES]-> State Highway 1 0.7509424090385437
+[North Auckland Rapid Transit Corridor]: Road Safety --[RELATES_TO]-> State Highway 1 0.7508483529090881
+[North Auckland Rapid Transit Corridor]: State Highway 1 --[LOCATED_IN]-> New Zealand 0.7992240786552429
+[North Auckland Rapid Transit Corridor]: New Zealand Transport Agency --[MANAGES]-> State Highway 1 0.8040077686309814
+[North Auckland Rapid Transit Corridor]: road safety initiatives --[improving]-> State Highway 1 0.7729226350784302
+[North Auckland Rapid Transit Corridor]: State Highway 1 --[identified]-> tool box talks 0.775949239730835
+[North Auckland Rapid Transit Corridor]: State Highway 1 --[ASSOCIATED_WITH]-> LGWM construction contracts 0.7765284776687622
+[North Auckland Rapid Transit Corridor]: funding for road maintenance --[ASSOCIATED_WITH]-> State Highway 1 0.7868413925170898
+[North Auckland Rapid Transit Corridor]: road maintenance --[IMPROVES]-> State Highway 1 0.7509424090385437
+[North Auckland Rapid Transit Corridor]: State Highway 1 --[ASSOCIATED_WITH]-> road maintenance 0.7525986433029175

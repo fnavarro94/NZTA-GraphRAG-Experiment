@@ -1,0 +1,10 @@
+What is the destination of the scenic train operated by the organization that operates the rail network in New Zealand, primarily serving freight and providing passenger services in metropolitan areas, known for its breathtaking views of New Zealand's landscapes, departing from Christchurch?
+None
+Seed: Scenic passenger train service
+Seed: Scenic routes such as the tranzalpine and the northern explorer
+Seed: New zealand's stunning landscapes
+Seed: Both passenger and freight transport across the cook strait
+[Scenic passenger train service]: Tranzalpine --[Is]-> Scenic passenger train service 0.8189067840576172
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Include]-> Scenic routes such as the tranzalpine and the northern explorer 0.82259202003479
+[New zealand's stunning landscapes]: Passenger rail services --[Showcase]-> New zealand's stunning landscapes 0.8866977691650391
+[Both passenger and freight transport across the cook strait]: Port of wellington --[Facilitates]-> Both passenger and freight transport across the cook strait 0.8195949196815491

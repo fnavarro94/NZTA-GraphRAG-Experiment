@@ -1,0 +1,28 @@
+How is Waka Kotahi addressing corporate emissions as part of their sustainability efforts?
+None
+Seed: fuel from Waka Kotahi fleet vehicle emissions
+Seed: Waka Kotahi Senior Project Manager
+Seed: where people can easily learn about sustainability
+Seed: Waka Kotahi
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi --[AIMS]-> increase sustainability 0.9256365895271301
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi --[AIMS]-> create a sustainable future 0.9186813831329346
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi --[AIMS]-> where people can easily learn about sustainability 0.9164656400680542
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi --[USES]-> Toitû Envirocare Carbon Reduction programme 0.9159694910049438
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi --[AIMS]-> audit and certify our carbon footprint 0.9136168956756592
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi --[AIMS]-> support our carbon reduction programme 0.9125261306762695
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi --[WILL_CAPTURE]-> emissions from other corporate or internally focused activities 0.9105000495910645
+[Waka Kotahi Senior Project Manager]: Waka Kotahi Senior Project Manager --[MANAGES]-> State Highway 25A Rebuild Project 0.8195472955703735
+[where people can easily learn about sustainability]: Waka Kotahi --[AIMS]-> increase sustainability 0.9256365895271301
+[where people can easily learn about sustainability]: Waka Kotahi --[AIMS]-> create a sustainable future 0.9186813831329346
+[where people can easily learn about sustainability]: Waka Kotahi --[AIMS]-> where people can easily learn about sustainability 0.9164656400680542
+[where people can easily learn about sustainability]: Waka Kotahi --[USES]-> Toitû Envirocare Carbon Reduction programme 0.9159694910049438
+[where people can easily learn about sustainability]: Waka Kotahi --[AIMS]-> audit and certify our carbon footprint 0.9136168956756592
+[where people can easily learn about sustainability]: Waka Kotahi --[AIMS]-> support our carbon reduction programme 0.9125261306762695
+[where people can easily learn about sustainability]: Waka Kotahi --[WILL_CAPTURE]-> emissions from other corporate or internally focused activities 0.9105000495910645
+[Waka Kotahi]: Waka Kotahi --[AIMS]-> increase sustainability 0.9256365895271301
+[Waka Kotahi]: Waka Kotahi --[AIMS]-> create a sustainable future 0.9186813831329346
+[Waka Kotahi]: Waka Kotahi --[AIMS]-> where people can easily learn about sustainability 0.9164656400680542
+[Waka Kotahi]: Waka Kotahi --[USES]-> Toitû Envirocare Carbon Reduction programme 0.9159694910049438
+[Waka Kotahi]: Waka Kotahi --[AIMS]-> audit and certify our carbon footprint 0.9136168956756592
+[Waka Kotahi]: Waka Kotahi --[AIMS]-> support our carbon reduction programme 0.9125261306762695
+[Waka Kotahi]: Waka Kotahi --[WILL_CAPTURE]-> emissions from other corporate or internally focused activities 0.9105000495910645

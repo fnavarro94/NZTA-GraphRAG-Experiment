@@ -1,0 +1,36 @@
+Have any environmental, economic, or carbon impact studies been conducted for the North Auckland Rapid Transit Corridor?
+None
+Seed: Environmental Impact Study
+Seed: carbon impact study
+Seed: North Auckland Rapid Transit Corridor
+Seed: carbon emission data for business related travel and fleet vehicles emissions
+[Environmental Impact Study]: North Auckland Rapid Transit Corridor --[ENVIRONMENTAL_IMPACT]-> Environmental Impact Study 0.9593483209609985
+[Environmental Impact Study]: North Auckland Rapid Transit Corridor --[LOCATED]-> Auckland 0.8856133222579956
+[Environmental Impact Study]: State Highway 1 --[LOCATED_IN]-> Auckland 0.8139004707336426
+[Environmental Impact Study]: road safety --[ENHANCED_BY]-> State Highway 1 0.7695770263671875
+[Environmental Impact Study]: transportation infrastructure --[IMPROVES]-> road safety 0.7944263219833374
+[Environmental Impact Study]: road maintenance --[IMPROVES]-> road safety 0.778675377368927
+[Environmental Impact Study]: road safety --[COLLABORATED_BY]-> Wellington City Council 0.8038017749786377
+[Environmental Impact Study]: drugs --[AFFECTS]-> road safety 0.7568415403366089
+[Environmental Impact Study]: road safety --[IMPROVED_BY]-> initiatives 0.7856775522232056
+[Environmental Impact Study]: road safety --[ENHANCED_BY]-> New Zealand Transport Agency 0.8155837059020996
+[Environmental Impact Study]: safety solutions --[IMPROVES]-> road safety 0.7690236568450928
+[Environmental Impact Study]: road safety --[IMPROVED_BY]-> reduced speed limits 0.7634888887405396
+[Environmental Impact Study]: speed review process --[AFFECTS]-> road safety 0.7829093933105469
+[Environmental Impact Study]: State Highway 1 --[REPAIRS]-> potholes 0.7553609013557434
+[Environmental Impact Study]: Road Safety Initiatives --[IMPROVES]-> State Highway 1 0.7725339531898499
+[Environmental Impact Study]: New Zealand Transport Agency --[PROVIDES]-> Road Safety Initiatives 0.8213049173355103
+[Environmental Impact Study]: Road Safety Initiatives --[COLLABORATED_BY]-> Wellington City Council 0.8093446493148804
+[Environmental Impact Study]: Pedestrian and Cyclist Crashes --[ASSOCIATED_WITH]-> Road Safety Initiatives 0.7816932201385498
+[Environmental Impact Study]: State Highway 1 --[LOCATED_IN]-> Wellington 0.78790283203125
+[Environmental Impact Study]: New Zealand Transport Agency --[BASED]-> Wellington 0.8248700499534607
+[Environmental Impact Study]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7785851359367371
+[Environmental Impact Study]: Golden Mile --[LOCATED]-> Wellington 0.7779431343078613
+[Environmental Impact Study]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7644294500350952
+[Environmental Impact Study]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7764075398445129
+[Environmental Impact Study]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7586811780929565
+[Environmental Impact Study]: Wellington --[PART_OF]-> Wellington Region 0.7924469709396362
+[Environmental Impact Study]: New Zealand --[HAS_CAPITAL]-> Wellington 0.8100634813308716
+[Environmental Impact Study]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.8095690608024597
+[Environmental Impact Study]: Wellington --[HAS]-> tunnel 0.8027751445770264
+[Environmental Impact Study]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7968804836273193

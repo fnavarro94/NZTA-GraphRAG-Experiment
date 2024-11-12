@@ -1,0 +1,36 @@
+When is the draft Strategic Case for Picton Port Access expected to be completed?
+None
+Seed: 2023-24 State Highway Investment Proposal
+Seed: RE WK PPP Strategy draft
+Seed: Waito hi Picton Ferry Precinct Redevelopment
+Seed: https://nzta.govt.nz/assets/projects/waitohi-picton-transport-network-improvements/picton-transport-improvements-factsheet-202010.pdf
+[2023-24 State Highway Investment Proposal]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.8369826674461365
+[2023-24 State Highway Investment Proposal]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.83381187915802
+[2023-24 State Highway Investment Proposal]: 2024-27 National Land Transport Programme --[DEVELOPMENT_OF]-> Regional Land Transport Plan 0.8095971345901489
+[2023-24 State Highway Investment Proposal]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Access and Development Programme Business Case 0.8467278480529785
+[2023-24 State Highway Investment Proposal]: Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.8260360360145569
+[2023-24 State Highway Investment Proposal]: Hornby Access and Development Programme Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.8343037366867065
+[2023-24 State Highway Investment Proposal]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Access and Development Programme Business Case 0.8444842100143433
+[2023-24 State Highway Investment Proposal]: Main South Road, Shands Road and Carmen Road intersection --[LOCATED_NEAR]-> Hornby Access and Development Programme Business Case 0.7910584807395935
+[RE WK PPP Strategy draft]: New Zealand Transport Agency --[FALLS_IN_SCOPE]-> RE WK PPP Strategy draft 0.7971137166023254
+[RE WK PPP Strategy draft]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.763961672782898
+[RE WK PPP Strategy draft]: New Zealand Transport Agency --[BASED]-> Wellington 0.7622257471084595
+[RE WK PPP Strategy draft]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7500033378601074
+[RE WK PPP Strategy draft]: Golden Mile --[LOCATED]-> Wellington 0.7261581420898438
+[RE WK PPP Strategy draft]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7453200817108154
+[RE WK PPP Strategy draft]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7306939363479614
+[RE WK PPP Strategy draft]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7460365891456604
+[RE WK PPP Strategy draft]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.747170090675354
+[RE WK PPP Strategy draft]: Wellington --[PART_OF]-> Wellington Region 0.7562729120254517
+[RE WK PPP Strategy draft]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7711364030838013
+[RE WK PPP Strategy draft]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.8014885783195496
+[RE WK PPP Strategy draft]: Wellington --[HAS]-> tunnel 0.7683135271072388
+[RE WK PPP Strategy draft]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.735625147819519
+[RE WK PPP Strategy draft]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.742282509803772
+[RE WK PPP Strategy draft]: Wellington --[POSTCODE]-> 6141 0.7186763286590576
+[RE WK PPP Strategy draft]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7570245862007141
+[RE WK PPP Strategy draft]: Wellington --[IS_PART_OF]-> New Zealand 0.7564284801483154
+[RE WK PPP Strategy draft]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7898153066635132
+[RE WK PPP Strategy draft]: 50 Victoria Street --[IN]-> Wellington 0.7436027526855469
+[RE WK PPP Strategy draft]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7313448190689087
+[RE WK PPP Strategy draft]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.741541862487793

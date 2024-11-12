@@ -1,0 +1,26 @@
+When were the safety cameras in the Waterview Tunnel last calibrated for accuracy?
+None
+Seed: MINO -1042 Waterview Tunnel
+Seed: information on traffic light cameras and speed cameras
+Seed: information on traffic light cameras
+Seed: Lyttelton tunnel
+[MINO -1042 Waterview Tunnel]: MINO -1042 Waterview Tunnel --[WARNING]-> 19 April 2024 0.8536930680274963
+[MINO -1042 Waterview Tunnel]: 19 April 2024 --[RELEASED]-> Released in full 0.7138846516609192
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.8053565621376038
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on speed cameras 0.8041082620620728
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.7930383682250977
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.7897716164588928
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[RAISES_AWARENESS]-> importance of setting safe speeds 0.7763873934745789
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[RECEIVED]-> no notifications of offences detected by speed cameras 0.776133120059967
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PRIORITY]-> safety of people 0.7730456590652466
+[information on traffic light cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.8053565621376038
+[information on traffic light cameras]: Waka Kotahi --[PROVIDES]-> information on speed cameras 0.8041082620620728
+[information on traffic light cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.7930383682250977
+[information on traffic light cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.7897716164588928
+[information on traffic light cameras]: Waka Kotahi --[RAISES_AWARENESS]-> importance of setting safe speeds 0.7763873934745789
+[information on traffic light cameras]: Waka Kotahi --[RECEIVED]-> no notifications of offences detected by speed cameras 0.776133120059967
+[information on traffic light cameras]: Waka Kotahi --[PRIORITY]-> safety of people 0.7730456590652466
+[Lyttelton tunnel]: meet or exceed performance requirements --[RELATES_TO]-> Lyttelton tunnel 0.776185929775238
+[Lyttelton tunnel]: Lyttelton tunnel --[RENEWAL_SCHEDULED]-> 2024 0.7758153676986694
+[Lyttelton tunnel]: pavement --[CONTINUES]-> meet or exceed performance requirements 0.7649145126342773
+[Lyttelton tunnel]: 2024 --[RELATES_TO]-> current and future renewal programmes 0.7181438207626343

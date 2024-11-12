@@ -1,0 +1,36 @@
+What is the purpose of the Road Policing fiscally neutral adjustment request made in April 2024?
+None
+Seed: Request for road policing fiscally neutral adjustment
+Seed: road traffic control purposes
+Seed: Road Policing Activities
+Seed: https://www.nzta.govt.nz/assets/resources/road-policing-programme/docs/rpp-2021-24.pdf
+[Request for road policing fiscally neutral adjustment]: BRI-3024 --[RELATES_TO]-> Request for road policing fiscally neutral adjustment 0.9048925638198853
+[road traffic control purposes]: retroreflective sheeting --[USED]-> road traffic control purposes 0.8157439231872559
+[road traffic control purposes]: retroreflective sheeting --[MUST_MEET]-> New Zealand standards and specifications 0.7362982034683228
+[road traffic control purposes]: New Zealand standards and specifications --[LISTS]-> AS 1906.1 2017 0.7481441497802734
+[road traffic control purposes]: AS 1906.1 2017 --[OUTLINES]-> performance requirements for retroreflective sheeting 0.7494478225708008
+[road traffic control purposes]: AS 1906.1 2017 --[LISTS]-> NZTA M25 Retroreflective sheeting 0.744343638420105
+[road traffic control purposes]: NZTA M25 Retroreflective sheeting --[AVAILABLE]-> https://www.nzta.govt.nz/resources/retroflective-sheeting/ 0.7540943026542664
+[road traffic control purposes]: https://www.nzta.govt.nz/resources/retroflective-sheeting/ --[PROVIDES]-> information on retroreflective sheeting 0.7540265321731567
+[road traffic control purposes]: NZTA M25 Retroreflective sheeting --[PROVIDES]-> guidance for manufacturers 0.7352418899536133
+[road traffic control purposes]: Waka Kotahi --[PROVIDES]-> guidance for manufacturers 0.7066737413406372
+[road traffic control purposes]: performance requirements --[SPECIFIED]-> AS 1906.1 2017 0.7579204440116882
+[road traffic control purposes]: retroreflective sheeting --[MUST_MEET]-> performance requirements 0.7274935245513916
+[road traffic control purposes]: retroreflective sheeting --[APPROVED]-> Waka Kotahi 0.7166873216629028
+[road traffic control purposes]: retroreflective sheeting for use in New Zealand --[RELATES]-> retroreflective sheeting 0.7400484085083008
+[road traffic control purposes]: information on retroreflective sheeting --[RELATES]-> retroreflective sheeting 0.7246799468994141
+[road traffic control purposes]: retroreflective materials and devices for road traffic control purposes --[RELATES]-> retroreflective sheeting 0.7862962484359741
+[road traffic control purposes]: road traffic control purposes --[RELATES]-> retroreflective sheeting 0.8114643096923828
+[road traffic control purposes]: retroreflective sheeting --[MUST_COMPLY]-> New Zealand standards and specifications 0.7426679134368896
+[road traffic control purposes]: AS 1906.1 2017 --[APPLIES]-> retroreflective materials and devices for road traffic control purposes 0.8153941631317139
+[road traffic control purposes]: Response --[CONTAINS]-> Waka Kotahi 0.726781964302063
+[road traffic control purposes]: Waka Kotahi --[PUBLISHES]-> Response 0.7245942950248718
+[road traffic control purposes]: response --[CONTAINS]-> Waka Kotahi 0.7178518772125244
+[road traffic control purposes]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.7688500285148621
+[road traffic control purposes]: Charles Ronaldson --[SIGNED]-> response 0.7340429425239563
+[road traffic control purposes]: Lauren Cooke --[SIGNED]-> response 0.7275677919387817
+[road traffic control purposes]: Waka Kotahi --[PUBLISHED_BY]-> response 0.7301627397537231
+[road traffic control purposes]: Ministry --[PROVIDE]-> response 0.7553421258926392
+[road traffic control purposes]: response --[REMOVED]-> personal information 0.7304322719573975
+[road traffic control purposes]: Waka Kotahi website --[CONTAINS]-> response 0.706388533115387
+[road traffic control purposes]: New Zealand Transport Agency --[DISCUSSES]-> response 0.779711902141571

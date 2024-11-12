@@ -1,0 +1,31 @@
+How did NZ Bus Limited respond to the faults identified in the inspection of Go Wellington buses?
+None
+Seed: reports on converting the shoulder of Auckland Motorway into Bus Lanes
+Seed: report on the impacts of the Fare Recovery Ratio
+Seed: Investigating transport companies
+Seed: investigating transport companies
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Zachary Wong --[REQUESTED]-> reports on converting the shoulder of Auckland Motorway into Bus Lanes 0.8497121930122375
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: reports on converting the shoulder of Auckland Motorway into Bus Lanes --[PROVIDED]-> Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf 0.8280823230743408
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf --[APPENDIX]-> Appendices A to E 0.8238602876663208
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Zachary Wong --[EMAIL]-> fyi-request-9242-f4aad453@requests.fyi.org.nz 0.792783260345459
+[report on the impacts of the Fare Recovery Ratio]: questions and responses --[FROM]-> NZ Transport Agency 0.8996502757072449
+[report on the impacts of the Fare Recovery Ratio]: vehicle inspection --[CONDUCTED_BY]-> NZ Transport Agency 0.8879928588867188
+[report on the impacts of the Fare Recovery Ratio]: Vehicle Inspection --[CONDUCTED_BY]-> New Zealand Transport Agency 0.8843275308609009
+[report on the impacts of the Fare Recovery Ratio]: NZ Transport Agency --[CONDUCTS]-> vehicle inspection 0.8812938928604126
+[report on the impacts of the Fare Recovery Ratio]: Audits, Reviews, Investigations --[CONDUCTED_BY]-> New Zealand Transport Agency 0.8795226216316223
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[BASED]-> Wellington 0.8762903213500977
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[RESPONDS]-> queries 0.875200629234314
+[Investigating transport companies]: questions and responses --[FROM]-> NZ Transport Agency 0.8996502757072449
+[Investigating transport companies]: vehicle inspection --[CONDUCTED_BY]-> NZ Transport Agency 0.8879928588867188
+[Investigating transport companies]: Vehicle Inspection --[CONDUCTED_BY]-> New Zealand Transport Agency 0.8843275308609009
+[Investigating transport companies]: NZ Transport Agency --[CONDUCTS]-> vehicle inspection 0.8812938928604126
+[Investigating transport companies]: Audits, Reviews, Investigations --[CONDUCTED_BY]-> New Zealand Transport Agency 0.8795226216316223
+[Investigating transport companies]: New Zealand Transport Agency --[BASED]-> Wellington 0.8762903213500977
+[Investigating transport companies]: New Zealand Transport Agency --[RESPONDS]-> queries 0.875200629234314
+[investigating transport companies]: questions and responses --[FROM]-> NZ Transport Agency 0.8996502757072449
+[investigating transport companies]: vehicle inspection --[CONDUCTED_BY]-> NZ Transport Agency 0.8879928588867188
+[investigating transport companies]: Vehicle Inspection --[CONDUCTED_BY]-> New Zealand Transport Agency 0.8843275308609009
+[investigating transport companies]: NZ Transport Agency --[CONDUCTS]-> vehicle inspection 0.8812938928604126
+[investigating transport companies]: Audits, Reviews, Investigations --[CONDUCTED_BY]-> New Zealand Transport Agency 0.8795226216316223
+[investigating transport companies]: New Zealand Transport Agency --[BASED]-> Wellington 0.8762903213500977
+[investigating transport companies]: New Zealand Transport Agency --[RESPONDS]-> queries 0.875200629234314

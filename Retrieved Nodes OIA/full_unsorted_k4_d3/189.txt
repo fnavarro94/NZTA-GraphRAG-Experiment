@@ -1,0 +1,36 @@
+How are exemptions for wearing bicycle and motorcycle helmets granted in New Zealand?
+None
+Seed: exemptions
+Seed: instances where a driver and/or passenger may automatically be excused from the requirement to utilise a child restrain and seatbelt
+Seed: grant formal exemptions
+Seed: an adherent of the Sikh religion to be excused from wearing a motorcycle helmet, providing they will not be travelling at a speed exceeding 50kmph
+[exemptions]: New Zealand Transport Agency --[GRANTS]-> exemptions 0.8846818208694458
+[exemptions]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8016507625579834
+[exemptions]: New Zealand Transport Agency --[BASED]-> Wellington 0.8174444437026978
+[exemptions]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7756974101066589
+[exemptions]: Golden Mile --[LOCATED]-> Wellington 0.7462249994277954
+[exemptions]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7959442734718323
+[exemptions]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7716585397720337
+[exemptions]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7570376396179199
+[exemptions]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.768621563911438
+[exemptions]: Wellington --[PART_OF]-> Wellington Region 0.7871286869049072
+[exemptions]: New Zealand --[HAS_CAPITAL]-> Wellington 0.816521942615509
+[exemptions]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7876202464103699
+[exemptions]: Wellington --[HAS]-> tunnel 0.8032456040382385
+[exemptions]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7760841846466064
+[exemptions]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7731425166130066
+[exemptions]: Wellington --[POSTCODE]-> 6141 0.7585350871086121
+[exemptions]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.8020516633987427
+[exemptions]: Wellington --[IS_PART_OF]-> New Zealand 0.8022313714027405
+[exemptions]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7966286540031433
+[exemptions]: 50 Victoria Street --[IN]-> Wellington 0.762218713760376
+[exemptions]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7727906703948975
+[exemptions]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7614189386367798
+[exemptions]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7657117247581482
+[exemptions]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7755166888237
+[exemptions]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7772705554962158
+[exemptions]: NZ Transport Agency --[LOCATED]-> Wellington 0.8052071332931519
+[exemptions]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7795931696891785
+[exemptions]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7549999952316284
+[exemptions]: New Zealand --[CONTAINS]-> Wellington 0.819646418094635
+[exemptions]: Wellington --[PART_OF]-> New Zealand 0.8036686182022095

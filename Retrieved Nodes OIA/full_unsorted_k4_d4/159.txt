@@ -1,0 +1,36 @@
+How much has the NZ Transport Agency spent on software/app development through Connected Journey Solutions (CJS)?
+None
+Seed: information about the NZ Transport Agency's Information Technology (IT) projects
+Seed: names of companies and individuals paid $6.63m to develop software/apps
+Seed: costing information for Greater Christchurch Mass Rapid Transit
+Seed: cost breakdown for Greater Christchurch Mass Rapid Transit
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[PROVIDES]-> information about the NZ Transport Agency's Information Technology (IT) projects 0.8514043092727661
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8507648706436157
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[BASED]-> Wellington 0.8573113679885864
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8559994697570801
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8467684984207153
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.8428679704666138
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.8564439415931702
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.8518918752670288
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.8484642505645752
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.8455883860588074
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8510798811912537
+[information about the NZ Transport Agency's Information Technology (IT) projects]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8386966586112976
+[information about the NZ Transport Agency's Information Technology (IT) projects]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.821973443031311
+[information about the NZ Transport Agency's Information Technology (IT) projects]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8449238538742065
+[information about the NZ Transport Agency's Information Technology (IT) projects]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8554225564002991
+[information about the NZ Transport Agency's Information Technology (IT) projects]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8405989408493042
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8455780148506165
+[information about the NZ Transport Agency's Information Technology (IT) projects]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8393288850784302
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8346543908119202
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.820421576499939
+[information about the NZ Transport Agency's Information Technology (IT) projects]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8398864269256592
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8114317655563354
+[information about the NZ Transport Agency's Information Technology (IT) projects]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.837951123714447
+[information about the NZ Transport Agency's Information Technology (IT) projects]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8311623334884644
+[information about the NZ Transport Agency's Information Technology (IT) projects]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8426196575164795
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8182764649391174
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8368775844573975
+[information about the NZ Transport Agency's Information Technology (IT) projects]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8427310585975647
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8180288076400757
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Senior Engineer Vehicle Standard --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8257826566696167

@@ -1,0 +1,34 @@
+Does Waka Kotahi NZTA have information on the weight or amount of rubbish collected along state highways?
+None
+Seed: information regarding amount of litter collected and disposed
+Seed: request for weight/amount of rubbish cleaned up
+Seed: Waka Kotahi N Z Transport Agency
+Seed: Waka Kotahi NZ Transport Agency
+[information regarding amount of litter collected and disposed]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8895785808563232
+[information regarding amount of litter collected and disposed]: Waka Kotahi NZ Transport Agency --[DOES_NOT_HOLD]-> information regarding amount of litter collected and disposed 0.8885825276374817
+[information regarding amount of litter collected and disposed]: New Zealand Transport Agency --[PROVIDES]-> information to Waka Kotahi 0.887808084487915
+[information regarding amount of litter collected and disposed]: Waka Kotahi NZ Transport Agency --[REFUSES]-> request for weight/amount of rubbish cleaned up 0.8862603306770325
+[information regarding amount of litter collected and disposed]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.8852757811546326
+[information regarding amount of litter collected and disposed]: New Zealand Transport Agency --[PROVIDES]-> information to New Zealand Transport Agency Waka Kotahi 0.882816731929779
+[information regarding amount of litter collected and disposed]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.8810381889343262
+[request for weight/amount of rubbish cleaned up]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8895785808563232
+[request for weight/amount of rubbish cleaned up]: Waka Kotahi NZ Transport Agency --[DOES_NOT_HOLD]-> information regarding amount of litter collected and disposed 0.8885825276374817
+[request for weight/amount of rubbish cleaned up]: New Zealand Transport Agency --[PROVIDES]-> information to Waka Kotahi 0.887808084487915
+[request for weight/amount of rubbish cleaned up]: Waka Kotahi NZ Transport Agency --[REFUSES]-> request for weight/amount of rubbish cleaned up 0.8862603306770325
+[request for weight/amount of rubbish cleaned up]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.8852757811546326
+[request for weight/amount of rubbish cleaned up]: New Zealand Transport Agency --[PROVIDES]-> information to New Zealand Transport Agency Waka Kotahi 0.882816731929779
+[request for weight/amount of rubbish cleaned up]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.8810381889343262
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8895785808563232
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi NZ Transport Agency --[DOES_NOT_HOLD]-> information regarding amount of litter collected and disposed 0.8885825276374817
+[Waka Kotahi N Z Transport Agency]: New Zealand Transport Agency --[PROVIDES]-> information to Waka Kotahi 0.887808084487915
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi NZ Transport Agency --[REFUSES]-> request for weight/amount of rubbish cleaned up 0.8862603306770325
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.8852757811546326
+[Waka Kotahi N Z Transport Agency]: New Zealand Transport Agency --[PROVIDES]-> information to New Zealand Transport Agency Waka Kotahi 0.882816731929779
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.8810381889343262
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8895785808563232
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[DOES_NOT_HOLD]-> information regarding amount of litter collected and disposed 0.8885825276374817
+[Waka Kotahi NZ Transport Agency]: New Zealand Transport Agency --[PROVIDES]-> information to Waka Kotahi 0.887808084487915
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[REFUSES]-> request for weight/amount of rubbish cleaned up 0.8862603306770325
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.8852757811546326
+[Waka Kotahi NZ Transport Agency]: New Zealand Transport Agency --[PROVIDES]-> information to New Zealand Transport Agency Waka Kotahi 0.882816731929779
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.8810381889343262

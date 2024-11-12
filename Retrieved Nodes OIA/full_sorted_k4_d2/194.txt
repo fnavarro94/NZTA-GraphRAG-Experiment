@@ -1,0 +1,34 @@
+Why did Waka Kotahi withhold documents related to the Transmission Gully settlement?
+None
+Seed: Waka Kotahi NZ Transport Agency
+Seed: Waka Kotahi N Z Transport Agency
+Seed: Waka Kotahi
+Seed: NZ Transport Agency Waka Kotahi
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[DOES_NOT_HOLD]-> information regarding amount of litter collected and disposed 0.8772140741348267
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.8703933954238892
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[DOES_NOT_HOLD]-> information regarding actual costs of litter collection 0.8692609071731567
+[Waka Kotahi NZ Transport Agency]: New Zealand Transport Agency --[POLICY]-> Waka Kotahi policy 0.8688774108886719
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi policy --[PUBLISHED]-> website 0.8667598962783813
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.8661848306655884
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[REFUSES]-> request for weight/amount of rubbish cleaned up 0.8651430606842041
+[Waka Kotahi N Z Transport Agency]: Data --[PROVIDED]-> Waka Kotahi N Z Transport Agency 0.8652509450912476
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.8153991103172302
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.8144168257713318
+[Waka Kotahi N Z Transport Agency]: New Zealand Transport Agency Waka Kotahi --[MAINTAINS]-> Crash Analysis System 0.8120846748352051
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINS]-> Waka Kotahi N Z Transport Agency 0.8082152605056763
+[Waka Kotahi N Z Transport Agency]: Bus occupants --[EXCLUDED]-> Data 0.7787394523620605
+[Waka Kotahi N Z Transport Agency]: Drivers of motorbikes --[EXCLUDED]-> Data 0.7619103789329529
+[Waka Kotahi]: Waka Kotahi --[WITHHOLDS]-> information pertaining to the Golden Mile revitalisation project contract 0.8972246646881104
+[Waka Kotahi]: Waka Kotahi --[WITHHOLDS]-> information on Golden Mile revitalisation project contract 0.891181230545044
+[Waka Kotahi]: information --[PROVIDED_BY]-> Waka Kotahi 0.8821483850479126
+[Waka Kotahi]: New Zealand Transport Agency --[ASSOCIATED]-> Waka Kotahi 0.8802697658538818
+[Waka Kotahi]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8797241449356079
+[Waka Kotahi]: Waka Kotahi --[WITHHOLDS]-> correspondence 0.8783403038978577
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> publicly available information 0.8782184720039368
+[NZ Transport Agency Waka Kotahi]: New Zealand Transport Agency --[ASSOCIATED]-> Waka Kotahi 0.8802697658538818
+[NZ Transport Agency Waka Kotahi]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8797241449356079
+[NZ Transport Agency Waka Kotahi]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.8768908977508545
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[POLICY]-> publishing policy 0.8754876852035522
+[NZ Transport Agency Waka Kotahi]: response letter --[ASSOCIATED_WITH]-> NZ Transport Agency Waka Kotahi 0.8728947043418884
+[NZ Transport Agency Waka Kotahi]: response letter --[DISCUSSED]-> Waka Kotahi 0.8721862435340881
+[NZ Transport Agency Waka Kotahi]: New Zealand Transport Agency --[PROVIDES]-> information to Waka Kotahi 0.8718795776367188

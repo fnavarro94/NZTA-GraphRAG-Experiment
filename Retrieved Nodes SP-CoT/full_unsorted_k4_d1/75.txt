@@ -1,0 +1,10 @@
+Which major urban center is located to the south of the city in the region known for its Metlink services, which focus on providing comprehensive coverage across the region?
+None
+Seed: To connect urban centers with rural areas
+Seed: Major urban centers
+Seed: Urban centers and rural communities
+Seed: Key urban centers
+[To connect urban centers with rural areas]: New zealand --[Needs]-> To connect urban centers with rural areas 0.7892208695411682
+[Major urban centers]: State highway 1 --[Links]-> Major urban centers 0.8290444612503052
+[Urban centers and rural communities]: New zealand --[Characterized by]-> Urban centers and rural communities 0.7703642845153809
+[Key urban centers]: Pch --[Connects]-> Key urban centers 0.8215506076812744

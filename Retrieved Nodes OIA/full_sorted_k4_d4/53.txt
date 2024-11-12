@@ -1,0 +1,31 @@
+What information can be found in the Driver Licence Register (DLR)?
+None
+Seed: information on vehicle and driver registration and licensing
+Seed: information related to criminal convictions of driving instructor (I) endorsement holders
+Seed: vehicle registration and licensing
+Seed: driver licenses
+[information on vehicle and driver registration and licensing]: Driver Licence Register --[PROVIDES]-> Data 0.8830363154411316
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[PROVIDES]-> information on vehicle and driver registration and licensing 0.8656876087188721
+[information on vehicle and driver registration and licensing]: Data --[IS]-> Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019 0.860381543636322
+[information on vehicle and driver registration and licensing]: driver's licence test data --[PROVIDED]-> spreadsheet 0.8573583364486694
+[information on vehicle and driver registration and licensing]: Michael Morrah --[REQUESTS]-> information related to criminal convictions of driving instructor (I) endorsement holders 0.8492350578308105
+[information on vehicle and driver registration and licensing]: NZ Driver Licensing (1998) Limited --[PROVIDES]-> spreadsheet 0.8483223915100098
+[information on vehicle and driver registration and licensing]: Transport Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8468036651611328
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[PROVIDES]-> information on vehicle and driver registration and licensing 0.8656876087188721
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Michael Morrah --[REQUESTS]-> information related to criminal convictions of driving instructor (I) endorsement holders 0.8492350578308105
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[PROVIDES]-> information 0.8320701718330383
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[PROVIDES]-> information on visiting drivers survey 0.8310438394546509
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[PROVIDES]-> information on road user charges 0.8283184170722961
+[information related to criminal convictions of driving instructor (I) endorsement holders]: information --[PROVIDES]-> New Zealand Transport Agency 0.826711118221283
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[PROVIDES]-> documents 0.8262056708335876
+[vehicle registration and licensing]: New Zealand Transport Agency --[PROVIDES]-> information on vehicle and driver registration and licensing 0.8656876087188721
+[vehicle registration and licensing]: NZ Driver Licensing (1998) Limited --[PROVIDES]-> spreadsheet 0.8483223915100098
+[vehicle registration and licensing]: Transport Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8468036651611328
+[vehicle registration and licensing]: Vehicle Inspection Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8450808525085449
+[vehicle registration and licensing]: Transport Agency --[PROVIDES_ACCESS]-> information 0.8412038683891296
+[vehicle registration and licensing]: Transport Safety Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8411242961883545
+[vehicle registration and licensing]: Land Transport Management Act 2003 --[CITED_IN]-> Transport Service Licences 0.8365874290466309
+[driver licenses]: driver licenses --[CONTAINS]-> annual data 0.8542440533638
+[driver licenses]: age categories --[BREAKDOWN]-> learners, restricted, full licenses and vehicle classes 0.8288129568099976
+[driver licenses]: learners, restricted, full licenses and vehicle classes --[TREND]-> increase/decrease 0.8041650652885437
+[driver licenses]: annual data --[BREAKDOWN]-> age categories 0.7529799342155457

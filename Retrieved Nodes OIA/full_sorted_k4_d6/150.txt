@@ -1,0 +1,32 @@
+What is the reason for the toll on the Northern Gateway Toll Road?
+None
+Seed: Northern Gateway Toll Road
+Seed: information on tolls and road maintenance
+Seed: toll roads
+Seed: toll tariffs
+[Northern Gateway Toll Road]: Northern Gateway Toll Road --[PROVIDES]-> Toll Revenue 0.9063264727592468
+[Northern Gateway Toll Road]: Northern Gateway Toll Road --[ESTIMATED_END_DATE]-> 2045 0.9006482362747192
+[Northern Gateway Toll Road]: Northern Gateway Toll Road --[DEBT_REPAYMENT]-> 35 years 0.8850504159927368
+[Northern Gateway Toll Road]: Tauranga Eastern Link Toll Road --[PROVIDES]-> Toll Revenue 0.8330012559890747
+[Northern Gateway Toll Road]: Takitimu Drive Toll Road --[PROVIDES]-> Toll Revenue 0.8257232904434204
+[information on tolls and road maintenance]: tolls --[SPENT]-> on various roads 0.8639960289001465
+[information on tolls and road maintenance]: toll road --[COST]-> $45 million 0.8638171553611755
+[information on tolls and road maintenance]: toll road --[MAINTENANCE]-> $579,000 0.8567817807197571
+[information on tolls and road maintenance]: State Highway --[CHANGED]-> toll price 0.855526328086853
+[information on tolls and road maintenance]: road maintenance --[FUNDED_BY]-> toll tariffs 0.8546658158302307
+[information on tolls and road maintenance]: toll tariffs --[SPENT_ON]-> road maintenance 0.8537792563438416
+[information on tolls and road maintenance]: toll roads --[COLLECTS]-> toll tariffs 0.8514741063117981
+[toll roads]: tolls --[SPENT]-> on various roads 0.8639960289001465
+[toll roads]: toll road --[COST]-> $45 million 0.8638171553611755
+[toll roads]: toll road --[MAINTENANCE]-> $579,000 0.8567817807197571
+[toll roads]: State Highway --[CHANGED]-> toll price 0.855526328086853
+[toll roads]: road maintenance --[FUNDED_BY]-> toll tariffs 0.8546658158302307
+[toll roads]: toll tariffs --[SPENT_ON]-> road maintenance 0.8537792563438416
+[toll roads]: toll roads --[COLLECTS]-> toll tariffs 0.8514741063117981
+[toll tariffs]: tolls --[SPENT]-> on various roads 0.8639960289001465
+[toll tariffs]: road maintenance --[FUNDED_BY]-> toll tariffs 0.8546658158302307
+[toll tariffs]: toll tariffs --[SPENT_ON]-> road maintenance 0.8537792563438416
+[toll tariffs]: toll roads --[COLLECTS]-> toll tariffs 0.8514741063117981
+[toll tariffs]: toll tariffs --[USED_FOR]-> road maintenance 0.8485562801361084
+[toll tariffs]: toll roads --[INCLUDE]-> administration fee 0.8471037745475769
+[toll tariffs]: toll revenue --[OPERATES]-> toll road 0.8455815315246582

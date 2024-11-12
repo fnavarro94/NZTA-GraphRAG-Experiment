@@ -1,0 +1,36 @@
+Does Waka Kotahi NZTA have information on the weight or amount of rubbish collected along state highways?
+None
+Seed: information regarding amount of litter collected and disposed
+Seed: request for weight/amount of rubbish cleaned up
+Seed: Waka Kotahi N Z Transport Agency
+Seed: Waka Kotahi NZ Transport Agency
+[information regarding amount of litter collected and disposed]: Waka Kotahi NZ Transport Agency --[DOES_NOT_HOLD]-> information regarding amount of litter collected and disposed 0.8885825276374817
+[information regarding amount of litter collected and disposed]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.8535301685333252
+[information regarding amount of litter collected and disposed]: New Zealand Transport Agency --[BASED]-> Wellington 0.8105286359786987
+[information regarding amount of litter collected and disposed]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8111256957054138
+[information regarding amount of litter collected and disposed]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8232952356338501
+[information regarding amount of litter collected and disposed]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8183719515800476
+[information regarding amount of litter collected and disposed]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.8058398962020874
+[information regarding amount of litter collected and disposed]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.812640368938446
+[information regarding amount of litter collected and disposed]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.81536465883255
+[information regarding amount of litter collected and disposed]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.8173770308494568
+[information regarding amount of litter collected and disposed]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.810296356678009
+[information regarding amount of litter collected and disposed]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8316758871078491
+[information regarding amount of litter collected and disposed]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8061596751213074
+[information regarding amount of litter collected and disposed]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8341907858848572
+[information regarding amount of litter collected and disposed]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.83022141456604
+[information regarding amount of litter collected and disposed]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8270335793495178
+[information regarding amount of litter collected and disposed]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8169999718666077
+[information regarding amount of litter collected and disposed]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8024178743362427
+[information regarding amount of litter collected and disposed]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8196045160293579
+[information regarding amount of litter collected and disposed]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8060120940208435
+[information regarding amount of litter collected and disposed]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8113268613815308
+[information regarding amount of litter collected and disposed]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8398182988166809
+[information regarding amount of litter collected and disposed]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7965682744979858
+[information regarding amount of litter collected and disposed]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8221350312232971
+[information regarding amount of litter collected and disposed]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8257139325141907
+[information regarding amount of litter collected and disposed]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8184655904769897
+[information regarding amount of litter collected and disposed]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.789397656917572
+[information regarding amount of litter collected and disposed]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8101617693901062
+[information regarding amount of litter collected and disposed]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8094072937965393
+[information regarding amount of litter collected and disposed]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7939193844795227

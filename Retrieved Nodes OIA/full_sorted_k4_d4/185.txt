@@ -1,0 +1,28 @@
+Are there any planned improvements for the Hornby Intersection at Main South Road, Shands Road, and Carmen Road?
+None
+Seed: Request for information on Hornby Intersection improvements
+Seed: no other intersection safety improvements planned
+Seed: Main South Road, Shands Road and Carmen Road intersection
+Seed: Hornby Intersection
+[Request for information on Hornby Intersection improvements]: Request for information on Hornby Intersection improvements --[REQUESTS]-> New Zealand Transport Agency 0.8886649012565613
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[RESPONDS_TO]-> Request for information on Hornby Intersection improvements 0.8727172613143921
+[Request for information on Hornby Intersection improvements]: Let's Get Wellington Moving --[HAS_COMPONENT]-> Strategic Highway Improvements 0.8556269407272339
+[Request for information on Hornby Intersection improvements]: funding for road maintenance --[FOR]-> State Highway 1 0.8362480401992798
+[Request for information on Hornby Intersection improvements]: road maintenance --[IMPROVES]-> State Highway 1 0.8357182145118713
+[Request for information on Hornby Intersection improvements]: Road Maintenance --[IMPROVES]-> State Highway 1 0.8357182145118713
+[Request for information on Hornby Intersection improvements]: Data --[LIMITED]-> intersection of Kiddle Drive/Arrowsmith Ave 0.8350366353988647
+[no other intersection safety improvements planned]: Request for information on Hornby Intersection improvements --[REQUESTS]-> New Zealand Transport Agency 0.8886649012565613
+[no other intersection safety improvements planned]: New Zealand Transport Agency --[RESPONDS_TO]-> Request for information on Hornby Intersection improvements 0.8727172613143921
+[no other intersection safety improvements planned]: funding for road maintenance --[FOR]-> State Highway 1 0.8362480401992798
+[no other intersection safety improvements planned]: Road Maintenance --[IMPROVES]-> State Highway 1 0.8357182145118713
+[no other intersection safety improvements planned]: road maintenance --[IMPROVES]-> State Highway 1 0.8357182145118713
+[no other intersection safety improvements planned]: Featherston --[RAISED_CROSSINGS]-> no other intersection safety improvements planned 0.8340469598770142
+[no other intersection safety improvements planned]: traffic management --[IMPROVES]-> State Highway 1 0.8327986598014832
+[Main South Road, Shands Road and Carmen Road intersection]: Main South Road, Shands Road and Carmen Road intersection --[LOCATED_NEAR]-> Hornby Access and Development Programme Business Case 0.9284439086914062
+[Main South Road, Shands Road and Carmen Road intersection]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Access and Development Programme Business Case 0.8607434034347534
+[Main South Road, Shands Road and Carmen Road intersection]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.8606589436531067
+[Main South Road, Shands Road and Carmen Road intersection]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Access and Development Programme Business Case 0.859551191329956
+[Main South Road, Shands Road and Carmen Road intersection]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.8573487401008606
+[Main South Road, Shands Road and Carmen Road intersection]: Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.8541993498802185
+[Main South Road, Shands Road and Carmen Road intersection]: Hornby Access and Development Programme Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.8491854071617126
+[Hornby Intersection]: Hornby Intersection --[IMPROVEMENTS_PLANNED]-> next 10 years 0.9216638803482056

@@ -1,0 +1,34 @@
+What is the annual accident rate on State Highway 16 (SH16) over the last decade for the 80km/h and 100km/h speed limits?
+None
+Seed: annual accident rate on SH16
+Seed: comparing the number of accidents under the 100km speed limit versus the current 80km speed rate
+Seed: vehicle accidents
+Seed: information on vehicle accidents
+[annual accident rate on SH16]: Debrin Foxcroft --[REQUESTS]-> annual accident rate on SH16 0.8697636723518372
+[annual accident rate on SH16]: Debrin Foxcroft --[INTERESTED_IN]-> comparing the number of accidents under the 100km speed limit versus the current 80km speed rate 0.8590115904808044
+[annual accident rate on SH16]: 100M --[ALLOCATED_FOR]-> State Highway 1 0.8530102968215942
+[annual accident rate on SH16]: Pedestrian Safer speeds --[ASSOCIATED_WITH]-> State Highway 1 0.8410806059837341
+[annual accident rate on SH16]: road safety --[ENHANCED_BY]-> State Highway 1 0.8304277658462524
+[annual accident rate on SH16]: road safety initiatives --[improving]-> State Highway 1 0.828745424747467
+[annual accident rate on SH16]: Crash Analysis --[PERFORMED_BY]-> Waka Kotahi NZ Transport Agency 0.8244447112083435
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[REQUESTS]-> annual accident rate on SH16 0.8697636723518372
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[INTERESTED_IN]-> comparing the number of accidents under the 100km speed limit versus the current 80km speed rate 0.8590115904808044
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: 100M --[ALLOCATED_FOR]-> State Highway 1 0.8530102968215942
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Pedestrian Safer speeds --[ASSOCIATED_WITH]-> State Highway 1 0.8410806059837341
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: road safety --[ENHANCED_BY]-> State Highway 1 0.8304277658462524
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: road safety initiatives --[improving]-> State Highway 1 0.828745424747467
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Crash Analysis --[PERFORMED_BY]-> Waka Kotahi NZ Transport Agency 0.8244447112083435
+[vehicle accidents]: Crash Analysis System --[UPDATED]-> Traffic Crash Report 0.8261888027191162
+[vehicle accidents]: road accident data --[FROM]-> Crash Analysis System 0.8231902122497559
+[vehicle accidents]: Crash Analysis System --[PROVIDES]-> data on road traffic crashes 0.8190017938613892
+[vehicle accidents]: Crash Analysis System --[PROVIDES]-> road accident data 0.8183606863021851
+[vehicle accidents]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.8169389963150024
+[vehicle accidents]: Crash Analysis System --[UPDATES]-> Traffic Crash Report 0.8136833310127258
+[vehicle accidents]: Crash Analysis System --[PROVIDES]-> traffic crash data 0.8136113882064819
+[information on vehicle accidents]: crashes --[OCCURRED]-> State Highway 16 0.8745123744010925
+[information on vehicle accidents]: Debrin Foxcroft --[REQUESTS]-> annual accident rate on SH16 0.8697636723518372
+[information on vehicle accidents]: Debrin Foxcroft --[INTERESTED_IN]-> comparing the number of accidents under the 100km speed limit versus the current 80km speed rate 0.8590115904808044
+[information on vehicle accidents]: per year --[FOR]-> road accident data 0.8580659031867981
+[information on vehicle accidents]: 100M --[ALLOCATED_FOR]-> State Highway 1 0.8530102968215942
+[information on vehicle accidents]: Pedestrian Safer speeds --[ASSOCIATED_WITH]-> State Highway 1 0.8410806059837341
+[information on vehicle accidents]: speed review process --[AFFECTS]-> road safety 0.831652045249939

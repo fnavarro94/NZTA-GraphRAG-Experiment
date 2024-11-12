@@ -1,0 +1,30 @@
+How can someone challenge a decision made under the Official Information Act?
+None
+Seed: I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.
+Seed: decision making
+Seed: public interest in seeking and receiving confidential legal advice
+Seed: seeking and receiving confidential legal advice
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act). --[OFFICIAL_INFORMATION]-> I will respond to each of your questions in turn. 0.8180079460144043
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. --[OFFICIAL_INFORMATION]-> I am refusing this part of your request under section 18(d) of the Act as the information is publicly available. 0.8088490962982178
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: I will respond to each of your questions in turn. --[OFFICIAL_INFORMATION]-> 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. 0.8029297590255737
+[decision making]: Waka Kotahi --[APPLIES]-> section 18(g) of the Act 0.8102431297302246
+[decision making]: Waka Kotahi --[SEEKS]-> confidential legal advice 0.807883620262146
+[decision making]: Waka Kotahi --[INVESTIGATES]-> breaches of rules or regulations 0.805952787399292
+[decision making]: Waka Kotahi --[DISCUSS]-> OIA-8555-response.pdf 0.8008872866630554
+[decision making]: Waka Kotahi --[DISCUSS]-> OIA-8620-response.pdf 0.8002166748046875
+[decision making]: decision making --[PART_OF]-> speed review process 0.8000133037567139
+[decision making]: speed review process --[REQUIRES]-> consultation 0.799062967300415
+[public interest in seeking and receiving confidential legal advice]: information request --[RELATES]-> section 18(e) of the Act 0.8634772300720215
+[public interest in seeking and receiving confidential legal advice]: public interest --[CONSIDERS]-> information 0.861823558807373
+[public interest in seeking and receiving confidential legal advice]: section 18(d) of the Act --[APPLIES]-> publicly available information 0.8553155660629272
+[public interest in seeking and receiving confidential legal advice]: section 9(2)(b)(ii) of the Act --[PROTECTS]-> information 0.8528052568435669
+[public interest in seeking and receiving confidential legal advice]: New Zealand Transport Agency --[RESPONDS]-> request made under the Official Information Act 1982 0.844254732131958
+[public interest in seeking and receiving confidential legal advice]: New Zealand Transport Agency --[RESPONDS]-> Request made under the Official Information Act 1982 0.844254732131958
+[public interest in seeking and receiving confidential legal advice]: Request made under the Official Information Act 1982 --[REQUESTS]-> New Zealand Transport Agency 0.8442471027374268
+[seeking and receiving confidential legal advice]: information request --[RELATES]-> section 18(e) of the Act 0.8634772300720215
+[seeking and receiving confidential legal advice]: public interest --[CONSIDERS]-> information 0.861823558807373
+[seeking and receiving confidential legal advice]: section 18(d) of the Act --[APPLIES]-> publicly available information 0.8553155660629272
+[seeking and receiving confidential legal advice]: section 9(2)(b)(ii) of the Act --[PROTECTS]-> information 0.8528052568435669
+[seeking and receiving confidential legal advice]: New Zealand Transport Agency --[RESPONDS]-> request made under the Official Information Act 1982 0.844254732131958
+[seeking and receiving confidential legal advice]: New Zealand Transport Agency --[RESPONDS]-> Request made under the Official Information Act 1982 0.844254732131958
+[seeking and receiving confidential legal advice]: Request made under the Official Information Act 1982 --[REQUESTS]-> New Zealand Transport Agency 0.8442471027374268

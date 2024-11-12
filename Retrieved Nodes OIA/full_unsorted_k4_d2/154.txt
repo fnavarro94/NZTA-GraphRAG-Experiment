@@ -1,0 +1,36 @@
+What specific type of endorsement is mentioned in the OIA-2127 document?
+None
+Seed: applications for I endorsements
+Seed: standards for all licence endorsement holders
+Seed: I endorsement holders
+Seed: renewals of existing endorsement holders
+[applications for I endorsements]: Transport Agency --[ASSESS]-> applications for I endorsements 0.8482099175453186
+[applications for I endorsements]: www.ombudsman.parliament.nz --[PROVIDES]-> Transport Agency 0.8039979934692383
+[applications for I endorsements]: Transport Agency --[PROVIDES]-> summary of survey results 0.772767186164856
+[applications for I endorsements]: Transport Agency --[PROVIDES]-> summary of exit interview results 0.7514997124671936
+[applications for I endorsements]: Transport Agency --[PROVIDES]-> summary of engagement survey results 0.7750245332717896
+[applications for I endorsements]: Transport Agency --[PROVIDES]-> contact details for the Ombudsman 0.7784302234649658
+[applications for I endorsements]: Transport Agency --[PROVIDES]-> EAP 0.783449649810791
+[applications for I endorsements]: Transport Agency --[PROVIDES]-> response to this request on our website 0.7811554670333862
+[applications for I endorsements]: Transport Agency --[PROVIDES]-> summary of exit interview results since March 2016 0.7392390966415405
+[applications for I endorsements]: Transport Agency --[PROVIDES]-> Contact Details 0.771965503692627
+[applications for I endorsements]: Transport Agency --[PROVIDES]-> address of the Office of the Ombudsmen 0.782428503036499
+[applications for I endorsements]: Transport Agency --[PROVIDES]-> Guide for the interpretation of coded crash reports 0.7728205323219299
+[applications for I endorsements]: Transport Agency --[PROVIDES]-> contact details 0.771965503692627
+[applications for I endorsements]: Transport Agency --[PROVIDES]-> reply 0.7820618748664856
+[applications for I endorsements]: Transport Agency --[WITHHOLDS]-> exact copies of staff exit interview notes 0.7459903359413147
+[applications for I endorsements]: Transport Agency --[WITHHOLDS]-> information 0.7709106206893921
+[applications for I endorsements]: Kevin Reid --[DISCUSS]-> Transport Agency 0.7522653937339783
+[applications for I endorsements]: Transport Agency --[DISCUSS]-> HVSCs 0.765833854675293
+[applications for I endorsements]: Andrew Knackstedt --[CONTACT]-> Transport Agency 0.7713308334350586
+[applications for I endorsements]: Transport Agency --[CONTACT]-> Andrew Knackstedt 0.7683623433113098
+[applications for I endorsements]: Transport Agency --[PUBLISHES]-> response to this request on our website 0.7884855270385742
+[applications for I endorsements]: Transport Agency --[MAINTAINS]-> database 0.7724045515060425
+[applications for I endorsements]: Transport Agency --[COLLABORATES_WITH]-> Wellington City Council 0.7574869394302368
+[applications for I endorsements]: Andrew Knackstedt --[EMPLOYER]-> Transport Agency 0.7754894495010376
+[applications for I endorsements]: OIA-6026 --[REFUSED]-> Transport Agency 0.7774548530578613
+[applications for I endorsements]: Transport Agency --[REFUSED]-> section 18(e) of the Act 0.7580379843711853
+[applications for I endorsements]: Transport Agency --[REFUSED]-> information request 0.7514888048171997
+[applications for I endorsements]: Mobility Marketplace --[ESTABLISHED]-> Transport Agency 0.7648236155509949
+[applications for I endorsements]: Mobility Marketplace --[TESTED]-> Transport Agency 0.7786860466003418
+[applications for I endorsements]: RideMate --[TESTED]-> Transport Agency 0.7742828130722046

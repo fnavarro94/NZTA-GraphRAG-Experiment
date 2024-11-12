@@ -1,0 +1,10 @@
+What nickname is associated with Christchurch, a key transport hub in the island where the scenic passenger rail service in New Zealand, known for showcasing stunning landscapes, particularly through the Southern Alps, is located, in contrast to the cities in New Zealand implementing extensive cycling networks and pedestrian-friendly infrastructure to address traffic congestion?
+None
+Seed: Critical link between southern suburbs and central business district
+Seed: New zealand's transport network
+Seed: Scenic routes such as the tranzalpine and the northern explorer
+Seed: Cities like christchurch
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Serves as]-> Critical link between southern suburbs and central business district 0.8464218378067017
+[New zealand's transport network]: Road infrastructure projects --[Play crucial role in]-> New zealand's transport network 0.827688455581665
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Include]-> Scenic routes such as the tranzalpine and the northern explorer 0.7962424755096436
+[Cities like christchurch]: Vissim --[Used in]-> Cities like christchurch 0.7992787957191467

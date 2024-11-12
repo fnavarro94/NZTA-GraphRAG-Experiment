@@ -1,0 +1,36 @@
+What action can an individual take if they wish to contest the decision to refuse their request?
+None
+Seed: decision to refuse request
+Seed: refusal of request
+Seed: I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.
+Seed: public interest in seeking and receiving confidential legal advice
+[decision to refuse request]: request --[REFUSED]-> decision to refuse request 0.8788845539093018
+[decision to refuse request]: request --[RELATES_TO]-> section 18(e) of the Act 0.8113937377929688
+[decision to refuse request]: section 18(e) of the Act --[EXEMPTS]-> information requested 0.8007302284240723
+[decision to refuse request]: information requested --[DOES_NOT_EXIST]-> scheduled tasks 0.763297975063324
+[decision to refuse request]: scheduled tasks --[IS_REMOVED]-> website 0.7321560382843018
+[decision to refuse request]: website --[LOCATED_AT]-> www.ombudsman.parliament.nz 0.7598921060562134
+[decision to refuse request]: personal information removed --[IS_REMOVED]-> website 0.7455036640167236
+[decision to refuse request]: responses --[PUBLISHED_ON]-> website 0.7616027593612671
+[decision to refuse request]: maintenance specifications --[AVAILABLE]-> website 0.7159056663513184
+[decision to refuse request]: website --[LINKS]-> https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf 0.7135710716247559
+[decision to refuse request]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7412589192390442
+[decision to refuse request]: Waka Kotahi --[FOLLOW]-> website 0.7435002326965332
+[decision to refuse request]: personal information removed --[RELATES_TO]-> website 0.7408678531646729
+[decision to refuse request]: website --[RELATES_TO]-> Waka Kotahi 0.7483763694763184
+[decision to refuse request]: Waka Kotahi policy --[PUBLISHED]-> website 0.7608048915863037
+[decision to refuse request]: Waka Kotahi --[PUBLISHES]-> website 0.719646692276001
+[decision to refuse request]: website --[BELONGS_TO]-> Waka Kotahi 0.7562131881713867
+[decision to refuse request]: response --[IS_PUBLISHED_ON]-> website 0.7467641830444336
+[decision to refuse request]: response letter --[IS_PUBLISHED_ON]-> website 0.7508631348609924
+[decision to refuse request]: policy --[APPLIES_TO]-> website 0.7694786190986633
+[decision to refuse request]: website --[PUBLISHES]-> response 0.7472671270370483
+[decision to refuse request]: information requested --[REQUESTED_BY]-> requester name 0.7717471122741699
+[decision to refuse request]: requester name --[SUBMITTED]-> submission date 0.7499260902404785
+[decision to refuse request]: submission date --[ASSOCIATED_WITH]-> event name 0.726777195930481
+[decision to refuse request]: response to OIA request --[PROVIDES]-> information requested 0.7738621830940247
+[decision to refuse request]: oia-9194-response.pdf --[CONTAINS]-> response to OIA request 0.7545503377914429
+[decision to refuse request]: oia-9194-response.pdf --[ASSOCIATED_WITH]-> OIA request 0.7509205937385559
+[decision to refuse request]: file_path --[CONTAINS]-> oia-9194-response.pdf 0.7314172387123108
+[decision to refuse request]: New Zealand Transport Agency --[PROVIDES]-> response to OIA request 0.758662223815918
+[decision to refuse request]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7248282432556152

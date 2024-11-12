@@ -1,0 +1,36 @@
+Which city in the country where the program, established in 2010, requires periodic testing of older vehicles to ensure they meet emissions standards throughout their operational life, utilizes the Snapper card as part of its initiative that has improved the reliability of public transport services and allowed users to plan their journeys more effectively?
+None
+Seed: Need for more integrated and sustainable transport system
+Seed: Snapper card
+Seed: Growing emphasis on improving transport compliance through technology
+Seed: Solution to promote sustainable transport options in new zealand
+[Need for more integrated and sustainable transport system]: New zealand transport strategy --[Emphasizes]-> Need for more integrated and sustainable transport system 0.7918635606765747
+[Need for more integrated and sustainable transport system]: New zealand transport strategy --[Emphasizes]-> Multimodal approach 0.8018397688865662
+[Need for more integrated and sustainable transport system]: New zealand transport strategy --[Promotes]-> Public transport 0.7975764870643616
+[Need for more integrated and sustainable transport system]: Auckland transport --[Manages]-> Public transport 0.7870655059814453
+[Need for more integrated and sustainable transport system]: Auckland transport --[Has]-> Vision to support growth 0.7817775011062622
+[Need for more integrated and sustainable transport system]: Auckland transport --[Has]-> Vision to minimize environmental impact 0.7897583246231079
+[Need for more integrated and sustainable transport system]: Auckland transport --[Has]-> Vision to create efficient transport system 0.8000691533088684
+[Need for more integrated and sustainable transport system]: Auckland transport --[Has]-> Vision to create integrated transport system 0.7920467257499695
+[Need for more integrated and sustainable transport system]: Auckland transport --[Has]-> Long-term vision 0.7988641262054443
+[Need for more integrated and sustainable transport system]: Auckland transport --[Has]-> Vision to create safe transport system 0.7910890579223633
+[Need for more integrated and sustainable transport system]: Auckland transport --[Focused on]-> Promoting active transport modes 0.8054953813552856
+[Need for more integrated and sustainable transport system]: Auckland transport --[Focused on]-> Promoting cycling 0.7816102504730225
+[Need for more integrated and sustainable transport system]: Auckland transport --[Focused on]-> Promoting walking 0.7925921082496643
+[Need for more integrated and sustainable transport system]: Auckland transport --[Is]-> Primary agency 0.7921857833862305
+[Need for more integrated and sustainable transport system]: Auckland transport --[Implemented]-> Cycling infrastructure projects 0.7862839102745056
+[Need for more integrated and sustainable transport system]: Auckland transport --[Implemented]-> Dedicated bike lanes 0.7772946357727051
+[Need for more integrated and sustainable transport system]: Auckland transport --[Implemented]-> Cycleways 0.7800349593162537
+[Need for more integrated and sustainable transport system]: Auckland transport --[Introduced]-> Auckland integrated ticketing system 0.7940516471862793
+[Need for more integrated and sustainable transport system]: Auckland transport --[Responsible for]-> Managing public transport services 0.7900288105010986
+[Need for more integrated and sustainable transport system]: Auckland transport --[Responsible for]-> Development 0.7915440797805786
+[Need for more integrated and sustainable transport system]: Auckland transport --[Responsible for]-> Management 0.7847881317138672
+[Need for more integrated and sustainable transport system]: Auckland transport --[Responsible for]-> Planning 0.7946817278862
+[Need for more integrated and sustainable transport system]: Auckland transport --[Ensures]-> Transport planning aligns with urban development goals 0.8004857897758484
+[Need for more integrated and sustainable transport system]: Auckland transport --[Plays]-> Crucial role 0.7935474514961243
+[Need for more integrated and sustainable transport system]: Auckland transport --[Manages]-> Public transport in auckland 0.7688004374504089
+[Need for more integrated and sustainable transport system]: Auckland transport --[Oversees]-> Ferries 0.759941577911377
+[Need for more integrated and sustainable transport system]: Auckland transport --[Oversees]-> Trains 0.7724230885505676
+[Need for more integrated and sustainable transport system]: Auckland transport --[Oversees]-> Buses 0.7653179168701172
+[Need for more integrated and sustainable transport system]: Auckland transport --[Oversees]-> Roads 0.7711519002914429
+[Need for more integrated and sustainable transport system]: Auckland transport --[Oversees]-> Cycling 0.7640150785446167

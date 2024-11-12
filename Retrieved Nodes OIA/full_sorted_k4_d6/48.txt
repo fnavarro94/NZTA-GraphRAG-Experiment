@@ -1,0 +1,33 @@
+How has the COVID-19 pandemic affected the reporting of road crashes in 2020?
+None
+Seed: Covid-19 pandemic
+Seed: Covid-19 Pandemic
+Seed: additional costs caused by the Covid-19 pandemic
+Seed: COVID-19
+[Covid-19 pandemic]: Covid-19 pandemic --[AFFECTS]-> road crashes 0.9506544470787048
+[Covid-19 pandemic]: Covid-19 pandemic --[AFFECTS]-> traffic on the roads 0.9279564619064331
+[Covid-19 pandemic]: Covid-19 pandemic --[AFFECTS]-> road traffic 0.9233832955360413
+[Covid-19 pandemic]: Covid-19 lockdowns --[AFFECTS]-> road traffic 0.8982523679733276
+[Covid-19 pandemic]: Red level --[AFFECTS]-> traffic on the roads 0.8174712657928467
+[Covid-19 pandemic]: Orange level --[AFFECTS]-> traffic on the roads 0.8044878244400024
+[Covid-19 Pandemic]: Reporting Time Frame --[AFFECTED_BY]-> Covid-19 Pandemic 0.8924978375434875
+[Covid-19 Pandemic]: Covid-19 Pandemic --[HAS]-> 4-level Alert System 0.8560466170310974
+[Covid-19 Pandemic]: 2020 and 2021 data --[INCOMPLETE]-> crash records 0.8387453556060791
+[Covid-19 Pandemic]: Crash Analysis System --[UPDATED]-> Traffic Crash Report 0.8343913555145264
+[Covid-19 Pandemic]: police reporting time frame --[AFFECTS]-> crash records 0.8333867788314819
+[Covid-19 Pandemic]: Transport Agency --[GETS_INFORMATION]-> Traffic Crash Reports 0.83155357837677
+[Covid-19 Pandemic]: Traffic Crash Report --[CONTAINS]-> Crash Data 0.8296489119529724
+[additional costs caused by the Covid-19 pandemic]: COVID-19 --[AFFECTS]-> Road Traffic 0.8908217549324036
+[additional costs caused by the Covid-19 pandemic]: COVID-19 --[CHANGED]-> Traffic Light System 0.8676449656486511
+[additional costs caused by the Covid-19 pandemic]: New Zealand --[HAS_PANDEMIC]-> COVID-19 0.8639351725578308
+[additional costs caused by the Covid-19 pandemic]: COVID-19 Lockdown --[CAUSED]-> significant reduction in business travel 0.862113893032074
+[additional costs caused by the Covid-19 pandemic]: Road Crashes --[DECREASED]-> Lockdowns 0.8517574071884155
+[additional costs caused by the Covid-19 pandemic]: Periodic Payments --[FOR]-> additional costs caused by the Covid-19 pandemic 0.8484885096549988
+[additional costs caused by the Covid-19 pandemic]: road conditions --[AFFECTS]-> driver safety 0.8483480215072632
+[COVID-19]: COVID-19 --[AFFECTS]-> Road Traffic 0.8908217549324036
+[COVID-19]: COVID-19 --[CHANGED]-> Traffic Light System 0.8676449656486511
+[COVID-19]: New Zealand --[HAS_PANDEMIC]-> COVID-19 0.8639351725578308
+[COVID-19]: COVID-19 Lockdown --[CAUSED]-> significant reduction in business travel 0.862113893032074
+[COVID-19]: Road Crashes --[AFFECTED_BY]-> Traffic Levels 0.8597339987754822
+[COVID-19]: Road Crashes --[DECREASED]-> Lockdowns 0.8517574071884155
+[COVID-19]: Periodic Payments --[FOR]-> additional costs caused by the Covid-19 pandemic 0.8484885096549988

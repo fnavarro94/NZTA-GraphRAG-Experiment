@@ -1,0 +1,36 @@
+How many drivers had a zero-alcohol condition on their licence as of 1 July 2018?
+None
+Seed: Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence
+Seed: Standard condition of drivers under 20 subject to zero alcohol level are not included
+Seed: Driving With Excess Blood Alcohol Level
+Seed: Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Data --[IS]-> Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence 0.8599197864532471
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Crash Analysis System --[PROVIDES]-> Data 0.7756615877151489
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Deceased Drivers --[ASSOCIATED_WITH]-> Crash Analysis System 0.809833824634552
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Crash Analysis System --[ASSOCIATED_WITH]-> Deceased Drivers 0.8034515380859375
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Crash Analysis System --[UPDATED]-> Traffic Crash Report 0.8012667298316956
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Crash Analysis System --[PROVIDES]-> Traffic Crash Report 0.7891673445701599
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Crash Analysis System --[ASSOCIATED_WITH]-> Traffic Crash Report 0.7839152216911316
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: 2020 --[FATAL_CRASHES]-> Crash Analysis System 0.8004175424575806
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Traffic Crash Report --[ASSOCIATED_WITH]-> Crash Analysis System 0.7882365584373474
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.7870821952819824
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Crash Analysis System --[MAINTAINS]-> Waka Kotahi N Z Transport Agency 0.7703388333320618
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Crash Analysis System --[UPDATES]-> Traffic Crash Report 0.7903845906257629
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: road accident data --[FROM]-> Crash Analysis System 0.7910692691802979
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Crash Analysis System --[PROVIDES]-> road accident data 0.7855695486068726
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Crash Analysis System --[MANAGED_BY]-> New Zealand Transport Agency 0.800558865070343
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: crash movements and cause factors --[RECORDED_IN]-> Crash Analysis System 0.7775194048881531
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: New Zealand Transport Agency --[MAINTAINS]-> Crash Analysis System 0.7828900218009949
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: primary contribution --[DETERMINED]-> Crash Analysis System 0.7727694511413574
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Crash Analysis System --[PROVIDES]-> data on road traffic crashes 0.7937971353530884
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Crash Analysis System --[UPDATES]-> Traffic Crash Reports 0.7904171347618103
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Crash Analysis System --[CAPTURES]-> information on crashes 0.7775688767433167
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Crash Analysis System --[USES]-> contributing factor codes 0.7774728536605835
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: New Zealand Transport Agency --[MANAGES]-> Crash Analysis System 0.7813866138458252
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Traffic Crash Report --[RECORDED_IN]-> Crash Analysis System 0.787726879119873
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Crash Analysis System --[UPDATES]-> Data 0.7621753811836243
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: New Zealand Transport Agency Waka Kotahi --[MAINTAINS]-> Crash Analysis System 0.7656877040863037
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Crash Analysis System --[PROVIDES]-> traffic crash data 0.7892712354660034
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.7640554308891296
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Crash Analysis System --[CONTAINS]-> Traffic Crash Report 0.791191577911377
+[Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence]: Crash Analysis System --[RECORDS]-> seven non-injury crashes 0.8126109838485718

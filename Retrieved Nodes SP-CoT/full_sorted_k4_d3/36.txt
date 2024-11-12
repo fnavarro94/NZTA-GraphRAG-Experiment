@@ -1,0 +1,34 @@
+What is the abbreviation commonly used to refer to the initiative that focuses on expanding bus and train services, improving infrastructure, and integrating different modes of transport in Auckland to enhance public transport?
+None
+Seed: Promoting public transport initiatives
+Seed: Regional transport initiatives
+Seed: Adopting integrated transport planning approaches that consider public transport
+Seed: Enhancing public transport systems
+[Promoting public transport initiatives]: New zealand transport agency --[Implemented]-> Initiatives 0.8858681917190552
+[Promoting public transport initiatives]: Auckland transport --[Actively involved in]-> Promoting public transport use 0.8713282346725464
+[Promoting public transport initiatives]: Auckland transport --[Actively involved in]-> Community engagement 0.8710547089576721
+[Promoting public transport initiatives]: New zealand --[Has]-> Public transport integration 0.8708680868148804
+[Promoting public transport initiatives]: New zealand --[Has]-> Transport equity initiatives 0.8707995414733887
+[Promoting public transport initiatives]: Auckland transport --[Focused on]-> Promoting active transport modes 0.8700095415115356
+[Promoting public transport initiatives]: Auckland transport --[Remains]-> Forefront of addressing opportunities 0.8693814277648926
+[Regional transport initiatives]: New zealand transport agency --[Implemented]-> Initiatives 0.8858681917190552
+[Regional transport initiatives]: New zealand transport agency --[Initiated]-> Programs aimed at improving transport access 0.8608872890472412
+[Regional transport initiatives]: New zealand transport agency --[Is responsible for]-> Promoting public transport initiatives 0.8604874014854431
+[Regional transport initiatives]: New zealand transport agency --[Plays]-> Pivotal role 0.8554122447967529
+[Regional transport initiatives]: Auckland transport --[Collaborates with]-> New zealand transport agency 0.8536761403083801
+[Regional transport initiatives]: New zealand --[Has]-> New zealand transport agency 0.8531492948532104
+[Regional transport initiatives]: New zealand transport agency --[Plays]-> Pivotal role in facilitating road user engagement 0.851726233959198
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting 0.8367971777915955
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider public transport 0.8265685439109802
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Aims to]-> Create more sustainable transport networks 0.8235153555870056
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Aims to]-> Create more efficient transport networks 0.8231562376022339
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches 0.8229261636734009
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider active transport modes 0.8223965167999268
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider land use 0.8082061409950256
+[Enhancing public transport systems]: New zealand transport agency --[Implemented]-> Initiatives 0.8858681917190552
+[Enhancing public transport systems]: New zealand --[Has]-> Public transport integration 0.8708680868148804
+[Enhancing public transport systems]: New zealand --[Has]-> Transport equity initiatives 0.8707995414733887
+[Enhancing public transport systems]: Auckland --[Has]-> Transport infrastructure 0.8669147491455078
+[Enhancing public transport systems]: Auckland --[Has]-> Focus on promoting active transport options 0.8659470081329346
+[Enhancing public transport systems]: Auckland --[Has]-> Focus on expanding public transport networks 0.8654494285583496
+[Enhancing public transport systems]: Sustainable urban transport --[Key component]-> Auckland 0.8653525710105896

@@ -1,0 +1,36 @@
+What program, established in the year when the Onehunga Line was reintroduced, enhancing the connection between the two locations connected by the first railway line constructed in New Zealand in 1873, requires periodic testing of older vehicles to ensure they meet emissions standards throughout their operational life?
+None
+Seed: First railway line between auckland and onehunga in 1873
+Seed: Vehicles meet specific emissions standards
+Seed: Periodic testing of older vehicles
+Seed: Vehicle exhaust emissions testing programme
+[First railway line between auckland and onehunga in 1873]: New zealand --[Had]-> First railway line between auckland and onehunga in 1873 0.9003486633300781
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Transport projects 0.8300265073776245
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.8110094666481018
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Diverse transport network 0.8100783228874207
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Post-incident review 0.7561074495315552
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.813936710357666
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.8030856251716614
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Broader environmental policies 0.8071910738945007
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Traffic congestion 0.8005222082138062
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Increasing urbanization 0.7814464569091797
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Graduated licensing system 0.7864032983779907
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Extensive coastline supporting a thriving fishing industry and recreational boating activities 0.7548639178276062
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Trend towards more integrated and environmentally friendly transport solutions 0.8035260438919067
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Extensive network of roads 0.7999160885810852
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Public transport network planning 0.8111904859542847
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Public transit 0.7988860011100769
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Goal 0.7663846015930176
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Transport system sustainability 0.8197996616363525
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Walking 0.7794436812400818
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Cycling 0.7790026068687439
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Biodiversity 0.7637977600097656
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Urban-rural dynamics 0.7871694564819336
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Unique geographical features 0.7832837700843811
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Growing emphasis on sustainable transport solutions 0.7961983680725098
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Transport funding strategies 0.8119364976882935
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Growing population 0.7584723830223083
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Light rail 0.8197310566902161
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Buses 0.7931534051895142
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Land transport management act 2003 0.804337203502655
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Ferries 0.789903998374939

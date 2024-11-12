@@ -1,0 +1,36 @@
+What is the largest city in the country where individuals must be at least 16 years old to apply for a learner's permit, which is the first stage of the driver licensing process that can be obtained at the age of 16, served by the key transport corridor critical for freight and passenger movement and runs through the North Island?
+None
+Seed: Age of 16
+Seed: Drivers to obtain specific licenses that demonstrate their competency in handling large vehicles
+Seed: Licensing of drivers and vehicles
+Seed: Legal framework for licensing of drivers
+[Age of 16]: Learner license --[Obtained at]-> Age of 16 0.8489243984222412
+[Age of 16]: Learner license --[Aims]-> Reduce risk of accidents 0.7974907159805298
+[Age of 16]: Learner license --[Promotes]-> Responsible driving habits 0.800751268863678
+[Age of 16]: Learner license --[Valid]-> Five years 0.803164541721344
+[Age of 16]: Learner license --[Importance]-> Road safety 0.8110213279724121
+[Age of 16]: Smart technology integration --[Improves]-> Road safety 0.7373032569885254
+[Age of 16]: New zealand transport agency --[Promotes]-> Road safety 0.7798884510993958
+[Age of 16]: Learner license --[Enhances]-> Road safety 0.8106825947761536
+[Age of 16]: New zealand --[Committed to]-> Road safety 0.7866154909133911
+[Age of 16]: Autonomous vehicles --[Promise to enhance]-> Road safety 0.7474924921989441
+[Age of 16]: Land transport act 1998 --[Outlines]-> Road safety 0.7678734064102173
+[Age of 16]: Intelligent transport systems --[Enhance]-> Road safety 0.7497231960296631
+[Age of 16]: Road design guidelines --[Encompass]-> Road safety 0.7655304074287415
+[Age of 16]: Traffic management systems --[Enhance]-> Road safety 0.753787636756897
+[Age of 16]: Learner license --[Requires]-> Specific conditions 0.7840071320533752
+[Age of 16]: Learner license --[Issued in]-> New zealand 0.8260117173194885
+[Age of 16]: New zealand --[Has]-> Transport projects 0.8147782683372498
+[Age of 16]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.806117057800293
+[Age of 16]: New zealand --[Has]-> Diverse transport network 0.8107389211654663
+[Age of 16]: New zealand --[Has]-> Post-incident review 0.748393177986145
+[Age of 16]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.7596619129180908
+[Age of 16]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.7747791409492493
+[Age of 16]: New zealand --[Has]-> Broader environmental policies 0.7704488039016724
+[Age of 16]: New zealand --[Has]-> Traffic congestion 0.8048508167266846
+[Age of 16]: New zealand --[Has]-> Increasing urbanization 0.7792201042175293
+[Age of 16]: New zealand --[Has]-> Graduated licensing system 0.8128553032875061
+[Age of 16]: New zealand --[Has]-> Extensive coastline supporting a thriving fishing industry and recreational boating activities 0.7712156772613525
+[Age of 16]: New zealand --[Has]-> Trend towards more integrated and environmentally friendly transport solutions 0.7774478197097778
+[Age of 16]: New zealand --[Has]-> Extensive network of roads 0.8089814782142639
+[Age of 16]: New zealand --[Has]-> Public transport network planning 0.8030252456665039

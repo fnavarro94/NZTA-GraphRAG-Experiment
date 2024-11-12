@@ -1,0 +1,36 @@
+How many sick days were taken by permanent staff since March 2015?
+None
+Seed: sick days taken by full-time permanent staff
+Seed: sick leave data
+Seed: 2015
+Seed: Employee Assistance Programme
+[sick days taken by full-time permanent staff]: New Zealand Transport Agency --[PROVIDES]-> sick days taken by full-time permanent staff 0.8707587718963623
+[sick days taken by full-time permanent staff]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7374218106269836
+[sick days taken by full-time permanent staff]: New Zealand Transport Agency --[BASED]-> Wellington 0.7406212687492371
+[sick days taken by full-time permanent staff]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7621355056762695
+[sick days taken by full-time permanent staff]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.7647665143013
+[sick days taken by full-time permanent staff]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7487810850143433
+[sick days taken by full-time permanent staff]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7321336269378662
+[sick days taken by full-time permanent staff]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7383713722229004
+[sick days taken by full-time permanent staff]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7419127225875854
+[sick days taken by full-time permanent staff]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7503300905227661
+[sick days taken by full-time permanent staff]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7489563822746277
+[sick days taken by full-time permanent staff]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7642467021942139
+[sick days taken by full-time permanent staff]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7490451335906982
+[sick days taken by full-time permanent staff]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7568891048431396
+[sick days taken by full-time permanent staff]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7556413412094116
+[sick days taken by full-time permanent staff]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7532885670661926
+[sick days taken by full-time permanent staff]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7583386898040771
+[sick days taken by full-time permanent staff]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7423763871192932
+[sick days taken by full-time permanent staff]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7622492909431458
+[sick days taken by full-time permanent staff]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.74115389585495
+[sick days taken by full-time permanent staff]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7329182624816895
+[sick days taken by full-time permanent staff]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7757700681686401
+[sick days taken by full-time permanent staff]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7379103899002075
+[sick days taken by full-time permanent staff]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7649281620979309
+[sick days taken by full-time permanent staff]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7639476656913757
+[sick days taken by full-time permanent staff]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7704113125801086
+[sick days taken by full-time permanent staff]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7439930438995361
+[sick days taken by full-time permanent staff]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7461797595024109
+[sick days taken by full-time permanent staff]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7445225119590759
+[sick days taken by full-time permanent staff]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7515797019004822

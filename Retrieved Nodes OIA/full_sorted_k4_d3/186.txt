@@ -1,0 +1,28 @@
+What is the process for proposing improvements to the Hornby Intersection if no improvements are planned?
+None
+Seed: Request for information on Hornby Intersection improvements
+Seed: no other intersection safety improvements planned
+Seed: Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case
+Seed: Hornby Intersection
+[Request for information on Hornby Intersection improvements]: Request for information on Hornby Intersection improvements --[REQUESTS]-> New Zealand Transport Agency 0.9006513357162476
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[RESPONDS_TO]-> Request for information on Hornby Intersection improvements 0.8891997337341309
+[Request for information on Hornby Intersection improvements]: Let's Get Wellington Moving --[HAS_COMPONENT]-> Strategic Highway Improvements 0.8702057600021362
+[Request for information on Hornby Intersection improvements]: Saddle Road Route --[REQUIRES]-> road maintenance 0.8404077887535095
+[Request for information on Hornby Intersection improvements]: funding for road maintenance --[FOR]-> State Highway 1 0.8386686444282532
+[Request for information on Hornby Intersection improvements]: Saddle Road Route --[REQUIRES]-> maintenance 0.8367624282836914
+[Request for information on Hornby Intersection improvements]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.8319461345672607
+[no other intersection safety improvements planned]: Featherston --[RAISED_CROSSINGS]-> no other intersection safety improvements planned 0.8450115323066711
+[no other intersection safety improvements planned]: Featherston --[RAISED_CROSSINGS]-> three improvements to existing crossings 0.8374655246734619
+[no other intersection safety improvements planned]: Featherston --[RAISED_CROSSINGS]-> one crossing near SH2/Lyon Street/Birdwood Street intersection 0.8131490349769592
+[no other intersection safety improvements planned]: Featherston --[RAISED_CROSSINGS]-> one crossing near Daniell Street 0.8126132488250732
+[no other intersection safety improvements planned]: Featherston --[RAISED_CROSSINGS]-> two new crossings 0.806904673576355
+[no other intersection safety improvements planned]: Featherston --[RAISED_CROSSINGS]-> staged way over time 0.8048109412193298
+[no other intersection safety improvements planned]: median barriers --[LOCATED]-> New Zealand 0.796870231628418
+[Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Access and Development Programme Business Case 0.8754116296768188
+[Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.873885989189148
+[Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case]: Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.8706427216529846
+[Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case]: Hornby Access and Development Programme Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.861638605594635
+[Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.8597006797790527
+[Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case]: Main South Road, Shands Road and Carmen Road intersection --[LOCATED_NEAR]-> Hornby Access and Development Programme Business Case 0.8556966185569763
+[Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Access and Development Programme Business Case 0.8549774885177612
+[Hornby Intersection]: Hornby Intersection --[IMPROVEMENTS_PLANNED]-> next 10 years 0.9156594276428223

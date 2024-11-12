@@ -1,0 +1,34 @@
+Which country hosted the adoption of the international agreement that promotes road safety and the harmonization of traffic regulations among member countries, to which the country where the regional council responsible for planning and delivering public transport services in the Greater Wellington area is located is a signatory?
+None
+Seed: New zealand's commitment to international standards in road safety and traffic management
+Seed: New zealand's road safety initiatives
+Seed: Governance and management of wellington region
+Seed: Management and regulation of the transport system in new zealand
+[New zealand's commitment to international standards in road safety and traffic management]: Greater wellington regional council --[Oversees]-> Integrated transport system 0.889229416847229
+[New zealand's commitment to international standards in road safety and traffic management]: Wellington --[Transport system managed by]-> Greater wellington regional council 0.8848996162414551
+[New zealand's commitment to international standards in road safety and traffic management]: Greater wellington regional council --[Responsible for]-> Managing public transport services 0.883847177028656
+[New zealand's commitment to international standards in road safety and traffic management]: Wellington public transport plan --[Developed by]-> Greater wellington regional council 0.8775378465652466
+[New zealand's commitment to international standards in road safety and traffic management]: Greater wellington regional council --[Is]-> Regional local government authority 0.8764584064483643
+[New zealand's commitment to international standards in road safety and traffic management]: Wellington regional council --[Oversees]-> Public transport services 0.8761635422706604
+[New zealand's commitment to international standards in road safety and traffic management]: Greater wellington regional council --[Collaborates with]-> Local councils and new zealand transport agency 0.8749080300331116
+[New zealand's road safety initiatives]: Greater wellington regional council --[Oversees]-> Integrated transport system 0.889229416847229
+[New zealand's road safety initiatives]: Wellington --[Transport system managed by]-> Greater wellington regional council 0.8848996162414551
+[New zealand's road safety initiatives]: Greater wellington regional council --[Responsible for]-> Managing public transport services 0.883847177028656
+[New zealand's road safety initiatives]: Wellington public transport plan --[Developed by]-> Greater wellington regional council 0.8775378465652466
+[New zealand's road safety initiatives]: Greater wellington regional council --[Is]-> Regional local government authority 0.8764584064483643
+[New zealand's road safety initiatives]: Wellington regional council --[Oversees]-> Public transport services 0.8761635422706604
+[New zealand's road safety initiatives]: Greater wellington regional council --[Collaborates with]-> Local councils and new zealand transport agency 0.8749080300331116
+[Governance and management of wellington region]: Greater wellington regional council --[Oversees]-> Integrated transport system 0.889229416847229
+[Governance and management of wellington region]: Wellington --[Transport system managed by]-> Greater wellington regional council 0.8848996162414551
+[Governance and management of wellington region]: Greater wellington regional council --[Responsible for]-> Managing public transport services 0.883847177028656
+[Governance and management of wellington region]: Wellington public transport plan --[Developed by]-> Greater wellington regional council 0.8775378465652466
+[Governance and management of wellington region]: Greater wellington regional council --[Is]-> Regional local government authority 0.8764584064483643
+[Governance and management of wellington region]: Wellington regional council --[Oversees]-> Public transport services 0.8761635422706604
+[Governance and management of wellington region]: Greater wellington regional council --[Collaborates with]-> Local councils and new zealand transport agency 0.8749080300331116
+[Management and regulation of the transport system in new zealand]: Greater wellington regional council --[Oversees]-> Integrated transport system 0.889229416847229
+[Management and regulation of the transport system in new zealand]: Wellington --[Transport system managed by]-> Greater wellington regional council 0.8848996162414551
+[Management and regulation of the transport system in new zealand]: Greater wellington regional council --[Responsible for]-> Managing public transport services 0.883847177028656
+[Management and regulation of the transport system in new zealand]: Wellington public transport plan --[Developed by]-> Greater wellington regional council 0.8775378465652466
+[Management and regulation of the transport system in new zealand]: Greater wellington regional council --[Is]-> Regional local government authority 0.8764584064483643
+[Management and regulation of the transport system in new zealand]: Wellington regional council --[Oversees]-> Public transport services 0.8761635422706604
+[Management and regulation of the transport system in new zealand]: Greater wellington regional council --[Collaborates with]-> Local councils and new zealand transport agency 0.8749080300331116

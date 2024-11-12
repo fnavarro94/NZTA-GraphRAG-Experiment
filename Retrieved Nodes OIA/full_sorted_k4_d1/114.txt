@@ -1,0 +1,10 @@
+Were any complaints about vehicle certifications upheld, and what actions were taken?
+None
+Seed: information on vehicle and driver registration and licensing
+Seed: vehicle registration and licensing
+Seed: 196 complaints about Uber drivers
+Seed: instances where a driver and/or passenger may automatically be excused from the requirement to utilise a child restrain and seatbelt
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[PROVIDES]-> information on vehicle and driver registration and licensing 0.8286532163619995
+[vehicle registration and licensing]: Waka Kotahi --[REFUSES_REQUEST]-> vehicle registration and licensing 0.851997971534729
+[196 complaints about Uber drivers]: Waka Kotahi --[RECEIVES]-> 196 complaints about Uber drivers 0.8082746267318726
+[instances where a driver and/or passenger may automatically be excused from the requirement to utilise a child restrain and seatbelt]: Land Transport (Road User) Rule 2004 --[SPECIFIES]-> instances where a driver and/or passenger may automatically be excused from the requirement to utilise a child restrain and seatbelt 0.8005300760269165

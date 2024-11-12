@@ -1,0 +1,10 @@
+What is the destination of the scenic train operated by the organization that operates the rail network in New Zealand, primarily serving freight and providing passenger services in metropolitan areas, known for its breathtaking views of New Zealand's landscapes, departing from the urban area in New Zealand that has experienced significant investment in public transport infrastructure alongside Auckland and Wellington?
+None
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+Seed: Both passenger and freight transport across the cook strait
+Seed: New zealand's transport network
+Seed: New zealand's stunning landscapes
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Plays]-> Significant role in shaping transport infrastructure and policy in new zealand 0.8417080640792847
+[Both passenger and freight transport across the cook strait]: Port of wellington --[Facilitates]-> Both passenger and freight transport across the cook strait 0.8339502811431885
+[New zealand's transport network]: Road infrastructure projects --[Play crucial role in]-> New zealand's transport network 0.8444597721099854
+[New zealand's stunning landscapes]: Passenger rail services --[Showcase]-> New zealand's stunning landscapes 0.8840147256851196

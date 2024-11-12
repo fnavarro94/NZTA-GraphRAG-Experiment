@@ -1,0 +1,36 @@
+What is the abbreviation commonly used to refer to the initiative that focuses on expanding bus and train services, improving infrastructure, and integrating different modes of transport in Auckland to enhance public transport?
+None
+Seed: Promoting public transport initiatives
+Seed: Regional transport initiatives
+Seed: Adopting integrated transport planning approaches that consider public transport
+Seed: Enhancing public transport systems
+[Promoting public transport initiatives]: New zealand transport agency --[Is responsible for]-> Promoting public transport initiatives 0.8604874014854431
+[Promoting public transport initiatives]: New zealand --[Has]-> New zealand transport agency 0.8531492948532104
+[Promoting public transport initiatives]: New zealand --[Has]-> Transport projects 0.8578726649284363
+[Promoting public transport initiatives]: New zealand transport agency --[Oversees]-> Transport projects 0.8349791765213013
+[Promoting public transport initiatives]: Auckland --[Has]-> Transport projects 0.8633884191513062
+[Promoting public transport initiatives]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.8256103992462158
+[Promoting public transport initiatives]: New zealand --[Has]-> Diverse transport network 0.8396939039230347
+[Promoting public transport initiatives]: New zealand --[Has]-> Post-incident review 0.7589499354362488
+[Promoting public transport initiatives]: Post-incident review --[Crucial for]-> Improving operational efficiency 0.754257082939148
+[Promoting public transport initiatives]: Post-incident review --[Crucial for]-> Fostering culture of continuous improvement 0.7503349184989929
+[Promoting public transport initiatives]: Post-incident review --[Aimed at]-> Recommending measures 0.7451589107513428
+[Promoting public transport initiatives]: Post-incident review --[Crucial for]-> Enhancing safety 0.7467222809791565
+[Promoting public transport initiatives]: Post-incident review --[Is]-> Systematic process 0.7528086304664612
+[Promoting public transport initiatives]: Post-incident review --[Conducted]-> Following an incident 0.7426744699478149
+[Promoting public transport initiatives]: Post-incident review --[Aimed at]-> Analyzing circumstances 0.7471504807472229
+[Promoting public transport initiatives]: Post-incident review --[Aimed at]-> Identifying contributing factors 0.7476147413253784
+[Promoting public transport initiatives]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.810884952545166
+[Promoting public transport initiatives]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.805478036403656
+[Promoting public transport initiatives]: New zealand --[Has]-> Broader environmental policies 0.7893350720405579
+[Promoting public transport initiatives]: New zealand --[Has]-> Traffic congestion 0.8108476400375366
+[Promoting public transport initiatives]: Auckland --[Faces challenges]-> Traffic congestion 0.8202974200248718
+[Promoting public transport initiatives]: Wellington public transport plan --[Initiated in response to]-> Traffic congestion 0.8311946392059326
+[Promoting public transport initiatives]: Auckland --[Has]-> Traffic congestion 0.8188703656196594
+[Promoting public transport initiatives]: Wellington --[Has]-> Traffic congestion 0.7954903841018677
+[Promoting public transport initiatives]: Wellington public transport spine study --[Initiated in response to]-> Traffic congestion 0.8037458062171936
+[Promoting public transport initiatives]: Sustainable urban transport --[Faces challenges]-> Traffic congestion 0.7912794947624207
+[Promoting public transport initiatives]: New zealand --[Face]-> Traffic congestion 0.7969791889190674
+[Promoting public transport initiatives]: New zealand --[Address]-> Traffic congestion 0.810550332069397
+[Promoting public transport initiatives]: New zealand --[Has]-> Increasing urbanization 0.8035902976989746
+[Promoting public transport initiatives]: Wellington public transport plan --[Initiated in response to]-> Increasing urbanization 0.8465269207954407

@@ -1,0 +1,36 @@
+How many road deaths in Christchurch between 2017 and 2019 were attributed to alcohol being a contributing factor?
+None
+Seed: information on Christchurch road deaths
+Seed: Road Traffic Crashes
+Seed: Alcohol Consumption
+Seed: 45-60 fatalities
+[information on Christchurch road deaths]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8587267398834229
+[information on Christchurch road deaths]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7581126093864441
+[information on Christchurch road deaths]: New Zealand Transport Agency --[BASED]-> Wellington 0.7924361824989319
+[information on Christchurch road deaths]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7547750473022461
+[information on Christchurch road deaths]: Golden Mile --[LOCATED]-> Wellington 0.7672225832939148
+[information on Christchurch road deaths]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7934899926185608
+[information on Christchurch road deaths]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7619097828865051
+[information on Christchurch road deaths]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7675973773002625
+[information on Christchurch road deaths]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7559285163879395
+[information on Christchurch road deaths]: Wellington --[PART_OF]-> Wellington Region 0.7968180179595947
+[information on Christchurch road deaths]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7981285452842712
+[information on Christchurch road deaths]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7610467076301575
+[information on Christchurch road deaths]: Wellington --[HAS]-> tunnel 0.7938805818557739
+[information on Christchurch road deaths]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7577252984046936
+[information on Christchurch road deaths]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7494818568229675
+[information on Christchurch road deaths]: Wellington --[POSTCODE]-> 6141 0.749855637550354
+[information on Christchurch road deaths]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7856717109680176
+[information on Christchurch road deaths]: Wellington --[IS_PART_OF]-> New Zealand 0.8064200282096863
+[information on Christchurch road deaths]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7725337147712708
+[information on Christchurch road deaths]: 50 Victoria Street --[IN]-> Wellington 0.7676597833633423
+[information on Christchurch road deaths]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7620030045509338
+[information on Christchurch road deaths]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7607327699661255
+[information on Christchurch road deaths]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7499891519546509
+[information on Christchurch road deaths]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.765350341796875
+[information on Christchurch road deaths]: NZ Transport Agency --[LOCATED]-> Wellington 0.787208080291748
+[information on Christchurch road deaths]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7889584302902222
+[information on Christchurch road deaths]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7993611693382263
+[information on Christchurch road deaths]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7618528604507446
+[information on Christchurch road deaths]: New Zealand --[CONTAINS]-> Wellington 0.7992068529129028
+[information on Christchurch road deaths]: Wellington --[PART_OF]-> New Zealand 0.8051376938819885

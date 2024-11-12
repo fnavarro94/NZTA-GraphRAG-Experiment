@@ -1,0 +1,10 @@
+What nickname is commonly associated with the cities in New Zealand that are implementing extensive cycling networks and pedestrian-friendly infrastructure to address traffic congestion, highlighting Auckland's maritime culture?
+None
+Seed: Cycling infrastructure and public transport initiatives
+Seed: Culture of cycling as a primary mode of transport
+Seed: Addressing transport challenges in auckland
+Seed: New zealand's transport network
+[Cycling infrastructure and public transport initiatives]: North island --[Features]-> Cycling infrastructure and public transport initiatives 0.840054988861084
+[Culture of cycling as a primary mode of transport]: Wellington cycle network --[Fosters]-> Culture of cycling as a primary mode of transport 0.8694759011268616
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Addressing transport challenges in auckland 0.8376573324203491
+[New zealand's transport network]: Road infrastructure projects --[Play crucial role in]-> New zealand's transport network 0.8587719202041626

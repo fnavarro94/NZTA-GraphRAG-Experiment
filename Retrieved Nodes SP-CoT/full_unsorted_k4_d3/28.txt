@@ -1,0 +1,36 @@
+What is the target year set by the government for achieving 100% of the light vehicle fleet being zero-emission as part of their initiatives focused on evaluating the economic implications of transport systems and policies in New Zealand?
+None
+Seed: 100% of light vehicle fleet being zero-emission by 2035
+Seed: New zealand's commitment to sustainable transport
+Seed: Target for net-zero emissions by 2050
+Seed: Achieving net-zero emissions by 2050
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Goal]-> 100% of light vehicle fleet being zero-emission by 2035 0.936819851398468
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand road safety strategy --[Established by]-> New zealand government 0.8533427715301514
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand road safety strategy --[Improves]-> Overall safety of the transport system 0.8442195653915405
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand road safety strategy --[Promotes]-> Responsible driving behaviors 0.8179789781570435
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand road safety strategy --[Aims to]-> Enhance road safety 0.8332619667053223
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand road safety strategy --[Outlines]-> Initiatives and policies 0.844752848148346
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand road safety strategy --[Designed to]-> Create safer transport environment for all road users 0.8525277376174927
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand road safety strategy --[Aimed at]-> Reducing road traffic injuries and fatalities 0.8360051512718201
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand road safety strategy --[Outlines]-> Series of initiatives and policies 0.8410301804542542
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand road safety strategy --[Established in response to]-> Growing concerns over road safety 0.8420498967170715
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand road safety strategy --[Is]-> Comprehensive framework 0.8239257335662842
+[100% of light vehicle fleet being zero-emission by 2035]: Traffic safety audits --[Align]-> New zealand road safety strategy 0.811292827129364
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Developed]-> Various road safety strategies over the years 0.8397526741027832
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Plans to]-> Integrate mobile ticketing applications 0.7852475643157959
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Plans to]-> Incorporate data analytics to improve service delivery and user experience 0.8045276999473572
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Committed to]-> Further enhancing the integrated ticketing system 0.8143261075019836
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Plans to]-> Expand contactless payment options 0.780859112739563
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Set]-> Ambitious targets to increase number of evs on the road 0.8736094236373901
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Implemented]-> Range of policies to promote adoption of alternative energy sources 0.8480570316314697
+[100% of light vehicle fleet being zero-emission by 2035]: Kiwirail group --[Owned by]-> New zealand government 0.8312844038009644
+[100% of light vehicle fleet being zero-emission by 2035]: Kiwirail group --[Is]-> State-owned enterprise 0.8119919300079346
+[100% of light vehicle fleet being zero-emission by 2035]: Kiwirail group --[Provides]-> Essential services 0.8014256954193115
+[100% of light vehicle fleet being zero-emission by 2035]: Kiwirail group --[Provides]-> Efficient transport 0.8241043090820312
+[100% of light vehicle fleet being zero-emission by 2035]: Kiwirail group --[Provides]-> Sustainable transport 0.8409123420715332
+[100% of light vehicle fleet being zero-emission by 2035]: Kiwirail group --[Addresses]-> Environmental concerns 0.8292313814163208
+[100% of light vehicle fleet being zero-emission by 2035]: Kiwirail group --[Addresses]-> Road congestion 0.7988405823707581
+[100% of light vehicle fleet being zero-emission by 2035]: Kiwirail group --[Responsible for]-> Rail transport 0.8287206292152405
+[100% of light vehicle fleet being zero-emission by 2035]: Kiwirail group --[Responsible for]-> Freight services 0.8162409067153931
+[100% of light vehicle fleet being zero-emission by 2035]: Kiwirail group --[Promotes]-> Integrated transport solutions 0.8145207166671753
+[100% of light vehicle fleet being zero-emission by 2035]: Kiwirail group --[Promotes]-> Economic growth 0.8313931822776794

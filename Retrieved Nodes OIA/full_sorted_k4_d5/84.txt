@@ -1,0 +1,32 @@
+Where can information on driver licensing trends and related statistics be found?
+None
+Seed: information on vehicle and driver registration and licensing
+Seed: information on visiting drivers survey
+Seed: Speed and Drunk Driving Enforcement
+Seed: summary of the visiting drivers survey
+[information on vehicle and driver registration and licensing]: learners, restricted, full licenses and vehicle classes --[TREND]-> increase/decrease 0.8735510110855103
+[information on vehicle and driver registration and licensing]: Driving Tests Data.xlsx --[PROVIDES]-> driver's licence test statistics 0.8697143793106079
+[information on vehicle and driver registration and licensing]: David Williams --[REQUESTS]-> information on visiting drivers survey 0.8662194013595581
+[information on vehicle and driver registration and licensing]: Data --[IS]-> Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019 0.8618201017379761
+[information on vehicle and driver registration and licensing]: NZ Driver Licensing (1998) Limited --[PROVIDES]-> spreadsheet 0.8545918464660645
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[PROVIDES]-> information on vehicle and driver registration and licensing 0.8537337779998779
+[information on vehicle and driver registration and licensing]: Transport Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8528167605400085
+[information on visiting drivers survey]: learners, restricted, full licenses and vehicle classes --[TREND]-> increase/decrease 0.8735510110855103
+[information on visiting drivers survey]: Driving Tests Data.xlsx --[PROVIDES]-> driver's licence test statistics 0.8697143793106079
+[information on visiting drivers survey]: David Williams --[REQUESTS]-> information on visiting drivers survey 0.8662194013595581
+[information on visiting drivers survey]: Data --[IS]-> Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019 0.8618201017379761
+[information on visiting drivers survey]: NZ Driver Licensing (1998) Limited --[PROVIDES]-> spreadsheet 0.8545918464660645
+[information on visiting drivers survey]: New Zealand Transport Agency --[PROVIDES]-> information on vehicle and driver registration and licensing 0.8537337779998779
+[information on visiting drivers survey]: Transport Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8528167605400085
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[FOCUSES_ON]-> Restraints, Impairment, Distraction, Speed 0.8042842745780945
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[PROVIDES]-> https://www.nzta.govt.nz/assets/resources/road-policing-programme/docs/rpp-2021-24.pdf 0.7997173070907593
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[DOUBLES]-> Speed and Drunk Driving Enforcement 0.7957023978233337
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[PROVIDES]-> Road Policing Activities 0.7659034729003906
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[ALLOCATES]-> $1.24 billion 0.7626876831054688
+[summary of the visiting drivers survey]: David Williams --[REQUESTS]-> information on visiting drivers survey 0.8662194013595581
+[summary of the visiting drivers survey]: NZ Driver Licensing (1998) Limited --[PROVIDES]-> spreadsheet 0.8545918464660645
+[summary of the visiting drivers survey]: New Zealand Transport Agency --[PROVIDES]-> information on vehicle and driver registration and licensing 0.8537337779998779
+[summary of the visiting drivers survey]: Transport Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8528167605400085
+[summary of the visiting drivers survey]: New Zealand Transport Agency --[PROVIDES]-> information on visiting drivers survey 0.8504960536956787
+[summary of the visiting drivers survey]: Vehicle Inspection Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8500453233718872
+[summary of the visiting drivers survey]: Transport Safety Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8447180390357971

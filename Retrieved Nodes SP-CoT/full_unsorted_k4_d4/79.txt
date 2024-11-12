@@ -1,0 +1,36 @@
+What major arterial route enhances accessibility between Auckland and Onehunga, particularly for travel to which location?
+None
+Seed: Strategically located near major arterial routes
+Seed: Suburb located approximately 12 kilometers southwest of auckland's central business district
+Seed: First railway line between auckland and onehunga in 1873
+Seed: Access to auckland airport and other regions of the north island
+[Strategically located near major arterial routes]: Onehunga --[Is]-> Strategically located near major arterial routes 0.9042322635650635
+[Strategically located near major arterial routes]: Onehunga --[Is]-> Near state highway 20 0.8554476499557495
+[Strategically located near major arterial routes]: Onehunga --[Has]-> Encouraged more sustainable travel options 0.8492541313171387
+[Strategically located near major arterial routes]: Onehunga --[Has]-> Enhanced the overall efficiency of public transport 0.849003255367279
+[Strategically located near major arterial routes]: Onehunga --[Has]-> Key point for maritime trade 0.8189761638641357
+[Strategically located near major arterial routes]: Onehunga --[Has]-> Integration of bus and rail services 0.8632063865661621
+[Strategically located near major arterial routes]: Onehunga --[Promotes]-> Active transport 0.8047277331352234
+[Strategically located near major arterial routes]: New zealand --[Promotes]-> Active transport 0.8014782071113586
+[Strategically located near major arterial routes]: New zealand --[Has]-> Transport projects 0.8054815530776978
+[Strategically located near major arterial routes]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.7813311815261841
+[Strategically located near major arterial routes]: New zealand --[Has]-> Diverse transport network 0.8230499625205994
+[Strategically located near major arterial routes]: New zealand --[Has]-> Post-incident review 0.7441635131835938
+[Strategically located near major arterial routes]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.7645276784896851
+[Strategically located near major arterial routes]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.7814732193946838
+[Strategically located near major arterial routes]: New zealand --[Has]-> Broader environmental policies 0.7755489349365234
+[Strategically located near major arterial routes]: New zealand --[Has]-> Traffic congestion 0.8019840717315674
+[Strategically located near major arterial routes]: New zealand --[Has]-> Increasing urbanization 0.7758741974830627
+[Strategically located near major arterial routes]: New zealand --[Has]-> Graduated licensing system 0.7665019035339355
+[Strategically located near major arterial routes]: New zealand --[Has]-> Extensive coastline supporting a thriving fishing industry and recreational boating activities 0.7745484113693237
+[Strategically located near major arterial routes]: New zealand --[Has]-> Trend towards more integrated and environmentally friendly transport solutions 0.77864009141922
+[Strategically located near major arterial routes]: New zealand --[Has]-> Extensive network of roads 0.8200222253799438
+[Strategically located near major arterial routes]: New zealand --[Has]-> Public transport network planning 0.8030864596366882
+[Strategically located near major arterial routes]: New zealand --[Has]-> Public transit 0.8157182931900024
+[Strategically located near major arterial routes]: New zealand --[Has]-> Goal 0.7660350203514099
+[Strategically located near major arterial routes]: New zealand --[Has]-> Transport system sustainability 0.787921130657196
+[Strategically located near major arterial routes]: New zealand --[Has]-> Walking 0.8165197372436523
+[Strategically located near major arterial routes]: New zealand --[Has]-> Cycling 0.7831971049308777
+[Strategically located near major arterial routes]: New zealand --[Has]-> Biodiversity 0.7511900663375854
+[Strategically located near major arterial routes]: New zealand --[Has]-> Urban-rural dynamics 0.774185299873352
+[Strategically located near major arterial routes]: New zealand --[Has]-> Unique geographical features 0.7968010902404785

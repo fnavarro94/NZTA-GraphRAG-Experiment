@@ -1,0 +1,36 @@
+What is the abbreviation commonly used to refer to the initiative in Wellington that aims to create a comprehensive network of safe cycling routes?
+None
+Seed: Broader initiative by the wellington city council and greater wellington regional council
+Seed: Prominent network of cycling routes
+Seed: Wellington's commitment to becoming a more cycle-friendly city
+Seed: Cycling infrastructure and public transport initiatives
+[Broader initiative by the wellington city council and greater wellington regional council]: Wellington cycle network --[Part of]-> Broader initiative by the wellington city council and greater wellington regional council 0.8881766200065613
+[Broader initiative by the wellington city council and greater wellington regional council]: Wellington cycle network --[Established in response to]-> Increasing urban congestion 0.8611428737640381
+[Broader initiative by the wellington city council and greater wellington regional council]: Wellington cycle network --[Established in response to]-> Growing emphasis on environmentally friendly transport options 0.8636218309402466
+[Broader initiative by the wellington city council and greater wellington regional council]: Wellington cycle network --[Aligned with]-> New zealand's broader transport goals 0.8662245273590088
+[Broader initiative by the wellington city council and greater wellington regional council]: Wellington cycle network --[Fosters]-> Culture of cycling as a primary mode of transport 0.8537980318069458
+[Broader initiative by the wellington city council and greater wellington regional council]: Wellington cycle network --[Encourages]-> Cycling 0.8745092153549194
+[Broader initiative by the wellington city council and greater wellington regional council]: Auckland transport --[Oversees]-> Cycling 0.8154889345169067
+[Broader initiative by the wellington city council and greater wellington regional council]: Auckland transport --[Has]-> Vision to support growth 0.767011284828186
+[Broader initiative by the wellington city council and greater wellington regional council]: Auckland transport --[Has]-> Vision to minimize environmental impact 0.7743343114852905
+[Broader initiative by the wellington city council and greater wellington regional council]: Auckland transport --[Has]-> Vision to create efficient transport system 0.7812309265136719
+[Broader initiative by the wellington city council and greater wellington regional council]: Auckland transport --[Has]-> Vision to create integrated transport system 0.7884846925735474
+[Broader initiative by the wellington city council and greater wellington regional council]: Auckland transport --[Has]-> Long-term vision 0.7748467922210693
+[Broader initiative by the wellington city council and greater wellington regional council]: New zealand transport strategy --[Outlines]-> Long-term vision 0.7910432815551758
+[Broader initiative by the wellington city council and greater wellington regional council]: Auckland transport --[Has]-> Vision to create safe transport system 0.7970373034477234
+[Broader initiative by the wellington city council and greater wellington regional council]: Auckland transport --[Focused on]-> Promoting active transport modes 0.805479884147644
+[Broader initiative by the wellington city council and greater wellington regional council]: Auckland transport --[Focused on]-> Promoting cycling 0.8243792057037354
+[Broader initiative by the wellington city council and greater wellington regional council]: Auckland transport --[Focused on]-> Promoting walking 0.7965558767318726
+[Broader initiative by the wellington city council and greater wellington regional council]: Auckland transport --[Is]-> Primary agency 0.7924673557281494
+[Broader initiative by the wellington city council and greater wellington regional council]: Waka kotahi --[Is]-> Primary agency 0.7333093285560608
+[Broader initiative by the wellington city council and greater wellington regional council]: Auckland transport --[Implemented]-> Cycling infrastructure projects 0.8360751867294312
+[Broader initiative by the wellington city council and greater wellington regional council]: Auckland transport --[Implemented]-> Dedicated bike lanes 0.8205230832099915
+[Broader initiative by the wellington city council and greater wellington regional council]: Sustainable urban transport --[Key component]-> Dedicated bike lanes 0.8166514039039612
+[Broader initiative by the wellington city council and greater wellington regional council]: Auckland transport --[Implemented]-> Cycleways 0.8348575830459595
+[Broader initiative by the wellington city council and greater wellington regional council]: Christchurch --[Served by]-> Cycleways 0.8131678104400635
+[Broader initiative by the wellington city council and greater wellington regional council]: Auckland transport --[Introduced]-> Auckland integrated ticketing system 0.7748600244522095
+[Broader initiative by the wellington city council and greater wellington regional council]: Auckland transport --[Responsible for]-> Managing public transport services 0.7806323766708374
+[Broader initiative by the wellington city council and greater wellington regional council]: Greater wellington regional council --[Responsible for]-> Managing public transport services 0.8057316541671753
+[Broader initiative by the wellington city council and greater wellington regional council]: Auckland transport --[Responsible for]-> Development 0.7887178659439087
+[Broader initiative by the wellington city council and greater wellington regional council]: Waka kotahi --[Plays crucial role in]-> Development 0.7128282189369202
+[Broader initiative by the wellington city council and greater wellington regional council]: Kiwirail --[Involved in]-> Development 0.8068529963493347

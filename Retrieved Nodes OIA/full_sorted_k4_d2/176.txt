@@ -1,0 +1,32 @@
+How many traffic light offences were recorded for NZTA vehicles in 2021?
+None
+Seed: information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021
+Seed: information on traffic light cameras and speed cameras
+Seed: information on traffic light cameras
+Seed: Speed and Drunk Driving Enforcement
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.850106954574585
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.8209403157234192
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.8173379898071289
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: New Zealand Transport Agency --[IS]-> Waka Kotahi 0.8157720565795898
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.8149732947349548
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: New Zealand Transport Agency --[ASSOCIATED]-> Waka Kotahi 0.8146323561668396
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: NZ Transport Agency --[PROACTIVELY_RELEASED]-> Waka Kotahi 0.8136807084083557
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.850106954574585
+[information on traffic light cameras and speed cameras]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.8209403157234192
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.8173379898071289
+[information on traffic light cameras and speed cameras]: New Zealand Transport Agency --[IS]-> Waka Kotahi 0.8157720565795898
+[information on traffic light cameras and speed cameras]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.8149732947349548
+[information on traffic light cameras and speed cameras]: New Zealand Transport Agency --[ASSOCIATED]-> Waka Kotahi 0.8146323561668396
+[information on traffic light cameras and speed cameras]: NZ Transport Agency --[PROACTIVELY_RELEASED]-> Waka Kotahi 0.8136807084083557
+[information on traffic light cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.850106954574585
+[information on traffic light cameras]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.8209403157234192
+[information on traffic light cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.8173379898071289
+[information on traffic light cameras]: New Zealand Transport Agency --[IS]-> Waka Kotahi 0.8157720565795898
+[information on traffic light cameras]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.8149732947349548
+[information on traffic light cameras]: New Zealand Transport Agency --[ASSOCIATED]-> Waka Kotahi 0.8146323561668396
+[information on traffic light cameras]: NZ Transport Agency --[PROACTIVELY_RELEASED]-> Waka Kotahi 0.8136807084083557
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[PROVIDES]-> https://www.nzta.govt.nz/assets/resources/road-policing-programme/docs/rpp-2021-24.pdf 0.8540395498275757
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[DOUBLES]-> Speed and Drunk Driving Enforcement 0.8100103735923767
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[FOCUSES_ON]-> Restraints, Impairment, Distraction, Speed 0.7919169664382935
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[PROVIDES]-> Road Policing Activities 0.7864477038383484
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[ALLOCATES]-> $1.24 billion 0.7726987600326538

@@ -1,0 +1,36 @@
+Where can the Request for Proposal (RFP) for the National Ticketing Solution be found?
+None
+Seed: National Ticketing Solution request for proposal
+Seed: RFP for National Ticket System
+Seed: Request for National Ticketing System Documentation
+Seed: opportunities to make an announcement regarding changes to the national farebox recovery policy
+[National Ticketing Solution request for proposal]: www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ --[CONTAINS]-> National Ticketing Solution request for proposal 0.8974595665931702
+[National Ticketing Solution request for proposal]: RFP for National Ticket System --[AVAILABLE]-> www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ 0.9003691077232361
+[RFP for National Ticket System]: New Zealand Transport Agency --[REFUSES]-> RFP for National Ticket System 0.8359271883964539
+[RFP for National Ticket System]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7916970252990723
+[RFP for National Ticket System]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.794658899307251
+[RFP for National Ticket System]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7820478677749634
+[RFP for National Ticket System]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7821506261825562
+[RFP for National Ticket System]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7810093760490417
+[RFP for National Ticket System]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7938977479934692
+[RFP for National Ticket System]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7838353514671326
+[RFP for National Ticket System]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7656790614128113
+[RFP for National Ticket System]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7920809388160706
+[RFP for National Ticket System]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8253044486045837
+[RFP for National Ticket System]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7931967377662659
+[RFP for National Ticket System]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8160682916641235
+[RFP for National Ticket System]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8141554594039917
+[RFP for National Ticket System]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8162562847137451
+[RFP for National Ticket System]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.798099160194397
+[RFP for National Ticket System]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8000781536102295
+[RFP for National Ticket System]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7554268836975098
+[RFP for National Ticket System]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7774335741996765
+[RFP for National Ticket System]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8047239184379578
+[RFP for National Ticket System]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.778736412525177
+[RFP for National Ticket System]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8016983270645142
+[RFP for National Ticket System]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8000444769859314
+[RFP for National Ticket System]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8036066293716431
+[RFP for National Ticket System]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7792860269546509
+[RFP for National Ticket System]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7752683162689209
+[RFP for National Ticket System]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.797275185585022
+[RFP for National Ticket System]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7714275121688843

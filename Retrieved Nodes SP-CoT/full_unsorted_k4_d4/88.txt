@@ -1,0 +1,36 @@
+Which city in New Zealand utilizes the Snapper card as part of its initiative that has improved the reliability of public transport services and allowed users to plan their journeys more effectively, and what is the headquarters city of the airline that provides domestic air travel services between the North and South Islands of New Zealand and is crucial for the tourism sector?
+None
+Seed: Domestic flights to major cities across new zealand
+Seed: Flagship airline of new zealand
+Seed: Flights within new zealand
+Seed: Domestic and international travel
+[Domestic flights to major cities across new zealand]: Wellington international airport --[Provides]-> Domestic flights to major cities across new zealand 0.8587126731872559
+[Domestic flights to major cities across new zealand]: Wellington international airport --[Provides]-> International flights to australia and the south pacific 0.8472933173179626
+[Domestic flights to major cities across new zealand]: Wellington international airport --[Is]-> Primary airport serving the city 0.8269467353820801
+[Domestic flights to major cities across new zealand]: Wellington international airport --[Located]-> Just 8 kilometers from the central business district 0.8132662773132324
+[Domestic flights to major cities across new zealand]: Wellington international airport --[Known for]-> Unique location 0.822270393371582
+[Domestic flights to major cities across new zealand]: Wellington international airport --[Situated on]-> Narrow strip of land between the hills and the sea 0.8184518814086914
+[Domestic flights to major cities across new zealand]: Wellington international airport --[Presents challenges for]-> Both takeoff and landing 0.8017758131027222
+[Flagship airline of new zealand]: Air new zealand --[Is]-> Flagship airline of new zealand 0.8615130186080933
+[Flagship airline of new zealand]: Air new zealand --[Operates]-> Boeing 787 dreamliners 0.8255338668823242
+[Flagship airline of new zealand]: Air new zealand --[Member of]-> Star alliance 0.83612060546875
+[Flagship airline of new zealand]: Air new zealand --[Operates]-> Modern fleet of aircraft 0.8337572813034058
+[Flagship airline of new zealand]: Air new zealand --[Headquartered in]-> Auckland 0.8479682207107544
+[Flagship airline of new zealand]: Auckland --[Has]-> Public transport system 0.8228313326835632
+[Flagship airline of new zealand]: Christchurch --[Has]-> Public transport system 0.8143293857574463
+[Flagship airline of new zealand]: New zealand --[Has]-> Public transport system 0.8307404518127441
+[Flagship airline of new zealand]: Auckland --[Has]-> Pedestrian-friendly projects 0.796669602394104
+[Flagship airline of new zealand]: Auckland --[Has]-> Network of cycle lanes and shared paths 0.7825881242752075
+[Flagship airline of new zealand]: Auckland --[Has]-> Bus network with extensive coverage 0.7994321584701538
+[Flagship airline of new zealand]: Auckland --[Has]-> Rail network with several lines 0.8044445514678955
+[Flagship airline of new zealand]: Auckland --[Has]-> Growing population 0.7853101491928101
+[Flagship airline of new zealand]: New zealand --[Has]-> Growing population 0.7946744561195374
+[Flagship airline of new zealand]: Auckland --[Has]-> Transport infrastructure 0.8185316324234009
+[Flagship airline of new zealand]: Transport infrastructure --[Ongoing development]-> Enhancing connectivity and supporting growing populations 0.7677212357521057
+[Flagship airline of new zealand]: New zealand --[Has]-> Transport infrastructure 0.8302960395812988
+[Flagship airline of new zealand]: Auckland --[Has]-> Public transport services 0.8265106678009033
+[Flagship airline of new zealand]: Wellington regional council --[Oversees]-> Public transport services 0.7933450937271118
+[Flagship airline of new zealand]: Wellington --[Has]-> Public transport services 0.8160935640335083
+[Flagship airline of new zealand]: Land transport management act 2003 --[Governs]-> Public transport services 0.7589195966720581
+[Flagship airline of new zealand]: Local government --[Manages]-> Public transport services 0.7781695127487183
+[Flagship airline of new zealand]: Auckland --[Has]-> Rail network 0.8118627071380615

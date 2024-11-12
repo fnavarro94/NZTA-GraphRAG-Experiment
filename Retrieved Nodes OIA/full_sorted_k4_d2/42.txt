@@ -1,0 +1,34 @@
+How many Fuel Excise Duty Refunds were accepted in 2012, and what was the total value of refunds?
+None
+Seed: fuel excise refunds
+Seed: information on fuel excise duty
+Seed: OIA-1153-fuel-excise-refunds.pdf
+Seed: fuel excise duty
+[fuel excise refunds]: fuel excise refunds --[RELATED_TO]-> transportation 0.8935950994491577
+[fuel excise refunds]: transportation services --[SUPPORTED_BY]-> fuel excise refunds 0.8744730353355408
+[fuel excise refunds]: OIA-1153-fuel-excise-refunds.pdf --[ASSOCIATED_WITH]-> fuel excise refunds 0.8549160957336426
+[fuel excise refunds]: file_path --[CONTAINS]-> OIA-1153-fuel-excise-refunds.pdf 0.8266487121582031
+[fuel excise refunds]: transportation services --[REGULATED_BY]-> transportation laws 0.7697188854217529
+[fuel excise refunds]: transportation services --[OFFERED_BY]-> New Zealand Transport Agency 0.7696016430854797
+[fuel excise refunds]: transportation --[AFFECTED_BY]-> flooding 0.7632441520690918
+[information on fuel excise duty]: New Zealand Transport Agency --[PROVIDES]-> information on fuel excise duty 0.8289080858230591
+[information on fuel excise duty]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.8015516996383667
+[information on fuel excise duty]: New Zealand Transport Agency --[RESPONDS]-> queries 0.7945988178253174
+[information on fuel excise duty]: New Zealand Transport Agency --[POLICY]-> publishing responses on website 0.7927900552749634
+[information on fuel excise duty]: New Zealand Transport Agency --[REGULATORY]-> Review of regulatory role 0.791424036026001
+[information on fuel excise duty]: New Zealand Transport Agency --[CONTRACTS]-> NZ Driver Licensing (1998) Limited 0.7911421060562134
+[information on fuel excise duty]: New Zealand Transport Agency --[ASSOCIATED]-> Enforcement of regulatory role 0.7906599044799805
+[OIA-1153-fuel-excise-refunds.pdf]: fuel excise refunds --[RELATED_TO]-> transportation 0.8935950994491577
+[OIA-1153-fuel-excise-refunds.pdf]: transportation services --[SUPPORTED_BY]-> fuel excise refunds 0.8744730353355408
+[OIA-1153-fuel-excise-refunds.pdf]: OIA-1153-fuel-excise-refunds.pdf --[ASSOCIATED_WITH]-> fuel excise refunds 0.8549160957336426
+[OIA-1153-fuel-excise-refunds.pdf]: file_path --[CONTAINS]-> OIA-1153-fuel-excise-refunds.pdf 0.8266487121582031
+[OIA-1153-fuel-excise-refunds.pdf]: file_path --[CONTAINS]-> oia-15599-response-letter-16-july-2024.pdf 0.7531995177268982
+[OIA-1153-fuel-excise-refunds.pdf]: file_path --[CONTAINS]-> oia-1657-forbes.pdf 0.7528007626533508
+[OIA-1153-fuel-excise-refunds.pdf]: file_path --[CONTAINS]-> oia-0915-forbes.pdf 0.7469038963317871
+[fuel excise duty]: fuel excise duty --[ADDED_TO]-> national fund 0.852643609046936
+[fuel excise duty]: fuel excise duty --[PAID_TO]-> Waka Kotahi 0.8522053956985474
+[fuel excise duty]: customers --[PAY]-> fuel excise duty 0.8468526601791382
+[fuel excise duty]: New Zealand Customs --[COLLECTS]-> fuel excise duty 0.8245758414268494
+[fuel excise duty]: fuel companies --[CHARGES]-> customers 0.8237709999084473
+[fuel excise duty]: New Zealand Customs --[RECOVERS]-> fuel companies 0.8035249710083008
+[fuel excise duty]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.7879196405410767

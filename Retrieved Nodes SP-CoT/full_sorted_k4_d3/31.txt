@@ -1,0 +1,34 @@
+What century does the history of rail transport in the region where the project aims to enhance connectivity between different transport modes in the Wellington region date back to?
+None
+Seed: Rich history of rail transport
+Seed: Transport link between wellington and northern regions of north island
+Seed: New zealand's broader transport goals
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+[Rich history of rail transport]: Wellington region --[Has]-> Rich history of rail transport 0.9317237138748169
+[Rich history of rail transport]: Wellington region --[Has]-> Rail network 0.9039848446846008
+[Rich history of rail transport]: Rail network --[Facilitates]-> Movement of goods to and from the port of wellington 0.8814634084701538
+[Rich history of rail transport]: Wellington --[Has]-> Rail network 0.8801723718643188
+[Rich history of rail transport]: Wellington regional council --[Collaborates with]-> Various transport operators 0.859579861164093
+[Rich history of rail transport]: Auckland --[Has]-> Rail network 0.8508831858634949
+[Rich history of rail transport]: Wellington public transport spine study --[Focuses on]-> Wellington region 0.8487972617149353
+[Transport link between wellington and northern regions of north island]: Wellington --[Has]-> Wellington regional rail system 0.8934983015060425
+[Transport link between wellington and northern regions of north island]: Wellington --[Has]-> Rail network 0.8801723718643188
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Aims to improve]-> Transport link between wellington and northern regions of north island 0.8763340711593628
+[Transport link between wellington and northern regions of north island]: Wellington --[Focused on]-> Enhancing its transport infrastructure 0.8739312887191772
+[Transport link between wellington and northern regions of north island]: Wellington --[Has]-> Commuter rail services 0.8723078966140747
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Aims to]-> Meet the evolving needs of new zealand's transport system 0.8708329200744629
+[Transport link between wellington and northern regions of north island]: Wellington --[Has]-> Comprehensive public transport networks 0.8636330366134644
+[New zealand's broader transport goals]: Wellington cycle network --[Aligned with]-> New zealand's broader transport goals 0.8705257773399353
+[New zealand's broader transport goals]: Wellington cycle network --[Integrates with]-> Public transport systems 0.8672844171524048
+[New zealand's broader transport goals]: Sustainable urban transport --[Key component]-> Wellington 0.8535206317901611
+[New zealand's broader transport goals]: Sustainable urban transport --[Key component]-> Wellington cycle network 0.8520864844322205
+[New zealand's broader transport goals]: Wellington cycle network --[Established in response to]-> Increasing urban congestion 0.850042462348938
+[New zealand's broader transport goals]: Wellington cycle network --[Established in response to]-> Growing emphasis on environmentally friendly transport options 0.8493828773498535
+[New zealand's broader transport goals]: Wellington cycle network --[Fosters]-> Culture of cycling as a primary mode of transport 0.848409116268158
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Plays]-> Significant role in shaping transport infrastructure and policy in new zealand 0.8442230224609375
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Aims to]-> Enhance resilience and adaptability of new zealand's transport network 0.8418407440185547
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Collaborates with]-> New zealand transport agency (nzta 0.8155825138092041
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Is]-> Collective of australian and new zealand road transport and traffic agencies 0.7919379472732544
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Conducts]-> Extensive research and development projects 0.7572835683822632
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Founded in]-> 1990 0.7407750487327576
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Engages in]-> International collaborations to align initiatives with global best practices 0.7355313301086426

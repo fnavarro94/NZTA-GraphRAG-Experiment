@@ -1,0 +1,36 @@
+I'm sorry, but the questions provided are too complex and convoluted for me to provide accurate answers. If you could simplify the questions or provide more context, I would be happy to help answer them.
+None
+Seed: Criticism for complexity
+Seed: Surveys
+Seed: Cultural influences
+Seed: Cultural factors
+[Criticism for complexity]: Resource management act 1991 --[Subject to]-> Criticism for complexity 0.8291789889335632
+[Criticism for complexity]: Teia --[Governed by]-> Resource management act 1991 0.7666939496994019
+[Criticism for complexity]: Teia --[Evaluates]-> Potential effects of transport projects 0.7700625658035278
+[Criticism for complexity]: Teia --[Includes]-> Economic factors 0.8027251958847046
+[Criticism for complexity]: Regional transport planning --[Considers]-> Economic factors 0.7748749256134033
+[Criticism for complexity]: Teia --[Includes]-> Ecological factors 0.7909159660339355
+[Criticism for complexity]: Teia --[Used in]-> New zealand 0.7673000693321228
+[Criticism for complexity]: New zealand --[Has]-> Transport projects 0.7608740925788879
+[Criticism for complexity]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.7463741302490234
+[Criticism for complexity]: New zealand --[Has]-> Diverse transport network 0.7711834907531738
+[Criticism for complexity]: New zealand --[Has]-> Post-incident review 0.7476439476013184
+[Criticism for complexity]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.7645605802536011
+[Criticism for complexity]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.7299136519432068
+[Criticism for complexity]: New zealand --[Has]-> Broader environmental policies 0.7552945017814636
+[Criticism for complexity]: New zealand --[Has]-> Traffic congestion 0.7799380421638489
+[Criticism for complexity]: New zealand --[Has]-> Increasing urbanization 0.7576180696487427
+[Criticism for complexity]: New zealand --[Has]-> Graduated licensing system 0.7576982975006104
+[Criticism for complexity]: New zealand --[Has]-> Extensive coastline supporting a thriving fishing industry and recreational boating activities 0.7413507103919983
+[Criticism for complexity]: New zealand --[Has]-> Trend towards more integrated and environmentally friendly transport solutions 0.7216610908508301
+[Criticism for complexity]: New zealand --[Has]-> Extensive network of roads 0.7746443748474121
+[Criticism for complexity]: New zealand --[Has]-> Public transport network planning 0.7483070492744446
+[Criticism for complexity]: New zealand --[Has]-> Public transit 0.7567618489265442
+[Criticism for complexity]: New zealand --[Has]-> Goal 0.7635095119476318
+[Criticism for complexity]: New zealand --[Has]-> Transport system sustainability 0.7523956298828125
+[Criticism for complexity]: New zealand --[Has]-> Walking 0.7639566659927368
+[Criticism for complexity]: New zealand --[Has]-> Cycling 0.766788125038147
+[Criticism for complexity]: New zealand --[Has]-> Biodiversity 0.7582980394363403
+[Criticism for complexity]: New zealand --[Has]-> Urban-rural dynamics 0.7727702856063843
+[Criticism for complexity]: New zealand --[Has]-> Unique geographical features 0.7907501459121704
+[Criticism for complexity]: New zealand --[Has]-> Growing emphasis on sustainable transport solutions 0.7181345224380493

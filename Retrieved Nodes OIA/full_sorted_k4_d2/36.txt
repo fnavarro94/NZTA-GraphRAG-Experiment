@@ -1,0 +1,28 @@
+What is Waka Kotahi's current estimate for the potential increase in the number of street lighting assets after their audit?
+None
+Seed: Waka Kotahi Senior Project Manager
+Seed: Waka Kotahi
+Seed: street lighting assets
+Seed: information to Waka Kotahi
+[Waka Kotahi Senior Project Manager]: Waka Kotahi Senior Project Manager --[MANAGES]-> State Highway 25A Rebuild Project 0.8245724439620972
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.8758803009986877
+[Waka Kotahi]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.8729220628738403
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.8706886172294617
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.8675318956375122
+[Waka Kotahi]: Waka Kotahi --[INFORMS]-> affected area 0.864669144153595
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> updates on progress 0.8636759519577026
+[Waka Kotahi]: Waka Kotahi --[PUBLISHES]-> Annual Reports 0.8634904026985168
+[street lighting assets]: New Zealand Transport Agency --[AUDITS]-> street lighting assets 0.8480442762374878
+[street lighting assets]: NZ Transport Agency Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8425270318984985
+[street lighting assets]: Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8413107395172119
+[street lighting assets]: New Zealand Transport Agency --[ASSOCIATED]-> Waka Kotahi 0.8398239612579346
+[street lighting assets]: New Zealand Transport Agency --[IS]-> Waka Kotahi 0.8361111283302307
+[street lighting assets]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8360680341720581
+[street lighting assets]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.8357862830162048
+[information to Waka Kotahi]: New Zealand Transport Agency --[AUDITS]-> street lighting assets 0.8480442762374878
+[information to Waka Kotahi]: NZ Transport Agency Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8425270318984985
+[information to Waka Kotahi]: Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8413107395172119
+[information to Waka Kotahi]: New Zealand Transport Agency --[ASSOCIATED]-> Waka Kotahi 0.8398239612579346
+[information to Waka Kotahi]: New Zealand Transport Agency --[IS]-> Waka Kotahi 0.8361111283302307
+[information to Waka Kotahi]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8360680341720581
+[information to Waka Kotahi]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.8357862830162048

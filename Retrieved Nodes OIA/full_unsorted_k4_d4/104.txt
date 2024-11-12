@@ -1,0 +1,36 @@
+What are the paid administration fees for unpaid tolls from 2017 to 2019?
+None
+Seed: unpaid tolls
+Seed: administration fee
+Seed: paid toll revenues
+Seed: toll tariffs
+[unpaid tolls]: unpaid tolls --[ASSOCIATED_WITH]-> toll roads 0.8675546050071716
+[unpaid tolls]: toll roads --[INCLUDE]-> administration fee 0.8912104964256287
+[unpaid tolls]: administration fee --[APPLIED_TO]-> toll payment notice 0.8823209404945374
+[unpaid tolls]: New Zealand Transport Agency --[ISSUES]-> toll payment notice 0.8437414169311523
+[unpaid tolls]: toll payment notice --[CONTAINS]-> unpaid tolls 0.883175253868103
+[unpaid tolls]: toll roads --[COLLECTS]-> toll tariffs 0.846647322177887
+[unpaid tolls]: toll tariffs --[USED_FOR]-> road maintenance 0.8501385450363159
+[unpaid tolls]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> road maintenance 0.7829998135566711
+[unpaid tolls]: transport --[ASSOCIATED_WITH]-> road maintenance 0.7594359517097473
+[unpaid tolls]: road maintenance --[OVERDUE]-> State Highway 1 0.7842044830322266
+[unpaid tolls]: State Highway 1 --[OVERDUE]-> road maintenance 0.790918231010437
+[unpaid tolls]: road maintenance --[OVERDUE]-> Wellington City Council 0.7590879201889038
+[unpaid tolls]: road renewal --[OVERDUE]-> road maintenance 0.7874593138694763
+[unpaid tolls]: toll tariffs --[SPENT_ON]-> road maintenance 0.8564249873161316
+[unpaid tolls]: road maintenance --[PERFORMED_BY]-> New Zealand Transport Agency 0.7718628644943237
+[unpaid tolls]: road maintenance --[FUNDED_BY]-> toll tariffs 0.8511849045753479
+[unpaid tolls]: road maintenance --[NECESSARY_FOR]-> safe driving conditions 0.7508625984191895
+[unpaid tolls]: road maintenance --[SUPPORTED_BY]-> tolls 0.8339459896087646
+[unpaid tolls]: road maintenance --[IMPROVES]-> road safety 0.7387158274650574
+[unpaid tolls]: tolls --[USED_FOR]-> road maintenance 0.8511945009231567
+[unpaid tolls]: driver safety --[IMPROVED_BY]-> road maintenance 0.7397292852401733
+[unpaid tolls]: transport --[FOCUSES_ON]-> road maintenance 0.7588393688201904
+[unpaid tolls]: road maintenance --[ASSOCIATED_WITH]-> State Highway 1 0.7679890394210815
+[unpaid tolls]: road maintenance --[AFFECTED_BY]-> flooding 0.7721186876296997
+[unpaid tolls]: road maintenance --[FUNDING]-> approved 0.7787590026855469
+[unpaid tolls]: flooding --[CAN_AFFECT]-> road maintenance 0.7574847936630249
+[unpaid tolls]: New Zealand Transport Agency --[RESPONSIBLE_FOR]-> road maintenance 0.7869549989700317
+[unpaid tolls]: Waka Kotahi NZ Transport Agency --[MANAGES]-> road maintenance 0.7537616491317749
+[unpaid tolls]: road maintenance --[AFFECTS]-> public transport fare policy review 0.8033474683761597
+[unpaid tolls]: Saddle Road Route --[REQUIRES]-> road maintenance 0.7509108185768127

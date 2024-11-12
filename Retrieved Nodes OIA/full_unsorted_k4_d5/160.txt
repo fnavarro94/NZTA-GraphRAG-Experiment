@@ -1,0 +1,36 @@
+What were some of the key software or apps developed by NZTA's Connected Journey Solutions (CJS)?
+None
+Seed: successful applications
+Seed: multi-tenanted platform
+Seed: projects for New Zealand Transport Agency
+Seed: Connected Journey Solutions
+[successful applications]: innovation-fund/innovation-fund-round-one-successful-applicants.pdf --[PROVIDES]-> successful applications 0.7706074118614197
+[successful applications]: www.nzta.govt.nz --[CONTAINS]-> innovation-fund/innovation-fund-round-one-successful-applicants.pdf 0.7981125116348267
+[successful applications]: www.nzta.govt.nz --[HOSTS]-> New Zealand Transport Agency 0.8081204295158386
+[successful applications]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7805286645889282
+[successful applications]: New Zealand Transport Agency --[BASED]-> Wellington 0.790839672088623
+[successful applications]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7548011541366577
+[successful applications]: Golden Mile --[LOCATED]-> Wellington 0.7367233037948608
+[successful applications]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7310054302215576
+[successful applications]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7181532382965088
+[successful applications]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.712409496307373
+[successful applications]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7493870854377747
+[successful applications]: Wellington --[PART_OF]-> Wellington Region 0.7460364103317261
+[successful applications]: New Zealand --[HAS_CAPITAL]-> Wellington 0.773552417755127
+[successful applications]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.758185863494873
+[successful applications]: Wellington --[HAS]-> tunnel 0.7746368646621704
+[successful applications]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7740556597709656
+[successful applications]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.758621871471405
+[successful applications]: Wellington --[POSTCODE]-> 6141 0.7273812890052795
+[successful applications]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7798622250556946
+[successful applications]: Wellington --[IS_PART_OF]-> New Zealand 0.7405242323875427
+[successful applications]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.761499285697937
+[successful applications]: 50 Victoria Street --[IN]-> Wellington 0.7183229923248291
+[successful applications]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7226694226264954
+[successful applications]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7218138575553894
+[successful applications]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7518445253372192
+[successful applications]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7777203321456909
+[successful applications]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7741192579269409
+[successful applications]: NZ Transport Agency --[LOCATED]-> Wellington 0.7860864400863647
+[successful applications]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7281152009963989
+[successful applications]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7220149040222168

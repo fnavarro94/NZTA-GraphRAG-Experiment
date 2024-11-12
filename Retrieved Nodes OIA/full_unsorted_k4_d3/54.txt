@@ -1,0 +1,36 @@
+How does the NZ Transport Agency handle privacy concerns when sharing information about driver tests?
+None
+Seed: individual privacy
+Seed: Place to which the public have access with a motor vehicle
+Seed: why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’
+Seed: information on visiting drivers survey
+[individual privacy]: driver's licence test statistics --[PROTECTED]-> individual privacy 0.8989565372467041
+[individual privacy]: Driving Tests Data.xlsx --[PROVIDES]-> driver's licence test statistics 0.8310308456420898
+[individual privacy]: spreadsheet --[CONTAINS]-> Driving Tests Data.xlsx 0.797585666179657
+[individual privacy]: individual privacy --[APPLIED]-> driver's licence test statistics 0.8852270841598511
+[Place to which the public have access with a motor vehicle]: Road --[DEFINITION]-> Place to which the public have access with a motor vehicle 0.7992560863494873
+[Place to which the public have access with a motor vehicle]: Road --[DEFINITION]-> Street, motorway or beach 0.731354832649231
+[Place to which the public have access with a motor vehicle]: Road --[DEFINITION]-> Public car park 0.7737711071968079
+[Place to which the public have access with a motor vehicle]: Crash --[MUST_OCCUR]-> Road 0.7689733505249023
+[Place to which the public have access with a motor vehicle]: Crash --[REPORTED_BY]-> Police 0.7823511958122253
+[Place to which the public have access with a motor vehicle]: Crash --[PROCESSED_BY]-> Data Processing 0.7169617414474487
+[Place to which the public have access with a motor vehicle]: Crash --[RECORDED]-> CAS 0.7481601238250732
+[Place to which the public have access with a motor vehicle]: Road --[DEFINITION]-> any street, motorway or beach, or a place to which the public have access with a motor vehicle, whether as of right or not e.g. a public car park. 0.746656060218811
+[Place to which the public have access with a motor vehicle]: CAS --[DEFINES]-> Road 0.7800260782241821
+[Place to which the public have access with a motor vehicle]: Waka Kotahi --[MAINTAINS]-> CAS 0.7460376024246216
+[Place to which the public have access with a motor vehicle]: CAS --[IS_UPDATING]-> Traffic Crash Report 0.8006430864334106
+[Place to which the public have access with a motor vehicle]: crash records --[PROCESSED]-> CAS 0.7544537782669067
+[Place to which the public have access with a motor vehicle]: CAS --[PROVIDES]-> full and correct crash records 0.7783886194229126
+[Place to which the public have access with a motor vehicle]: CAS --[CONTAINS]-> information 0.7702052593231201
+[Place to which the public have access with a motor vehicle]: Transport Agency --[CROSS_REFERENCES]-> CAS 0.8323668837547302
+[Place to which the public have access with a motor vehicle]: minor injury crashes --[RECORDED]-> CAS 0.7635592818260193
+[Place to which the public have access with a motor vehicle]: 2023 data --[INCOMPLETE]-> CAS 0.737553596496582
+[Place to which the public have access with a motor vehicle]: Road --[DEFINED_BY]-> CAS 0.778357207775116
+[Place to which the public have access with a motor vehicle]: fatal crashes --[RECORDED]-> CAS 0.7558737993240356
+[Place to which the public have access with a motor vehicle]: 2022 data --[INCOMPLETE]-> CAS 0.7410447597503662
+[Place to which the public have access with a motor vehicle]: CAS --[CONTAINS]-> crash records 0.7662859559059143
+[Place to which the public have access with a motor vehicle]: non-injury crashes --[RECORDED]-> CAS 0.7894572615623474
+[Place to which the public have access with a motor vehicle]: serious injury crashes --[RECORDED]-> CAS 0.769931435585022
+[Place to which the public have access with a motor vehicle]: SH2 and SH53 in Featherston --[INTERSECTS]-> Road 0.7484092712402344
+[Place to which the public have access with a motor vehicle]: Crash Data --[LIMITED_TO]-> SH2 and SH53 in Featherston 0.7333637475967407
+[Place to which the public have access with a motor vehicle]: Road --[ACCESSIBLE_BY]-> Motor Vehicle 0.7948548197746277

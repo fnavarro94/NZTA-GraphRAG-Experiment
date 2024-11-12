@@ -1,0 +1,34 @@
+What topic does the OIA-2127 request focus on?
+None
+Seed: conflict of interest
+Seed: Conflict of interest
+Seed: public interest in accountability
+Seed: public interest in seeking and receiving confidential legal advice
+[conflict of interest]: New Zealand Transport Agency --[DISCUSSES]-> OIA request 0.8484711050987244
+[conflict of interest]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8420661687850952
+[conflict of interest]: OIA request --[SUBMITTED_TO]-> New Zealand Transport Agency 0.8388164639472961
+[conflict of interest]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA request 0.8367234468460083
+[conflict of interest]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA requests 0.8360642194747925
+[conflict of interest]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.834718644618988
+[conflict of interest]: New Zealand Transport Agency --[PROVIDES]-> response to OIA request 0.8321276307106018
+[Conflict of interest]: New Zealand Transport Agency --[DISCUSSES]-> OIA request 0.8484711050987244
+[Conflict of interest]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8420661687850952
+[Conflict of interest]: OIA request --[SUBMITTED_TO]-> New Zealand Transport Agency 0.8388164639472961
+[Conflict of interest]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA request 0.8367234468460083
+[Conflict of interest]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA requests 0.8360642194747925
+[Conflict of interest]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.834718644618988
+[Conflict of interest]: New Zealand Transport Agency --[PROVIDES]-> response to OIA request 0.8321276307106018
+[public interest in accountability]: Waka Kotahi --[RESPONDS_TO]-> OIA request 0.8411622047424316
+[public interest in accountability]: Waka Kotahi --[DISCUSS]-> OIA-8555-response.pdf 0.8407622575759888
+[public interest in accountability]: Waka Kotahi --[RESPONDS]-> OIA request 0.8383360505104065
+[public interest in accountability]: OIA request --[SUBMITTED]-> Waka Kotahi 0.8380883932113647
+[public interest in accountability]: Waka Kotahi --[DISCUSS]-> OIA-8620-response.pdf 0.8316546678543091
+[public interest in accountability]: OIA Request --[REFUSED]-> Waka Kotahi 0.8201504945755005
+[public interest in accountability]: Waka Kotahi --[PROVIDES]-> OIA-10601-response-georgina-campbell.pdf 0.818650484085083
+[public interest in seeking and receiving confidential legal advice]: Waka Kotahi --[RESPONDS_TO]-> OIA request 0.8411622047424316
+[public interest in seeking and receiving confidential legal advice]: Waka Kotahi --[DISCUSS]-> OIA-8555-response.pdf 0.8407622575759888
+[public interest in seeking and receiving confidential legal advice]: Waka Kotahi --[RESPONDS]-> OIA request 0.8383360505104065
+[public interest in seeking and receiving confidential legal advice]: OIA request --[SUBMITTED]-> Waka Kotahi 0.8380883932113647
+[public interest in seeking and receiving confidential legal advice]: Waka Kotahi --[DISCUSS]-> OIA-8620-response.pdf 0.8316546678543091
+[public interest in seeking and receiving confidential legal advice]: OIA Request --[REFUSED]-> Waka Kotahi 0.8201504945755005
+[public interest in seeking and receiving confidential legal advice]: Waka Kotahi --[PROVIDES]-> OIA-10601-response-georgina-campbell.pdf 0.818650484085083

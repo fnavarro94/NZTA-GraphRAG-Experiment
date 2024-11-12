@@ -1,0 +1,36 @@
+What is the most common component found to be non-compliant during heavy vehicle certifications in New Zealand?
+None
+Seed: Heavy Vehicle Specialist Certificate
+Seed: Vehicle Safety
+Seed: vehicle safety
+Seed: Commercial Vehicle Safety Programme
+[Heavy Vehicle Specialist Certificate]: Heavy Vehicle Specialist Certificate --[Revoked]-> 19 0.8458147048950195
+[Vehicle Safety]: Safety Tolerance --[Ensures]-> Vehicle Safety 0.8332735300064087
+[Vehicle Safety]: Calculations --[Satisfies]-> Safety Tolerance 0.7835468649864197
+[Vehicle Safety]: Vehicle Inspection --[Undertakes]-> Calculations 0.8110416531562805
+[Vehicle Safety]: Vehicle Inspection --[CONDUCTED_BY]-> New Zealand Transport Agency 0.8794072866439819
+[Vehicle Safety]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8330455422401428
+[Vehicle Safety]: New Zealand Transport Agency --[BASED]-> Wellington 0.850787878036499
+[Vehicle Safety]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7828789353370667
+[Vehicle Safety]: Golden Mile --[LOCATED]-> Wellington 0.7546138763427734
+[Vehicle Safety]: State Highway 1 --[LOCATED_IN]-> Wellington 0.8034284710884094
+[Vehicle Safety]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7557346820831299
+[Vehicle Safety]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7604783773422241
+[Vehicle Safety]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7603740096092224
+[Vehicle Safety]: Wellington --[PART_OF]-> Wellington Region 0.8025516867637634
+[Vehicle Safety]: New Zealand --[HAS_CAPITAL]-> Wellington 0.8220444917678833
+[Vehicle Safety]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7895196080207825
+[Vehicle Safety]: Wellington --[HAS]-> tunnel 0.8116079568862915
+[Vehicle Safety]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.8112086057662964
+[Vehicle Safety]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7786742448806763
+[Vehicle Safety]: Wellington --[POSTCODE]-> 6141 0.757226824760437
+[Vehicle Safety]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.8324323296546936
+[Vehicle Safety]: Wellington --[IS_PART_OF]-> New Zealand 0.8045932650566101
+[Vehicle Safety]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7704246044158936
+[Vehicle Safety]: 50 Victoria Street --[IN]-> Wellington 0.7580788731575012
+[Vehicle Safety]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7597833871841431
+[Vehicle Safety]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7550244331359863
+[Vehicle Safety]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7763214111328125
+[Vehicle Safety]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.8125445246696472
+[Vehicle Safety]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.8064441680908203
+[Vehicle Safety]: NZ Transport Agency --[LOCATED]-> Wellington 0.8330544233322144

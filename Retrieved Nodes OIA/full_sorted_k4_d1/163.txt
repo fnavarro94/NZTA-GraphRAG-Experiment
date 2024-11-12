@@ -1,0 +1,17 @@
+What is the total value of construction contracts currently held by Let's Get Wellington Moving?
+None
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: information on LGWM construction contracts
+Seed: clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement
+Seed: Let's Get Wellington Moving
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) --[CONTRACTS]-> consultants 0.8485993146896362
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUESTS]-> detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) 0.8342924118041992
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.8196307420730591
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi --[FOLLOWS]-> clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement 0.8583539724349976
+[Let's Get Wellington Moving]: Let's Get Wellington Moving --[COLLABORATES_WITH]-> New Zealand Transport Agency 0.8703458905220032
+[Let's Get Wellington Moving]: Golden Mile revitalisation project --[IS_PART_OF]-> Let's Get Wellington Moving 0.8681716918945312
+[Let's Get Wellington Moving]: Let's Get Wellington Moving --[HAS_COMPONENT]-> Strategic Highway Improvements 0.866247296333313
+[Let's Get Wellington Moving]: Let's Get Wellington Moving --[HAS_COMPONENT]-> Early Delivery Thorndon Quay and Hutt Road 0.8572013974189758
+[Let's Get Wellington Moving]: Golden Mile Consultation --[IS_PART_OF]-> Let's Get Wellington Moving 0.8533967733383179
+[Let's Get Wellington Moving]: Let's Get Wellington Moving --[HAS_COMPONENT]-> Managing Travel Demand 0.8514226675033569
+[Let's Get Wellington Moving]: Let's Get Wellington Moving --[HAS_COMPONENT]-> Mass Rapid Transit 0.8478790521621704

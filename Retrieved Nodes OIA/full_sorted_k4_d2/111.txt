@@ -1,0 +1,34 @@
+What communication has Waka Kotahi had regarding the Ashburton Bridge since January 2023?
+None
+Seed: Waka Kotahi
+Seed: information to Waka Kotahi
+Seed: Waka Kotahi NZ Transport Agency
+Seed: Waka Kotahi N Z Transport Agency
+[Waka Kotahi]: Waka Kotahi --[DISCUSS]-> New Zealand Transport Agency 0.8623197674751282
+[Waka Kotahi]: Waka Kotahi --[CONTACT]-> 64-4-894 5251 0.8593834638595581
+[Waka Kotahi]: Waka Kotahi --[SEEKS]-> additional information 0.8575963377952576
+[Waka Kotahi]: Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8574013710021973
+[Waka Kotahi]: Waka Kotahi --[DISCUSS]-> Ministerial Services 0.8567208647727966
+[Waka Kotahi]: Waka Kotahi --[CONTACTABLE]-> official.correspondence@nzta.govt.nz 0.8563278317451477
+[Waka Kotahi]: response letter --[DISCUSSED]-> Waka Kotahi 0.8561269044876099
+[information to Waka Kotahi]: Waka Kotahi --[DISCUSS]-> New Zealand Transport Agency 0.8623197674751282
+[information to Waka Kotahi]: Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8574013710021973
+[information to Waka Kotahi]: New Zealand Transport Agency --[DISCUSS]-> Waka Kotahi 0.8557447195053101
+[information to Waka Kotahi]: NZ Transport Agency Waka Kotahi --[IS]-> New Zealand Transport Agency 0.855713963508606
+[information to Waka Kotahi]: New Zealand Transport Agency --[ASSOCIATED]-> Waka Kotahi 0.8523626923561096
+[information to Waka Kotahi]: Waka Kotahi --[ASSOCIATED]-> New Zealand Transport Agency 0.8517962694168091
+[information to Waka Kotahi]: New Zealand Transport Agency --[PROVIDES]-> information to Waka Kotahi 0.8501396179199219
+[Waka Kotahi NZ Transport Agency]: New Zealand --[HOME]-> Waka Kotahi 0.8479123711585999
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[CONTACT]-> T 64 4 894 5400 0.8471394777297974
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.8466371297836304
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.8446374535560608
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[COUNTRY]-> New Zealand 0.844450831413269
+[Waka Kotahi NZ Transport Agency]: Robyn Elston --[CONTACT]-> Waka Kotahi 0.8427417278289795
+[Waka Kotahi NZ Transport Agency]: Andrew Knackstedt --[CONTACT]-> Waka Kotahi 0.8419357538223267
+[Waka Kotahi N Z Transport Agency]: Data --[PROVIDED]-> Waka Kotahi N Z Transport Agency 0.8170425295829773
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.8038377165794373
+[Waka Kotahi N Z Transport Agency]: New Zealand Transport Agency Waka Kotahi --[MAINTAINS]-> Crash Analysis System 0.8035459518432617
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.7986862063407898
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINS]-> Waka Kotahi N Z Transport Agency 0.7884831428527832
+[Waka Kotahi N Z Transport Agency]: Data --[IS]-> Current at 18 September 2019 0.7527744770050049
+[Waka Kotahi N Z Transport Agency]: Data --[FOR]-> period 1/10/2017 to 26/05/2021 0.7517999410629272

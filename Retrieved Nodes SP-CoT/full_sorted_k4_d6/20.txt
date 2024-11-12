@@ -1,0 +1,32 @@
+What independent Crown entity is established by the legislation in New Zealand that aims to enhance the safety and accessibility of walking routes for pedestrians to promote and facilitate walking access throughout New Zealand?
+None
+Seed: Independent crown entity
+Seed: Rights of individuals with disabilities
+Seed: Legislative framework for road safety initiatives
+Seed: Advocacy groups
+[Independent crown entity]: New zealand walking access commission --[Is]-> Independent crown entity 0.9367455244064331
+[Independent crown entity]: Walking access act --[Established]-> New zealand walking access commission 0.8921356201171875
+[Independent crown entity]: New zealand walking access commission --[Promotes]-> Walking access throughout the country 0.8798844814300537
+[Independent crown entity]: New zealand --[Has]-> Road safety initiatives 0.867927610874176
+[Independent crown entity]: Road safety legislation --[Is]-> New zealand 0.867450475692749
+[Independent crown entity]: New zealand walking access commission --[Identifies]-> Walking access routes 0.8667775988578796
+[Independent crown entity]: New zealand walking access commission --[Provides]-> Information to the public about available routes 0.8605131506919861
+[Rights of individuals with disabilities]: Transport accessibility standards --[Rooted in]-> Human rights act 1993 0.8292848467826843
+[Rights of individuals with disabilities]: Transport accessibility standards --[Rooted in]-> Disability discrimination act 1992 0.8289329409599304
+[Rights of individuals with disabilities]: Transport accessibility standards --[Are]-> Guidelines and regulations 0.8142415881156921
+[Rights of individuals with disabilities]: Transport accessibility standards --[Aim]-> Ensure access 0.8117139935493469
+[Rights of individuals with disabilities]: Human rights act 1993 --[Outlines]-> Rights of individuals with disabilities 0.8031203150749207
+[Legislative framework for road safety initiatives]: New zealand walking access commission --[Is]-> Independent crown entity 0.9367455244064331
+[Legislative framework for road safety initiatives]: Walking access act --[Established]-> New zealand walking access commission 0.8921356201171875
+[Legislative framework for road safety initiatives]: New zealand walking access commission --[Promotes]-> Walking access throughout the country 0.8798844814300537
+[Legislative framework for road safety initiatives]: New zealand --[Has]-> Road safety initiatives 0.867927610874176
+[Legislative framework for road safety initiatives]: Road safety legislation --[Is]-> New zealand 0.867450475692749
+[Legislative framework for road safety initiatives]: New zealand walking access commission --[Identifies]-> Walking access routes 0.8667775988578796
+[Legislative framework for road safety initiatives]: New zealand road safety strategy --[Established by]-> New zealand government 0.8629379272460938
+[Advocacy groups]: New zealand walking access commission --[Is]-> Independent crown entity 0.9367455244064331
+[Advocacy groups]: Walking access act --[Established]-> New zealand walking access commission 0.8921356201171875
+[Advocacy groups]: New zealand walking access commission --[Promotes]-> Walking access throughout the country 0.8798844814300537
+[Advocacy groups]: New zealand --[Has]-> Road safety initiatives 0.867927610874176
+[Advocacy groups]: Road safety legislation --[Is]-> New zealand 0.867450475692749
+[Advocacy groups]: New zealand walking access commission --[Identifies]-> Walking access routes 0.8667775988578796
+[Advocacy groups]: New zealand road safety strategy --[Established by]-> New zealand government 0.8629379272460938

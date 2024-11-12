@@ -1,0 +1,31 @@
+What is the longest overdue road for renewal in New Zealand?
+None
+Seed: longest overdue road
+Seed: road renewal
+Seed: toll roads
+Seed: information on tolls and road maintenance
+[longest overdue road]: longest overdue road --[OVERDUE]-> road renewal 0.9225471615791321
+[longest overdue road]: design life --[OVERDUE]-> longest overdue road 0.8895381689071655
+[longest overdue road]: road renewal --[OVERDUE]-> road maintenance 0.8822011947631836
+[longest overdue road]: 32 percent of the roading network --[PAST_DESIGN_LIFE]-> design life 0.7808641195297241
+[road renewal]: longest overdue road --[OVERDUE]-> road renewal 0.9225471615791321
+[road renewal]: design life --[OVERDUE]-> longest overdue road 0.8895381689071655
+[road renewal]: road renewal --[OVERDUE]-> road maintenance 0.8822011947631836
+[road renewal]: road maintenance --[PERFORMED_BY]-> New Zealand Transport Agency 0.8584209680557251
+[road renewal]: road maintenance --[OVERDUE]-> Wellington City Council 0.8575965762138367
+[road renewal]: road maintenance --[OVERDUE]-> State Highway 1 0.8555869460105896
+[road renewal]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> road maintenance 0.8547061681747437
+[toll roads]: roads --[MAINTAINED]-> New Zealand Transport Agency 0.8738623857498169
+[toll roads]: roads --[MAINTAINED_BY]-> New Zealand Transport Agency 0.8707755208015442
+[toll roads]: New Zealand Transport Agency --[APPROVES]-> Road Maintenance 0.8590576648712158
+[toll roads]: road maintenance --[PERFORMED_BY]-> New Zealand Transport Agency 0.8584209680557251
+[toll roads]: New Zealand Transport Agency --[LOCATED]-> New Zealand 0.8570104837417603
+[toll roads]: New Zealand Transport Agency --[FUNDING]-> Road Maintenance 0.8550758957862854
+[toll roads]: New Zealand Transport Agency --[RESPONSE]-> OIA-8289 0.8547065854072571
+[information on tolls and road maintenance]: roads --[MAINTAINED]-> New Zealand Transport Agency 0.8738623857498169
+[information on tolls and road maintenance]: roads --[MAINTAINED_BY]-> New Zealand Transport Agency 0.8707755208015442
+[information on tolls and road maintenance]: New Zealand Transport Agency --[APPROVES]-> Road Maintenance 0.8590576648712158
+[information on tolls and road maintenance]: road maintenance --[PERFORMED_BY]-> New Zealand Transport Agency 0.8584209680557251
+[information on tolls and road maintenance]: New Zealand Transport Agency --[LOCATED]-> New Zealand 0.8570104837417603
+[information on tolls and road maintenance]: New Zealand Transport Agency --[FUNDING]-> Road Maintenance 0.8550758957862854
+[information on tolls and road maintenance]: New Zealand Transport Agency --[RESPONSE]-> OIA-8289 0.8547065854072571

@@ -1,0 +1,31 @@
+How is the NZTA engaging with regional councils regarding the Choice application?
+None
+Seed: Regional Investment Opportunities
+Seed: wider objectives in Regional Public Transport Plans
+Seed: does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?
+Seed: regional council readiness
+[Regional Investment Opportunities]: Ministry of Business, Innovation and Employment --[ADMINISTERS]-> Regional Investment Opportunities 0.8345450758934021
+[Regional Investment Opportunities]: Kānoa --[ADMINISTERS]-> Regional Investment Opportunities 0.8156194090843201
+[Regional Investment Opportunities]: project artworks --[PART_OF]-> Regional Investment Opportunities 0.8083450794219971
+[Regional Investment Opportunities]: Regional Investment Opportunities --[FUNDED]-> project artworks 0.8042013049125671
+[wider objectives in Regional Public Transport Plans]: wider objectives in Regional Public Transport Plans --[CONTRIBUTES]-> government's transport priorities 0.8225748538970947
+[wider objectives in Regional Public Transport Plans]: access --[PROVIDES]-> councils with greater flexibility 0.820981502532959
+[wider objectives in Regional Public Transport Plans]: underlying principles of the current policy --[CONTRIBUTES]-> wider objectives in Regional Public Transport Plans 0.8158113956451416
+[wider objectives in Regional Public Transport Plans]: councils with greater flexibility --[ADDRESS]-> public transport affordability 0.8098964691162109
+[wider objectives in Regional Public Transport Plans]: councils --[MUST]-> manage fare revenue and public transport budgets within current funding allocations 0.8059449195861816
+[wider objectives in Regional Public Transport Plans]: public transport budgets --[MANAGED_BY]-> councils 0.8059189319610596
+[wider objectives in Regional Public Transport Plans]: manage fare revenue and public transport budgets within current funding allocations --[REQUIRES]-> standard cost scope adjustment process 0.7946823835372925
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: Amanda Cropp --[REQUESTED]-> does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it? 0.9094824194908142
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: NZTA --[CONSIDER]-> public interest 0.8765102028846741
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: questions and responses --[FROM]-> NZ Transport Agency 0.8722660541534424
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: draft letter --[FROM]-> NZTA 0.8647008538246155
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ --[CONTAINS]-> National Ticketing Solution request for proposal 0.8638054132461548
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: www.nzta.govt.nz --[CONTAINS]-> innovation-fund/innovation-fund-round-one-successful-applicants.pdf 0.8637071847915649
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: New Zealand Transport Agency --[CONDUCTED]-> consultation 0.8619891405105591
+[regional council readiness]: New Zealand Transport Agency --[CONDUCTED]-> consultation 0.8619891405105591
+[regional council readiness]: New Zealand Transport Agency --[collaborating]-> Wellington City Council 0.8598418831825256
+[regional council readiness]: New Zealand Transport Agency --[CONTACT]-> T 64 4 894 5400, F 64 4 894 6100, www.nzta.govt.nz 0.859131932258606
+[regional council readiness]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.8585038781166077
+[regional council readiness]: New Zealand Transport Agency --[FOLLOWS]-> NZTA policy 0.8580232858657837
+[regional council readiness]: New Zealand Transport Agency --[PROVIDES]-> Consultations and Collations 0.8557766079902649
+[regional council readiness]: New Zealand Transport Agency --[PROVIDES]-> www.nzta.govt.nz 0.853276789188385

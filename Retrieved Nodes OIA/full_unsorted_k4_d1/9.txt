@@ -1,0 +1,12 @@
+How many road deaths in Christchurch between 2017 and 2019 were attributed to alcohol being a contributing factor?
+None
+Seed: information on Christchurch road deaths
+Seed: Road Traffic Crashes
+Seed: Alcohol Consumption
+Seed: 45-60 fatalities
+[information on Christchurch road deaths]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8587267398834229
+[Road Traffic Crashes]: Road Traffic Crashes --[ANALYZED_BY]-> Crash Analysis 0.8118003606796265
+[Road Traffic Crashes]: Alcohol Consumption --[CONTRIBUTES_TO]-> Road Traffic Crashes 0.8729584217071533
+[Alcohol Consumption]: Road Traffic --[AFFECTED_BY]-> Alcohol Consumption 0.8579446077346802
+[Alcohol Consumption]: Alcohol Consumption --[CONTRIBUTES_TO]-> Road Traffic Crashes 0.8729584217071533
+[45-60 fatalities]: Road to Zero --[FATality REDUCTION]-> 45-60 fatalities 0.8196537494659424

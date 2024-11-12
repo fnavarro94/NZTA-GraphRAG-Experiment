@@ -1,0 +1,33 @@
+What is the largest city in the country known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, served by the key transport corridor critical for freight and passenger movement and runs through the North Island?
+None
+Seed: Critical for freight and passenger movement
+Seed: Critical aspect of transportation planning
+Seed: Critical component of new zealand's transport strategy
+Seed: Major cities and industrial hubs
+[Critical for freight and passenger movement]: North island main trunk railway --[Is]-> Critical for freight and passenger movement 0.8789194822311401
+[Critical for freight and passenger movement]: North island main trunk railway --[Serves]-> Freight 0.8376193642616272
+[Critical for freight and passenger movement]: North island main trunk railway --[Spans]-> 681 kilometers 0.8346585631370544
+[Critical for freight and passenger movement]: North island main trunk railway --[Facilitates]-> Regional connectivity 0.8340827822685242
+[Critical for freight and passenger movement]: North island main trunk railway --[Facilitates]-> Economic activity 0.8314894437789917
+[Critical for freight and passenger movement]: North island main trunk railway --[Serves]-> Passenger services 0.831116795539856
+[Critical for freight and passenger movement]: North island main trunk railway --[Fosters]-> Movement of goods 0.830450177192688
+[Critical aspect of transportation planning]: Transport demand forecasting --[Is]-> Critical aspect of transportation planning 0.8554959297180176
+[Critical aspect of transportation planning]: Transport demand forecasting --[Involves]-> Socio-economic indicators 0.8399690389633179
+[Critical aspect of transportation planning]: Transport demand forecasting --[Involves]-> Statistical models 0.8276107311248779
+[Critical aspect of transportation planning]: Transport demand forecasting --[Estimates]-> Future travel patterns 0.8270413279533386
+[Critical aspect of transportation planning]: Transport demand forecasting --[Estimates]-> Demand for various transport services 0.817988395690918
+[Critical aspect of transportation planning]: Transport demand forecasting --[Involves]-> Historical data 0.81749427318573
+[Critical component of new zealand's transport strategy]: Road safety education --[Is]-> Critical component of new zealand's transport strategy 0.8159320950508118
+[Critical component of new zealand's transport strategy]: Road safety education --[Implemented by]-> New zealand government 0.7755396366119385
+[Critical component of new zealand's transport strategy]: Nzta --[Promotes]-> Road safety education 0.7706956267356873
+[Critical component of new zealand's transport strategy]: Road safety education --[Faces challenges]-> High rates of road fatalities among vulnerable road users 0.7679914236068726
+[Critical component of new zealand's transport strategy]: Road safety education --[Requires]-> Adaptability to changing road user behaviors and societal trends 0.7639160752296448
+[Critical component of new zealand's transport strategy]: Road safety education --[Faces challenges]-> High rates of road fatalities among young drivers 0.7623904943466187
+[Critical component of new zealand's transport strategy]: Road safety education --[Aimed at]-> Reducing road traffic injuries and fatalities 0.7606054544448853
+[Major cities and industrial hubs]: Rail network --[Plays]-> Crucial role in freight transport 0.822899341583252
+[Major cities and industrial hubs]: Rail network --[Facilitates]-> Movement of goods to and from the port of wellington 0.8153919577598572
+[Major cities and industrial hubs]: Rail network --[Is]-> Integral for freight transport 0.8082114458084106
+[Major cities and industrial hubs]: Rail network --[Connects]-> Major cities and industrial hubs 0.8035582304000854
+[Major cities and industrial hubs]: Auckland --[Has]-> Rail network 0.7995641231536865
+[Major cities and industrial hubs]: Wellington --[Has]-> Rail network 0.785359263420105
+[Major cities and industrial hubs]: Wellington region --[Has]-> Rail network 0.7836565971374512

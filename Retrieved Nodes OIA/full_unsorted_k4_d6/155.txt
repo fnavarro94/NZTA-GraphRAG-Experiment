@@ -1,0 +1,36 @@
+How are flooding-related road repair costs defined in the OIA-9194 request?
+None
+Seed: request for pothole repair cost information
+Seed: funding for road maintenance
+Seed: committee managing the Kopa Hill Road repair process
+Seed: Costs
+[request for pothole repair cost information]: sections 18A and 18B of the Act --[APPLIES_TO]-> request for pothole repair cost information 0.8560464382171631
+[request for pothole repair cost information]: New Zealand Transport Agency --[CONSIDERS]-> sections 18A and 18B of the Act 0.79697585105896
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7830116748809814
+[request for pothole repair cost information]: New Zealand Transport Agency --[BASED]-> Wellington 0.7894243597984314
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7797302603721619
+[request for pothole repair cost information]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.7829453945159912
+[request for pothole repair cost information]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7487481832504272
+[request for pothole repair cost information]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.735090970993042
+[request for pothole repair cost information]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7396958470344543
+[request for pothole repair cost information]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7697001695632935
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.7737088203430176
+[request for pothole repair cost information]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7446339726448059
+[request for pothole repair cost information]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7277609705924988
+[request for pothole repair cost information]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7490929365158081
+[request for pothole repair cost information]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.721871018409729
+[request for pothole repair cost information]: Wellington --[CONTAINS]-> Private Bag 6995 0.738400936126709
+[request for pothole repair cost information]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7919946908950806
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7762930989265442
+[request for pothole repair cost information]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.7787147760391235
+[request for pothole repair cost information]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7639022469520569
+[request for pothole repair cost information]: 50 Victoria Street --[IN]-> Wellington 0.7261968851089478
+[request for pothole repair cost information]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.7762014865875244
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED]-> 50 Victoria Street 0.7738628387451172
+[request for pothole repair cost information]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7376278638839722
+[request for pothole repair cost information]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.730945348739624
+[request for pothole repair cost information]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7420344948768616
+[request for pothole repair cost information]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.728855550289154
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7533971667289734
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7882547378540039
+[request for pothole repair cost information]: New Zealand Transport Agency --[CONTACT]-> Wellington 6141 0.7902348041534424

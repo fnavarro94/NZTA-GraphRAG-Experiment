@@ -1,0 +1,36 @@
+In what year did the establishment become established?
+None
+Seed: Commenced in 1840
+Seed: Early european settlement in 19th century
+Seed: Establishment of national land transport fund
+Seed: In early european settlement
+[Commenced in 1840]: Auckland ferry network --[First regular ferry service]-> Commenced in 1840 0.7781304121017456
+[Commenced in 1840]: Auckland ferry network --[Operated by]-> Auckland transport 0.7357154488563538
+[Commenced in 1840]: Auckland transport --[Has]-> Vision to support growth 0.7141607999801636
+[Commenced in 1840]: Auckland transport --[Has]-> Vision to minimize environmental impact 0.680324137210846
+[Commenced in 1840]: Auckland transport --[Has]-> Vision to create efficient transport system 0.7200663685798645
+[Commenced in 1840]: Auckland transport --[Has]-> Vision to create integrated transport system 0.7203311324119568
+[Commenced in 1840]: Auckland transport --[Has]-> Long-term vision 0.7202576398849487
+[Commenced in 1840]: New zealand transport strategy --[Outlines]-> Long-term vision 0.7095997929573059
+[Commenced in 1840]: New zealand transport strategy --[Emphasizes]-> Multimodal approach 0.7090113162994385
+[Commenced in 1840]: New zealand transport strategy --[Promotes]-> Public transport 0.70820152759552
+[Commenced in 1840]: Auckland transport --[Manages]-> Public transport 0.7130725979804993
+[Commenced in 1840]: Public transport --[Integrates]-> Automated data collection 0.7030166387557983
+[Commenced in 1840]: Wellington --[Relies heavily on]-> Public transport 0.7006428837776184
+[Commenced in 1840]: Auckland transport --[Oversees]-> Public transport 0.7168196439743042
+[Commenced in 1840]: Ministry of transport --[Oversees]-> Public transport 0.7161605954170227
+[Commenced in 1840]: Integrated transport strategies --[Promote]-> Public transport 0.7096211910247803
+[Commenced in 1840]: Christchurch --[Has]-> Public transport 0.7173826098442078
+[Commenced in 1840]: Sustainable urban transport --[Key component]-> Public transport 0.7130451202392578
+[Commenced in 1840]: Sustainability and resilience --[Includes]-> Public transport 0.7032339572906494
+[Commenced in 1840]: New zealand --[Has]-> Public transport 0.7265747785568237
+[Commenced in 1840]: Public transport innovations --[Transform]-> Public transport 0.7213975787162781
+[Commenced in 1840]: Public transport --[Varies significantly]-> Between urban and rural areas 0.6916775107383728
+[Commenced in 1840]: Public transport --[Characterized by]-> Transition 0.7325637340545654
+[Commenced in 1840]: Public transport --[Underwent]-> Significant evolution 0.7739853262901306
+[Commenced in 1840]: New zealand transport strategy --[Aims]-> Sustainable transport network 0.6982694268226624
+[Commenced in 1840]: Waka kotahi --[Ensures]-> Sustainable transport network 0.7080960869789124
+[Commenced in 1840]: Auckland western ring route --[Represents]-> Sustainable transport network 0.7173017859458923
+[Commenced in 1840]: New zealand transport strategy --[Is]-> Comprehensive framework 0.7133514881134033
+[Commenced in 1840]: New zealand road safety strategy --[Is]-> Comprehensive framework 0.7008680105209351
+[Commenced in 1840]: Transport skills strategy --[Is]-> Comprehensive framework 0.7134127020835876

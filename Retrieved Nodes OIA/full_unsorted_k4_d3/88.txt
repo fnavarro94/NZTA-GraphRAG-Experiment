@@ -1,0 +1,36 @@
+How much has been invested in Road to Zero-related infrastructure and road policing as of February 2022?
+None
+Seed: 2023-24 State Highway Investment Proposal
+Seed: Road to Zero – Road policing
+Seed: development of the next Road to Zero Action Plan
+Seed: cost of the current Road to Zero advertising campaign
+[2023-24 State Highway Investment Proposal]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.8493120670318604
+[2023-24 State Highway Investment Proposal]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.8130553960800171
+[2023-24 State Highway Investment Proposal]: 2024-27 National Land Transport Programme --[DEVELOPMENT_OF]-> Regional Land Transport Plan 0.8175927996635437
+[2023-24 State Highway Investment Proposal]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Access and Development Programme Business Case 0.8056982755661011
+[2023-24 State Highway Investment Proposal]: Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.8082823157310486
+[2023-24 State Highway Investment Proposal]: Hornby Access and Development Programme Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.7861100435256958
+[2023-24 State Highway Investment Proposal]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Access and Development Programme Business Case 0.8461927175521851
+[2023-24 State Highway Investment Proposal]: Main South Road, Shands Road and Carmen Road intersection --[LOCATED_NEAR]-> Hornby Access and Development Programme Business Case 0.7742346525192261
+[Road to Zero – Road policing]: Road to Zero – Road policing --[INVESTMENT]-> 256.5 million 0.9066357612609863
+[Road to Zero – Road policing]: Road to Zero – Road policing --[INVESTMENT]-> 193.3 million 0.9106536507606506
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[WORKING_WITH]-> development of the next Road to Zero Action Plan 0.8278025984764099
+[development of the next Road to Zero Action Plan]: Response --[CONTAINS]-> Waka Kotahi 0.7334545850753784
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[PUBLISHES]-> Response 0.7362912893295288
+[development of the next Road to Zero Action Plan]: response --[CONTAINS]-> Waka Kotahi 0.718359112739563
+[development of the next Road to Zero Action Plan]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.7753598690032959
+[development of the next Road to Zero Action Plan]: Charles Ronaldson --[SIGNED]-> response 0.7141326665878296
+[development of the next Road to Zero Action Plan]: Lauren Cooke --[SIGNED]-> response 0.7298898696899414
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[PUBLISHED_BY]-> response 0.7350159287452698
+[development of the next Road to Zero Action Plan]: Ministry --[PROVIDE]-> response 0.7397096753120422
+[development of the next Road to Zero Action Plan]: response --[REMOVED]-> personal information 0.7014989256858826
+[development of the next Road to Zero Action Plan]: Waka Kotahi website --[CONTAINS]-> response 0.7103877067565918
+[development of the next Road to Zero Action Plan]: New Zealand Transport Agency --[DISCUSSES]-> response 0.772664487361908
+[development of the next Road to Zero Action Plan]: response --[IS_A]-> letter 0.7240411639213562
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[FOLLOWS]-> response 0.7152636051177979
+[development of the next Road to Zero Action Plan]: New Zealand Transport Agency --[PUBLISH]-> response 0.7902222871780396
+[development of the next Road to Zero Action Plan]: New Zealand Transport Agency --[PUBLISHES]-> response 0.7853386402130127
+[development of the next Road to Zero Action Plan]: response --[IS]-> response letter 0.7134866714477539
+[development of the next Road to Zero Action Plan]: response letter --[IS]-> response 0.7105371952056885
+[development of the next Road to Zero Action Plan]: response --[CONTAINS]-> contact details for the Ombudsman 0.7278521656990051
+[development of the next Road to Zero Action Plan]: response --[CONTAINS]-> Jamie Ensor 0.7243244647979736

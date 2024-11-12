@@ -1,0 +1,36 @@
+How much has been spent on heavy vehicle certification reviews and inspections as of February 2020?
+None
+Seed: 7,162 Clean Car fees
+Seed: audits under s198 of the Land Transport Act
+Seed: Audits under s198 of the Land Transport Act
+Seed: paid toll revenues
+[7,162 Clean Car fees]: Waka Kotahi --[RECEIVED]-> 7,162 Clean Car fees 0.8075287342071533
+[7,162 Clean Car fees]: Response --[CONTAINS]-> Waka Kotahi 0.7551038861274719
+[7,162 Clean Car fees]: Waka Kotahi --[PUBLISHES]-> Response 0.7439575791358948
+[7,162 Clean Car fees]: response --[CONTAINS]-> Waka Kotahi 0.7352060079574585
+[7,162 Clean Car fees]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.7925557494163513
+[7,162 Clean Car fees]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7529653310775757
+[7,162 Clean Car fees]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.787354588508606
+[7,162 Clean Car fees]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.7860649824142456
+[7,162 Clean Car fees]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> list of LGWM construction contracts 0.7692264914512634
+[7,162 Clean Car fees]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> public transport fare policy review 0.7792811989784241
+[7,162 Clean Car fees]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.7882007956504822
+[7,162 Clean Car fees]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.7709987163543701
+[7,162 Clean Car fees]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.7741796970367432
+[7,162 Clean Car fees]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.7892227172851562
+[7,162 Clean Car fees]: Waka Kotahi NZ Transport Agency --[FAX]-> F 64 4 894 6100 0.7618170380592346
+[7,162 Clean Car fees]: Andrew Knackstedt --[CONTACT]-> Waka Kotahi NZ Transport Agency 0.7727056741714478
+[7,162 Clean Car fees]: Waka Kotahi NZ Transport Agency --[CONTACT]-> T 64 4 894 5400 0.7611746788024902
+[7,162 Clean Car fees]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7507243752479553
+[7,162 Clean Car fees]: Chris Marshall --[REQUESTS]-> Waka Kotahi NZ Transport Agency 0.7575072646141052
+[7,162 Clean Car fees]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.7928184270858765
+[7,162 Clean Car fees]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.7833595275878906
+[7,162 Clean Car fees]: Waka Kotahi NZ Transport Agency --[ANNOUNCED]-> Road to Zero 0.7608759999275208
+[7,162 Clean Car fees]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.7888623476028442
+[7,162 Clean Car fees]: Road to Zero --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.772933840751648
+[7,162 Clean Car fees]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.7808844447135925
+[7,162 Clean Car fees]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7466012239456177
+[7,162 Clean Car fees]: New Zealand --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7602096199989319
+[7,162 Clean Car fees]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.764624834060669
+[7,162 Clean Car fees]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7502735257148743
+[7,162 Clean Car fees]: www.nzta.govt.nz --[OF]-> Waka Kotahi NZ Transport Agency 0.7862035036087036

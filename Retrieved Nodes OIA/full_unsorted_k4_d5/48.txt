@@ -1,0 +1,36 @@
+How has the COVID-19 pandemic affected the reporting of road crashes in 2020?
+None
+Seed: Covid-19 pandemic
+Seed: Covid-19 Pandemic
+Seed: additional costs caused by the Covid-19 pandemic
+Seed: COVID-19
+[Covid-19 pandemic]: Covid-19 pandemic --[AFFECTS]-> road crashes 0.9506544470787048
+[Covid-19 pandemic]: Covid-19 pandemic --[AFFECTS]-> traffic on the roads 0.9279564619064331
+[Covid-19 pandemic]: Red level --[AFFECTS]-> traffic on the roads 0.8174712657928467
+[Covid-19 pandemic]: Orange level --[AFFECTS]-> traffic on the roads 0.8044878244400024
+[Covid-19 pandemic]: Covid-19 pandemic --[AFFECTS]-> road traffic 0.9233832955360413
+[Covid-19 pandemic]: Covid-19 lockdowns --[AFFECTS]-> road traffic 0.8982523679733276
+[Covid-19 Pandemic]: Covid-19 Pandemic --[HAS]-> 4-level Alert System 0.8560466170310974
+[Covid-19 Pandemic]: 4-level Alert System --[ENDED]-> 27 April 2020 0.8126268982887268
+[Covid-19 Pandemic]: 4-level Alert System --[APPLIED]-> 21 March 2020 0.8167895674705505
+[Covid-19 Pandemic]: 4-level Alert system --[IN_PLACE]-> 21 March 2020 0.8171268701553345
+[Covid-19 Pandemic]: 4-level Alert system --[IN_PLACE]-> March 2020 0.8067803978919983
+[Covid-19 Pandemic]: Traffic Light system --[REPLACES]-> 4-level Alert system 0.7684329748153687
+[Covid-19 Pandemic]: Traffic Light system --[AFFECTS]-> road movements 0.7991501092910767
+[Covid-19 Pandemic]: Traffic Light system --[IN_PLACE]-> December 2021 0.822897732257843
+[Covid-19 Pandemic]: Reporting Time Frame --[AFFECTED_BY]-> Covid-19 Pandemic 0.8924978375434875
+[Covid-19 Pandemic]: Data Processing --[LAG]-> Reporting Time Frame 0.7637826204299927
+[Covid-19 Pandemic]: Crash --[PROCESSED_BY]-> Data Processing 0.7496110796928406
+[Covid-19 Pandemic]: Crash --[REPORTED_BY]-> Police 0.8175460696220398
+[Covid-19 Pandemic]: does not reflect the formal view of the Police --[RELATES_TO]-> Police 0.7417430877685547
+[Covid-19 Pandemic]: Rainbow crossing --[DISCUSSED_BY]-> Police 0.7738556861877441
+[Covid-19 Pandemic]: Police --[DISCUSSION]-> NZTA staff 0.753685712814331
+[Covid-19 Pandemic]: Crash --[MUST_OCCUR]-> Road 0.8247517347335815
+[Covid-19 Pandemic]: Road --[DEFINITION]-> Street, motorway or beach 0.7803047299385071
+[Covid-19 Pandemic]: Road --[DEFINITION]-> Public car park 0.7748478651046753
+[Covid-19 Pandemic]: Road --[DEFINITION]-> Place to which the public have access with a motor vehicle 0.7751713991165161
+[Covid-19 Pandemic]: Road --[DEFINITION]-> any street, motorway or beach, or a place to which the public have access with a motor vehicle, whether as of right or not e.g. a public car park. 0.7677783966064453
+[Covid-19 Pandemic]: CAS --[DEFINES]-> Road 0.7914816737174988
+[Covid-19 Pandemic]: SH2 and SH53 in Featherston --[INTERSECTS]-> Road 0.7730566263198853
+[Covid-19 Pandemic]: Road --[DEFINED_BY]-> CAS 0.7896095514297485
+[Covid-19 Pandemic]: Road --[ACCESSIBLE_BY]-> Motor Vehicle 0.7814818620681763

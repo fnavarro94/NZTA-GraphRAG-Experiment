@@ -1,0 +1,36 @@
+What were the safety failures identified in Go Wellington buses during the inspections in April and May 2013?
+None
+Seed: Safety Incidents
+Seed: rail operational safety
+Seed: Senior Manager Road Safety
+Seed: Vehicle Safety
+[Safety Incidents]: Health, Safety & Quality Report --[CONTAINS]-> Safety Incidents 0.8126248717308044
+[Safety Incidents]: Stephen Bell --[SUBMITS_REPORT]-> Health, Safety & Quality Report 0.7792056202888489
+[Safety Incidents]: Board --[RECEIVES_REPORT]-> Health, Safety & Quality Report 0.7784532904624939
+[Safety Incidents]: Safety Incidents --[INVESTIGATED]-> Board 0.829444169998169
+[rail operational safety]: awareness --[increased]-> rail operational safety 0.7968844175338745
+[rail operational safety]: tool box talks --[given]-> awareness 0.7300440073013306
+[rail operational safety]: rail operational safety --[improved]-> emergency plan 0.7927109003067017
+[rail operational safety]: emergency plan --[activated]-> injured person 0.7610694766044617
+[rail operational safety]: rope supervisor --[in place]-> emergency plan 0.7479715347290039
+[Senior Manager Road Safety]: Senior Manager Road Safety --[EMPLOYER]-> Waka Kotahi 0.7954689860343933
+[Senior Manager Road Safety]: Response --[CONTAINS]-> Waka Kotahi 0.736784815788269
+[Senior Manager Road Safety]: response --[CONTAINS]-> Waka Kotahi 0.7256616950035095
+[Senior Manager Road Safety]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.7379047870635986
+[Senior Manager Road Safety]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.7547762989997864
+[Senior Manager Road Safety]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7309449911117554
+[Senior Manager Road Safety]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7557843923568726
+[Senior Manager Road Safety]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.7082494497299194
+[Senior Manager Road Safety]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7237200140953064
+[Senior Manager Road Safety]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.7291911840438843
+[Senior Manager Road Safety]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.8217876553535461
+[Senior Manager Road Safety]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8008308410644531
+[Senior Manager Road Safety]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.7553108930587769
+[Senior Manager Road Safety]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.8029575347900391
+[Senior Manager Road Safety]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.750807523727417
+[Senior Manager Road Safety]: Leisa Coley --[EMPLOYED_BY]-> Waka Kotahi 0.7120673656463623
+[Senior Manager Road Safety]: Lizette Marais --[EMPLOYED_BY]-> Waka Kotahi 0.7044677734375
+[Senior Manager Road Safety]: Waka Kotahi --[EMPLOYS]-> Andy Knackstedt 0.7222926616668701
+[Senior Manager Road Safety]: Waka Kotahi --[EMPLOYS]-> Qualified Staff 0.7368141412734985
+[Senior Manager Road Safety]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.7878364324569702
+[Senior Manager Road Safety]: website --[RELATES_TO]-> Waka Kotahi 0.7369248270988464

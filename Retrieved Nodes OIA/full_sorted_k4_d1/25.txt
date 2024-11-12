@@ -1,0 +1,17 @@
+Since when does the NZ Transport Agency have records of directives or requests to process OIA requests with urgency?
+None
+Seed: information about the NZ Transport Agency's Information Technology (IT) projects
+Seed: New Zealand Transport Agency
+Seed: reply with NZ Transport Agency Waka Kotahi (NZTA)
+Seed: information to New Zealand Transport Agency Waka Kotahi
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[PROVIDES]-> information about the NZ Transport Agency's Information Technology (IT) projects 0.8676409721374512
+[New Zealand Transport Agency]: New Zealand Transport Agency --[DISCUSSES]-> OIA request 0.9307509064674377
+[New Zealand Transport Agency]: New Zealand Transport Agency --[PROVIDES]-> response to OIA request 0.9205774068832397
+[New Zealand Transport Agency]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA requests 0.9205530881881714
+[New Zealand Transport Agency]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA request 0.9197360277175903
+[New Zealand Transport Agency]: OIA-8452 --[ANSWERED_BY]-> New Zealand Transport Agency 0.9192745685577393
+[New Zealand Transport Agency]: OIA request --[SUBMITTED_TO]-> New Zealand Transport Agency 0.917543888092041
+[New Zealand Transport Agency]: New Zealand Transport Agency --[RESPONDS]-> OIA-10752 0.9163401126861572
+[reply with NZ Transport Agency Waka Kotahi (NZTA)]: reply with NZ Transport Agency Waka Kotahi (NZTA) --[INVOLVES]-> Andy Knackstedt 0.843327522277832
+[reply with NZ Transport Agency Waka Kotahi (NZTA)]: Jackie Smith --[DISCUSSES]-> reply with NZ Transport Agency Waka Kotahi (NZTA) 0.839218020439148
+[information to New Zealand Transport Agency Waka Kotahi]: New Zealand Transport Agency --[PROVIDES]-> information to New Zealand Transport Agency Waka Kotahi 0.8662154674530029

@@ -1,0 +1,34 @@
+What specific type of endorsement is mentioned in the OIA-2127 document?
+None
+Seed: applications for I endorsements
+Seed: standards for all licence endorsement holders
+Seed: I endorsement holders
+Seed: renewals of existing endorsement holders
+[applications for I endorsements]: Transport Agency --[ASSESS]-> applications for I endorsements 0.8482099175453186
+[applications for I endorsements]: Transport Agency --[GRANT]-> I endorsements 0.8473284244537354
+[applications for I endorsements]: applications for I endorsements --[INCLUDE]-> renewals of existing endorsement holders 0.8447509407997131
+[applications for I endorsements]: I endorsements --[HOLD]-> criminal convictions 0.831073522567749
+[applications for I endorsements]: New Zealand --[ASSOCIATED_WITH]-> oia-4543-Phil-Pennington.pdf 0.827023983001709
+[applications for I endorsements]: www.ombudsman.parliament.nz --[ASSOCIATED]-> Ombudsman 0.8218123912811279
+[applications for I endorsements]: www.ombudsman.parliament.nz --[PROVIDES]-> Ombudsman 0.8119022250175476
+[standards for all licence endorsement holders]: Mathew Dearnaley --[ASSOCIATED_WITH]-> oia-2127-mathew-dearnaley.pdf 0.8663731813430786
+[standards for all licence endorsement holders]: oia-2127-mathew-dearnaley.pdf --[ASSOCIATED_WITH]-> Mathew Dearnaley 0.8543742895126343
+[standards for all licence endorsement holders]: Mathew Dearnaley --[ASSOCIATED_WITH]-> OIA-2127 0.8484744429588318
+[standards for all licence endorsement holders]: Andrew McFarlane --[ASSOCIATED_WITH]-> oia-4903-Andrew-Mcfarlane.pdf 0.8459520936012268
+[standards for all licence endorsement holders]: oia-4903-Andrew-Mcfarlane.pdf --[ASSOCIATED_WITH]-> Andrew McFarlane 0.8449056148529053
+[standards for all licence endorsement holders]: I endorsement holders --[SUBJECT_TO]-> monitoring process 0.844489574432373
+[standards for all licence endorsement holders]: OIA-2127 --[ASSOCIATED_WITH]-> Mathew Dearnaley 0.8433318734169006
+[I endorsement holders]: Mathew Dearnaley --[ASSOCIATED_WITH]-> oia-2127-mathew-dearnaley.pdf 0.8663731813430786
+[I endorsement holders]: oia-2127-mathew-dearnaley.pdf --[ASSOCIATED_WITH]-> Mathew Dearnaley 0.8543742895126343
+[I endorsement holders]: Mathew Dearnaley --[ASSOCIATED_WITH]-> OIA-2127 0.8484744429588318
+[I endorsement holders]: Andrew McFarlane --[ASSOCIATED_WITH]-> oia-4903-Andrew-Mcfarlane.pdf 0.8459520936012268
+[I endorsement holders]: oia-4903-Andrew-Mcfarlane.pdf --[ASSOCIATED_WITH]-> Andrew McFarlane 0.8449056148529053
+[I endorsement holders]: I endorsement holders --[SUBJECT_TO]-> monitoring process 0.844489574432373
+[I endorsement holders]: OIA-2127 --[ASSOCIATED_WITH]-> Mathew Dearnaley 0.8433318734169006
+[renewals of existing endorsement holders]: Transport Agency --[ASSESS]-> applications for I endorsements 0.8482099175453186
+[renewals of existing endorsement holders]: Transport Agency --[GRANT]-> I endorsements 0.8473284244537354
+[renewals of existing endorsement holders]: applications for I endorsements --[INCLUDE]-> renewals of existing endorsement holders 0.8447509407997131
+[renewals of existing endorsement holders]: www.ombudsman.parliament.nz --[PROVIDES]-> Transport Agency 0.8039979934692383
+[renewals of existing endorsement holders]: Transport Agency --[CROSS_REFERENCES]-> CAS 0.7931753396987915
+[renewals of existing endorsement holders]: Transport Agency --[REQUIRE]-> fit and proper person assessments 0.7924772500991821
+[renewals of existing endorsement holders]: Transport Agency --[PUBLISHES]-> response to this request on our website 0.7884855270385742

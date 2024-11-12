@@ -1,0 +1,15 @@
+Who funded the Mackenzie Basin Improvement Project, including the artworks?
+None
+Seed: funding requests
+Seed: funding
+Seed: Waito hi Picton Ferry Precinct Redevelopment
+Seed: project artworks
+[funding requests]: funding requests --[NEEDS]-> follow the standard cost scope adjustment process 0.7748982906341553
+[funding requests]: standard cost scope adjustment process --[APPLIES_TO]-> funding requests 0.7698817253112793
+[funding]: New Zealand Transport Agency --[PROVIDES]-> funding 0.7825902104377747
+[funding]: Auckland Transport --[PROVIDES]-> funding 0.7757810950279236
+[funding]: rides hare company --[APPLIES_FOR]-> funding 0.7707736492156982
+[Waito hi Picton Ferry Precinct Redevelopment]: 10 September 2020 --[ASSOCIATED_WITH]-> Waito hi Picton Ferry Precinct Redevelopment 0.7907843589782715
+[Waito hi Picton Ferry Precinct Redevelopment]: Waito hi Picton Ferry Precinct Redevelopment --[ASSOCIATED_WITH]-> Integrated Transportation Assessment 0.7890030145645142
+[project artworks]: Regional Investment Opportunities --[FUNDED]-> project artworks 0.8516737222671509
+[project artworks]: project artworks --[PART_OF]-> Regional Investment Opportunities 0.8370027542114258

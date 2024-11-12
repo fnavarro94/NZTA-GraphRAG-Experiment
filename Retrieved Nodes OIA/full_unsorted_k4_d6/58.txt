@@ -1,0 +1,36 @@
+How is Waka Kotahi addressing corporate emissions as part of their sustainability efforts?
+None
+Seed: fuel from Waka Kotahi fleet vehicle emissions
+Seed: Waka Kotahi Senior Project Manager
+Seed: where people can easily learn about sustainability
+Seed: Waka Kotahi
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi --[PROVIDES]-> fuel from Waka Kotahi fleet vehicle emissions 0.8978778719902039
+[fuel from Waka Kotahi fleet vehicle emissions]: Response --[CONTAINS]-> Waka Kotahi 0.838596522808075
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi --[PUBLISHES]-> Response 0.8713003993034363
+[fuel from Waka Kotahi fleet vehicle emissions]: response --[CONTAINS]-> Waka Kotahi 0.8524847030639648
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.8539071679115295
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.8242098093032837
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.8220241069793701
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.8233412504196167
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> list of LGWM construction contracts 0.8093546628952026
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> public transport fare policy review 0.818208634853363
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.8072599768638611
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8093491792678833
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.8049471378326416
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.8076132535934448
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi NZ Transport Agency --[FAX]-> F 64 4 894 6100 0.8258001208305359
+[fuel from Waka Kotahi fleet vehicle emissions]: Andrew Knackstedt --[CONTACT]-> Waka Kotahi NZ Transport Agency 0.8154729604721069
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi NZ Transport Agency --[CONTACT]-> T 64 4 894 5400 0.8255887031555176
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.824917733669281
+[fuel from Waka Kotahi fleet vehicle emissions]: Chris Marshall --[REQUESTS]-> Waka Kotahi NZ Transport Agency 0.8201796412467957
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.8484584093093872
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.8002105951309204
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi NZ Transport Agency --[ANNOUNCED]-> Road to Zero 0.8271157145500183
+[fuel from Waka Kotahi fleet vehicle emissions]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8317371010780334
+[fuel from Waka Kotahi fleet vehicle emissions]: Road to Zero --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8348882794380188
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.8377382159233093
+[fuel from Waka Kotahi fleet vehicle emissions]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.8156350255012512
+[fuel from Waka Kotahi fleet vehicle emissions]: New Zealand --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.8283573389053345
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.8377147316932678
+[fuel from Waka Kotahi fleet vehicle emissions]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.8147566914558411
+[fuel from Waka Kotahi fleet vehicle emissions]: www.nzta.govt.nz --[OF]-> Waka Kotahi NZ Transport Agency 0.8298962712287903

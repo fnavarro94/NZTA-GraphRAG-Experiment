@@ -1,0 +1,36 @@
+What program, established in the year when the Onehunga Line was reintroduced, enhancing the connection between the two locations connected by the first railway line constructed in New Zealand in 1873, requires periodic testing of older vehicles to ensure they meet emissions standards throughout their operational life?
+None
+Seed: First railway line between auckland and onehunga in 1873
+Seed: Vehicles meet specific emissions standards
+Seed: Periodic testing of older vehicles
+Seed: Vehicle exhaust emissions testing programme
+[First railway line between auckland and onehunga in 1873]: New zealand --[Had]-> First railway line between auckland and onehunga in 1873 0.9003486633300781
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Transport projects 0.8300265073776245
+[First railway line between auckland and onehunga in 1873]: New zealand transport agency --[Oversees]-> Transport projects 0.8026483654975891
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> New zealand transport agency 0.8120561242103577
+[First railway line between auckland and onehunga in 1873]: New zealand transport agency --[Is]-> Forefront of promoting active transport 0.7949013113975525
+[First railway line between auckland and onehunga in 1873]: New zealand transport agency --[Is]-> Government agency 0.7926333546638489
+[First railway line between auckland and onehunga in 1873]: New zealand transport agency --[Is]-> Key stakeholder 0.7953158020973206
+[First railway line between auckland and onehunga in 1873]: New zealand transport agency --[Is]-> Primary authority 0.7798712253570557
+[First railway line between auckland and onehunga in 1873]: New zealand transport agency --[Is]-> Developing integrated transport solutions 0.8044368624687195
+[First railway line between auckland and onehunga in 1873]: New zealand transport agency --[Is]-> Collaborating with technology providers 0.805286705493927
+[First railway line between auckland and onehunga in 1873]: New zealand transport agency --[Implemented]-> Initiatives 0.8224771618843079
+[First railway line between auckland and onehunga in 1873]: New zealand transport agency --[Responsible for]-> Management and regulation of transport systems 0.8022097945213318
+[First railway line between auckland and onehunga in 1873]: New zealand transport agency --[Responsible for]-> Management and regulation of the transport system in new zealand 0.7985409498214722
+[First railway line between auckland and onehunga in 1873]: New zealand transport agency --[Ensures]-> Policies align with national transport objectives 0.7949417233467102
+[First railway line between auckland and onehunga in 1873]: New zealand transport agency --[Ensures]-> Voices of all road users are considered in decision-making processes 0.7603645324707031
+[First railway line between auckland and onehunga in 1873]: New zealand transport agency --[Mandates]-> Regular audits 0.7983618974685669
+[First railway line between auckland and onehunga in 1873]: New zealand transport agency --[Promotes]-> Road safety 0.7908077836036682
+[First railway line between auckland and onehunga in 1873]: New zealand transport agency --[Aims]-> Reduce greenhouse gas emissions 0.8087126612663269
+[First railway line between auckland and onehunga in 1873]: New zealand transport agency --[Plays]-> A crucial role in funding and promoting cycling infrastructure projects 0.7965060472488403
+[First railway line between auckland and onehunga in 1873]: New zealand transport agency --[Plays]-> Pivotal role in conducting forecasts 0.8009637594223022
+[First railway line between auckland and onehunga in 1873]: New zealand transport agency --[Plays]-> Pivotal role in facilitating road user engagement 0.7983059883117676
+[First railway line between auckland and onehunga in 1873]: New zealand transport agency --[Plays]-> Crucial role in developing guidelines 0.8123151063919067
+[First railway line between auckland and onehunga in 1873]: New zealand transport agency --[Plays]-> Crucial role in developing standards 0.8242961764335632
+[First railway line between auckland and onehunga in 1873]: New zealand transport agency --[Plays]-> Pivotal role 0.805651068687439
+[First railway line between auckland and onehunga in 1873]: New zealand transport agency --[Is responsible for]-> Promoting public transport initiatives 0.7942358255386353
+[First railway line between auckland and onehunga in 1873]: New zealand transport agency --[Is responsible for]-> State highway network 0.8043668270111084
+[First railway line between auckland and onehunga in 1873]: New zealand transport agency --[Is responsible for]-> Managing state highway network 0.7985377907752991
+[First railway line between auckland and onehunga in 1873]: New zealand transport agency --[Is responsible for]-> Funding local road projects 0.8052141666412354
+[First railway line between auckland and onehunga in 1873]: New zealand transport agency --[Is responsible for]-> Road networks 0.8104348182678223
+[First railway line between auckland and onehunga in 1873]: New zealand transport agency --[Manages]-> National land transport fund 0.7794674634933472

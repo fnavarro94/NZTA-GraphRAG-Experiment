@@ -1,0 +1,34 @@
+Are there any future upgrades planned to address crash risks at the SH2/SH53 intersection?
+None
+Seed: Request for information on Hornby Intersection improvements
+Seed: no other intersection safety improvements planned
+Seed: intersection of SH2 and SH53
+Seed: improving the safety performance of the vehicle fleet
+[Request for information on Hornby Intersection improvements]: no fatal, serious or minor injury crashes --[OCCURRED]-> intersection of SH2 and SH53 0.911615788936615
+[Request for information on Hornby Intersection improvements]: accident or crash history --[RELATES_TO]-> intersection of SH2 and SH53 0.893663763999939
+[Request for information on Hornby Intersection improvements]: SH2 and SH53 in Featherston --[INTERSECTS]-> Road 0.8788701295852661
+[Request for information on Hornby Intersection improvements]: one non-injury crash --[OCCURRED]-> 2022 0.8662520051002502
+[Request for information on Hornby Intersection improvements]: intersection of SH2 and SH53 --[LOCATED_IN]-> Featherston 0.8637247681617737
+[Request for information on Hornby Intersection improvements]: Let's Get Wellington Moving --[HAS_COMPONENT]-> Strategic Highway Improvements 0.8610308766365051
+[Request for information on Hornby Intersection improvements]: 2022 --[INCLUDES]-> one non-injury crash 0.8549635410308838
+[no other intersection safety improvements planned]: no fatal, serious or minor injury crashes --[OCCURRED]-> intersection of SH2 and SH53 0.911615788936615
+[no other intersection safety improvements planned]: accident or crash history --[RELATES_TO]-> intersection of SH2 and SH53 0.893663763999939
+[no other intersection safety improvements planned]: SH2 and SH53 in Featherston --[INTERSECTS]-> Road 0.8788701295852661
+[no other intersection safety improvements planned]: one non-injury crash --[OCCURRED]-> 2022 0.8662520051002502
+[no other intersection safety improvements planned]: intersection of SH2 and SH53 --[LOCATED_IN]-> Featherston 0.8637247681617737
+[no other intersection safety improvements planned]: Let's Get Wellington Moving --[HAS_COMPONENT]-> Strategic Highway Improvements 0.8610308766365051
+[no other intersection safety improvements planned]: 2022 --[INCLUDES]-> one non-injury crash 0.8549635410308838
+[intersection of SH2 and SH53]: no fatal, serious or minor injury crashes --[OCCURRED]-> intersection of SH2 and SH53 0.911615788936615
+[intersection of SH2 and SH53]: accident or crash history --[RELATES_TO]-> intersection of SH2 and SH53 0.893663763999939
+[intersection of SH2 and SH53]: SH2 and SH53 in Featherston --[INTERSECTS]-> Road 0.8788701295852661
+[intersection of SH2 and SH53]: one non-injury crash --[OCCURRED]-> 2022 0.8662520051002502
+[intersection of SH2 and SH53]: intersection of SH2 and SH53 --[LOCATED_IN]-> Featherston 0.8637247681617737
+[intersection of SH2 and SH53]: Let's Get Wellington Moving --[HAS_COMPONENT]-> Strategic Highway Improvements 0.8610308766365051
+[intersection of SH2 and SH53]: 2022 --[INCLUDES]-> one non-injury crash 0.8549635410308838
+[improving the safety performance of the vehicle fleet]: Safe System approach --[INCLUDES]-> improving the safety performance of the vehicle fleet 0.8217959403991699
+[improving the safety performance of the vehicle fleet]: Safe System approach --[INCLUDES]-> installing median barriers 0.7996704578399658
+[improving the safety performance of the vehicle fleet]: resolution A/RES/74/299 --[PROMOTES]-> Safe System approach 0.7962666749954224
+[improving the safety performance of the vehicle fleet]: Safe System approach --[INCLUDES]-> encouraging road users to be alert and compliant 0.7895880937576294
+[improving the safety performance of the vehicle fleet]: Road to Zero strategy --[AIMS_TO]-> Vision Zero 0.7647144198417664
+[improving the safety performance of the vehicle fleet]: A/RES/74/299 --[PROMOTES]-> Vision Zero 0.7642921209335327
+[improving the safety performance of the vehicle fleet]: Road to Zero strategy --[BASED_ON]-> Vision Zero 0.7607716917991638

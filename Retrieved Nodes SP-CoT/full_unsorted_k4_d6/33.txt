@@ -1,0 +1,36 @@
+What body of water encircles the geological region where New Zealand is located, making it susceptible to natural disasters such as earthquakes, volcanic eruptions, and tsunamis?
+None
+Seed: Horseshoe-shaped zone of high seismic and volcanic activity
+Seed: North island's eastern coastline
+Seed: Volcanic activity
+Seed: Natural hazards
+[Horseshoe-shaped zone of high seismic and volcanic activity]: Pacific ring of fire --[Is]-> Horseshoe-shaped zone of high seismic and volcanic activity 0.8409578800201416
+[Horseshoe-shaped zone of high seismic and volcanic activity]: Pacific ring of fire --[Encircles]-> Pacific ocean 0.8413668870925903
+[North island's eastern coastline]: Pch --[Runs along]-> North island's eastern coastline 0.8261814713478088
+[North island's eastern coastline]: Pch --[Supports]-> Freight movement 0.7198522686958313
+[North island's eastern coastline]: Rail transport --[Plays vital role]-> Freight movement 0.724922776222229
+[North island's eastern coastline]: Kiwirail group --[Responsible for]-> Rail transport 0.7748407125473022
+[North island's eastern coastline]: Kiwirail group --[Is]-> State-owned enterprise 0.7550311088562012
+[North island's eastern coastline]: Kiwirail --[Is]-> State-owned enterprise 0.7684711813926697
+[North island's eastern coastline]: Kiwirail group --[Provides]-> Essential services 0.7448365092277527
+[North island's eastern coastline]: Kiwirail group --[Provides]-> Efficient transport 0.7460149526596069
+[North island's eastern coastline]: Kiwirail group --[Provides]-> Sustainable transport 0.7473502159118652
+[North island's eastern coastline]: Sustainable urban transport --[Key component]-> Sustainable transport 0.7269116640090942
+[North island's eastern coastline]: Kiwirail group --[Addresses]-> Environmental concerns 0.7910357117652893
+[North island's eastern coastline]: New zealand --[Face]-> Environmental concerns 0.8576937913894653
+[North island's eastern coastline]: Kiwirail group --[Addresses]-> Road congestion 0.7650423049926758
+[North island's eastern coastline]: Kiwirail --[Reduces]-> Road congestion 0.7452157139778137
+[North island's eastern coastline]: Kiwirail group --[Responsible for]-> Freight services 0.752013087272644
+[North island's eastern coastline]: North island main trunk line --[Serves]-> Freight services 0.7490079402923584
+[North island's eastern coastline]: North island main trunk line --[Supports]-> Freight services 0.7408174276351929
+[North island's eastern coastline]: Kiwirail group --[Operates]-> Freight services 0.7711474895477295
+[North island's eastern coastline]: Kiwirail --[Provides]-> Freight services 0.7572360038757324
+[North island's eastern coastline]: Kiwirail group --[Promotes]-> Integrated transport solutions 0.7327671647071838
+[North island's eastern coastline]: Waka kotahi --[Develops]-> Integrated transport solutions 0.7170271873474121
+[North island's eastern coastline]: Kiwirail group --[Promotes]-> Economic growth 0.7414257526397705
+[North island's eastern coastline]: National land transport programme --[Supports]-> Economic growth 0.7104274034500122
+[North island's eastern coastline]: Government objectives --[Include]-> Economic growth 0.7187519669532776
+[North island's eastern coastline]: Waka kotahi --[Contributes to]-> Economic growth 0.7311866283416748
+[North island's eastern coastline]: Auckland western ring route --[Supports]-> Economic growth 0.7861679792404175
+[North island's eastern coastline]: Transport infrastructure development --[Is crucial for]-> Economic growth 0.7256215214729309
+[North island's eastern coastline]: Freight transport --[Essential for]-> Economic growth 0.6986691951751709

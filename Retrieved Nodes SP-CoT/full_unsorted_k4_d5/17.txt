@@ -1,0 +1,36 @@
+What is the official designation of the scenic route in New Zealand that is known for attracting both domestic and international tourists?
+None
+Seed: Scenic routes such as the tranzalpine and the northern explorer
+Seed: Domestic and international tourists
+Seed: Renowned scenic roadway
+Seed: Scenic routes
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Include]-> Scenic routes such as the tranzalpine and the northern explorer 0.8044208884239197
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Showcase]-> New zealand's stunning landscapes 0.8293941617012024
+[Domestic and international tourists]: Road transport --[Attracts]-> Domestic and international tourists 0.8422207832336426
+[Domestic and international tourists]: Road transport --[Uses]-> Gps for navigation and route optimization 0.7651116847991943
+[Domestic and international tourists]: Health and safety at work act 2015 --[Applies to]-> Road transport 0.7375304102897644
+[Domestic and international tourists]: Health and safety at work act 2015 --[Emphasizes]-> Importance of proactive risk management 0.7025836706161499
+[Domestic and international tourists]: Health and safety at work act 2015 --[Introduced]-> Robust approach to workplace safety 0.693871259689331
+[Domestic and international tourists]: Health and safety at work act 2015 --[Emphasizes]-> Importance of risk management 0.69730544090271
+[Domestic and international tourists]: Health and safety at work act 2015 --[Applies to]-> Maritime 0.7012849450111389
+[Domestic and international tourists]: Ministry of transport --[Oversees]-> Maritime 0.7289430499076843
+[Domestic and international tourists]: Ministry of transport --[Develops]-> National transport policies 0.7393028736114502
+[Domestic and international tourists]: Ministry of transport --[Oversees]-> Rail 0.7433912754058838
+[Domestic and international tourists]: Ministry of transport --[Works with]-> New zealand transport agency 0.7765538692474365
+[Domestic and international tourists]: Ministry of transport --[Oversees]-> Road 0.7692058086395264
+[Domestic and international tourists]: Road safety authority --[Operates under]-> Ministry of transport 0.7455476522445679
+[Domestic and international tourists]: New zealand transport agency --[Operates under]-> Ministry of transport 0.7973979711532593
+[Domestic and international tourists]: Ministry of transport --[Collaborates with]-> Community groups 0.7373016476631165
+[Domestic and international tourists]: Ministry of transport --[Collaborates with]-> Local government 0.7301766872406006
+[Domestic and international tourists]: Ministry of transport --[Oversees]-> Maritime transport 0.7354335784912109
+[Domestic and international tourists]: Ministry of transport --[Oversees]-> Road transport 0.7655441761016846
+[Domestic and international tourists]: Ministry of transport --[Established in]-> 1962 0.74445641040802
+[Domestic and international tourists]: Ministry of transport --[Responsible for]-> Transport policy 0.7461923360824585
+[Domestic and international tourists]: Ministry of transport --[Manages]-> Transport system 0.742676854133606
+[Domestic and international tourists]: Ministry of transport --[Oversees]-> Aviation 0.7318403720855713
+[Domestic and international tourists]: Ministry of transport --[Collaborates with]-> Industry representatives 0.7224224805831909
+[Domestic and international tourists]: Ministry of transport --[Collaborates with]-> Transport agencies 0.7297052145004272
+[Domestic and international tourists]: Ministry of transport --[Is]-> Government agency 0.7361649870872498
+[Domestic and international tourists]: Ministry of transport --[Oversees]-> Public transport 0.7537096738815308
+[Domestic and international tourists]: Ministry of transport --[Oversees]-> Transport sector 0.740631103515625
+[Domestic and international tourists]: Ministry of transport --[Provides]-> Policy advice 0.7353746891021729

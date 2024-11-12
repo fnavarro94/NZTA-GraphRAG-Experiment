@@ -1,0 +1,28 @@
+Which notable transport project in New Zealand, alongside the Auckland rail project, has undergone TEIA?
+None
+Seed: Addressing transport challenges in auckland
+Seed: New zealand's transport network
+Seed: Rail networks
+Seed: New zealand's transport system
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Transport projects 0.8840452432632446
+[Addressing transport challenges in auckland]: Auckland city rail link --[Is]-> Significant infrastructure project 0.8692881464958191
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Rail transport 0.8655454516410828
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Encompasses]-> Range of projects 0.8646461963653564
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Transport sector 0.8625278472900391
+[Addressing transport challenges in auckland]: Teia --[Used in]-> New zealand 0.8600005507469177
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Is]-> Strategic initiative 0.8597613573074341
+[New zealand's transport network]: Road infrastructure projects --[Play crucial role in]-> New zealand's transport network 0.8425232172012329
+[Rail networks]: Auckland --[Has]-> Transport projects 0.8867664337158203
+[Rail networks]: New zealand --[Has]-> Transport projects 0.8840452432632446
+[Rail networks]: Auckland --[Has]-> City rail link project 0.8744292259216309
+[Rail networks]: Auckland city rail link --[Is]-> Significant infrastructure project 0.8692881464958191
+[Rail networks]: Auckland --[Has]-> Rail network 0.8672738671302795
+[Rail networks]: New zealand --[Has]-> Rail transport 0.8655454516410828
+[Rail networks]: Auckland transport alignment project --[Encompasses]-> Range of projects 0.8646461963653564
+[New zealand's transport system]: Auckland --[Has]-> Transport projects 0.8867664337158203
+[New zealand's transport system]: New zealand --[Has]-> Transport projects 0.8840452432632446
+[New zealand's transport system]: Auckland --[Has]-> City rail link project 0.8744292259216309
+[New zealand's transport system]: Auckland --[Has]-> Rail network 0.8672738671302795
+[New zealand's transport system]: New zealand --[Has]-> Rail transport 0.8655454516410828
+[New zealand's transport system]: New zealand --[Has]-> Transport sector 0.8625278472900391
+[New zealand's transport system]: Teia --[Used in]-> New zealand 0.8600005507469177

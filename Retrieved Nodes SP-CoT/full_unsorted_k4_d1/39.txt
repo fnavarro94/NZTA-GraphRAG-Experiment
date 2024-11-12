@@ -1,0 +1,10 @@
+What is the abbreviation commonly used for the entity that plays a pivotal role in facilitating collaboration and providing guidance for the development and implementation of Transport Emergency Response Plans in New Zealand?
+None
+Seed: Collaboration between civil defence organizations and transport agencies
+Seed: Vital role in broader transport network of new zealand
+Seed: Primary provider of ambulance services
+Seed: Collaboration with new zealand ministry of health and local health authorities
+[Collaboration between civil defence organizations and transport agencies]: Civil defence emergency management act 2002 --[Encourages]-> Collaboration between civil defence organizations and transport agencies 0.8031700253486633
+[Vital role in broader transport network of new zealand]: New zealand air ambulance service --[Plays]-> Vital role in broader transport network of new zealand 0.8492995500564575
+[Primary provider of ambulance services]: St john --[Is]-> Primary provider of ambulance services 0.7881965041160583
+[Collaboration with new zealand ministry of health and local health authorities]: New zealand air ambulance service --[Works]-> Collaboration with new zealand ministry of health and local health authorities 0.824052631855011

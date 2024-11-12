@@ -1,0 +1,36 @@
+What is Waka Kotahi's long-term sustainability vision?
+None
+Seed: Waka Kotahi Senior Project Manager
+Seed: vision for a low carbon, safe and healthy land transport system by 2050
+Seed: Waka Kotahi
+Seed: where people can easily learn about sustainability
+[Waka Kotahi Senior Project Manager]: Waka Kotahi Senior Project Manager --[MANAGES]-> State Highway 25A Rebuild Project 0.8160412311553955
+[vision for a low carbon, safe and healthy land transport system by 2050]: Toitū Te Taiao --[SETS]-> vision for a low carbon, safe and healthy land transport system by 2050 0.7960503697395325
+[vision for a low carbon, safe and healthy land transport system by 2050]: Waka Kotahi NZ Transport Agency --[RELEASED]-> Toitū Te Taiao 0.7861352562904358
+[vision for a low carbon, safe and healthy land transport system by 2050]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.800326406955719
+[vision for a low carbon, safe and healthy land transport system by 2050]: New Zealand Transport Agency --[BASED]-> Wellington 0.7100769877433777
+[vision for a low carbon, safe and healthy land transport system by 2050]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.705350399017334
+[vision for a low carbon, safe and healthy land transport system by 2050]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7176914811134338
+[vision for a low carbon, safe and healthy land transport system by 2050]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7121522426605225
+[vision for a low carbon, safe and healthy land transport system by 2050]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7186527252197266
+[vision for a low carbon, safe and healthy land transport system by 2050]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7035562992095947
+[vision for a low carbon, safe and healthy land transport system by 2050]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7109896540641785
+[vision for a low carbon, safe and healthy land transport system by 2050]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7329578399658203
+[vision for a low carbon, safe and healthy land transport system by 2050]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7292600274085999
+[vision for a low carbon, safe and healthy land transport system by 2050]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7297354340553284
+[vision for a low carbon, safe and healthy land transport system by 2050]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7136915922164917
+[vision for a low carbon, safe and healthy land transport system by 2050]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7093903422355652
+[vision for a low carbon, safe and healthy land transport system by 2050]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7014481425285339
+[vision for a low carbon, safe and healthy land transport system by 2050]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7254733443260193
+[vision for a low carbon, safe and healthy land transport system by 2050]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7027925252914429
+[vision for a low carbon, safe and healthy land transport system by 2050]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7240340709686279
+[vision for a low carbon, safe and healthy land transport system by 2050]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.738182544708252
+[vision for a low carbon, safe and healthy land transport system by 2050]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7384464740753174
+[vision for a low carbon, safe and healthy land transport system by 2050]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7206799983978271
+[vision for a low carbon, safe and healthy land transport system by 2050]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7249240875244141
+[vision for a low carbon, safe and healthy land transport system by 2050]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.722176194190979
+[vision for a low carbon, safe and healthy land transport system by 2050]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7342337369918823
+[vision for a low carbon, safe and healthy land transport system by 2050]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7364513874053955
+[vision for a low carbon, safe and healthy land transport system by 2050]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7312856912612915
+[vision for a low carbon, safe and healthy land transport system by 2050]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7058823704719543
+[vision for a low carbon, safe and healthy land transport system by 2050]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7390553951263428

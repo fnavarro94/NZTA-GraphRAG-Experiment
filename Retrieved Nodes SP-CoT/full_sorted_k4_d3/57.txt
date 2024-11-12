@@ -1,0 +1,34 @@
+What legislation established the organization that outlines its responsibilities in transport governance in New Zealand?
+None
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+Seed: Management and regulation of the transport system in new zealand
+Seed: Management and regulation of transport systems
+Seed: Transport industry governed by regulatory bodies
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Plays]-> Significant role in shaping transport infrastructure and policy in new zealand 0.8711110949516296
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Aims to]-> Enhance resilience and adaptability of new zealand's transport network 0.853621780872345
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Is]-> Collective of australian and new zealand road transport and traffic agencies 0.8447446823120117
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Collaborates with]-> New zealand transport agency (nzta 0.835288941860199
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Founded in]-> 1990 0.7607241272926331
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Engages in]-> International collaborations to align initiatives with global best practices 0.7548270225524902
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Conducts]-> Extensive research and development projects 0.7530002593994141
+[Management and regulation of the transport system in new zealand]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.9046234488487244
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Responsible for]-> Management and regulation of the transport system in new zealand 0.9029663801193237
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Responsible for]-> Management and regulation of transport systems 0.9025870561599731
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Is responsible for]-> Road networks 0.9008885025978088
+[Management and regulation of the transport system in new zealand]: New zealand --[Governed by]-> Transport services licensing act 1989 0.9002704620361328
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Is responsible for]-> Promoting public transport initiatives 0.8969727158546448
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Established in]-> 2008 0.8962820172309875
+[Management and regulation of transport systems]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.9046234488487244
+[Management and regulation of transport systems]: New zealand transport agency --[Responsible for]-> Management and regulation of the transport system in new zealand 0.9029663801193237
+[Management and regulation of transport systems]: New zealand transport agency --[Responsible for]-> Management and regulation of transport systems 0.9025870561599731
+[Management and regulation of transport systems]: New zealand transport agency --[Is responsible for]-> Road networks 0.9008885025978088
+[Management and regulation of transport systems]: New zealand --[Governed by]-> Transport services licensing act 1989 0.9002704620361328
+[Management and regulation of transport systems]: New zealand transport agency --[Is responsible for]-> Promoting public transport initiatives 0.8969727158546448
+[Management and regulation of transport systems]: New zealand transport agency --[Established in]-> 2008 0.8962820172309875
+[Transport industry governed by regulatory bodies]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.9046234488487244
+[Transport industry governed by regulatory bodies]: New zealand transport agency --[Responsible for]-> Management and regulation of the transport system in new zealand 0.9029663801193237
+[Transport industry governed by regulatory bodies]: New zealand transport agency --[Responsible for]-> Management and regulation of transport systems 0.9025870561599731
+[Transport industry governed by regulatory bodies]: New zealand transport agency --[Is responsible for]-> Road networks 0.9008885025978088
+[Transport industry governed by regulatory bodies]: New zealand --[Governed by]-> Transport services licensing act 1989 0.9002704620361328
+[Transport industry governed by regulatory bodies]: New zealand transport agency --[Is responsible for]-> Promoting public transport initiatives 0.8969727158546448
+[Transport industry governed by regulatory bodies]: New zealand transport agency --[Established in]-> 2008 0.8962820172309875

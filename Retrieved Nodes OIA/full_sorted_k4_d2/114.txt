@@ -1,0 +1,29 @@
+Were any complaints about vehicle certifications upheld, and what actions were taken?
+None
+Seed: information on vehicle and driver registration and licensing
+Seed: vehicle registration and licensing
+Seed: 196 complaints about Uber drivers
+Seed: instances where a driver and/or passenger may automatically be excused from the requirement to utilise a child restrain and seatbelt
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[RESPONSIBLE_FOR]-> Vehicle Standard 0.8545479774475098
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[RESPONDED]-> complaint 0.8471698760986328
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[POLICY]-> publishing responses on website 0.8471479415893555
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[RESPONDS]-> queries 0.8461435437202454
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[RECEIVED]-> one complaint 0.8451414108276367
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[REVIEWING]-> standards for all licence endorsement holders 0.8430936336517334
+[information on vehicle and driver registration and licensing]: Vehicle Inspection --[CONDUCTED_BY]-> New Zealand Transport Agency 0.838797926902771
+[vehicle registration and licensing]: Waka Kotahi --[REFUSES_REQUEST]-> vehicle registration and licensing 0.851997971534729
+[vehicle registration and licensing]: Waka Kotahi --[INVESTIGATES]-> ride share operator complaints 0.8405086398124695
+[vehicle registration and licensing]: Waka Kotahi --[INVESTIGATES]-> breaches of rules or regulations 0.8164022564888
+[vehicle registration and licensing]: Waka Kotahi --[REFUSES_REQUEST]-> vehicle kilometres travelled estimates 0.8160711526870728
+[vehicle registration and licensing]: Senior Engineer Vehicle Standard --[ASSOCIATED]-> Waka Kotahi 0.8160613179206848
+[vehicle registration and licensing]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.8153073787689209
+[vehicle registration and licensing]: Waka Kotahi --[ASSESS]-> complaint 0.8144699335098267
+[196 complaints about Uber drivers]: Waka Kotahi --[REFUSES_REQUEST]-> vehicle registration and licensing 0.851997971534729
+[196 complaints about Uber drivers]: Waka Kotahi --[INVESTIGATES]-> ride share operator complaints 0.8405086398124695
+[196 complaints about Uber drivers]: Waka Kotahi --[INVESTIGATES]-> breaches of rules or regulations 0.8164022564888
+[196 complaints about Uber drivers]: Waka Kotahi --[REFUSES_REQUEST]-> vehicle kilometres travelled estimates 0.8160711526870728
+[196 complaints about Uber drivers]: Senior Engineer Vehicle Standard --[ASSOCIATED]-> Waka Kotahi 0.8160613179206848
+[196 complaints about Uber drivers]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.8153073787689209
+[196 complaints about Uber drivers]: Waka Kotahi --[ASSESS]-> complaint 0.8144699335098267
+[instances where a driver and/or passenger may automatically be excused from the requirement to utilise a child restrain and seatbelt]: Land Transport (Road User) Rule 2004 --[SPECIFIES]-> instances where a driver and/or passenger may automatically be excused from the requirement to utilise a child restrain and seatbelt 0.8005300760269165
+[instances where a driver and/or passenger may automatically be excused from the requirement to utilise a child restrain and seatbelt]: Land Transport (Road User) Rule 2004 --[ALLOWS]-> an adherent of the Sikh religion to be excused from wearing a motorcycle helmet, providing they will not be travelling at a speed exceeding 50kmph 0.7765862345695496

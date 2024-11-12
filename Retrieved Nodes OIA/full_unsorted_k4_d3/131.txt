@@ -1,0 +1,36 @@
+How much was spent on the Safe Limits campaign, including the radio and other media advertising?
+None
+Seed: cost of the current Road to Zero advertising campaign
+Seed: Advertising Media Spend 2017-2018
+Seed: Total Media Costs
+Seed: advertising campaigns
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[COST]-> cost of the current Road to Zero advertising campaign 0.832727313041687
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[LAUNCHED_BY]-> New Zealand Transport Agency 0.7623376846313477
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7094333171844482
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7267563939094543
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.726813018321991
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7145811915397644
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.719322919845581
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7101191878318787
+[cost of the current Road to Zero advertising campaign]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7264383435249329
+[cost of the current Road to Zero advertising campaign]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7225373983383179
+[cost of the current Road to Zero advertising campaign]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7496248483657837
+[cost of the current Road to Zero advertising campaign]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7275326251983643
+[cost of the current Road to Zero advertising campaign]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.72185879945755
+[cost of the current Road to Zero advertising campaign]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7213144898414612
+[cost of the current Road to Zero advertising campaign]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7454577088356018
+[cost of the current Road to Zero advertising campaign]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7330899238586426
+[cost of the current Road to Zero advertising campaign]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7483072280883789
+[cost of the current Road to Zero advertising campaign]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.739680290222168
+[cost of the current Road to Zero advertising campaign]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7439080476760864
+[cost of the current Road to Zero advertising campaign]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7127678394317627
+[cost of the current Road to Zero advertising campaign]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7536182403564453
+[cost of the current Road to Zero advertising campaign]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7377040982246399
+[cost of the current Road to Zero advertising campaign]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7381176352500916
+[cost of the current Road to Zero advertising campaign]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7361094355583191
+[cost of the current Road to Zero advertising campaign]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7375510334968567
+[cost of the current Road to Zero advertising campaign]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7244240045547485
+[cost of the current Road to Zero advertising campaign]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7384344339370728
+[cost of the current Road to Zero advertising campaign]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7304591536521912
+[cost of the current Road to Zero advertising campaign]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7398619651794434
+[cost of the current Road to Zero advertising campaign]: Senior Engineer Vehicle Standard --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7233797311782837

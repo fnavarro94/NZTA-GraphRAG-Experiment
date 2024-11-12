@@ -1,0 +1,36 @@
+How does the National Ticketing System (NTS) provide value for money?
+None
+Seed: fares play an important role in helping cover the cost of public transport within available budgets
+Seed: National Ticketing System
+Seed: public interest in efficient use of public money
+Seed: efficient use of public money
+[fares play an important role in helping cover the cost of public transport within available budgets]: government's transport priorities --[INCLUDES]-> fares play an important role in helping cover the cost of public transport within available budgets 0.7995532751083374
+[fares play an important role in helping cover the cost of public transport within available budgets]: wider objectives in Regional Public Transport Plans --[CONTRIBUTES]-> government's transport priorities 0.7687621116638184
+[fares play an important role in helping cover the cost of public transport within available budgets]: underlying principles of the current policy --[CONTRIBUTES]-> wider objectives in Regional Public Transport Plans 0.7692129611968994
+[fares play an important role in helping cover the cost of public transport within available budgets]: national farebox recovery target --[REPLACED_BY]-> underlying principles of the current policy 0.7985562086105347
+[fares play an important role in helping cover the cost of public transport within available budgets]: 2018-21 NLTP --[APPLIES]-> national farebox recovery target 0.8030454516410828
+[fares play an important role in helping cover the cost of public transport within available budgets]: national farebox recovery target --[REPLACED]-> 2018-21 NLTP 0.7740662097930908
+[fares play an important role in helping cover the cost of public transport within available budgets]: national farebox recovery target --[INTRODUCED]-> 2010 0.7850147485733032
+[fares play an important role in helping cover the cost of public transport within available budgets]: wider impacts of fare policy on people and cities --[INCLUCES]-> national farebox recovery target 0.8158575892448425
+[fares play an important role in helping cover the cost of public transport within available budgets]: 2010 --[APPLIES]-> national farebox recovery target 0.7947403788566589
+[fares play an important role in helping cover the cost of public transport within available budgets]: fares play an important role in helping cover the cost of public transport within available budgets --[CONTRIBUTES]-> public transport budgets 0.8126844763755798
+[fares play an important role in helping cover the cost of public transport within available budgets]: public transport budgets --[MANAGED_BY]-> councils 0.7710717916488647
+[fares play an important role in helping cover the cost of public transport within available budgets]: councils --[MUST]-> manage fare revenue and public transport budgets within current funding allocations 0.7812429070472717
+[fares play an important role in helping cover the cost of public transport within available budgets]: manage fare revenue and public transport budgets within current funding allocations --[REQUIRES]-> standard cost scope adjustment process 0.8151757717132568
+[fares play an important role in helping cover the cost of public transport within available budgets]: standard cost scope adjustment process --[APPLIES_TO]-> funding requests 0.8077314496040344
+[National Ticketing System]: Request for National Ticketing System Documentation --[REQUESTS]-> National Ticketing System 0.8597058057785034
+[National Ticketing System]: Email --[CONTAINS]-> Request for National Ticketing System Documentation 0.8344603776931763
+[National Ticketing System]: Email --[IS]-> andrew.knackstedt@nzta.govt.nz 0.7624311447143555
+[National Ticketing System]: Senior Media Manager --[ASSOCIATED_WITH]-> andrew.knackstedt@nzta.govt.nz 0.7432453036308289
+[National Ticketing System]: Senior Media Manager --[CONTACT]-> andrew.knackstedt@nzta.govt.nz 0.7423633337020874
+[National Ticketing System]: Ministerial Services --[ASSOCIATED_WITH]-> Senior Media Manager 0.7405339479446411
+[National Ticketing System]: Senior Media Manager --[AT]-> Waka Kotahi 0.7046051621437073
+[National Ticketing System]: Andrew Knackstedt --[IS]-> Senior Media Manager 0.7386301159858704
+[National Ticketing System]: Andy Knackstedt --[IS]-> Senior Media Manager 0.7330545783042908
+[National Ticketing System]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> NZ Transport Agency Waka Kotahi 0.7632521390914917
+[National Ticketing System]: NZ Transport Agency Waka Kotahi --[RESPOND]-> oia-15599-response-letter-23-july-2024.pdf 0.7453644871711731
+[National Ticketing System]: Andy Knackstedt --[DISCUSS]-> NZ Transport Agency Waka Kotahi 0.7459978461265564
+[National Ticketing System]: NZ Transport Agency Waka Kotahi --[ASSOCIATED_WITH]-> oia-15599-response-letter-23-july-2024.pdf 0.7369520664215088
+[National Ticketing System]: NZ Transport Agency Waka Kotahi --[POLICY]-> publishing policy 0.7676021456718445
+[National Ticketing System]: response letter --[ASSOCIATED_WITH]-> NZ Transport Agency Waka Kotahi 0.755504846572876
+[National Ticketing System]: official.correspondence@nzta.govt.nz --[DISCUSS]-> NZ Transport Agency Waka Kotahi 0.7347851395606995

@@ -1,0 +1,31 @@
+When is the draft Strategic Case for Picton Port Access expected to be completed?
+None
+Seed: 2023-24 State Highway Investment Proposal
+Seed: RE WK PPP Strategy draft
+Seed: Waito hi Picton Ferry Precinct Redevelopment
+Seed: https://nzta.govt.nz/assets/projects/waitohi-picton-transport-network-improvements/picton-transport-improvements-factsheet-202010.pdf
+[2023-24 State Highway Investment Proposal]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Access and Development Programme Business Case 0.8467278480529785
+[2023-24 State Highway Investment Proposal]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Access and Development Programme Business Case 0.8444842100143433
+[2023-24 State Highway Investment Proposal]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.8369826674461365
+[2023-24 State Highway Investment Proposal]: Hornby Access and Development Programme Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.8343037366867065
+[2023-24 State Highway Investment Proposal]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.83381187915802
+[2023-24 State Highway Investment Proposal]: Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.8260360360145569
+[2023-24 State Highway Investment Proposal]: 2024-27 National Land Transport Programme --[DEVELOPMENT_OF]-> Regional Land Transport Plan 0.8095971345901489
+[RE WK PPP Strategy draft]: Featherston --[CONSULTATION]-> August and September 2021 0.829521894454956
+[RE WK PPP Strategy draft]: Request --[CLARIFIED]-> 30 November 2022 0.8155792355537415
+[RE WK PPP Strategy draft]: WCC --[RECEIVES]-> draft letter 0.8127759695053101
+[RE WK PPP Strategy draft]: Road to Zero Strategy --[AVAILABLE_ON]-> Ministry of Transport 0.8119808435440063
+[RE WK PPP Strategy draft]: Request --[EXTENDED]-> 9 December 2022 0.8119614124298096
+[RE WK PPP Strategy draft]: technical feasibility and cost --[FOR]-> proposed long tunnel option for Wellington 0.8116801977157593
+[RE WK PPP Strategy draft]: Transport Agency --[PUBLISHES]-> response to this request on our website 0.8113791346549988
+[Waito hi Picton Ferry Precinct Redevelopment]: 10 September 2020 --[ASSOCIATED_WITH]-> Waito hi Picton Ferry Precinct Redevelopment 0.8679131269454956
+[Waito hi Picton Ferry Precinct Redevelopment]: Waito hi Picton Ferry Precinct Redevelopment --[ASSOCIATED_WITH]-> Integrated Transportation Assessment 0.8574420213699341
+[Waito hi Picton Ferry Precinct Redevelopment]: Draft --[ASSOCIATED_WITH]-> 10 September 2020 0.8391091823577881
+[Waito hi Picton Ferry Precinct Redevelopment]: Integrated Transportation Assessment --[ASSOCIATED_WITH]-> Draft 0.8068135380744934
+[https://nzta.govt.nz/assets/projects/waitohi-picton-transport-network-improvements/picton-transport-improvements-factsheet-202010.pdf]: Request --[CLARIFIED]-> 30 November 2022 0.8155792355537415
+[https://nzta.govt.nz/assets/projects/waitohi-picton-transport-network-improvements/picton-transport-improvements-factsheet-202010.pdf]: Road to Zero Strategy --[AVAILABLE_ON]-> Ministry of Transport 0.8119808435440063
+[https://nzta.govt.nz/assets/projects/waitohi-picton-transport-network-improvements/picton-transport-improvements-factsheet-202010.pdf]: Request --[EXTENDED]-> 9 December 2022 0.8119614124298096
+[https://nzta.govt.nz/assets/projects/waitohi-picton-transport-network-improvements/picton-transport-improvements-factsheet-202010.pdf]: Let's Get Wellington Moving --[HAS_COMPONENT]-> Early Delivery Thorndon Quay and Hutt Road 0.8078979253768921
+[https://nzta.govt.nz/assets/projects/waitohi-picton-transport-network-improvements/picton-transport-improvements-factsheet-202010.pdf]: Road to Zero Strategy --[INITIATED]-> 2020 0.8074175715446472
+[https://nzta.govt.nz/assets/projects/waitohi-picton-transport-network-improvements/picton-transport-improvements-factsheet-202010.pdf]: Let's Get Wellington Moving --[HAS_COMPONENT]-> Strategic Highway Improvements 0.8059214949607849
+[https://nzta.govt.nz/assets/projects/waitohi-picton-transport-network-improvements/picton-transport-improvements-factsheet-202010.pdf]: New Zealand Transport Agency --[FALLS_IN_SCOPE]-> WK PPP Strategy (draft) 0.8053269982337952

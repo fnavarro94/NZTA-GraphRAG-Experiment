@@ -1,0 +1,34 @@
+How many sick days were taken by permanent staff since March 2015?
+None
+Seed: sick days taken by full-time permanent staff
+Seed: sick leave data
+Seed: 2015
+Seed: Employee Assistance Programme
+[sick days taken by full-time permanent staff]: New Zealand Transport Agency --[PROVIDES]-> sick days taken by full-time permanent staff 0.8707587718963623
+[sick days taken by full-time permanent staff]: New Zealand Transport Agency --[PROVIDES]-> sick leave data 0.8259011507034302
+[sick days taken by full-time permanent staff]: New Zealand Transport Agency --[ADAPTED]-> COVID-19 lockdown 0.8013689517974854
+[sick days taken by full-time permanent staff]: New Zealand Transport Agency --[PROVIDES]-> personal grievances lodged by staff 0.800251841545105
+[sick days taken by full-time permanent staff]: New Zealand Transport Agency --[PROVIDES]-> staff who have used the Employee Assistance Programme 0.7976191639900208
+[sick days taken by full-time permanent staff]: New Zealand Transport Agency --[RESPONDED]-> 17 March 2015 0.7968505620956421
+[sick days taken by full-time permanent staff]: New Zealand Transport Agency --[PROVIDES]-> staff resignation data 0.7964683175086975
+[sick leave data]: sick leave data --[CONTAINS]-> 2014/15 0.8779954314231873
+[sick leave data]: sick leave data --[CONTAINS]-> 2015 0.8768439292907715
+[sick leave data]: sick leave data --[CONTAINS]-> 2015/16 0.8741788864135742
+[sick leave data]: New Zealand Transport Agency --[PROVIDES]-> sick days taken by full-time permanent staff 0.8707587718963623
+[sick leave data]: sick leave data --[CONTAINS]-> 2013/14 0.8673774003982544
+[sick leave data]: sick leave data --[CONTAINS]-> 2017/18 0.862565279006958
+[sick leave data]: sick leave data --[CONTAINS]-> As at 12/11/2018 0.8623991012573242
+[2015]: sick leave data --[CONTAINS]-> 2014/15 0.8779954314231873
+[2015]: sick leave data --[CONTAINS]-> 2015 0.8768439292907715
+[2015]: sick leave data --[CONTAINS]-> 2015/16 0.8741788864135742
+[2015]: sick leave data --[CONTAINS]-> 2013/14 0.8673774003982544
+[2015]: sick leave data --[CONTAINS]-> 2017/18 0.862565279006958
+[2015]: sick leave data --[CONTAINS]-> As at 12/11/2018 0.8623991012573242
+[2015]: sick leave data --[CONTAINS]-> 2014 0.8623038530349731
+[Employee Assistance Programme]: New Zealand Transport Agency --[PROVIDES]-> sick days taken by full-time permanent staff 0.8707587718963623
+[Employee Assistance Programme]: New Zealand Transport Agency --[PROVIDES]-> sick leave data 0.8259011507034302
+[Employee Assistance Programme]: New Zealand Transport Agency --[ADAPTED]-> COVID-19 lockdown 0.8013689517974854
+[Employee Assistance Programme]: New Zealand Transport Agency --[PROVIDES]-> personal grievances lodged by staff 0.800251841545105
+[Employee Assistance Programme]: New Zealand Transport Agency --[PROVIDES]-> staff who have used the Employee Assistance Programme 0.7976191639900208
+[Employee Assistance Programme]: New Zealand Transport Agency --[RESPONDED]-> 17 March 2015 0.7968505620956421
+[Employee Assistance Programme]: New Zealand Transport Agency --[PROVIDES]-> staff resignation data 0.7964683175086975

@@ -1,0 +1,36 @@
+In what year did the car-sharing service mentioned in the passage as a local initiative providing residents with flexible transportation options launch its car-sharing service in New Zealand?
+None
+Seed: Ride-sharing initiatives
+Seed: Limited public transport services in rural and isolated areas
+Seed: Car-sharing service
+Seed: Residents to share rides
+[Ride-sharing initiatives]: Ride-sharing initiatives --[Foster]-> Social connections 0.8247779607772827
+[Ride-sharing initiatives]: Ride-sharing initiatives --[Allow]-> Residents to share rides 0.8367809057235718
+[Ride-sharing initiatives]: Ride-sharing initiatives --[Reduce]-> Transport costs 0.8296337127685547
+[Ride-sharing initiatives]: Community transport services --[Include]-> Ride-sharing initiatives 0.8550734519958496
+[Ride-sharing initiatives]: Community transport services --[Enhance]-> Overall community well-being 0.8134788274765015
+[Ride-sharing initiatives]: Community transport services --[Ensure]-> Access to essential services 0.8102124333381653
+[Ride-sharing initiatives]: Community transport services --[Include]-> Volunteer driver programs 0.831268310546875
+[Ride-sharing initiatives]: Community transport services --[Operated by]-> Local councils 0.8217698931694031
+[Ride-sharing initiatives]: Community transport services --[Face]-> Need for better coordination with existing public transport systems 0.8013077974319458
+[Ride-sharing initiatives]: Community transport services --[Address]-> Gaps in service provision 0.8062458038330078
+[Ride-sharing initiatives]: Community transport services --[Play vital role in]-> Enhancing mobility and accessibility 0.8338848948478699
+[Ride-sharing initiatives]: Community transport services --[Ensure]-> Access to social activities 0.8230367302894592
+[Ride-sharing initiatives]: Community transport services --[Include]-> Community shuttles 0.8125685453414917
+[Ride-sharing initiatives]: Community transport services --[Face]-> Funding constraints 0.8081119656562805
+[Ride-sharing initiatives]: Community transport services --[Enable]-> Individuals with disabilities to maintain independence 0.8053945899009705
+[Ride-sharing initiatives]: Community transport services --[Operated by]-> Community groups 0.8292893171310425
+[Ride-sharing initiatives]: Community transport services --[Face]-> Volunteer recruitment challenges 0.8209730386734009
+[Ride-sharing initiatives]: Community transport services --[Enable]-> Elderly individuals to maintain independence 0.8002814650535583
+[Ride-sharing initiatives]: Community transport services --[Must adapt]-> To meet changing needs of communities 0.8158764243125916
+[Ride-sharing initiatives]: Community transport services --[Complement]-> Existing public transport systems 0.813305675983429
+[Ride-sharing initiatives]: Community transport services --[Reduce]-> Social isolation 0.8038703203201294
+[Ride-sharing initiatives]: Community transport services --[Improve]-> Access to healthcare 0.818780779838562
+[Ride-sharing initiatives]: Community transport services --[Operated by]-> Non-profit organizations 0.8370229601860046
+[Ride-sharing initiatives]: Community transport services --[Ensure]-> Access to employment opportunities 0.8181383013725281
+[Limited public transport services in rural and isolated areas]: Volunteer driver programs --[Emerged in response to]-> Limited public transport services in rural and isolated areas 0.8336604833602905
+[Limited public transport services in rural and isolated areas]: Volunteer driver programs --[Ensure]-> Vulnerable populations can attend social activities 0.795998215675354
+[Limited public transport services in rural and isolated areas]: Volunteer driver programs --[Rely on]-> Goodwill of volunteers from the local community 0.7860374450683594
+[Limited public transport services in rural and isolated areas]: Volunteer driver programs --[Foster]-> Sense of solidarity and support among residents 0.7953546643257141
+[Limited public transport services in rural and isolated areas]: Volunteer driver programs --[Are]-> Community-based initiatives 0.8217676281929016
+[Limited public transport services in rural and isolated areas]: Volunteer driver programs --[Ensure]-> Vulnerable populations can attend medical appointments 0.7712749242782593

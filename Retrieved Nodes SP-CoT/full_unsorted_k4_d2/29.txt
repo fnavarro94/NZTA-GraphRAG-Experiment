@@ -1,0 +1,36 @@
+Under which regional council does the entity responsible for planning and delivering public transport services in Auckland operate?
+None
+Seed: Regional councils and local authorities
+Seed: Local councils and new zealand transport agency
+Seed: Local government initiatives
+Seed: Regional transport initiatives
+[Regional councils and local authorities]: National land transport programme --[Developed in consultation with]-> Regional councils and local authorities 0.8255428075790405
+[Regional councils and local authorities]: National land transport programme --[Is]-> Key component of new zealand's transport planning framework 0.8358884453773499
+[Regional councils and local authorities]: National land transport programme --[Updated]-> Every three years 0.770031213760376
+[Regional councils and local authorities]: National land transport programme --[Promotes]-> Environmental sustainability 0.7723351120948792
+[Regional councils and local authorities]: National land transport programme --[Supports]-> Economic growth 0.7702039480209351
+[Regional councils and local authorities]: National land transport programme --[Is]-> Key framework 0.7689250707626343
+[Regional councils and local authorities]: National land transport programme --[Aims to]-> Enhance sustainability 0.7663066983222961
+[Regional councils and local authorities]: National land transport programme --[Aims to]-> Enhance efficiency 0.7640600800514221
+[Regional councils and local authorities]: National land transport programme --[Developed by]-> Waka kotahi nz transport agency 0.8207391500473022
+[Regional councils and local authorities]: National land transport programme --[Funded through]-> Government revenue 0.7889591455459595
+[Regional councils and local authorities]: National land transport programme --[Prioritizes projects]-> Align with regional transport plans 0.8098698854446411
+[Regional councils and local authorities]: National land transport programme --[Aims to]-> Enhance safety 0.7570628523826599
+[Regional councils and local authorities]: National land transport programme --[Established under]-> Land transport management act 2003 0.7950206995010376
+[Regional councils and local authorities]: National land transport programme --[Prioritizes projects]-> Align with national transport strategies 0.7851207256317139
+[Regional councils and local authorities]: Waikato expressway --[Is part of]-> National land transport programme 0.8257021307945251
+[Regional councils and local authorities]: National land transport programme --[Is]-> Developed through collaborative process involving waka kotahi 0.7999417781829834
+[Regional councils and local authorities]: National land transport programme --[Is]-> Developed through collaborative process 0.7946333289146423
+[Regional councils and local authorities]: National land transport programme --[Is]-> Developed through collaborative process involving local councils 0.8163987994194031
+[Regional councils and local authorities]: National land transport programme --[Is]-> Developed through collaborative process involving regional transport committees 0.8108280897140503
+[Regional councils and local authorities]: National land transport programme --[Is]-> Key mechanism 0.7779515385627747
+[Regional councils and local authorities]: National land transport programme --[Allocates]-> Funding for transport projects 0.7658941745758057
+[Local councils and new zealand transport agency]: Greater wellington regional council --[Collaborates with]-> Local councils and new zealand transport agency 0.8677164912223816
+[Local councils and new zealand transport agency]: Wellington --[Transport system managed by]-> Greater wellington regional council 0.8760177493095398
+[Local councils and new zealand transport agency]: Greater wellington regional council --[Is]-> Regional local government authority 0.8515661954879761
+[Local councils and new zealand transport agency]: Greater wellington regional council --[Responsible for]-> Governance and management of wellington region 0.8544023036956787
+[Local councils and new zealand transport agency]: Greater wellington regional council --[Established in]-> 1989 0.8294966220855713
+[Local councils and new zealand transport agency]: Greater wellington regional council --[Oversees]-> Integrated transport system 0.8756875991821289
+[Local councils and new zealand transport agency]: Wellington public transport plan --[Developed by]-> Greater wellington regional council 0.8755894899368286
+[Local councils and new zealand transport agency]: Greater wellington regional council --[Responsible for]-> Managing public transport services 0.898626446723938
+[Local government initiatives]: Auckland transport plan --[Aligns with]-> Local government initiatives 0.8744151592254639

@@ -1,0 +1,10 @@
+How many complaints about taxi drivers were received by the NZ Transport Agency from 2009 to 2013?
+None
+Seed: 196 complaints about Uber drivers
+Seed: Complaint Data
+Seed: ride share operator complaints
+Seed: Annual review of the New Zealand Transport Agency
+[196 complaints about Uber drivers]: Waka Kotahi --[RECEIVES]-> 196 complaints about Uber drivers 0.832348108291626
+[Complaint Data]: Request for Information --[REQUESTS]-> Complaint Data 0.766524076461792
+[ride share operator complaints]: Waka Kotahi --[INVESTIGATES]-> ride share operator complaints 0.8255306482315063
+[Annual review of the New Zealand Transport Agency]: New Zealand Transport Agency --[PROVIDES]-> Annual review of the New Zealand Transport Agency 0.844978392124176

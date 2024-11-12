@@ -1,0 +1,10 @@
+What is the abbreviation commonly used to refer to the initiative that focuses on expanding bus and train services, improving infrastructure, and integrating different modes of transport in Auckland to enhance public transport?
+None
+Seed: Promoting public transport initiatives
+Seed: Regional transport initiatives
+Seed: Adopting integrated transport planning approaches that consider public transport
+Seed: Enhancing public transport systems
+[Promoting public transport initiatives]: New zealand transport agency --[Is responsible for]-> Promoting public transport initiatives 0.8604874014854431
+[Regional transport initiatives]: Local councils --[Contribute to]-> Regional transport initiatives 0.8374942541122437
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider public transport 0.8265685439109802
+[Enhancing public transport systems]: New zealand --[Prioritizes]-> Enhancing public transport systems 0.856078565120697

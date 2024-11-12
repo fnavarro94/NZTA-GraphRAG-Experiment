@@ -1,0 +1,34 @@
+Who developed the software that is one of the commonly used traffic simulation models in New Zealand for visualizing traffic patterns and assessing the impact of new developments, used in New Zealand for transport planning?
+None
+Seed: Analyze and predict traffic flow
+Seed: Road traffic simulation models
+Seed: Modeling and analyzing complex traffic scenarios
+Seed: Traffic simulation model
+[Analyze and predict traffic flow]: New zealand --[Has]-> Innovative traffic management strategies 0.8845378160476685
+[Analyze and predict traffic flow]: Nzta --[Actively exploring]-> Enhancing traffic management capabilities 0.8756489753723145
+[Analyze and predict traffic flow]: Traffic management systems --[Governed by]-> New zealand transport agency 0.8753622174263
+[Analyze and predict traffic flow]: Transport data analytics --[Gained importance]-> New zealand 0.8752341270446777
+[Analyze and predict traffic flow]: Vissim --[Application in various projects]-> Shaping the future of transport in new zealand 0.8740569949150085
+[Analyze and predict traffic flow]: Auckland transport operations centre --[Utilizes]-> Advanced traffic monitoring systems 0.8737097978591919
+[Analyze and predict traffic flow]: Road traffic simulation models --[Play crucial role]-> Traffic management 0.8720670342445374
+[Road traffic simulation models]: New zealand --[Has]-> Innovative traffic management strategies 0.8845378160476685
+[Road traffic simulation models]: Nzta --[Actively exploring]-> Enhancing traffic management capabilities 0.8756489753723145
+[Road traffic simulation models]: Traffic management systems --[Governed by]-> New zealand transport agency 0.8753622174263
+[Road traffic simulation models]: Transport data analytics --[Gained importance]-> New zealand 0.8752341270446777
+[Road traffic simulation models]: Vissim --[Application in various projects]-> Shaping the future of transport in new zealand 0.8740569949150085
+[Road traffic simulation models]: Auckland transport operations centre --[Utilizes]-> Advanced traffic monitoring systems 0.8737097978591919
+[Road traffic simulation models]: Road traffic simulation models --[Play crucial role]-> Traffic management 0.8720670342445374
+[Modeling and analyzing complex traffic scenarios]: New zealand --[Has]-> Innovative traffic management strategies 0.8845378160476685
+[Modeling and analyzing complex traffic scenarios]: Nzta --[Actively exploring]-> Enhancing traffic management capabilities 0.8756489753723145
+[Modeling and analyzing complex traffic scenarios]: Traffic management systems --[Governed by]-> New zealand transport agency 0.8753622174263
+[Modeling and analyzing complex traffic scenarios]: Transport data analytics --[Gained importance]-> New zealand 0.8752341270446777
+[Modeling and analyzing complex traffic scenarios]: Vissim --[Application in various projects]-> Shaping the future of transport in new zealand 0.8740569949150085
+[Modeling and analyzing complex traffic scenarios]: Auckland transport operations centre --[Utilizes]-> Advanced traffic monitoring systems 0.8737097978591919
+[Modeling and analyzing complex traffic scenarios]: Road traffic simulation models --[Play crucial role]-> Traffic management 0.8720670342445374
+[Traffic simulation model]: New zealand --[Has]-> Innovative traffic management strategies 0.8845378160476685
+[Traffic simulation model]: Nzta --[Actively exploring]-> Enhancing traffic management capabilities 0.8756489753723145
+[Traffic simulation model]: Traffic management systems --[Governed by]-> New zealand transport agency 0.8753622174263
+[Traffic simulation model]: Transport data analytics --[Gained importance]-> New zealand 0.8752341270446777
+[Traffic simulation model]: Vissim --[Application in various projects]-> Shaping the future of transport in new zealand 0.8740569949150085
+[Traffic simulation model]: Auckland transport operations centre --[Utilizes]-> Advanced traffic monitoring systems 0.8737097978591919
+[Traffic simulation model]: Road traffic simulation models --[Play crucial role]-> Traffic management 0.8720670342445374

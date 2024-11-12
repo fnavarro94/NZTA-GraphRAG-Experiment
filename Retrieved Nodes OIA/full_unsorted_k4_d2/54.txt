@@ -1,0 +1,36 @@
+How does the NZ Transport Agency handle privacy concerns when sharing information about driver tests?
+None
+Seed: individual privacy
+Seed: Place to which the public have access with a motor vehicle
+Seed: why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’
+Seed: information on visiting drivers survey
+[individual privacy]: driver's licence test statistics --[PROTECTED]-> individual privacy 0.8989565372467041
+[individual privacy]: Driving Tests Data.xlsx --[PROVIDES]-> driver's licence test statistics 0.8310308456420898
+[individual privacy]: individual privacy --[APPLIED]-> driver's licence test statistics 0.8852270841598511
+[Place to which the public have access with a motor vehicle]: Road --[DEFINITION]-> Place to which the public have access with a motor vehicle 0.7992560863494873
+[Place to which the public have access with a motor vehicle]: Road --[DEFINITION]-> Street, motorway or beach 0.731354832649231
+[Place to which the public have access with a motor vehicle]: Road --[DEFINITION]-> Public car park 0.7737711071968079
+[Place to which the public have access with a motor vehicle]: Crash --[MUST_OCCUR]-> Road 0.7689733505249023
+[Place to which the public have access with a motor vehicle]: Road --[DEFINITION]-> any street, motorway or beach, or a place to which the public have access with a motor vehicle, whether as of right or not e.g. a public car park. 0.746656060218811
+[Place to which the public have access with a motor vehicle]: CAS --[DEFINES]-> Road 0.7800260782241821
+[Place to which the public have access with a motor vehicle]: SH2 and SH53 in Featherston --[INTERSECTS]-> Road 0.7484092712402344
+[Place to which the public have access with a motor vehicle]: Road --[DEFINED_BY]-> CAS 0.778357207775116
+[Place to which the public have access with a motor vehicle]: Road --[ACCESSIBLE_BY]-> Motor Vehicle 0.7948548197746277
+[Place to which the public have access with a motor vehicle]: Motor Vehicle --[ACCESS]-> Road 0.8022091388702393
+[why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’]: enquiry --[ASKS]-> why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’ 0.8794654011726379
+[why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’]: Transport Agency --[RECEIVED]-> enquiry 0.8534420728683472
+[information on visiting drivers survey]: David Williams --[REQUESTS]-> information on visiting drivers survey 0.8509374856948853
+[information on visiting drivers survey]: Mountain Scene Newspaper --[EMPLOYS]-> David Williams 0.7200883626937866
+[information on visiting drivers survey]: David Williams --[SUBMITTED]-> OIA-1695 0.7695167064666748
+[information on visiting drivers survey]: New Zealand Transport Agency --[PROVIDES]-> information on visiting drivers survey 0.9066222906112671
+[information on visiting drivers survey]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8461040258407593
+[information on visiting drivers survey]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8712334632873535
+[information on visiting drivers survey]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8523603677749634
+[information on visiting drivers survey]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.8221743106842041
+[information on visiting drivers survey]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.8460869789123535
+[information on visiting drivers survey]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.8574879765510559
+[information on visiting drivers survey]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.8522071838378906
+[information on visiting drivers survey]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.8399781584739685
+[information on visiting drivers survey]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.869623601436615
+[information on visiting drivers survey]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8551760315895081
+[information on visiting drivers survey]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.841030478477478

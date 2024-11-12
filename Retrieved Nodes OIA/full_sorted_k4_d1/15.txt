@@ -1,0 +1,14 @@
+What were the safety failures identified in Go Wellington buses during the inspections in April and May 2013?
+None
+Seed: Safety Incidents
+Seed: rail operational safety
+Seed: Senior Manager Road Safety
+Seed: Vehicle Safety
+[Safety Incidents]: Safety Incidents --[INVESTIGATED]-> Board 0.829444169998169
+[Safety Incidents]: Health, Safety & Quality Report --[CONTAINS]-> Safety Incidents 0.8126248717308044
+[rail operational safety]: awareness --[increased]-> rail operational safety 0.7968844175338745
+[rail operational safety]: rail operational safety --[improved]-> emergency plan 0.7927109003067017
+[Senior Manager Road Safety]: Senior Manager Road Safety --[EMPLOYER]-> Waka Kotahi 0.7954689860343933
+[Senior Manager Road Safety]: Fabian Marsh --[POSITION]-> Senior Manager Road Safety 0.7869345545768738
+[Vehicle Safety]: Vehicle Safety --[Is]-> Critical 0.806066632270813
+[Vehicle Safety]: Safety Tolerance --[Ensures]-> Vehicle Safety 0.7789112329483032

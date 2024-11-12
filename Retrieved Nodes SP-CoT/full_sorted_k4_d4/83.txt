@@ -1,0 +1,34 @@
+What is the abbreviation for the funding source for road maintenance strategies in the country that is implementing the program including the expressway project aimed at improving freight transport efficiency in the region, derived from fuel excise duties and road user charges?
+None
+Seed: Funding maintenance and development of roads
+Seed: Legislative framework for road safety initiatives
+Seed: Framework for implementing road safety campaigns and initiatives
+Seed: Funding local road projects
+[Funding maintenance and development of roads]: Road user charges --[Aimed at]-> Funding maintenance and development of roads 0.8705365061759949
+[Funding maintenance and development of roads]: National land transport fund --[Sourced from]-> Fuel excise duties 0.8689910173416138
+[Funding maintenance and development of roads]: National land transport fund --[Is financed by]-> Fuel excise duties 0.8606656193733215
+[Funding maintenance and development of roads]: National land transport fund --[Sourced from]-> Road user charges 0.8523987531661987
+[Funding maintenance and development of roads]: National land transport fund --[Is]-> Primarily financed through fuel excise duties 0.8498806357383728
+[Funding maintenance and development of roads]: National land transport fund --[Finances]-> Transport initiatives 0.8415078520774841
+[Funding maintenance and development of roads]: National land transport fund --[Is financed by]-> Road user charges 0.8399900197982788
+[Legislative framework for road safety initiatives]: Ministry of transport --[Oversees]-> Road transport 0.8353726863861084
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Provides]-> Legislative framework for road safety initiatives 0.8276967406272888
+[Legislative framework for road safety initiatives]: Ministry of transport --[Oversees]-> Road 0.8271558284759521
+[Legislative framework for road safety initiatives]: New zealand --[Has]-> Transport infrastructure maintenance 0.8267499208450317
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Complemented by]-> Land transport (road user 0.8266105055809021
+[Legislative framework for road safety initiatives]: Road transport --[Focus on]-> Improving road safety and reducing congestion in urban areas 0.8254823684692383
+[Legislative framework for road safety initiatives]: Sustainable urban transport --[Implemented]-> Initiatives 0.8247829675674438
+[Framework for implementing road safety campaigns and initiatives]: New zealand --[Has]-> Transport infrastructure maintenance 0.8267499208450317
+[Framework for implementing road safety campaigns and initiatives]: New zealand --[Has]-> Transport infrastructure funding 0.8228175640106201
+[Framework for implementing road safety campaigns and initiatives]: New zealand --[Has]-> Transport funding strategies 0.8219864964485168
+[Framework for implementing road safety campaigns and initiatives]: Resource management act 1991 --[Plays]-> Significant role in shaping transport infrastructure 0.8196303844451904
+[Framework for implementing road safety campaigns and initiatives]: Land transport act 1998 --[Complemented by]-> Resource management act 1991 0.8192695379257202
+[Framework for implementing road safety campaigns and initiatives]: Land transport act --[Provides]-> Framework for implementing road safety campaigns and initiatives 0.8185758590698242
+[Framework for implementing road safety campaigns and initiatives]: Transport asset management --[In]-> New zealand 0.8177885413169861
+[Funding local road projects]: Road user charges --[Aimed at]-> Funding maintenance and development of roads 0.8705365061759949
+[Funding local road projects]: National land transport fund --[Sourced from]-> Fuel excise duties 0.8689910173416138
+[Funding local road projects]: National land transport fund --[Is financed by]-> Fuel excise duties 0.8606656193733215
+[Funding local road projects]: National land transport fund --[Sourced from]-> Road user charges 0.8523987531661987
+[Funding local road projects]: National land transport fund --[Is]-> Primarily financed through fuel excise duties 0.8498806357383728
+[Funding local road projects]: National land transport fund --[Finances]-> Transport initiatives 0.8415078520774841
+[Funding local road projects]: National land transport fund --[Is financed by]-> Road user charges 0.8399900197982788

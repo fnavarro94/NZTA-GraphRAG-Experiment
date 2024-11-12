@@ -1,0 +1,28 @@
+Where is the major transport infrastructure project in the country where the project in Wellington connects various neighborhoods and promotes cycling as a primary mode of transport, and aims to improve rail connectivity and reduce congestion in Auckland located?
+None
+Seed: Addressing transport challenges in auckland
+Seed: Transport link between wellington and northern regions of north island
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+Seed: New zealand's transport network
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Transport projects 0.914792001247406
+[Addressing transport challenges in auckland]: Auckland --[Has]-> Transport projects 0.9145171642303467
+[Addressing transport challenges in auckland]: Auckland city rail link --[Is]-> Significant infrastructure project 0.9131751656532288
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Transport infrastructure development 0.9100923538208008
+[Addressing transport challenges in auckland]: Auckland --[Has]-> Transport infrastructure 0.9064547419548035
+[Addressing transport challenges in auckland]: Auckland transport --[Implemented]-> Cycling infrastructure projects 0.9034170508384705
+[Addressing transport challenges in auckland]: Wellington --[Focused on]-> Enhancing its transport infrastructure 0.9024360775947571
+[Transport link between wellington and northern regions of north island]: New zealand --[Has]-> Transport projects 0.914792001247406
+[Transport link between wellington and northern regions of north island]: Auckland --[Has]-> Transport projects 0.9145171642303467
+[Transport link between wellington and northern regions of north island]: Auckland city rail link --[Is]-> Significant infrastructure project 0.9131751656532288
+[Transport link between wellington and northern regions of north island]: New zealand --[Has]-> Transport infrastructure development 0.9100923538208008
+[Transport link between wellington and northern regions of north island]: Auckland --[Has]-> Transport infrastructure 0.9064547419548035
+[Transport link between wellington and northern regions of north island]: Auckland transport --[Implemented]-> Cycling infrastructure projects 0.9034170508384705
+[Transport link between wellington and northern regions of north island]: Wellington --[Focused on]-> Enhancing its transport infrastructure 0.9024360775947571
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Plays]-> Significant role in shaping transport infrastructure and policy in new zealand 0.8763353824615479
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Aims to]-> Enhance resilience and adaptability of new zealand's transport network 0.8711391091346741
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Collaborates with]-> New zealand transport agency (nzta 0.8481122851371765
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Is]-> Collective of australian and new zealand road transport and traffic agencies 0.8272941708564758
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Conducts]-> Extensive research and development projects 0.7855935096740723
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Engages in]-> International collaborations to align initiatives with global best practices 0.7627339959144592
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Founded in]-> 1990 0.7321153879165649
+[New zealand's transport network]: Road infrastructure projects --[Play crucial role in]-> New zealand's transport network 0.9146219491958618

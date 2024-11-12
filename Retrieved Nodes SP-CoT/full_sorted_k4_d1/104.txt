@@ -1,0 +1,16 @@
+Who is responsible for enforcing the Health and Safety at Work Act in the country that has a comprehensive framework of transport safety regulations covering road, rail, maritime, and aviation?
+None
+Seed: Health and safety at work act 2015
+Seed: Health and safety at work act
+Seed: Legislative framework for road safety initiatives
+Seed: Enforcement of road safety regulations
+[Health and safety at work act 2015]: Rail transport safety --[Governed by]-> Health and safety at work act 2015 0.8807689547538757
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Is]-> Key piece of legislation 0.8774369359016418
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Applies to]-> Road transport 0.8774207830429077
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Applies to]-> Maritime 0.8749656081199646
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Applies to]-> Aviation 0.8748390674591064
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Applies to]-> Rail 0.8721293807029724
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Emphasizes]-> Importance of risk management 0.845763087272644
+[Health and safety at work act]: Health and safety at work act --[Year]-> 2015 0.8556894063949585
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Provides]-> Legislative framework for road safety initiatives 0.8612699508666992
+[Enforcement of road safety regulations]: Vehicle registration --[Helps]-> Enforcement of road safety regulations 0.8273723125457764

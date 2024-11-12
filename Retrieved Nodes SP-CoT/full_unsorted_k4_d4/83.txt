@@ -1,0 +1,36 @@
+What is the abbreviation for the funding source for road maintenance strategies in the country that is implementing the program including the expressway project aimed at improving freight transport efficiency in the region, derived from fuel excise duties and road user charges?
+None
+Seed: Funding maintenance and development of roads
+Seed: Legislative framework for road safety initiatives
+Seed: Framework for implementing road safety campaigns and initiatives
+Seed: Funding local road projects
+[Funding maintenance and development of roads]: Road user charges --[Aimed at]-> Funding maintenance and development of roads 0.8705365061759949
+[Funding maintenance and development of roads]: National land transport fund --[Sourced from]-> Road user charges 0.8523987531661987
+[Funding maintenance and development of roads]: National land transport fund --[Is]-> Key financial mechanism 0.8176717758178711
+[Funding maintenance and development of roads]: National land transport fund --[Plays crucial role in]-> Ensuring transport infrastructure meets needs of growing population and economy 0.8289463520050049
+[Funding maintenance and development of roads]: National land transport fund --[Established under]-> Land transport management act 2003 0.8143646121025085
+[Funding maintenance and development of roads]: Land transport management act 2003 --[Aims to]-> Provide framework for sustainable development 0.8013682961463928
+[Funding maintenance and development of roads]: Land transport management act 2003 --[Provides for]-> Establishment of national land transport fund 0.8067144155502319
+[Funding maintenance and development of roads]: Land transport management act 2003 --[Enacted on]-> 1 july 2004 0.7984140515327454
+[Funding maintenance and development of roads]: Land transport management act 2003 --[Is]-> Key piece of legislation 0.8096362948417664
+[Funding maintenance and development of roads]: Land transport management act 2003 --[Has been updated]-> To incorporate principles of sustainability 0.7878478765487671
+[Funding maintenance and development of roads]: Land transport management act 2003 --[Has undergone]-> Several amendments to address emerging transport challenges 0.8112728595733643
+[Funding maintenance and development of roads]: Land transport management act 2003 --[Mandates]-> Involvement of various stakeholders in planning and decision-making processes 0.7820948362350464
+[Funding maintenance and development of roads]: Land transport management act 2003 --[Establishes]-> Framework for development of regional land transport plans 0.8108905553817749
+[Funding maintenance and development of roads]: Land transport management act 2003 --[Emphasizes]-> Importance of integrating land transport planning with land use planning 0.8009381890296936
+[Funding maintenance and development of roads]: National land transport programme --[Established under]-> Land transport management act 2003 0.8065893650054932
+[Funding maintenance and development of roads]: Wellington regional public transport plan --[Established under]-> Land transport management act 2003 0.789421796798706
+[Funding maintenance and development of roads]: Waka kotahi nz transport agency --[Established under]-> Land transport management act 2003 0.7700552940368652
+[Funding maintenance and development of roads]: Waka kotahi --[Established under]-> Land transport management act 2003 0.7616288661956787
+[Funding maintenance and development of roads]: New zealand --[Has]-> Land transport management act 2003 0.7840635180473328
+[Funding maintenance and development of roads]: Land transport management act 2003 --[Marked]-> Shift towards integrated transport planning 0.8018859624862671
+[Funding maintenance and development of roads]: Land transport management act 2003 --[Governs]-> Public transport services 0.7830520868301392
+[Funding maintenance and development of roads]: Land transport management act 2003 --[Governs]-> Regional transport planning 0.8104522228240967
+[Funding maintenance and development of roads]: Land transport management act 2003 --[Supports]-> Transport accessibility 0.8049547672271729
+[Funding maintenance and development of roads]: National land transport fund --[Established by]-> New zealand government 0.7997078895568848
+[Funding maintenance and development of roads]: New zealand road safety strategy --[Established by]-> New zealand government 0.8029425740242004
+[Funding maintenance and development of roads]: New zealand government --[Developed]-> Various road safety strategies over the years 0.7902861833572388
+[Funding maintenance and development of roads]: New zealand government --[Plans to]-> Integrate mobile ticketing applications 0.7229863405227661
+[Funding maintenance and development of roads]: New zealand government --[Plans to]-> Incorporate data analytics to improve service delivery and user experience 0.7336332201957703
+[Funding maintenance and development of roads]: New zealand government --[Committed to]-> Further enhancing the integrated ticketing system 0.739530622959137
+[Funding maintenance and development of roads]: New zealand government --[Plans to]-> Expand contactless payment options 0.7175239324569702

@@ -1,0 +1,36 @@
+Where can information about the use of Automatic Number Plate Recognition (ANPR) cameras be found?
+None
+Seed: information on speed cameras
+Seed: information on traffic light cameras and speed cameras
+Seed: information on traffic light cameras
+Seed: cameras
+[information on speed cameras]: Waka Kotahi --[PROVIDES]-> information on speed cameras 0.8391000032424927
+[information on speed cameras]: Response --[CONTAINS]-> Waka Kotahi 0.7498584985733032
+[information on speed cameras]: Waka Kotahi --[PUBLISHES]-> Response 0.7523288130760193
+[information on speed cameras]: response --[CONTAINS]-> Waka Kotahi 0.7562127113342285
+[information on speed cameras]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.7581027746200562
+[information on speed cameras]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.7704391479492188
+[information on speed cameras]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7658790946006775
+[information on speed cameras]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7802875638008118
+[information on speed cameras]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.7563307285308838
+[information on speed cameras]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7719036340713501
+[information on speed cameras]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.7575580477714539
+[information on speed cameras]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.7659417390823364
+[information on speed cameras]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7557512521743774
+[information on speed cameras]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.7655296325683594
+[information on speed cameras]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.7395457029342651
+[information on speed cameras]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.7255908250808716
+[information on speed cameras]: Leisa Coley --[EMPLOYED_BY]-> Waka Kotahi 0.732257604598999
+[information on speed cameras]: Lizette Marais --[EMPLOYED_BY]-> Waka Kotahi 0.703596830368042
+[information on speed cameras]: Waka Kotahi --[EMPLOYS]-> Andy Knackstedt 0.723382830619812
+[information on speed cameras]: Waka Kotahi --[EMPLOYS]-> Qualified Staff 0.7392649054527283
+[information on speed cameras]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.7800015807151794
+[information on speed cameras]: website --[RELATES_TO]-> Waka Kotahi 0.7605857253074646
+[information on speed cameras]: Waka Kotahi --[RESPONDS_TO]-> OIA request 0.7536550760269165
+[information on speed cameras]: Waka Kotahi --[RESPONDS_TO]-> request 0.7422032356262207
+[information on speed cameras]: Waka Kotahi --[PROVIDES]-> OIA-10601-response-georgina-campbell.pdf 0.7752334475517273
+[information on speed cameras]: Waka Kotahi --[PROVIDES]-> outcome of suspension 0.7416563034057617
+[information on speed cameras]: Waka Kotahi --[PROVIDES]-> outcome of surrendered 0.7293776273727417
+[information on speed cameras]: Waka Kotahi --[PROVIDES]-> information on website 0.7751814723014832
+[information on speed cameras]: Waka Kotahi --[PROVIDES]-> outcome of revoke 0.7360528707504272
+[information on speed cameras]: Waka Kotahi --[PROVIDES]-> warnings to individuals 0.7665057182312012

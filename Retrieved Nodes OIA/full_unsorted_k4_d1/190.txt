@@ -1,0 +1,10 @@
+Are there exemptions for wearing motorcycle helmets on religious grounds in New Zealand?
+None
+Seed: an adherent of the Sikh religion to be excused from wearing a motorcycle helmet, providing they will not be travelling at a speed exceeding 50kmph
+Seed: exemptions
+Seed: grant formal exemptions
+Seed: instances where a driver and/or passenger may automatically be excused from the requirement to utilise a child restrain and seatbelt
+[an adherent of the Sikh religion to be excused from wearing a motorcycle helmet, providing they will not be travelling at a speed exceeding 50kmph]: Land Transport (Road User) Rule 2004 --[ALLOWS]-> an adherent of the Sikh religion to be excused from wearing a motorcycle helmet, providing they will not be travelling at a speed exceeding 50kmph 0.8580515384674072
+[exemptions]: New Zealand Transport Agency --[GRANTS]-> exemptions 0.8451533317565918
+[grant formal exemptions]: Transport Agency --[DOES_NOT]-> grant formal exemptions 0.7897332906723022
+[instances where a driver and/or passenger may automatically be excused from the requirement to utilise a child restrain and seatbelt]: Land Transport (Road User) Rule 2004 --[SPECIFIES]-> instances where a driver and/or passenger may automatically be excused from the requirement to utilise a child restrain and seatbelt 0.8046164512634277

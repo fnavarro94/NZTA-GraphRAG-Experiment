@@ -1,0 +1,36 @@
+Who developed the software that is one of the commonly used traffic simulation models in New Zealand for visualizing traffic patterns and assessing the impact of new developments, used in New Zealand for transport planning?
+None
+Seed: Analyze and predict traffic flow
+Seed: Road traffic simulation models
+Seed: Modeling and analyzing complex traffic scenarios
+Seed: Traffic simulation model
+[Analyze and predict traffic flow]: Road traffic simulation models --[Are essential tools]-> Analyze and predict traffic flow 0.8712893724441528
+[Analyze and predict traffic flow]: Road traffic simulation models --[Play crucial role]-> Urban planning 0.869951605796814
+[Analyze and predict traffic flow]: Road traffic simulation models --[Play crucial role]-> Environmental impact assessments 0.8533721566200256
+[Analyze and predict traffic flow]: Road traffic simulation models --[Play crucial role]-> Infrastructure development 0.8613307476043701
+[Analyze and predict traffic flow]: Road traffic simulation models --[Play crucial role]-> Traffic management 0.8720670342445374
+[Road traffic simulation models]: Road traffic simulation models --[Play crucial role]-> Urban planning 0.869951605796814
+[Road traffic simulation models]: Urban planning --[Has]-> Embraced principles of active transport 0.7758990526199341
+[Road traffic simulation models]: Road traffic simulation models --[Play crucial role]-> Environmental impact assessments 0.8533721566200256
+[Road traffic simulation models]: Road traffic simulation models --[Play crucial role]-> Infrastructure development 0.8613307476043701
+[Road traffic simulation models]: Auckland cycling network plan --[Primary objectives]-> Infrastructure development 0.8074244856834412
+[Road traffic simulation models]: Wellington regional public transport plan --[Key components]-> Infrastructure development 0.818943977355957
+[Road traffic simulation models]: National cycling policy --[Includes]-> Infrastructure development 0.7727584838867188
+[Road traffic simulation models]: Wellington public transport spine study --[Includes]-> Infrastructure development 0.8179898858070374
+[Road traffic simulation models]: Sustainable freight solutions --[Key strategies]-> Infrastructure development 0.7539297342300415
+[Road traffic simulation models]: New zealand --[Has]-> Infrastructure development 0.8187552690505981
+[Road traffic simulation models]: Road traffic simulation models --[Are essential tools]-> Analyze and predict traffic flow 0.8712893724441528
+[Road traffic simulation models]: Road traffic simulation models --[Play crucial role]-> Traffic management 0.8720670342445374
+[Road traffic simulation models]: Traffic management --[Uses]-> Automated data collection systems 0.8371564149856567
+[Road traffic simulation models]: Waka kotahi --[Improves]-> Traffic management 0.8124353885650635
+[Road traffic simulation models]: Auckland western ring route --[Optimizes]-> Traffic management 0.8411990404129028
+[Road traffic simulation models]: Intelligent transport systems --[Enhance]-> Traffic management 0.814813494682312
+[Modeling and analyzing complex traffic scenarios]: Vissim --[Essential tool for]-> Modeling and analyzing complex traffic scenarios 0.8502295017242432
+[Modeling and analyzing complex traffic scenarios]: Auckland transport --[Utilized]-> Vissim 0.8335421681404114
+[Modeling and analyzing complex traffic scenarios]: Vissim --[Incorporates features for]-> Modeling active transport modes 0.8037307262420654
+[Modeling and analyzing complex traffic scenarios]: Vissim --[Simulates]-> Mixed traffic conditions 0.8381750583648682
+[Modeling and analyzing complex traffic scenarios]: Vissim --[Used in]-> Cities like auckland 0.8111883401870728
+[Modeling and analyzing complex traffic scenarios]: Vissim --[Application in various projects]-> Shaping the future of transport in new zealand 0.8740569949150085
+[Modeling and analyzing complex traffic scenarios]: Vissim --[Used in]-> Cities like christchurch 0.797859787940979
+[Modeling and analyzing complex traffic scenarios]: Wellington city council --[Used]-> Vissim 0.7871516346931458
+[Modeling and analyzing complex traffic scenarios]: Vissim --[Often integrated with]-> Geographic information systems (gis 0.7938665151596069

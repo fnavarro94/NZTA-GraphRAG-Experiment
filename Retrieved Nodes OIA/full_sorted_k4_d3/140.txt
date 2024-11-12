@@ -1,0 +1,34 @@
+How much was spent on public consultation for the Golden Mile upgrades by July 2020?
+None
+Seed: itemised breakdown of all spending on public consultation for Golden Mile upgrades
+Seed: information pertaining to the Golden Mile revitalisation project contract
+Seed: information on Golden Mile revitalisation project contract
+Seed: Golden Mile revitalisation project
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[ITEMISED]-> itemised breakdown of all spending on public consultation for Golden Mile upgrades 0.8785224556922913
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[ITEMISED]-> itemised list of all Let’s Get Wellington Moving spending in 2020 to date 0.8066169023513794
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.7935139536857605
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Request made under the Official Information Act 1982 --[REQUESTS]-> detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) 0.783883273601532
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Request made under the Official Information Act 1982 --[REQUEST_DATE]-> 30 October 2018 0.7818940877914429
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Request made under the Official Information Act 1982 --[OFFICIAL_INFORMATION]-> Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act). 0.7714818120002747
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: New Zealand Transport Agency --[RESPONDS]-> Request made under the Official Information Act 1982 0.7672502994537354
+[information pertaining to the Golden Mile revitalisation project contract]: New Zealand Transport Agency --[PLANS_TO_SPEND]-> total amount of money 0.8120237588882446
+[information pertaining to the Golden Mile revitalisation project contract]: Waka Kotahi --[WITHHOLDS]-> information on Golden Mile revitalisation project contract 0.8095333576202393
+[information pertaining to the Golden Mile revitalisation project contract]: Road to Zero --[INVESTMENT]-> Government Policy Statement on Land Transport 2021 0.8061879873275757
+[information pertaining to the Golden Mile revitalisation project contract]: Regional Public Transport Plans --[DEVELOPED_BY]-> Waka Kotahi 0.8057725429534912
+[information pertaining to the Golden Mile revitalisation project contract]: Waka Kotahi --[WITHHOLDS]-> information pertaining to the Golden Mile revitalisation project contract 0.8042905926704407
+[information pertaining to the Golden Mile revitalisation project contract]: New Zealand Transport Agency --[PROVIDES]-> update on budget and costs 0.8039364218711853
+[information pertaining to the Golden Mile revitalisation project contract]: National Land Transport Programme --[FUNDING]-> Government Policy Statement on Land Transport 0.8028610348701477
+[information on Golden Mile revitalisation project contract]: New Zealand Transport Agency --[PLANS_TO_SPEND]-> total amount of money 0.8120237588882446
+[information on Golden Mile revitalisation project contract]: Waka Kotahi --[WITHHOLDS]-> information on Golden Mile revitalisation project contract 0.8095333576202393
+[information on Golden Mile revitalisation project contract]: Road to Zero --[INVESTMENT]-> Government Policy Statement on Land Transport 2021 0.8061879873275757
+[information on Golden Mile revitalisation project contract]: Regional Public Transport Plans --[DEVELOPED_BY]-> Waka Kotahi 0.8057725429534912
+[information on Golden Mile revitalisation project contract]: Waka Kotahi --[WITHHOLDS]-> information pertaining to the Golden Mile revitalisation project contract 0.8042905926704407
+[information on Golden Mile revitalisation project contract]: New Zealand Transport Agency --[PROVIDES]-> update on budget and costs 0.8039364218711853
+[information on Golden Mile revitalisation project contract]: National Land Transport Programme --[FUNDING]-> Government Policy Statement on Land Transport 0.8028610348701477
+[Golden Mile revitalisation project]: Golden Mile Consultation --[IS_PART_OF]-> Let's Get Wellington Moving 0.8510875701904297
+[Golden Mile revitalisation project]: Golden Mile Consultation --[HAS_DURATION]-> four weeks 0.8472423553466797
+[Golden Mile revitalisation project]: Golden Mile revitalisation project --[IS_PART_OF]-> Let's Get Wellington Moving 0.8360902667045593
+[Golden Mile revitalisation project]: Golden Mile revitalisation project --[IS_IN_NEGOTIATION]-> main works contract 0.8279134035110474
+[Golden Mile revitalisation project]: New Zealand Transport Agency --[PLANS_TO_SPEND]-> total amount of money 0.8120237588882446
+[Golden Mile revitalisation project]: New Zealand Transport Agency --[PROVIDES]-> update on budget and costs 0.8039364218711853
+[Golden Mile revitalisation project]: Let's Get Wellington Moving --[HAS_COMPONENT]-> Early Delivery Golden Mile 0.8028514385223389

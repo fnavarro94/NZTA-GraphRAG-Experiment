@@ -1,0 +1,36 @@
+I'm sorry, but the raw question you provided is incomplete. Could you please provide the missing information so I can form a complete and accurate natural question for you?
+None
+Seed: Paramount importance
+Seed: Cultural factors
+Seed: Ecological factors
+Seed: Environmental concerns
+[Paramount importance]: Road infrastructure resilience --[Is]-> Paramount importance 0.7861039042472839
+[Paramount importance]: Road infrastructure resilience --[Encompasses]-> Technological innovation 0.7580190300941467
+[Paramount importance]: Road infrastructure resilience --[Refers to]-> Capacity of road networks 0.7579627633094788
+[Paramount importance]: Road infrastructure resilience --[Emphasizes]-> Community engagement 0.7673280239105225
+[Paramount importance]: Road infrastructure resilience --[Is]-> New zealand 0.768220067024231
+[Paramount importance]: Road infrastructure resilience --[Encompasses]-> Climate adaptation 0.7683579325675964
+[Paramount importance]: Road infrastructure resilience --[Necessitates]-> Proactive approach 0.775198221206665
+[Paramount importance]: Road infrastructure resilience --[Encompasses]-> Engineering 0.765883207321167
+[Paramount importance]: Road infrastructure resilience --[Poses]-> Significant challenge 0.776275634765625
+[Paramount importance]: Road infrastructure resilience --[Includes]-> Risk assessment frameworks 0.7605113983154297
+[Paramount importance]: Road infrastructure resilience --[Requires]-> Comprehensive approach 0.7710429430007935
+[Paramount importance]: Road infrastructure resilience --[Encompasses]-> Community engagement 0.7709701061248779
+[Cultural factors]: Teia --[Includes]-> Cultural factors 0.8063626289367676
+[Cultural factors]: Teia --[Evaluates]-> Potential effects of transport projects 0.7613309621810913
+[Cultural factors]: Teia --[Includes]-> Economic factors 0.7943419814109802
+[Cultural factors]: Teia --[Includes]-> Ecological factors 0.8074631690979004
+[Cultural factors]: Teia --[Used in]-> New zealand 0.7788946628570557
+[Cultural factors]: Teia --[Governed by]-> Resource management act 1991 0.7676368951797485
+[Cultural factors]: Teia --[Includes]-> Social factors 0.7971085906028748
+[Cultural factors]: Teia --[Supports]-> Reducing carbon emissions 0.7518048286437988
+[Cultural factors]: Teia --[Is]-> Critical framework 0.7796509265899658
+[Cultural factors]: Teia --[Promotes]-> Sustainable development 0.7553219199180603
+[Ecological factors]: Teia --[Includes]-> Ecological factors 0.8074631690979004
+[Ecological factors]: Teia --[Evaluates]-> Potential effects of transport projects 0.7613309621810913
+[Ecological factors]: Teia --[Includes]-> Economic factors 0.7943419814109802
+[Ecological factors]: Teia --[Used in]-> New zealand 0.7788946628570557
+[Ecological factors]: Teia --[Includes]-> Cultural factors 0.8063626289367676
+[Ecological factors]: Teia --[Governed by]-> Resource management act 1991 0.7676368951797485
+[Ecological factors]: Teia --[Includes]-> Social factors 0.7971085906028748
+[Ecological factors]: Teia --[Supports]-> Reducing carbon emissions 0.7518048286437988

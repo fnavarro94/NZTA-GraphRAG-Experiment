@@ -1,0 +1,34 @@
+What are the requirements for commercial buses in New Zealand with regards to Occupancy Safety?
+None
+Seed: 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.
+Seed: rail operational safety
+Seed: Vehicle Safety
+Seed: vehicle safety
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: New Zealand --[REGULATES]-> Commercial Buses 0.9100279808044434
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: safe driving conditions --[ENSURED_BY]-> New Zealand Transport Agency 0.8935901522636414
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: I will respond to each of your questions in turn. --[OFFICIAL_INFORMATION]-> 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. 0.8816455602645874
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: New Zealand Transport Agency --[ASSIGNED]-> safety risk ratings 0.876066267490387
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: New Zealand Transport Agency --[PROVIDES]-> Transport Safety Data 0.8730127811431885
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: New Zealand Transport Agency --[ASSOCIATED]-> Road safety initiatives 0.8721163272857666
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: questions and responses --[FROM]-> NZ Transport Agency 0.871620774269104
+[rail operational safety]: New Zealand --[REGULATES]-> Commercial Buses 0.9100279808044434
+[rail operational safety]: safe driving conditions --[ENSURED_BY]-> New Zealand Transport Agency 0.8935901522636414
+[rail operational safety]: New Zealand Transport Agency --[ASSIGNED]-> safety risk ratings 0.876066267490387
+[rail operational safety]: New Zealand Transport Agency --[PROVIDES]-> Transport Safety Data 0.8730127811431885
+[rail operational safety]: New Zealand Transport Agency --[ASSOCIATED]-> Road safety initiatives 0.8721163272857666
+[rail operational safety]: questions and responses --[FROM]-> NZ Transport Agency 0.871620774269104
+[rail operational safety]: NZ Transport Agency --[ASSOCIATED]-> oia-4596 0.8708168864250183
+[Vehicle Safety]: New Zealand --[REGULATES]-> Commercial Buses 0.9100279808044434
+[Vehicle Safety]: safe driving conditions --[ENSURED_BY]-> New Zealand Transport Agency 0.8935901522636414
+[Vehicle Safety]: New Zealand Transport Agency --[ASSIGNED]-> safety risk ratings 0.876066267490387
+[Vehicle Safety]: New Zealand Transport Agency --[PROVIDES]-> Transport Safety Data 0.8730127811431885
+[Vehicle Safety]: New Zealand Transport Agency --[ASSOCIATED]-> Road safety initiatives 0.8721163272857666
+[Vehicle Safety]: questions and responses --[FROM]-> NZ Transport Agency 0.871620774269104
+[Vehicle Safety]: NZ Transport Agency --[ASSOCIATED]-> oia-4596 0.8708168864250183
+[vehicle safety]: New Zealand --[REGULATES]-> Commercial Buses 0.9100279808044434
+[vehicle safety]: safe driving conditions --[ENSURED_BY]-> New Zealand Transport Agency 0.8935901522636414
+[vehicle safety]: New Zealand Transport Agency --[ASSIGNED]-> safety risk ratings 0.876066267490387
+[vehicle safety]: New Zealand Transport Agency --[PROVIDES]-> Transport Safety Data 0.8730127811431885
+[vehicle safety]: New Zealand Transport Agency --[ASSOCIATED]-> Road safety initiatives 0.8721163272857666
+[vehicle safety]: questions and responses --[FROM]-> NZ Transport Agency 0.871620774269104
+[vehicle safety]: NZ Transport Agency --[ASSOCIATED]-> oia-4596 0.8708168864250183

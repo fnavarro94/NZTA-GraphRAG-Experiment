@@ -1,0 +1,36 @@
+How does NZTA handle conflicts of interest when investigating contractors?
+None
+Seed: conflicts of interest by senior staff
+Seed: Conflict of interest
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: conflict of interest
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[NOTIFIES]-> conflicts of interest by senior staff 0.87937992811203
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8061963319778442
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[BASED]-> Wellington 0.8018321394920349
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.818230926990509
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.812669038772583
+[conflicts of interest by senior staff]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7712061405181885
+[conflicts of interest by senior staff]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.7689964771270752
+[conflicts of interest by senior staff]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7695578336715698
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.8023289442062378
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.8121196627616882
+[conflicts of interest by senior staff]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.775090217590332
+[conflicts of interest by senior staff]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7614474892616272
+[conflicts of interest by senior staff]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7682969570159912
+[conflicts of interest by senior staff]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7225522398948669
+[conflicts of interest by senior staff]: Wellington --[CONTAINS]-> Private Bag 6995 0.7732325792312622
+[conflicts of interest by senior staff]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8222595453262329
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8054537773132324
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.7967885732650757
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7800617218017578
+[conflicts of interest by senior staff]: 50 Victoria Street --[IN]-> Wellington 0.7443256378173828
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.7971771955490112
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[LOCATED]-> 50 Victoria Street 0.8001488447189331
+[conflicts of interest by senior staff]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7570065855979919
+[conflicts of interest by senior staff]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7540114521980286
+[conflicts of interest by senior staff]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7544018030166626
+[conflicts of interest by senior staff]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7457379698753357
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7844314575195312
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7997450232505798
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[CONTACT]-> Wellington 6141 0.7923815250396729
+[conflicts of interest by senior staff]: Wellington 6141 --[POSTAL_ADDRESS]-> New Zealand 0.7602338790893555

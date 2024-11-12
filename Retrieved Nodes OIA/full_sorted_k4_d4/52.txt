@@ -1,0 +1,34 @@
+When will the full report from the hidden texting camera trial be made publicly available?
+None
+Seed: WK Exec summary of the TG claim for review
+Seed: public awareness campaign
+Seed: public interest in seeking and receiving confidential legal advice
+Seed: trial
+[WK Exec summary of the TG claim for review]: Documents --[CONTAINS]-> Brown Update on the installation of cameras 0.8240128755569458
+[WK Exec summary of the TG claim for review]: public interest --[CONSIDERS]-> information 0.8151094913482666
+[WK Exec summary of the TG claim for review]: information --[WITHHELD]-> public interest 0.8143294453620911
+[WK Exec summary of the TG claim for review]: Michael Morrah --[SUBMITTED]-> request for information 0.8142732381820679
+[WK Exec summary of the TG claim for review]: Occupancy Protection Risk --[EVIDENCED_BY]-> Publicly Available Information 0.8114264011383057
+[WK Exec summary of the TG claim for review]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.8106337785720825
+[WK Exec summary of the TG claim for review]: Antoinette Spicer --[SUBMITTED]-> Request for Information 0.8098195791244507
+[public awareness campaign]: public interest --[CONSIDERS]-> information 0.8151094913482666
+[public awareness campaign]: information --[WITHHELD]-> public interest 0.8143294453620911
+[public awareness campaign]: Ministry of Transport --[PUBLICLY_RELEASED]-> documents 0.8075889348983765
+[public awareness campaign]: publicly available information --[FOUND]-> section 11 starting on page 124 0.8071044683456421
+[public awareness campaign]: Road to Zero --[PUBLICATION]-> Annual Monitoring Report 2020 0.8069785833358765
+[public awareness campaign]: Waka Kotahi --[PROVIDES]-> publicly available information 0.8062835335731506
+[public awareness campaign]: Road to Zero --[PROGRESS]-> Road to Zero public awareness campaign 0.8041956424713135
+[public interest in seeking and receiving confidential legal advice]: public interest --[CONSIDERS]-> information 0.8151094913482666
+[public interest in seeking and receiving confidential legal advice]: information --[WITHHELD]-> public interest 0.8143294453620911
+[public interest in seeking and receiving confidential legal advice]: Michael Morrah --[SUBMITTED]-> request for information 0.8142732381820679
+[public interest in seeking and receiving confidential legal advice]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.8106337785720825
+[public interest in seeking and receiving confidential legal advice]: Antoinette Spicer --[SUBMITTED]-> Request for Information 0.8098195791244507
+[public interest in seeking and receiving confidential legal advice]: Ministry of Transport --[PUBLICLY_RELEASED]-> documents 0.8075889348983765
+[public interest in seeking and receiving confidential legal advice]: publicly available information --[FOUND]-> section 11 starting on page 124 0.8071044683456421
+[trial]: public interest --[CONSIDERS]-> information 0.8151094913482666
+[trial]: information --[WITHHELD]-> public interest 0.8143294453620911
+[trial]: Michael Morrah --[SUBMITTED]-> request for information 0.8142732381820679
+[trial]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.8106337785720825
+[trial]: Antoinette Spicer --[SUBMITTED]-> Request for Information 0.8098195791244507
+[trial]: Ministry of Transport --[PUBLICLY_RELEASED]-> documents 0.8075889348983765
+[trial]: publicly available information --[FOUND]-> section 11 starting on page 124 0.8071044683456421

@@ -1,0 +1,34 @@
+What are the key challenges faced in completing the Transmission Gully project?
+None
+Seed: Transmission Gully
+Seed: https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/
+Seed: prioritising the clearing of drains and culverts
+Seed: Transmission Gully Motorway
+[Transmission Gully]: Transport Gully --[IMPACTED_BY]-> challenging site conditions 0.8947668075561523
+[Transmission Gully]: New Zealand Transport Agency --[NEGOTIATING]-> Transmission Gully 0.8922181725502014
+[Transmission Gully]: Transport Gully --[IMPACTED_BY]-> several storm events 0.8665711879730225
+[Transmission Gully]: Transport Gully --[MEETS]-> needs of customers 0.8646482229232788
+[Transmission Gully]: Transmission Gully --[IMPACTED_BY]-> Delta outbreak 0.863368570804596
+[Transmission Gully]: Delta outbreak --[AFFECTED]-> Transmission Gully 0.8626071214675903
+[Transmission Gully]: Transport Gully --[IMPACTED_BY]-> Kaikoura Earthquake 0.8604532480239868
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Project Agreement --[AVAILABLE]-> https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/ 0.8302021622657776
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Out of Scope --[RELATES]-> Project Agreement 0.7663779854774475
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: New Zealand Transport Agency --[PROVIDES]-> Prolongation Costs 0.7646920680999756
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Prolongation Costs --[INCURRED]-> WGP 0.763434886932373
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: New Zealand Transport Agency --[PROVIDES]-> Periodic Payments 0.75737464427948
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Project Agreement --[GOVERNED_BY]-> Public Private Partnership 0.7545244693756104
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Wellington Gateway Partnership --[RECEIVES]-> Periodic Payments 0.7540295124053955
+[prioritising the clearing of drains and culverts]: New Zealand Transport Agency --[NEGOTIATING]-> Transmission Gully 0.8922181725502014
+[prioritising the clearing of drains and culverts]: Transport Gully --[FINANCED_BY]-> New Zealand Transport Agency 0.8440495729446411
+[prioritising the clearing of drains and culverts]: questions and responses --[FROM]-> NZ Transport Agency 0.8293216228485107
+[prioritising the clearing of drains and culverts]: New Zealand Transport Agency --[BUDGETS]-> median barriers 0.8217312097549438
+[prioritising the clearing of drains and culverts]: New Zealand Transport Agency --[FALLS_IN_SCOPE]-> TG project – builders claim documents 0.8203070759773254
+[prioritising the clearing of drains and culverts]: achieving mode shift --[REQUIRES]-> Regional Public Transport Plans 0.8193557262420654
+[prioritising the clearing of drains and culverts]: New Zealand Transport Agency --[CONSIDERS]-> request for pothole repair cost information 0.8190922737121582
+[Transmission Gully Motorway]: Transport Gully --[IMPACTED_BY]-> challenging site conditions 0.8947668075561523
+[Transmission Gully Motorway]: New Zealand Transport Agency --[NEGOTIATING]-> Transmission Gully 0.8922181725502014
+[Transmission Gully Motorway]: Transport Gully --[IMPACTED_BY]-> several storm events 0.8665711879730225
+[Transmission Gully Motorway]: Transport Gully --[MEETS]-> needs of customers 0.8646482229232788
+[Transmission Gully Motorway]: Transmission Gully --[IMPACTED_BY]-> Delta outbreak 0.863368570804596
+[Transmission Gully Motorway]: Delta outbreak --[AFFECTED]-> Transmission Gully 0.8626071214675903
+[Transmission Gully Motorway]: Transport Gully --[IMPACTED_BY]-> Kaikoura Earthquake 0.8604532480239868

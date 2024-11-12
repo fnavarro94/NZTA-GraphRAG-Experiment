@@ -1,0 +1,10 @@
+What is the target year set by the government for achieving 100% of the light vehicle fleet being zero-emission as part of their initiatives focused on evaluating the economic implications of transport systems and policies in New Zealand?
+None
+Seed: 100% of light vehicle fleet being zero-emission by 2035
+Seed: New zealand's commitment to sustainable transport
+Seed: Target for net-zero emissions by 2050
+Seed: Achieving net-zero emissions by 2050
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Goal]-> 100% of light vehicle fleet being zero-emission by 2035 0.936819851398468
+[New zealand's commitment to sustainable transport]: Vehicle emissions regulations --[Reflect]-> New zealand's commitment to sustainable transport 0.8710296750068665
+[Target for net-zero emissions by 2050]: Zero carbon act --[Sets]-> Target for net-zero emissions by 2050 0.845535159111023
+[Achieving net-zero emissions by 2050]: New zealand electric vehicle programme --[Goal]-> Achieving net-zero emissions by 2050 0.896808922290802

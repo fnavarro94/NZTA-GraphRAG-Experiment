@@ -1,0 +1,34 @@
+How many times has the Milford Rd closed each year for the past 5 years?
+None
+Seed: 5 years
+Seed: vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas
+Seed: resignations by year since 2014
+Seed: Milford Alliance
+[5 years]: Milford Alliance --[DEVELOPED_BY]-> Connected Journeys 0.8118149042129517
+[5 years]: Open Data portal for information about daily traffic volumes on Hewletts Road --[LINKED_TO]-> https://maphub.nzta.govt.nz/public/?appid=31305d4c1c794c1188a87da0d3e85d04 0.8075451850891113
+[5 years]: Transport Service Licences --[ACTIVE_FOR]-> 5 years 0.8066335916519165
+[5 years]: per year --[FOR]-> road accident data 0.7974660992622375
+[5 years]: Road Traffic Crash Data --[RELATES_TO]-> Christchurch Region 0.7957723140716553
+[5 years]: Theft Property (Under $100) --[COUNT]-> 5 0.7942075133323669
+[5 years]: Connected Journeys --[DEVELOPS]-> Milford Alliance 0.7938207387924194
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Milford Alliance --[DEVELOPED_BY]-> Connected Journeys 0.8118149042129517
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Open Data portal for information about daily traffic volumes on Hewletts Road --[LINKED_TO]-> https://maphub.nzta.govt.nz/public/?appid=31305d4c1c794c1188a87da0d3e85d04 0.8075451850891113
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Transport Service Licences --[ACTIVE_FOR]-> 5 years 0.8066335916519165
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Christchurch Region --[HAS]-> Roads 0.8046244382858276
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: per year --[FOR]-> road accident data 0.7974660992622375
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Road Traffic Crash Data --[RELATES_TO]-> Christchurch Region 0.7957723140716553
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Theft Property (Under $100) --[COUNT]-> 5 0.7942075133323669
+[resignations by year since 2014]: Milford Alliance --[DEVELOPED_BY]-> Connected Journeys 0.8118149042129517
+[resignations by year since 2014]: Open Data portal for information about daily traffic volumes on Hewletts Road --[LINKED_TO]-> https://maphub.nzta.govt.nz/public/?appid=31305d4c1c794c1188a87da0d3e85d04 0.8075451850891113
+[resignations by year since 2014]: Transport Service Licences --[ACTIVE_FOR]-> 5 years 0.8066335916519165
+[resignations by year since 2014]: Christchurch Region --[HAS]-> Roads 0.8046244382858276
+[resignations by year since 2014]: per year --[FOR]-> road accident data 0.7974660992622375
+[resignations by year since 2014]: Road Traffic Crash Data --[RELATES_TO]-> Christchurch Region 0.7957723140716553
+[resignations by year since 2014]: Theft Property (Under $100) --[COUNT]-> 5 0.7942075133323669
+[Milford Alliance]: Milford Alliance --[DEVELOPED_BY]-> Connected Journeys 0.8118149042129517
+[Milford Alliance]: Open Data portal for information about daily traffic volumes on Hewletts Road --[LINKED_TO]-> https://maphub.nzta.govt.nz/public/?appid=31305d4c1c794c1188a87da0d3e85d04 0.8075451850891113
+[Milford Alliance]: Transport Service Licences --[ACTIVE_FOR]-> 5 years 0.8066335916519165
+[Milford Alliance]: per year --[FOR]-> road accident data 0.7974660992622375
+[Milford Alliance]: Road Traffic Crash Data --[RELATES_TO]-> Christchurch Region 0.7957723140716553
+[Milford Alliance]: Theft Property (Under $100) --[COUNT]-> 5 0.7942075133323669
+[Milford Alliance]: Connected Journeys --[DEVELOPS]-> Milford Alliance 0.7938207387924194

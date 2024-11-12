@@ -1,0 +1,28 @@
+How effective was the Road to Zero advertising campaign in terms of reach and public support as of June 2022?
+None
+Seed: cost of the current Road to Zero advertising campaign
+Seed: development of the next Road to Zero Action Plan
+Seed: Road to Zero advertising campaign
+Seed: information about Road To Zero campaign
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[COST]-> cost of the current Road to Zero advertising campaign 0.8591411113739014
+[cost of the current Road to Zero advertising campaign]: Road to Zero Strategy --[INITIATED]-> 2020 0.8576205968856812
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[EVALUATED_BY]-> post campaign polling or research 0.8446980714797974
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[LAUNCHED_BY]-> New Zealand Transport Agency 0.8423694372177124
+[cost of the current Road to Zero advertising campaign]: Progress and Outcomes --[DISCUSSES]-> Road to Zero Strategy 0.8410476446151733
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[TARGET]-> zero accidents 0.8338603973388672
+[cost of the current Road to Zero advertising campaign]: Road to Zero Strategy Reports --[CONTAINS]-> Progress and Outcomes 0.8329870104789734
+[development of the next Road to Zero Action Plan]: Road to Zero --[PROGRESS]-> Road to Zero public awareness campaign 0.8855412006378174
+[development of the next Road to Zero Action Plan]: Road to Zero --[CAMPAIGN]-> public awareness campaign 0.8755934834480286
+[development of the next Road to Zero Action Plan]: Road To Zero campaign --[COST]-> cost of the current Road to Zero advertising campaign 0.8591411113739014
+[development of the next Road to Zero Action Plan]: Road to Zero --[PROGRESS]-> 2022 0.8589236736297607
+[development of the next Road to Zero Action Plan]: Road to Zero Strategy --[INITIATED]-> 2020 0.8576205968856812
+[development of the next Road to Zero Action Plan]: Road to Zero --[PROGRESS]-> television advertisements 0.8568158745765686
+[development of the next Road to Zero Action Plan]: Road to Zero --[PROGRESS]-> 2021 0.8506352305412292
+[Road to Zero advertising campaign]: Road to Zero advertising campaign --[COST]-> $6.185 million 0.8422391414642334
+[information about Road To Zero campaign]: Road To Zero campaign --[COST]-> cost of the current Road to Zero advertising campaign 0.8591411113739014
+[information about Road To Zero campaign]: Road to Zero Strategy --[INITIATED]-> 2020 0.8576205968856812
+[information about Road To Zero campaign]: Road To Zero campaign --[EVALUATED_BY]-> post campaign polling or research 0.8446980714797974
+[information about Road To Zero campaign]: Road To Zero campaign --[LAUNCHED_BY]-> New Zealand Transport Agency 0.8423694372177124
+[information about Road To Zero campaign]: Progress and Outcomes --[DISCUSSES]-> Road to Zero Strategy 0.8410476446151733
+[information about Road To Zero campaign]: Road To Zero campaign --[TARGET]-> zero accidents 0.8338603973388672
+[information about Road To Zero campaign]: Road to Zero Strategy Reports --[CONTAINS]-> Progress and Outcomes 0.8329870104789734

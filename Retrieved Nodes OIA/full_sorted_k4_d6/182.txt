@@ -1,0 +1,22 @@
+How does Waka Kotahi gather data on fatal crashes?
+None
+Seed: figures on drivers involved in fatal crashes
+Seed: drivers involved in fatal crashes
+Seed: information on driver fatalities
+Seed: https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf
+[figures on drivers involved in fatal crashes]: AA --[PROVIDES]-> figures on drivers involved in fatal crashes 0.8548164367675781
+[drivers involved in fatal crashes]: New Zealand Transport Agency Waka Kotahi --[PROVIDES]-> Crash Data 0.9302310943603516
+[drivers involved in fatal crashes]: Waka Kotahi --[RECEIVES]-> crash reports 0.9271869659423828
+[drivers involved in fatal crashes]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.9267600178718567
+[drivers involved in fatal crashes]: Crash Analysis --[PERFORMED_BY]-> Waka Kotahi NZ Transport Agency 0.9249098300933838
+[drivers involved in fatal crashes]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.9234260320663452
+[drivers involved in fatal crashes]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.910959005355835
+[drivers involved in fatal crashes]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.9074648022651672
+[information on driver fatalities]: Emma Conyngham --[REQUESTS]-> information on driver fatalities 0.8434301614761353
+[https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf]: New Zealand Transport Agency Waka Kotahi --[PROVIDES]-> Crash Data 0.9302310943603516
+[https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf]: Waka Kotahi --[RECEIVES]-> crash reports 0.9271869659423828
+[https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.9267600178718567
+[https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf]: Crash Analysis --[PERFORMED_BY]-> Waka Kotahi NZ Transport Agency 0.9249098300933838
+[https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.9234260320663452
+[https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.910959005355835
+[https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.9074648022651672

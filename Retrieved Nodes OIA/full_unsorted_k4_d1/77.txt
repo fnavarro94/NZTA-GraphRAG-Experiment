@@ -1,0 +1,10 @@
+How many complaints did NZTA receive regarding Uber and its drivers?
+None
+Seed: 196 complaints about Uber drivers
+Seed: Complaint Data
+Seed: ride share operator complaints
+Seed: Uber drivers
+[196 complaints about Uber drivers]: Waka Kotahi --[RECEIVES]-> 196 complaints about Uber drivers 0.8867742419242859
+[Complaint Data]: Request for Information --[REQUESTS]-> Complaint Data 0.8040021657943726
+[ride share operator complaints]: Waka Kotahi --[INVESTIGATES]-> ride share operator complaints 0.8614611029624939
+[Uber drivers]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.854378342628479

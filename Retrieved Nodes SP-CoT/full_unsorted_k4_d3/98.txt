@@ -1,0 +1,36 @@
+I'm sorry, but the questions provided are too complex and convoluted for me to provide accurate answers. If you could simplify the questions or provide more context, I would be happy to help answer them.
+None
+Seed: Criticism for complexity
+Seed: Surveys
+Seed: Cultural influences
+Seed: Cultural factors
+[Criticism for complexity]: Resource management act 1991 --[Subject to]-> Criticism for complexity 0.8291789889335632
+[Criticism for complexity]: Teia --[Governed by]-> Resource management act 1991 0.7666939496994019
+[Criticism for complexity]: Teia --[Evaluates]-> Potential effects of transport projects 0.7700625658035278
+[Criticism for complexity]: Teia --[Includes]-> Economic factors 0.8027251958847046
+[Criticism for complexity]: Teia --[Includes]-> Ecological factors 0.7909159660339355
+[Criticism for complexity]: Teia --[Used in]-> New zealand 0.7673000693321228
+[Criticism for complexity]: Teia --[Includes]-> Cultural factors 0.8069573044776917
+[Criticism for complexity]: Teia --[Includes]-> Social factors 0.807754397392273
+[Criticism for complexity]: Teia --[Supports]-> Reducing carbon emissions 0.7459408044815063
+[Criticism for complexity]: Teia --[Is]-> Critical framework 0.7837134003639221
+[Criticism for complexity]: Teia --[Promotes]-> Sustainable development 0.7433942556381226
+[Criticism for complexity]: Resource management act 1991 --[Has]-> Challenges balancing development with environmental protection 0.775716245174408
+[Criticism for complexity]: Resource management act 1991 --[Praised for]-> Promoting integrated approach to transport planning 0.72989821434021
+[Criticism for complexity]: Resource management act 1991 --[Requires]-> Thorough assessment processes 0.7767942547798157
+[Criticism for complexity]: Resource management act 1991 --[Recognizes]-> Transport as critical component 0.7575504183769226
+[Criticism for complexity]: Resource management act 1991 --[Led to]-> Discussions about potential amendments 0.7847718000411987
+[Criticism for complexity]: Resource management act 1991 --[Facilitates]-> Public participation in planning process 0.7556794881820679
+[Criticism for complexity]: Resource management act 1991 --[Plays]-> Significant role in shaping transport infrastructure 0.7646397352218628
+[Criticism for complexity]: Resource management act 1991 --[Enacted to]-> Promote sustainable development 0.7520899772644043
+[Criticism for complexity]: Resource management act 1991 --[Enacted]-> Promote sustainable development 0.754639744758606
+[Criticism for complexity]: Resource management act 1991 --[Subject]-> Debate regarding effectiveness in addressing challenges of modern transport needs 0.7841883897781372
+[Criticism for complexity]: Resource management act 1991 --[Cornerstone]-> New zealand's approach to managing transport 0.7860068082809448
+[Criticism for complexity]: Resource management act 1991 --[Requires]-> Local authorities to consider effects of transport activities on environment 0.7629842162132263
+[Criticism for complexity]: Resource management act 1991 --[Recognizes]-> Transport as critical component of nation's infrastructure 0.7321287989616394
+[Criticism for complexity]: Resource management act 1991 --[Provides]-> Framework for assessment of resource consents 0.7493658065795898
+[Criticism for complexity]: Resource management act 1991 --[Encourages]-> Public participation in decision-making process 0.7612069845199585
+[Criticism for complexity]: Resource management act 1991 --[Plays]-> Significant role in planning and management of transport infrastructure and services 0.7547178268432617
+[Criticism for complexity]: Resource management act 1991 --[Aims]-> Balance need for efficient transport systems with preservation of new zealand's unique landscapes and ecosystems 0.7566972970962524
+[Criticism for complexity]: Resource management act 1991 --[Is]-> Key piece of legislation 0.771569013595581
+[Criticism for complexity]: Health and safety at work act 2015 --[Is]-> Key piece of legislation 0.7194633483886719

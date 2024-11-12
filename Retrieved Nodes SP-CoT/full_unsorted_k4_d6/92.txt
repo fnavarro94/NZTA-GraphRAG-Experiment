@@ -1,0 +1,36 @@
+What body of water encircles the geological region located in the country where a method involving the use of advanced sensors and cameras to gather real-time data on road conditions significantly enhances the efficiency and accuracy of transport data acquisition processes, making it susceptible to natural disasters such as earthquakes, volcanic eruptions, and tsunamis?
+None
+Seed: Natural hazards
+Seed: Regions prone to wet conditions
+Seed: Volcanic activity
+Seed: Heavily on road transport for trade and tourism
+[Natural hazards]: New zealand --[Susceptible to]-> Natural hazards 0.8462419509887695
+[Natural hazards]: New zealand --[Has]-> Transport projects 0.819669783115387
+[Natural hazards]: New zealand transport agency --[Oversees]-> Transport projects 0.7891150712966919
+[Natural hazards]: New zealand --[Has]-> New zealand transport agency 0.7962052822113037
+[Natural hazards]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.8027282357215881
+[Natural hazards]: New zealand --[Has]-> Diverse transport network 0.7998621463775635
+[Natural hazards]: New zealand --[Has]-> Post-incident review 0.7745117545127869
+[Natural hazards]: Post-incident review --[Crucial for]-> Improving operational efficiency 0.7865887880325317
+[Natural hazards]: Post-incident review --[Crucial for]-> Fostering culture of continuous improvement 0.7622491121292114
+[Natural hazards]: Post-incident review --[Aimed at]-> Recommending measures 0.758607029914856
+[Natural hazards]: Post-incident review --[Crucial for]-> Enhancing safety 0.7778022885322571
+[Natural hazards]: Post-incident review --[Is]-> Systematic process 0.7598769664764404
+[Natural hazards]: Post-incident review --[Conducted]-> Following an incident 0.7533283233642578
+[Natural hazards]: Post-incident review --[Aimed at]-> Analyzing circumstances 0.7733843326568604
+[Natural hazards]: Post-incident review --[Aimed at]-> Identifying contributing factors 0.7855570912361145
+[Natural hazards]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.7727248668670654
+[Natural hazards]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.7794514298439026
+[Natural hazards]: New zealand --[Has]-> Broader environmental policies 0.7765160799026489
+[Natural hazards]: New zealand --[Has]-> Traffic congestion 0.8134242296218872
+[Natural hazards]: Auckland --[Faces challenges]-> Traffic congestion 0.7843061685562134
+[Natural hazards]: Wellington public transport plan --[Initiated in response to]-> Traffic congestion 0.7807644605636597
+[Natural hazards]: Auckland --[Has]-> Traffic congestion 0.7877703309059143
+[Natural hazards]: Wellington --[Has]-> Traffic congestion 0.7854015827178955
+[Natural hazards]: Wellington public transport spine study --[Initiated in response to]-> Traffic congestion 0.805853009223938
+[Natural hazards]: Sustainable urban transport --[Faces challenges]-> Traffic congestion 0.779300332069397
+[Natural hazards]: New zealand --[Face]-> Traffic congestion 0.7962928414344788
+[Natural hazards]: New zealand --[Address]-> Traffic congestion 0.7911224961280823
+[Natural hazards]: New zealand --[Has]-> Increasing urbanization 0.7767603993415833
+[Natural hazards]: Wellington public transport plan --[Initiated in response to]-> Increasing urbanization 0.7734706401824951
+[Natural hazards]: Wellington regional rail plan --[Developed in response to]-> Increasing urbanization 0.7794619202613831

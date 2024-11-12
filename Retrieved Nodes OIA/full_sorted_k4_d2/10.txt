@@ -1,0 +1,26 @@
+How many crashes in Christchurch were alcohol-related between 2017 and 2019?
+None
+Seed: Road Traffic Crashes
+Seed: information on Christchurch road deaths
+Seed: Pedestrian and Cyclist Crashes
+Seed: 1 fatal crash, 3 serious crashes, 8 minor crashes, 12 non-injury crashes, 24 total crashes
+[Road Traffic Crashes]: Alcohol Consumption --[CONTRIBUTES_TO]-> Road Traffic Crashes 0.8469848036766052
+[Road Traffic Crashes]: Road Traffic --[AFFECTED_BY]-> Alcohol Consumption 0.8298678994178772
+[Road Traffic Crashes]: Crash Analysis --[PERFORMED_BY]-> Waka Kotahi NZ Transport Agency 0.8289096355438232
+[Road Traffic Crashes]: Road Traffic Crashes --[ANALYZED_BY]-> Crash Analysis 0.8155063390731812
+[Road Traffic Crashes]: Factor 103 --[CONTRIBUTES_TO]-> Crash Analysis 0.7856326699256897
+[information on Christchurch road deaths]: Crash Analysis --[PERFORMED_BY]-> Waka Kotahi NZ Transport Agency 0.8289096355438232
+[information on Christchurch road deaths]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8285273313522339
+[information on Christchurch road deaths]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.8156084418296814
+[information on Christchurch road deaths]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.8126220107078552
+[information on Christchurch road deaths]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.8087155222892761
+[information on Christchurch road deaths]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8029786348342896
+[information on Christchurch road deaths]: public transport fare policy review --[CONDUCTED_BY]-> Waka Kotahi NZ Transport Agency 0.802545428276062
+[Pedestrian and Cyclist Crashes]: Pedestrian and Cyclist Crashes --[ASSOCIATED_WITH]-> Road Safety Initiatives 0.8336354494094849
+[Pedestrian and Cyclist Crashes]: Crash Data --[RELATES_TO]-> Pedestrian and Cyclist Crashes 0.8330386281013489
+[Pedestrian and Cyclist Crashes]: Data --[RELATES_TO]-> Pedestrian and Cyclist Crashes 0.8222845792770386
+[Pedestrian and Cyclist Crashes]: New Zealand Transport Agency Waka Kotahi --[PROVIDES]-> Crash Data 0.8194155693054199
+[Pedestrian and Cyclist Crashes]: Traffic Crash Report --[RECORDS]-> Crash Data 0.8183053731918335
+[Pedestrian and Cyclist Crashes]: Traffic Crash Report --[CONTAINS]-> Crash Data 0.8171340823173523
+[Pedestrian and Cyclist Crashes]: Road Safety Initiatives --[COLLABORATED_BY]-> Wellington City Council 0.813806414604187
+[1 fatal crash, 3 serious crashes, 8 minor crashes, 12 non-injury crashes, 24 total crashes]: 01/10/2020 to 26/05/2021 --[HAS_CRASHES]-> 1 fatal crash, 3 serious crashes, 8 minor crashes, 12 non-injury crashes, 24 total crashes 0.8555302619934082

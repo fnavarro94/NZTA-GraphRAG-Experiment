@@ -1,0 +1,36 @@
+What is the average waiting time between submitting a Fuel Excise Duty Refund claim and receiving a refund?
+None
+Seed: fuel excise refunds
+Seed: information on fuel excise duty
+Seed: fuel excise duty
+Seed: OIA-1153-fuel-excise-refunds.pdf
+[fuel excise refunds]: fuel excise refunds --[RELATED_TO]-> transportation 0.8812904953956604
+[fuel excise refunds]: transportation --[AFFECTED_BY]-> flooding 0.764992892742157
+[fuel excise refunds]: road maintenance --[AFFECTED_BY]-> flooding 0.7549837827682495
+[fuel excise refunds]: flooding --[CAUSES]-> damage 0.7366924285888672
+[fuel excise refunds]: flooding --[CAN_AFFECT]-> road maintenance 0.7455397844314575
+[fuel excise refunds]: flooding --[RECORDED_IN]-> asset management system 0.7381908893585205
+[fuel excise refunds]: flooding --[CAN_CAUSE]-> damage 0.7327225804328918
+[fuel excise refunds]: weather event s, storm s, cyclone s, or floods --[CAN_CAUSE]-> flooding 0.7041159868240356
+[fuel excise refunds]: New Zealand Transport Agency --[RESPONSIBLE_FOR]-> transportation 0.7420353889465332
+[fuel excise refunds]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7397964596748352
+[fuel excise refunds]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7565141320228577
+[fuel excise refunds]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7454332113265991
+[fuel excise refunds]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7309589982032776
+[fuel excise refunds]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7455943822860718
+[fuel excise refunds]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7378625869750977
+[fuel excise refunds]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7325232028961182
+[fuel excise refunds]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7198479771614075
+[fuel excise refunds]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7648481130599976
+[fuel excise refunds]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.762748658657074
+[fuel excise refunds]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7574154138565063
+[fuel excise refunds]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.764660656452179
+[fuel excise refunds]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7510206699371338
+[fuel excise refunds]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7612826824188232
+[fuel excise refunds]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7454365491867065
+[fuel excise refunds]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7667245864868164
+[fuel excise refunds]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7436424493789673
+[fuel excise refunds]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7183105945587158
+[fuel excise refunds]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7782274484634399
+[fuel excise refunds]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7202770709991455
+[fuel excise refunds]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7731198668479919

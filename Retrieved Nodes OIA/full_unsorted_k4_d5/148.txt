@@ -1,0 +1,36 @@
+Where can data about daily traffic volumes on Hewletts Road be found?
+None
+Seed: Open Data portal for information about daily traffic volumes on Hewletts Road
+Seed: traffic counter sites on Hewletts Road
+Seed: Road Traffic Volumes
+Seed: traffic on the roads
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.908386766910553
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7891364097595215
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand Transport Agency --[BASED]-> Wellington 0.8047282099723816
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8087242841720581
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7926117777824402
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Golden Mile --[LOCATED]-> Wellington 0.7856370210647583
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: State Highway 1 --[LOCATED_IN]-> Wellington 0.8196960091590881
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7695126533508301
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.789751410484314
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7753928303718567
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Wellington --[PART_OF]-> Wellington Region 0.7910910248756409
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7894516587257385
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7901377081871033
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Wellington --[HAS]-> tunnel 0.7948557138442993
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7858552932739258
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7829983234405518
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Wellington --[POSTCODE]-> 6141 0.7731459140777588
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.8043956756591797
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Wellington --[IS_PART_OF]-> New Zealand 0.776079535484314
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7869670391082764
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: 50 Victoria Street --[IN]-> Wellington 0.7773998379707336
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7716236114501953
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7815608382225037
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7901486158370972
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7906135320663452
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: NZ Transport Agency --[LOCATED]-> Wellington 0.8092711567878723
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7994332313537598
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7816880345344543
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand --[CONTAINS]-> Wellington 0.7782099843025208
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Wellington --[PART_OF]-> New Zealand 0.78702312707901

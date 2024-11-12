@@ -1,0 +1,22 @@
+How much did Hamilton City Council spend on replacing or fixing stolen or vandalized signs in the last three years?
+None
+Seed: Burgles (Oth Prop) ($500 -$5000) By Ngt
+Seed: Burgles (Oth Prop) ($100 -$1000) By Ngt
+Seed: cost of the current Road to Zero advertising campaign
+Seed: request for pothole repair cost information
+[Burgles (Oth Prop) ($500 -$5000) By Ngt]: Applicant 12 --[CONVICTED]-> Burgles (Oth Prop) ($500 -$5000) By Ngt 0.7967032194137573
+[Burgles (Oth Prop) ($100 -$1000) By Ngt]: Applicant 10 --[CONVICTED]-> Burgles (Oth Prop) ($100 -$1000) By Ngt 0.7967081069946289
+[cost of the current Road to Zero advertising campaign]: road maintenance --[OVERDUE]-> Wellington City Council 0.8218287825584412
+[cost of the current Road to Zero advertising campaign]: draft letters --[UNSIGNED]-> Wellington City Council 0.8109504580497742
+[cost of the current Road to Zero advertising campaign]: Wellington City Council --[improving]-> road safety initiatives 0.8064106702804565
+[cost of the current Road to Zero advertising campaign]: road safety initiatives --[ASSOCIATED_WITH]-> Wellington City Council 0.8010286092758179
+[cost of the current Road to Zero advertising campaign]: street lights information from local councils --[OBTAINABLE_FROM]-> local councils 0.8007187843322754
+[cost of the current Road to Zero advertising campaign]: initiatives --[COLLABORATED_BY]-> Wellington City Council 0.8006824851036072
+[cost of the current Road to Zero advertising campaign]: Let's Get Wellington Moving --[HAS_COMPONENT]-> City Streets 0.7995350956916809
+[request for pothole repair cost information]: road maintenance --[OVERDUE]-> Wellington City Council 0.8218287825584412
+[request for pothole repair cost information]: draft letters --[UNSIGNED]-> Wellington City Council 0.8109504580497742
+[request for pothole repair cost information]: Wellington City Council --[improving]-> road safety initiatives 0.8064106702804565
+[request for pothole repair cost information]: Theft Ex Car (Under $500) --[COUNT]-> 2 0.8048436641693115
+[request for pothole repair cost information]: road safety initiatives --[ASSOCIATED_WITH]-> Wellington City Council 0.8010286092758179
+[request for pothole repair cost information]: street lights information from local councils --[OBTAINABLE_FROM]-> local councils 0.8007187843322754
+[request for pothole repair cost information]: initiatives --[COLLABORATED_BY]-> Wellington City Council 0.8006824851036072

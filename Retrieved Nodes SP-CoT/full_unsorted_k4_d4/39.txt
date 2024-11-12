@@ -1,0 +1,36 @@
+What is the abbreviation commonly used for the entity that plays a pivotal role in facilitating collaboration and providing guidance for the development and implementation of Transport Emergency Response Plans in New Zealand?
+None
+Seed: Collaboration between civil defence organizations and transport agencies
+Seed: Vital role in broader transport network of new zealand
+Seed: Primary provider of ambulance services
+Seed: Collaboration with new zealand ministry of health and local health authorities
+[Collaboration between civil defence organizations and transport agencies]: Civil defence emergency management act 2002 --[Encourages]-> Collaboration between civil defence organizations and transport agencies 0.8031700253486633
+[Collaboration between civil defence organizations and transport agencies]: Civil defence emergency management act 2002 --[Outlines]-> Responsibilities of communities 0.7732027173042297
+[Collaboration between civil defence organizations and transport agencies]: Civil defence emergency management act 2002 --[Emphasizes]-> Importance of coordination 0.7862852215766907
+[Collaboration between civil defence organizations and transport agencies]: Civil defence emergency management act 2002 --[Outlines]-> Responsibilities of government agencies 0.7558080554008484
+[Collaboration between civil defence organizations and transport agencies]: Civil defence emergency management act 2002 --[Outlines]-> Responsibilities of local authorities 0.7602769732475281
+[Collaboration between civil defence organizations and transport agencies]: Civil defence emergency management act 2002 --[Encourages]-> Community engagement in emergency preparedness 0.7836141586303711
+[Collaboration between civil defence organizations and transport agencies]: Civil defence emergency management act 2002 --[Mandates]-> Local authorities incorporate transport considerations 0.7915874123573303
+[Collaboration between civil defence organizations and transport agencies]: Civil defence emergency management act 2002 --[Provides]-> Comprehensive approach 0.7609803676605225
+[Collaboration between civil defence organizations and transport agencies]: Wellington public transport plan --[Outlines]-> Comprehensive approach 0.8040440678596497
+[Collaboration between civil defence organizations and transport agencies]: Wellington public transport plan --[Initiated in response to]-> Increasing urbanization 0.7919371724128723
+[Collaboration between civil defence organizations and transport agencies]: Wellington public transport plan --[Objectives include]-> Integration of transport modes 0.8093711137771606
+[Collaboration between civil defence organizations and transport agencies]: Wellington public transport plan --[Objectives include]-> Community engagement 0.8166950941085815
+[Collaboration between civil defence organizations and transport agencies]: Wellington public transport plan --[Objectives include]-> Sustainability 0.8013087511062622
+[Collaboration between civil defence organizations and transport agencies]: Wellington public transport plan --[Key initiatives include]-> Infrastructure upgrades 0.807189404964447
+[Collaboration between civil defence organizations and transport agencies]: Wellington public transport plan --[Aimed at]-> Improving accessibility 0.8020998239517212
+[Collaboration between civil defence organizations and transport agencies]: Wellington public transport plan --[Aimed at]-> Enhancing efficiency 0.8007022738456726
+[Collaboration between civil defence organizations and transport agencies]: Wellington public transport plan --[Key initiatives include]-> Smart ticketing systems 0.8161026239395142
+[Collaboration between civil defence organizations and transport agencies]: Wellington public transport plan --[Objectives include]-> Enhancing service quality 0.7973451614379883
+[Collaboration between civil defence organizations and transport agencies]: Wellington public transport plan --[Developed by]-> Greater wellington regional council 0.796282172203064
+[Collaboration between civil defence organizations and transport agencies]: Wellington public transport plan --[Initiated in response to]-> Traffic congestion 0.7972711324691772
+[Collaboration between civil defence organizations and transport agencies]: Wellington public transport plan --[Aimed at]-> Promoting sustainability 0.80353182554245
+[Collaboration between civil defence organizations and transport agencies]: Wellington public transport plan --[Key initiatives include]-> Light rail development 0.8021367788314819
+[Collaboration between civil defence organizations and transport agencies]: Wellington public transport plan --[Key initiatives include]-> Bus rapid transit 0.8098836541175842
+[Collaboration between civil defence organizations and transport agencies]: Wellington public transport plan --[Is]-> Strategic framework 0.818513035774231
+[Collaboration between civil defence organizations and transport agencies]: Wellington public transport plan --[Initiated in response to]-> Need for environmentally friendly transport system 0.7948750853538513
+[Collaboration between civil defence organizations and transport agencies]: Wellington public transport plan --[Represents]-> Significant step towards creating sustainable and user-friendly public transport system 0.8082848191261292
+[Collaboration between civil defence organizations and transport agencies]: Road infrastructure resilience --[Requires]-> Comprehensive approach 0.7791282534599304
+[Collaboration between civil defence organizations and transport agencies]: Road infrastructure resilience --[Encompasses]-> Technological innovation 0.7739475965499878
+[Collaboration between civil defence organizations and transport agencies]: Road infrastructure resilience --[Refers to]-> Capacity of road networks 0.7862676382064819
+[Collaboration between civil defence organizations and transport agencies]: Road infrastructure resilience --[Emphasizes]-> Community engagement 0.7814615964889526

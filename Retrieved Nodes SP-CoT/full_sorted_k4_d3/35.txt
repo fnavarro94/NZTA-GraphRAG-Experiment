@@ -1,0 +1,34 @@
+In which decade did the construction of the major railway line in New Zealand that is being upgraded to enhance its capacity and efficiency for sustainable transport begin?
+None
+Seed: New zealand's commitment to promoting sustainable transport solutions
+Seed: Growing emphasis on sustainable transport solutions
+Seed: New zealand's commitment to sustainable transport
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport plan --[Developed by]-> Auckland transport 0.8691067099571228
+[New zealand's commitment to promoting sustainable transport solutions]: New zealand --[Has]-> Transport planning 0.8687437176704407
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport --[Committed to]-> Providing sustainable transport options 0.8655038475990295
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport --[Has]-> Vision to support growth 0.8640479445457458
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport --[Has]-> Vision to create efficient transport system 0.8632935881614685
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport --[Plays]-> Crucial role 0.8611616492271423
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport --[Invested in]-> Development of new train routes 0.8604145646095276
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Growing emphasis on sustainable transport solutions 0.8931872844696045
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Sustainable transport initiatives 0.8891233205795288
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Developing rail network 0.8865755796432495
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Transport system sustainability 0.8829864263534546
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Trend towards more integrated and environmentally friendly transport solutions 0.8813608884811401
+[Growing emphasis on sustainable transport solutions]: Wellington regional rail plan --[Developed in response to]-> Need for sustainable transport solutions 0.8810948133468628
+[Growing emphasis on sustainable transport solutions]: Auckland --[Has]-> Expanded rail services 0.87994384765625
+[New zealand's commitment to sustainable transport]: Vehicle emissions regulations --[Reflect]-> New zealand's commitment to sustainable transport 0.8454888463020325
+[New zealand's commitment to sustainable transport]: Vehicle emissions regulations --[Are]-> Critical component of new zealand's environmental policy 0.8338963389396667
+[New zealand's commitment to sustainable transport]: Vehicle emissions regulations --[Reflect]-> New zealand's commitment to environmental stewardship 0.8209764361381531
+[New zealand's commitment to sustainable transport]: Vehicle emissions regulations --[Aim]-> Mitigate impacts of climate change 0.7760785222053528
+[New zealand's commitment to sustainable transport]: Vehicle emissions regulations --[Shaped by]-> National legislation 0.7759274244308472
+[New zealand's commitment to sustainable transport]: Vehicle emissions regulations --[Shaped by]-> International agreements 0.7562716603279114
+[New zealand's commitment to sustainable transport]: Vehicle emissions regulations --[Govern]-> Allowable levels of pollutants 0.751075267791748
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Aims to]-> Enhance resilience and adaptability of new zealand's transport network 0.8578387498855591
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Plays]-> Significant role in shaping transport infrastructure and policy in new zealand 0.8473653793334961
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Collaborates with]-> New zealand transport agency (nzta 0.8116854429244995
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Is]-> Collective of australian and new zealand road transport and traffic agencies 0.7834042906761169
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Conducts]-> Extensive research and development projects 0.7607899904251099
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Founded in]-> 1990 0.7472129464149475
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Engages in]-> International collaborations to align initiatives with global best practices 0.74364173412323

@@ -1,0 +1,36 @@
+What legislation established the source of funding for road maintenance strategies in New Zealand, which is derived from fuel excise duties and road user charges?
+None
+Seed: Primarily financed through fuel excise duties
+Seed: Funding maintenance and development of roads
+Seed: Fuel excise duties
+Seed: Legislative framework for road safety initiatives
+[Primarily financed through fuel excise duties]: National land transport fund --[Is]-> Primarily financed through fuel excise duties 0.8661221265792847
+[Primarily financed through fuel excise duties]: National land transport fund --[Is]-> Key financial mechanism 0.8118752837181091
+[Primarily financed through fuel excise duties]: National land transport fund --[Plays crucial role in]-> Ensuring transport infrastructure meets needs of growing population and economy 0.8080506324768066
+[Primarily financed through fuel excise duties]: National land transport fund --[Established under]-> Land transport management act 2003 0.8147459030151367
+[Primarily financed through fuel excise duties]: Land transport management act 2003 --[Aims to]-> Provide framework for sustainable development 0.7949228882789612
+[Primarily financed through fuel excise duties]: Land transport management act 2003 --[Provides for]-> Establishment of national land transport fund 0.8035871386528015
+[Primarily financed through fuel excise duties]: Land transport management act 2003 --[Enacted on]-> 1 july 2004 0.8073768615722656
+[Primarily financed through fuel excise duties]: Land transport management act 2003 --[Is]-> Key piece of legislation 0.8248935341835022
+[Primarily financed through fuel excise duties]: Health and safety at work act 2015 --[Is]-> Key piece of legislation 0.7944871187210083
+[Primarily financed through fuel excise duties]: Health and safety at work act 2015 --[Emphasizes]-> Importance of proactive risk management 0.7715034484863281
+[Primarily financed through fuel excise duties]: Health and safety at work act 2015 --[Introduced]-> Robust approach to workplace safety 0.759453296661377
+[Primarily financed through fuel excise duties]: Health and safety at work act 2015 --[Applies to]-> Road transport 0.8184282779693604
+[Primarily financed through fuel excise duties]: Road transport --[Uses]-> Gps for navigation and route optimization 0.7735257744789124
+[Primarily financed through fuel excise duties]: Kiwirail group --[Committed to]-> Road transport 0.8106918334960938
+[Primarily financed through fuel excise duties]: Ministry of transport --[Oversees]-> Road transport 0.8158100843429565
+[Primarily financed through fuel excise duties]: Wellington --[Has]-> Road transport 0.829397439956665
+[Primarily financed through fuel excise duties]: Kiwirail --[Collaborates with]-> Road transport 0.8181835412979126
+[Primarily financed through fuel excise duties]: Road transport --[Accounts for]-> Majority of passenger and freight movement 0.7920855283737183
+[Primarily financed through fuel excise duties]: Fleet management --[Significant reliance on]-> Road transport 0.8108670115470886
+[Primarily financed through fuel excise duties]: Road transport --[Is]-> Most widely used mode of transport in new zealand 0.8447867631912231
+[Primarily financed through fuel excise duties]: Road transport --[Accounts for]-> Significant portion of passenger and freight movement 0.7984580993652344
+[Primarily financed through fuel excise duties]: Road transport --[Accounts for]-> Majority of passenger and freight movements 0.7933987975120544
+[Primarily financed through fuel excise duties]: Road transport --[Characterized by]-> Scenic routes 0.7976472973823547
+[Primarily financed through fuel excise duties]: Road transport --[Focus on]-> Improving road safety and reducing congestion in urban areas 0.7975082993507385
+[Primarily financed through fuel excise duties]: Road transport --[Boasts]-> Extensive network of roads 0.7890332937240601
+[Primarily financed through fuel excise duties]: Road transport --[Predominant mode of]-> Land transport in new zealand 0.8475878834724426
+[Primarily financed through fuel excise duties]: Road transport --[Attracts]-> Domestic and international tourists 0.7699196338653564
+[Primarily financed through fuel excise duties]: Road transport --[Accounts for]-> 90% of all freight movements 0.773269534111023
+[Primarily financed through fuel excise duties]: New zealand --[Has]-> Road transport 0.8557311296463013
+[Primarily financed through fuel excise duties]: Health and safety at work act 2015 --[Emphasizes]-> Importance of risk management 0.7632148265838623

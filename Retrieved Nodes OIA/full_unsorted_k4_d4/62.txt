@@ -1,0 +1,36 @@
+What is required for obtaining an I endorsement, and how are criminal convictions considered during the process?
+None
+Seed: information related to criminal convictions of driving instructor (I) endorsement holders
+Seed: criminal convictions
+Seed: applications for I endorsements
+Seed: Applicant 7
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Michael Morrah --[REQUESTS]-> information related to criminal convictions of driving instructor (I) endorsement holders 0.8631559610366821
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Michael Morrah --[SUBMITTED]-> request for information 0.7815238833427429
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[RESPONDS]-> request for information 0.7621119022369385
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7415778636932373
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7347927093505859
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7387555837631226
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7300931215286255
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7265007495880127
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7472937107086182
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7597595453262329
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7400219440460205
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.752901554107666
+[information related to criminal convictions of driving instructor (I) endorsement holders]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7849898338317871
+[information related to criminal convictions of driving instructor (I) endorsement holders]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7509853839874268
+[information related to criminal convictions of driving instructor (I) endorsement holders]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7613046169281006
+[information related to criminal convictions of driving instructor (I) endorsement holders]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7676835060119629
+[information related to criminal convictions of driving instructor (I) endorsement holders]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.766165018081665
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7707931995391846
+[information related to criminal convictions of driving instructor (I) endorsement holders]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.775873601436615
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7516652345657349
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.755950391292572
+[information related to criminal convictions of driving instructor (I) endorsement holders]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7668003439903259
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7440546751022339
+[information related to criminal convictions of driving instructor (I) endorsement holders]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7758774161338806
+[information related to criminal convictions of driving instructor (I) endorsement holders]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7743129134178162
+[information related to criminal convictions of driving instructor (I) endorsement holders]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7741594910621643
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7462747097015381
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7520497441291809
+[information related to criminal convictions of driving instructor (I) endorsement holders]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7790669202804565
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7581179141998291

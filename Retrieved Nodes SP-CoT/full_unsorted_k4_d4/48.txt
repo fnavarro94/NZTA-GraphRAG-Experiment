@@ -1,0 +1,36 @@
+What type of fixed-wing aircraft is used by the organization in New Zealand that operates a fleet of helicopters and fixed-wing aircraft to provide rapid transport for critically ill patients to specialized care facilities?
+None
+Seed: Fleet of helicopters and fixed-wing aircraft
+Seed: Diverse fleet of aircraft
+Seed: Modern fleet of aircraft
+Seed: Rapid response and advanced medical care
+[Fleet of helicopters and fixed-wing aircraft]: New zealand air ambulance service --[Operates]-> Fleet of helicopters and fixed-wing aircraft 0.9247332811355591
+[Fleet of helicopters and fixed-wing aircraft]: New zealand air ambulance service --[Utilizes]-> Diverse fleet of aircraft 0.8999338150024414
+[Fleet of helicopters and fixed-wing aircraft]: New zealand air ambulance service --[Works]-> Collaboration with new zealand ministry of health and local health authorities 0.839698314666748
+[Fleet of helicopters and fixed-wing aircraft]: New zealand air ambulance service --[Relies]-> Community support and fundraising efforts 0.8444730639457703
+[Fleet of helicopters and fixed-wing aircraft]: New zealand air ambulance service --[Established]-> Late 20th century 0.8599321246147156
+[Fleet of helicopters and fixed-wing aircraft]: Traffic safety audits --[Emerged]-> Late 20th century 0.7224918603897095
+[Fleet of helicopters and fixed-wing aircraft]: Traffic safety audits --[Assess]-> Safety 0.7129383087158203
+[Fleet of helicopters and fixed-wing aircraft]: Traffic safety audits --[Ensure]-> Meet established safety standards 0.7149858474731445
+[Fleet of helicopters and fixed-wing aircraft]: Traffic safety audits --[Are]-> Evaluations 0.7081034183502197
+[Fleet of helicopters and fixed-wing aircraft]: Traffic safety audits --[Proactive]-> Approach 0.7363318800926208
+[Fleet of helicopters and fixed-wing aircraft]: Traffic safety audits --[Align]-> New zealand road safety strategy 0.7732950448989868
+[Fleet of helicopters and fixed-wing aircraft]: Traffic safety audits --[Conducted]-> Various stages 0.7247335314750671
+[Fleet of helicopters and fixed-wing aircraft]: Traffic safety audits --[Play]-> Crucial role 0.7222473621368408
+[Fleet of helicopters and fixed-wing aircraft]: Traffic safety audits --[Recommend]-> Improvements 0.709443211555481
+[Fleet of helicopters and fixed-wing aircraft]: Traffic safety audits --[Aim]-> Identify potential safety issues 0.7090010643005371
+[Fleet of helicopters and fixed-wing aircraft]: New zealand air ambulance service --[Faces]-> Funding constraints and need for ongoing training and equipment upgrades 0.8368901014328003
+[Fleet of helicopters and fixed-wing aircraft]: New zealand air ambulance service --[Provides]-> Rapid response and advanced medical care 0.8751427531242371
+[Fleet of helicopters and fixed-wing aircraft]: New zealand air ambulance service --[Focuses]-> Improving response times and integrating new technologies 0.8421763181686401
+[Fleet of helicopters and fixed-wing aircraft]: New zealand air ambulance service --[Plays]-> Vital role in broader transport network of new zealand 0.8663311004638672
+[Fleet of helicopters and fixed-wing aircraft]: New zealand air ambulance service --[Is]-> Critical component of emergency medical transport system 0.8788267374038696
+[Diverse fleet of aircraft]: New zealand air ambulance service --[Utilizes]-> Diverse fleet of aircraft 0.8999338150024414
+[Diverse fleet of aircraft]: New zealand air ambulance service --[Operates]-> Fleet of helicopters and fixed-wing aircraft 0.9247332811355591
+[Diverse fleet of aircraft]: New zealand air ambulance service --[Works]-> Collaboration with new zealand ministry of health and local health authorities 0.839698314666748
+[Diverse fleet of aircraft]: New zealand air ambulance service --[Relies]-> Community support and fundraising efforts 0.8444730639457703
+[Diverse fleet of aircraft]: New zealand air ambulance service --[Established]-> Late 20th century 0.8599321246147156
+[Diverse fleet of aircraft]: Traffic safety audits --[Emerged]-> Late 20th century 0.7224918603897095
+[Diverse fleet of aircraft]: Traffic safety audits --[Assess]-> Safety 0.7129383087158203
+[Diverse fleet of aircraft]: Traffic safety audits --[Ensure]-> Meet established safety standards 0.7149858474731445
+[Diverse fleet of aircraft]: Traffic safety audits --[Are]-> Evaluations 0.7081034183502197
+[Diverse fleet of aircraft]: Traffic safety audits --[Proactive]-> Approach 0.7363318800926208

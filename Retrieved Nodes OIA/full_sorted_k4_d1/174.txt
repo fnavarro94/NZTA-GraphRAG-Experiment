@@ -1,0 +1,23 @@
+How is Waka Kotahi addressing the delays in the Transmission Gully project due to COVID-19?
+None
+Seed: Waka Kotahi N Z Transport Agency
+Seed: NZ Transport Agency Waka Kotahi
+Seed: Waka Kotahi NZ Transport Agency
+Seed: Waka Kotahi Senior Project Manager
+[Waka Kotahi N Z Transport Agency]: Data --[PROVIDED]-> Waka Kotahi N Z Transport Agency 0.8573129177093506
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINS]-> Waka Kotahi N Z Transport Agency 0.8150491714477539
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[BASED_ON]-> investigations, construction findings, on-site progress, design updates, design assumptions 0.8716537952423096
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[RESPOND]-> oia-15599-response-letter-23-july-2024.pdf 0.8685966730117798
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[ASSOCIATED_WITH]-> oia-15599-response-letter-23-july-2024.pdf 0.8674798011779785
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8642706871032715
+[NZ Transport Agency Waka Kotahi]: response letter --[ASSOCIATED_WITH]-> NZ Transport Agency Waka Kotahi 0.8633710145950317
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[PUBLISHES]-> response letter 0.8627824783325195
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[CONTACT]-> official.correspondence@nzta.govt.nz 0.8611003160476685
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.8660276532173157
+[Waka Kotahi NZ Transport Agency]: Robyn Elston --[RESPONDS]-> Waka Kotahi NZ Transport Agency 0.8617425560951233
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.8604460954666138
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PROACTIVELY_RELEASED]-> s 9(2)(a) 0.8588688373565674
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[RESPONDS]-> Matt Slaughter 0.8583394289016724
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[COLLABORATES_WITH]-> Tauranga City Council 0.857816219329834
+[Waka Kotahi NZ Transport Agency]: s 9(2)(a) --[PROACTIVELY_RELEASED]-> Waka Kotahi NZ Transport Agency 0.8534795045852661
+[Waka Kotahi Senior Project Manager]: Waka Kotahi Senior Project Manager --[MANAGES]-> State Highway 25A Rebuild Project 0.8435410261154175

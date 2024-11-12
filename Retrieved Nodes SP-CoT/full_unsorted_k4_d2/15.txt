@@ -1,0 +1,36 @@
+What is the minimum age requirement for obtaining a driver license in New Zealand, which is the first stage of the driver licensing process and can be obtained at the age of 16?
+None
+Seed: Age of 16
+Seed: Provisional driving license
+Seed: Legal framework for licensing of drivers
+Seed: Full valid driver's license
+[Age of 16]: Learner license --[Obtained at]-> Age of 16 0.8774173855781555
+[Age of 16]: Learner license --[Aims]-> Reduce risk of accidents 0.8029466271400452
+[Age of 16]: Learner license --[Promotes]-> Responsible driving habits 0.80977463722229
+[Age of 16]: Learner license --[Valid]-> Five years 0.8172269463539124
+[Age of 16]: Learner license --[Importance]-> Road safety 0.8245092630386353
+[Age of 16]: Learner license --[Requires]-> Specific conditions 0.8056930303573608
+[Age of 16]: Learner license --[Issued in]-> New zealand 0.8825306296348572
+[Age of 16]: Learner license --[Progression]-> Restricted license 0.813692569732666
+[Age of 16]: Learner license --[Stepping stone]-> New drivers 0.8432332873344421
+[Age of 16]: Learner license --[Allows]-> Operate motor vehicle 0.8245759606361389
+[Age of 16]: Learner license --[Is]-> Provisional driving license 0.8424267768859863
+[Age of 16]: Learner license --[Critical component]-> New zealand's approach 0.8314651846885681
+[Age of 16]: Learner license --[Eligibility]-> At least 16 years old 0.8725294470787048
+[Age of 16]: Learner license --[Holder]-> Adhere to restrictions 0.8002263307571411
+[Age of 16]: Learner license --[Application process]-> Pass theory test 0.8092943429946899
+[Age of 16]: Learner license --[Aims]-> Improve driving competence 0.8244209289550781
+[Age of 16]: Learner license --[Holder]-> Drive accompanied by supervisor 0.7968329191207886
+[Age of 16]: Learner license --[First stage]-> Graduated licensing system 0.835223913192749
+[Age of 16]: Learner license --[Enhances]-> Road safety 0.8064196109771729
+[Age of 16]: Learner license --[Allows]-> Drive under certain conditions 0.8325039744377136
+[Age of 16]: Learner license --[Requires]-> Theory test 0.7967996597290039
+[Provisional driving license]: Learner license --[Is]-> Provisional driving license 0.8424267768859863
+[Provisional driving license]: Learner license --[Aims]-> Reduce risk of accidents 0.8029466271400452
+[Provisional driving license]: Learner license --[Promotes]-> Responsible driving habits 0.80977463722229
+[Provisional driving license]: Learner license --[Valid]-> Five years 0.8172269463539124
+[Provisional driving license]: Learner license --[Importance]-> Road safety 0.8245092630386353
+[Provisional driving license]: Learner license --[Requires]-> Specific conditions 0.8056930303573608
+[Provisional driving license]: Learner license --[Issued in]-> New zealand 0.8825306296348572
+[Provisional driving license]: Learner license --[Progression]-> Restricted license 0.813692569732666
+[Provisional driving license]: Learner license --[Stepping stone]-> New drivers 0.8432332873344421

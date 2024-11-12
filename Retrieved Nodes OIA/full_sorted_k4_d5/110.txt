@@ -1,0 +1,34 @@
+Who should be contacted to discuss the SH2 Hebden Crescent / Liverton Road intersection project?
+None
+Seed: Request for information on Hornby Intersection improvements
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: one crossing near SH2/Lyon Street/Birdwood Street intersection
+Seed: request to Minister of Transport
+[Request for information on Hornby Intersection improvements]: Minister of Transport --[DISCUSS]-> project 0.857932448387146
+[Request for information on Hornby Intersection improvements]: Discuss this reply with the NZ Transport Agency --[IS]-> Contact Andrew Knackstedt 0.8559820652008057
+[Request for information on Hornby Intersection improvements]: Request for information on Hornby Intersection improvements --[REQUESTS]-> New Zealand Transport Agency 0.8545761108398438
+[Request for information on Hornby Intersection improvements]: N Z Transport Agency --[DISCUSS]-> darryl.walker@nzta.govt.nz 0.8507086038589478
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[RESPONDS_TO]-> Request for information on Hornby Intersection improvements 0.8491339683532715
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[CONTACT]-> Andy Knackstedt 0.8426464796066284
+[Request for information on Hornby Intersection improvements]: Transport Agency --[CONTACT]-> Andrew Knackstedt 0.8394509553909302
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Discuss this reply with the NZ Transport Agency --[IS]-> Contact Andrew Knackstedt 0.8559820652008057
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request for information on Hornby Intersection improvements --[REQUESTS]-> New Zealand Transport Agency 0.8545761108398438
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[RESPONDS_TO]-> Request for information on Hornby Intersection improvements 0.8491339683532715
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[CONTACT]-> Andy Knackstedt 0.8426464796066284
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Transport Agency --[CONTACT]-> Andrew Knackstedt 0.8394509553909302
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: questions and responses --[FROM]-> NZ Transport Agency 0.8394150137901306
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Letter --[DISCUSS]-> NZ Transport Agency 0.8392812013626099
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: Request for information on Hornby Intersection improvements --[REQUESTS]-> New Zealand Transport Agency 0.8545761108398438
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: New Zealand Transport Agency --[RESPONDS_TO]-> Request for information on Hornby Intersection improvements 0.8491339683532715
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: New Zealand Transport Agency --[CONTACT]-> Andy Knackstedt 0.8426464796066284
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: Transport Agency --[CONTACT]-> Andrew Knackstedt 0.8394509553909302
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: questions and responses --[FROM]-> NZ Transport Agency 0.8394150137901306
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: Letter --[DISCUSS]-> NZ Transport Agency 0.8392812013626099
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: Kevin Reid --[CONTACT]-> Fergus.Tate@nzta.govt.nz 0.8390584588050842
+[request to Minister of Transport]: Request for information on Hornby Intersection improvements --[REQUESTS]-> New Zealand Transport Agency 0.8545761108398438
+[request to Minister of Transport]: New Zealand Transport Agency --[RESPONDS_TO]-> Request for information on Hornby Intersection improvements 0.8491339683532715
+[request to Minister of Transport]: New Zealand Transport Agency --[CONTACT]-> Andy Knackstedt 0.8426464796066284
+[request to Minister of Transport]: Transport Agency --[CONTACT]-> Andrew Knackstedt 0.8394509553909302
+[request to Minister of Transport]: questions and responses --[FROM]-> NZ Transport Agency 0.8394150137901306
+[request to Minister of Transport]: Letter --[DISCUSS]-> NZ Transport Agency 0.8392812013626099
+[request to Minister of Transport]: Kevin Reid --[CONTACT]-> Fergus.Tate@nzta.govt.nz 0.8390584588050842

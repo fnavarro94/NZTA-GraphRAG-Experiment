@@ -1,0 +1,36 @@
+What is the target year set by the government for achieving 100% of the light vehicle fleet being zero-emission as part of their initiatives focused on evaluating the economic implications of transport systems and policies in New Zealand?
+None
+Seed: 100% of light vehicle fleet being zero-emission by 2035
+Seed: New zealand's commitment to sustainable transport
+Seed: Target for net-zero emissions by 2050
+Seed: Achieving net-zero emissions by 2050
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Goal]-> 100% of light vehicle fleet being zero-emission by 2035 0.936819851398468
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand road safety strategy --[Established by]-> New zealand government 0.8533427715301514
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand road safety strategy --[Improves]-> Overall safety of the transport system 0.8442195653915405
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand road safety strategy --[Promotes]-> Responsible driving behaviors 0.8179789781570435
+[100% of light vehicle fleet being zero-emission by 2035]: Road safety education --[Promotes]-> Responsible driving behaviors 0.7550308108329773
+[100% of light vehicle fleet being zero-emission by 2035]: Road user education programs --[Promote]-> Responsible driving behaviors 0.7541344165802002
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand road safety strategy --[Aims to]-> Enhance road safety 0.8332619667053223
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand traffic control devices manual --[Aims to]-> Enhance road safety 0.8033043146133423
+[100% of light vehicle fleet being zero-emission by 2035]: Speed management guide --[Aims to]-> Enhance road safety 0.7671569585800171
+[100% of light vehicle fleet being zero-emission by 2035]: Road user education programs --[Designed to]-> Enhance road safety 0.7486788034439087
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand road safety strategy --[Outlines]-> Initiatives and policies 0.844752848148346
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand road safety strategy --[Designed to]-> Create safer transport environment for all road users 0.8525277376174927
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand road safety strategy --[Aimed at]-> Reducing road traffic injuries and fatalities 0.8360051512718201
+[100% of light vehicle fleet being zero-emission by 2035]: Road safety strategy --[Aimed at]-> Reducing road traffic injuries and fatalities 0.7903358340263367
+[100% of light vehicle fleet being zero-emission by 2035]: Road safety education --[Aimed at]-> Reducing road traffic injuries and fatalities 0.7636526823043823
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand road safety strategy --[Outlines]-> Series of initiatives and policies 0.8410301804542542
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand road safety strategy --[Established in response to]-> Growing concerns over road safety 0.8420498967170715
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand road safety strategy --[Is]-> Comprehensive framework 0.8239257335662842
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand transport strategy --[Is]-> Comprehensive framework 0.8640835881233215
+[100% of light vehicle fleet being zero-emission by 2035]: Transport skills strategy --[Is]-> Comprehensive framework 0.7941704392433167
+[100% of light vehicle fleet being zero-emission by 2035]: Speed management guide --[Is]-> Comprehensive framework 0.7518525123596191
+[100% of light vehicle fleet being zero-emission by 2035]: Road safety strategy --[Is]-> Comprehensive framework 0.7784813642501831
+[100% of light vehicle fleet being zero-emission by 2035]: Road traffic legislation --[Is]-> Comprehensive framework 0.7733923196792603
+[100% of light vehicle fleet being zero-emission by 2035]: Traffic safety audits --[Align]-> New zealand road safety strategy 0.811292827129364
+[100% of light vehicle fleet being zero-emission by 2035]: Traffic safety audits --[Assess]-> Safety 0.7525599598884583
+[100% of light vehicle fleet being zero-emission by 2035]: Traffic safety audits --[Ensure]-> Meet established safety standards 0.7328957915306091
+[100% of light vehicle fleet being zero-emission by 2035]: Traffic safety audits --[Are]-> Evaluations 0.7556015253067017
+[100% of light vehicle fleet being zero-emission by 2035]: Traffic safety audits --[Proactive]-> Approach 0.7644919157028198
+[100% of light vehicle fleet being zero-emission by 2035]: Traffic safety audits --[Conducted]-> Various stages 0.7655795812606812
+[100% of light vehicle fleet being zero-emission by 2035]: Traffic safety audits --[Play]-> Crucial role 0.7630189657211304

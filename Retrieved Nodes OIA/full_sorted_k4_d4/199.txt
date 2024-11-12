@@ -1,0 +1,34 @@
+How did the number of direct reports to the NZTA Chief Executive change from 2014 to 2016?
+None
+Seed: Annual Reports
+Seed: Annual Monitoring Report 2020
+Seed: resignations by year since 2014
+Seed: Chief Financial Officer
+[Annual Reports]: quarterly reports --[AUDITED]-> NZTA 0.8740513920783997
+[Annual Reports]: www.nzta.govt.nz --[OFFICIAL_INFORMATION]-> 16 August 2021 0.8676599860191345
+[Annual Reports]: NZTA --[PAID]-> $65 million 0.8605382442474365
+[Annual Reports]: New Zealand Transport Agency --[PROVIDES]-> resignations by year since 2014 0.8596545457839966
+[Annual Reports]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.8503172397613525
+[Annual Reports]: New Zealand Transport Agency --[PROVIDES]-> financial figures 0.8501125574111938
+[Annual Reports]: questions and responses --[FROM]-> NZ Transport Agency 0.8487764000892639
+[Annual Monitoring Report 2020]: www.nzta.govt.nz --[OFFICIAL_INFORMATION]-> 16 August 2021 0.8676599860191345
+[Annual Monitoring Report 2020]: New Zealand Transport Agency --[PROVIDES]-> resignations by year since 2014 0.8596545457839966
+[Annual Monitoring Report 2020]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.8503172397613525
+[Annual Monitoring Report 2020]: New Zealand Transport Agency --[PROVIDES]-> financial figures 0.8501125574111938
+[Annual Monitoring Report 2020]: questions and responses --[FROM]-> NZ Transport Agency 0.8487764000892639
+[Annual Monitoring Report 2020]: NZTA Website --[OPERATED_BY]-> New Zealand Transport Agency 0.8479703664779663
+[Annual Monitoring Report 2020]: Chief Executive --[EMPLOYER]-> New Zealand Transport Agency 0.8468502759933472
+[resignations by year since 2014]: quarterly reports --[AUDITED]-> NZTA 0.8740513920783997
+[resignations by year since 2014]: www.nzta.govt.nz --[OFFICIAL_INFORMATION]-> 16 August 2021 0.8676599860191345
+[resignations by year since 2014]: NZTA --[PAID]-> $65 million 0.8605382442474365
+[resignations by year since 2014]: New Zealand Transport Agency --[PROVIDES]-> resignations by year since 2014 0.8596545457839966
+[resignations by year since 2014]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.8503172397613525
+[resignations by year since 2014]: New Zealand Transport Agency --[PROVIDES]-> financial figures 0.8501125574111938
+[resignations by year since 2014]: questions and responses --[FROM]-> NZ Transport Agency 0.8487764000892639
+[Chief Financial Officer]: New Zealand Transport Agency --[PROVIDES]-> resignations by year since 2014 0.8596545457839966
+[Chief Financial Officer]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.8503172397613525
+[Chief Financial Officer]: New Zealand Transport Agency --[PROVIDES]-> financial figures 0.8501125574111938
+[Chief Financial Officer]: NZTA Website --[OPERATED_BY]-> New Zealand Transport Agency 0.8479703664779663
+[Chief Financial Officer]: Chief Executive --[EMPLOYER]-> New Zealand Transport Agency 0.8468502759933472
+[Chief Financial Officer]: New Zealand Transport Agency --[FOLLOWS]-> NZTA policy 0.8443841934204102
+[Chief Financial Officer]: New Zealand Transport Agency --[PROVIDES]-> financial information 0.8438114523887634

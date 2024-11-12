@@ -1,0 +1,36 @@
+How did NZ Bus Limited respond to the faults identified in the inspection of Go Wellington buses?
+None
+Seed: reports on converting the shoulder of Auckland Motorway into Bus Lanes
+Seed: report on the impacts of the Fare Recovery Ratio
+Seed: Investigating transport companies
+Seed: investigating transport companies
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Zachary Wong --[REQUESTED]-> reports on converting the shoulder of Auckland Motorway into Bus Lanes 0.8497121930122375
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Zachary Wong --[EMAIL]-> fyi-request-9242-f4aad453@requests.fyi.org.nz 0.792783260345459
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: reports on converting the shoulder of Auckland Motorway into Bus Lanes --[PROVIDED]-> Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf 0.8280823230743408
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf --[APPENDIX]-> Appendices A to E 0.8238602876663208
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[PRODUCES]-> report on the impacts of the Fare Recovery Ratio 0.8566558361053467
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8604705333709717
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[BASED]-> Wellington 0.8762903213500977
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8399034142494202
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.8379162549972534
+[report on the impacts of the Fare Recovery Ratio]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.8014546632766724
+[report on the impacts of the Fare Recovery Ratio]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.8001265525817871
+[report on the impacts of the Fare Recovery Ratio]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.8035736680030823
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.8243539333343506
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.8319610953330994
+[report on the impacts of the Fare Recovery Ratio]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.8002941608428955
+[report on the impacts of the Fare Recovery Ratio]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7953016757965088
+[report on the impacts of the Fare Recovery Ratio]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7936413288116455
+[report on the impacts of the Fare Recovery Ratio]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7277074456214905
+[report on the impacts of the Fare Recovery Ratio]: Wellington --[CONTAINS]-> Private Bag 6995 0.8037969470024109
+[report on the impacts of the Fare Recovery Ratio]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8386726379394531
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8401256799697876
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.8326171636581421
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.81702721118927
+[report on the impacts of the Fare Recovery Ratio]: 50 Victoria Street --[IN]-> Wellington 0.7983444929122925
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.8283024430274963
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[LOCATED]-> 50 Victoria Street 0.837596595287323
+[report on the impacts of the Fare Recovery Ratio]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.8038097023963928
+[report on the impacts of the Fare Recovery Ratio]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.8000137805938721
+[report on the impacts of the Fare Recovery Ratio]: Wellington --[CONTAINS]-> 50 Victoria Street 0.8053243160247803
+[report on the impacts of the Fare Recovery Ratio]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7927789092063904

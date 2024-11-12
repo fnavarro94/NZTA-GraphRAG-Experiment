@@ -1,0 +1,10 @@
+What organization emerged from the country known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, and is responsible for the term that describes the regular activities performed to keep roads safe and functional, including vegetation control, litter removal, and drainage maintenance, during its establishment in 2008?
+None
+Seed: Crucial role in promoting road safety
+Seed: Critical component of new zealand's transport strategy
+Seed: Growing emphasis on sustainable transport solutions
+Seed: Framework for implementing road safety campaigns and initiatives
+[Crucial role in promoting road safety]: Education and awareness programs --[Play]-> Crucial role in promoting road safety 0.8233276605606079
+[Critical component of new zealand's transport strategy]: Road safety education --[Is]-> Critical component of new zealand's transport strategy 0.8233523368835449
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Growing emphasis on sustainable transport solutions 0.8011851906776428
+[Framework for implementing road safety campaigns and initiatives]: Land transport act --[Provides]-> Framework for implementing road safety campaigns and initiatives 0.8240242600440979

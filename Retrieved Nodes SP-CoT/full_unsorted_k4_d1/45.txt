@@ -1,0 +1,10 @@
+In what year did the organization that has focused on enhancing its bus rapid transit system to provide faster and more reliable public transport services become established?
+None
+Seed: Enhancing public transport systems
+Seed: Promoting public transport initiatives
+Seed: Renewed focus on public transport in recent decades
+Seed: Broader strategy to promote public transport as a viable alternative to private vehicle use
+[Enhancing public transport systems]: New zealand --[Prioritizes]-> Enhancing public transport systems 0.8289991617202759
+[Promoting public transport initiatives]: New zealand transport agency --[Is responsible for]-> Promoting public transport initiatives 0.8374068737030029
+[Renewed focus on public transport in recent decades]: Public transport systems --[Prompted]-> Renewed focus on public transport in recent decades 0.8662749528884888
+[Broader strategy to promote public transport as a viable alternative to private vehicle use]: Integrated ticketing system --[Part of]-> Broader strategy to promote public transport as a viable alternative to private vehicle use 0.8492244482040405

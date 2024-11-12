@@ -1,0 +1,34 @@
+In what year did the organization that provides free emergency medical services to residents in the Wellington region first establish its services in New Zealand?
+None
+Seed: First free ambulance service
+Seed: Healthcare providers
+Seed: Emergency medical services
+Seed: Delivering high-quality pre-hospital care
+[First free ambulance service]: Wellington free ambulance --[Provides]-> Emergency medical services 0.9131776094436646
+[First free ambulance service]: Wellington free ambulance --[Operates in]-> Wellington region 0.9128578901290894
+[First free ambulance service]: Wellington free ambulance --[Is]-> First free ambulance service 0.9068116545677185
+[First free ambulance service]: Wellington free ambulance --[Serves]-> Wellington region 0.906795084476471
+[First free ambulance service]: Wellington free ambulance --[Established in]-> 1927 0.8960773944854736
+[First free ambulance service]: Wellington free ambulance --[Collaborates with]-> Other emergency services 0.8958510160446167
+[First free ambulance service]: Wellington free ambulance --[Collaborates with]-> Healthcare providers 0.8935640454292297
+[Healthcare providers]: Wellington free ambulance --[Provides]-> Emergency medical services 0.9131776094436646
+[Healthcare providers]: Wellington free ambulance --[Operates in]-> Wellington region 0.9128578901290894
+[Healthcare providers]: Wellington free ambulance --[Is]-> First free ambulance service 0.9068116545677185
+[Healthcare providers]: Wellington free ambulance --[Serves]-> Wellington region 0.906795084476471
+[Healthcare providers]: Wellington free ambulance --[Established in]-> 1927 0.8960773944854736
+[Healthcare providers]: Wellington free ambulance --[Collaborates with]-> Other emergency services 0.8958510160446167
+[Healthcare providers]: Wellington free ambulance --[Collaborates with]-> Healthcare providers 0.8935640454292297
+[Emergency medical services]: Wellington free ambulance --[Provides]-> Emergency medical services 0.9131776094436646
+[Emergency medical services]: Wellington free ambulance --[Operates in]-> Wellington region 0.9128578901290894
+[Emergency medical services]: Wellington free ambulance --[Is]-> First free ambulance service 0.9068116545677185
+[Emergency medical services]: Wellington free ambulance --[Serves]-> Wellington region 0.906795084476471
+[Emergency medical services]: Wellington free ambulance --[Established in]-> 1927 0.8960773944854736
+[Emergency medical services]: Wellington free ambulance --[Collaborates with]-> Other emergency services 0.8958510160446167
+[Emergency medical services]: Wellington free ambulance --[Collaborates with]-> Healthcare providers 0.8935640454292297
+[Delivering high-quality pre-hospital care]: Wellington free ambulance --[Provides]-> Emergency medical services 0.9131776094436646
+[Delivering high-quality pre-hospital care]: Wellington free ambulance --[Operates in]-> Wellington region 0.9128578901290894
+[Delivering high-quality pre-hospital care]: Wellington free ambulance --[Is]-> First free ambulance service 0.9068116545677185
+[Delivering high-quality pre-hospital care]: Wellington free ambulance --[Serves]-> Wellington region 0.906795084476471
+[Delivering high-quality pre-hospital care]: Wellington free ambulance --[Established in]-> 1927 0.8960773944854736
+[Delivering high-quality pre-hospital care]: Wellington free ambulance --[Collaborates with]-> Other emergency services 0.8958510160446167
+[Delivering high-quality pre-hospital care]: Wellington free ambulance --[Collaborates with]-> Healthcare providers 0.8935640454292297

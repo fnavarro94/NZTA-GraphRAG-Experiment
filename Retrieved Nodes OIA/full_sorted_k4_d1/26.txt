@@ -1,0 +1,21 @@
+Where can information about the average length of time taken to respond to OIA requests be found?
+None
+Seed: deadline for responding to request
+Seed: response to OIA request
+Seed: Request made under the Official Information Act 1982
+Seed: Request for Information
+[deadline for responding to request]: New Zealand Transport Agency --[EXTENDS]-> deadline for responding to request 0.8230007886886597
+[response to OIA request]: response to OIA request --[PROVIDES]-> information requested 0.8843493461608887
+[response to OIA request]: New Zealand Transport Agency --[PROVIDES]-> response to OIA request 0.8585140705108643
+[response to OIA request]: oia-9194-response.pdf --[CONTAINS]-> response to OIA request 0.8492631912231445
+[Request made under the Official Information Act 1982]: REF: OIA -13915 --[ASSOCIATED_WITH]-> Request made under the Official Information Act 1982 0.86913001537323
+[Request made under the Official Information Act 1982]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.8662508130073547
+[Request made under the Official Information Act 1982]: Request made under the Official Information Act 1982 --[REQUEST_DATE]-> 30 October 2018 0.8489713072776794
+[Request made under the Official Information Act 1982]: Dear --[OFFICIAL_INFORMATION]-> Request made under the Official Information Act 1982 0.8415657877922058
+[Request made under the Official Information Act 1982]: New Zealand Transport Agency --[RESPONDS_TO]-> Request made under the Official Information Act 1982 0.8396487236022949
+[Request made under the Official Information Act 1982]: Request made under the Official Information Act 1982 --[ASSOCIATED_WITH]-> information under the Official Information Act 1982 0.8383722305297852
+[Request made under the Official Information Act 1982]: New Zealand Transport Agency --[RESPONDS]-> Request made under the Official Information Act 1982 0.8370867371559143
+[Request for Information]: New Zealand Transport Agency --[RESPONDED]-> Request for Information 0.8393378257751465
+[Request for Information]: Request for Information --[REQUESTS]-> Complaint Data 0.8362391591072083
+[Request for Information]: Antoinette Spicer --[SUBMITTED]-> Request for Information 0.8250135183334351
+[Request for Information]: Request for Information --[REQUESTS]-> Warning Letters 0.8039490580558777

@@ -1,0 +1,36 @@
+Who developed the software that is one of the commonly used traffic simulation models in New Zealand for visualizing traffic patterns and assessing the impact of new developments, used in New Zealand for transport planning?
+None
+Seed: Analyze and predict traffic flow
+Seed: Road traffic simulation models
+Seed: Modeling and analyzing complex traffic scenarios
+Seed: Traffic simulation model
+[Analyze and predict traffic flow]: Road traffic simulation models --[Are essential tools]-> Analyze and predict traffic flow 0.8712893724441528
+[Analyze and predict traffic flow]: Road traffic simulation models --[Play crucial role]-> Urban planning 0.869951605796814
+[Analyze and predict traffic flow]: Urban planning --[Has]-> Embraced principles of active transport 0.7758990526199341
+[Analyze and predict traffic flow]: Road traffic simulation models --[Play crucial role]-> Environmental impact assessments 0.8533721566200256
+[Analyze and predict traffic flow]: Road traffic simulation models --[Play crucial role]-> Infrastructure development 0.8613307476043701
+[Analyze and predict traffic flow]: Auckland cycling network plan --[Primary objectives]-> Infrastructure development 0.8074244856834412
+[Analyze and predict traffic flow]: Wellington regional public transport plan --[Key components]-> Infrastructure development 0.818943977355957
+[Analyze and predict traffic flow]: National cycling policy --[Includes]-> Infrastructure development 0.7727584838867188
+[Analyze and predict traffic flow]: Wellington public transport spine study --[Includes]-> Infrastructure development 0.8179898858070374
+[Analyze and predict traffic flow]: Sustainable freight solutions --[Key strategies]-> Infrastructure development 0.7539297342300415
+[Analyze and predict traffic flow]: New zealand --[Has]-> Infrastructure development 0.8187552690505981
+[Analyze and predict traffic flow]: Road traffic simulation models --[Play crucial role]-> Traffic management 0.8720670342445374
+[Analyze and predict traffic flow]: Traffic management --[Uses]-> Automated data collection systems 0.8371564149856567
+[Analyze and predict traffic flow]: Waka kotahi --[Improves]-> Traffic management 0.8124353885650635
+[Analyze and predict traffic flow]: Auckland western ring route --[Optimizes]-> Traffic management 0.8411990404129028
+[Analyze and predict traffic flow]: Intelligent transport systems --[Enhance]-> Traffic management 0.814813494682312
+[Road traffic simulation models]: Road traffic simulation models --[Play crucial role]-> Urban planning 0.869951605796814
+[Road traffic simulation models]: Urban planning --[Has]-> Embraced principles of active transport 0.7758990526199341
+[Road traffic simulation models]: Road traffic simulation models --[Play crucial role]-> Environmental impact assessments 0.8533721566200256
+[Road traffic simulation models]: Road traffic simulation models --[Play crucial role]-> Infrastructure development 0.8613307476043701
+[Road traffic simulation models]: Auckland cycling network plan --[Primary objectives]-> Infrastructure development 0.8074244856834412
+[Road traffic simulation models]: Auckland cycling network plan --[Seeks to]-> Create cycling network 0.7906461358070374
+[Road traffic simulation models]: Auckland cycling network plan --[Developed by]-> Auckland transport 0.8376696109771729
+[Road traffic simulation models]: Auckland cycling network plan --[Introduced in]-> Early 2010s 0.8136367797851562
+[Road traffic simulation models]: Auckland cycling network plan --[Aligns with]-> New zealand's national transport objectives 0.8163367509841919
+[Road traffic simulation models]: Auckland cycling network plan --[Primary objectives]-> Safety improvements 0.7963874936103821
+[Road traffic simulation models]: Auckland cycling network plan --[Part of]-> Broader effort 0.7973572611808777
+[Road traffic simulation models]: Auckland cycling network plan --[Primary objectives]-> Community engagement 0.7888686656951904
+[Road traffic simulation models]: Auckland cycling network plan --[Is]-> Strategic initiative 0.8040143251419067
+[Road traffic simulation models]: Auckland cycling network plan --[Primary objectives]-> Promotion of cycling 0.7882267236709595

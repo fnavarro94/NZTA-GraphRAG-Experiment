@@ -1,0 +1,36 @@
+What does the Crash Analysis System (CAS) track with regards to incidents involving cyclists and pedestrians wearing headphones?
+None
+Seed: Pedestrian and Cyclist Crashes
+Seed: Pedestrian Safety Analysis
+Seed: figures on drivers involved in fatal crashes
+Seed: information on driver fatalities
+[Pedestrian and Cyclist Crashes]: Pedestrian and Cyclist Crashes --[ASSOCIATED_WITH]-> Headphones, Earphones, Earbuds, or Headsets 0.9088004231452942
+[Pedestrian and Cyclist Crashes]: Headphones, Earphones, Earbuds, or Headsets --[MENTIONED_IN]-> Crash Description 0.8513724207878113
+[Pedestrian and Cyclist Crashes]: Crash Data --[RELATES_TO]-> Pedestrian and Cyclist Crashes 0.8734562397003174
+[Pedestrian and Cyclist Crashes]: Crash Data --[RELATES_TO]-> Bay of Plenty Region 0.7799370288848877
+[Pedestrian and Cyclist Crashes]: Crash Data --[FILTERED_BY]-> Factor 103 0.7817904353141785
+[Pedestrian and Cyclist Crashes]: Traffic Crash Report --[CONTAINS]-> Crash Data 0.828525960445404
+[Pedestrian and Cyclist Crashes]: Free Text --[CONTAINS]-> Crash Data 0.7652794122695923
+[Pedestrian and Cyclist Crashes]: New Zealand Transport Agency Waka Kotahi --[PROVIDES]-> Crash Data 0.7983754277229309
+[Pedestrian and Cyclist Crashes]: Crash Data --[LIMITED_TO]-> SH2 and SH53 in Featherston 0.7480619549751282
+[Pedestrian and Cyclist Crashes]: Traffic Crash Report --[RECORDS]-> Crash Data 0.8246293663978577
+[Pedestrian and Cyclist Crashes]: Pedestrian and Cyclist Crashes --[ASSOCIATED_WITH]-> Road Safety Initiatives 0.8825461864471436
+[Pedestrian and Cyclist Crashes]: New Zealand Transport Agency --[PROVIDES]-> Road Safety Initiatives 0.7953978776931763
+[Pedestrian and Cyclist Crashes]: Road Safety Initiatives --[IMPROVES]-> State Highway 1 0.7781206369400024
+[Pedestrian and Cyclist Crashes]: Road Safety Initiatives --[COLLABORATED_BY]-> Wellington City Council 0.8025782704353333
+[Pedestrian and Cyclist Crashes]: Data --[RELATES_TO]-> Pedestrian and Cyclist Crashes 0.8658924698829651
+[Pedestrian and Cyclist Crashes]: Crash Analysis System --[PROVIDES]-> Data 0.8418998122215271
+[Pedestrian and Cyclist Crashes]: Data --[LIMITED_TO]-> Fatal Crashes 0.7666280269622803
+[Pedestrian and Cyclist Crashes]: Data --[IS]-> Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence 0.7383916974067688
+[Pedestrian and Cyclist Crashes]: Data --[IS]-> Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019 0.7650738954544067
+[Pedestrian and Cyclist Crashes]: Data --[IS]-> Standard condition of drivers under 20 subject to zero alcohol level are not included 0.7665250301361084
+[Pedestrian and Cyclist Crashes]: Driver Licence Register --[PROVIDES]-> Data 0.7477550506591797
+[Pedestrian and Cyclist Crashes]: Data --[IS]-> Current at 18 September 2019 0.7540188431739807
+[Pedestrian and Cyclist Crashes]: Cyclists --[EXCLUDED]-> Data 0.785884439945221
+[Pedestrian and Cyclist Crashes]: Tractor drivers --[EXCLUDED]-> Data 0.7430795431137085
+[Pedestrian and Cyclist Crashes]: Bus occupants --[EXCLUDED]-> Data 0.7505831718444824
+[Pedestrian and Cyclist Crashes]: Drivers of motorbikes --[EXCLUDED]-> Data 0.7870952486991882
+[Pedestrian and Cyclist Crashes]: Data --[LIMITED]-> intersection of Kiddle Drive/Arrowsmith Ave 0.7589167356491089
+[Pedestrian and Cyclist Crashes]: Data --[FOR]-> period 1/10/2017 to 26/05/2021 0.737657904624939
+[Pedestrian and Cyclist Crashes]: Data --[PROVIDED]-> Waka Kotahi N Z Transport Agency 0.7630283832550049
+[Pedestrian and Cyclist Crashes]: Crash Analysis System --[UPDATES]-> Data 0.7957227230072021

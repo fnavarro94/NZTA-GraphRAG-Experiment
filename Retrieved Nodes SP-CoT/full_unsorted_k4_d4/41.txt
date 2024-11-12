@@ -1,0 +1,36 @@
+What is the abbreviation for the national law enforcement agency responsible for maintaining public safety and order in New Zealand, who is primarily responsible for the enforcement of road traffic laws in New Zealand?
+None
+Seed: Enforcement of road traffic laws
+Seed: National law enforcement agency
+Seed: Legal framework for enforcement of road rules
+Seed: Enforcement of road safety regulations
+[Enforcement of road traffic laws]: New zealand police --[Responsible for]-> Enforcement of road traffic laws 0.9140580296516418
+[Enforcement of road traffic laws]: New zealand police --[Implementing]-> Speed enforcement measures 0.8727403283119202
+[Enforcement of road traffic laws]: New zealand police --[Established]-> 1840 0.8218384385108948
+[Enforcement of road traffic laws]: New zealand police --[Collaborate with]-> New zealand transport agency 0.8676880598068237
+[Enforcement of road traffic laws]: New zealand --[Has]-> New zealand transport agency 0.8706473708152771
+[Enforcement of road traffic laws]: New zealand --[Has]-> Transport projects 0.813109815120697
+[Enforcement of road traffic laws]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.8432961106300354
+[Enforcement of road traffic laws]: New zealand --[Has]-> Diverse transport network 0.8157624006271362
+[Enforcement of road traffic laws]: New zealand --[Has]-> Post-incident review 0.8311752080917358
+[Enforcement of road traffic laws]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.8105776309967041
+[Enforcement of road traffic laws]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.8030338287353516
+[Enforcement of road traffic laws]: New zealand --[Has]-> Broader environmental policies 0.7994662523269653
+[Enforcement of road traffic laws]: New zealand --[Has]-> Traffic congestion 0.8292107582092285
+[Enforcement of road traffic laws]: New zealand --[Has]-> Increasing urbanization 0.7666069865226746
+[Enforcement of road traffic laws]: New zealand --[Has]-> Graduated licensing system 0.8384535312652588
+[Enforcement of road traffic laws]: New zealand --[Has]-> Extensive coastline supporting a thriving fishing industry and recreational boating activities 0.7631853222846985
+[Enforcement of road traffic laws]: New zealand --[Has]-> Trend towards more integrated and environmentally friendly transport solutions 0.774327278137207
+[Enforcement of road traffic laws]: New zealand --[Has]-> Extensive network of roads 0.8261121511459351
+[Enforcement of road traffic laws]: New zealand --[Has]-> Public transport network planning 0.8179302215576172
+[Enforcement of road traffic laws]: New zealand --[Has]-> Public transit 0.821831226348877
+[Enforcement of road traffic laws]: New zealand --[Has]-> Goal 0.800224244594574
+[Enforcement of road traffic laws]: New zealand --[Has]-> Transport system sustainability 0.8041555285453796
+[Enforcement of road traffic laws]: New zealand --[Has]-> Walking 0.8127098083496094
+[Enforcement of road traffic laws]: New zealand --[Has]-> Cycling 0.8207047581672668
+[Enforcement of road traffic laws]: New zealand --[Has]-> Biodiversity 0.7871078848838806
+[Enforcement of road traffic laws]: New zealand --[Has]-> Urban-rural dynamics 0.7894709706306458
+[Enforcement of road traffic laws]: New zealand --[Has]-> Unique geographical features 0.8014987111091614
+[Enforcement of road traffic laws]: New zealand --[Has]-> Growing emphasis on sustainable transport solutions 0.7766872048377991
+[Enforcement of road traffic laws]: New zealand --[Has]-> Transport funding strategies 0.8105396032333374
+[Enforcement of road traffic laws]: New zealand --[Has]-> Growing population 0.7787619829177856

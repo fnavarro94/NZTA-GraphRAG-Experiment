@@ -1,0 +1,13 @@
+What reports discuss the progress and outcomes of the Road to Zero strategy since it was initiated?
+None
+Seed: Road to Zero Strategy Reports
+Seed: development of the next Road to Zero Action Plan
+Seed: Road to Zero initiatives
+Seed: Road to Zero Strategy Development
+[Road to Zero Strategy Reports]: Road to Zero Strategy Reports --[CONTAINS]-> Progress and Outcomes 0.9510536193847656
+[Road to Zero Strategy Reports]: New Zealand Transport Agency --[PROVIDES]-> Road to Zero Strategy Reports 0.8884193301200867
+[Road to Zero Strategy Reports]: Road to Zero Strategy Reports --[CONTAINS]-> Basis for Strategy 0.8862780332565308
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[WORKING_WITH]-> development of the next Road to Zero Action Plan 0.8477837443351746
+[Road to Zero initiatives]: Road to Zero --[PROGRESS]-> Road to Zero initiatives 0.8984344005584717
+[Road to Zero Strategy Development]: New Zealand Transport Agency --[SPENT]-> Road to Zero Strategy Development 0.8567067384719849
+[Road to Zero Strategy Development]: Road to Zero Strategy Development --[BREAKDOWN]-> Expenditure 0.8441530466079712

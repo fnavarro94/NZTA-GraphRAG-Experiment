@@ -1,0 +1,36 @@
+Where can information about the latest developments in the high productivity motor vehicles (HPMV) bridge strengthening programme be found?
+None
+Seed: current information on HPMV investment routes
+Seed: information on HPMV investment routes
+Seed: request to Minister of Transport
+Seed: briefings to the Minister of Transport
+[current information on HPMV investment routes]: New Zealand Transport Agency --[PROVIDES]-> current information on HPMV investment routes 0.8669214248657227
+[current information on HPMV investment routes]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7715845108032227
+[current information on HPMV investment routes]: New Zealand Transport Agency --[BASED]-> Wellington 0.7746367454528809
+[current information on HPMV investment routes]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7720149755477905
+[current information on HPMV investment routes]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.7712849974632263
+[current information on HPMV investment routes]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7326618432998657
+[current information on HPMV investment routes]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.7150644063949585
+[current information on HPMV investment routes]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7235367894172668
+[current information on HPMV investment routes]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7548153400421143
+[current information on HPMV investment routes]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.7658309936523438
+[current information on HPMV investment routes]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7486027479171753
+[current information on HPMV investment routes]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7397749423980713
+[current information on HPMV investment routes]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7244225740432739
+[current information on HPMV investment routes]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7370321750640869
+[current information on HPMV investment routes]: Wellington --[CONTAINS]-> Private Bag 6995 0.722470760345459
+[current information on HPMV investment routes]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7700219750404358
+[current information on HPMV investment routes]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7859928607940674
+[current information on HPMV investment routes]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.7889198064804077
+[current information on HPMV investment routes]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7702435851097107
+[current information on HPMV investment routes]: 50 Victoria Street --[IN]-> Wellington 0.7377199530601501
+[current information on HPMV investment routes]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.7816648483276367
+[current information on HPMV investment routes]: New Zealand Transport Agency --[LOCATED]-> 50 Victoria Street 0.7831865549087524
+[current information on HPMV investment routes]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7638273239135742
+[current information on HPMV investment routes]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.758160412311554
+[current information on HPMV investment routes]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7492709755897522
+[current information on HPMV investment routes]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7372975945472717
+[current information on HPMV investment routes]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7643512487411499
+[current information on HPMV investment routes]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7687368988990784
+[current information on HPMV investment routes]: New Zealand Transport Agency --[CONTACT]-> Wellington 6141 0.7745918035507202
+[current information on HPMV investment routes]: Wellington 6141 --[POSTAL_ADDRESS]-> New Zealand 0.718398928642273

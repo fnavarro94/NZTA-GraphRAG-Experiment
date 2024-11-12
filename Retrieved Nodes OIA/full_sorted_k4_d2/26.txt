@@ -1,0 +1,34 @@
+Where can information about the average length of time taken to respond to OIA requests be found?
+None
+Seed: deadline for responding to request
+Seed: response to OIA request
+Seed: Request made under the Official Information Act 1982
+Seed: Request for Information
+[deadline for responding to request]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA requests 0.8703567981719971
+[deadline for responding to request]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA request 0.8657927513122559
+[deadline for responding to request]: New Zealand Transport Agency --[RESPONDS]-> oia-8452-response.pdf 0.8592450618743896
+[deadline for responding to request]: New Zealand Transport Agency --[PROVIDES]-> response to OIA request 0.8585140705108643
+[deadline for responding to request]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8555358052253723
+[deadline for responding to request]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8552494049072266
+[deadline for responding to request]: New Zealand Transport Agency --[DISCUSSES]-> OIA request 0.8546159267425537
+[response to OIA request]: response to OIA request --[PROVIDES]-> information requested 0.8843493461608887
+[response to OIA request]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA requests 0.8703567981719971
+[response to OIA request]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA request 0.8657927513122559
+[response to OIA request]: New Zealand Transport Agency --[RESPONDS]-> oia-8452-response.pdf 0.8592450618743896
+[response to OIA request]: New Zealand Transport Agency --[PROVIDES]-> response to OIA request 0.8585140705108643
+[response to OIA request]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8555358052253723
+[response to OIA request]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8552494049072266
+[Request made under the Official Information Act 1982]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA requests 0.8703567981719971
+[Request made under the Official Information Act 1982]: REF: OIA -13915 --[ASSOCIATED_WITH]-> Request made under the Official Information Act 1982 0.86913001537323
+[Request made under the Official Information Act 1982]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.8662508130073547
+[Request made under the Official Information Act 1982]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA request 0.8657927513122559
+[Request made under the Official Information Act 1982]: New Zealand Transport Agency --[RESPONDS]-> oia-8452-response.pdf 0.8592450618743896
+[Request made under the Official Information Act 1982]: New Zealand Transport Agency --[PROVIDES]-> response to OIA request 0.8585140705108643
+[Request made under the Official Information Act 1982]: REF: OIA-8555 --[OFFICIAL_INFORMATION]-> Dear 0.8570969104766846
+[Request for Information]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA requests 0.8703567981719971
+[Request for Information]: New Zealand Transport Agency --[RESPONDS_TO]-> OIA request 0.8657927513122559
+[Request for Information]: New Zealand Transport Agency --[RESPONDS]-> oia-8452-response.pdf 0.8592450618743896
+[Request for Information]: New Zealand Transport Agency --[PROVIDES]-> response to OIA request 0.8585140705108643
+[Request for Information]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8555358052253723
+[Request for Information]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8552494049072266
+[Request for Information]: New Zealand Transport Agency --[DISCUSSES]-> OIA request 0.8546159267425537

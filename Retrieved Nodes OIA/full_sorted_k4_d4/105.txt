@@ -1,0 +1,34 @@
+How much did NZTA spend on online advertising for road safety campaigns in 2017-2018?
+None
+Seed: cost of the current Road to Zero advertising campaign
+Seed: national, regional and local road safety promotion and education campaigns
+Seed: Road Safety Campaigns
+Seed: Advertising Media Spend 2017-2018
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[COST]-> cost of the current Road to Zero advertising campaign 0.8610615730285645
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[FUNDING]-> Road Maintenance 0.8600640296936035
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[PROVIDES]-> funding 0.8574216961860657
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[PROVIDES]-> funding for road maintenance 0.8569124937057495
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[SPENDS_ON]-> Road to Zero Strategy 0.8567761778831482
+[cost of the current Road to Zero advertising campaign]: road safety --[ENHANCED_BY]-> New Zealand Transport Agency 0.8549849987030029
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[SPENT]-> $6,692,081.51 0.8546650409698486
+[national, regional and local road safety promotion and education campaigns]: NZ Transport Agency --[ADVERTISES]-> Road Safety Campaigns 0.8936610817909241
+[national, regional and local road safety promotion and education campaigns]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8676730394363403
+[national, regional and local road safety promotion and education campaigns]: New Zealand Transport Agency --[FUNDING]-> Road Maintenance 0.8600640296936035
+[national, regional and local road safety promotion and education campaigns]: New Zealand Transport Agency --[PROVIDES]-> funding 0.8574216961860657
+[national, regional and local road safety promotion and education campaigns]: New Zealand Transport Agency --[PROVIDES]-> funding for road maintenance 0.8569124937057495
+[national, regional and local road safety promotion and education campaigns]: New Zealand Transport Agency --[SPENDS_ON]-> Road to Zero Strategy 0.8567761778831482
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.8559942841529846
+[Road Safety Campaigns]: NZ Transport Agency --[ADVERTISES]-> Road Safety Campaigns 0.8936610817909241
+[Road Safety Campaigns]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8676730394363403
+[Road Safety Campaigns]: Road Safety Campaigns --[USES]-> Online Platforms 0.8630467653274536
+[Road Safety Campaigns]: New Zealand Transport Agency --[FUNDING]-> Road Maintenance 0.8600640296936035
+[Road Safety Campaigns]: New Zealand Transport Agency --[PROVIDES]-> funding 0.8574216961860657
+[Road Safety Campaigns]: New Zealand Transport Agency --[PROVIDES]-> funding for road maintenance 0.8569124937057495
+[Road Safety Campaigns]: New Zealand Transport Agency --[SPENDS_ON]-> Road to Zero Strategy 0.8567761778831482
+[Advertising Media Spend 2017-2018]: NZ Transport Agency --[ADVERTISES]-> Road Safety Campaigns 0.8936610817909241
+[Advertising Media Spend 2017-2018]: Road Safety Campaigns --[USES]-> Online Platforms 0.8630467653274536
+[Advertising Media Spend 2017-2018]: Road Safety Campaigns --[USES]-> Social Media Platforms 0.850864052772522
+[Advertising Media Spend 2017-2018]: Road Safety Campaigns --[USES]-> Traditional Media 0.8478043079376221
+[Advertising Media Spend 2017-2018]: questions and responses --[FROM]-> NZ Transport Agency 0.8462451100349426
+[Advertising Media Spend 2017-2018]: Road Safety Campaigns --[USES]-> TV 0.8458157777786255
+[Advertising Media Spend 2017-2018]: Road Safety Campaigns --[USES]-> Radio 0.8410001993179321

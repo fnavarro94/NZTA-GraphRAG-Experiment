@@ -1,0 +1,36 @@
+Have any environmental, economic, or carbon impact studies been conducted for the North Auckland Rapid Transit Corridor?
+None
+Seed: Environmental Impact Study
+Seed: carbon impact study
+Seed: North Auckland Rapid Transit Corridor
+Seed: carbon emission data for business related travel and fleet vehicles emissions
+[Environmental Impact Study]: North Auckland Rapid Transit Corridor --[ENVIRONMENTAL_IMPACT]-> Environmental Impact Study 0.9593483209609985
+[Environmental Impact Study]: North Auckland Rapid Transit Corridor --[LOCATED]-> Auckland 0.8856133222579956
+[Environmental Impact Study]: New Zealand Transport Agency --[MANAGES]-> North Auckland Rapid Transit Corridor 0.8655608892440796
+[Environmental Impact Study]: Audit Process --[AUDITS]-> North Auckland Rapid Transit Corridor 0.8738311529159546
+[Environmental Impact Study]: North Auckland Rapid Transit Corridor --[ECONOMIC_STUDY]-> Economic Study 0.9315305352210999
+[Environmental Impact Study]: Environmental Impact Study --[CONDUCTED_BY]-> Qualified Entity 0.818527340888977
+[carbon impact study]: carbon impact study --[FACTORS_IN]-> increased footprint 0.8421733379364014
+[North Auckland Rapid Transit Corridor]: North Auckland Rapid Transit Corridor --[LOCATED]-> Auckland 0.8856133222579956
+[North Auckland Rapid Transit Corridor]: State Highway 1 --[LOCATED_IN]-> Auckland 0.8139004707336426
+[North Auckland Rapid Transit Corridor]: New Zealand --[CONTAINS]-> Auckland 0.8245682716369629
+[North Auckland Rapid Transit Corridor]: Wellington Region --[CONTAINS]-> Auckland 0.824580192565918
+[North Auckland Rapid Transit Corridor]: Auckland --[CONTAINS]-> New Zealand 0.8213711977005005
+[North Auckland Rapid Transit Corridor]: Auckland --[CONTAINS]-> transport infrastructure 0.865939199924469
+[North Auckland Rapid Transit Corridor]: Auckland --[CONTAINS]-> Users/felipenavarro/Documents/Auckland/nzta/nzta_dev/NZTA-GraphRAG/transport_data/sample_files/nzta/temp_files 0.8367627859115601
+[North Auckland Rapid Transit Corridor]: Auckland --[CONTAINS]-> Auckland City 0.826865553855896
+[North Auckland Rapid Transit Corridor]: Auckland --[CONTAINS]-> nzta_dev 0.8049025535583496
+[North Auckland Rapid Transit Corridor]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.8478768467903137
+[North Auckland Rapid Transit Corridor]: temp files --[ASSOCIATED_WITH]-> Auckland 0.786979615688324
+[North Auckland Rapid Transit Corridor]: oia-11331-response.pdf --[ASSOCIATED_WITH]-> Auckland 0.8110042214393616
+[North Auckland Rapid Transit Corridor]: oia-1393-mcquillan.pdf --[ASSOCIATED_WITH]-> Auckland 0.8078223466873169
+[North Auckland Rapid Transit Corridor]: oia-1228-russell.pdf --[ASSOCIATED_WITH]-> Auckland 0.8136105537414551
+[North Auckland Rapid Transit Corridor]: oia-8059-response.pdf --[ASSOCIATED_WITH]-> Auckland 0.8083089590072632
+[North Auckland Rapid Transit Corridor]: oia-9870-response.pdf --[ASSOCIATED_WITH]-> Auckland 0.8135586977005005
+[North Auckland Rapid Transit Corridor]: oia-9368-response.pdf --[ASSOCIATED_WITH]-> Auckland 0.8115357756614685
+[North Auckland Rapid Transit Corridor]: transport data --[ASSOCIATED_WITH]-> Auckland 0.8274192810058594
+[North Auckland Rapid Transit Corridor]: oia-12215-response-letter.pdf --[ASSOCIATED_WITH]-> Auckland 0.8133755922317505
+[North Auckland Rapid Transit Corridor]: oia-9157-response.pdf --[ASSOCIATED_WITH]-> Auckland 0.8146155476570129
+[North Auckland Rapid Transit Corridor]: Michael Hayward --[ASSOCIATED_WITH]-> Auckland 0.8084324598312378
+[North Auckland Rapid Transit Corridor]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Auckland 0.8420296907424927
+[North Auckland Rapid Transit Corridor]: Item 1 --[ASSOCIATED_WITH]-> Auckland 0.800065279006958

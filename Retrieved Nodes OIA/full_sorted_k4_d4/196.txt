@@ -1,0 +1,34 @@
+What measures did NZTA take to ensure conflicts of interest were managed in the 2017/18 Annual Review?
+None
+Seed: conflicts of interest by senior staff
+Seed: Review of regulatory role
+Seed: Enforcement of regulatory role
+Seed: Conflict of interest
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[MANAGES]-> conflict of interest 0.8894116878509521
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[MANAGES]-> Conflict of interest 0.8894116878509521
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[ASSOCIATED]-> Work on regulatory review 0.8682506084442139
+[conflicts of interest by senior staff]: NZTA --[CONSIDER]-> public interest 0.8640384674072266
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[REGULATORY]-> Review of regulatory role 0.8628361821174622
+[conflicts of interest by senior staff]: quarterly reports --[AUDITED]-> NZTA 0.8623268604278564
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[NOTIFIES]-> conflicts of interest by senior staff 0.862028956413269
+[Review of regulatory role]: New Zealand Transport Agency --[MANAGES]-> Conflict of interest 0.8894116878509521
+[Review of regulatory role]: New Zealand Transport Agency --[MANAGES]-> conflict of interest 0.8894116878509521
+[Review of regulatory role]: New Zealand Transport Agency --[ASSOCIATED]-> Work on regulatory review 0.8682506084442139
+[Review of regulatory role]: NZTA --[CONSIDER]-> public interest 0.8640384674072266
+[Review of regulatory role]: New Zealand Transport Agency --[REGULATORY]-> Review of regulatory role 0.8628361821174622
+[Review of regulatory role]: quarterly reports --[AUDITED]-> NZTA 0.8623268604278564
+[Review of regulatory role]: New Zealand Transport Agency --[NOTIFIES]-> conflicts of interest by senior staff 0.862028956413269
+[Enforcement of regulatory role]: New Zealand Transport Agency --[MANAGES]-> Conflict of interest 0.8894116878509521
+[Enforcement of regulatory role]: New Zealand Transport Agency --[MANAGES]-> conflict of interest 0.8894116878509521
+[Enforcement of regulatory role]: New Zealand Transport Agency --[ASSOCIATED]-> Work on regulatory review 0.8682506084442139
+[Enforcement of regulatory role]: NZTA --[CONSIDER]-> public interest 0.8640384674072266
+[Enforcement of regulatory role]: New Zealand Transport Agency --[REGULATORY]-> Review of regulatory role 0.8628361821174622
+[Enforcement of regulatory role]: quarterly reports --[AUDITED]-> NZTA 0.8623268604278564
+[Enforcement of regulatory role]: New Zealand Transport Agency --[NOTIFIES]-> conflicts of interest by senior staff 0.862028956413269
+[Conflict of interest]: New Zealand Transport Agency --[MANAGES]-> conflict of interest 0.8894116878509521
+[Conflict of interest]: New Zealand Transport Agency --[MANAGES]-> Conflict of interest 0.8894116878509521
+[Conflict of interest]: New Zealand Transport Agency --[ASSOCIATED]-> Work on regulatory review 0.8682506084442139
+[Conflict of interest]: NZTA --[CONSIDER]-> public interest 0.8640384674072266
+[Conflict of interest]: New Zealand Transport Agency --[REGULATORY]-> Review of regulatory role 0.8628361821174622
+[Conflict of interest]: quarterly reports --[AUDITED]-> NZTA 0.8623268604278564
+[Conflict of interest]: New Zealand Transport Agency --[NOTIFIES]-> conflicts of interest by senior staff 0.862028956413269

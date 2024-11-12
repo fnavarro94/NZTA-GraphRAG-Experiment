@@ -1,0 +1,18 @@
+How is the number of lives saved from Road to Zero investments calculated?
+None
+Seed: zero road deaths by 2050
+Seed: Road to Zero – Road safety promotion
+Seed: total amount approved for investment
+Seed: Road to Zero – Safety infrastructure
+[zero road deaths by 2050]: Road to Zero --[INVESTMENT]-> 427.4 million 0.8959159851074219
+[zero road deaths by 2050]: Road to Zero --[INVESTMENT]-> 503.5 million 0.8901495337486267
+[zero road deaths by 2050]: total amount of money --[FOR]-> Road to Zero 0.8893031477928162
+[zero road deaths by 2050]: Road to Zero --[PREVENTS]-> fatal and serious injuries 0.8707971572875977
+[zero road deaths by 2050]: zero deaths and serious injuries --[PROMOTED_BY]-> Road to Zero strategy 0.867179811000824
+[zero road deaths by 2050]: Road to Zero Strategy --[FUNDING]-> Road to Zero Strategy 0.8663261532783508
+[zero road deaths by 2050]: Road to Zero --[FATality REDUCTION]-> 45-60 fatalities 0.8640482425689697
+[Road to Zero – Road safety promotion]: Road to Zero – Road safety promotion --[INVESTMENT]-> 36.8 million 0.8762533664703369
+[Road to Zero – Road safety promotion]: Road to Zero – Road safety promotion --[INVESTMENT]-> 32.1 million 0.8760060667991638
+[total amount approved for investment]: NLTP --[PROVIDES]-> total amount approved for investment 0.7992339134216309
+[Road to Zero – Safety infrastructure]: Road to Zero – Safety infrastructure --[INVESTMENT]-> 134.1 million 0.8747742176055908
+[Road to Zero – Safety infrastructure]: Road to Zero – Safety infrastructure --[INVESTMENT]-> 278 million 0.8604328632354736

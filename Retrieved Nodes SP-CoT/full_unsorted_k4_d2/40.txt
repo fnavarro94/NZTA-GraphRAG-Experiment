@@ -1,0 +1,36 @@
+In what year did the legislation overseen by the Transport and Infrastructure Committee in relation to road safety come into effect in New Zealand?
+None
+Seed: Legislative framework for road safety initiatives
+Seed: Significant shift in new zealand's approach to road safety
+Seed: Road safety legislation
+Seed: New zealand's road safety initiatives
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Provides]-> Legislative framework for road safety initiatives 0.8685125708580017
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Reflected in]-> Land transport act 1998 0.8495038151741028
+[Legislative framework for road safety initiatives]: Road transport safety --[Governed by]-> Land transport act 1998 0.8750514388084412
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Establishes]-> Legal framework for enforcement of road rules 0.8512201905250549
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Establishes]-> Legal framework for registration of vehicles 0.8186888098716736
+[Legislative framework for road safety initiatives]: Road safety legislation --[Governed by]-> Land transport act 1998 0.8867605924606323
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Establishes]-> Legal framework for licensing of drivers 0.820704460144043
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Complemented by]-> Land transport (road user 0.8356233835220337
+[Legislative framework for road safety initiatives]: Vehicle maintenance standards --[Are set forth in]-> Land transport act 1998 0.8023242950439453
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Provides]-> Legal foundation 0.824317455291748
+[Legislative framework for road safety initiatives]: New zealand --[Has]-> Land transport act 1998 0.868706226348877
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Outlines]-> Driver licensing 0.8064375519752502
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Outlines]-> Rules for vehicle operation 0.8178605437278748
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Outlines]-> Road safety 0.8565889000892639
+[Legislative framework for road safety initiatives]: Vehicle safety standards --[Are overseen by]-> Land transport act 1998 0.8482591509819031
+[Legislative framework for road safety initiatives]: New zealand --[Governed by]-> Land transport act 1998 0.873644232749939
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Complemented by]-> Resource management act 1991 0.8259411454200745
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Provides]-> Foundation for vehicle standards and compliance 0.81517094373703
+[Significant shift in new zealand's approach to road safety]: Safer journeys strategy --[Marked]-> Significant shift in new zealand's approach to road safety 0.8703483939170837
+[Significant shift in new zealand's approach to road safety]: Safer journeys strategy --[Focused on]-> Safer vehicles 0.8010737895965576
+[Significant shift in new zealand's approach to road safety]: Safer journeys strategy --[Focused on]-> Safer roads and roadsides 0.8182675838470459
+[Significant shift in new zealand's approach to road safety]: Safer journeys strategy --[Focused on]-> Safer speeds 0.7929903864860535
+[Significant shift in new zealand's approach to road safety]: Safer journeys strategy --[Focused on]-> Safer road use 0.8224759101867676
+[Significant shift in new zealand's approach to road safety]: Safer journeys strategy --[Focused on]-> Four key areas 0.7800854444503784
+[Road safety legislation]: Road safety legislation --[Governed by]-> Land transport act 1998 0.8867605924606323
+[Road safety legislation]: Vienna convention on road traffic --[Reflected in]-> Land transport act 1998 0.8495038151741028
+[Road safety legislation]: Road transport safety --[Governed by]-> Land transport act 1998 0.8750514388084412
+[Road safety legislation]: Land transport act 1998 --[Establishes]-> Legal framework for enforcement of road rules 0.8512201905250549
+[Road safety legislation]: Land transport act 1998 --[Establishes]-> Legal framework for registration of vehicles 0.8186888098716736
+[Road safety legislation]: Land transport act 1998 --[Establishes]-> Legal framework for licensing of drivers 0.820704460144043

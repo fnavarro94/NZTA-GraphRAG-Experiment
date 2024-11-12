@@ -1,0 +1,36 @@
+In what year did the airline that provides domestic air travel services between the two main islands of New Zealand, where the transport system facilitates the movement of people and goods, become established?
+None
+Seed: Flagship airline of new zealand
+Seed: Domestic flights to major cities across new zealand
+Seed: Significant air and maritime transport services
+Seed: Domestic and international travel
+[Flagship airline of new zealand]: Air new zealand --[Is]-> Flagship airline of new zealand 0.865277886390686
+[Flagship airline of new zealand]: Air new zealand --[Operates]-> Boeing 787 dreamliners 0.8387883305549622
+[Flagship airline of new zealand]: Air new zealand --[Member of]-> Star alliance 0.8310976624488831
+[Flagship airline of new zealand]: Air new zealand --[Operates]-> Modern fleet of aircraft 0.8581469655036926
+[Flagship airline of new zealand]: Air new zealand --[Headquartered in]-> Auckland 0.853702962398529
+[Flagship airline of new zealand]: Auckland --[Has]-> Public transport system 0.8334227800369263
+[Flagship airline of new zealand]: Christchurch --[Has]-> Public transport system 0.8266948461532593
+[Flagship airline of new zealand]: New zealand --[Has]-> Public transport system 0.8406795263290405
+[Flagship airline of new zealand]: Auckland --[Has]-> Pedestrian-friendly projects 0.7854259610176086
+[Flagship airline of new zealand]: Auckland --[Has]-> Network of cycle lanes and shared paths 0.7891679406166077
+[Flagship airline of new zealand]: Auckland --[Has]-> Bus network with extensive coverage 0.7982770204544067
+[Flagship airline of new zealand]: Auckland --[Has]-> Rail network with several lines 0.8022338151931763
+[Flagship airline of new zealand]: Auckland --[Has]-> Growing population 0.7849755883216858
+[Flagship airline of new zealand]: New zealand --[Has]-> Growing population 0.8005505800247192
+[Flagship airline of new zealand]: Auckland --[Has]-> Transport infrastructure 0.8230009078979492
+[Flagship airline of new zealand]: Transport infrastructure --[Ongoing development]-> Enhancing connectivity and supporting growing populations 0.7693417072296143
+[Flagship airline of new zealand]: New zealand --[Has]-> Transport infrastructure 0.837398111820221
+[Flagship airline of new zealand]: Auckland --[Has]-> Public transport services 0.8341108560562134
+[Flagship airline of new zealand]: Wellington regional council --[Oversees]-> Public transport services 0.7965415120124817
+[Flagship airline of new zealand]: Wellington --[Has]-> Public transport services 0.8197927474975586
+[Flagship airline of new zealand]: Land transport management act 2003 --[Governs]-> Public transport services 0.7667087316513062
+[Flagship airline of new zealand]: Local government --[Manages]-> Public transport services 0.7757612466812134
+[Flagship airline of new zealand]: Auckland --[Has]-> Rail network 0.807906985282898
+[Flagship airline of new zealand]: Wellington region --[Has]-> Rail network 0.794498085975647
+[Flagship airline of new zealand]: Kiwirail group --[Manages]-> Rail network 0.7675840854644775
+[Flagship airline of new zealand]: Kiwirail --[Operates]-> Rail network 0.7894643545150757
+[Flagship airline of new zealand]: Rail network --[Requires]-> Ongoing maintenance 0.7142335772514343
+[Flagship airline of new zealand]: Wellington --[Has]-> Rail network 0.7922106981277466
+[Flagship airline of new zealand]: Rail network --[Is]-> Integral for freight transport 0.75446617603302
+[Flagship airline of new zealand]: Rail network --[Facilitates]-> Movement of goods to and from the port of wellington 0.8128347992897034

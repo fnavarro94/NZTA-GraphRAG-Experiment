@@ -1,0 +1,36 @@
+Where is the major transport infrastructure project in the country where the project in Wellington connects various neighborhoods and promotes cycling as a primary mode of transport, and aims to improve rail connectivity and reduce congestion in Auckland located?
+None
+Seed: Addressing transport challenges in auckland
+Seed: Transport link between wellington and northern regions of north island
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+Seed: New zealand's transport network
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Addressing transport challenges in auckland 0.8823292255401611
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On enhancing road infrastructure 0.8934457898139954
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Outlines]-> Strategic approach to address challenges 0.8745278716087341
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On improving public transport 0.8806018829345703
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On promoting sustainable transport solutions 0.8773684501647949
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Promote sustainable transport options 0.8772976994514465
+[Addressing transport challenges in auckland]: Walking school bus --[Aligns with]-> Promote sustainable transport options 0.7887067198753357
+[Addressing transport challenges in auckland]: Walking school bus --[Originated in]-> New zealand 0.8232078552246094
+[Addressing transport challenges in auckland]: Walking school bus --[Involves]-> Supervision of adult volunteers 0.72615647315979
+[Addressing transport challenges in auckland]: Walking school bus --[Aligns with]-> New zealand transport agency's objectives 0.8379549384117126
+[Addressing transport challenges in auckland]: Walking school bus --[Fosters]-> Road safety awareness 0.7536779642105103
+[Addressing transport challenges in auckland]: Walking school bus --[Fosters]-> Community engagement 0.7654473185539246
+[Addressing transport challenges in auckland]: Walking school bus --[Involves]-> Group of children walking to school 0.7325745820999146
+[Addressing transport challenges in auckland]: Walking school bus --[Aligns with]-> Improve health and well-being of children 0.7609078288078308
+[Addressing transport challenges in auckland]: Walking school bus --[Is]-> Innovative transport initiative 0.800889253616333
+[Addressing transport challenges in auckland]: Walking school bus --[Originated in]-> Late 1990s 0.7554967403411865
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Reduce congestion 0.8822751045227051
+[Addressing transport challenges in auckland]: Transmission gully motorway --[Designed to]-> Reduce congestion 0.8281473517417908
+[Addressing transport challenges in auckland]: Wellington northern corridor --[Features]-> Transmission gully motorway 0.8508858680725098
+[Addressing transport challenges in auckland]: Transmission gully motorway --[Designed to]-> Improve travel times 0.8273470997810364
+[Addressing transport challenges in auckland]: Transport system optimization --[Aims to]-> Reduce congestion 0.8071813583374023
+[Addressing transport challenges in auckland]: Transport system optimization --[Is]-> Strategic approach 0.7963812351226807
+[Addressing transport challenges in auckland]: Transport system optimization --[In]-> New zealand 0.8543654680252075
+[Addressing transport challenges in auckland]: Transport system optimization --[Aims to]-> Improve connectivity 0.8055540323257446
+[Addressing transport challenges in auckland]: Transport system optimization --[Encompasses]-> Various modes of transport 0.7747668027877808
+[Addressing transport challenges in auckland]: Transport system optimization --[Aims to]-> Minimize environmental impacts 0.7917695641517639
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Is]-> Strategic initiative 0.8816128373146057
+[Addressing transport challenges in auckland]: Auckland cycling network plan --[Is]-> Strategic initiative 0.8654146194458008
+[Addressing transport challenges in auckland]: Auckland cycling network plan --[Seeks to]-> Create cycling network 0.8558871150016785
+[Addressing transport challenges in auckland]: Auckland cycling network plan --[Developed by]-> Auckland transport 0.882211446762085

@@ -1,0 +1,29 @@
+What is the name of the scenic passenger rail service in New Zealand known for showcasing stunning landscapes, particularly through the Southern Alps, that is the destination city at the western end of the train service?
+None
+Seed: Scenic passenger train service
+Seed: Scenic routes such as the tranzalpine and the northern explorer
+Seed: Scenic train
+Seed: Scenic routes
+[Scenic passenger train service]: Tranzalpine --[Is]-> Scenic passenger train service 0.8359114527702332
+[Scenic passenger train service]: Tranzalpine --[Is]-> Scenic train 0.8284733295440674
+[Scenic passenger train service]: Tranzalpine --[Journey]-> Through southern alps 0.8173446655273438
+[Scenic passenger train service]: Tranzalpine --[Operated by]-> Kiwirail 0.811060905456543
+[Scenic passenger train service]: Kiwirail group --[Known for]-> Tranzalpine 0.809688150882721
+[Scenic passenger train service]: Tranzalpine --[Journey begins]-> Christchurch railway station 0.8089883923530579
+[Scenic passenger train service]: Tranzalpine --[Travels through]-> Canterbury plains 0.8000674843788147
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Showcase]-> New zealand's stunning landscapes 0.9054542183876038
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Include]-> Scenic routes such as the tranzalpine and the northern explorer 0.8379913568496704
+[Scenic train]: Tranzalpine --[Is]-> Scenic passenger train service 0.8359114527702332
+[Scenic train]: Tranzalpine --[Is]-> Scenic train 0.8284733295440674
+[Scenic train]: Tranzalpine --[Journey]-> Through southern alps 0.8173446655273438
+[Scenic train]: Tranzalpine --[Operated by]-> Kiwirail 0.811060905456543
+[Scenic train]: Kiwirail group --[Known for]-> Tranzalpine 0.809688150882721
+[Scenic train]: Northern explorer --[Is]-> Scenic train 0.8093981146812439
+[Scenic train]: Tranzalpine --[Journey begins]-> Christchurch railway station 0.8089883923530579
+[Scenic routes]: New zealand --[Includes]-> Scenic routes 0.8479104042053223
+[Scenic routes]: New zealand --[Has]-> Rail transport 0.8338509202003479
+[Scenic routes]: New zealand --[Has]-> Trains 0.8314882516860962
+[Scenic routes]: New zealand --[Has]-> Light rail 0.829164445400238
+[Scenic routes]: New zealand --[Composed of]-> Trains 0.8276864290237427
+[Scenic routes]: New zealand --[Characterized by]-> Diverse landscapes 0.8224929571151733
+[Scenic routes]: New zealand --[Has]-> Diverse landscapes 0.8188161849975586

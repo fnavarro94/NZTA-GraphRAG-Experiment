@@ -1,0 +1,34 @@
+How many speeding offences were detected by speed cameras for NZTA vehicles in 2021?
+None
+Seed: information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021
+Seed: no notifications of offences detected by speed cameras
+Seed: information on traffic light cameras and speed cameras
+Seed: information on speed cameras
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: NZ Police --[INVESTIGATES]-> road traffic crashes 0.8642971515655518
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Traffic Crash Reports --[RECEIVED_FROM]-> NZ Police 0.8617832660675049
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: NZ Police --[PROVIDES]-> Traffic Crash Reports 0.8605782985687256
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Traffic Crash Report --[PROVIDED_BY]-> NZ Police 0.8591738343238831
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: New Zealand Police --[NOTIFIES]-> New Zealand Transport Agency 0.8591502904891968
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: questions and responses --[FROM]-> NZ Transport Agency 0.8576421737670898
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: vehicle inspection --[CONDUCTED_BY]-> NZ Transport Agency 0.8569668531417847
+[no notifications of offences detected by speed cameras]: NZ Police --[INVESTIGATES]-> road traffic crashes 0.8642971515655518
+[no notifications of offences detected by speed cameras]: Traffic Crash Reports --[RECEIVED_FROM]-> NZ Police 0.8617832660675049
+[no notifications of offences detected by speed cameras]: NZ Police --[PROVIDES]-> Traffic Crash Reports 0.8605782985687256
+[no notifications of offences detected by speed cameras]: Traffic Crash Report --[PROVIDED_BY]-> NZ Police 0.8591738343238831
+[no notifications of offences detected by speed cameras]: New Zealand Police --[NOTIFIES]-> New Zealand Transport Agency 0.8591502904891968
+[no notifications of offences detected by speed cameras]: questions and responses --[FROM]-> NZ Transport Agency 0.8576421737670898
+[no notifications of offences detected by speed cameras]: vehicle inspection --[CONDUCTED_BY]-> NZ Transport Agency 0.8569668531417847
+[information on traffic light cameras and speed cameras]: NZ Police --[INVESTIGATES]-> road traffic crashes 0.8642971515655518
+[information on traffic light cameras and speed cameras]: Traffic Crash Reports --[RECEIVED_FROM]-> NZ Police 0.8617832660675049
+[information on traffic light cameras and speed cameras]: NZ Police --[PROVIDES]-> Traffic Crash Reports 0.8605782985687256
+[information on traffic light cameras and speed cameras]: Traffic Crash Report --[PROVIDED_BY]-> NZ Police 0.8591738343238831
+[information on traffic light cameras and speed cameras]: New Zealand Police --[NOTIFIES]-> New Zealand Transport Agency 0.8591502904891968
+[information on traffic light cameras and speed cameras]: questions and responses --[FROM]-> NZ Transport Agency 0.8576421737670898
+[information on traffic light cameras and speed cameras]: vehicle inspection --[CONDUCTED_BY]-> NZ Transport Agency 0.8569668531417847
+[information on speed cameras]: NZ Police --[INVESTIGATES]-> road traffic crashes 0.8642971515655518
+[information on speed cameras]: Traffic Crash Reports --[RECEIVED_FROM]-> NZ Police 0.8617832660675049
+[information on speed cameras]: NZ Police --[PROVIDES]-> Traffic Crash Reports 0.8605782985687256
+[information on speed cameras]: Traffic Crash Report --[PROVIDED_BY]-> NZ Police 0.8591738343238831
+[information on speed cameras]: New Zealand Police --[NOTIFIES]-> New Zealand Transport Agency 0.8591502904891968
+[information on speed cameras]: questions and responses --[FROM]-> NZ Transport Agency 0.8576421737670898
+[information on speed cameras]: vehicle inspection --[CONDUCTED_BY]-> NZ Transport Agency 0.8569668531417847

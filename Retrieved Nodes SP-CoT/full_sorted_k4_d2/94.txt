@@ -1,0 +1,34 @@
+Which country hosted the adoption of the international agreement that promotes road safety and the harmonization of traffic regulations among member countries, to which the country where the regional council responsible for planning and delivering public transport services in the Greater Wellington area is located is a signatory?
+None
+Seed: New zealand's commitment to international standards in road safety and traffic management
+Seed: New zealand's road safety initiatives
+Seed: Governance and management of wellington region
+Seed: Management and regulation of the transport system in new zealand
+[New zealand's commitment to international standards in road safety and traffic management]: New zealand --[Signatory to]-> Vienna convention on road traffic 0.8641812205314636
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Reflects]-> New zealand's commitment to international standards in road safety and traffic management 0.8528164625167847
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Implemented by]-> New zealand transport agency 0.8527745008468628
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Integrated into]-> New zealand's national road traffic laws 0.8474592566490173
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Influenced]-> New zealand's road safety initiatives 0.8472034931182861
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Instrumental in]-> Shaping new zealand's transport policies 0.8459506630897522
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Ratified by]-> Numerous countries 0.8348648548126221
+[New zealand's road safety initiatives]: New zealand --[Signatory to]-> Vienna convention on road traffic 0.8641812205314636
+[New zealand's road safety initiatives]: Vienna convention on road traffic --[Reflects]-> New zealand's commitment to international standards in road safety and traffic management 0.8528164625167847
+[New zealand's road safety initiatives]: Vienna convention on road traffic --[Implemented by]-> New zealand transport agency 0.8527745008468628
+[New zealand's road safety initiatives]: Vienna convention on road traffic --[Integrated into]-> New zealand's national road traffic laws 0.8474592566490173
+[New zealand's road safety initiatives]: Vienna convention on road traffic --[Influenced]-> New zealand's road safety initiatives 0.8472034931182861
+[New zealand's road safety initiatives]: Vienna convention on road traffic --[Instrumental in]-> Shaping new zealand's transport policies 0.8459506630897522
+[New zealand's road safety initiatives]: Vienna convention on road traffic --[Ratified by]-> Numerous countries 0.8348648548126221
+[Governance and management of wellington region]: Greater wellington regional council --[Oversees]-> Integrated transport system 0.889229416847229
+[Governance and management of wellington region]: Wellington --[Transport system managed by]-> Greater wellington regional council 0.8848996162414551
+[Governance and management of wellington region]: Greater wellington regional council --[Responsible for]-> Managing public transport services 0.883847177028656
+[Governance and management of wellington region]: Wellington public transport plan --[Developed by]-> Greater wellington regional council 0.8775378465652466
+[Governance and management of wellington region]: Greater wellington regional council --[Is]-> Regional local government authority 0.8764584064483643
+[Governance and management of wellington region]: Greater wellington regional council --[Collaborates with]-> Local councils and new zealand transport agency 0.8749080300331116
+[Governance and management of wellington region]: Greater wellington regional council --[Responsible for]-> Governance and management of wellington region 0.8669979572296143
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Collaborates with]-> Regional councils 0.8587648868560791
+[Management and regulation of the transport system in new zealand]: Traffic management systems --[Governed by]-> New zealand transport agency 0.8535728454589844
+[Management and regulation of the transport system in new zealand]: Vienna convention on road traffic --[Implemented by]-> New zealand transport agency 0.8527745008468628
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Is]-> Key stakeholder 0.852359414100647
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Oversees]-> Transport integration 0.8520841598510742
+[Management and regulation of the transport system in new zealand]: New zealand --[Has]-> New zealand transport agency 0.8520125150680542
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Responsible for]-> Management and regulation of transport systems 0.8485353589057922

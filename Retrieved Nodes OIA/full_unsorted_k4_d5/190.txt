@@ -1,0 +1,36 @@
+Are there exemptions for wearing motorcycle helmets on religious grounds in New Zealand?
+None
+Seed: an adherent of the Sikh religion to be excused from wearing a motorcycle helmet, providing they will not be travelling at a speed exceeding 50kmph
+Seed: exemptions
+Seed: grant formal exemptions
+Seed: instances where a driver and/or passenger may automatically be excused from the requirement to utilise a child restrain and seatbelt
+[an adherent of the Sikh religion to be excused from wearing a motorcycle helmet, providing they will not be travelling at a speed exceeding 50kmph]: Land Transport (Road User) Rule 2004 --[ALLOWS]-> an adherent of the Sikh religion to be excused from wearing a motorcycle helmet, providing they will not be travelling at a speed exceeding 50kmph 0.8580515384674072
+[an adherent of the Sikh religion to be excused from wearing a motorcycle helmet, providing they will not be travelling at a speed exceeding 50kmph]: Land Transport (Road User) Rule 2004 --[SPECIFIES]-> instances where a driver and/or passenger may automatically be excused from the requirement to utilise a child restrain and seatbelt 0.8046164512634277
+[exemptions]: New Zealand Transport Agency --[GRANTS]-> exemptions 0.8451533317565918
+[exemptions]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7874782085418701
+[exemptions]: New Zealand Transport Agency --[BASED]-> Wellington 0.7930495738983154
+[exemptions]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7937262058258057
+[exemptions]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.7875447273254395
+[exemptions]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7660152316093445
+[exemptions]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.7516112923622131
+[exemptions]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7565564513206482
+[exemptions]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7850335836410522
+[exemptions]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.7914422154426575
+[exemptions]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.771487295627594
+[exemptions]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7525953054428101
+[exemptions]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7522473335266113
+[exemptions]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7278743982315063
+[exemptions]: Wellington --[CONTAINS]-> Private Bag 6995 0.7784296274185181
+[exemptions]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8034440875053406
+[exemptions]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.791851818561554
+[exemptions]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.7818082571029663
+[exemptions]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.779992938041687
+[exemptions]: 50 Victoria Street --[IN]-> Wellington 0.7523966431617737
+[exemptions]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.7850629091262817
+[exemptions]: New Zealand Transport Agency --[LOCATED]-> 50 Victoria Street 0.7873144149780273
+[exemptions]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7602909803390503
+[exemptions]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7588144540786743
+[exemptions]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7717278599739075
+[exemptions]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7478090524673462
+[exemptions]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7582254409790039
+[exemptions]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7804642915725708

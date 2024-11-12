@@ -1,0 +1,36 @@
+Who operates the rail network in the country where the regular activities performed to keep roads safe and functional, including vegetation control, litter removal, and drainage maintenance, are described by what term?
+None
+Seed: Transport as critical component of nation's infrastructure
+Seed: Significant role in planning and management of transport infrastructure and services
+Seed: Crucial role in promoting road safety
+Seed: Rail infrastructure
+[Transport as critical component of nation's infrastructure]: Resource management act 1991 --[Recognizes]-> Transport as critical component of nation's infrastructure 0.8075459003448486
+[Transport as critical component of nation's infrastructure]: Teia --[Governed by]-> Resource management act 1991 0.7773156762123108
+[Transport as critical component of nation's infrastructure]: Teia --[Evaluates]-> Potential effects of transport projects 0.7828806042671204
+[Transport as critical component of nation's infrastructure]: Teia --[Includes]-> Economic factors 0.7188557386398315
+[Transport as critical component of nation's infrastructure]: Regional transport planning --[Considers]-> Economic factors 0.7705471515655518
+[Transport as critical component of nation's infrastructure]: Teia --[Includes]-> Ecological factors 0.7355451583862305
+[Transport as critical component of nation's infrastructure]: Teia --[Used in]-> New zealand 0.7209267616271973
+[Transport as critical component of nation's infrastructure]: New zealand --[Has]-> Transport projects 0.7951152324676514
+[Transport as critical component of nation's infrastructure]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.8005605340003967
+[Transport as critical component of nation's infrastructure]: New zealand --[Has]-> Diverse transport network 0.7831310033798218
+[Transport as critical component of nation's infrastructure]: New zealand --[Has]-> Post-incident review 0.7142429947853088
+[Transport as critical component of nation's infrastructure]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.7545723915100098
+[Transport as critical component of nation's infrastructure]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.7664260864257812
+[Transport as critical component of nation's infrastructure]: New zealand --[Has]-> Broader environmental policies 0.778624415397644
+[Transport as critical component of nation's infrastructure]: New zealand --[Has]-> Traffic congestion 0.7589371204376221
+[Transport as critical component of nation's infrastructure]: New zealand --[Has]-> Increasing urbanization 0.7315204739570618
+[Transport as critical component of nation's infrastructure]: New zealand --[Has]-> Graduated licensing system 0.7372283935546875
+[Transport as critical component of nation's infrastructure]: New zealand --[Has]-> Extensive coastline supporting a thriving fishing industry and recreational boating activities 0.7508861422538757
+[Transport as critical component of nation's infrastructure]: New zealand --[Has]-> Trend towards more integrated and environmentally friendly transport solutions 0.7783398032188416
+[Transport as critical component of nation's infrastructure]: New zealand --[Has]-> Extensive network of roads 0.8006963133811951
+[Transport as critical component of nation's infrastructure]: New zealand --[Has]-> Public transport network planning 0.7841262817382812
+[Transport as critical component of nation's infrastructure]: New zealand --[Has]-> Public transit 0.7669987678527832
+[Transport as critical component of nation's infrastructure]: New zealand --[Has]-> Goal 0.7223241925239563
+[Transport as critical component of nation's infrastructure]: New zealand --[Has]-> Transport system sustainability 0.7954264283180237
+[Transport as critical component of nation's infrastructure]: New zealand --[Has]-> Walking 0.7479984760284424
+[Transport as critical component of nation's infrastructure]: New zealand --[Has]-> Cycling 0.7562943696975708
+[Transport as critical component of nation's infrastructure]: New zealand --[Has]-> Biodiversity 0.7494627237319946
+[Transport as critical component of nation's infrastructure]: New zealand --[Has]-> Urban-rural dynamics 0.7674181461334229
+[Transport as critical component of nation's infrastructure]: New zealand --[Has]-> Unique geographical features 0.7573498487472534
+[Transport as critical component of nation's infrastructure]: New zealand --[Has]-> Growing emphasis on sustainable transport solutions 0.779052734375

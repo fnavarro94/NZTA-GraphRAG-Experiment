@@ -1,0 +1,36 @@
+What is the Mobility Marketplace platform and when was it anticipated to go live?
+None
+Seed: Mobility Marketplace concept
+Seed: Mobility Marketplace
+Seed: who is developing the AT Mobile app and what is it?
+Seed: multi-tenanted platform
+[Mobility Marketplace concept]: Choice app --[DEVELOPED_FOR]-> Mobility Marketplace concept 0.8811706900596619
+[Mobility Marketplace concept]: RideMate app --[DEVELOPED_FOR]-> Mobility Marketplace concept 0.8808578252792358
+[Mobility Marketplace concept]: RideMate app --[DEVELOPMENT_COST]-> $1,000,000 0.8148412108421326
+[Mobility Marketplace]: Mobility Marketplace --[TESTED_IN]-> New Zealand 0.8689186573028564
+[Mobility Marketplace]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7822842001914978
+[Mobility Marketplace]: New Zealand Media and Entertainment --[LOCATED_IN]-> New Zealand 0.7417933940887451
+[Mobility Marketplace]: State Highway 1 --[LOCATED_IN]-> New Zealand 0.7333319187164307
+[Mobility Marketplace]: Ombudsman --[LOCATED_IN]-> New Zealand 0.7512457370758057
+[Mobility Marketplace]: Queenstown Lakes --[LOCATED_IN]-> New Zealand 0.7196084260940552
+[Mobility Marketplace]: Central Otago --[LOCATED_IN]-> New Zealand 0.7097573280334473
+[Mobility Marketplace]: Wellington 6141 --[CONTAINS]-> New Zealand 0.7079436779022217
+[Mobility Marketplace]: Auckland --[CONTAINS]-> New Zealand 0.7406296730041504
+[Mobility Marketplace]: New Zealand --[CONTAINS]-> Wellington 0.724875271320343
+[Mobility Marketplace]: New Zealand --[CONTAINS]-> nzta.govt.nz 0.7316511869430542
+[Mobility Marketplace]: New Zealand --[CONTAINS]-> Auckland 0.7398895025253296
+[Mobility Marketplace]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7696910500526428
+[Mobility Marketplace]: New Zealand --[CONTAINS]-> nzta_dev 0.742949366569519
+[Mobility Marketplace]: Auckland --[ASSOCIATED_WITH]-> New Zealand 0.7287168502807617
+[Mobility Marketplace]: New Zealand --[ASSOCIATED_WITH]-> transport 0.7457327842712402
+[Mobility Marketplace]: New Zealand --[ASSOCIATED_WITH]-> NZTRANSPORT AGENCY 0.7570064067840576
+[Mobility Marketplace]: New Zealand --[ASSOCIATED_WITH]-> oia-4543-Phil-Pennington.pdf 0.7231823205947876
+[Mobility Marketplace]: Wellington --[PART_OF]-> New Zealand 0.7108098268508911
+[Mobility Marketplace]: Featherston --[PART_OF]-> New Zealand 0.7122855186462402
+[Mobility Marketplace]: Auckland --[PART_OF]-> New Zealand 0.7308530807495117
+[Mobility Marketplace]: Tauranga --[PART_OF]-> New Zealand 0.7099694013595581
+[Mobility Marketplace]: New Zealand Transport Agency --[PART_OF]-> New Zealand 0.7574672102928162
+[Mobility Marketplace]: Wellington Gateway Partnership --[PART_OF]-> New Zealand 0.7552440166473389
+[Mobility Marketplace]: Queenstown Lakes and Central Otago --[PART_OF]-> New Zealand 0.7254387140274048
+[Mobility Marketplace]: Official Information Act 1982 --[APPLIES_TO]-> New Zealand 0.7200717329978943
+[Mobility Marketplace]: New Zealand Transport Agency --[CONTACT]-> New Zealand 0.7513245344161987

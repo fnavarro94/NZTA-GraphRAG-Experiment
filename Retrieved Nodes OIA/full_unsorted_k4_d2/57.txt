@@ -1,0 +1,36 @@
+What is Waka Kotahi's long-term sustainability vision?
+None
+Seed: Waka Kotahi Senior Project Manager
+Seed: vision for a low carbon, safe and healthy land transport system by 2050
+Seed: Waka Kotahi
+Seed: where people can easily learn about sustainability
+[Waka Kotahi Senior Project Manager]: Waka Kotahi Senior Project Manager --[MANAGES]-> State Highway 25A Rebuild Project 0.8160412311553955
+[vision for a low carbon, safe and healthy land transport system by 2050]: Toitū Te Taiao --[SETS]-> vision for a low carbon, safe and healthy land transport system by 2050 0.7960503697395325
+[vision for a low carbon, safe and healthy land transport system by 2050]: Waka Kotahi NZ Transport Agency --[RELEASED]-> Toitū Te Taiao 0.7861352562904358
+[Waka Kotahi]: Response --[CONTAINS]-> Waka Kotahi 0.8230199217796326
+[Waka Kotahi]: Waka Kotahi --[PUBLISHES]-> Response 0.8575098514556885
+[Waka Kotahi]: response --[CONTAINS]-> Waka Kotahi 0.8448795676231384
+[Waka Kotahi]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.8213372230529785
+[Waka Kotahi]: Charles Ronaldson --[SIGNED]-> response 0.7431554198265076
+[Waka Kotahi]: Lauren Cooke --[SIGNED]-> response 0.7304776310920715
+[Waka Kotahi]: Waka Kotahi --[PUBLISHED_BY]-> response 0.835615873336792
+[Waka Kotahi]: Ministry --[PROVIDE]-> response 0.7382394671440125
+[Waka Kotahi]: response --[REMOVED]-> personal information 0.6873232126235962
+[Waka Kotahi]: Waka Kotahi website --[CONTAINS]-> response 0.8051513433456421
+[Waka Kotahi]: New Zealand Transport Agency --[DISCUSSES]-> response 0.7359603643417358
+[Waka Kotahi]: response --[IS_A]-> letter 0.7107180953025818
+[Waka Kotahi]: Waka Kotahi --[FOLLOWS]-> response 0.8350010514259338
+[Waka Kotahi]: New Zealand Transport Agency --[PUBLISH]-> response 0.7488369345664978
+[Waka Kotahi]: New Zealand Transport Agency --[PUBLISHES]-> response 0.7474820613861084
+[Waka Kotahi]: response --[IS]-> response letter 0.7229874134063721
+[Waka Kotahi]: response letter --[IS]-> response 0.7212339639663696
+[Waka Kotahi]: response --[CONTAINS]-> contact details for the Ombudsman 0.7064477801322937
+[Waka Kotahi]: response --[CONTAINS]-> Jamie Ensor 0.7314179539680481
+[Waka Kotahi]: response --[RELATES_TO]-> personal information removed 0.6913232803344727
+[Waka Kotahi]: Conan Young --[RECEIVES]-> response 0.7182968258857727
+[Waka Kotahi]: oia-14650-response-letter.pdf --[CONTAINS]-> response 0.7282586097717285
+[Waka Kotahi]: response --[IS]-> sincerely 0.723176121711731
+[Waka Kotahi]: NZTA --[REPLY]-> response 0.7363036274909973
+[Waka Kotahi]: response --[REMOVE]-> personal information 0.6772165894508362
+[Waka Kotahi]: Waka Kotahi --[PUBLISHED]-> response 0.8616005182266235
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> response 0.8444330096244812

@@ -1,0 +1,36 @@
+Who funded the Mackenzie Basin Improvement Project, including the artworks?
+None
+Seed: funding requests
+Seed: funding
+Seed: Waito hi Picton Ferry Precinct Redevelopment
+Seed: project artworks
+[funding requests]: standard cost scope adjustment process --[APPLIES_TO]-> funding requests 0.7698817253112793
+[funding requests]: manage fare revenue and public transport budgets within current funding allocations --[REQUIRES]-> standard cost scope adjustment process 0.7425210475921631
+[funding requests]: funding requests --[NEEDS]-> follow the standard cost scope adjustment process 0.7748982906341553
+[funding requests]: follow the standard cost scope adjustment process --[REQUIRES]-> no additional funding for fare reductions before the next NLTP in June 2021 0.7243034243583679
+[funding]: Auckland Transport --[PROVIDES]-> funding 0.7757810950279236
+[funding]: Waka Kotahi --[COLLABORATES_WITH]-> Auckland Transport 0.7545168399810791
+[funding]: Auckland Transport --[SIGNED_OFF]-> Waka Kotahi Board 0.7247624397277832
+[funding]: Waka Kotahi Board --[SIGNED_OFF]-> Auckland Transport 0.7155565023422241
+[funding]: Auckland Transport --[CONTRIBUTED]-> No 0.7455458045005798
+[funding]: public transport --[PROVIDED_BY]-> Auckland Transport 0.7519702911376953
+[funding]: Auckland Transport --[MANAGES]-> roads 0.7445706725120544
+[funding]: Auckland Transport --[SUBMITS]-> bid for NZ Transport Agency funding 0.7491329908370972
+[funding]: Auckland Transport --[DEVELOPS]-> AT Mobile app 0.7144391536712646
+[funding]: Auckland Transport --[RESPONSIBLE_FOR]-> AT Mobile app 0.7251049280166626
+[funding]: Auckland Transport --[CONTACT]-> officialinformation@at.govt.nz 0.7387627363204956
+[funding]: rides hare company --[APPLIES_FOR]-> funding 0.7707736492156982
+[funding]: rides hare company --[APPLIES_FOR]-> Auckland Transport for NZTA funding 0.755027174949646
+[funding]: New Zealand Transport Agency --[PROVIDES]-> funding 0.7825902104377747
+[funding]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7320897579193115
+[funding]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7440911531448364
+[funding]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7545976042747498
+[funding]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7453694343566895
+[funding]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7334447503089905
+[funding]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7407910823822021
+[funding]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7514835596084595
+[funding]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7481585741043091
+[funding]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7576068043708801
+[funding]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7587327361106873
+[funding]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7478887438774109
+[funding]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7394734025001526

@@ -1,0 +1,31 @@
+How is the NZTA engaging with regional councils regarding the Choice application?
+None
+Seed: Regional Investment Opportunities
+Seed: wider objectives in Regional Public Transport Plans
+Seed: does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?
+Seed: regional council readiness
+[Regional Investment Opportunities]: Ministry of Business, Innovation and Employment --[ADMINISTERS]-> Regional Investment Opportunities 0.8345450758934021
+[Regional Investment Opportunities]: Kānoa --[ADMINISTERS]-> Regional Investment Opportunities 0.8156194090843201
+[Regional Investment Opportunities]: project artworks --[PART_OF]-> Regional Investment Opportunities 0.8083450794219971
+[Regional Investment Opportunities]: Regional Investment Opportunities --[FUNDED]-> project artworks 0.8042013049125671
+[wider objectives in Regional Public Transport Plans]: wider objectives in Regional Public Transport Plans --[CONTRIBUTES]-> government's transport priorities 0.8225748538970947
+[wider objectives in Regional Public Transport Plans]: underlying principles of the current policy --[CONTRIBUTES]-> wider objectives in Regional Public Transport Plans 0.8158113956451416
+[wider objectives in Regional Public Transport Plans]: councils with greater flexibility --[ADDRESS]-> public transport affordability 0.8098964691162109
+[wider objectives in Regional Public Transport Plans]: councils --[MUST]-> manage fare revenue and public transport budgets within current funding allocations 0.8059449195861816
+[wider objectives in Regional Public Transport Plans]: public transport budgets --[MANAGED_BY]-> councils 0.8059189319610596
+[wider objectives in Regional Public Transport Plans]: wider impacts of fare policy on people and cities --[INCLUCES]-> national farebox recovery target 0.7872493267059326
+[wider objectives in Regional Public Transport Plans]: government's transport priorities --[INCLUDES]-> fares play an important role in helping cover the cost of public transport within available budgets 0.7853552103042603
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: Amanda Cropp --[REQUESTED]-> does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it? 0.9094824194908142
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: NZTA --[CONSIDER]-> public interest 0.8765102028846741
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: questions and responses --[FROM]-> NZ Transport Agency 0.8722660541534424
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: draft letter --[FROM]-> NZTA 0.8647008538246155
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: www.nzta.govt.nz --[CONTAINS]-> innovation-fund/innovation-fund-round-one-successful-applicants.pdf 0.8637071847915649
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: New Zealand Transport Agency --[CONDUCTED]-> consultation 0.8619891405105591
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: New Zealand --[CONTAINS]-> nzta.govt.nz 0.8609145879745483
+[regional council readiness]: payment option --[DEPENDENT_ON]-> regional council readiness 0.8448729515075684
+[regional council readiness]: response letter --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8431095480918884
+[regional council readiness]: New Zealand Transport Agency --[PUBLISHES]-> response letter 0.8369258642196655
+[regional council readiness]: New Zealand Transport Agency --[PROVIDES]-> response letter 0.8346325159072876
+[regional council readiness]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> response letter 0.8338620662689209
+[regional council readiness]: New Zealand Transport Agency --[PROACTIVELY_RELEASED]-> response letter 0.8337407112121582
+[regional council readiness]: response letter --[ASSOCIATED_WITH]-> NZTRANSPORT AGENCY 0.8301560878753662

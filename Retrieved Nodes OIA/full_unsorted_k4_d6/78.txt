@@ -1,0 +1,36 @@
+What were the concerns raised in the complaint about Uber to the NZ Transport Agency?
+None
+Seed: 196 complaints about Uber drivers
+Seed: ride share operator complaints
+Seed: Complaint Data
+Seed: why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’
+[196 complaints about Uber drivers]: Waka Kotahi --[RECEIVES]-> 196 complaints about Uber drivers 0.8648542165756226
+[196 complaints about Uber drivers]: Response --[CONTAINS]-> Waka Kotahi 0.7875250577926636
+[196 complaints about Uber drivers]: Waka Kotahi --[PUBLISHES]-> Response 0.7859535217285156
+[196 complaints about Uber drivers]: response --[CONTAINS]-> Waka Kotahi 0.7738274931907654
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.875537097454071
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.8391648530960083
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.8293001055717468
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.8241900205612183
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> list of LGWM construction contracts 0.7940164804458618
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> public transport fare policy review 0.8556779623031616
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.8174245357513428
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8209559917449951
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.8117685914039612
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.8268500566482544
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[FAX]-> F 64 4 894 6100 0.8334680795669556
+[196 complaints about Uber drivers]: Andrew Knackstedt --[CONTACT]-> Waka Kotahi NZ Transport Agency 0.8338663578033447
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[CONTACT]-> T 64 4 894 5400 0.8355488181114197
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.8311012983322144
+[196 complaints about Uber drivers]: Chris Marshall --[REQUESTS]-> Waka Kotahi NZ Transport Agency 0.8535880446434021
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.876731812953949
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.8108067512512207
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[ANNOUNCED]-> Road to Zero 0.8295499682426453
+[196 complaints about Uber drivers]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8314404487609863
+[196 complaints about Uber drivers]: Road to Zero --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8474031686782837
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.8159713745117188
+[196 complaints about Uber drivers]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.8349065780639648
+[196 complaints about Uber drivers]: New Zealand --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.8485620617866516
+[196 complaints about Uber drivers]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.8314942121505737
+[196 complaints about Uber drivers]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.812468945980072
+[196 complaints about Uber drivers]: www.nzta.govt.nz --[OF]-> Waka Kotahi NZ Transport Agency 0.8564857244491577

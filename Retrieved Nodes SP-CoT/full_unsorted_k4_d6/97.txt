@@ -1,0 +1,36 @@
+Which organization has utilized one of the commonly used traffic simulation models in a specific field for visualizing traffic patterns and assessing the impact of new developments to assess the performance of its public transport system in response to the needs of a growing population?
+None
+Seed: Adopting integrated transport planning approaches that consider active transport modes
+Seed: Innovative traffic management strategies
+Seed: Adopting integrated transport planning approaches that consider public transport
+Seed: Impact of technologies on traffic congestion
+[Adopting integrated transport planning approaches that consider active transport modes]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider active transport modes 0.8208843469619751
+[Adopting integrated transport planning approaches that consider active transport modes]: Integrated transport planning --[Aims to]-> Create more efficient transport networks 0.8279178738594055
+[Adopting integrated transport planning approaches that consider active transport modes]: Integrated transport planning --[Aims to]-> Create more sustainable transport networks 0.8273147940635681
+[Adopting integrated transport planning approaches that consider active transport modes]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider public transport 0.8247180581092834
+[Adopting integrated transport planning approaches that consider active transport modes]: Integrated transport planning --[Is]-> Adopting 0.8049643039703369
+[Adopting integrated transport planning approaches that consider active transport modes]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider land use 0.8189874291419983
+[Adopting integrated transport planning approaches that consider active transport modes]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches 0.8215631246566772
+[Innovative traffic management strategies]: New zealand --[Has]-> Innovative traffic management strategies 0.8402736186981201
+[Innovative traffic management strategies]: New zealand --[Has]-> Transport projects 0.7893404960632324
+[Innovative traffic management strategies]: New zealand transport agency --[Oversees]-> Transport projects 0.7759292125701904
+[Innovative traffic management strategies]: New zealand --[Has]-> New zealand transport agency 0.7841988205909729
+[Innovative traffic management strategies]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.7862358093261719
+[Innovative traffic management strategies]: New zealand --[Has]-> Diverse transport network 0.7869264483451843
+[Innovative traffic management strategies]: New zealand --[Has]-> Post-incident review 0.7276136875152588
+[Innovative traffic management strategies]: Post-incident review --[Crucial for]-> Improving operational efficiency 0.7862938642501831
+[Innovative traffic management strategies]: Post-incident review --[Crucial for]-> Fostering culture of continuous improvement 0.7808342576026917
+[Innovative traffic management strategies]: Post-incident review --[Aimed at]-> Recommending measures 0.7690203189849854
+[Innovative traffic management strategies]: Post-incident review --[Crucial for]-> Enhancing safety 0.7657988667488098
+[Innovative traffic management strategies]: Post-incident review --[Is]-> Systematic process 0.7624059319496155
+[Innovative traffic management strategies]: Post-incident review --[Conducted]-> Following an incident 0.7513797283172607
+[Innovative traffic management strategies]: Post-incident review --[Aimed at]-> Analyzing circumstances 0.7732262015342712
+[Innovative traffic management strategies]: Post-incident review --[Aimed at]-> Identifying contributing factors 0.780097246170044
+[Innovative traffic management strategies]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.7331120371818542
+[Innovative traffic management strategies]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.7911519408226013
+[Innovative traffic management strategies]: New zealand --[Has]-> Broader environmental policies 0.7415916919708252
+[Innovative traffic management strategies]: New zealand --[Has]-> Traffic congestion 0.7922422885894775
+[Innovative traffic management strategies]: Auckland --[Faces challenges]-> Traffic congestion 0.7900514006614685
+[Innovative traffic management strategies]: Wellington public transport plan --[Initiated in response to]-> Traffic congestion 0.8148806095123291
+[Innovative traffic management strategies]: Auckland --[Has]-> Traffic congestion 0.7838627696037292
+[Innovative traffic management strategies]: Wellington --[Has]-> Traffic congestion 0.7799526453018188

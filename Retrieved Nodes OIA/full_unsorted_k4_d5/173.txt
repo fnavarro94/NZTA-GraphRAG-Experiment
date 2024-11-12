@@ -1,0 +1,36 @@
+What are the key challenges faced in completing the Transmission Gully project?
+None
+Seed: Transmission Gully
+Seed: https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/
+Seed: prioritising the clearing of drains and culverts
+Seed: Transmission Gully Motorway
+[Transmission Gully]: Delta outbreak --[AFFECTED]-> Transmission Gully 0.8626071214675903
+[Transmission Gully]: OIA-10601 --[RELATES_TO]-> Delta outbreak 0.7527907490730286
+[Transmission Gully]: OIA-10601 --[ANSWERED_BY]-> New Zealand Transport Agency 0.7867543697357178
+[Transmission Gully]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7655775547027588
+[Transmission Gully]: New Zealand Transport Agency --[BASED]-> Wellington 0.7779603600502014
+[Transmission Gully]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7357137203216553
+[Transmission Gully]: Golden Mile --[LOCATED]-> Wellington 0.745042622089386
+[Transmission Gully]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7641030550003052
+[Transmission Gully]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7214138507843018
+[Transmission Gully]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7314007878303528
+[Transmission Gully]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7359247207641602
+[Transmission Gully]: Wellington --[PART_OF]-> Wellington Region 0.7631011605262756
+[Transmission Gully]: New Zealand --[HAS_CAPITAL]-> Wellington 0.754639744758606
+[Transmission Gully]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.8220561742782593
+[Transmission Gully]: Wellington --[HAS]-> tunnel 0.795418381690979
+[Transmission Gully]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7425427436828613
+[Transmission Gully]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7322877645492554
+[Transmission Gully]: Wellington --[POSTCODE]-> 6141 0.7215898633003235
+[Transmission Gully]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7683321237564087
+[Transmission Gully]: Wellington --[IS_PART_OF]-> New Zealand 0.7458499670028687
+[Transmission Gully]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7848504781723022
+[Transmission Gully]: 50 Victoria Street --[IN]-> Wellington 0.736737847328186
+[Transmission Gully]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.727361261844635
+[Transmission Gully]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7349724769592285
+[Transmission Gully]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7386209964752197
+[Transmission Gully]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7404671311378479
+[Transmission Gully]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7485306859016418
+[Transmission Gully]: NZ Transport Agency --[LOCATED]-> Wellington 0.7697592973709106
+[Transmission Gully]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7472965717315674
+[Transmission Gully]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.730107307434082

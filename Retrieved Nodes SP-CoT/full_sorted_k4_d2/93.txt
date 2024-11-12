@@ -1,0 +1,23 @@
+In which decade did the construction of the major railway line that is being upgraded to enhance its capacity and efficiency for sustainable transport begin?
+None
+Seed: Growing emphasis on sustainable transport solutions
+Seed: Vision for sustainable transport system
+Seed: Growing emphasis on sustainable transport options
+Seed: Sustainable and efficient transportation solutions
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Growing emphasis on sustainable transport solutions 0.8435629606246948
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Sustainable transport initiatives 0.8386955261230469
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Trend towards more integrated and environmentally friendly transport solutions 0.833670973777771
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Transport system sustainability 0.8306148648262024
+[Growing emphasis on sustainable transport solutions]: New zealand --[Promotes]-> Sustainable transport options 0.8289692997932434
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Developing rail network 0.8288982510566711
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Transport infrastructure investment 0.8245065212249756
+[Vision for sustainable transport system]: New zealand transport strategy 2021 --[Outlines]-> Vision for sustainable transport system 0.8268712162971497
+[Growing emphasis on sustainable transport options]: North island --[Has]-> Growing emphasis on sustainable transport options 0.834995687007904
+[Growing emphasis on sustainable transport options]: North island --[Features]-> Cycling infrastructure and public transport initiatives 0.7911696434020996
+[Sustainable and efficient transportation solutions]: Vehicle technology advancements --[Reflect]-> Sustainable and efficient transportation solutions 0.831416666507721
+[Sustainable and efficient transportation solutions]: Vehicle technology advancements --[Enhanced]-> Environmental sustainability 0.8169430494308472
+[Sustainable and efficient transportation solutions]: Vehicle technology advancements --[In]-> New zealand 0.8055927753448486
+[Sustainable and efficient transportation solutions]: Vehicle technology advancements --[Driven by]-> Governmental initiatives 0.8024130463600159
+[Sustainable and efficient transportation solutions]: Vehicle technology advancements --[Transformed]-> Transportation landscape 0.8011095523834229
+[Sustainable and efficient transportation solutions]: Vehicle technology advancements --[Enhanced]-> Efficiency 0.8007097244262695
+[Sustainable and efficient transportation solutions]: Vehicle technology advancements --[Reflect]-> Broader global trend 0.7960456013679504

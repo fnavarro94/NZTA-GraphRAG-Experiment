@@ -1,0 +1,36 @@
+What is the destination city at the western end of the scenic passenger rail service in the country where the car-sharing service mentioned in the passage as a local initiative providing residents with flexible transportation options operates, known for showcasing stunning landscapes, particularly through the Southern Alps?
+None
+Seed: Scenic routes such as the tranzalpine and the northern explorer
+Seed: Scenic passenger train service
+Seed: Provide seamless travel experiences
+Seed: Unique and picturesque travel experience
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Include]-> Scenic routes such as the tranzalpine and the northern explorer 0.8363021612167358
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Showcase]-> New zealand's stunning landscapes 0.8367034792900085
+[Scenic passenger train service]: Tranzalpine --[Is]-> Scenic passenger train service 0.8185656070709229
+[Scenic passenger train service]: Kiwirail group --[Known for]-> Tranzalpine 0.7758949995040894
+[Scenic passenger train service]: Tranzalpine --[Operated by]-> Kiwirail 0.779019832611084
+[Scenic passenger train service]: Tranzalpine --[Travels through]-> Canterbury plains 0.7777888178825378
+[Scenic passenger train service]: Tranzalpine --[Covers]-> 223 kilometers 0.7657236456871033
+[Scenic passenger train service]: Tranzalpine --[Journey]-> Through southern alps 0.8247236609458923
+[Scenic passenger train service]: Tranzalpine --[Traverses]-> Diverse landscapes 0.7851876020431519
+[Scenic passenger train service]: Tranzalpine --[Ascends into]-> Mountains 0.7805891036987305
+[Scenic passenger train service]: Tranzalpine --[Operates between]-> Christchurch and greymouth 0.7598095536231995
+[Scenic passenger train service]: Tranzalpine --[Journey begins]-> Christchurch railway station 0.7671160697937012
+[Scenic passenger train service]: Tranzalpine --[Renowned for]-> Breathtaking views 0.7838691473007202
+[Scenic passenger train service]: Tranzalpine --[Is]-> Scenic train 0.8147936463356018
+[Provide seamless travel experiences]: Public transport integration --[Aims to]-> Provide seamless travel experiences 0.7949740886688232
+[Provide seamless travel experiences]: Public transport integration --[Aims to]-> Promote use of public transport 0.7588806748390198
+[Provide seamless travel experiences]: Public transport integration --[Aims to]-> Improve accessibility 0.7612723112106323
+[Provide seamless travel experiences]: Public transport integration --[Refers to]-> Coordinated approach 0.7554962635040283
+[Provide seamless travel experiences]: New zealand --[Has]-> Public transport integration 0.7856771945953369
+[Unique and picturesque travel experience]: Auckland ferry network --[Offering]-> Unique and picturesque travel experience 0.7939543724060059
+[Unique and picturesque travel experience]: Auckland ferry network --[Operated by]-> Auckland transport 0.7558854222297668
+[Unique and picturesque travel experience]: Auckland ferry network --[Crucial element]-> New zealand's transport landscape 0.7833239436149597
+[Unique and picturesque travel experience]: Auckland ferry network --[Enhancing]-> User convenience 0.7367769479751587
+[Unique and picturesque travel experience]: Auckland ferry network --[Focus on]-> Integrating with emerging technologies 0.7604055404663086
+[Unique and picturesque travel experience]: Auckland ferry network --[Origins]-> Date back to 19th century 0.7441182732582092
+[Unique and picturesque travel experience]: Auckland ferry network --[Set to undergo]-> Further enhancements 0.7346631288528442
+[Unique and picturesque travel experience]: Auckland ferry network --[Operates]-> Multiple routes 0.7551028728485107
+[Unique and picturesque travel experience]: Auckland ferry network --[First regular ferry service]-> Commenced in 1840 0.7318006157875061
+[Unique and picturesque travel experience]: Auckland ferry network --[Part of]-> Auckland transport's broader strategy 0.7712465524673462
+[Unique and picturesque travel experience]: Auckland ferry network --[Commitment to]-> Sustainability 0.7579014897346497

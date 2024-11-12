@@ -1,0 +1,12 @@
+What factors led to the $190.6 million financial settlement for the Transmission Gully project?
+None
+Seed: financial settlement of $190.6 million
+Seed: https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/
+Seed: $6.185 million
+Seed: Transmission Gully
+[financial settlement of $190.6 million]: Joint Venture --[RECEIVED]-> financial settlement of $190.6 million 0.8569209575653076
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Project Agreement --[AVAILABLE]-> https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/ 0.7974191904067993
+[$6.185 million]: Road to Zero advertising campaign --[COST]-> $6.185 million 0.7791327238082886
+[Transmission Gully]: New Zealand Transport Agency --[NEGOTIATING]-> Transmission Gully 0.8524351119995117
+[Transmission Gully]: Delta outbreak --[AFFECTED]-> Transmission Gully 0.8290144801139832
+[Transmission Gully]: Transmission Gully --[IMPACTED_BY]-> Delta outbreak 0.8245126605033875

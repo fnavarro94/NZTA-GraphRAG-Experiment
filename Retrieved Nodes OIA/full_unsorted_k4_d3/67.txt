@@ -1,0 +1,36 @@
+What is the most common component found to be non-compliant during heavy vehicle certifications in New Zealand?
+None
+Seed: Heavy Vehicle Specialist Certificate
+Seed: Vehicle Safety
+Seed: vehicle safety
+Seed: Commercial Vehicle Safety Programme
+[Heavy Vehicle Specialist Certificate]: Heavy Vehicle Specialist Certificate --[Revoked]-> 19 0.8458147048950195
+[Vehicle Safety]: Safety Tolerance --[Ensures]-> Vehicle Safety 0.8332735300064087
+[Vehicle Safety]: Calculations --[Satisfies]-> Safety Tolerance 0.7835468649864197
+[Vehicle Safety]: Vehicle Inspection --[Undertakes]-> Calculations 0.8110416531562805
+[Vehicle Safety]: Vehicle Safety --[Is]-> Critical 0.8360602259635925
+[Vehicle Safety]: Critical --[Identified]-> 33 0.7759553790092468
+[Vehicle Safety]: New Zealand Transport Agency --[HAS_TECHNICAL_VACANCIES]-> 33 0.8492293953895569
+[vehicle safety]: risk rating --[IMPORTANT_FOR]-> vehicle safety 0.8267669677734375
+[vehicle safety]: risk rating --[ASSIGNED]-> desktop review stage 0.7724521160125732
+[vehicle safety]: NZ Transport Agency --[REVIEWS]-> risk rating 0.84621262550354
+[vehicle safety]: NZ Transport Agency --[ASSOCIATED]-> Andrew Knackstedt 0.8236703276634216
+[vehicle safety]: Andrew Knackstedt --[ASSOCIATED]-> NZ Transport Agency 0.8243252038955688
+[vehicle safety]: NZ Transport Agency --[ASSOCIATED]-> oia-4596 0.863301157951355
+[vehicle safety]: NZ Transport Agency --[ANTICIPATE]-> work on the payment option 0.823838472366333
+[vehicle safety]: oia-4596 --[ASSOCIATED]-> NZ Transport Agency 0.8570308685302734
+[vehicle safety]: risk rating --[REVIEWED_BY]-> NZ Transport Agency 0.8410865068435669
+[vehicle safety]: NZ Transport Agency --[RESPONSIBLE_FOR]-> risk rating 0.8532058596611023
+[vehicle safety]: NZ Transport Agency --[CONDUCTS]-> vehicle inspection 0.8763806223869324
+[vehicle safety]: vehicle inspection --[CONDUCTED_BY]-> NZ Transport Agency 0.8736590147018433
+[vehicle safety]: risk rating --[ASSIGNED_BY]-> NZ Transport Agency 0.8449089527130127
+[vehicle safety]: NZ Transport Agency --[DISCUSS]-> Paul Giles 0.8134980201721191
+[vehicle safety]: Letter --[DISCUSS]-> NZ Transport Agency 0.841562032699585
+[vehicle safety]: NZ Transport Agency --[PUBLISHES]-> Response to OIA Request 0.8403558731079102
+[vehicle safety]: NZ Transport Agency --[ADVERTISES]-> Road Safety Campaigns 0.8484506607055664
+[vehicle safety]: crash data --[RELATES_TO]-> NZ Transport Agency 0.8490570187568665
+[vehicle safety]: NZ Transport Agency --[PROVIDES]-> response to the request 0.8355697989463806
+[vehicle safety]: questions and responses --[FROM]-> NZ Transport Agency 0.8715741634368896
+[vehicle safety]: full and correct crash records --[AVAILABLE]-> NZ Transport Agency 0.8433123826980591
+[vehicle safety]: NZ Transport Agency --[DECLINE]-> summary of the visiting drivers survey 0.8227733969688416
+[vehicle safety]: NZ Transport Agency --[PROACTIVELY_RELEASED]-> Waka Kotahi 0.8181272149085999

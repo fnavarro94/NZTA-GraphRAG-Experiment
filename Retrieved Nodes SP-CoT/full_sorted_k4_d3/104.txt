@@ -1,0 +1,34 @@
+Who is responsible for enforcing the Health and Safety at Work Act in the country that has a comprehensive framework of transport safety regulations covering road, rail, maritime, and aviation?
+None
+Seed: Health and safety at work act 2015
+Seed: Health and safety at work act
+Seed: Legislative framework for road safety initiatives
+Seed: Enforcement of road safety regulations
+[Health and safety at work act 2015]: Rail transport safety --[Governed by]-> Health and safety at work act 2015 0.8807689547538757
+[Health and safety at work act 2015]: Road safety authority --[Operates under]-> Ministry of transport 0.8792734146118164
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Is]-> Key piece of legislation 0.8774369359016418
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Applies to]-> Road transport 0.8774207830429077
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Applies to]-> Maritime 0.8749656081199646
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Applies to]-> Aviation 0.8748390674591064
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Applies to]-> Rail 0.8721293807029724
+[Health and safety at work act]: Health and safety at work act --[Year]-> 2015 0.8556894063949585
+[Health and safety at work act]: Electronic stability control --[Recognized by]-> New zealand transport agency 0.8183761835098267
+[Health and safety at work act]: Vehicle safety technologies --[Include]-> Electronic stability control 0.8070624470710754
+[Health and safety at work act]: Electronic stability control --[Vital component of]-> Achieving significant reduction in road-related harm 0.8021402955055237
+[Health and safety at work act]: Electronic stability control --[Aligning with]-> International safety standards 0.7996665835380554
+[Health and safety at work act]: Electronic stability control --[Mandatory]-> New zealand 0.7965607047080994
+[Health and safety at work act]: Electronic stability control --[Contributed to]-> Improved road safety 0.795153021812439
+[Legislative framework for road safety initiatives]: Vehicle safety standards --[Are overseen by]-> Ministry of transport 0.8718377947807312
+[Legislative framework for road safety initiatives]: Road safety legislation --[Governed by]-> Land transport act 1998 0.8640541434288025
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Provides]-> Legislative framework for road safety initiatives 0.8612699508666992
+[Legislative framework for road safety initiatives]: Road transport safety --[Governed by]-> Land transport act 1998 0.8590172529220581
+[Legislative framework for road safety initiatives]: Vehicle safety standards --[Are overseen by]-> Land transport act 1998 0.8585903644561768
+[Legislative framework for road safety initiatives]: Vehicle safety standards --[Are governed by]-> National legislation 0.8557234406471252
+[Legislative framework for road safety initiatives]: Vehicle safety standards --[Are governed by]-> Regulations 0.8556810617446899
+[Enforcement of road safety regulations]: Vehicle registration --[Helps]-> Enforcement of road safety regulations 0.8273723125457764
+[Enforcement of road safety regulations]: Vehicle registration --[Plays]-> Vital role in collection of data for transport planning and policy development 0.7798662185668945
+[Enforcement of road safety regulations]: Vehicle registration --[Is]-> Mandatory for all motor vehicles 0.7716096639633179
+[Enforcement of road safety regulations]: Vehicle registration --[Plays]-> Vital role in management of vehicle ownership 0.7574675679206848
+[Enforcement of road safety regulations]: Vehicle registration --[Serves]-> Multiple purposes 0.7573785781860352
+[Enforcement of road safety regulations]: Vehicle registration --[Facilitates]-> Collection of road user charges 0.7408663034439087
+[Enforcement of road safety regulations]: Vehicle registration --[Provides]-> Unique identifier for each vehicle 0.733212947845459

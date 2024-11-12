@@ -1,0 +1,31 @@
+What were the key safety incidents reported to the board in the June 2017 update?
+None
+Seed: Safety Incidents
+Seed: health and safety incidents
+Seed: rail operational safety
+Seed: incident reports
+[Safety Incidents]: Safety Incidents --[INVESTIGATED]-> Board 0.9061064720153809
+[Safety Incidents]: Health, Safety & Quality Report --[CONTAINS]-> Safety Incidents 0.8728950619697571
+[Safety Incidents]: Board --[RECEIVES_REPORT]-> Health, Safety & Quality Report 0.8639699816703796
+[Safety Incidents]: Stephen Bell --[SUBMITS_REPORT]-> Health, Safety & Quality Report 0.8239105939865112
+[health and safety incidents]: health and safety incidents --[OCCURRED]-> 2008-2013 0.8658453226089478
+[health and safety incidents]: Health and Safety Committee --[REVIEW]-> incident reports 0.8606594204902649
+[health and safety incidents]: incident reports --[RELATE_TO]-> health and safety incidents 0.8450368046760559
+[health and safety incidents]: health and safety incidents --[REGIONAL_BREAKDOWN]-> regional breakdown 0.8423941135406494
+[health and safety incidents]: 2008-2013 --[CONTAINS]-> incident reports 0.8422702550888062
+[health and safety incidents]: incident reports --[REVIEWED]-> regional managers 0.8352941870689392
+[health and safety incidents]: incident reports --[ISO]-> International Organisation for Standardisation 0.8296846151351929
+[rail operational safety]: awareness --[increased]-> rail operational safety 0.8363977074623108
+[rail operational safety]: rail operational safety --[improved]-> emergency plan 0.8257749676704407
+[rail operational safety]: emergency plan --[activated]-> injured person 0.8008368611335754
+[rail operational safety]: rope supervisor --[in place]-> emergency plan 0.7990525960922241
+[rail operational safety]: State Highway 1 --[identified]-> tool box talks 0.7744375467300415
+[rail operational safety]: tool box talks --[given]-> awareness 0.7694551944732666
+[rail operational safety]: injured person --[recovered]-> Kaikoura hospital 0.7645494937896729
+[incident reports]: health and safety incidents --[OCCURRED]-> 2008-2013 0.8658453226089478
+[incident reports]: Health and Safety Committee --[REVIEW]-> incident reports 0.8606594204902649
+[incident reports]: incident reports --[RELATE_TO]-> health and safety incidents 0.8450368046760559
+[incident reports]: health and safety incidents --[REGIONAL_BREAKDOWN]-> regional breakdown 0.8423941135406494
+[incident reports]: 2008-2013 --[CONTAINS]-> incident reports 0.8422702550888062
+[incident reports]: incident reports --[REVIEWED]-> regional managers 0.8352941870689392
+[incident reports]: incident reports --[ISO]-> International Organisation for Standardisation 0.8296846151351929

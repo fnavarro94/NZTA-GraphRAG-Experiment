@@ -1,0 +1,36 @@
+What is the destination city at the western end of the scenic passenger rail service in the country where the car-sharing service mentioned in the passage as a local initiative providing residents with flexible transportation options operates, known for showcasing stunning landscapes, particularly through the Southern Alps?
+None
+Seed: Scenic routes such as the tranzalpine and the northern explorer
+Seed: Scenic passenger train service
+Seed: Provide seamless travel experiences
+Seed: Unique and picturesque travel experience
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Include]-> Scenic routes such as the tranzalpine and the northern explorer 0.8363021612167358
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Showcase]-> New zealand's stunning landscapes 0.8367034792900085
+[Scenic passenger train service]: Tranzalpine --[Is]-> Scenic passenger train service 0.8185656070709229
+[Scenic passenger train service]: Kiwirail group --[Known for]-> Tranzalpine 0.7758949995040894
+[Scenic passenger train service]: Kiwirail group --[Is]-> State-owned enterprise 0.7503628134727478
+[Scenic passenger train service]: Kiwirail --[Is]-> State-owned enterprise 0.7560478448867798
+[Scenic passenger train service]: Kiwirail group --[Provides]-> Essential services 0.7619672417640686
+[Scenic passenger train service]: Kiwirail group --[Provides]-> Efficient transport 0.7766322493553162
+[Scenic passenger train service]: Kiwirail group --[Provides]-> Sustainable transport 0.7739150524139404
+[Scenic passenger train service]: Sustainable urban transport --[Key component]-> Sustainable transport 0.7573743462562561
+[Scenic passenger train service]: Kiwirail group --[Addresses]-> Environmental concerns 0.7379783391952515
+[Scenic passenger train service]: New zealand --[Face]-> Environmental concerns 0.7115936875343323
+[Scenic passenger train service]: Kiwirail group --[Addresses]-> Road congestion 0.7423477172851562
+[Scenic passenger train service]: Kiwirail --[Reduces]-> Road congestion 0.7440122365951538
+[Scenic passenger train service]: Kiwirail group --[Responsible for]-> Rail transport 0.7680357098579407
+[Scenic passenger train service]: Kiwirail group --[Aims to]-> Rail transport 0.7631642818450928
+[Scenic passenger train service]: Rail transport --[Has]-> Rich history dating back to the 19th century 0.7942444086074829
+[Scenic passenger train service]: Rail transport --[Has]-> Rich history dating back to 19th century 0.7954018712043762
+[Scenic passenger train service]: Rail transport --[Plays]-> Crucial role in freight movement 0.7760820388793945
+[Scenic passenger train service]: New zealand --[Has]-> Rail transport 0.7962897419929504
+[Scenic passenger train service]: Rail transport --[Plays vital role]-> Freight movement 0.7648049592971802
+[Scenic passenger train service]: Kiwirail group --[Responsible for]-> Freight services 0.755407452583313
+[Scenic passenger train service]: North island main trunk line --[Serves]-> Freight services 0.730578601360321
+[Scenic passenger train service]: North island main trunk line --[Supports]-> Freight services 0.733678936958313
+[Scenic passenger train service]: Kiwirail group --[Operates]-> Freight services 0.7714520692825317
+[Scenic passenger train service]: Kiwirail --[Provides]-> Freight services 0.7704256772994995
+[Scenic passenger train service]: Kiwirail group --[Promotes]-> Integrated transport solutions 0.7661214470863342
+[Scenic passenger train service]: Waka kotahi --[Develops]-> Integrated transport solutions 0.7603287100791931
+[Scenic passenger train service]: Kiwirail group --[Promotes]-> Economic growth 0.7406244277954102
+[Scenic passenger train service]: National land transport programme --[Supports]-> Economic growth 0.7487275004386902

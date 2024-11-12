@@ -1,0 +1,34 @@
+Which city is linked to the urban area in New Zealand that has experienced significant investment in public transport infrastructure, alongside the largest city in New Zealand connected by the major railway line being upgraded to enhance its capacity and efficiency for sustainable transport, by State Highway 1 to the north?
+None
+Seed: Significant investment in public transport infrastructure
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+Seed: Addressing transport challenges in auckland
+Seed: Increased demand for effective transportation systems
+[Significant investment in public transport infrastructure]: New zealand --[Has]-> Transport infrastructure investment 0.8929443359375
+[Significant investment in public transport infrastructure]: New zealand --[Has]-> Transport infrastructure development 0.8824602961540222
+[Significant investment in public transport infrastructure]: New zealand --[Has]-> Public transport enhancement 0.8817123174667358
+[Significant investment in public transport infrastructure]: New zealand --[Has]-> Transport infrastructure 0.8804230093955994
+[Significant investment in public transport infrastructure]: Sustainable urban transport --[Is]-> New zealand 0.8797028660774231
+[Significant investment in public transport infrastructure]: Sustainable urban transport --[Key component]-> New zealand 0.879676878452301
+[Significant investment in public transport infrastructure]: New zealand --[Has]-> Urban-centric transport system 0.8789592981338501
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Aims to]-> Enhance resilience and adaptability of new zealand's transport network 0.8524695634841919
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Plays]-> Significant role in shaping transport infrastructure and policy in new zealand 0.8505674004554749
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Collaborates with]-> New zealand transport agency (nzta 0.8138942718505859
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Is]-> Collective of australian and new zealand road transport and traffic agencies 0.7906535863876343
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Conducts]-> Extensive research and development projects 0.7516047954559326
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Engages in]-> International collaborations to align initiatives with global best practices 0.7240342497825623
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Founded in]-> 1990 0.711946964263916
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Transport infrastructure investment 0.8929443359375
+[Addressing transport challenges in auckland]: Auckland city rail link --[Is]-> Significant infrastructure project 0.8824862241744995
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Transport infrastructure development 0.8824602961540222
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Public transport enhancement 0.8817123174667358
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Transport infrastructure 0.8804230093955994
+[Addressing transport challenges in auckland]: Sustainable urban transport --[Is]-> New zealand 0.8797028660774231
+[Addressing transport challenges in auckland]: Sustainable urban transport --[Key component]-> New zealand 0.879676878452301
+[Increased demand for effective transportation systems]: New zealand --[Has]-> Transport infrastructure investment 0.8929443359375
+[Increased demand for effective transportation systems]: Auckland city rail link --[Is]-> Significant infrastructure project 0.8824862241744995
+[Increased demand for effective transportation systems]: New zealand --[Has]-> Transport infrastructure development 0.8824602961540222
+[Increased demand for effective transportation systems]: New zealand --[Has]-> Public transport enhancement 0.8817123174667358
+[Increased demand for effective transportation systems]: New zealand --[Has]-> Transport infrastructure 0.8804230093955994
+[Increased demand for effective transportation systems]: Sustainable urban transport --[Is]-> New zealand 0.8797028660774231
+[Increased demand for effective transportation systems]: Sustainable urban transport --[Key component]-> New zealand 0.879676878452301

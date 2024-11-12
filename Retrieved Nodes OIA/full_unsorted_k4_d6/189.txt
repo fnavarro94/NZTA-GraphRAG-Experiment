@@ -1,0 +1,36 @@
+How are exemptions for wearing bicycle and motorcycle helmets granted in New Zealand?
+None
+Seed: exemptions
+Seed: instances where a driver and/or passenger may automatically be excused from the requirement to utilise a child restrain and seatbelt
+Seed: grant formal exemptions
+Seed: an adherent of the Sikh religion to be excused from wearing a motorcycle helmet, providing they will not be travelling at a speed exceeding 50kmph
+[exemptions]: New Zealand Transport Agency --[GRANTS]-> exemptions 0.8846818208694458
+[exemptions]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8016507625579834
+[exemptions]: New Zealand Transport Agency --[BASED]-> Wellington 0.8174444437026978
+[exemptions]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8106458783149719
+[exemptions]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.8119446039199829
+[exemptions]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8066166639328003
+[exemptions]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7735992074012756
+[exemptions]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7995514273643494
+[exemptions]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.8107845187187195
+[exemptions]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.8403887748718262
+[exemptions]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.8215151429176331
+[exemptions]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8243440985679626
+[exemptions]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8052182197570801
+[exemptions]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7991156578063965
+[exemptions]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8103468418121338
+[exemptions]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8186327815055847
+[exemptions]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7957907915115356
+[exemptions]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.810651957988739
+[exemptions]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8088270425796509
+[exemptions]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7884504199028015
+[exemptions]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8092595338821411
+[exemptions]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8182929158210754
+[exemptions]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7891711592674255
+[exemptions]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8136605620384216
+[exemptions]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.810194194316864
+[exemptions]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8120146989822388
+[exemptions]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.789670467376709
+[exemptions]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7834144830703735
+[exemptions]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8162652254104614
+[exemptions]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7728451490402222

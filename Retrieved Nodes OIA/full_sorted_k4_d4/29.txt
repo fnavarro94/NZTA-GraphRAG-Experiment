@@ -1,0 +1,34 @@
+What transport route was NZTA planning from Auckland CBD to West Auckland?
+None
+Seed: work done on a light rail route from the Auckland CBD to West Auckland
+Seed: Rapid Transit in Auckland
+Seed: Regional Land Transport Plan
+Seed: Regional Public Transport Plans
+[work done on a light rail route from the Auckland CBD to West Auckland]: New Zealand Transport Agency --[PROVIDES]-> work done on a light rail route from the Auckland CBD to West Auckland 0.8849544525146484
+[work done on a light rail route from the Auckland CBD to West Auckland]: Auckland --[CONTAINS]-> transport infrastructure 0.8811302185058594
+[work done on a light rail route from the Auckland CBD to West Auckland]: New Zealand Transport Agency --[BASED_IN]-> Auckland 0.8805112838745117
+[work done on a light rail route from the Auckland CBD to West Auckland]: transport services --[AVAILABLE_IN]-> Auckland 0.8754512667655945
+[work done on a light rail route from the Auckland CBD to West Auckland]: North Auckland Rapid Transit Corridor --[LOCATED]-> Auckland 0.8738494515419006
+[work done on a light rail route from the Auckland CBD to West Auckland]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.8737033009529114
+[work done on a light rail route from the Auckland CBD to West Auckland]: Auckland Transport --[MANAGES]-> roads 0.8720331192016602
+[Rapid Transit in Auckland]: New Zealand Transport Agency --[PROVIDES]-> work done on a light rail route from the Auckland CBD to West Auckland 0.8849544525146484
+[Rapid Transit in Auckland]: New Zealand Transport Agency --[BASED_IN]-> Auckland 0.8805112838745117
+[Rapid Transit in Auckland]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.8737033009529114
+[Rapid Transit in Auckland]: Auckland --[HOME_OF]-> New Zealand Transport Agency 0.869193971157074
+[Rapid Transit in Auckland]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Auckland 0.868229866027832
+[Rapid Transit in Auckland]: New Zealand Transport Agency --[LOCATED]-> New Zealand 0.8652963638305664
+[Rapid Transit in Auckland]: Auckland --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8610790371894836
+[Regional Land Transport Plan]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Access and Development Programme Business Case 0.8275936245918274
+[Regional Land Transport Plan]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.82469642162323
+[Regional Land Transport Plan]: 2024-27 National Land Transport Programme --[DEVELOPMENT_OF]-> Regional Land Transport Plan 0.8012580871582031
+[Regional Land Transport Plan]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.7911543250083923
+[Regional Land Transport Plan]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Access and Development Programme Business Case 0.7900114059448242
+[Regional Land Transport Plan]: Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.7846572995185852
+[Regional Land Transport Plan]: Main South Road, Shands Road and Carmen Road intersection --[LOCATED_NEAR]-> Hornby Access and Development Programme Business Case 0.7794438600540161
+[Regional Public Transport Plans]: New Zealand Transport Agency --[PROVIDES]-> work done on a light rail route from the Auckland CBD to West Auckland 0.8849544525146484
+[Regional Public Transport Plans]: Auckland --[CONTAINS]-> transport infrastructure 0.8811302185058594
+[Regional Public Transport Plans]: New Zealand Transport Agency --[BASED_IN]-> Auckland 0.8805112838745117
+[Regional Public Transport Plans]: transport services --[AVAILABLE_IN]-> Auckland 0.8754512667655945
+[Regional Public Transport Plans]: North Auckland Rapid Transit Corridor --[LOCATED]-> Auckland 0.8738494515419006
+[Regional Public Transport Plans]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.8737033009529114
+[Regional Public Transport Plans]: Auckland Transport --[MANAGES]-> roads 0.8720331192016602

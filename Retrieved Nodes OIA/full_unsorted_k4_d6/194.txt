@@ -1,0 +1,36 @@
+Why did Waka Kotahi withhold documents related to the Transmission Gully settlement?
+None
+Seed: Waka Kotahi NZ Transport Agency
+Seed: Waka Kotahi N Z Transport Agency
+Seed: Waka Kotahi
+Seed: NZ Transport Agency Waka Kotahi
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.8428376913070679
+[Waka Kotahi NZ Transport Agency]: New Zealand Transport Agency --[BASED]-> Wellington 0.7801215648651123
+[Waka Kotahi NZ Transport Agency]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7814195156097412
+[Waka Kotahi NZ Transport Agency]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.750411868095398
+[Waka Kotahi NZ Transport Agency]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.7724028825759888
+[Waka Kotahi NZ Transport Agency]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7747998237609863
+[Waka Kotahi NZ Transport Agency]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7865509986877441
+[Waka Kotahi NZ Transport Agency]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7830120325088501
+[Waka Kotahi NZ Transport Agency]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7790370583534241
+[Waka Kotahi NZ Transport Agency]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.785563588142395
+[Waka Kotahi NZ Transport Agency]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7904971241950989
+[Waka Kotahi NZ Transport Agency]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7846575975418091
+[Waka Kotahi NZ Transport Agency]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7853094935417175
+[Waka Kotahi NZ Transport Agency]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7803016901016235
+[Waka Kotahi NZ Transport Agency]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.797014057636261
+[Waka Kotahi NZ Transport Agency]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7952545285224915
+[Waka Kotahi NZ Transport Agency]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7936772108078003
+[Waka Kotahi NZ Transport Agency]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7820575833320618
+[Waka Kotahi NZ Transport Agency]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7879308462142944
+[Waka Kotahi NZ Transport Agency]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7987704277038574
+[Waka Kotahi NZ Transport Agency]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7980879545211792
+[Waka Kotahi NZ Transport Agency]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7957466840744019
+[Waka Kotahi NZ Transport Agency]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8044082522392273
+[Waka Kotahi NZ Transport Agency]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7778160572052002
+[Waka Kotahi NZ Transport Agency]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7981281876564026
+[Waka Kotahi NZ Transport Agency]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8056061267852783
+[Waka Kotahi NZ Transport Agency]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8003565073013306
+[Waka Kotahi NZ Transport Agency]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.775175154209137
+[Waka Kotahi NZ Transport Agency]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.806429386138916
+[Waka Kotahi NZ Transport Agency]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7883062958717346

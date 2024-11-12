@@ -1,0 +1,36 @@
+Who is the acting National Manager responsible for the reply on Automatic Number Plate Recognition cameras?
+None
+Seed: Acting Senior Manager, Media
+Seed: no notifications of offences detected by speed cameras
+Seed: National Manager, Education and Marketing
+Seed: National correspondent
+[Acting Senior Manager, Media]: Jasmine Higginson --[IS]-> Acting Senior Manager, Media 0.7676956653594971
+[Acting Senior Manager, Media]: New Zealand Transport Agency --[EMPLOYS]-> Jasmine Higginson 0.7619385719299316
+[Acting Senior Manager, Media]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7500606775283813
+[Acting Senior Manager, Media]: New Zealand Transport Agency --[BASED]-> Wellington 0.7450535297393799
+[Acting Senior Manager, Media]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7272543907165527
+[Acting Senior Manager, Media]: Golden Mile --[LOCATED]-> Wellington 0.7013244032859802
+[Acting Senior Manager, Media]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7087234258651733
+[Acting Senior Manager, Media]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7334084510803223
+[Acting Senior Manager, Media]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7392671704292297
+[Acting Senior Manager, Media]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7361631393432617
+[Acting Senior Manager, Media]: Wellington --[PART_OF]-> Wellington Region 0.7193653583526611
+[Acting Senior Manager, Media]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7352391481399536
+[Acting Senior Manager, Media]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7077133655548096
+[Acting Senior Manager, Media]: Wellington --[HAS]-> tunnel 0.7069174647331238
+[Acting Senior Manager, Media]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7458058595657349
+[Acting Senior Manager, Media]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7380855083465576
+[Acting Senior Manager, Media]: Wellington --[POSTCODE]-> 6141 0.7229465246200562
+[Acting Senior Manager, Media]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.744926929473877
+[Acting Senior Manager, Media]: Wellington --[IS_PART_OF]-> New Zealand 0.7234381437301636
+[Acting Senior Manager, Media]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7277657389640808
+[Acting Senior Manager, Media]: 50 Victoria Street --[IN]-> Wellington 0.721716046333313
+[Acting Senior Manager, Media]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7330749034881592
+[Acting Senior Manager, Media]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7232468128204346
+[Acting Senior Manager, Media]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7309315204620361
+[Acting Senior Manager, Media]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7499510049819946
+[Acting Senior Manager, Media]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7535708546638489
+[Acting Senior Manager, Media]: NZ Transport Agency --[LOCATED]-> Wellington 0.7480447292327881
+[Acting Senior Manager, Media]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7165762186050415
+[Acting Senior Manager, Media]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.724166750907898
+[Acting Senior Manager, Media]: New Zealand --[CONTAINS]-> Wellington 0.7077911496162415

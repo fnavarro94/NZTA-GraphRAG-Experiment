@@ -1,0 +1,28 @@
+What percentage of MR1 and MR1B transactions were completed through an agent between 1 October 2022 and 30 September 2023?
+None
+Seed: statistics for MR1/B transactions
+Seed: MR1/B transactions data
+Seed: 1 October 2022 to 30 September 2023
+Seed: MR1/B transactions
+[statistics for MR1/B transactions]: transactions --[OCCURRED]-> 1 October 2022 to 30 September 2023 0.8961426019668579
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[PROVIDES]-> statistics for MR1/B transactions 0.8429489135742188
+[statistics for MR1/B transactions]: Data --[IS]-> Current at 18 September 2019 0.8399299383163452
+[statistics for MR1/B transactions]: Request --[CLARIFIED]-> 30 November 2022 0.8364190459251404
+[statistics for MR1/B transactions]: email of 20 October 2023 --[ASSOCIATED_WITH]-> requesting the following information 0.8241991996765137
+[statistics for MR1/B transactions]: Data --[FOR]-> period 1/10/2017 to 26/05/2021 0.8227563500404358
+[statistics for MR1/B transactions]: email of 20 October 2023 --[CONTAINS]-> requesting the following information 0.8205070495605469
+[MR1/B transactions data]: Motor Vehicle Register --[CONTAINS]-> MR1/B transactions data 0.8200357556343079
+[1 October 2022 to 30 September 2023]: transactions --[OCCURRED]-> 1 October 2022 to 30 September 2023 0.8961426019668579
+[1 October 2022 to 30 September 2023]: New Zealand Transport Agency --[PROVIDES]-> statistics for MR1/B transactions 0.8429489135742188
+[1 October 2022 to 30 September 2023]: OIA-12662 --[MADE_BY]-> email of 12 May 2023 0.8146314024925232
+[1 October 2022 to 30 September 2023]: New Zealand Transport Agency --[RESPONSE]-> Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below. 0.8003619313240051
+[1 October 2022 to 30 September 2023]: Forges Cheque ($100) --[COUNT]-> 2 0.7917791604995728
+[1 October 2022 to 30 September 2023]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.7899472713470459
+[1 October 2022 to 30 September 2023]: New Zealand Transport Agency --[ON_TRACK]-> transition to a fully electric vehicle fleet by 2025 0.7871170043945312
+[MR1/B transactions]: MR1/B transactions --[TOTAL]-> 5,496,319 0.8747239112854004
+[MR1/B transactions]: MR1/B transactions --[COMPLETED]-> agent 0.8706651926040649
+[MR1/B transactions]: MR1/B transactions --[COMPLETED]-> online 0.8445967435836792
+[MR1/B transactions]: 2024 --[RELATES_TO]-> current and future renewal programmes 0.8103593587875366
+[MR1/B transactions]: Mobility Marketplace --[GO_LIVE]-> Autumn 2019 0.8089185357093811
+[MR1/B transactions]: Transport Agency --[FOCUSED_ON]-> gauge interest from commerical operators 0.7973371744155884
+[MR1/B transactions]: Transport Agency --[PUBLISHES]-> response to this request on our website 0.7964414358139038

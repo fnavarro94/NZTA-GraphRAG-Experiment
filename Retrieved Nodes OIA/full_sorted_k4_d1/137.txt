@@ -1,0 +1,17 @@
+What payments have been made to the Wellington Gateway Partnership (WGP) since the opening of Transmission Gully?
+None
+Seed: https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/
+Seed: Wellington Gateway Partnership
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: record $3.9 billion in public transport during this NLTP
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Project Agreement --[AVAILABLE]-> https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/ 0.8430780172348022
+[Wellington Gateway Partnership]: Wellington Gateway Partnership --[OPENED]-> Transmission Gully Motorway 0.8931943774223328
+[Wellington Gateway Partnership]: Wellington Gateway Partnership --[RECEIVES]-> Periodic Payments 0.8867504596710205
+[Wellington Gateway Partnership]: Wellington Gateway Partnership --[PART_OF]-> New Zealand 0.8793873190879822
+[Wellington Gateway Partnership]: Wellington Gateway Partnership --[RECEIVES]-> Prolongation Costs 0.8734745383262634
+[Wellington Gateway Partnership]: Wellington Gateway Partnership --[RECEIVES]-> Quarterly Unitary Payments 0.8715323209762573
+[Wellington Gateway Partnership]: Wellington Gateway Partnership --[COLLABORATES_WITH]-> New Zealand Transport Agency 0.8621733784675598
+[Wellington Gateway Partnership]: New Zealand Transport Agency --[INSTRUCTS]-> Wellington Gateway Partnership 0.859663724899292
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) --[CONTRACTS]-> consultants 0.8219811916351318
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUESTS]-> detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) 0.8073643445968628
+[record $3.9 billion in public transport during this NLTP]: funding allocations --[PROVIDES]-> record $3.9 billion in public transport during this NLTP 0.771213710308075

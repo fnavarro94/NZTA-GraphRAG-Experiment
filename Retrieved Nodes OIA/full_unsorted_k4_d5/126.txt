@@ -1,0 +1,36 @@
+Were any details about the crash that caused the $93,114.27 repair withheld?
+None
+Seed: figures on drivers involved in fatal crashes
+Seed: report on the impacts of the Fare Recovery Ratio
+Seed: Traffic Crash Reports
+Seed: Operated A Motor Vehicle Recklessly
+[figures on drivers involved in fatal crashes]: AA --[PROVIDES]-> figures on drivers involved in fatal crashes 0.8103829622268677
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[PRODUCES]-> report on the impacts of the Fare Recovery Ratio 0.7906550168991089
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.761494517326355
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[BASED]-> Wellington 0.7631581425666809
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7614278197288513
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.7628685832023621
+[report on the impacts of the Fare Recovery Ratio]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7414613962173462
+[report on the impacts of the Fare Recovery Ratio]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.7324373126029968
+[report on the impacts of the Fare Recovery Ratio]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7364115715026855
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7453901767730713
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.7570412158966064
+[report on the impacts of the Fare Recovery Ratio]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7418426871299744
+[report on the impacts of the Fare Recovery Ratio]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7292449474334717
+[report on the impacts of the Fare Recovery Ratio]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7454908490180969
+[report on the impacts of the Fare Recovery Ratio]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7262555360794067
+[report on the impacts of the Fare Recovery Ratio]: Wellington --[CONTAINS]-> Private Bag 6995 0.7408684492111206
+[report on the impacts of the Fare Recovery Ratio]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7742292881011963
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7590530514717102
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.7670309543609619
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7440831661224365
+[report on the impacts of the Fare Recovery Ratio]: 50 Victoria Street --[IN]-> Wellington 0.7330337166786194
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.7507097125053406
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[LOCATED]-> 50 Victoria Street 0.7584941387176514
+[report on the impacts of the Fare Recovery Ratio]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7387561798095703
+[report on the impacts of the Fare Recovery Ratio]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.734634518623352
+[report on the impacts of the Fare Recovery Ratio]: Wellington --[CONTAINS]-> 50 Victoria Street 0.730940580368042
+[report on the impacts of the Fare Recovery Ratio]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7298210263252258
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.757175862789154
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7628323435783386
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[CONTACT]-> Wellington 6141 0.7705783843994141

@@ -1,0 +1,10 @@
+What is the abbreviation commonly used for the initiative that the New Zealand government has launched to develop dedicated cycling infrastructure in New Zealand?
+None
+Seed: Cycling infrastructure and public transport initiatives
+Seed: A crucial role in funding and promoting cycling infrastructure projects
+Seed: Development of cycling infrastructure
+Seed: Government initiative
+[Cycling infrastructure and public transport initiatives]: North island --[Features]-> Cycling infrastructure and public transport initiatives 0.8427839279174805
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Plays]-> A crucial role in funding and promoting cycling infrastructure projects 0.8729434609413147
+[Development of cycling infrastructure]: Projects --[Include]-> Development of cycling infrastructure 0.8605217337608337
+[Government initiative]: New zealand electric vehicle programme --[Is]-> Government initiative 0.8730065226554871

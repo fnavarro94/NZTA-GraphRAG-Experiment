@@ -1,0 +1,11 @@
+Are there any planned improvements for the Hornby Intersection at Main South Road, Shands Road, and Carmen Road?
+None
+Seed: Request for information on Hornby Intersection improvements
+Seed: no other intersection safety improvements planned
+Seed: Main South Road, Shands Road and Carmen Road intersection
+Seed: Hornby Intersection
+[Request for information on Hornby Intersection improvements]: Request for information on Hornby Intersection improvements --[REQUESTS]-> New Zealand Transport Agency 0.8886649012565613
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[RESPONDS_TO]-> Request for information on Hornby Intersection improvements 0.8727172613143921
+[no other intersection safety improvements planned]: Featherston --[RAISED_CROSSINGS]-> no other intersection safety improvements planned 0.8340469598770142
+[Main South Road, Shands Road and Carmen Road intersection]: Main South Road, Shands Road and Carmen Road intersection --[LOCATED_NEAR]-> Hornby Access and Development Programme Business Case 0.9284439086914062
+[Hornby Intersection]: Hornby Intersection --[IMPROVEMENTS_PLANNED]-> next 10 years 0.9216638803482056

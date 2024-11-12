@@ -1,0 +1,29 @@
+What is the name of the scenic passenger rail service in New Zealand known for showcasing stunning landscapes, particularly through the Southern Alps, that is the destination city at the western end of the train service?
+None
+Seed: Scenic passenger train service
+Seed: Scenic routes such as the tranzalpine and the northern explorer
+Seed: Scenic train
+Seed: Scenic routes
+[Scenic passenger train service]: New zealand --[Includes]-> Scenic routes 0.8479104042053223
+[Scenic passenger train service]: Kiwirail group --[Operates]-> Scenic 0.8447070121765137
+[Scenic passenger train service]: Kiwirail group --[Offers]-> Scenic journeys 0.8410583138465881
+[Scenic passenger train service]: Kiwirail --[Operates]-> Great journeys of new zealand 0.8388895392417908
+[Scenic passenger train service]: Tranzalpine --[Is]-> Scenic passenger train service 0.8359114527702332
+[Scenic passenger train service]: New zealand --[Has]-> Rail transport 0.8338509202003479
+[Scenic passenger train service]: New zealand --[Has]-> Trains 0.8314882516860962
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Showcase]-> New zealand's stunning landscapes 0.9054542183876038
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Include]-> Scenic routes such as the tranzalpine and the northern explorer 0.8379913568496704
+[Scenic train]: New zealand --[Includes]-> Scenic routes 0.8479104042053223
+[Scenic train]: Kiwirail group --[Operates]-> Scenic 0.8447070121765137
+[Scenic train]: Kiwirail group --[Offers]-> Scenic journeys 0.8410583138465881
+[Scenic train]: Kiwirail --[Operates]-> Great journeys of new zealand 0.8388895392417908
+[Scenic train]: Tranzalpine --[Is]-> Scenic passenger train service 0.8359114527702332
+[Scenic train]: New zealand --[Has]-> Rail transport 0.8338509202003479
+[Scenic train]: New zealand --[Has]-> Trains 0.8314882516860962
+[Scenic routes]: New zealand --[Includes]-> Scenic routes 0.8479104042053223
+[Scenic routes]: Kiwirail group --[Operates]-> Scenic 0.8447070121765137
+[Scenic routes]: Kiwirail group --[Offers]-> Scenic journeys 0.8410583138465881
+[Scenic routes]: Kiwirail --[Operates]-> Great journeys of new zealand 0.8388895392417908
+[Scenic routes]: Tranzalpine --[Is]-> Scenic passenger train service 0.8359114527702332
+[Scenic routes]: New zealand --[Has]-> Rail transport 0.8338509202003479
+[Scenic routes]: New zealand --[Has]-> Trains 0.8314882516860962

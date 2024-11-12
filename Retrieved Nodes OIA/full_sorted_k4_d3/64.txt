@@ -1,0 +1,22 @@
+What are the limitations of the data recorded in the Crash Analysis System (CAS) for non-fatal crashes?
+None
+Seed: figures on drivers involved in fatal crashes
+Seed: Guide for the interpretation of coded crash reports
+Seed: 1 fatal crash, 3 serious crashes, 8 minor crashes, 12 non-injury crashes, 24 total crashes
+Seed: Crash Analysis System
+[figures on drivers involved in fatal crashes]: AA --[PROVIDES]-> figures on drivers involved in fatal crashes 0.8498460054397583
+[Guide for the interpretation of coded crash reports]: non-injury crashes --[RECORDED]-> CAS 0.9179195165634155
+[Guide for the interpretation of coded crash reports]: fatal crashes --[RECORDED]-> CAS 0.8965917825698853
+[Guide for the interpretation of coded crash reports]: serious injury crashes --[RECORDED]-> CAS 0.8956819176673889
+[Guide for the interpretation of coded crash reports]: CAS --[PROVIDES]-> full and correct crash records 0.8926165103912354
+[Guide for the interpretation of coded crash reports]: minor injury crashes --[RECORDED]-> CAS 0.8866310119628906
+[Guide for the interpretation of coded crash reports]: CAS --[CONTAINS]-> crash records 0.8862043023109436
+[Guide for the interpretation of coded crash reports]: crash records --[PROCESSED]-> CAS 0.8716738224029541
+[1 fatal crash, 3 serious crashes, 8 minor crashes, 12 non-injury crashes, 24 total crashes]: 01/10/2020 to 26/05/2021 --[HAS_CRASHES]-> 1 fatal crash, 3 serious crashes, 8 minor crashes, 12 non-injury crashes, 24 total crashes 0.8414783477783203
+[Crash Analysis System]: non-injury crashes --[RECORDED]-> CAS 0.9179195165634155
+[Crash Analysis System]: fatal crashes --[RECORDED]-> CAS 0.8965917825698853
+[Crash Analysis System]: serious injury crashes --[RECORDED]-> CAS 0.8956819176673889
+[Crash Analysis System]: Crash Analysis System --[RECORDS]-> seven non-injury crashes 0.8928710222244263
+[Crash Analysis System]: CAS --[PROVIDES]-> full and correct crash records 0.8926165103912354
+[Crash Analysis System]: Crash Analysis System --[PROVIDES]-> Data 0.8923947811126709
+[Crash Analysis System]: Crash Analysis System --[PROVIDES]-> traffic crash data 0.8922253251075745

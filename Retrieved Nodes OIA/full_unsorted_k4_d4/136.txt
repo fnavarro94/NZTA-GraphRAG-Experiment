@@ -1,0 +1,36 @@
+What is the total amount of money Waka Kotahi is planning to spend on the Road to Zero strategy until 2030?
+None
+Seed: cost of the current Road to Zero advertising campaign
+Seed: development of the next Road to Zero Action Plan
+Seed: Waka Kotahi
+Seed: Waka Kotahi Senior Project Manager
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[COST]-> cost of the current Road to Zero advertising campaign 0.8234602212905884
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[LAUNCHED_BY]-> New Zealand Transport Agency 0.7997756600379944
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7227408289909363
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[BASED]-> Wellington 0.7318432927131653
+[cost of the current Road to Zero advertising campaign]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.72883141040802
+[cost of the current Road to Zero advertising campaign]: Golden Mile --[LOCATED]-> Wellington 0.7249386310577393
+[cost of the current Road to Zero advertising campaign]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7178126573562622
+[cost of the current Road to Zero advertising campaign]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7051243782043457
+[cost of the current Road to Zero advertising campaign]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.719627857208252
+[cost of the current Road to Zero advertising campaign]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7084214687347412
+[cost of the current Road to Zero advertising campaign]: Wellington --[PART_OF]-> Wellington Region 0.7152582406997681
+[cost of the current Road to Zero advertising campaign]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7389545440673828
+[cost of the current Road to Zero advertising campaign]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7360923290252686
+[cost of the current Road to Zero advertising campaign]: Wellington --[HAS]-> tunnel 0.7343012094497681
+[cost of the current Road to Zero advertising campaign]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.8055053949356079
+[cost of the current Road to Zero advertising campaign]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7210935354232788
+[cost of the current Road to Zero advertising campaign]: Wellington --[POSTCODE]-> 6141 0.6914888620376587
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.721630871295929
+[cost of the current Road to Zero advertising campaign]: Wellington --[IS_PART_OF]-> New Zealand 0.7233939170837402
+[cost of the current Road to Zero advertising campaign]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7411373257637024
+[cost of the current Road to Zero advertising campaign]: 50 Victoria Street --[IN]-> Wellington 0.7100313901901245
+[cost of the current Road to Zero advertising campaign]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7074238061904907
+[cost of the current Road to Zero advertising campaign]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7208054065704346
+[cost of the current Road to Zero advertising campaign]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7187297344207764
+[cost of the current Road to Zero advertising campaign]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.8037189245223999
+[cost of the current Road to Zero advertising campaign]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7927929759025574
+[cost of the current Road to Zero advertising campaign]: NZ Transport Agency --[LOCATED]-> Wellington 0.720860481262207
+[cost of the current Road to Zero advertising campaign]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7212213277816772
+[cost of the current Road to Zero advertising campaign]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7085500359535217
+[cost of the current Road to Zero advertising campaign]: New Zealand --[CONTAINS]-> Wellington 0.738289475440979

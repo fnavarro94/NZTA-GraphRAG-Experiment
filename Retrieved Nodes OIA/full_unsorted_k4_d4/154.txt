@@ -1,0 +1,36 @@
+What specific type of endorsement is mentioned in the OIA-2127 document?
+None
+Seed: applications for I endorsements
+Seed: standards for all licence endorsement holders
+Seed: I endorsement holders
+Seed: renewals of existing endorsement holders
+[applications for I endorsements]: Transport Agency --[ASSESS]-> applications for I endorsements 0.8482099175453186
+[applications for I endorsements]: www.ombudsman.parliament.nz --[PROVIDES]-> Transport Agency 0.8039979934692383
+[applications for I endorsements]: www.ombudsman.parliament.nz --[LINKS_TO]-> Ombudsman 0.8097286224365234
+[applications for I endorsements]: right to ask the Ombudsman to review --[IS_GRANTED_BY]-> Ombudsman 0.7851700782775879
+[applications for I endorsements]: Ombudsman --[REVIEW_REQUEST]-> decision 0.7788274884223938
+[applications for I endorsements]: Ombudsman --[REVIEW]-> decision to withhold information 0.7946555018424988
+[applications for I endorsements]: Ombudsman --[PROVIDES]-> New Zealand Transport Agency 0.7839828729629517
+[applications for I endorsements]: New Zealand Transport Agency --[PROVIDES]-> Ombudsman 0.7965840101242065
+[applications for I endorsements]: Ombudsman --[REVIEW]-> withheld information 0.7850633859634399
+[applications for I endorsements]: Ombudsman --[PROVIDES]-> review of decision 0.7929114103317261
+[applications for I endorsements]: Ombudsman --[PROVIDES]-> withheld information 0.7758398652076721
+[applications for I endorsements]: Ombudsman --[LOCATED_AT]-> www.ombudsman.parliament.nz 0.7776104211807251
+[applications for I endorsements]: Ombudsman --[PARLIAMENT]-> parliament.nz 0.8075672388076782
+[applications for I endorsements]: contact details --[FOR]-> Ombudsman 0.774797260761261
+[applications for I endorsements]: decision --[REVIEW]-> Ombudsman 0.7959814071655273
+[applications for I endorsements]: Ombudsman --[IS]-> www.ombudsman.parliament.nz 0.8039727210998535
+[applications for I endorsements]: Ombudsman --[REVIEW]-> Waka Kotahi 0.7699813842773438
+[applications for I endorsements]: review by the Ombudsman --[CONDUCTED_BY]-> Ombudsman 0.7942360639572144
+[applications for I endorsements]: Ombudsman --[LOCATED_IN]-> New Zealand 0.7731727361679077
+[applications for I endorsements]: Ombudsman --[PROVIDES]-> review 0.7923234701156616
+[applications for I endorsements]: review --[CONDUCTED_BY]-> Ombudsman 0.7903519868850708
+[applications for I endorsements]: Kevin Reid --[APPEAL]-> Ombudsman 0.7686318159103394
+[applications for I endorsements]: Kevin Reid --[ASSIST]-> Ombudsman 0.7709512710571289
+[applications for I endorsements]: Ombudsman --[REVIEW]-> decision to refuse request 0.7793978452682495
+[applications for I endorsements]: Ombudsman --[LOCATED]-> www.ombudsman.parliament.nz 0.7912052869796753
+[applications for I endorsements]: www.ombudsman.parliament.nz --[PROVIDES]-> Ombudsman 0.8119022250175476
+[applications for I endorsements]: Ombudsman --[REVIEW]-> Decision 0.7922893762588501
+[applications for I endorsements]: Ombudsman --[PROVIDES]-> contact details 0.7717641592025757
+[applications for I endorsements]: www.ombudsman.parliament.nz --[ASSOCIATED]-> Ombudsman 0.8218123912811279
+[applications for I endorsements]: Ombudsman --[REVIEW]-> decision 0.7922893762588501

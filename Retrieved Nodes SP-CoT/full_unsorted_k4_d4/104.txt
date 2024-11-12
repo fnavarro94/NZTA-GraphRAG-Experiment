@@ -1,0 +1,36 @@
+Who is responsible for enforcing the Health and Safety at Work Act in the country that has a comprehensive framework of transport safety regulations covering road, rail, maritime, and aviation?
+None
+Seed: Health and safety at work act 2015
+Seed: Health and safety at work act
+Seed: Legislative framework for road safety initiatives
+Seed: Enforcement of road safety regulations
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Emphasizes]-> Importance of proactive risk management 0.8449850082397461
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Introduced]-> Robust approach to workplace safety 0.84010910987854
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Applies to]-> Road transport 0.8774207830429077
+[Health and safety at work act 2015]: Road transport --[Uses]-> Gps for navigation and route optimization 0.7602869272232056
+[Health and safety at work act 2015]: Kiwirail group --[Committed to]-> Road transport 0.7907572984695435
+[Health and safety at work act 2015]: Kiwirail group --[Is]-> State-owned enterprise 0.7715532183647156
+[Health and safety at work act 2015]: Kiwirail --[Is]-> State-owned enterprise 0.7805757522583008
+[Health and safety at work act 2015]: Kiwirail group --[Provides]-> Essential services 0.7732047438621521
+[Health and safety at work act 2015]: Kiwirail group --[Provides]-> Efficient transport 0.7733245491981506
+[Health and safety at work act 2015]: Kiwirail group --[Provides]-> Sustainable transport 0.7785271406173706
+[Health and safety at work act 2015]: Sustainable urban transport --[Key component]-> Sustainable transport 0.7873375415802002
+[Health and safety at work act 2015]: Kiwirail group --[Addresses]-> Environmental concerns 0.7705292701721191
+[Health and safety at work act 2015]: New zealand --[Face]-> Environmental concerns 0.7415874600410461
+[Health and safety at work act 2015]: Kiwirail group --[Addresses]-> Road congestion 0.7645354270935059
+[Health and safety at work act 2015]: Kiwirail --[Reduces]-> Road congestion 0.7606845498085022
+[Health and safety at work act 2015]: Kiwirail group --[Responsible for]-> Rail transport 0.8109715580940247
+[Health and safety at work act 2015]: Kiwirail group --[Aims to]-> Rail transport 0.765108585357666
+[Health and safety at work act 2015]: Rail transport --[Has]-> Rich history dating back to the 19th century 0.7652310729026794
+[Health and safety at work act 2015]: Rail transport --[Has]-> Rich history dating back to 19th century 0.7653569579124451
+[Health and safety at work act 2015]: Rail transport --[Plays]-> Crucial role in freight movement 0.8030843734741211
+[Health and safety at work act 2015]: New zealand --[Has]-> Rail transport 0.791111946105957
+[Health and safety at work act 2015]: Rail transport --[Plays vital role]-> Freight movement 0.8010792136192322
+[Health and safety at work act 2015]: Kiwirail group --[Responsible for]-> Freight services 0.8067648410797119
+[Health and safety at work act 2015]: North island main trunk line --[Serves]-> Freight services 0.7578917145729065
+[Health and safety at work act 2015]: North island main trunk line --[Supports]-> Freight services 0.7603055834770203
+[Health and safety at work act 2015]: Kiwirail group --[Operates]-> Freight services 0.7887451648712158
+[Health and safety at work act 2015]: Kiwirail --[Provides]-> Freight services 0.7812882661819458
+[Health and safety at work act 2015]: Kiwirail group --[Promotes]-> Integrated transport solutions 0.7730369567871094
+[Health and safety at work act 2015]: Waka kotahi --[Develops]-> Integrated transport solutions 0.768721342086792
+[Health and safety at work act 2015]: Kiwirail group --[Promotes]-> Economic growth 0.750012218952179

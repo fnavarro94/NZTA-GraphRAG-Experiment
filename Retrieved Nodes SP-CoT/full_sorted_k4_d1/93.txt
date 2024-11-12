@@ -1,0 +1,10 @@
+In which decade did the construction of the major railway line that is being upgraded to enhance its capacity and efficiency for sustainable transport begin?
+None
+Seed: Growing emphasis on sustainable transport solutions
+Seed: Vision for sustainable transport system
+Seed: Growing emphasis on sustainable transport options
+Seed: Sustainable and efficient transportation solutions
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Growing emphasis on sustainable transport solutions 0.8435629606246948
+[Vision for sustainable transport system]: New zealand transport strategy 2021 --[Outlines]-> Vision for sustainable transport system 0.8268712162971497
+[Growing emphasis on sustainable transport options]: North island --[Has]-> Growing emphasis on sustainable transport options 0.834995687007904
+[Sustainable and efficient transportation solutions]: Vehicle technology advancements --[Reflect]-> Sustainable and efficient transportation solutions 0.831416666507721

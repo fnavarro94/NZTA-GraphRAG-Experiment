@@ -1,0 +1,36 @@
+Who developed the initiative that focuses on improving public transport services and infrastructure in Wellington to enhance the travel experience for users?
+None
+Seed: Enhance and optimize public transport services
+Seed: Improving public transport services
+Seed: Promoting public transport initiatives
+Seed: Enhancing public transport infrastructure
+[Enhance and optimize public transport services]: Wellington regional public transport plan --[Aims to]-> Enhance and optimize public transport services 0.8979427218437195
+[Enhance and optimize public transport services]: Wellington regional public transport plan --[Key components]-> Community engagement 0.8676769137382507
+[Enhance and optimize public transport services]: Auckland cycling network plan --[Primary objectives]-> Community engagement 0.8262925744056702
+[Enhance and optimize public transport services]: Auckland cycling network plan --[Seeks to]-> Create cycling network 0.8063011765480042
+[Enhance and optimize public transport services]: Auckland cycling network plan --[Developed by]-> Auckland transport 0.8295241594314575
+[Enhance and optimize public transport services]: Auckland transport --[Has]-> Vision to support growth 0.8394628167152405
+[Enhance and optimize public transport services]: Auckland transport --[Has]-> Vision to minimize environmental impact 0.8229167461395264
+[Enhance and optimize public transport services]: Auckland transport --[Has]-> Vision to create efficient transport system 0.8437271118164062
+[Enhance and optimize public transport services]: Auckland transport --[Has]-> Vision to create integrated transport system 0.8410724401473999
+[Enhance and optimize public transport services]: Auckland transport --[Has]-> Long-term vision 0.8234220147132874
+[Enhance and optimize public transport services]: New zealand transport strategy --[Outlines]-> Long-term vision 0.8321251273155212
+[Enhance and optimize public transport services]: Auckland transport --[Has]-> Vision to create safe transport system 0.8268618583679199
+[Enhance and optimize public transport services]: Auckland transport --[Focused on]-> Promoting active transport modes 0.8478471040725708
+[Enhance and optimize public transport services]: Auckland transport --[Focused on]-> Promoting cycling 0.8303163647651672
+[Enhance and optimize public transport services]: Auckland transport --[Focused on]-> Promoting walking 0.8391547799110413
+[Enhance and optimize public transport services]: Auckland transport --[Is]-> Primary agency 0.8339563608169556
+[Enhance and optimize public transport services]: Waka kotahi --[Is]-> Primary agency 0.7370555400848389
+[Enhance and optimize public transport services]: Auckland transport --[Implemented]-> Cycling infrastructure projects 0.8448090553283691
+[Enhance and optimize public transport services]: Auckland transport --[Implemented]-> Dedicated bike lanes 0.8189083337783813
+[Enhance and optimize public transport services]: Sustainable urban transport --[Key component]-> Dedicated bike lanes 0.7930995225906372
+[Enhance and optimize public transport services]: Auckland transport --[Implemented]-> Cycleways 0.8257508277893066
+[Enhance and optimize public transport services]: Christchurch --[Served by]-> Cycleways 0.8000305891036987
+[Enhance and optimize public transport services]: Auckland transport --[Introduced]-> Auckland integrated ticketing system 0.8337445855140686
+[Enhance and optimize public transport services]: Auckland transport --[Responsible for]-> Managing public transport services 0.8418218493461609
+[Enhance and optimize public transport services]: Greater wellington regional council --[Responsible for]-> Managing public transport services 0.8494877815246582
+[Enhance and optimize public transport services]: Auckland transport --[Responsible for]-> Development 0.8329178094863892
+[Enhance and optimize public transport services]: Waka kotahi --[Plays crucial role in]-> Development 0.7440658807754517
+[Enhance and optimize public transport services]: Kiwirail --[Involved in]-> Development 0.8262134790420532
+[Enhance and optimize public transport services]: Waka kotahi nz transport agency --[Oversees]-> Development 0.7987495064735413
+[Enhance and optimize public transport services]: Auckland transport --[Responsible for]-> Management 0.8173550963401794

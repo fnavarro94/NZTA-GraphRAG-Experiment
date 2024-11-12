@@ -1,0 +1,36 @@
+What type of public transport solution was being considered for the route between Wynyard Quarter and the north-western motorway?
+None
+Seed: reports on converting the shoulder of Auckland Motorway into Bus Lanes
+Seed: https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/
+Seed: review of public transport fare policy
+Seed: Briefing for Fergus on WCC proposal to install non-complying rainbow pedestrian crossing traffic control device
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Zachary Wong --[REQUESTED]-> reports on converting the shoulder of Auckland Motorway into Bus Lanes 0.8135884404182434
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Zachary Wong --[EMAIL]-> fyi-request-9242-f4aad453@requests.fyi.org.nz 0.7037843465805054
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: reports on converting the shoulder of Auckland Motorway into Bus Lanes --[PROVIDED]-> Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf 0.7956129312515259
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf --[APPENDIX]-> Appendices A to E 0.806395947933197
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Project Agreement --[AVAILABLE]-> https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/ 0.8196707367897034
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Project Agreement --[GOVERNED_BY]-> Public Private Partnership 0.7453817129135132
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Public Private Partnership --[DURATION]-> 25 years 0.737317681312561
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Out of Scope --[RELATES]-> Project Agreement 0.7073014974594116
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Out of Scope --[RELATES]-> Periodic Payments 0.7068244218826294
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: New Zealand Transport Agency --[PROVIDES]-> Periodic Payments 0.76742023229599
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Periodic Payments --[FOR]-> additional costs caused by the Covid-19 pandemic 0.7167527675628662
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Wellington Gateway Partnership --[RECEIVES]-> Periodic Payments 0.7632173895835876
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Out of Scope --[RELATES]-> Prolongation Costs 0.7241952419281006
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Prolongation Costs --[INCURRED]-> WGP 0.7661184072494507
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Wellington Gateway Partnership --[RECEIVES]-> Prolongation Costs 0.7792150974273682
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: New Zealand Transport Agency --[PROVIDES]-> Prolongation Costs 0.7841321229934692
+[review of public transport fare policy]: New Zealand Transport Agency --[UNDERTAKES]-> review of public transport fare policy 0.7804255485534668
+[review of public transport fare policy]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7965260744094849
+[review of public transport fare policy]: New Zealand Transport Agency --[BASED]-> Wellington 0.8011406660079956
+[review of public transport fare policy]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7918754816055298
+[review of public transport fare policy]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7946174740791321
+[review of public transport fare policy]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7879371047019958
+[review of public transport fare policy]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7961218357086182
+[review of public transport fare policy]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7925170063972473
+[review of public transport fare policy]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7841758728027344
+[review of public transport fare policy]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7938156127929688
+[review of public transport fare policy]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7862516641616821
+[review of public transport fare policy]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7754383683204651
+[review of public transport fare policy]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7727258205413818
+[review of public transport fare policy]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7660843133926392

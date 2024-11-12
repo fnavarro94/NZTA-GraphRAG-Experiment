@@ -1,0 +1,36 @@
+What is the crash history for the SH2/SH53 intersection in Featherston over the past 10 years?
+None
+Seed: SH2 and SH53 in Featherston
+Seed: intersection of SH2 and SH53
+Seed: Traffic Crash Reports
+Seed: traffic crash data
+[SH2 and SH53 in Featherston]: SH2 and SH53 in Featherston --[INTERSECTS]-> Road 0.922809898853302
+[SH2 and SH53 in Featherston]: Road --[DEFINITION]-> Street, motorway or beach 0.7594389319419861
+[SH2 and SH53 in Featherston]: Road --[DEFINITION]-> Public car park 0.760178804397583
+[SH2 and SH53 in Featherston]: Crash --[MUST_OCCUR]-> Road 0.8189182281494141
+[SH2 and SH53 in Featherston]: Crash --[REPORTED_BY]-> Police 0.8133767247200012
+[SH2 and SH53 in Featherston]: Crash --[PROCESSED_BY]-> Data Processing 0.7568177580833435
+[SH2 and SH53 in Featherston]: Crash --[RECORDED]-> CAS 0.7736414074897766
+[SH2 and SH53 in Featherston]: Road --[DEFINITION]-> Place to which the public have access with a motor vehicle 0.7683207392692566
+[SH2 and SH53 in Featherston]: Road --[DEFINITION]-> any street, motorway or beach, or a place to which the public have access with a motor vehicle, whether as of right or not e.g. a public car park. 0.7481948137283325
+[SH2 and SH53 in Featherston]: CAS --[DEFINES]-> Road 0.7513808012008667
+[SH2 and SH53 in Featherston]: Waka Kotahi --[MAINTAINS]-> CAS 0.7059420347213745
+[SH2 and SH53 in Featherston]: CAS --[IS_UPDATING]-> Traffic Crash Report 0.7986487746238708
+[SH2 and SH53 in Featherston]: crash records --[PROCESSED]-> CAS 0.7576436996459961
+[SH2 and SH53 in Featherston]: CAS --[PROVIDES]-> full and correct crash records 0.7714540362358093
+[SH2 and SH53 in Featherston]: CAS --[CONTAINS]-> information 0.715229868888855
+[SH2 and SH53 in Featherston]: Transport Agency --[CROSS_REFERENCES]-> CAS 0.7520803809165955
+[SH2 and SH53 in Featherston]: minor injury crashes --[RECORDED]-> CAS 0.7983893752098083
+[SH2 and SH53 in Featherston]: 2023 data --[INCOMPLETE]-> CAS 0.7456799745559692
+[SH2 and SH53 in Featherston]: Road --[DEFINED_BY]-> CAS 0.7604031562805176
+[SH2 and SH53 in Featherston]: fatal crashes --[RECORDED]-> CAS 0.797865629196167
+[SH2 and SH53 in Featherston]: 2022 data --[INCOMPLETE]-> CAS 0.7452497482299805
+[SH2 and SH53 in Featherston]: CAS --[CONTAINS]-> crash records 0.7640663385391235
+[SH2 and SH53 in Featherston]: non-injury crashes --[RECORDED]-> CAS 0.8014870285987854
+[SH2 and SH53 in Featherston]: serious injury crashes --[RECORDED]-> CAS 0.800864577293396
+[SH2 and SH53 in Featherston]: Road --[ACCESSIBLE_BY]-> Motor Vehicle 0.773216724395752
+[SH2 and SH53 in Featherston]: Motorway --[ACCESSIBLE_BY]-> Motor Vehicle 0.7781809568405151
+[SH2 and SH53 in Featherston]: Motor Vehicle --[ACCESS]-> Public Car Park 0.7729445695877075
+[SH2 and SH53 in Featherston]: Street --[ACCESSIBLE_BY]-> Motor Vehicle 0.7722277045249939
+[SH2 and SH53 in Featherston]: Motor Vehicle --[ACCESS]-> Street 0.7988951802253723
+[SH2 and SH53 in Featherston]: Motor Vehicle --[ACCESS]-> Beach 0.7951341271400452

@@ -1,0 +1,36 @@
+How many crashes in Christchurch were alcohol-related between 2017 and 2019?
+None
+Seed: Road Traffic Crashes
+Seed: information on Christchurch road deaths
+Seed: Pedestrian and Cyclist Crashes
+Seed: 1 fatal crash, 3 serious crashes, 8 minor crashes, 12 non-injury crashes, 24 total crashes
+[Road Traffic Crashes]: Road Traffic Crashes --[ANALYZED_BY]-> Crash Analysis 0.8155063390731812
+[Road Traffic Crashes]: Crash Analysis --[PERFORMED_BY]-> Waka Kotahi NZ Transport Agency 0.8289096355438232
+[Road Traffic Crashes]: Factor 103 --[CONTRIBUTES_TO]-> Crash Analysis 0.7856326699256897
+[Road Traffic Crashes]: Alcohol Consumption --[CONTRIBUTES_TO]-> Road Traffic Crashes 0.8469848036766052
+[Road Traffic Crashes]: Road Traffic --[AFFECTED_BY]-> Alcohol Consumption 0.8298678994178772
+[information on Christchurch road deaths]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8285273313522339
+[information on Christchurch road deaths]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7657929062843323
+[information on Christchurch road deaths]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.8087155222892761
+[information on Christchurch road deaths]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.7658288478851318
+[information on Christchurch road deaths]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> list of LGWM construction contracts 0.7593908309936523
+[information on Christchurch road deaths]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> public transport fare policy review 0.7763210535049438
+[information on Christchurch road deaths]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.8126220107078552
+[information on Christchurch road deaths]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.7716020345687866
+[information on Christchurch road deaths]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.7865453362464905
+[information on Christchurch road deaths]: Waka Kotahi NZ Transport Agency --[FAX]-> F 64 4 894 6100 0.7497553825378418
+[information on Christchurch road deaths]: Andrew Knackstedt --[CONTACT]-> Waka Kotahi NZ Transport Agency 0.766946017742157
+[information on Christchurch road deaths]: Waka Kotahi NZ Transport Agency --[CONTACT]-> T 64 4 894 5400 0.7517721056938171
+[information on Christchurch road deaths]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7644072771072388
+[information on Christchurch road deaths]: Chris Marshall --[REQUESTS]-> Waka Kotahi NZ Transport Agency 0.7565622329711914
+[information on Christchurch road deaths]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.782884955406189
+[information on Christchurch road deaths]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.7929429411888123
+[information on Christchurch road deaths]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.8021186590194702
+[information on Christchurch road deaths]: Waka Kotahi NZ Transport Agency --[ANNOUNCED]-> Road to Zero 0.7822511196136475
+[information on Christchurch road deaths]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8029786348342896
+[information on Christchurch road deaths]: Road to Zero --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.7878544926643372
+[information on Christchurch road deaths]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.7841187715530396
+[information on Christchurch road deaths]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7649334669113159
+[information on Christchurch road deaths]: New Zealand --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7677145004272461
+[information on Christchurch road deaths]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.7615320086479187
+[information on Christchurch road deaths]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7535523176193237

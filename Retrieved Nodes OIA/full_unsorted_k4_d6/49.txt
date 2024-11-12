@@ -1,0 +1,36 @@
+What is the Mobility Marketplace platform and when was it anticipated to go live?
+None
+Seed: Mobility Marketplace concept
+Seed: Mobility Marketplace
+Seed: who is developing the AT Mobile app and what is it?
+Seed: multi-tenanted platform
+[Mobility Marketplace concept]: Choice app --[DEVELOPED_FOR]-> Mobility Marketplace concept 0.8811706900596619
+[Mobility Marketplace concept]: RideMate app --[DEVELOPED_FOR]-> Mobility Marketplace concept 0.8808578252792358
+[Mobility Marketplace concept]: RideMate app --[DEVELOPMENT_COST]-> $1,000,000 0.8148412108421326
+[Mobility Marketplace]: Mobility Marketplace --[TESTED_IN]-> New Zealand 0.8689186573028564
+[Mobility Marketplace]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7822842001914978
+[Mobility Marketplace]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.774546205997467
+[Mobility Marketplace]: New Zealand Transport Agency --[BASED]-> Wellington 0.7690310478210449
+[Mobility Marketplace]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7799170017242432
+[Mobility Marketplace]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.7566845417022705
+[Mobility Marketplace]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7441637516021729
+[Mobility Marketplace]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.7294229865074158
+[Mobility Marketplace]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7321790456771851
+[Mobility Marketplace]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7619408965110779
+[Mobility Marketplace]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.7743170857429504
+[Mobility Marketplace]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7699043154716492
+[Mobility Marketplace]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7558388710021973
+[Mobility Marketplace]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7182888388633728
+[Mobility Marketplace]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7258409261703491
+[Mobility Marketplace]: Wellington --[CONTAINS]-> Private Bag 6995 0.7302023768424988
+[Mobility Marketplace]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7742288112640381
+[Mobility Marketplace]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7871050238609314
+[Mobility Marketplace]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.7564289569854736
+[Mobility Marketplace]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7480531930923462
+[Mobility Marketplace]: 50 Victoria Street --[IN]-> Wellington 0.7200287580490112
+[Mobility Marketplace]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.75948566198349
+[Mobility Marketplace]: New Zealand Transport Agency --[LOCATED]-> 50 Victoria Street 0.7827223539352417
+[Mobility Marketplace]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7621602416038513
+[Mobility Marketplace]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7557274103164673
+[Mobility Marketplace]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7214236855506897
+[Mobility Marketplace]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7262322902679443

@@ -1,0 +1,18 @@
+What is the definition of a road used by the Crash Analysis System (CAS)?
+None
+Seed: Guide for the interpretation of coded crash reports
+Seed: Road Safety Analysis
+Seed: Crash Analysis System
+Seed: Road Traffic Crash Data
+[Guide for the interpretation of coded crash reports]: Transport Agency --[PROVIDES]-> Guide for the interpretation of coded crash reports 0.8414613604545593
+[Guide for the interpretation of coded crash reports]: Guide for the interpretation of coded crash reports --[AVAILABLE_AT]-> https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf 0.8188116550445557
+[Road Safety Analysis]: Galina Mitchelhill --[RESPONSIBLE_FOR]-> Road Safety Analysis 0.8029646873474121
+[Crash Analysis System]: Crash Analysis System --[PROVIDES]-> road accident data 0.8840524554252625
+[Crash Analysis System]: Crash Analysis System --[PROVIDES]-> data on road traffic crashes 0.8805290460586548
+[Crash Analysis System]: Crash Analysis System --[PROVIDES]-> Traffic Crash Report 0.8751748204231262
+[Crash Analysis System]: Crash Analysis System --[PROVIDES]-> traffic crash data 0.8734886050224304
+[Crash Analysis System]: Crash Analysis System --[CONTAINS]-> Traffic Crash Report 0.8718676567077637
+[Crash Analysis System]: Crash Analysis System --[ASSOCIATED_WITH]-> Traffic Crash Report 0.8716850876808167
+[Crash Analysis System]: Traffic Crash Report --[ASSOCIATED_WITH]-> Crash Analysis System 0.8653901815414429
+[Road Traffic Crash Data]: Road Traffic Crash Data --[RELATES_TO]-> Christchurch Region 0.8450146913528442
+[Road Traffic Crash Data]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.8091425895690918

@@ -1,0 +1,23 @@
+What factors led to the $190.6 million financial settlement for the Transmission Gully project?
+None
+Seed: financial settlement of $190.6 million
+Seed: https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/
+Seed: $6.185 million
+Seed: Transmission Gully
+[financial settlement of $190.6 million]: Joint Venture --[RECEIVED]-> financial settlement of $190.6 million 0.8569209575653076
+[financial settlement of $190.6 million]: Joint Venture --[RECEIVED]-> financial settlement 0.8000448942184448
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Project Agreement --[AVAILABLE]-> https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/ 0.7974191904067993
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Wellington Gateway Partnership --[RECEIVES]-> Prolongation Costs 0.7770829200744629
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Wellington Gateway Partnership --[RECEIVES]-> Periodic Payments 0.772814154624939
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: New Zealand Transport Agency --[PROVIDES]-> Prolongation Costs 0.7664453983306885
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Prolongation Costs --[INCURRED]-> WGP 0.7648165225982666
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Periodic Payments --[FOR]-> additional costs caused by the Covid-19 pandemic 0.7597768306732178
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: New Zealand Transport Agency --[PROVIDES]-> Periodic Payments 0.7577739953994751
+[$6.185 million]: Road to Zero advertising campaign --[COST]-> $6.185 million 0.7791327238082886
+[Transmission Gully]: New Zealand Transport Agency --[NEGOTIATING]-> Transmission Gully 0.8524351119995117
+[Transmission Gully]: Transport Gully --[FINANCED_BY]-> New Zealand Transport Agency 0.8455249071121216
+[Transmission Gully]: Delta outbreak --[AFFECTED]-> Transmission Gully 0.8290144801139832
+[Transmission Gully]: Transport Gully --[MEETS]-> needs of customers 0.8277183771133423
+[Transmission Gully]: Transmission Gully --[IMPACTED_BY]-> Delta outbreak 0.8245126605033875
+[Transmission Gully]: Transport Gully --[IMPACTED_BY]-> challenging site conditions 0.8209742307662964
+[Transmission Gully]: Transport Gully --[ACHIEVES]-> good value for money for New Zealanders 0.8202751874923706

@@ -1,0 +1,36 @@
+Which city in the country known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, utilizes the Snapper card as part of its initiative that has improved the reliability of public transport services and allowed users to plan their journeys more effectively?
+None
+Seed: Increased demand for effective transportation systems
+Seed: Critical aspect of transportation planning
+Seed: Adopting integrated transport planning approaches that consider public transport
+Seed: Critical for freight and passenger movement
+[Increased demand for effective transportation systems]: Auckland --[Leading to]-> Increased demand for effective transportation systems 0.7975560426712036
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Public transport system 0.7898191213607788
+[Increased demand for effective transportation systems]: Christchurch --[Has]-> Public transport system 0.794465184211731
+[Increased demand for effective transportation systems]: New zealand --[Has]-> Public transport system 0.796273946762085
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Pedestrian-friendly projects 0.7537195682525635
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Network of cycle lanes and shared paths 0.753180980682373
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Bus network with extensive coverage 0.7710505127906799
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Rail network with several lines 0.764662504196167
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Growing population 0.7426576614379883
+[Increased demand for effective transportation systems]: New zealand --[Has]-> Growing population 0.7514066100120544
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Transport infrastructure 0.7861834764480591
+[Increased demand for effective transportation systems]: Transport infrastructure --[Ongoing development]-> Enhancing connectivity and supporting growing populations 0.8128949403762817
+[Increased demand for effective transportation systems]: New zealand --[Has]-> Transport infrastructure 0.7963682413101196
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Public transport services 0.7913511991500854
+[Increased demand for effective transportation systems]: Wellington regional council --[Oversees]-> Public transport services 0.7616437077522278
+[Increased demand for effective transportation systems]: Wellington --[Has]-> Public transport services 0.7866106033325195
+[Increased demand for effective transportation systems]: Land transport management act 2003 --[Governs]-> Public transport services 0.7862879037857056
+[Increased demand for effective transportation systems]: Local government --[Manages]-> Public transport services 0.7976891994476318
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Rail network 0.767254114151001
+[Increased demand for effective transportation systems]: Wellington region --[Has]-> Rail network 0.7595857977867126
+[Increased demand for effective transportation systems]: Kiwirail group --[Manages]-> Rail network 0.7469838857650757
+[Increased demand for effective transportation systems]: Kiwirail --[Operates]-> Rail network 0.7578049898147583
+[Increased demand for effective transportation systems]: Rail network --[Requires]-> Ongoing maintenance 0.7483634352684021
+[Increased demand for effective transportation systems]: Wellington --[Has]-> Rail network 0.7608431577682495
+[Increased demand for effective transportation systems]: Rail network --[Is]-> Integral for freight transport 0.7797483205795288
+[Increased demand for effective transportation systems]: Rail network --[Facilitates]-> Movement of goods to and from the port of wellington 0.7800618410110474
+[Increased demand for effective transportation systems]: Rail network --[Plays]-> Crucial role in freight transport 0.7895711660385132
+[Increased demand for effective transportation systems]: Rail network --[Connects]-> Major cities and industrial hubs 0.782579243183136
+[Increased demand for effective transportation systems]: Auckland --[Has]-> International airport 0.7747946977615356
+[Increased demand for effective transportation systems]: Auckland airport --[Is]-> International airport 0.7565480470657349

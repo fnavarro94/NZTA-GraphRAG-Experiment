@@ -1,0 +1,33 @@
+How much did NZTA spend on traditional media for road safety campaigns in 2017-2018?
+None
+Seed: cost of the current Road to Zero advertising campaign
+Seed: national, regional and local road safety promotion and education campaigns
+Seed: Advertising Media Spend 2017-2018
+Seed: Road Safety Campaigns
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[LAUNCHED_BY]-> New Zealand Transport Agency 0.8492192029953003
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[COST]-> cost of the current Road to Zero advertising campaign 0.8434410095214844
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[TARGET]-> zero accidents 0.8174716234207153
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[EVALUATED_BY]-> post campaign polling or research 0.7969616651535034
+[cost of the current Road to Zero advertising campaign]: Request made under the Official Information Act 1982 --[CHALLENGES]-> Road To Zero campaign 0.7885655164718628
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[LOGIC]-> logic in making this critical decision 0.7614383697509766
+[national, regional and local road safety promotion and education campaigns]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8674007058143616
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.8563483357429504
+[national, regional and local road safety promotion and education campaigns]: Road to Zero --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8270654678344727
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.8213172554969788
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8199488520622253
+[national, regional and local road safety promotion and education campaigns]: public transport fare policy review --[CONDUCTED_BY]-> Waka Kotahi NZ Transport Agency 0.8188593983650208
+[national, regional and local road safety promotion and education campaigns]: www.nzta.govt.nz --[OF]-> Waka Kotahi NZ Transport Agency 0.8169723749160767
+[Advertising Media Spend 2017-2018]: Advertising Media Spend 2017-2018 --[SHOWS]-> Individual Campaigns 0.8323560953140259
+[Advertising Media Spend 2017-2018]: Response to OIA Request --[CONTAINS]-> Advertising Media Spend 2017-2018 0.8273209929466248
+[Advertising Media Spend 2017-2018]: NZ Transport Agency --[PUBLISHES]-> Response to OIA Request 0.8201243877410889
+[Advertising Media Spend 2017-2018]: Individual Campaigns --[BREAKDOWN]-> Traditional Media 0.8037351965904236
+[Advertising Media Spend 2017-2018]: Individual Campaigns --[BREAKDOWN]-> Radio 0.8022027015686035
+[Advertising Media Spend 2017-2018]: Individual Campaigns --[BREAKDOWN]-> TV 0.7919785976409912
+[Advertising Media Spend 2017-2018]: Individual Campaigns --[BREAKDOWN]-> Online Platforms 0.7755427360534668
+[Road Safety Campaigns]: NZ Transport Agency --[ADVERTISES]-> Road Safety Campaigns 0.8771741390228271
+[Road Safety Campaigns]: Road Safety Campaigns --[USES]-> Traditional Media 0.869321346282959
+[Road Safety Campaigns]: Road Safety Campaigns --[USES]-> TV 0.8542236089706421
+[Road Safety Campaigns]: Road Safety Campaigns --[USES]-> Radio 0.8528724312782288
+[Road Safety Campaigns]: questions and responses --[FROM]-> NZ Transport Agency 0.8526207208633423
+[Road Safety Campaigns]: Road Safety Campaigns --[USES]-> Online Platforms 0.8474026322364807
+[Road Safety Campaigns]: Road Safety Campaigns --[USES]-> Social Media Platforms 0.8450837731361389

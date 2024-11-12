@@ -1,0 +1,36 @@
+What topic does the OIA-2127 request focus on?
+None
+Seed: conflict of interest
+Seed: Conflict of interest
+Seed: public interest in accountability
+Seed: public interest in seeking and receiving confidential legal advice
+[conflict of interest]: New Zealand Transport Agency --[MANAGES]-> conflict of interest 0.7862646579742432
+[conflict of interest]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7573069334030151
+[conflict of interest]: New Zealand Transport Agency --[BASED]-> Wellington 0.7575348019599915
+[conflict of interest]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7506962418556213
+[conflict of interest]: Golden Mile --[LOCATED]-> Wellington 0.7084916830062866
+[conflict of interest]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7398366332054138
+[conflict of interest]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7713643312454224
+[conflict of interest]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7622970342636108
+[conflict of interest]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7295733690261841
+[conflict of interest]: Wellington --[PART_OF]-> Wellington Region 0.7589043378829956
+[conflict of interest]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7686787843704224
+[conflict of interest]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7579962015151978
+[conflict of interest]: Wellington --[HAS]-> tunnel 0.759005606174469
+[conflict of interest]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7367734909057617
+[conflict of interest]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7415947318077087
+[conflict of interest]: Wellington --[POSTCODE]-> 6141 0.7231616377830505
+[conflict of interest]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7518942356109619
+[conflict of interest]: Wellington --[IS_PART_OF]-> New Zealand 0.7513763308525085
+[conflict of interest]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7580466866493225
+[conflict of interest]: 50 Victoria Street --[IN]-> Wellington 0.7200154662132263
+[conflict of interest]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7686166763305664
+[conflict of interest]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7337716221809387
+[conflict of interest]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.749456524848938
+[conflict of interest]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7408186793327332
+[conflict of interest]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7370401620864868
+[conflict of interest]: NZ Transport Agency --[LOCATED]-> Wellington 0.751611590385437
+[conflict of interest]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7307854890823364
+[conflict of interest]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7219752073287964
+[conflict of interest]: New Zealand --[CONTAINS]-> Wellington 0.7541453242301941
+[conflict of interest]: Wellington --[PART_OF]-> New Zealand 0.7468807697296143

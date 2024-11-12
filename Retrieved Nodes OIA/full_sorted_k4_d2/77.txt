@@ -1,0 +1,31 @@
+How many complaints did NZTA receive regarding Uber and its drivers?
+None
+Seed: 196 complaints about Uber drivers
+Seed: Complaint Data
+Seed: ride share operator complaints
+Seed: Uber drivers
+[196 complaints about Uber drivers]: Waka Kotahi --[RECEIVES]-> 196 complaints about Uber drivers 0.8867742419242859
+[196 complaints about Uber drivers]: Waka Kotahi --[INVESTIGATES]-> ride share operator complaints 0.8614611029624939
+[196 complaints about Uber drivers]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.854378342628479
+[196 complaints about Uber drivers]: Waka Kotahi --[RECEIVES]-> 8 complaints about Zoomy drivers 0.829904317855835
+[196 complaints about Uber drivers]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.8290722370147705
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.8280336260795593
+[196 complaints about Uber drivers]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8206741809844971
+[Complaint Data]: New Zealand Transport Agency --[RESPONDED]-> Request for Information 0.856216311454773
+[Complaint Data]: Request for Information --[REQUESTS]-> Complaint Data 0.8040021657943726
+[Complaint Data]: Antoinette Spicer --[SUBMITTED]-> Request for Information 0.77464759349823
+[Complaint Data]: Request for Information --[REQUESTS]-> Warning Letters 0.7698560357093811
+[ride share operator complaints]: Waka Kotahi --[RECEIVES]-> 196 complaints about Uber drivers 0.8867742419242859
+[ride share operator complaints]: Waka Kotahi --[INVESTIGATES]-> ride share operator complaints 0.8614611029624939
+[ride share operator complaints]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.854378342628479
+[ride share operator complaints]: Waka Kotahi --[RECEIVES]-> 8 complaints about Zoomy drivers 0.829904317855835
+[ride share operator complaints]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.8290722370147705
+[ride share operator complaints]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.8280336260795593
+[ride share operator complaints]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8206741809844971
+[Uber drivers]: Waka Kotahi --[RECEIVES]-> 196 complaints about Uber drivers 0.8867742419242859
+[Uber drivers]: Waka Kotahi --[INVESTIGATES]-> ride share operator complaints 0.8614611029624939
+[Uber drivers]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.854378342628479
+[Uber drivers]: Waka Kotahi --[RECEIVES]-> 8 complaints about Zoomy drivers 0.829904317855835
+[Uber drivers]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.8290722370147705
+[Uber drivers]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.8280336260795593
+[Uber drivers]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8206741809844971

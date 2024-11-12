@@ -1,0 +1,36 @@
+What nickname is associated with Christchurch, a key transport hub in the island where the scenic passenger rail service in New Zealand, known for showcasing stunning landscapes, particularly through the Southern Alps, is located, in contrast to the cities in New Zealand implementing extensive cycling networks and pedestrian-friendly infrastructure to address traffic congestion?
+None
+Seed: Critical link between southern suburbs and central business district
+Seed: New zealand's transport network
+Seed: Scenic routes such as the tranzalpine and the northern explorer
+Seed: Cities like christchurch
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Serves as]-> Critical link between southern suburbs and central business district 0.8464218378067017
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Located in]-> South island of new zealand 0.8544971942901611
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Is]-> Significant transport infrastructure project 0.8516339063644409
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Designed to]-> Enhance efficiency of road transport 0.836672306060791
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Ends at]-> Intersection with christchurch northern corridor 0.8014044761657715
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Construction began]-> Early 2000s 0.819342851638794
+[Critical link between southern suburbs and central business district]: National cycling network --[Established in]-> Early 2000s 0.7591607570648193
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Extends]-> Approximately 20 kilometers 0.8100715279579163
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Key component of]-> Christchurch transport strategic plan 0.8246797323226929
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Part of]-> New zealand government's broader strategy 0.8114904165267944
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Begins at]-> Intersection of state highway 1 and state highway 76 0.8192228078842163
+[Critical link between southern suburbs and central business district]: Christchurch --[Served by]-> Christchurch southern motorway 0.8480691313743591
+[Critical link between southern suburbs and central business district]: Christchurch --[Has]-> Cycling initiatives 0.8516919016838074
+[Critical link between southern suburbs and central business district]: Christchurch --[Has]-> Metro system 0.8516327142715454
+[Critical link between southern suburbs and central business district]: Christchurch --[Linked to]-> Dunedin 0.8432697057723999
+[Critical link between southern suburbs and central business district]: Christchurch --[Has]-> Potential development of light rail system 0.8415367007255554
+[Critical link between southern suburbs and central business district]: Christchurch --[Served by]-> Tranzalpine train service 0.8417041301727295
+[Critical link between southern suburbs and central business district]: Christchurch --[Has]-> Walking initiatives 0.8399643898010254
+[Critical link between southern suburbs and central business district]: Christchurch --[Served by]-> Main south line 0.8378549814224243
+[Critical link between southern suburbs and central business district]: Christchurch --[Has]-> Road infrastructure 0.8624259829521179
+[Critical link between southern suburbs and central business district]: Christchurch --[Linked to]-> Picton 0.8417186737060547
+[Critical link between southern suburbs and central business district]: Christchurch --[Connected by]-> State highways 0.8464763164520264
+[Critical link between southern suburbs and central business district]: Christchurch --[Has]-> Focus on enhancing bus services 0.8284337520599365
+[Critical link between southern suburbs and central business district]: Christchurch --[Has]-> New bus network 0.8408740758895874
+[Critical link between southern suburbs and central business district]: Christchurch --[Has]-> Public transport system 0.8693053722381592
+[Critical link between southern suburbs and central business district]: Christchurch --[Has]-> Second-busiest airport in new zealand 0.8133914470672607
+[Critical link between southern suburbs and central business district]: Christchurch --[Has]-> Shuttles 0.852024495601654
+[Critical link between southern suburbs and central business district]: Christchurch --[Has]-> Focus on promoting active transport options 0.8446553349494934
+[Critical link between southern suburbs and central business district]: Christchurch --[Has]-> Focus on expanding public transport networks 0.8361968994140625
+[Critical link between southern suburbs and central business district]: Christchurch --[Has]-> International travelers 0.847987174987793

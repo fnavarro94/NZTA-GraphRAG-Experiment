@@ -1,0 +1,28 @@
+What is the largest city in the country where individuals must be at least 16 years old to apply for a learner's permit, which is the first stage of the driver licensing process that can be obtained at the age of 16, served by the key transport corridor critical for freight and passenger movement and runs through the North Island?
+None
+Seed: Age of 16
+Seed: Drivers to obtain specific licenses that demonstrate their competency in handling large vehicles
+Seed: Licensing of drivers and vehicles
+Seed: Legal framework for licensing of drivers
+[Age of 16]: Learner license --[Obtained at]-> Age of 16 0.8489243984222412
+[Age of 16]: North island main trunk line --[Is]-> Key railway corridor 0.8488457202911377
+[Age of 16]: North island main trunk railway --[Is]-> Critical for freight and passenger movement 0.847703218460083
+[Age of 16]: Learner license --[Eligibility]-> At least 16 years old 0.8463476896286011
+[Age of 16]: North island main trunk railway --[Is]-> Key railway line 0.8366215229034424
+[Age of 16]: Wellington northern corridor --[Connects]-> Northern regions of the north island 0.8340201377868652
+[Age of 16]: North island main trunk railway --[Serves]-> Freight 0.8332453966140747
+[Drivers to obtain specific licenses that demonstrate their competency in handling large vehicles]: Heavy vehicle licensing system --[Requires]-> Drivers to obtain specific licenses that demonstrate their competency in handling large vehicles 0.8096355199813843
+[Licensing of drivers and vehicles]: Learner license --[Obtained at]-> Age of 16 0.8489243984222412
+[Licensing of drivers and vehicles]: North island main trunk line --[Is]-> Key railway corridor 0.8488457202911377
+[Licensing of drivers and vehicles]: North island main trunk railway --[Is]-> Critical for freight and passenger movement 0.847703218460083
+[Licensing of drivers and vehicles]: Learner license --[Eligibility]-> At least 16 years old 0.8463476896286011
+[Licensing of drivers and vehicles]: North island main trunk railway --[Is]-> Key railway line 0.8366215229034424
+[Licensing of drivers and vehicles]: Wellington northern corridor --[Connects]-> Northern regions of the north island 0.8340201377868652
+[Licensing of drivers and vehicles]: North island main trunk railway --[Serves]-> Freight 0.8332453966140747
+[Legal framework for licensing of drivers]: Learner license --[Obtained at]-> Age of 16 0.8489243984222412
+[Legal framework for licensing of drivers]: North island main trunk line --[Is]-> Key railway corridor 0.8488457202911377
+[Legal framework for licensing of drivers]: North island main trunk railway --[Is]-> Critical for freight and passenger movement 0.847703218460083
+[Legal framework for licensing of drivers]: Learner license --[Eligibility]-> At least 16 years old 0.8463476896286011
+[Legal framework for licensing of drivers]: North island main trunk railway --[Is]-> Key railway line 0.8366215229034424
+[Legal framework for licensing of drivers]: Wellington northern corridor --[Connects]-> Northern regions of the north island 0.8340201377868652
+[Legal framework for licensing of drivers]: North island main trunk railway --[Serves]-> Freight 0.8332453966140747

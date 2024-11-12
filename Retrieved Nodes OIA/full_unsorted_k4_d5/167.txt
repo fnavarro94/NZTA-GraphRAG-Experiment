@@ -1,0 +1,36 @@
+When is the first implementation of the National Ticketing System (NTS) expected to take place?
+None
+Seed: National Ticketing Solution request for proposal
+Seed: National Ticketing System
+Seed: Request for National Ticketing System Documentation
+Seed: RFP for National Ticket System
+[National Ticketing Solution request for proposal]: www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ --[CONTAINS]-> National Ticketing Solution request for proposal 0.8462520837783813
+[National Ticketing Solution request for proposal]: RFP for National Ticket System --[AVAILABLE]-> www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ 0.8455162048339844
+[National Ticketing Solution request for proposal]: New Zealand Transport Agency --[REFUSES]-> RFP for National Ticket System 0.7967264652252197
+[National Ticketing Solution request for proposal]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7782233357429504
+[National Ticketing Solution request for proposal]: New Zealand Transport Agency --[BASED]-> Wellington 0.7932842373847961
+[National Ticketing Solution request for proposal]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7489975690841675
+[National Ticketing Solution request for proposal]: Golden Mile --[LOCATED]-> Wellington 0.750856876373291
+[National Ticketing Solution request for proposal]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7542199492454529
+[National Ticketing Solution request for proposal]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.745935320854187
+[National Ticketing Solution request for proposal]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7307486534118652
+[National Ticketing Solution request for proposal]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.733644425868988
+[National Ticketing Solution request for proposal]: Wellington --[PART_OF]-> Wellington Region 0.7540218234062195
+[National Ticketing Solution request for proposal]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7722550630569458
+[National Ticketing Solution request for proposal]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7740464210510254
+[National Ticketing Solution request for proposal]: Wellington --[HAS]-> tunnel 0.7620608806610107
+[National Ticketing Solution request for proposal]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7585351467132568
+[National Ticketing Solution request for proposal]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.740252673625946
+[National Ticketing Solution request for proposal]: Wellington --[POSTCODE]-> 6141 0.7337470054626465
+[National Ticketing Solution request for proposal]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7741966247558594
+[National Ticketing Solution request for proposal]: Wellington --[IS_PART_OF]-> New Zealand 0.7583524584770203
+[National Ticketing Solution request for proposal]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7832649946212769
+[National Ticketing Solution request for proposal]: 50 Victoria Street --[IN]-> Wellington 0.7447201013565063
+[National Ticketing Solution request for proposal]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.74723219871521
+[National Ticketing Solution request for proposal]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7470626831054688
+[National Ticketing Solution request for proposal]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7503495216369629
+[National Ticketing Solution request for proposal]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7616296410560608
+[National Ticketing Solution request for proposal]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7521234750747681
+[National Ticketing Solution request for proposal]: NZ Transport Agency --[LOCATED]-> Wellington 0.769515872001648
+[National Ticketing Solution request for proposal]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7525420784950256
+[National Ticketing Solution request for proposal]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7477114200592041

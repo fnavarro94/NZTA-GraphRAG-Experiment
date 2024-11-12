@@ -1,0 +1,29 @@
+What is the abbreviation for The program that includes the expressway project aimed at improving freight transport efficiency in the region in the country known for its transport system innovation aimed at improving efficiency, sustainability, and accessibility in response to unique geographical challenges?
+None
+Seed: Efficiency of freight transport in region
+Seed: Driving innovation in freight transport sector
+Seed: Regional transport initiatives
+Seed: Enhancing safety and efficiency of transportation systems in new zealand
+[Efficiency of freight transport in region]: Waikato expressway --[Significantly enhances]-> Efficiency of freight transport in region 0.8661929965019226
+[Efficiency of freight transport in region]: National land transport programme --[Aims to]-> Enhance efficiency 0.835212230682373
+[Efficiency of freight transport in region]: Waikato expressway --[Is part of]-> National land transport programme 0.8318911790847778
+[Efficiency of freight transport in region]: National land transport programme --[Aims to]-> Enhance sustainability 0.8299486041069031
+[Efficiency of freight transport in region]: National land transport programme --[Developed in consultation with]-> Regional councils and local authorities 0.8239684104919434
+[Efficiency of freight transport in region]: National land transport programme --[Is]-> Key framework 0.8233894109725952
+[Efficiency of freight transport in region]: National land transport programme --[Is]-> Developed through collaborative process 0.81852126121521
+[Driving innovation in freight transport sector]: Collaborative approaches --[Played crucial role]-> Driving innovation in freight transport sector 0.8253429532051086
+[Driving innovation in freight transport sector]: Collaborative approaches --[Played crucial role]-> Among stakeholders 0.7442348599433899
+[Regional transport initiatives]: New zealand transport agency --[Initiated]-> Programs aimed at improving transport access 0.8257476091384888
+[Regional transport initiatives]: New zealand transport agency --[Implemented]-> Initiatives 0.8241709470748901
+[Regional transport initiatives]: Community transport services --[Play vital role in]-> Enhancing mobility and accessibility 0.8227881193161011
+[Regional transport initiatives]: Regional transport committees --[Responsible for]-> Developing regional land transport plans 0.817595362663269
+[Regional transport initiatives]: Local councils --[Contribute to]-> Regional transport initiatives 0.8160632848739624
+[Regional transport initiatives]: Community transport services --[Must adapt]-> To meet changing needs of communities 0.8093849420547485
+[Regional transport initiatives]: Community transport services --[Improve]-> Access to healthcare 0.8071026802062988
+[Enhancing safety and efficiency of transportation systems in new zealand]: Intelligent transport systems --[Improve]-> Transportation efficiency 0.8170404434204102
+[Enhancing safety and efficiency of transportation systems in new zealand]: Intelligent transport systems --[Enhance]-> Sustainability 0.8121510744094849
+[Enhancing safety and efficiency of transportation systems in new zealand]: Road safety technologies --[Play crucial role in]-> Enhancing safety and efficiency of transportation systems in new zealand 0.8095881938934326
+[Enhancing safety and efficiency of transportation systems in new zealand]: Intelligent transport systems --[Refer to]-> Integration of advanced technologies 0.805363118648529
+[Enhancing safety and efficiency of transportation systems in new zealand]: Intelligent transport systems --[Enhance]-> Efficiency 0.8042190670967102
+[Enhancing safety and efficiency of transportation systems in new zealand]: Intelligent transport systems --[Play]-> Crucial role 0.8001652359962463
+[Enhancing safety and efficiency of transportation systems in new zealand]: Intelligent transport systems --[Integrating]-> Advanced technologies 0.7997458577156067

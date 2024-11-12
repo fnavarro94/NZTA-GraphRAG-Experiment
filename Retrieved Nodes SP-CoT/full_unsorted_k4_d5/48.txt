@@ -1,0 +1,36 @@
+What type of fixed-wing aircraft is used by the organization in New Zealand that operates a fleet of helicopters and fixed-wing aircraft to provide rapid transport for critically ill patients to specialized care facilities?
+None
+Seed: Fleet of helicopters and fixed-wing aircraft
+Seed: Diverse fleet of aircraft
+Seed: Modern fleet of aircraft
+Seed: Rapid response and advanced medical care
+[Fleet of helicopters and fixed-wing aircraft]: New zealand air ambulance service --[Operates]-> Fleet of helicopters and fixed-wing aircraft 0.9247332811355591
+[Fleet of helicopters and fixed-wing aircraft]: New zealand air ambulance service --[Utilizes]-> Diverse fleet of aircraft 0.8999338150024414
+[Fleet of helicopters and fixed-wing aircraft]: New zealand air ambulance service --[Works]-> Collaboration with new zealand ministry of health and local health authorities 0.839698314666748
+[Fleet of helicopters and fixed-wing aircraft]: New zealand air ambulance service --[Relies]-> Community support and fundraising efforts 0.8444730639457703
+[Fleet of helicopters and fixed-wing aircraft]: New zealand air ambulance service --[Established]-> Late 20th century 0.8599321246147156
+[Fleet of helicopters and fixed-wing aircraft]: Traffic safety audits --[Emerged]-> Late 20th century 0.7224918603897095
+[Fleet of helicopters and fixed-wing aircraft]: Traffic safety audits --[Assess]-> Safety 0.7129383087158203
+[Fleet of helicopters and fixed-wing aircraft]: Wellington free ambulance --[Promotes]-> Safety 0.8052769899368286
+[Fleet of helicopters and fixed-wing aircraft]: Automated data collection --[Enhances]-> Safety 0.707362949848175
+[Fleet of helicopters and fixed-wing aircraft]: Safety --[Paramount concern]-> School transport 0.7628538608551025
+[Fleet of helicopters and fixed-wing aircraft]: Transport accident investigation commission --[Enhances]-> Safety 0.7298814058303833
+[Fleet of helicopters and fixed-wing aircraft]: Intelligent transport systems --[Improve]-> Safety 0.7580977082252502
+[Fleet of helicopters and fixed-wing aircraft]: Vehicle technology advancements --[Enhanced]-> Safety 0.7478134632110596
+[Fleet of helicopters and fixed-wing aircraft]: Vehicle import regulations --[Apply to]-> Safety 0.7614391446113586
+[Fleet of helicopters and fixed-wing aircraft]: Smart mobility solutions --[Enhance]-> Safety 0.7621368765830994
+[Fleet of helicopters and fixed-wing aircraft]: Road safety initiatives --[Focus on]-> Safety 0.7357836365699768
+[Fleet of helicopters and fixed-wing aircraft]: Intelligent transport systems --[Enhance]-> Safety 0.7509543895721436
+[Fleet of helicopters and fixed-wing aircraft]: Road maintenance strategies --[Ensure]-> Safety 0.7382029891014099
+[Fleet of helicopters and fixed-wing aircraft]: Traffic safety audits --[Ensure]-> Meet established safety standards 0.7149858474731445
+[Fleet of helicopters and fixed-wing aircraft]: Traffic safety audits --[Are]-> Evaluations 0.7081034183502197
+[Fleet of helicopters and fixed-wing aircraft]: Traffic safety audits --[Proactive]-> Approach 0.7363318800926208
+[Fleet of helicopters and fixed-wing aircraft]: Traffic safety audits --[Align]-> New zealand road safety strategy 0.7732950448989868
+[Fleet of helicopters and fixed-wing aircraft]: New zealand road safety strategy --[Improves]-> Overall safety of the transport system 0.7942208647727966
+[Fleet of helicopters and fixed-wing aircraft]: New zealand road safety strategy --[Established by]-> New zealand government 0.7905699014663696
+[Fleet of helicopters and fixed-wing aircraft]: New zealand road safety strategy --[Promotes]-> Responsible driving behaviors 0.7765640020370483
+[Fleet of helicopters and fixed-wing aircraft]: New zealand road safety strategy --[Aims to]-> Enhance road safety 0.7759923934936523
+[Fleet of helicopters and fixed-wing aircraft]: New zealand road safety strategy --[Outlines]-> Initiatives and policies 0.7749467492103577
+[Fleet of helicopters and fixed-wing aircraft]: New zealand road safety strategy --[Designed to]-> Create safer transport environment for all road users 0.793587327003479
+[Fleet of helicopters and fixed-wing aircraft]: New zealand road safety strategy --[Aimed at]-> Reducing road traffic injuries and fatalities 0.7993154525756836
+[Fleet of helicopters and fixed-wing aircraft]: New zealand road safety strategy --[Outlines]-> Series of initiatives and policies 0.7777947783470154

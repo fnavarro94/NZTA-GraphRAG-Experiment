@@ -1,0 +1,11 @@
+How many complaints were made to the NZTA regarding threats or attacks against examiners during driving tests in recent years?
+None
+Seed: Speed and Drunk Driving Enforcement
+Seed: 196 complaints about Uber drivers
+Seed: national, regional and local road safety promotion and education campaigns
+Seed: information related to criminal convictions of driving instructor (I) endorsement holders
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[DOUBLES]-> Speed and Drunk Driving Enforcement 0.7969679832458496
+[196 complaints about Uber drivers]: Waka Kotahi --[RECEIVES]-> 196 complaints about Uber drivers 0.7992056012153625
+[national, regional and local road safety promotion and education campaigns]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8324542045593262
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.8078385591506958
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Michael Morrah --[REQUESTS]-> information related to criminal convictions of driving instructor (I) endorsement holders 0.8200572729110718

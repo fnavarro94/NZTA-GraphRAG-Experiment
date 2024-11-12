@@ -1,0 +1,33 @@
+Who operates the rail network in the country where the regular activities performed to keep roads safe and functional, including vegetation control, litter removal, and drainage maintenance, are described by what term?
+None
+Seed: Transport as critical component of nation's infrastructure
+Seed: Significant role in planning and management of transport infrastructure and services
+Seed: Crucial role in promoting road safety
+Seed: Rail infrastructure
+[Transport as critical component of nation's infrastructure]: New zealand --[Has]-> Transport infrastructure maintenance 0.816035270690918
+[Transport as critical component of nation's infrastructure]: Vehicle safety standards --[Are overseen by]-> Ministry of transport 0.8133609294891357
+[Transport as critical component of nation's infrastructure]: Rail transport safety --[Governed by]-> Health and safety at work act 2015 0.808232843875885
+[Transport as critical component of nation's infrastructure]: Resource management act 1991 --[Recognizes]-> Transport as critical component of nation's infrastructure 0.8075459003448486
+[Transport as critical component of nation's infrastructure]: New zealand --[Has]-> Developing rail network 0.8065007328987122
+[Transport as critical component of nation's infrastructure]: Road safety legislation --[Governed by]-> Land transport act 1998 0.8063750267028809
+[Transport as critical component of nation's infrastructure]: New zealand --[Composed of]-> Rail networks 0.8055301308631897
+[Significant role in planning and management of transport infrastructure and services]: New zealand --[Has]-> Transport infrastructure maintenance 0.816035270690918
+[Significant role in planning and management of transport infrastructure and services]: Vehicle safety standards --[Are overseen by]-> Ministry of transport 0.8133609294891357
+[Significant role in planning and management of transport infrastructure and services]: Rail transport safety --[Governed by]-> Health and safety at work act 2015 0.808232843875885
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Recognizes]-> Transport as critical component of nation's infrastructure 0.8075459003448486
+[Significant role in planning and management of transport infrastructure and services]: New zealand --[Has]-> Developing rail network 0.8065007328987122
+[Significant role in planning and management of transport infrastructure and services]: Road safety legislation --[Governed by]-> Land transport act 1998 0.8063750267028809
+[Significant role in planning and management of transport infrastructure and services]: New zealand --[Composed of]-> Rail networks 0.8055301308631897
+[Crucial role in promoting road safety]: Education and awareness programs --[Play]-> Crucial role in promoting road safety 0.803707480430603
+[Crucial role in promoting road safety]: Education and awareness programs --[Include]-> Road safety week 0.7888551354408264
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about safe driving practices 0.768010675907135
+[Crucial role in promoting road safety]: Education and awareness programs --[Include]-> Belt up campaign 0.7564408779144287
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about dangers of distracted driving 0.7335869073867798
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about importance of seatbelt use 0.7328860759735107
+[Rail infrastructure]: Rail network --[Plays]-> Crucial role in freight transport 0.852701723575592
+[Rail infrastructure]: Ministry of transport --[Oversees]-> Rail 0.8456760048866272
+[Rail infrastructure]: Rail network --[Requires]-> Ongoing maintenance 0.8419103622436523
+[Rail infrastructure]: Rail network --[Is]-> Integral for freight transport 0.8350082039833069
+[Rail infrastructure]: Rail network --[Connects]-> Major cities and industrial hubs 0.8345019817352295
+[Rail infrastructure]: Ministry of transport --[Oversees]-> Transport sector 0.8341037034988403
+[Rail infrastructure]: National rail network --[Connects]-> Major cities and ports 0.8314437866210938

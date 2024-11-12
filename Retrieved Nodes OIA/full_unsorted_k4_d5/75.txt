@@ -1,0 +1,36 @@
+Where can the Request for Proposal (RFP) for the National Ticketing Solution be found?
+None
+Seed: National Ticketing Solution request for proposal
+Seed: RFP for National Ticket System
+Seed: Request for National Ticketing System Documentation
+Seed: opportunities to make an announcement regarding changes to the national farebox recovery policy
+[National Ticketing Solution request for proposal]: www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ --[CONTAINS]-> National Ticketing Solution request for proposal 0.8974595665931702
+[National Ticketing Solution request for proposal]: RFP for National Ticket System --[AVAILABLE]-> www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ 0.9003691077232361
+[National Ticketing Solution request for proposal]: New Zealand Transport Agency --[REFUSES]-> RFP for National Ticket System 0.8359271883964539
+[National Ticketing Solution request for proposal]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7916970252990723
+[National Ticketing Solution request for proposal]: New Zealand Transport Agency --[BASED]-> Wellington 0.7810735106468201
+[National Ticketing Solution request for proposal]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7690570950508118
+[National Ticketing Solution request for proposal]: Golden Mile --[LOCATED]-> Wellington 0.7456523776054382
+[National Ticketing Solution request for proposal]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7500688433647156
+[National Ticketing Solution request for proposal]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7519123554229736
+[National Ticketing Solution request for proposal]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7416957020759583
+[National Ticketing Solution request for proposal]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7706879377365112
+[National Ticketing Solution request for proposal]: Wellington --[PART_OF]-> Wellington Region 0.7643269896507263
+[National Ticketing Solution request for proposal]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7785516977310181
+[National Ticketing Solution request for proposal]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7944614887237549
+[National Ticketing Solution request for proposal]: Wellington --[HAS]-> tunnel 0.7477903962135315
+[National Ticketing Solution request for proposal]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.759363055229187
+[National Ticketing Solution request for proposal]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7752102017402649
+[National Ticketing Solution request for proposal]: Wellington --[POSTCODE]-> 6141 0.7358423471450806
+[National Ticketing Solution request for proposal]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.776789128780365
+[National Ticketing Solution request for proposal]: Wellington --[IS_PART_OF]-> New Zealand 0.7581143379211426
+[National Ticketing Solution request for proposal]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.8125327825546265
+[National Ticketing Solution request for proposal]: 50 Victoria Street --[IN]-> Wellington 0.7365283966064453
+[National Ticketing Solution request for proposal]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7487775087356567
+[National Ticketing Solution request for proposal]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7488588094711304
+[National Ticketing Solution request for proposal]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7736842632293701
+[National Ticketing Solution request for proposal]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7682759761810303
+[National Ticketing Solution request for proposal]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7628669738769531
+[National Ticketing Solution request for proposal]: NZ Transport Agency --[LOCATED]-> Wellington 0.7800036668777466
+[National Ticketing Solution request for proposal]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7398648262023926
+[National Ticketing Solution request for proposal]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7431442737579346

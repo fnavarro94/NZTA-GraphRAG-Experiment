@@ -1,0 +1,36 @@
+In what year did NZ Transport Agency, the organization that develops guidelines and standards for road construction projects in the country aligning with the initiative focusing on expanding bus and train services, improving infrastructure, and integrating different modes of transport in Auckland to enhance public transport, become established?
+None
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+Seed: Adopting integrated transport planning approaches that consider public transport
+Seed: Addressing transport challenges in auckland
+Seed: Critical component of new zealand's transport strategy
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Plays]-> Significant role in shaping transport infrastructure and policy in new zealand 0.8626739978790283
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Conducts]-> Extensive research and development projects 0.7710608243942261
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Collaborates with]-> New zealand transport agency (nzta 0.8557503819465637
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Aims to]-> Enhance resilience and adaptability of new zealand's transport network 0.853748083114624
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Is]-> Collective of australian and new zealand road transport and traffic agencies 0.8402484655380249
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Founded in]-> 1990 0.7533472776412964
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Engages in]-> International collaborations to align initiatives with global best practices 0.7750163674354553
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider public transport 0.8068515062332153
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Aims to]-> Create more efficient transport networks 0.7981796264648438
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider active transport modes 0.7977826595306396
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Aims to]-> Create more sustainable transport networks 0.7998530864715576
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting 0.7911300659179688
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider land use 0.7900714874267578
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches 0.7958863377571106
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Addressing transport challenges in auckland 0.8737137317657471
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On enhancing road infrastructure 0.8801325559616089
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Outlines]-> Strategic approach to address challenges 0.8782575130462646
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On improving public transport 0.8745973110198975
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On promoting sustainable transport solutions 0.8675919771194458
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Promote sustainable transport options 0.8681544065475464
+[Addressing transport challenges in auckland]: Walking school bus --[Aligns with]-> Promote sustainable transport options 0.7945468425750732
+[Addressing transport challenges in auckland]: Walking school bus --[Originated in]-> New zealand 0.8414201736450195
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Transport projects 0.8786895275115967
+[Addressing transport challenges in auckland]: New zealand transport agency --[Oversees]-> Transport projects 0.8913980722427368
+[Addressing transport challenges in auckland]: Auckland --[Has]-> Transport projects 0.8714832067489624
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.8666640520095825
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Diverse transport network 0.8361817002296448
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Post-incident review 0.7713637948036194
+[Addressing transport challenges in auckland]: Post-incident review --[Crucial for]-> Improving operational efficiency 0.7311626076698303
+[Addressing transport challenges in auckland]: Post-incident review --[Crucial for]-> Fostering culture of continuous improvement 0.7307650446891785

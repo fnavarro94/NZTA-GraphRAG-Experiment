@@ -1,0 +1,36 @@
+In what year did the organization that operates the rail network in New Zealand, primarily serving freight and providing passenger services in metropolitan areas, become established as a state-owned enterprise in New Zealand?
+None
+Seed: State-owned enterprise
+Seed: Extensive network of passenger and freight services
+Seed: Rail network
+Seed: Rail networks
+[State-owned enterprise]: Kiwirail group --[Is]-> State-owned enterprise 0.8966468572616577
+[State-owned enterprise]: Kiwirail group --[Provides]-> Essential services 0.8282061815261841
+[State-owned enterprise]: Kiwirail group --[Provides]-> Efficient transport 0.8244171142578125
+[State-owned enterprise]: Kiwirail group --[Provides]-> Sustainable transport 0.8266804814338684
+[State-owned enterprise]: Sustainable urban transport --[Key component]-> Sustainable transport 0.7649862766265869
+[State-owned enterprise]: Sustainable urban transport --[Is]-> New zealand 0.8242436647415161
+[State-owned enterprise]: New zealand --[Has]-> Transport projects 0.8474012613296509
+[State-owned enterprise]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.8482533693313599
+[State-owned enterprise]: New zealand --[Has]-> Diverse transport network 0.8412888050079346
+[State-owned enterprise]: New zealand --[Has]-> Post-incident review 0.7584518790245056
+[State-owned enterprise]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.7902918457984924
+[State-owned enterprise]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.7891530394554138
+[State-owned enterprise]: New zealand --[Has]-> Broader environmental policies 0.792019248008728
+[State-owned enterprise]: New zealand --[Has]-> Traffic congestion 0.7904207110404968
+[State-owned enterprise]: New zealand --[Has]-> Increasing urbanization 0.7979596257209778
+[State-owned enterprise]: New zealand --[Has]-> Graduated licensing system 0.8095808625221252
+[State-owned enterprise]: New zealand --[Has]-> Extensive coastline supporting a thriving fishing industry and recreational boating activities 0.78370201587677
+[State-owned enterprise]: New zealand --[Has]-> Trend towards more integrated and environmentally friendly transport solutions 0.8179317116737366
+[State-owned enterprise]: New zealand --[Has]-> Extensive network of roads 0.8177396059036255
+[State-owned enterprise]: New zealand --[Has]-> Public transport network planning 0.8357385396957397
+[State-owned enterprise]: New zealand --[Has]-> Public transit 0.8287339210510254
+[State-owned enterprise]: New zealand --[Has]-> Goal 0.7957043647766113
+[State-owned enterprise]: New zealand --[Has]-> Transport system sustainability 0.8315776586532593
+[State-owned enterprise]: New zealand --[Has]-> Walking 0.7910035848617554
+[State-owned enterprise]: New zealand --[Has]-> Cycling 0.8015007972717285
+[State-owned enterprise]: New zealand --[Has]-> Biodiversity 0.7896132469177246
+[State-owned enterprise]: New zealand --[Has]-> Urban-rural dynamics 0.8093534111976624
+[State-owned enterprise]: New zealand --[Has]-> Unique geographical features 0.7937124371528625
+[State-owned enterprise]: New zealand --[Has]-> Growing emphasis on sustainable transport solutions 0.8214845657348633
+[State-owned enterprise]: New zealand --[Has]-> Transport funding strategies 0.8380367159843445

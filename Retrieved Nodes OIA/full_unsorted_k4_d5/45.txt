@@ -1,0 +1,36 @@
+Who is the Programme Director for the National Ticketing System (NTS) mentioned in the letter?
+None
+Seed: Programme Director, NTS
+Seed: National Ticketing System
+Seed: RFP for National Ticket System
+Seed: National Ticketing Solution request for proposal
+[Programme Director, NTS]: Programme Director, NTS --[AT]-> New Zealand Transport Agency 0.878320574760437
+[Programme Director, NTS]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7728176116943359
+[Programme Director, NTS]: New Zealand Transport Agency --[BASED]-> Wellington 0.7763341665267944
+[Programme Director, NTS]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7772300243377686
+[Programme Director, NTS]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.7778469324111938
+[Programme Director, NTS]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.739412784576416
+[Programme Director, NTS]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.7621619701385498
+[Programme Director, NTS]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7671282887458801
+[Programme Director, NTS]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7826734781265259
+[Programme Director, NTS]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.7723967432975769
+[Programme Director, NTS]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7494639158248901
+[Programme Director, NTS]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7549338340759277
+[Programme Director, NTS]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7492473125457764
+[Programme Director, NTS]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7268115878105164
+[Programme Director, NTS]: Wellington --[CONTAINS]-> Private Bag 6995 0.7497153878211975
+[Programme Director, NTS]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7878806591033936
+[Programme Director, NTS]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.781090259552002
+[Programme Director, NTS]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.781136691570282
+[Programme Director, NTS]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7773208618164062
+[Programme Director, NTS]: 50 Victoria Street --[IN]-> Wellington 0.7287001609802246
+[Programme Director, NTS]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.7882217764854431
+[Programme Director, NTS]: New Zealand Transport Agency --[LOCATED]-> 50 Victoria Street 0.7743103504180908
+[Programme Director, NTS]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7438475489616394
+[Programme Director, NTS]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7585666179656982
+[Programme Director, NTS]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7351123094558716
+[Programme Director, NTS]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7295348644256592
+[Programme Director, NTS]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7726486921310425
+[Programme Director, NTS]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.779078483581543
+[Programme Director, NTS]: New Zealand Transport Agency --[CONTACT]-> Wellington 6141 0.7807027101516724
+[Programme Director, NTS]: Wellington 6141 --[POSTAL_ADDRESS]-> New Zealand 0.7648206949234009

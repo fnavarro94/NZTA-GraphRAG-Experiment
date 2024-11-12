@@ -1,0 +1,10 @@
+What was the total number of vacancies under active recruitment at NZTA as of 23 August 2019?
+None
+Seed: Applicant 4
+Seed: Applicant 7
+Seed: Applicant 3
+Seed: Applicant 2
+[Applicant 4]: Applicant 4 --[CONVICTED]-> Attempted Burglary 0.7771839499473572
+[Applicant 7]: Applicant 7 --[CONVICTED]-> Breach Probation 0.775154709815979
+[Applicant 3]: Applicant 3 --[CONVICTED]-> Assault Police (Manual) 0.7781451344490051
+[Applicant 2]: Applicant 2 --[CONVICTED]-> Assault Child (Manually) 0.7653548121452332

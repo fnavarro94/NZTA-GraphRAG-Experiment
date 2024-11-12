@@ -1,0 +1,34 @@
+How many streetlights are there on motorways in New Zealand?
+None
+Seed: street lights information from local councils
+Seed: information on traffic light cameras
+Seed: street lights information
+Seed: information on traffic light cameras and speed cameras
+[street lights information from local councils]: New Zealand Transport Agency --[PROVIDES]-> street lights data 0.8822363018989563
+[street lights information from local councils]: street lights data --[CONTAINS]-> Motorway 0.8708655834197998
+[street lights information from local councils]: NZ Police --[INVESTIGATES]-> road traffic crashes 0.860306978225708
+[street lights information from local councils]: street lights data --[CONTAINS]-> Highway 0.8597735166549683
+[street lights information from local councils]: New Zealand --[HAS_HIGHWAY]-> State Highway 1 0.8583948016166687
+[street lights information from local councils]: State Highway 1 --[LOCATED_IN]-> New Zealand 0.8541904091835022
+[street lights information from local councils]: road traffic crashes --[OCCURS_IN]-> Queenstown Lakes and Central Otago 0.8537675142288208
+[information on traffic light cameras]: New Zealand Transport Agency --[PROVIDES]-> street lights data 0.8822363018989563
+[information on traffic light cameras]: street lights data --[CONTAINS]-> Motorway 0.8708655834197998
+[information on traffic light cameras]: NZ Police --[INVESTIGATES]-> road traffic crashes 0.860306978225708
+[information on traffic light cameras]: street lights data --[CONTAINS]-> Highway 0.8597735166549683
+[information on traffic light cameras]: New Zealand --[HAS_HIGHWAY]-> State Highway 1 0.8583948016166687
+[information on traffic light cameras]: State Highway 1 --[LOCATED_IN]-> New Zealand 0.8541904091835022
+[information on traffic light cameras]: road traffic crashes --[OCCURS_IN]-> Queenstown Lakes and Central Otago 0.8537675142288208
+[street lights information]: New Zealand Transport Agency --[PROVIDES]-> street lights data 0.8822363018989563
+[street lights information]: street lights data --[CONTAINS]-> Motorway 0.8708655834197998
+[street lights information]: NZ Police --[INVESTIGATES]-> road traffic crashes 0.860306978225708
+[street lights information]: street lights data --[CONTAINS]-> Highway 0.8597735166549683
+[street lights information]: New Zealand --[HAS_HIGHWAY]-> State Highway 1 0.8583948016166687
+[street lights information]: State Highway 1 --[LOCATED_IN]-> New Zealand 0.8541904091835022
+[street lights information]: street lights data --[CONTAINS]-> Expressway 0.8510286808013916
+[information on traffic light cameras and speed cameras]: New Zealand Transport Agency --[PROVIDES]-> street lights data 0.8822363018989563
+[information on traffic light cameras and speed cameras]: street lights data --[CONTAINS]-> Motorway 0.8708655834197998
+[information on traffic light cameras and speed cameras]: NZ Police --[INVESTIGATES]-> road traffic crashes 0.860306978225708
+[information on traffic light cameras and speed cameras]: street lights data --[CONTAINS]-> Highway 0.8597735166549683
+[information on traffic light cameras and speed cameras]: New Zealand --[HAS_HIGHWAY]-> State Highway 1 0.8583948016166687
+[information on traffic light cameras and speed cameras]: State Highway 1 --[LOCATED_IN]-> New Zealand 0.8541904091835022
+[information on traffic light cameras and speed cameras]: road traffic crashes --[OCCURS_IN]-> Queenstown Lakes and Central Otago 0.8537675142288208

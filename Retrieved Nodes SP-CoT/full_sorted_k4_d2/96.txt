@@ -1,0 +1,34 @@
+Which significant town does the major transport infrastructure project in the country aim to reduce congestion and improve travel times between Wellington and the central North Island pass through after Upper Hutt and before reaching Levin?
+None
+Seed: Transport link between wellington and northern regions of north island
+Seed: Meet the evolving needs of new zealand's transport system
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+Seed: Addressing transport challenges in auckland
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Passes through]-> Upper hutt 0.8923042416572571
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Passes through]-> Levin 0.8845369219779968
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Aims to improve]-> Transport link between wellington and northern regions of north island 0.8690685033798218
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Reduces]-> Travel times 0.8586440086364746
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Is]-> Key transport route 0.8572621941566467
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Alleviates]-> Pressure on existing transport infrastructure 0.8551254868507385
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Aims to]-> Meet the evolving needs of new zealand's transport system 0.8529754877090454
+[Meet the evolving needs of new zealand's transport system]: Wellington northern corridor --[Passes through]-> Upper hutt 0.8923042416572571
+[Meet the evolving needs of new zealand's transport system]: Wellington northern corridor --[Passes through]-> Levin 0.8845369219779968
+[Meet the evolving needs of new zealand's transport system]: Wellington northern corridor --[Aims to improve]-> Transport link between wellington and northern regions of north island 0.8690685033798218
+[Meet the evolving needs of new zealand's transport system]: Wellington northern corridor --[Reduces]-> Travel times 0.8586440086364746
+[Meet the evolving needs of new zealand's transport system]: Wellington northern corridor --[Is]-> Key transport route 0.8572621941566467
+[Meet the evolving needs of new zealand's transport system]: Wellington northern corridor --[Alleviates]-> Pressure on existing transport infrastructure 0.8551254868507385
+[Meet the evolving needs of new zealand's transport system]: Wellington northern corridor --[Aims to]-> Meet the evolving needs of new zealand's transport system 0.8529754877090454
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Plays]-> Significant role in shaping transport infrastructure and policy in new zealand 0.8355906009674072
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Aims to]-> Enhance resilience and adaptability of new zealand's transport network 0.8266463875770569
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Collaborates with]-> New zealand transport agency (nzta 0.803576648235321
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Is]-> Collective of australian and new zealand road transport and traffic agencies 0.7999343872070312
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Conducts]-> Extensive research and development projects 0.750146210193634
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Engages in]-> International collaborations to align initiatives with global best practices 0.7237672209739685
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Founded in]-> 1990 0.7015231251716614
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Reduce congestion 0.84288090467453
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On enhancing road infrastructure 0.8389938473701477
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Development of comprehensive transport network 0.8365408182144165
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Improve efficiency and effectiveness of transport system 0.8333392143249512
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On improving public transport 0.8318908214569092
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Emphasizes]-> Need for balanced transport system 0.8300743103027344
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Encompasses]-> Range of projects 0.830059289932251

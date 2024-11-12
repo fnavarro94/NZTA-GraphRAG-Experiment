@@ -1,0 +1,27 @@
+Have any environmental, economic, or carbon impact studies been conducted for the North Auckland Rapid Transit Corridor?
+None
+Seed: Environmental Impact Study
+Seed: carbon impact study
+Seed: North Auckland Rapid Transit Corridor
+Seed: carbon emission data for business related travel and fleet vehicles emissions
+[Environmental Impact Study]: North Auckland Rapid Transit Corridor --[ENVIRONMENTAL_IMPACT]-> Environmental Impact Study 0.9593483209609985
+[Environmental Impact Study]: North Auckland Rapid Transit Corridor --[ECONOMIC_STUDY]-> Economic Study 0.9315305352210999
+[Environmental Impact Study]: North Auckland Rapid Transit Corridor --[LOCATED]-> Auckland 0.8856133222579956
+[Environmental Impact Study]: Audit Process --[AUDITS]-> North Auckland Rapid Transit Corridor 0.8738311529159546
+[Environmental Impact Study]: New Zealand Transport Agency --[MANAGES]-> North Auckland Rapid Transit Corridor 0.8655608892440796
+[Environmental Impact Study]: Environmental Impact Study --[CONDUCTED_BY]-> Qualified Entity 0.818527340888977
+[carbon impact study]: carbon impact study --[FACTORS_IN]-> increased footprint 0.8421733379364014
+[North Auckland Rapid Transit Corridor]: North Auckland Rapid Transit Corridor --[ENVIRONMENTAL_IMPACT]-> Environmental Impact Study 0.9593483209609985
+[North Auckland Rapid Transit Corridor]: North Auckland Rapid Transit Corridor --[ECONOMIC_STUDY]-> Economic Study 0.9315305352210999
+[North Auckland Rapid Transit Corridor]: North Auckland Rapid Transit Corridor --[LOCATED]-> Auckland 0.8856133222579956
+[North Auckland Rapid Transit Corridor]: Audit Process --[AUDITS]-> North Auckland Rapid Transit Corridor 0.8738311529159546
+[North Auckland Rapid Transit Corridor]: New Zealand Transport Agency --[FOCUSED_ON]-> reducing business travel emissions 0.8662763833999634
+[North Auckland Rapid Transit Corridor]: Auckland --[CONTAINS]-> transport infrastructure 0.865939199924469
+[North Auckland Rapid Transit Corridor]: New Zealand Transport Agency --[MANAGES]-> North Auckland Rapid Transit Corridor 0.8655608892440796
+[carbon emission data for business related travel and fleet vehicles emissions]: Waka Kotahi --[CAPTURE]-> carbon emission data for business related travel and fleet vehicles emissions 0.8544425964355469
+[carbon emission data for business related travel and fleet vehicles emissions]: Waka Kotahi --[COLLABORATES_WITH]-> Auckland Transport 0.8357616662979126
+[carbon emission data for business related travel and fleet vehicles emissions]: Regional Public Transport Plans --[DEVELOPED_BY]-> Waka Kotahi 0.823076069355011
+[carbon emission data for business related travel and fleet vehicles emissions]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.8190442323684692
+[carbon emission data for business related travel and fleet vehicles emissions]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.81711745262146
+[carbon emission data for business related travel and fleet vehicles emissions]: Waka Kotahi --[WILL_CAPTURE]-> emissions from other corporate or internally focused activities 0.8164709806442261
+[carbon emission data for business related travel and fleet vehicles emissions]: transport infrastructure --[SERVED_BY]-> Waka Kotahi 0.8159586191177368

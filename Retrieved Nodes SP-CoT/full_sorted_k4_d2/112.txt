@@ -1,0 +1,29 @@
+What passenger service on the rail line in New Zealand that has been enhanced as part of the government's investment in upgrading rail infrastructure to support sustainable freight solutions provides commuter services between the headquarters of the organization in New Zealand that operates the majority of the country's rail services and has launched campaigns to promote rail safety located and Palmerston North?
+None
+Seed: Majority of rail services
+Seed: Passenger rail services
+Seed: Initiatives to promote sustainable transport solutions
+Seed: Both freight and passenger services
+[Majority of rail services]: Kiwirail group --[Operates]-> Majority of rail services 0.8645260334014893
+[Majority of rail services]: Kiwirail group --[Operates]-> Freight services 0.8637909293174744
+[Majority of rail services]: Kiwirail group --[Responsible for]-> Freight services 0.8602915406227112
+[Majority of rail services]: Kiwirail group --[Provides]-> Sustainable transport 0.8583709001541138
+[Majority of rail services]: Kiwirail group --[Operates]-> Passenger services 0.8575752973556519
+[Majority of rail services]: Kiwirail group --[Responsible for]-> Rail transport 0.8553303480148315
+[Majority of rail services]: Kiwirail group --[Facilitates]-> Movement of goods 0.8543223738670349
+[Passenger rail services]: Passenger rail services --[Showcase]-> New zealand's stunning landscapes 0.8446164131164551
+[Passenger rail services]: Passenger rail services --[Include]-> Scenic routes such as the tranzalpine and the northern explorer 0.8046315312385559
+[Initiatives to promote sustainable transport solutions]: Climate change response act --[Serves as]-> Foundational framework for new zealand's approach 0.8079897165298462
+[Initiatives to promote sustainable transport solutions]: Climate change response act --[Includes]-> Initiatives to promote sustainable transport solutions 0.8056461811065674
+[Initiatives to promote sustainable transport solutions]: Climate change response act --[Has]-> Significant implications for transport sector 0.8026007413864136
+[Initiatives to promote sustainable transport solutions]: Climate change response act --[Established]-> Framework for government 0.7622787356376648
+[Initiatives to promote sustainable transport solutions]: Climate change response act --[Aimed at]-> Addressing challenges posed by climate change 0.7580947875976562
+[Initiatives to promote sustainable transport solutions]: Climate change response act --[Facilitated]-> Introduction of various policies 0.7542710900306702
+[Initiatives to promote sustainable transport solutions]: Climate change response act --[Mandates]-> Development of national climate change strategy 0.752393901348114
+[Both freight and passenger services]: Rail freight services --[Are operated by]-> Kiwirail 0.8724310398101807
+[Both freight and passenger services]: Kiwirail --[Provides]-> Freight services 0.8692061305046082
+[Both freight and passenger services]: Kiwirail --[Manages]-> Both freight and passenger services 0.8657674193382263
+[Both freight and passenger services]: Kiwirail --[Provides]-> Passenger services 0.8606163859367371
+[Both freight and passenger services]: Kiwirail --[Operates]-> Rail services 0.8597479462623596
+[Both freight and passenger services]: Kiwirail --[Operates]-> Great journeys of new zealand 0.8516898155212402
+[Both freight and passenger services]: Kiwirail --[Established in]-> 2008 0.8515785932540894

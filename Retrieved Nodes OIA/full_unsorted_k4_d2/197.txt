@@ -1,0 +1,36 @@
+How many complaints have been received about Uber drivers since 2019?
+None
+Seed: 196 complaints about Uber drivers
+Seed: Uber drivers
+Seed: Complaint Data
+Seed: ride share operator complaints
+[196 complaints about Uber drivers]: Waka Kotahi --[RECEIVES]-> 196 complaints about Uber drivers 0.8900079727172852
+[196 complaints about Uber drivers]: Response --[CONTAINS]-> Waka Kotahi 0.7342654466629028
+[196 complaints about Uber drivers]: response --[CONTAINS]-> Waka Kotahi 0.7473061680793762
+[196 complaints about Uber drivers]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.7510263919830322
+[196 complaints about Uber drivers]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.7394375801086426
+[196 complaints about Uber drivers]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7892156839370728
+[196 complaints about Uber drivers]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.8500398993492126
+[196 complaints about Uber drivers]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.6992520689964294
+[196 complaints about Uber drivers]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7435571551322937
+[196 complaints about Uber drivers]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.7493446469306946
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.7513651847839355
+[196 complaints about Uber drivers]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7493323683738708
+[196 complaints about Uber drivers]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.7181464433670044
+[196 complaints about Uber drivers]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.7315911650657654
+[196 complaints about Uber drivers]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.7231885194778442
+[196 complaints about Uber drivers]: Leisa Coley --[EMPLOYED_BY]-> Waka Kotahi 0.7162567973136902
+[196 complaints about Uber drivers]: Lizette Marais --[EMPLOYED_BY]-> Waka Kotahi 0.7139484882354736
+[196 complaints about Uber drivers]: Waka Kotahi --[EMPLOYS]-> Andy Knackstedt 0.7061637043952942
+[196 complaints about Uber drivers]: Waka Kotahi --[EMPLOYS]-> Qualified Staff 0.7037050724029541
+[196 complaints about Uber drivers]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.7307989597320557
+[196 complaints about Uber drivers]: website --[RELATES_TO]-> Waka Kotahi 0.7344253063201904
+[196 complaints about Uber drivers]: Waka Kotahi --[RESPONDS_TO]-> OIA request 0.7682325839996338
+[196 complaints about Uber drivers]: Waka Kotahi --[RESPONDS_TO]-> request 0.7581721544265747
+[196 complaints about Uber drivers]: Waka Kotahi --[PROVIDES]-> OIA-10601-response-georgina-campbell.pdf 0.7580192685127258
+[196 complaints about Uber drivers]: Waka Kotahi --[PROVIDES]-> outcome of suspension 0.7397080063819885
+[196 complaints about Uber drivers]: Waka Kotahi --[PROVIDES]-> outcome of surrendered 0.7051265239715576
+[196 complaints about Uber drivers]: Waka Kotahi --[PROVIDES]-> information on website 0.7313748598098755
+[196 complaints about Uber drivers]: Waka Kotahi --[PROVIDES]-> outcome of revoke 0.7320753335952759
+[196 complaints about Uber drivers]: Waka Kotahi --[PROVIDES]-> warnings to individuals 0.7482870817184448
+[196 complaints about Uber drivers]: Waka Kotahi --[PROVIDES]-> Transport Data 0.765350341796875

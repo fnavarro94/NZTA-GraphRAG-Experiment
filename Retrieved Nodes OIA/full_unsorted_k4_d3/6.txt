@@ -1,0 +1,36 @@
+What percentage of MR1 and MR1B transactions were completed through an agent between 1 October 2022 and 30 September 2023?
+None
+Seed: statistics for MR1/B transactions
+Seed: MR1/B transactions data
+Seed: 1 October 2022 to 30 September 2023
+Seed: MR1/B transactions
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[PROVIDES]-> statistics for MR1/B transactions 0.8429489135742188
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7315853238105774
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[BASED]-> Wellington 0.7338250875473022
+[statistics for MR1/B transactions]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7374082803726196
+[statistics for MR1/B transactions]: Golden Mile --[LOCATED]-> Wellington 0.6977540254592896
+[statistics for MR1/B transactions]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7180256247520447
+[statistics for MR1/B transactions]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.6972991228103638
+[statistics for MR1/B transactions]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.6899375915527344
+[statistics for MR1/B transactions]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7235369682312012
+[statistics for MR1/B transactions]: Wellington --[PART_OF]-> Wellington Region 0.73289954662323
+[statistics for MR1/B transactions]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7378597855567932
+[statistics for MR1/B transactions]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7133849859237671
+[statistics for MR1/B transactions]: Wellington --[HAS]-> tunnel 0.7151889801025391
+[statistics for MR1/B transactions]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7041870355606079
+[statistics for MR1/B transactions]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7320290207862854
+[statistics for MR1/B transactions]: Wellington --[POSTCODE]-> 6141 0.7033125162124634
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7214949131011963
+[statistics for MR1/B transactions]: Wellington --[IS_PART_OF]-> New Zealand 0.7286664247512817
+[statistics for MR1/B transactions]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7328783273696899
+[statistics for MR1/B transactions]: 50 Victoria Street --[IN]-> Wellington 0.7097436189651489
+[statistics for MR1/B transactions]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.6956612467765808
+[statistics for MR1/B transactions]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.721530556678772
+[statistics for MR1/B transactions]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7356343269348145
+[statistics for MR1/B transactions]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7123792171478271
+[statistics for MR1/B transactions]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7245917320251465
+[statistics for MR1/B transactions]: NZ Transport Agency --[LOCATED]-> Wellington 0.7319262027740479
+[statistics for MR1/B transactions]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7239277362823486
+[statistics for MR1/B transactions]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7122969031333923
+[statistics for MR1/B transactions]: New Zealand --[CONTAINS]-> Wellington 0.7234910726547241
+[statistics for MR1/B transactions]: Wellington --[PART_OF]-> New Zealand 0.7230823636054993

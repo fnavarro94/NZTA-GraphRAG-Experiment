@@ -1,0 +1,36 @@
+What project in the largest city in the country known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, served by the key transport corridor critical for freight and passenger movement and running through the North Island, has transformed underutilized spaces into vibrant cycling and pedestrian pathways?
+None
+Seed: Critical for freight and passenger movement
+Seed: Critical aspect of transportation planning
+Seed: Critical aspect of urban and regional development
+Seed: Adopting integrated transport planning approaches that consider public transport
+[Critical for freight and passenger movement]: North island main trunk railway --[Is]-> Critical for freight and passenger movement 0.8675940632820129
+[Critical for freight and passenger movement]: North island main trunk railway --[Supports]-> Tourism 0.8181259036064148
+[Critical for freight and passenger movement]: North island main trunk railway --[Supports]-> Industry 0.8045246601104736
+[Critical for freight and passenger movement]: North island main trunk railway --[Holds]-> Efficiency 0.7925978899002075
+[Critical for freight and passenger movement]: Tms --[Drives]-> Efficiency 0.7199270725250244
+[Critical for freight and passenger movement]: Tms --[Enhances]-> Efficiency 0.7068812847137451
+[Critical for freight and passenger movement]: Auckland city rail link --[Improves]-> Efficiency 0.7794495820999146
+[Critical for freight and passenger movement]: Vehicle fleet optimization --[Improve]-> Efficiency 0.754798173904419
+[Critical for freight and passenger movement]: Ruei --[Aimed at]-> Efficiency 0.7181239128112793
+[Critical for freight and passenger movement]: Vehicle technology advancements --[Enhanced]-> Efficiency 0.7450979351997375
+[Critical for freight and passenger movement]: Smart mobility solutions --[Enhance]-> Efficiency 0.7447410225868225
+[Critical for freight and passenger movement]: Intelligent transport systems --[Enhance]-> Efficiency 0.7613564729690552
+[Critical for freight and passenger movement]: Road maintenance strategies --[Ensure]-> Efficiency 0.7602361440658569
+[Critical for freight and passenger movement]: North island main trunk railway --[Fosters]-> Movement of people 0.8265361785888672
+[Critical for freight and passenger movement]: Kiwirail --[Facilitates]-> Movement of people 0.8087115287780762
+[Critical for freight and passenger movement]: North island main trunk railway --[Holds]-> Vital link 0.8104104995727539
+[Critical for freight and passenger movement]: Hamilton --[Is]-> Vital link 0.7452415227890015
+[Critical for freight and passenger movement]: North island main trunk railway --[Features]-> Makatote viaduct 0.8165256977081299
+[Critical for freight and passenger movement]: North island main trunk line --[Features]-> Makatote viaduct 0.8126786351203918
+[Critical for freight and passenger movement]: North island main trunk railway --[Features]-> Hapuakohe viaduct 0.8179565668106079
+[Critical for freight and passenger movement]: North island main trunk railway --[Upgraded]-> Improve safety 0.794171929359436
+[Critical for freight and passenger movement]: Electric and autonomous vehicles --[Potential]-> Improve safety 0.7355982065200806
+[Critical for freight and passenger movement]: North island main trunk railway --[Holds]-> Sustainability 0.8150274753570557
+[Critical for freight and passenger movement]: Auckland ferry network --[Commitment to]-> Sustainability 0.8131535649299622
+[Critical for freight and passenger movement]: Wellington public transport plan --[Objectives include]-> Sustainability 0.8032348155975342
+[Critical for freight and passenger movement]: North island main trunk line --[Enhances]-> Sustainability 0.827428936958313
+[Critical for freight and passenger movement]: Auckland airport --[Committed]-> Sustainability 0.7855581045150757
+[Critical for freight and passenger movement]: Kiwirail group --[Prioritizes]-> Sustainability 0.8004011511802673
+[Critical for freight and passenger movement]: Waka kotahi --[Places emphasis on]-> Sustainability 0.7618658542633057
+[Critical for freight and passenger movement]: Transport skills strategy --[Primary objectives include]-> Sustainability 0.8036429286003113

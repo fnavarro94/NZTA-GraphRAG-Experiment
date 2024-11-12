@@ -1,0 +1,31 @@
+What were the key safety incidents reported to the board in the June 2017 update?
+None
+Seed: Safety Incidents
+Seed: health and safety incidents
+Seed: rail operational safety
+Seed: incident reports
+[Safety Incidents]: Safety Incidents --[INVESTIGATED]-> Board 0.9061064720153809
+[Safety Incidents]: Health, Safety & Quality Report --[CONTAINS]-> Safety Incidents 0.8728950619697571
+[Safety Incidents]: Board --[RECEIVES_REPORT]-> Health, Safety & Quality Report 0.8639699816703796
+[Safety Incidents]: Stephen Bell --[SUBMITS_REPORT]-> Health, Safety & Quality Report 0.8239105939865112
+[health and safety incidents]: health and safety incidents --[OCCURRED]-> 2008-2013 0.8658453226089478
+[health and safety incidents]: Health and Safety Committee --[REVIEW]-> incident reports 0.8606594204902649
+[health and safety incidents]: incident reports --[RELATE_TO]-> health and safety incidents 0.8450368046760559
+[health and safety incidents]: Content --[DISCUSSES]-> Transport Safety 0.8428094387054443
+[health and safety incidents]: health and safety incidents --[REGIONAL_BREAKDOWN]-> regional breakdown 0.8423941135406494
+[health and safety incidents]: 2008-2013 --[CONTAINS]-> incident reports 0.8422702550888062
+[health and safety incidents]: crashes --[OCCURRED]-> Territorial Local Authorities 0.8366814851760864
+[rail operational safety]: awareness --[increased]-> rail operational safety 0.8363977074623108
+[rail operational safety]: New Zealand Transport Agency --[ASSOCIATED]-> Road safety initiatives 0.8332206010818481
+[rail operational safety]: Road Safety --[IMPROVED]-> Initiatives 0.8318089842796326
+[rail operational safety]: Pedestrian and Cyclist Crashes --[ASSOCIATED_WITH]-> Road Safety Initiatives 0.8309614062309265
+[rail operational safety]: Insights --[ON]-> Road Safety 0.8296765685081482
+[rail operational safety]: road safety --[IMPROVED_BY]-> initiatives 0.8294447660446167
+[rail operational safety]: speed review process --[AFFECTS]-> road safety 0.8288790583610535
+[incident reports]: health and safety incidents --[OCCURRED]-> 2008-2013 0.8658453226089478
+[incident reports]: Health and Safety Committee --[REVIEW]-> incident reports 0.8606594204902649
+[incident reports]: incident reports --[RELATE_TO]-> health and safety incidents 0.8450368046760559
+[incident reports]: health and safety incidents --[REGIONAL_BREAKDOWN]-> regional breakdown 0.8423941135406494
+[incident reports]: 2008-2013 --[CONTAINS]-> incident reports 0.8422702550888062
+[incident reports]: incident reports --[REVIEWED]-> regional managers 0.8352941870689392
+[incident reports]: Crash Analysis System --[UPDATED]-> Traffic Crash Report 0.8333920836448669

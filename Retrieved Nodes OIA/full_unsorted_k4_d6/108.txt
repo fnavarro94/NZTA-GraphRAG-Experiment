@@ -1,0 +1,36 @@
+Has Waka Kotahi carried out tests comparing steel reinforcement versus fiberglass or wood in cab cut-outs?
+None
+Seed: fibreglass or wood
+Seed: 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.
+Seed: steel is present reinforcing the ca b cut-out
+Seed: information to Waka Kotahi
+[fibreglass or wood]: fibreglass or wood --[TESTED]-> tests 0.8713247776031494
+[fibreglass or wood]: tests --[CONDUCTED]-> Waka Kotahi 0.8833456635475159
+[fibreglass or wood]: Response --[CONTAINS]-> Waka Kotahi 0.8092899322509766
+[fibreglass or wood]: Waka Kotahi --[PUBLISHES]-> Response 0.820046067237854
+[fibreglass or wood]: response --[CONTAINS]-> Waka Kotahi 0.8248245716094971
+[fibreglass or wood]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.8215022087097168
+[fibreglass or wood]: Charles Ronaldson --[SIGNED]-> response 0.7434128522872925
+[fibreglass or wood]: Lauren Cooke --[SIGNED]-> response 0.7429789304733276
+[fibreglass or wood]: Waka Kotahi --[PUBLISHED_BY]-> response 0.8145759105682373
+[fibreglass or wood]: Ministry --[PROVIDE]-> response 0.743323564529419
+[fibreglass or wood]: response --[REMOVED]-> personal information 0.7015848159790039
+[fibreglass or wood]: Waka Kotahi website --[CONTAINS]-> response 0.7928158640861511
+[fibreglass or wood]: New Zealand Transport Agency --[DISCUSSES]-> response 0.7640825510025024
+[fibreglass or wood]: response --[IS_A]-> letter 0.7366542816162109
+[fibreglass or wood]: Waka Kotahi --[FOLLOWS]-> response 0.809990644454956
+[fibreglass or wood]: New Zealand Transport Agency --[PUBLISH]-> response 0.7762453556060791
+[fibreglass or wood]: New Zealand Transport Agency --[PUBLISHES]-> response 0.7726041674613953
+[fibreglass or wood]: response --[IS]-> response letter 0.7398248910903931
+[fibreglass or wood]: response letter --[IS]-> response 0.7396424412727356
+[fibreglass or wood]: response --[CONTAINS]-> contact details for the Ombudsman 0.7150870561599731
+[fibreglass or wood]: response --[CONTAINS]-> Jamie Ensor 0.7472693920135498
+[fibreglass or wood]: response --[RELATES_TO]-> personal information removed 0.7164075374603271
+[fibreglass or wood]: Conan Young --[RECEIVES]-> response 0.7512928247451782
+[fibreglass or wood]: oia-14650-response-letter.pdf --[CONTAINS]-> response 0.726555347442627
+[fibreglass or wood]: response --[IS]-> sincerely 0.7214305996894836
+[fibreglass or wood]: NZTA --[REPLY]-> response 0.7568005323410034
+[fibreglass or wood]: response --[REMOVE]-> personal information 0.6821749210357666
+[fibreglass or wood]: Waka Kotahi --[PUBLISHED]-> response 0.8312860727310181
+[fibreglass or wood]: Waka Kotahi --[PROVIDES]-> response 0.8205928802490234
+[fibreglass or wood]: response --[IS_PUBLISHED_ON]-> website 0.7433359622955322

@@ -1,0 +1,15 @@
+What transport route was NZTA planning from Auckland CBD to West Auckland?
+None
+Seed: work done on a light rail route from the Auckland CBD to West Auckland
+Seed: Rapid Transit in Auckland
+Seed: Regional Land Transport Plan
+Seed: Regional Public Transport Plans
+[work done on a light rail route from the Auckland CBD to West Auckland]: New Zealand Transport Agency --[PROVIDES]-> work done on a light rail route from the Auckland CBD to West Auckland 0.8849544525146484
+[Rapid Transit in Auckland]: Rapid Transit in Auckland --[ATTACHED_TO]-> Attachment 1 0.8493787050247192
+[Regional Land Transport Plan]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Access and Development Programme Business Case 0.8275936245918274
+[Regional Land Transport Plan]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.82469642162323
+[Regional Land Transport Plan]: 2024-27 National Land Transport Programme --[DEVELOPMENT_OF]-> Regional Land Transport Plan 0.8012580871582031
+[Regional Public Transport Plans]: Regional Public Transport Plans --[DEVELOPED_BY]-> Waka Kotahi 0.8436858654022217
+[Regional Public Transport Plans]: Waka Kotahi --[PARTNER]-> Regional Public Transport Plans 0.8229320049285889
+[Regional Public Transport Plans]: Regional Public Transport Plans --[CONTRIBUTES]-> achieving mode shift 0.7972267270088196
+[Regional Public Transport Plans]: achieving mode shift --[REQUIRES]-> Regional Public Transport Plans 0.7972239255905151

@@ -1,0 +1,32 @@
+When is the anticipated end date for tolling on the Northern Gateway Toll Road?
+None
+Seed: Northern Gateway Toll Road
+Seed: information on tolls and road maintenance
+Seed: toll roads
+Seed: toll tariffs
+[Northern Gateway Toll Road]: Northern Gateway Toll Road --[ESTIMATED_END_DATE]-> 2045 0.9263951778411865
+[Northern Gateway Toll Road]: Northern Gateway Toll Road --[PROVIDES]-> Toll Revenue 0.8952725529670715
+[Northern Gateway Toll Road]: Northern Gateway Toll Road --[DEBT_REPAYMENT]-> 35 years 0.8729838132858276
+[Northern Gateway Toll Road]: Tauranga Eastern Link Toll Road --[PROVIDES]-> Toll Revenue 0.8249249458312988
+[Northern Gateway Toll Road]: Takitimu Drive Toll Road --[PROVIDES]-> Toll Revenue 0.8156133890151978
+[information on tolls and road maintenance]: Transmission Gully Motorway --[OPENED]-> March 2022 0.8402318358421326
+[information on tolls and road maintenance]: Open Data portal for information about daily traffic volumes on Hewletts Road --[LINKED_TO]-> https://maphub.nzta.govt.nz/public/?appid=31305d4c1c794c1188a87da0d3e85d04 0.8334575295448303
+[information on tolls and road maintenance]: tolls --[SPENT]-> on various roads 0.8333051204681396
+[information on tolls and road maintenance]: road maintenance --[FUNDED_BY]-> toll tariffs 0.8331446647644043
+[information on tolls and road maintenance]: toll tariffs --[SPENT_ON]-> road maintenance 0.8323947191238403
+[information on tolls and road maintenance]: longest overdue road --[OVERDUE]-> road renewal 0.8304059505462646
+[information on tolls and road maintenance]: response from New Zealand Transport Agency --[CONTAINS]-> information on tolls and road maintenance 0.8293752074241638
+[toll roads]: Transmission Gully Motorway --[OPENED]-> March 2022 0.8402318358421326
+[toll roads]: Open Data portal for information about daily traffic volumes on Hewletts Road --[LINKED_TO]-> https://maphub.nzta.govt.nz/public/?appid=31305d4c1c794c1188a87da0d3e85d04 0.8334575295448303
+[toll roads]: tolls --[SPENT]-> on various roads 0.8333051204681396
+[toll roads]: road maintenance --[FUNDED_BY]-> toll tariffs 0.8331446647644043
+[toll roads]: toll tariffs --[SPENT_ON]-> road maintenance 0.8323947191238403
+[toll roads]: longest overdue road --[OVERDUE]-> road renewal 0.8304059505462646
+[toll roads]: response from New Zealand Transport Agency --[CONTAINS]-> information on tolls and road maintenance 0.8293752074241638
+[toll tariffs]: Transmission Gully Motorway --[OPENED]-> March 2022 0.8402318358421326
+[toll tariffs]: Open Data portal for information about daily traffic volumes on Hewletts Road --[LINKED_TO]-> https://maphub.nzta.govt.nz/public/?appid=31305d4c1c794c1188a87da0d3e85d04 0.8334575295448303
+[toll tariffs]: tolls --[SPENT]-> on various roads 0.8333051204681396
+[toll tariffs]: road maintenance --[FUNDED_BY]-> toll tariffs 0.8331446647644043
+[toll tariffs]: toll tariffs --[SPENT_ON]-> road maintenance 0.8323947191238403
+[toll tariffs]: longest overdue road --[OVERDUE]-> road renewal 0.8304059505462646
+[toll tariffs]: response from New Zealand Transport Agency --[CONTAINS]-> information on tolls and road maintenance 0.8293752074241638

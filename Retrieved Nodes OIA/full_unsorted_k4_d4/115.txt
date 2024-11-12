@@ -1,0 +1,36 @@
+Under what inspecting organization (IO) authority did VINZ operate prior to and after March 2015?
+None
+Seed: Sale of VINZ
+Seed: own inspecting authority number
+Seed: Enforcement of regulatory role
+Seed: Review of regulatory role
+[Sale of VINZ]: Sale of VINZ --[DATE]-> March 2015 0.845698893070221
+[Sale of VINZ]: VINZ --[ASSOCIATED_WITH]-> March 2015 0.8483397364616394
+[Sale of VINZ]: VINZ --[OPERATED_UNDER]-> IO authority 0.8925390243530273
+[Sale of VINZ]: IO authority --[TURNED_OFF]-> March 2015 0.8156067728996277
+[Sale of VINZ]: IO authority --[ASSOCIATED_WITH]-> VINZ 0.852569043636322
+[Sale of VINZ]: VINZ --[ASSOCIATED_WITH]-> IO authority 0.855731725692749
+[Sale of VINZ]: IO authority --[ASSOCIATED_WITH]-> March 2015 0.8254050612449646
+[Sale of VINZ]: RNZ --[ASSOCIATED_WITH]-> IO authority 0.8087975978851318
+[Sale of VINZ]: IO authority --[ASSOCIATED_WITH]-> RNZ 0.8081117868423462
+[Sale of VINZ]: March 2015 --[ASSOCIATED_WITH]-> IO authority 0.8159204125404358
+[Sale of VINZ]: IO authority --[CARRIED_OVER]-> Illegal 0.7966474890708923
+[Sale of VINZ]: RNZ --[INSPECTING_ORGANISATION]-> VINZ 0.8619085550308228
+[Sale of VINZ]: March 2015 --[ASSOCIATED_WITH]-> RNZ 0.7795910835266113
+[Sale of VINZ]: VINZ --[INSPECTING_ORGANISATION]-> RNZ 0.8635749816894531
+[Sale of VINZ]: RNZ --[ASSOCIATED_WITH]-> VINZ 0.7957193851470947
+[Sale of VINZ]: VINZ --[ASSOCIATED_WITH]-> RNZ 0.7990312576293945
+[Sale of VINZ]: RNZ --[ASSOCIATED_WITH]-> March 2015 0.7988880276679993
+[Sale of VINZ]: VINZ --[SOLD]-> March 2015 0.8535348773002625
+[Sale of VINZ]: COF and WOF IOs --[DATE_FILLED]-> March 2015 0.7554233074188232
+[Sale of VINZ]: March 2015 --[ASSOCIATED_WITH]-> VINZ 0.8292461037635803
+[Sale of VINZ]: VINZ --[FORM_FILLED]-> COF and WOF IOs 0.7823277711868286
+[Sale of VINZ]: Transport Agency --[ADVISED_OF]-> Sale of VINZ 0.8480316400527954
+[Sale of VINZ]: www.ombudsman.parliament.nz --[PROVIDES]-> Transport Agency 0.7932419776916504
+[Sale of VINZ]: www.ombudsman.parliament.nz --[LINKS_TO]-> Ombudsman 0.7749633193016052
+[Sale of VINZ]: right to ask the Ombudsman to review --[IS_GRANTED_BY]-> Ombudsman 0.7596272230148315
+[Sale of VINZ]: Ombudsman --[REVIEW_REQUEST]-> decision 0.767344057559967
+[Sale of VINZ]: Ombudsman --[REVIEW]-> decision to withhold information 0.7706016898155212
+[Sale of VINZ]: Ombudsman --[PROVIDES]-> New Zealand Transport Agency 0.7815148830413818
+[Sale of VINZ]: New Zealand Transport Agency --[PROVIDES]-> Ombudsman 0.7872961759567261
+[Sale of VINZ]: Ombudsman --[REVIEW]-> withheld information 0.768604576587677

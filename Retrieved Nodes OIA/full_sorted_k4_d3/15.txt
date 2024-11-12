@@ -1,0 +1,30 @@
+What were the safety failures identified in Go Wellington buses during the inspections in April and May 2013?
+None
+Seed: Safety Incidents
+Seed: rail operational safety
+Seed: Senior Manager Road Safety
+Seed: Vehicle Safety
+[Safety Incidents]: Safety Incidents --[INVESTIGATED]-> Board 0.829444169998169
+[Safety Incidents]: Health, Safety & Quality Report --[CONTAINS]-> Safety Incidents 0.8126248717308044
+[Safety Incidents]: Stephen Bell --[SUBMITS_REPORT]-> Health, Safety & Quality Report 0.7792056202888489
+[Safety Incidents]: Board --[RECEIVES_REPORT]-> Health, Safety & Quality Report 0.7784532904624939
+[rail operational safety]: awareness --[increased]-> rail operational safety 0.7968844175338745
+[rail operational safety]: rail operational safety --[improved]-> emergency plan 0.7927109003067017
+[rail operational safety]: State Highway 1 --[identified]-> tool box talks 0.770982027053833
+[rail operational safety]: emergency plan --[activated]-> injured person 0.7610694766044617
+[rail operational safety]: rope supervisor --[in place]-> emergency plan 0.7479715347290039
+[rail operational safety]: injured person --[recovered]-> Kaikoura hospital 0.7313873171806335
+[rail operational safety]: tool box talks --[given]-> awareness 0.7300440073013306
+[Senior Manager Road Safety]: New Zealand Transport Agency --[BASED]-> Wellington 0.8688766956329346
+[Senior Manager Road Safety]: vehicle inspection --[CONDUCTED_BY]-> NZ Transport Agency 0.8621466755867004
+[Senior Manager Road Safety]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.8608624935150146
+[Senior Manager Road Safety]: Vehicle Inspection --[CONDUCTED_BY]-> New Zealand Transport Agency 0.8601038455963135
+[Senior Manager Road Safety]: NZ Transport Agency --[LOCATED]-> Wellington 0.8590268492698669
+[Senior Manager Road Safety]: New Zealand Transport Agency --[LOCATED]-> Wellington 6141 0.8563122749328613
+[Senior Manager Road Safety]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.8552889227867126
+[Vehicle Safety]: New Zealand Transport Agency --[HAS_TECHNICAL_VACANCIES]-> 33 0.8197014331817627
+[Vehicle Safety]: Vehicle Safety --[Is]-> Critical 0.806066632270813
+[Vehicle Safety]: Vehicle Inspection --[Undertakes]-> Calculations 0.7963696718215942
+[Vehicle Safety]: Safety Tolerance --[Ensures]-> Vehicle Safety 0.7789112329483032
+[Vehicle Safety]: Critical --[Identified]-> 33 0.76780766248703
+[Vehicle Safety]: Calculations --[Satisfies]-> Safety Tolerance 0.7502303123474121

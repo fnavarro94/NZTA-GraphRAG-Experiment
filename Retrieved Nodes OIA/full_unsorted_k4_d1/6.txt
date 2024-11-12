@@ -1,0 +1,12 @@
+What percentage of MR1 and MR1B transactions were completed through an agent between 1 October 2022 and 30 September 2023?
+None
+Seed: statistics for MR1/B transactions
+Seed: MR1/B transactions data
+Seed: 1 October 2022 to 30 September 2023
+Seed: MR1/B transactions
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[PROVIDES]-> statistics for MR1/B transactions 0.8429489135742188
+[MR1/B transactions data]: Motor Vehicle Register --[CONTAINS]-> MR1/B transactions data 0.8200357556343079
+[1 October 2022 to 30 September 2023]: transactions --[OCCURRED]-> 1 October 2022 to 30 September 2023 0.8961426019668579
+[MR1/B transactions]: MR1/B transactions --[TOTAL]-> 5,496,319 0.8747239112854004
+[MR1/B transactions]: MR1/B transactions --[COMPLETED]-> online 0.8445967435836792
+[MR1/B transactions]: MR1/B transactions --[COMPLETED]-> agent 0.8706651926040649

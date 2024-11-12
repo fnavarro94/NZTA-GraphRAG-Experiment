@@ -1,0 +1,36 @@
+Who is responsible for enforcing the Health and Safety at Work Act in New Zealand?
+None
+Seed: Health and safety at work act
+Seed: Health and safety at work act 2015
+Seed: Health and safety in employment act 1992
+Seed: Primary body responsible for overseeing heavy vehicle safety
+[Health and safety at work act]: Health and safety at work act --[Year]-> 2015 0.8715921640396118
+[Health and safety at work act]: Electronic stability control --[Required in]-> 2015 0.7374275922775269
+[Health and safety at work act]: Electronic stability control --[Designed to]-> Enhance vehicle stability 0.7107369303703308
+[Health and safety at work act]: Electronic stability control --[Is]-> Advanced safety feature 0.7539834380149841
+[Health and safety at work act]: Vehicle safety technologies --[Include]-> Electronic stability control 0.7592692971229553
+[Health and safety at work act]: Vehicle safety technologies --[Include]-> Anti-lock braking systems 0.7576855421066284
+[Health and safety at work act]: New zealand --[Has adopted]-> Anti-lock braking systems 0.8075816035270691
+[Health and safety at work act]: New zealand --[Has]-> Transport projects 0.8154876232147217
+[Health and safety at work act]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.8557565212249756
+[Health and safety at work act]: New zealand --[Has]-> Diverse transport network 0.7882845997810364
+[Health and safety at work act]: New zealand --[Has]-> Post-incident review 0.8249487280845642
+[Health and safety at work act]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.8131159543991089
+[Health and safety at work act]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.8008149266242981
+[Health and safety at work act]: New zealand --[Has]-> Broader environmental policies 0.8226718902587891
+[Health and safety at work act]: New zealand --[Has]-> Traffic congestion 0.7992914915084839
+[Health and safety at work act]: New zealand --[Has]-> Increasing urbanization 0.7688153982162476
+[Health and safety at work act]: New zealand --[Has]-> Graduated licensing system 0.8261865377426147
+[Health and safety at work act]: New zealand --[Has]-> Extensive coastline supporting a thriving fishing industry and recreational boating activities 0.7758153676986694
+[Health and safety at work act]: New zealand --[Has]-> Trend towards more integrated and environmentally friendly transport solutions 0.785991370677948
+[Health and safety at work act]: New zealand --[Has]-> Extensive network of roads 0.7941567301750183
+[Health and safety at work act]: New zealand --[Has]-> Public transport network planning 0.7906357645988464
+[Health and safety at work act]: New zealand --[Has]-> Public transit 0.7953733801841736
+[Health and safety at work act]: New zealand --[Has]-> Goal 0.8142679929733276
+[Health and safety at work act]: New zealand --[Has]-> Transport system sustainability 0.8132891058921814
+[Health and safety at work act]: New zealand --[Has]-> Walking 0.7960566282272339
+[Health and safety at work act]: New zealand --[Has]-> Cycling 0.80702805519104
+[Health and safety at work act]: New zealand --[Has]-> Biodiversity 0.7872879505157471
+[Health and safety at work act]: New zealand --[Has]-> Urban-rural dynamics 0.7856235504150391
+[Health and safety at work act]: New zealand --[Has]-> Unique geographical features 0.7849755883216858
+[Health and safety at work act]: New zealand --[Has]-> Growing emphasis on sustainable transport solutions 0.788068950176239

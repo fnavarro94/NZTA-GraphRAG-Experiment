@@ -1,0 +1,34 @@
+What is the abbreviation for the agency that provides policy advice, oversees the transport sector, and is in addition to Waka Kotahi?
+None
+Seed: Waka kotahi nz transport agency
+Seed: Transport policies
+Seed: Transport initiatives
+Seed: Active transport initiatives
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Is]-> Primary government agency 0.9099407196044922
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Plays]-> Crucial role 0.9067963361740112
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Responsible for]-> Planning 0.8947932124137878
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Develops]-> Transport policies 0.894770622253418
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Oversees]-> Regulation 0.8927621841430664
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Involved in]-> Integrating technology in transport systems 0.8923803567886353
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Responsible for]-> Management 0.8909571766853333
+[Transport policies]: Waka kotahi nz transport agency --[Is]-> Primary government agency 0.9099407196044922
+[Transport policies]: Waka kotahi nz transport agency --[Plays]-> Crucial role 0.9067963361740112
+[Transport policies]: Waka kotahi nz transport agency --[Responsible for]-> Planning 0.8947932124137878
+[Transport policies]: Waka kotahi nz transport agency --[Develops]-> Transport policies 0.894770622253418
+[Transport policies]: Waka kotahi nz transport agency --[Oversees]-> Regulation 0.8927621841430664
+[Transport policies]: Waka kotahi nz transport agency --[Involved in]-> Integrating technology in transport systems 0.8923803567886353
+[Transport policies]: Waka kotahi nz transport agency --[Responsible for]-> Management 0.8909571766853333
+[Transport initiatives]: Waka kotahi nz transport agency --[Manages]-> National land transport fund 0.8713260293006897
+[Transport initiatives]: New zealand transport agency --[Manages]-> National land transport fund 0.8045513033866882
+[Transport initiatives]: National land transport fund --[Plays crucial role in]-> Ensuring transport infrastructure meets needs of growing population and economy 0.7759858965873718
+[Transport initiatives]: National land transport fund --[Is]-> Primarily financed through other transport-related taxes 0.7749640941619873
+[Transport initiatives]: National land transport fund --[Finances]-> Transport initiatives 0.7743390798568726
+[Transport initiatives]: National land transport fund --[Sourced from]-> Fuel excise duties 0.7738111615180969
+[Transport initiatives]: National land transport fund --[Is]-> Key financial mechanism 0.7723634243011475
+[Active transport initiatives]: Waka kotahi --[Operates under]-> Transport agency act 2008 0.9061944484710693
+[Active transport initiatives]: Waka kotahi --[Is]-> Government agency 0.8988953828811646
+[Active transport initiatives]: Waka kotahi --[Oversees]-> National transport system 0.8898301124572754
+[Active transport initiatives]: Waka kotahi --[Plays crucial role in]-> Public transport systems 0.889316201210022
+[Active transport initiatives]: Waka kotahi --[Manages]-> Public transport systems 0.8855866193771362
+[Active transport initiatives]: Waka kotahi --[Works with]-> Transport operators 0.8846441507339478
+[Active transport initiatives]: Waka kotahi --[Implements]-> Government policy statement on land transport 0.8846116662025452

@@ -1,0 +1,36 @@
+What information did NZTA provide in response to the OIA request on median barriers (OIA-3396)?
+None
+Seed: installing median barriers
+Seed: median barriers
+Seed: Median Barriers
+Seed: information about the NZ Transport Agency's Information Technology (IT) projects
+[installing median barriers]: Safe System approach --[INCLUDES]-> installing median barriers 0.8215978145599365
+[installing median barriers]: Safe System approach --[INCLUDES]-> improving the safety performance of the vehicle fleet 0.7649362087249756
+[installing median barriers]: Safe System approach --[INCLUDES]-> encouraging road users to be alert and compliant 0.7614872455596924
+[installing median barriers]: resolution A/RES/74/299 --[PROMOTES]-> Safe System approach 0.7813894748687744
+[installing median barriers]: United Nations General Assembly --[ADOPTED]-> resolution A/RES/74/299 0.7846859693527222
+[installing median barriers]: United Nations General Assembly --[ADOPTED]-> A/RES/74/299 0.774597704410553
+[installing median barriers]: A/RES/74/299 --[PROMOTES]-> Vision Zero 0.7901707291603088
+[installing median barriers]: international best-practice guide --[DISCUSSES]-> Vision Zero 0.7964440584182739
+[installing median barriers]: Road to Zero strategy --[AIMS_TO]-> Vision Zero 0.7817479372024536
+[installing median barriers]: Road to Zero strategy --[BASED_ON]-> Vision Zero 0.7632061243057251
+[installing median barriers]: Vision Zero --[RECOMMENDED_BY]-> Organisation for Economic Co-operation and Development 0.7978407740592957
+[installing median barriers]: Vision Zero --[TARGETS]-> zero deaths and serious injuries 0.7663046717643738
+[installing median barriers]: Sweden --[ADOPTED]-> Vision Zero 0.7655887603759766
+[installing median barriers]: Vision Zero --[BASED_ON]-> ethical premise 0.769188642501831
+[median barriers]: information --[RELATES_TO]-> median barriers 0.844730794429779
+[median barriers]: information --[PROVIDES]-> New Zealand Transport Agency 0.8554627895355225
+[median barriers]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8174660801887512
+[median barriers]: New Zealand Transport Agency --[BASED]-> Wellington 0.8206605315208435
+[median barriers]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8199265599250793
+[median barriers]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.8273029327392578
+[median barriers]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.774370551109314
+[median barriers]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.7722830772399902
+[median barriers]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7755522727966309
+[median barriers]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.816739022731781
+[median barriers]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.8180211782455444
+[median barriers]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7817142009735107
+[median barriers]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7734582424163818
+[median barriers]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7749819159507751
+[median barriers]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7344405651092529
+[median barriers]: Wellington --[CONTAINS]-> Private Bag 6995 0.7743790149688721

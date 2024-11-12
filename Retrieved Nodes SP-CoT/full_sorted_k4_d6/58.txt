@@ -1,0 +1,34 @@
+What program, established in the year when the Onehunga Line was reintroduced, enhancing the connection between the two locations connected by the first railway line constructed in New Zealand in 1873, requires periodic testing of older vehicles to ensure they meet emissions standards throughout their operational life?
+None
+Seed: First railway line between auckland and onehunga in 1873
+Seed: Vehicles meet specific emissions standards
+Seed: Periodic testing of older vehicles
+Seed: Vehicle exhaust emissions testing programme
+[First railway line between auckland and onehunga in 1873]: New zealand --[Had]-> First railway line between auckland and onehunga in 1873 0.9003486633300781
+[First railway line between auckland and onehunga in 1873]: Onehunga --[Is]-> Served by the auckland public transport network 0.8428301811218262
+[First railway line between auckland and onehunga in 1873]: New zealand railways --[Introduced]-> 1880 0.8424680829048157
+[First railway line between auckland and onehunga in 1873]: Vehicle exhaust emissions testing programme --[Mandates]-> Periodic testing of older vehicles 0.839051365852356
+[First railway line between auckland and onehunga in 1873]: Onehunga --[Has]-> Integration of bus and rail services 0.8382576704025269
+[First railway line between auckland and onehunga in 1873]: New zealand railways --[Facilitated]-> Movement of goods 0.8377353549003601
+[First railway line between auckland and onehunga in 1873]: New zealand railways --[Facilitated]-> Across north and south islands 0.8372257947921753
+[Vehicles meet specific emissions standards]: New zealand --[Had]-> First railway line between auckland and onehunga in 1873 0.9003486633300781
+[Vehicles meet specific emissions standards]: Onehunga --[Is]-> Served by the auckland public transport network 0.8428301811218262
+[Vehicles meet specific emissions standards]: New zealand railways --[Introduced]-> 1880 0.8424680829048157
+[Vehicles meet specific emissions standards]: Onehunga --[Has]-> Integration of bus and rail services 0.8382576704025269
+[Vehicles meet specific emissions standards]: New zealand railways --[Facilitated]-> Movement of goods 0.8377353549003601
+[Vehicles meet specific emissions standards]: New zealand railways --[Facilitated]-> Across north and south islands 0.8372257947921753
+[Vehicles meet specific emissions standards]: New zealand --[Has]-> Developing rail network 0.8347442150115967
+[Periodic testing of older vehicles]: New zealand --[Had]-> First railway line between auckland and onehunga in 1873 0.9003486633300781
+[Periodic testing of older vehicles]: Vehicle exhaust emissions testing programme --[Mandates]-> Periodic testing of older vehicles 0.839051365852356
+[Periodic testing of older vehicles]: New zealand --[Has]-> Developing rail network 0.8347442150115967
+[Periodic testing of older vehicles]: New zealand --[Has]-> Transport projects 0.8300265073776245
+[Periodic testing of older vehicles]: New zealand --[Has]-> Transport infrastructure development 0.8295619487762451
+[Periodic testing of older vehicles]: New zealand --[Has]-> Transport infrastructure maintenance 0.8278222680091858
+[Periodic testing of older vehicles]: New zealand --[Promotes]-> Active transport modes 0.8265178203582764
+[Vehicle exhaust emissions testing programme]: New zealand --[Had]-> First railway line between auckland and onehunga in 1873 0.9003486633300781
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Mandates]-> Periodic testing of older vehicles 0.839051365852356
+[Vehicle exhaust emissions testing programme]: New zealand railways --[Facilitated]-> Movement of goods 0.8377353549003601
+[Vehicle exhaust emissions testing programme]: New zealand --[Has]-> Developing rail network 0.8347442150115967
+[Vehicle exhaust emissions testing programme]: New zealand --[Has]-> Transport projects 0.8300265073776245
+[Vehicle exhaust emissions testing programme]: Kiwirail --[Emerged from]-> New zealand railways corporation 0.8299210667610168
+[Vehicle exhaust emissions testing programme]: New zealand --[Has]-> Transport infrastructure development 0.8295619487762451

@@ -1,0 +1,36 @@
+In what year did The agency that provides policy advice and oversees the transport sector in addition to Waka Kotahi in the country known for its public transport system design influenced by factors such as population density, geographic features, and environmental considerations get established?
+None
+Seed: Vital role in shaping future of transport in new zealand
+Seed: Waka kotahi nz transport agency
+Seed: Sustainable transport system
+Seed: Developing innovative transport solutions
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Plays]-> Vital role in shaping future of transport in new zealand 0.8839608430862427
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Responsible for]-> Managing national land transport system 0.8783654570579529
+[Waka kotahi nz transport agency]: National land transport programme --[Developed by]-> Waka kotahi nz transport agency 0.8658352494239807
+[Waka kotahi nz transport agency]: New zealand traffic control devices manual --[Published by]-> Waka kotahi nz transport agency 0.8380072116851807
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Established under]-> Land transport management act 2003 0.8845716714859009
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Aims to create]-> Safe transport system 0.8663465976715088
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Ensures]-> Transport network is efficient 0.8430335521697998
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Involved in]-> Developing innovative transport solutions 0.8838696479797363
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Focused on]-> Climate change 0.8785339593887329
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Works collaboratively with]-> Local councils 0.861419677734375
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Advocates for]-> Use of public transport 0.8715031147003174
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Promotes]-> Sustainable transport solutions 0.8687200546264648
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Develops]-> Projects 0.8804193139076233
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Focused on]-> Urbanization 0.8877659440040588
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Develops]-> Transport policies 0.8998398184776306
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Works collaboratively with]-> Other stakeholders 0.8710980415344238
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Focused on]-> Addressing challenges 0.8739719986915588
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Manages]-> National land transport fund 0.8620333671569824
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Works collaboratively with]-> Regional authorities 0.8775535225868225
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Aims to create]-> Efficient transport system 0.8743476867675781
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Ensures]-> Transport network is sustainable 0.8495010733604431
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Advocates for]-> Active transport modes 0.8660290837287903
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Involved in]-> Promoting electric and low-emission vehicles 0.8756569623947144
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Involved in]-> Integrating technology in transport systems 0.8857149481773376
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Ensures]-> Transport network is safe 0.8380028009414673
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Plays]-> Crucial role 0.8894516825675964
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Aims to create]-> Sustainable transport system 0.8739982843399048
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Involved in]-> Enhancing resilience of infrastructure 0.8772474527359009
+[Waka kotahi nz transport agency]: Waka kotahi nz transport agency --[Focused on]-> Population growth 0.8910338878631592
+[Waka kotahi nz transport agency]: Speed management guide --[Developed by]-> Waka kotahi nz transport agency 0.8427953720092773

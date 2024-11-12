@@ -1,0 +1,36 @@
+How does NZTA handle reports of threats or attacks against driving test examiners?
+None
+Seed: Speed and Drunk Driving Enforcement
+Seed: national, regional and local road safety promotion and education campaigns
+Seed: Road Policing Activities
+Seed: breaches of rules or regulations
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[DOUBLES]-> Speed and Drunk Driving Enforcement 0.7971984148025513
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[FOCUSES_ON]-> Restraints, Impairment, Distraction, Speed 0.7951189279556274
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[PROVIDES]-> Road Policing Activities 0.8016133308410645
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[PROVIDES]-> https://www.nzta.govt.nz/assets/resources/road-policing-programme/docs/rpp-2021-24.pdf 0.8472787737846375
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[ALLOCATES]-> $1.24 billion 0.7636899352073669
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.820286750793457
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7825778722763062
+[national, regional and local road safety promotion and education campaigns]: New Zealand Transport Agency --[BASED]-> Wellington 0.8306906223297119
+[national, regional and local road safety promotion and education campaigns]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7593866586685181
+[national, regional and local road safety promotion and education campaigns]: Golden Mile --[LOCATED]-> Wellington 0.7407689094543457
+[national, regional and local road safety promotion and education campaigns]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7901979684829712
+[national, regional and local road safety promotion and education campaigns]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7696133852005005
+[national, regional and local road safety promotion and education campaigns]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7567220330238342
+[national, regional and local road safety promotion and education campaigns]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7602207660675049
+[national, regional and local road safety promotion and education campaigns]: Wellington --[PART_OF]-> Wellington Region 0.7589899301528931
+[national, regional and local road safety promotion and education campaigns]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7855333089828491
+[national, regional and local road safety promotion and education campaigns]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7594168186187744
+[national, regional and local road safety promotion and education campaigns]: Wellington --[HAS]-> tunnel 0.7773640751838684
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7832634449005127
+[national, regional and local road safety promotion and education campaigns]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.767187774181366
+[national, regional and local road safety promotion and education campaigns]: Wellington --[POSTCODE]-> 6141 0.7412512302398682
+[national, regional and local road safety promotion and education campaigns]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.8213841915130615
+[national, regional and local road safety promotion and education campaigns]: Wellington --[IS_PART_OF]-> New Zealand 0.7670641541481018
+[national, regional and local road safety promotion and education campaigns]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7630976438522339
+[national, regional and local road safety promotion and education campaigns]: 50 Victoria Street --[IN]-> Wellington 0.7378956079483032
+[national, regional and local road safety promotion and education campaigns]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7721405625343323
+[national, regional and local road safety promotion and education campaigns]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7362139821052551
+[national, regional and local road safety promotion and education campaigns]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7683088779449463
+[national, regional and local road safety promotion and education campaigns]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7771002054214478
+[national, regional and local road safety promotion and education campaigns]: NZ Transport Agency --[LOCATED]-> Wellington 0.8266215324401855

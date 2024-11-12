@@ -1,0 +1,10 @@
+In what year did the organization that provides free emergency medical services to residents in the Wellington region first establish its services in New Zealand?
+None
+Seed: First free ambulance service
+Seed: Healthcare providers
+Seed: Emergency medical services
+Seed: Delivering high-quality pre-hospital care
+[First free ambulance service]: Wellington free ambulance --[Is]-> First free ambulance service 0.9068116545677185
+[Healthcare providers]: Wellington free ambulance --[Collaborates with]-> Healthcare providers 0.8935640454292297
+[Emergency medical services]: Wellington free ambulance --[Provides]-> Emergency medical services 0.9131776094436646
+[Delivering high-quality pre-hospital care]: Wellington free ambulance --[Dedicated to]-> Delivering high-quality pre-hospital care 0.8853606581687927

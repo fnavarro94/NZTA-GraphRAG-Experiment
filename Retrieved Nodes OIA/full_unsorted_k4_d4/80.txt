@@ -1,0 +1,36 @@
+Why was the economic cost of the road closure and additional transport emissions not provided?
+None
+Seed: information on additional cost and emissions
+Seed: reducing business travel emissions
+Seed: wider impacts of fare policy on people and cities
+Seed: funding for road maintenance
+[information on additional cost and emissions]: Waka Kotahi --[REFUSES]-> information on additional cost and emissions 0.8260955810546875
+[information on additional cost and emissions]: Response --[CONTAINS]-> Waka Kotahi 0.7398557662963867
+[information on additional cost and emissions]: Waka Kotahi --[PUBLISHES]-> Response 0.727115273475647
+[information on additional cost and emissions]: response --[CONTAINS]-> Waka Kotahi 0.7243475914001465
+[information on additional cost and emissions]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.7385459542274475
+[information on additional cost and emissions]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.7315711379051208
+[information on additional cost and emissions]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.723265528678894
+[information on additional cost and emissions]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7276996970176697
+[information on additional cost and emissions]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.7040812969207764
+[information on additional cost and emissions]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7171611785888672
+[information on additional cost and emissions]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.7317401766777039
+[information on additional cost and emissions]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.7789262533187866
+[information on additional cost and emissions]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7584313750267029
+[information on additional cost and emissions]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.7655173540115356
+[information on additional cost and emissions]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.7554095387458801
+[information on additional cost and emissions]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.7278999090194702
+[information on additional cost and emissions]: Leisa Coley --[EMPLOYED_BY]-> Waka Kotahi 0.6987273693084717
+[information on additional cost and emissions]: Lizette Marais --[EMPLOYED_BY]-> Waka Kotahi 0.6960874795913696
+[information on additional cost and emissions]: Waka Kotahi --[EMPLOYS]-> Andy Knackstedt 0.6989672780036926
+[information on additional cost and emissions]: Waka Kotahi --[EMPLOYS]-> Qualified Staff 0.6909744143486023
+[information on additional cost and emissions]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.7694324851036072
+[information on additional cost and emissions]: website --[RELATES_TO]-> Waka Kotahi 0.7214145660400391
+[information on additional cost and emissions]: Waka Kotahi --[RESPONDS_TO]-> OIA request 0.7258090376853943
+[information on additional cost and emissions]: Waka Kotahi --[RESPONDS_TO]-> request 0.7180957794189453
+[information on additional cost and emissions]: Waka Kotahi --[PROVIDES]-> OIA-10601-response-georgina-campbell.pdf 0.742401123046875
+[information on additional cost and emissions]: Waka Kotahi --[PROVIDES]-> outcome of suspension 0.7454540729522705
+[information on additional cost and emissions]: Waka Kotahi --[PROVIDES]-> outcome of surrendered 0.7196954488754272
+[information on additional cost and emissions]: Waka Kotahi --[PROVIDES]-> information on website 0.713760495185852
+[information on additional cost and emissions]: Waka Kotahi --[PROVIDES]-> outcome of revoke 0.7274998426437378
+[information on additional cost and emissions]: Waka Kotahi --[PROVIDES]-> warnings to individuals 0.7112467288970947

@@ -1,0 +1,28 @@
+How did NZTA handle a conflict of interest involving a staff member who was a rideshare company shareholder?
+None
+Seed: shareholder/director of rideshare company
+Seed: conflicts of interest by senior staff
+Seed: Conflict of interest
+Seed: conflict of interest
+[shareholder/director of rideshare company]: senior staff member --[IS]-> shareholder/director of rideshare company 0.8890764117240906
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[MANAGES]-> Conflict of interest 0.9037492275238037
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[MANAGES]-> conflict of interest 0.9037492275238037
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[NOTIFIES]-> conflicts of interest by senior staff 0.8883085250854492
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[ASSOCIATED]-> Business-as-usual legal advice 0.8627529740333557
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> nzta.govt.nz 0.8599738478660583
+[conflicts of interest by senior staff]: Waka Kotahi --[INVESTIGATES]-> ride share operator complaints 0.8579813241958618
+[conflicts of interest by senior staff]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8577407002449036
+[Conflict of interest]: New Zealand Transport Agency --[MANAGES]-> conflict of interest 0.9037492275238037
+[Conflict of interest]: New Zealand Transport Agency --[MANAGES]-> Conflict of interest 0.9037492275238037
+[Conflict of interest]: New Zealand Transport Agency --[NOTIFIES]-> conflicts of interest by senior staff 0.8883085250854492
+[Conflict of interest]: New Zealand Transport Agency --[ASSOCIATED]-> Business-as-usual legal advice 0.8627529740333557
+[Conflict of interest]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> nzta.govt.nz 0.8599738478660583
+[Conflict of interest]: Waka Kotahi --[INVESTIGATES]-> ride share operator complaints 0.8579813241958618
+[Conflict of interest]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8577407002449036
+[conflict of interest]: New Zealand Transport Agency --[MANAGES]-> Conflict of interest 0.9037492275238037
+[conflict of interest]: New Zealand Transport Agency --[MANAGES]-> conflict of interest 0.9037492275238037
+[conflict of interest]: New Zealand Transport Agency --[NOTIFIES]-> conflicts of interest by senior staff 0.8883085250854492
+[conflict of interest]: New Zealand Transport Agency --[ASSOCIATED]-> Business-as-usual legal advice 0.8627529740333557
+[conflict of interest]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> nzta.govt.nz 0.8599738478660583
+[conflict of interest]: Waka Kotahi --[INVESTIGATES]-> ride share operator complaints 0.8579813241958618
+[conflict of interest]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8577407002449036

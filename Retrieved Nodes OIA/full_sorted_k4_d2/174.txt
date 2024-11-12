@@ -1,0 +1,28 @@
+How is Waka Kotahi addressing the delays in the Transmission Gully project due to COVID-19?
+None
+Seed: Waka Kotahi N Z Transport Agency
+Seed: NZ Transport Agency Waka Kotahi
+Seed: Waka Kotahi NZ Transport Agency
+Seed: Waka Kotahi Senior Project Manager
+[Waka Kotahi N Z Transport Agency]: Data --[PROVIDED]-> Waka Kotahi N Z Transport Agency 0.8573129177093506
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.8301713466644287
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.8238688707351685
+[Waka Kotahi N Z Transport Agency]: New Zealand Transport Agency Waka Kotahi --[MAINTAINS]-> Crash Analysis System 0.8202027678489685
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINS]-> Waka Kotahi N Z Transport Agency 0.8150491714477539
+[Waka Kotahi N Z Transport Agency]: Data --[IS]-> Current at 18 September 2019 0.7979520559310913
+[Waka Kotahi N Z Transport Agency]: Data --[FOR]-> period 1/10/2017 to 26/05/2021 0.791451632976532
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[BASED_ON]-> investigations, construction findings, on-site progress, design updates, design assumptions 0.8716537952423096
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[RESPOND]-> oia-15599-response-letter-23-july-2024.pdf 0.8685966730117798
+[NZ Transport Agency Waka Kotahi]: Waka Kotahi --[PUBLISHED]-> response letter 0.868106484413147
+[NZ Transport Agency Waka Kotahi]: New Zealand Transport Agency --[POLICY]-> Waka Kotahi policy 0.8676119446754456
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[ASSOCIATED_WITH]-> oia-15599-response-letter-23-july-2024.pdf 0.8674798011779785
+[NZ Transport Agency Waka Kotahi]: response letter --[DISCUSSED]-> Waka Kotahi 0.8659460544586182
+[NZ Transport Agency Waka Kotahi]: New Zealand Transport Agency --[ASSOCIATED]-> Waka Kotahi 0.8653667569160461
+[Waka Kotahi NZ Transport Agency]: New Zealand Transport Agency --[POLICY]-> Waka Kotahi policy 0.8676119446754456
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.8660276532173157
+[Waka Kotahi NZ Transport Agency]: Robyn Elston --[RESPONDS]-> Waka Kotahi NZ Transport Agency 0.8617425560951233
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.8604460954666138
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[PUBLISHED]-> response 0.8598260879516602
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi policy --[PUBLISHED]-> website 0.8594209551811218
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PROACTIVELY_RELEASED]-> s 9(2)(a) 0.8588688373565674
+[Waka Kotahi Senior Project Manager]: Waka Kotahi Senior Project Manager --[MANAGES]-> State Highway 25A Rebuild Project 0.8435410261154175

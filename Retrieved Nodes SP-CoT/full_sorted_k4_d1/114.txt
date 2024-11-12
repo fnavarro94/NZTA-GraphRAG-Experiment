@@ -1,0 +1,12 @@
+What is the second-busiest airport in New Zealand, serving as a key entry point for international travelers to the region known for its rugged terrain and stunning landscapes, particularly in the context of the two main islands of New Zealand where the transport system facilitates the movement of people and goods, in the context of Auckland and which city in New Zealand is mentioned as facing significant traffic congestion issues alongside Auckland and Wellington?
+None
+Seed: Crucial role in new zealand's transport infrastructure
+Seed: Busiest airport in new zealand
+Seed: Local economy and tourism industry
+Seed: Second-busiest airport in new zealand
+[Crucial role in new zealand's transport infrastructure]: Auckland airport --[Plays]-> Crucial role in new zealand's transport infrastructure 0.8937344551086426
+[Busiest airport in new zealand]: Auckland --[Has]-> Busiest airport in new zealand 0.8933608531951904
+[Busiest airport in new zealand]: Auckland airport --[Is]-> Busiest airport in new zealand 0.8899551630020142
+[Local economy and tourism industry]: Auckland airport --[Supporting]-> Local economy and tourism industry 0.8645486235618591
+[Second-busiest airport in new zealand]: Christchurch international airport --[Is]-> Second-busiest airport in new zealand 0.8753463625907898
+[Second-busiest airport in new zealand]: Christchurch --[Has]-> Second-busiest airport in new zealand 0.872168779373169

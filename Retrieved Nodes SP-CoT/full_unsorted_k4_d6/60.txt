@@ -1,0 +1,36 @@
+What is the destination of the scenic train operated by the organization that operates the rail network in New Zealand, primarily serving freight and providing passenger services in metropolitan areas, known for its breathtaking views of New Zealand's landscapes, departing from Christchurch?
+None
+Seed: Scenic passenger train service
+Seed: Scenic routes such as the tranzalpine and the northern explorer
+Seed: New zealand's stunning landscapes
+Seed: Both passenger and freight transport across the cook strait
+[Scenic passenger train service]: Tranzalpine --[Is]-> Scenic passenger train service 0.8189067840576172
+[Scenic passenger train service]: Kiwirail group --[Known for]-> Tranzalpine 0.8045026659965515
+[Scenic passenger train service]: Kiwirail group --[Is]-> State-owned enterprise 0.8066404461860657
+[Scenic passenger train service]: Kiwirail --[Is]-> State-owned enterprise 0.810840904712677
+[Scenic passenger train service]: Kiwirail --[Operates]-> Great journeys of new zealand 0.8607702851295471
+[Scenic passenger train service]: Kiwirail --[Operates]-> Freight route 0.8342542052268982
+[Scenic passenger train service]: Kiwirail --[Transports]-> Manufactured items 0.8098050355911255
+[Scenic passenger train service]: North island main trunk line --[Supports]-> Manufactured items 0.7646448612213135
+[Scenic passenger train service]: Kiwirail --[Operates]-> Northern explorer 0.8083375692367554
+[Scenic passenger train service]: Northern explorer --[Runs]-> Wellington 0.7784557938575745
+[Scenic passenger train service]: Northern explorer --[Offers]-> North island's landscapes 0.7829238176345825
+[Scenic passenger train service]: Northern explorer --[Offers]-> Stunning views 0.7735416889190674
+[Scenic passenger train service]: Northern explorer --[Runs]-> Auckland 0.7796926498413086
+[Scenic passenger train service]: North island main trunk line --[Supports]-> Northern explorer 0.7718650102615356
+[Scenic passenger train service]: Kiwirail group --[Known for]-> Northern explorer 0.8051468729972839
+[Scenic passenger train service]: Northern explorer --[Is]-> Scenic train 0.8240903615951538
+[Scenic passenger train service]: North island main trunk line --[Operated by]-> Kiwirail 0.8082482814788818
+[Scenic passenger train service]: North island main trunk line --[Focus]-> Improve efficiency 0.7625998258590698
+[Scenic passenger train service]: North island main trunk line --[Enhances]-> Regional development 0.7715853452682495
+[Scenic passenger train service]: North island main trunk line --[Plays]-> Significant role 0.778460681438446
+[Scenic passenger train service]: North island main trunk line --[Serves]-> Freight services 0.7927232384681702
+[Scenic passenger train service]: North island main trunk line --[Enhances]-> Connectivity 0.7674705386161804
+[Scenic passenger train service]: North island main trunk line --[Construction began]-> 1880s 0.7663527131080627
+[Scenic passenger train service]: North island main trunk line --[Supports]-> Freight services 0.7875612378120422
+[Scenic passenger train service]: North island main trunk line --[Enhances]-> Sustainability 0.768628716468811
+[Scenic passenger train service]: North island main trunk line --[Focus]-> Investment 0.7797848582267761
+[Scenic passenger train service]: North island main trunk line --[Facilitates]-> Economic activity 0.776390016078949
+[Scenic passenger train service]: North island main trunk line --[Spans]-> 423 miles 0.7762396335601807
+[Scenic passenger train service]: North island main trunk line --[Features]-> Raurimu spiral 0.7685205340385437
+[Scenic passenger train service]: North island main trunk line --[Supports]-> Agricultural products 0.765254557132721

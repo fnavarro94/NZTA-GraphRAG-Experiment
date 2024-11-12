@@ -1,0 +1,31 @@
+Where can information about the use of Automatic Number Plate Recognition (ANPR) cameras be found?
+None
+Seed: information on speed cameras
+Seed: information on traffic light cameras and speed cameras
+Seed: information on traffic light cameras
+Seed: cameras
+[information on speed cameras]: Waka Kotahi --[PROVIDES]-> information on speed cameras 0.8391000032424927
+[information on speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.8286693692207336
+[information on speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.8203715085983276
+[information on speed cameras]: Vehicle Standard --[SUPERVISED_BY]-> Robbie Stephen 0.8189886808395386
+[information on speed cameras]: Vehicle Inspection --[PROVIDES]-> Safety Information 0.8165472149848938
+[information on speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.815331220626831
+[information on speed cameras]: New Zealand Transport Agency --[PROVIDES]-> Vehicle Inspection Data 0.8110383749008179
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on speed cameras 0.8391000032424927
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.8286693692207336
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.8203715085983276
+[information on traffic light cameras and speed cameras]: Vehicle Standard --[SUPERVISED_BY]-> Robbie Stephen 0.8189886808395386
+[information on traffic light cameras and speed cameras]: Vehicle Inspection --[PROVIDES]-> Safety Information 0.8165472149848938
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.815331220626831
+[information on traffic light cameras and speed cameras]: New Zealand Transport Agency --[PROVIDES]-> Vehicle Inspection Data 0.8110383749008179
+[information on traffic light cameras]: Waka Kotahi --[PROVIDES]-> information on speed cameras 0.8391000032424927
+[information on traffic light cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.8286693692207336
+[information on traffic light cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.8203715085983276
+[information on traffic light cameras]: Vehicle Standard --[SUPERVISED_BY]-> Robbie Stephen 0.8189886808395386
+[information on traffic light cameras]: Vehicle Inspection --[PROVIDES]-> Safety Information 0.8165472149848938
+[information on traffic light cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.815331220626831
+[information on traffic light cameras]: New Zealand Transport Agency --[PROVIDES]-> Vehicle Inspection Data 0.8110383749008179
+[cameras]: cameras --[INSTALLED]-> January 2017 0.8245569467544556
+[cameras]: Redflex --[MANUFACTURES]-> cameras 0.8203915953636169
+[cameras]: cameras --[CALIBRATED]-> 15 November 2022 0.8196339011192322
+[cameras]: cameras --[CALIBRATED]-> 16 November 2022 0.8139307498931885

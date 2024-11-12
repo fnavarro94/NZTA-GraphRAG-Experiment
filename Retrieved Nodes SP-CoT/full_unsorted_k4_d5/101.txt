@@ -1,0 +1,36 @@
+What project in the largest city in the country known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, served by the key transport corridor critical for freight and passenger movement and running through the North Island, has transformed underutilized spaces into vibrant cycling and pedestrian pathways?
+None
+Seed: Critical for freight and passenger movement
+Seed: Critical aspect of transportation planning
+Seed: Critical aspect of urban and regional development
+Seed: Adopting integrated transport planning approaches that consider public transport
+[Critical for freight and passenger movement]: North island main trunk railway --[Is]-> Critical for freight and passenger movement 0.8675940632820129
+[Critical for freight and passenger movement]: North island main trunk railway --[Supports]-> Tourism 0.8181259036064148
+[Critical for freight and passenger movement]: North island main trunk railway --[Supports]-> Industry 0.8045246601104736
+[Critical for freight and passenger movement]: North island main trunk railway --[Holds]-> Efficiency 0.7925978899002075
+[Critical for freight and passenger movement]: Tms --[Drives]-> Efficiency 0.7199270725250244
+[Critical for freight and passenger movement]: Tms --[Integrates with]-> Iot devices 0.7146916389465332
+[Critical for freight and passenger movement]: Tms --[Improves]-> Customer satisfaction 0.7072688341140747
+[Critical for freight and passenger movement]: Tms --[Requires]-> Investment 0.7048170566558838
+[Critical for freight and passenger movement]: North island main trunk line --[Focus]-> Investment 0.8048111200332642
+[Critical for freight and passenger movement]: Tms --[Enhances]-> Decision-making processes 0.7219142913818359
+[Critical for freight and passenger movement]: Tms --[Leads to]-> Cost savings 0.7082301378250122
+[Critical for freight and passenger movement]: Tms --[Includes]-> Freight tracking 0.7588838338851929
+[Critical for freight and passenger movement]: Tms --[Designed for]-> Execution 0.6947528719902039
+[Critical for freight and passenger movement]: Tms --[Beneficial for]-> Managing logistics 0.7715528011322021
+[Critical for freight and passenger movement]: Tms --[Includes]-> Performance analytics 0.7362279891967773
+[Critical for freight and passenger movement]: Tms --[Shaped by]-> Artificial intelligence 0.7113361358642578
+[Critical for freight and passenger movement]: Tms --[Enhances]-> Effectiveness 0.7024848461151123
+[Critical for freight and passenger movement]: Tms --[Enables]-> Data-driven decisions 0.7362018823623657
+[Critical for freight and passenger movement]: Tms --[Automates]-> Routine tasks 0.6978973746299744
+[Critical for freight and passenger movement]: Tms --[Adoption hindered by]-> Digital maturity 0.7036149501800537
+[Critical for freight and passenger movement]: Tms --[Provides]-> Real-time data 0.7237156629562378
+[Critical for freight and passenger movement]: Smart technology integration --[Utilizes]-> Real-time data 0.7339094877243042
+[Critical for freight and passenger movement]: Tms --[Leads to]-> Operational efficiency 0.7267035841941833
+[Critical for freight and passenger movement]: Pre-audit preparation --[Improves]-> Operational efficiency 0.7121028304100037
+[Critical for freight and passenger movement]: Nzta --[Focus on]-> Operational efficiency 0.7585129737854004
+[Critical for freight and passenger movement]: Tms --[Shapes]-> Future of transport 0.788088321685791
+[Critical for freight and passenger movement]: Tms --[Designed for]-> Optimization 0.715662956237793
+[Critical for freight and passenger movement]: Tms --[Designed for]-> Planning 0.740105390548706
+[Critical for freight and passenger movement]: Auckland transport --[Responsible for]-> Planning 0.801658570766449
+[Critical for freight and passenger movement]: Waka kotahi --[Responsible for]-> Planning 0.7524454593658447

@@ -1,0 +1,36 @@
+How many crashes occurred at the Kiddle Drive/Arrowsmith Avenue intersection in Taupō after October 2019?
+None
+Seed: intersection of Kiddle Drive/Arrowsmith Ave
+Seed: Kiddle Drive/Arrowsmith Ave Taupō
+Seed: Road Traffic Crashes
+Seed: Traffic Crash Report
+[intersection of Kiddle Drive/Arrowsmith Ave]: Data --[LIMITED]-> intersection of Kiddle Drive/Arrowsmith Ave 0.8450238108634949
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[PROVIDES]-> Data 0.7695342898368835
+[intersection of Kiddle Drive/Arrowsmith Ave]: Deceased Drivers --[ASSOCIATED_WITH]-> Crash Analysis System 0.7872285842895508
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[ASSOCIATED_WITH]-> Deceased Drivers 0.789466917514801
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[UPDATED]-> Traffic Crash Report 0.8113682866096497
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[PROVIDES]-> Traffic Crash Report 0.7930148839950562
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[ASSOCIATED_WITH]-> Traffic Crash Report 0.7891193628311157
+[intersection of Kiddle Drive/Arrowsmith Ave]: 2020 --[FATAL_CRASHES]-> Crash Analysis System 0.7983494997024536
+[intersection of Kiddle Drive/Arrowsmith Ave]: Traffic Crash Report --[ASSOCIATED_WITH]-> Crash Analysis System 0.7954323291778564
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.7974053025245667
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[MAINTAINS]-> Waka Kotahi N Z Transport Agency 0.7848334312438965
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[UPDATES]-> Traffic Crash Report 0.8011234998703003
+[intersection of Kiddle Drive/Arrowsmith Ave]: road accident data --[FROM]-> Crash Analysis System 0.7905378341674805
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[PROVIDES]-> road accident data 0.7965885996818542
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[MANAGED_BY]-> New Zealand Transport Agency 0.7930946946144104
+[intersection of Kiddle Drive/Arrowsmith Ave]: crash movements and cause factors --[RECORDED_IN]-> Crash Analysis System 0.7853459119796753
+[intersection of Kiddle Drive/Arrowsmith Ave]: New Zealand Transport Agency --[MAINTAINS]-> Crash Analysis System 0.7779858112335205
+[intersection of Kiddle Drive/Arrowsmith Ave]: primary contribution --[DETERMINED]-> Crash Analysis System 0.7831159234046936
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[PROVIDES]-> data on road traffic crashes 0.7960773706436157
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[UPDATES]-> Traffic Crash Reports 0.800774097442627
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[CAPTURES]-> information on crashes 0.7724663019180298
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[USES]-> contributing factor codes 0.7693397998809814
+[intersection of Kiddle Drive/Arrowsmith Ave]: New Zealand Transport Agency --[MANAGES]-> Crash Analysis System 0.7791494131088257
+[intersection of Kiddle Drive/Arrowsmith Ave]: Traffic Crash Report --[RECORDED_IN]-> Crash Analysis System 0.7829077839851379
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[UPDATES]-> Data 0.7527507543563843
+[intersection of Kiddle Drive/Arrowsmith Ave]: New Zealand Transport Agency Waka Kotahi --[MAINTAINS]-> Crash Analysis System 0.7790824174880981
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[PROVIDES]-> traffic crash data 0.7950452566146851
+[intersection of Kiddle Drive/Arrowsmith Ave]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.7824699282646179
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[CONTAINS]-> Traffic Crash Report 0.7905568480491638
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[RECORDS]-> seven non-injury crashes 0.7852122187614441

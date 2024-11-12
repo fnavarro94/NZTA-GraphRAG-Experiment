@@ -1,0 +1,27 @@
+Who funded the Mackenzie Basin Improvement Project, including the artworks?
+None
+Seed: funding requests
+Seed: funding
+Seed: Waito hi Picton Ferry Precinct Redevelopment
+Seed: project artworks
+[funding requests]: funding requests --[NEEDS]-> follow the standard cost scope adjustment process 0.7748982906341553
+[funding requests]: standard cost scope adjustment process --[APPLIES_TO]-> funding requests 0.7698817253112793
+[funding requests]: manage fare revenue and public transport budgets within current funding allocations --[REQUIRES]-> standard cost scope adjustment process 0.7425210475921631
+[funding requests]: councils --[MUST]-> manage fare revenue and public transport budgets within current funding allocations 0.7334091663360596
+[funding requests]: no additional funding for fare reductions before the next NLTP in June 2021 --[APPLIES_TO]-> funding allocations 0.733199954032898
+[funding requests]: follow the standard cost scope adjustment process --[REQUIRES]-> no additional funding for fare reductions before the next NLTP in June 2021 0.7243034243583679
+[funding]: Jo-Lines-MacKenzie --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8068467378616333
+[funding]: Andrew McFarlane --[ASSOCIATED_WITH]-> Auckland 0.7971063256263733
+[funding]: Auckland --[ASSOCIATED_WITH]-> Andrew McFarlane 0.7956013083457947
+[funding]: Golden Mile revitalisation project --[IS_PART_OF]-> Let's Get Wellington Moving 0.7945933938026428
+[funding]: Transport Gully --[FINANCED_BY]-> New Zealand Transport Agency 0.7922577857971191
+[funding]: request --[SUBMITTED_BY]-> Georgina Campbell 0.7917211651802063
+[funding]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Andrew McFarlane 0.7893310785293579
+[Waito hi Picton Ferry Precinct Redevelopment]: 10 September 2020 --[ASSOCIATED_WITH]-> Waito hi Picton Ferry Precinct Redevelopment 0.7907843589782715
+[Waito hi Picton Ferry Precinct Redevelopment]: Waito hi Picton Ferry Precinct Redevelopment --[ASSOCIATED_WITH]-> Integrated Transportation Assessment 0.7890030145645142
+[Waito hi Picton Ferry Precinct Redevelopment]: Draft --[ASSOCIATED_WITH]-> 10 September 2020 0.740794837474823
+[Waito hi Picton Ferry Precinct Redevelopment]: Integrated Transportation Assessment --[ASSOCIATED_WITH]-> Draft 0.7311547994613647
+[project artworks]: Regional Investment Opportunities --[FUNDED]-> project artworks 0.8516737222671509
+[project artworks]: project artworks --[PART_OF]-> Regional Investment Opportunities 0.8370027542114258
+[project artworks]: Kānoa --[ADMINISTERS]-> Regional Investment Opportunities 0.7660154700279236
+[project artworks]: Ministry of Business, Innovation and Employment --[ADMINISTERS]-> Regional Investment Opportunities 0.7503243684768677

@@ -1,0 +1,34 @@
+What is the abbreviation commonly used for the legislation in New Zealand that focuses on ensuring the health and safety of workers in the transport sector?
+None
+Seed: Health and safety at work act
+Seed: Health and safety at work act 2015
+Seed: Legislative framework for road safety initiatives
+Seed: Critical aspect of transport management in new zealand
+[Health and safety at work act]: Road safety legislation --[Is]-> New zealand 0.9079074263572693
+[Health and safety at work act]: New zealand --[Has]-> Road safety initiatives 0.8844475746154785
+[Health and safety at work act]: New zealand --[Has]-> Transport safety campaigns 0.8839388489723206
+[Health and safety at work act]: Transport safety regulations --[Governed by]-> New zealand transport agency 0.882748007774353
+[Health and safety at work act]: New zealand --[Has]-> Transport compliance and enforcement 0.8818581104278564
+[Health and safety at work act]: New zealand transport agency --[Oversees]-> Transport safety 0.8814431428909302
+[Health and safety at work act]: New zealand --[Has]-> Transport sector 0.8808472156524658
+[Health and safety at work act 2015]: Road safety legislation --[Is]-> New zealand 0.9079074263572693
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Applies to]-> Road transport 0.8889070749282837
+[Health and safety at work act 2015]: New zealand --[Has]-> Road safety initiatives 0.8844475746154785
+[Health and safety at work act 2015]: New zealand --[Has]-> Transport safety campaigns 0.8839388489723206
+[Health and safety at work act 2015]: Transport safety regulations --[Governed by]-> New zealand transport agency 0.882748007774353
+[Health and safety at work act 2015]: New zealand --[Has]-> Transport compliance and enforcement 0.8818581104278564
+[Health and safety at work act 2015]: New zealand transport agency --[Oversees]-> Transport safety 0.8814431428909302
+[Legislative framework for road safety initiatives]: Road safety legislation --[Is]-> New zealand 0.9079074263572693
+[Legislative framework for road safety initiatives]: Health and safety at work act 2015 --[Applies to]-> Road transport 0.8889070749282837
+[Legislative framework for road safety initiatives]: New zealand --[Has]-> Road safety initiatives 0.8844475746154785
+[Legislative framework for road safety initiatives]: New zealand --[Has]-> Transport safety campaigns 0.8839388489723206
+[Legislative framework for road safety initiatives]: Transport safety regulations --[Governed by]-> New zealand transport agency 0.882748007774353
+[Legislative framework for road safety initiatives]: New zealand --[Has]-> Transport compliance and enforcement 0.8818581104278564
+[Legislative framework for road safety initiatives]: New zealand transport agency --[Oversees]-> Transport safety 0.8814431428909302
+[Critical aspect of transport management in new zealand]: New zealand --[Has]-> Transport sector 0.8808472156524658
+[Critical aspect of transport management in new zealand]: Heavy vehicle safety --[Is]-> Critical aspect of transport management in new zealand 0.8750824332237244
+[Critical aspect of transport management in new zealand]: Transport workforce development --[Is]-> In new zealand 0.8677210211753845
+[Critical aspect of transport management in new zealand]: Transport sector --[Is]-> Significant contributor to new zealand's overall emissions 0.8546069860458374
+[Critical aspect of transport management in new zealand]: Vehicle safety standards --[Reflect]-> Transport sector 0.8450337648391724
+[Critical aspect of transport management in new zealand]: Road condition monitoring --[Is]-> Critical aspect of transport management in new zealand 0.842606782913208
+[Critical aspect of transport management in new zealand]: Ministry of transport --[Oversees]-> Transport sector 0.8377264738082886

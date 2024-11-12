@@ -1,0 +1,36 @@
+How much was spent on public consultation for the Golden Mile upgrades by July 2020?
+None
+Seed: itemised breakdown of all spending on public consultation for Golden Mile upgrades
+Seed: information pertaining to the Golden Mile revitalisation project contract
+Seed: information on Golden Mile revitalisation project contract
+Seed: Golden Mile revitalisation project
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[ITEMISED]-> itemised breakdown of all spending on public consultation for Golden Mile upgrades 0.8785224556922913
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[EMAIL]-> joel.macmanus@stuff.co.nz 0.7178447246551514
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[REQUEST]-> Request made under the Official Information Act 1982 0.7430177927017212
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Request made under the Official Information Act 1982 --[REQUEST_DATE]-> 30 October 2018 0.7818940877914429
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Request made under the Official Information Act 1982 --[REQUESTED_BY]-> Thomas Coughlan 0.7612971067428589
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Thomas Coughlan --[REQUESTS]-> information under the Official Information Act 1982 0.7495494484901428
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[REQUESTED]-> information under the Official Information Act 1982 0.7346650958061218
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: information under the Official Information Act 1982 --[REGULATED_BY]-> Official Information Act 1982 0.7325875759124756
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Cherie Howie --[REQUESTS]-> information under the Official Information Act 1982 0.7402846217155457
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Sam Kelway --[REQUESTS]-> information under the Official Information Act 1982 0.7601547837257385
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Conan Young --[INQUIRES]-> information under the Official Information Act 1982 0.7462905645370483
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Conan Young --[REQUESTS]-> information under the Official Information Act 1982 0.741740345954895
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Phil Pennington --[REQUESTS]-> information under the Official Information Act 1982 0.7607340812683105
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Jordan Bond --[REQUESTS]-> information under the Official Information Act 1982 0.7553198337554932
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Charlie Mitchell --[REQUESTS]-> information under the Official Information Act 1982 0.7392732501029968
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: New Zealand Transport Agency --[PROVIDES]-> information under the Official Information Act 1982 0.7438033819198608
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Hamish Cardwell --[REQUESTED]-> information under the Official Information Act 1982 0.7580842971801758
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Jono Galuszka --[REQUESTS]-> information under the Official Information Act 1982 0.7447341680526733
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Emma Hatton --[REQUESTS]-> information under the Official Information Act 1982 0.7522416114807129
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: information under the Official Information Act 1982 --[ASSOCIATED_WITH]-> email of 20 October 2023 0.7566360235214233
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Oli Lewis --[REQUESTED]-> information under the Official Information Act 1982 0.7633858323097229
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Request made under the Official Information Act 1982 --[ASSOCIATED_WITH]-> information under the Official Information Act 1982 0.7535306215286255
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Request made under the Official Information Act 1982 --[REQUESTED]-> information under the Official Information Act 1982 0.7486090660095215
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: information under the Official Information Act 1982 --[PROVIDED]-> email of 20 October 2023 0.7524922490119934
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: NZ Transport Agency --[PROVIDES]-> information under the Official Information Act 1982 0.7386674880981445
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Debrin Foxcroft --[REQUESTS]-> information under the Official Information Act 1982 0.7401933670043945
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Newsroom --[EMPLOYS]-> Thomas Coughlan 0.7309557199478149
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Thomas Coughlan --[EMPLOYER]-> Newsroom Pro 0.7556297183036804
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Newsroom Pro --[LOCATED_IN]-> Parliamentary Press Gallery 0.761470377445221
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Thomas Coughlan --[EMAIL]-> Thomas.Coughlan@newsroom.co.nz 0.7588127851486206

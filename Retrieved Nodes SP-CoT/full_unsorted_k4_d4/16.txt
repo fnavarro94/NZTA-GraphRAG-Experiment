@@ -1,0 +1,36 @@
+What legislation established the source of funding for road maintenance strategies in New Zealand, which is derived from fuel excise duties and road user charges?
+None
+Seed: Primarily financed through fuel excise duties
+Seed: Funding maintenance and development of roads
+Seed: Fuel excise duties
+Seed: Legislative framework for road safety initiatives
+[Primarily financed through fuel excise duties]: National land transport fund --[Is]-> Primarily financed through fuel excise duties 0.8661221265792847
+[Primarily financed through fuel excise duties]: National land transport fund --[Is]-> Key financial mechanism 0.8118752837181091
+[Primarily financed through fuel excise duties]: National land transport fund --[Plays crucial role in]-> Ensuring transport infrastructure meets needs of growing population and economy 0.8080506324768066
+[Primarily financed through fuel excise duties]: National land transport fund --[Established under]-> Land transport management act 2003 0.8147459030151367
+[Primarily financed through fuel excise duties]: Land transport management act 2003 --[Aims to]-> Provide framework for sustainable development 0.7949228882789612
+[Primarily financed through fuel excise duties]: Land transport management act 2003 --[Provides for]-> Establishment of national land transport fund 0.8035871386528015
+[Primarily financed through fuel excise duties]: Land transport management act 2003 --[Enacted on]-> 1 july 2004 0.8073768615722656
+[Primarily financed through fuel excise duties]: Land transport management act 2003 --[Is]-> Key piece of legislation 0.8248935341835022
+[Primarily financed through fuel excise duties]: Health and safety at work act 2015 --[Is]-> Key piece of legislation 0.7944871187210083
+[Primarily financed through fuel excise duties]: Land transport act --[Is]-> Key piece of legislation 0.8273845911026001
+[Primarily financed through fuel excise duties]: Civil defence emergency management act 2002 --[Is]-> Key piece of legislation 0.7859511971473694
+[Primarily financed through fuel excise duties]: Resource management act 1991 --[Is]-> Key piece of legislation 0.8277391195297241
+[Primarily financed through fuel excise duties]: Land transport management act 2003 --[Has been updated]-> To incorporate principles of sustainability 0.7852785587310791
+[Primarily financed through fuel excise duties]: Land transport management act 2003 --[Has undergone]-> Several amendments to address emerging transport challenges 0.8015533685684204
+[Primarily financed through fuel excise duties]: Land transport management act 2003 --[Mandates]-> Involvement of various stakeholders in planning and decision-making processes 0.7872670888900757
+[Primarily financed through fuel excise duties]: Land transport management act 2003 --[Establishes]-> Framework for development of regional land transport plans 0.7974642515182495
+[Primarily financed through fuel excise duties]: Land transport management act 2003 --[Emphasizes]-> Importance of integrating land transport planning with land use planning 0.7880297303199768
+[Primarily financed through fuel excise duties]: National land transport programme --[Established under]-> Land transport management act 2003 0.8037233352661133
+[Primarily financed through fuel excise duties]: National land transport programme --[Is]-> Key component of new zealand's transport planning framework 0.8417927026748657
+[Primarily financed through fuel excise duties]: National land transport programme --[Updated]-> Every three years 0.7742382287979126
+[Primarily financed through fuel excise duties]: National land transport programme --[Promotes]-> Environmental sustainability 0.7861834764480591
+[Primarily financed through fuel excise duties]: National land transport programme --[Supports]-> Economic growth 0.7703689336776733
+[Primarily financed through fuel excise duties]: National land transport programme --[Is]-> Key framework 0.8060764074325562
+[Primarily financed through fuel excise duties]: National land transport programme --[Aims to]-> Enhance sustainability 0.7908481359481812
+[Primarily financed through fuel excise duties]: National land transport programme --[Aims to]-> Enhance efficiency 0.7988077998161316
+[Primarily financed through fuel excise duties]: National land transport programme --[Developed by]-> Waka kotahi nz transport agency 0.829345166683197
+[Primarily financed through fuel excise duties]: National land transport programme --[Funded through]-> Government revenue 0.8270406723022461
+[Primarily financed through fuel excise duties]: National land transport programme --[Prioritizes projects]-> Align with regional transport plans 0.7840535640716553
+[Primarily financed through fuel excise duties]: National land transport programme --[Aims to]-> Enhance safety 0.7955218553543091
+[Primarily financed through fuel excise duties]: National land transport programme --[Prioritizes projects]-> Align with national transport strategies 0.7928792238235474

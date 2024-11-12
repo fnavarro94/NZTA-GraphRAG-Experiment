@@ -1,0 +1,29 @@
+Who should be contacted to discuss the details of Waka Kotahi’s half-price fare advertising?
+None
+Seed: information to Waka Kotahi
+Seed: Waka Kotahi NZ Transport Agency
+Seed: opportunities to make an announcement regarding changes to the national farebox recovery policy
+Seed: Waka Kotahi N Z Transport Agency
+[information to Waka Kotahi]: New Zealand Transport Agency --[DISCUSS]-> Waka Kotahi 0.864575982093811
+[information to Waka Kotahi]: Waka Kotahi --[DISCUSS]-> New Zealand Transport Agency 0.8636844754219055
+[information to Waka Kotahi]: NZ Transport Agency Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8513311147689819
+[information to Waka Kotahi]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8503366708755493
+[information to Waka Kotahi]: New Zealand Transport Agency --[PROVIDES]-> information to Waka Kotahi 0.8473636507987976
+[information to Waka Kotahi]: Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8471835851669312
+[information to Waka Kotahi]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.843620777130127
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[CONTACT]-> T 64 4 894 5400 0.8768705129623413
+[Waka Kotahi NZ Transport Agency]: Robyn Elston --[CONTACT]-> Waka Kotahi 0.870851457118988
+[Waka Kotahi NZ Transport Agency]: Andrew Knackstedt --[CONTACT]-> Waka Kotahi NZ Transport Agency 0.8688385486602783
+[Waka Kotahi NZ Transport Agency]: Andrew Knackstedt --[CONTACT]-> Waka Kotahi 0.8685114979743958
+[Waka Kotahi NZ Transport Agency]: Chris Marshall --[REQUESTS]-> Waka Kotahi NZ Transport Agency 0.8568392992019653
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[FAX]-> F 64 4 894 6100 0.8544861674308777
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.8531926870346069
+[opportunities to make an announcement regarding changes to the national farebox recovery policy]: MIN-3132 --[RELATES_TO]-> opportunities to make an announcement regarding changes to the national farebox recovery policy 0.789188027381897
+[opportunities to make an announcement regarding changes to the national farebox recovery policy]: MIN/O-0005 --[FOLLOWS_UP]-> MIN-3132 0.7474163174629211
+[Waka Kotahi N Z Transport Agency]: Data --[PROVIDED]-> Waka Kotahi N Z Transport Agency 0.8415243029594421
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.805443286895752
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.7961134314537048
+[Waka Kotahi N Z Transport Agency]: New Zealand Transport Agency Waka Kotahi --[MAINTAINS]-> Crash Analysis System 0.7923958897590637
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINS]-> Waka Kotahi N Z Transport Agency 0.7888979911804199
+[Waka Kotahi N Z Transport Agency]: Data --[IS]-> Current at 18 September 2019 0.7601910829544067
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MANAGED_BY]-> New Zealand Transport Agency 0.752140998840332

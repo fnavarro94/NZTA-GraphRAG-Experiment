@@ -1,0 +1,27 @@
+How effective was the Road to Zero advertising campaign in terms of reach and public support as of June 2022?
+None
+Seed: cost of the current Road to Zero advertising campaign
+Seed: development of the next Road to Zero Action Plan
+Seed: Road to Zero advertising campaign
+Seed: information about Road To Zero campaign
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[COST]-> cost of the current Road to Zero advertising campaign 0.8591411113739014
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[EVALUATED_BY]-> post campaign polling or research 0.8446980714797974
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[LAUNCHED_BY]-> New Zealand Transport Agency 0.8423694372177124
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[TARGET]-> zero accidents 0.8338603973388672
+[cost of the current Road to Zero advertising campaign]: Request made under the Official Information Act 1982 --[CHALLENGES]-> Road To Zero campaign 0.8155747056007385
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[LOGIC]-> logic in making this critical decision 0.7916120290756226
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[WORKING_WITH]-> development of the next Road to Zero Action Plan 0.8186863660812378
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[SUPPORTS]-> Road to Zero strategy 0.8058965802192688
+[development of the next Road to Zero Action Plan]: Road to Zero --[IS_IMPLEMENTED_BY]-> Waka Kotahi 0.7971017956733704
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[MONITORS]-> advertising campaigns 0.7569973468780518
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[PROACTIVELY_RELEASED]-> NZ Transport Agency 0.7547304034233093
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[POLICY]-> publishing responses on website 0.753997802734375
+[development of the next Road to Zero Action Plan]: Regional Public Transport Plans --[DEVELOPED_BY]-> Waka Kotahi 0.752961277961731
+[Road to Zero advertising campaign]: Road to Zero advertising campaign --[COST]-> $6.185 million 0.8422391414642334
+[information about Road To Zero campaign]: Request made under the Official Information Act 1982 --[CHALLENGES]-> Road To Zero campaign 0.8155747056007385
+[information about Road To Zero campaign]: Request made under the Official Information Act 1982 --[REQUESTS]-> information about Road To Zero campaign 0.8097078204154968
+[information about Road To Zero campaign]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.7585642337799072
+[information about Road To Zero campaign]: New Zealand Transport Agency --[RESPONDS]-> Request made under the Official Information Act 1982 0.7491906881332397
+[information about Road To Zero campaign]: Request made under the Official Information Act 1982 --[OFFICIAL_INFORMATION]-> Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act). 0.7474552392959595
+[information about Road To Zero campaign]: New Zealand Transport Agency --[RESPONDS_TO]-> Request made under the Official Information Act 1982 0.7471796274185181
+[information about Road To Zero campaign]: Request made under the Official Information Act 1982 --[REQUEST_DATE]-> 30 October 2018 0.7408537864685059

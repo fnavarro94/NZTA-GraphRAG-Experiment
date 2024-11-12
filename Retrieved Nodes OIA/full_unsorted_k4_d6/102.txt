@@ -1,0 +1,36 @@
+Who is the acting National Manager responsible for the reply on Automatic Number Plate Recognition cameras?
+None
+Seed: Acting Senior Manager, Media
+Seed: no notifications of offences detected by speed cameras
+Seed: National Manager, Education and Marketing
+Seed: National correspondent
+[Acting Senior Manager, Media]: Jasmine Higginson --[IS]-> Acting Senior Manager, Media 0.7676956653594971
+[Acting Senior Manager, Media]: New Zealand Transport Agency --[EMPLOYS]-> Jasmine Higginson 0.7619385719299316
+[Acting Senior Manager, Media]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7500606775283813
+[Acting Senior Manager, Media]: New Zealand Transport Agency --[BASED]-> Wellington 0.7450535297393799
+[Acting Senior Manager, Media]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7567748427391052
+[Acting Senior Manager, Media]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.7655271291732788
+[Acting Senior Manager, Media]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7272543907165527
+[Acting Senior Manager, Media]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.737438976764679
+[Acting Senior Manager, Media]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7380855083465576
+[Acting Senior Manager, Media]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7532343864440918
+[Acting Senior Manager, Media]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.7554956078529358
+[Acting Senior Manager, Media]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7449043989181519
+[Acting Senior Manager, Media]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7429580688476562
+[Acting Senior Manager, Media]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7355501055717468
+[Acting Senior Manager, Media]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7198578715324402
+[Acting Senior Manager, Media]: Wellington --[CONTAINS]-> Private Bag 6995 0.7249199151992798
+[Acting Senior Manager, Media]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7657052874565125
+[Acting Senior Manager, Media]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7656140327453613
+[Acting Senior Manager, Media]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.772310733795166
+[Acting Senior Manager, Media]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7556912899017334
+[Acting Senior Manager, Media]: 50 Victoria Street --[IN]-> Wellington 0.721716046333313
+[Acting Senior Manager, Media]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.7656984925270081
+[Acting Senior Manager, Media]: New Zealand Transport Agency --[LOCATED]-> 50 Victoria Street 0.761428952217102
+[Acting Senior Manager, Media]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7427325248718262
+[Acting Senior Manager, Media]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7545174956321716
+[Acting Senior Manager, Media]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7165762186050415
+[Acting Senior Manager, Media]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.724166750907898
+[Acting Senior Manager, Media]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7510469555854797
+[Acting Senior Manager, Media]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7531023621559143
+[Acting Senior Manager, Media]: New Zealand Transport Agency --[CONTACT]-> Wellington 6141 0.7611998319625854

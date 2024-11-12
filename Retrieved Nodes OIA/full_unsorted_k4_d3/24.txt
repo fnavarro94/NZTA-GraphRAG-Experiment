@@ -1,0 +1,36 @@
+How many fatal crashes in the Queenstown Lakes and Central Otago districts involved local drivers between 2015 and 2019?
+None
+Seed: drivers involved in fatal crashes
+Seed: Road Traffic Crashes
+Seed: road traffic crashes
+Seed: figures on drivers involved in fatal crashes
+[drivers involved in fatal crashes]: drivers involved in fatal crashes --[INVOLVED_IN]-> fatal crashes 0.8420449495315552
+[drivers involved in fatal crashes]: fatal crashes --[CAUSED_BY]-> drugs or alcohol 0.8159748315811157
+[drivers involved in fatal crashes]: drugs or alcohol --[AFFECTS]-> drivers 0.7775927186012268
+[drivers involved in fatal crashes]: drivers --[INVOLVED_IN]-> fatal crashes 0.8439590334892273
+[drivers involved in fatal crashes]: tolls --[COLLECTED]-> drivers 0.7876066565513611
+[drivers involved in fatal crashes]: drivers --[PAY]-> tolls 0.7617901563644409
+[drivers involved in fatal crashes]: drivers --[CONTRIBUTE]-> crash 0.807377815246582
+[drivers involved in fatal crashes]: drivers --[IMPAIRED]-> drugs 0.768540620803833
+[drivers involved in fatal crashes]: drugs --[PRESENT]-> drivers 0.7614827752113342
+[drivers involved in fatal crashes]: New Zealand Transport Agency --[RESPONDED]-> drivers 0.8267025947570801
+[drivers involved in fatal crashes]: fatal crashes --[RECORDED]-> CAS 0.8171294331550598
+[drivers involved in fatal crashes]: Crash --[RECORDED]-> CAS 0.7606182098388672
+[drivers involved in fatal crashes]: Waka Kotahi --[MAINTAINS]-> CAS 0.6961286067962646
+[drivers involved in fatal crashes]: CAS --[IS_UPDATING]-> Traffic Crash Report 0.7923310399055481
+[drivers involved in fatal crashes]: crash records --[PROCESSED]-> CAS 0.762330949306488
+[drivers involved in fatal crashes]: CAS --[PROVIDES]-> full and correct crash records 0.7740240693092346
+[drivers involved in fatal crashes]: CAS --[CONTAINS]-> information 0.7018767595291138
+[drivers involved in fatal crashes]: Transport Agency --[CROSS_REFERENCES]-> CAS 0.7488301992416382
+[drivers involved in fatal crashes]: CAS --[DEFINES]-> Road 0.739886999130249
+[drivers involved in fatal crashes]: minor injury crashes --[RECORDED]-> CAS 0.7887420058250427
+[drivers involved in fatal crashes]: 2023 data --[INCOMPLETE]-> CAS 0.7457050085067749
+[drivers involved in fatal crashes]: Road --[DEFINED_BY]-> CAS 0.7435812950134277
+[drivers involved in fatal crashes]: 2022 data --[INCOMPLETE]-> CAS 0.7409685850143433
+[drivers involved in fatal crashes]: CAS --[CONTAINS]-> crash records 0.7654284834861755
+[drivers involved in fatal crashes]: non-injury crashes --[RECORDED]-> CAS 0.7974915504455566
+[drivers involved in fatal crashes]: serious injury crashes --[RECORDED]-> CAS 0.7967748641967773
+[Road Traffic Crashes]: Road Traffic Crashes --[ANALYZED_BY]-> Crash Analysis 0.8271992802619934
+[Road Traffic Crashes]: Crash Analysis --[PERFORMED_BY]-> Waka Kotahi NZ Transport Agency 0.8333137035369873
+[Road Traffic Crashes]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7836347222328186
+[Road Traffic Crashes]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.8105677366256714

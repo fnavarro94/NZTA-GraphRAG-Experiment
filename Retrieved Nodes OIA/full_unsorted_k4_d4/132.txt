@@ -1,0 +1,36 @@
+What was the objective of the Safe Limits campaign regarding speed limits?
+None
+Seed: comparing the number of accidents under the 100km speed limit versus the current 80km speed rate
+Seed: wider objectives in Regional Public Transport Plans
+Seed: Setting of Speed Limits Rule 2017
+Seed: speed limit zones
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[INTERESTED_IN]-> comparing the number of accidents under the 100km speed limit versus the current 80km speed rate 0.8275731205940247
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[EMAILS]-> NZ Transport Agency 0.7626992464065552
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: NZ Transport Agency --[ASSOCIATED]-> Andrew Knackstedt 0.7691627740859985
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: response --[ASSOCIATED_WITH]-> Andrew Knackstedt 0.7283380627632141
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: web --[ASSOCIATED_WITH]-> Andrew Knackstedt 0.7239108085632324
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Andrew Knackstedt 0.7850368022918701
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Andrew Knackstedt --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7684940695762634
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Andrew Knackstedt --[ASSOCIATED_WITH]-> response 0.715962827205658
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.7057745456695557
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: New Zealand Transport Agency --[EMPLOYS]-> Andrew Knackstedt 0.7566115856170654
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: contact details --[PROVIDES]-> Andrew Knackstedt 0.7071875929832458
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Andrew Knackstedt --[EMAIL]-> andrew.knackstedt@nzta.govt.nz 0.727340817451477
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Dylan Hunt --[DISCUSS]-> Andrew Knackstedt 0.7001760005950928
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: New Zealand Transport Agency --[DISCUSS]-> Andrew Knackstedt 0.7623088955879211
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Wayne Oldfield --[DISCUSS]-> Andrew Knackstedt 0.7172844409942627
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: NZ Transport Agency --[DISCUSS]-> Andrew Knackstedt 0.7641574740409851
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Waka Kotahi --[DISCUSS]-> Andrew Knackstedt 0.7005302309989929
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: request --[DISCUSS]-> Andrew Knackstedt 0.7321264147758484
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Paul Giles --[DISCUSS]-> Andrew Knackstedt 0.7197343707084656
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Letter --[DISCUSS]-> Andrew Knackstedt 0.7374802827835083
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Andrew Knackstedt --[DISCUSS]-> New Zealand Transport Agency 0.7745509147644043
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Andrew Knackstedt --[DISCUSS]-> Dylan Hunt 0.6995805501937866
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Andrew Knackstedt --[DISCUSS]-> Waka Kotahi 0.7090247869491577
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Andrew Knackstedt --[DISCUSS]-> NZ Transport Agency 0.7735697627067566
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Andrew Knackstedt --[DISCUSS]-> Wayne Oldfield 0.7171305418014526
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Andrew Knackstedt --[DISCUSS]-> request 0.7442346811294556
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Andrew Knackstedt --[DISCUSS]-> Paul Giles 0.7153151035308838
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Andrew Knackstedt --[DISCUSS]-> Letter 0.730368971824646
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Transport Agency --[CONTACT]-> Andrew Knackstedt 0.7636949419975281
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Andrew Knackstedt --[CONTACT]-> Waka Kotahi 0.7186490297317505

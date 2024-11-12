@@ -1,0 +1,34 @@
+What notable project aims to improve transportation connectivity in Auckland and support the region's economic growth, and also aims to improve rail connectivity in Auckland?
+None
+Seed: Addressing transport challenges in auckland
+Seed: Regional transport initiatives
+Seed: Transport planning aligns with urban development goals
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Is]-> Strategic initiative 0.8936082124710083
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Improve efficiency and effectiveness of transport system 0.8923836946487427
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On enhancing road infrastructure 0.8919570446014404
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Addressing transport challenges in auckland 0.8884895443916321
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On improving public transport 0.8881229758262634
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Development of comprehensive transport network 0.8878880739212036
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Encompasses]-> Range of projects 0.8874555230140686
+[Regional transport initiatives]: New zealand transport agency --[Collaborates with]-> Local councils 0.8274279236793518
+[Regional transport initiatives]: Local councils --[Contribute to]-> Regional transport initiatives 0.8255856037139893
+[Regional transport initiatives]: Local councils --[Develop]-> Regional land transport plans 0.8183907270431519
+[Regional transport initiatives]: Waka kotahi nz transport agency --[Works collaboratively with]-> Local councils 0.8155010342597961
+[Regional transport initiatives]: Local councils --[Contribute to]-> Transport funding 0.8130122423171997
+[Regional transport initiatives]: New zealand transport agency --[Works with]-> Local councils 0.8052809834480286
+[Regional transport initiatives]: Community transport services --[Operated by]-> Local councils 0.7866049408912659
+[Transport planning aligns with urban development goals]: Auckland transport --[Committed to]-> Improving connectivity 0.8977837562561035
+[Transport planning aligns with urban development goals]: Auckland transport --[Has]-> Vision to support growth 0.8968256711959839
+[Transport planning aligns with urban development goals]: Auckland transport --[Invested in]-> Development of new train routes 0.8783894777297974
+[Transport planning aligns with urban development goals]: Auckland transport --[Plays]-> Crucial role 0.8774819374084473
+[Transport planning aligns with urban development goals]: Auckland transport --[Focused on]-> Promoting active transport modes 0.8763824701309204
+[Transport planning aligns with urban development goals]: Auckland transport --[Collaborates with]-> Local communities 0.8763608336448669
+[Transport planning aligns with urban development goals]: Auckland transport --[Focused on]-> Promoting walking 0.8747147917747498
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Aims to]-> Enhance resilience and adaptability of new zealand's transport network 0.8649132251739502
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Plays]-> Significant role in shaping transport infrastructure and policy in new zealand 0.8556763529777527
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Collaborates with]-> New zealand transport agency (nzta 0.8386380076408386
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Is]-> Collective of australian and new zealand road transport and traffic agencies 0.7951571345329285
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Conducts]-> Extensive research and development projects 0.7909946441650391
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Engages in]-> International collaborations to align initiatives with global best practices 0.7677851319313049
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Founded in]-> 1990 0.7384408116340637

@@ -1,0 +1,16 @@
+What program, established in the year when the Onehunga Line was reintroduced, enhancing the connection between the two locations connected by the first railway line constructed in New Zealand in 1873, requires periodic testing of older vehicles to ensure they meet emissions standards throughout their operational life?
+None
+Seed: First railway line between auckland and onehunga in 1873
+Seed: Vehicles meet specific emissions standards
+Seed: Periodic testing of older vehicles
+Seed: Vehicle exhaust emissions testing programme
+[First railway line between auckland and onehunga in 1873]: New zealand --[Had]-> First railway line between auckland and onehunga in 1873 0.9003486633300781
+[Vehicles meet specific emissions standards]: Nzta --[Ensures]-> Vehicles meet specific emissions standards 0.8248958587646484
+[Periodic testing of older vehicles]: Vehicle exhaust emissions testing programme --[Mandates]-> Periodic testing of older vehicles 0.839051365852356
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Mandates]-> Periodic testing of older vehicles 0.839051365852356
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Has]-> Objectives 0.8230739235877991
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Is]-> Regulatory initiative 0.8204081058502197
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Established]-> 2010 0.8199007511138916
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Ensures]-> Vehicles continue to meet emissions standards 0.8177903890609741
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Future direction]-> Enhance programme 0.8151803612709045
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Focuses on]-> Monitoring and controlling emissions 0.8150977492332458

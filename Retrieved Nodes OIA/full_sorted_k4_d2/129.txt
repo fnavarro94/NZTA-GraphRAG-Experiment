@@ -1,0 +1,29 @@
+How much did Meredith Connell invoice NZTA for legal services from November 2018 to June 2019?
+None
+Seed: highest single amount invoiced was $93,114.27
+Seed: administration fee
+Seed: $130,675
+Seed: $949,349
+[highest single amount invoiced was $93,114.27]: Meredith Connell --[INVOICED]-> New Zealand Transport Agency 0.8989838361740112
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[COLLABORATES_WITH]-> Meredith Connell 0.8403952121734619
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[INVOICES]-> highest single amount invoiced was $93,114.27 0.8336039781570435
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[CONTACT]-> 04 894 6285 0.8124969005584717
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[CONTACT]-> kerry.greig@nzta.govt.nz 0.8120984435081482
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[CONTACT]-> 64 4 894 5400 0.8111615180969238
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.81058269739151
+[administration fee]: New Zealand Transport Agency --[ISSUES]-> toll payment notice 0.7959177494049072
+[administration fee]: New Zealand Transport Agency --[MANAGES]-> toll roads 0.7771673202514648
+[administration fee]: administration fee --[APPLIED_TO]-> toll payment notice 0.7713233828544617
+[administration fee]: toll payment notice --[CONTAINS]-> unpaid tolls 0.7571202516555786
+[administration fee]: toll roads --[INCLUDE]-> administration fee 0.7503587007522583
+[administration fee]: toll roads --[COLLECTS]-> toll tariffs 0.7456934452056885
+[administration fee]: unpaid tolls --[ASSOCIATED_WITH]-> toll roads 0.7415612936019897
+[$130,675]: Stantec --[COST]-> $130,675 0.7368848323822021
+[$130,675]: various organizations --[INCLUDE]-> Stantec 0.6980310678482056
+[$949,349]: various organizations --[COST]-> $949,349 0.7699165940284729
+[$949,349]: various organizations --[INCLUDE]-> HKA 0.7322366237640381
+[$949,349]: consultants --[FROM]-> various organizations 0.7289659380912781
+[$949,349]: various organizations --[INCLUDE]-> Arc Advisory 0.7276151776313782
+[$949,349]: various organizations --[INCLUDE]-> Alta 0.7208935022354126
+[$949,349]: various organizations --[INCLUDE]-> GHD 0.7188656330108643
+[$949,349]: various organizations --[INCLUDE]-> Place Collective 0.7161916494369507

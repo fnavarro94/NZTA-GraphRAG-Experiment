@@ -1,0 +1,24 @@
+What passenger service, operated by the organization in New Zealand that operates the majority of the country's rail services and has launched campaigns to promote rail safety, offers long-distance travel across New Zealand?
+None
+Seed: Majority of rail services
+Seed: Passenger rail services
+Seed: Extensive network of passenger and freight services
+Seed: Majority of passenger and freight movement
+[Majority of rail services]: Kiwirail group --[Operates]-> Passenger services 0.8685092329978943
+[Majority of rail services]: Kiwirail group --[Offers]-> Long-distance travel 0.8684972524642944
+[Majority of rail services]: Kiwirail group --[Operates]-> Majority of rail services 0.8652268648147583
+[Majority of rail services]: Kiwirail group --[Facilitates]-> Movement of passengers 0.8508940935134888
+[Majority of rail services]: Kiwirail group --[Operates]-> Freight services 0.8503221869468689
+[Majority of rail services]: Kiwirail group --[Responsible for]-> Rail transport 0.8485143780708313
+[Majority of rail services]: Kiwirail group --[Provides]-> Essential services 0.8464223146438599
+[Passenger rail services]: Passenger rail services --[Showcase]-> New zealand's stunning landscapes 0.8561162948608398
+[Passenger rail services]: Passenger rail services --[Include]-> Scenic routes such as the tranzalpine and the northern explorer 0.803510844707489
+[Extensive network of passenger and freight services]: New zealand railways department --[Continued to operate]-> Extensive network of passenger and freight services 0.8410544395446777
+[Extensive network of passenger and freight services]: New zealand railways department --[Introduced]-> Diesel locomotives 0.798517107963562
+[Majority of passenger and freight movement]: New zealand --[Has]-> Road transport 0.8337256908416748
+[Majority of passenger and freight movement]: Kiwirail --[Collaborates with]-> Road transport 0.8244090676307678
+[Majority of passenger and freight movement]: Road transport --[Is]-> Most widely used mode of transport in new zealand 0.8231351375579834
+[Majority of passenger and freight movement]: Kiwirail group --[Committed to]-> Road transport 0.8126126527786255
+[Majority of passenger and freight movement]: Wellington --[Has]-> Road transport 0.8096400499343872
+[Majority of passenger and freight movement]: Road transport --[Predominant mode of]-> Land transport in new zealand 0.8059648275375366
+[Majority of passenger and freight movement]: Road transport --[Accounts for]-> Majority of passenger and freight movement 0.786110520362854

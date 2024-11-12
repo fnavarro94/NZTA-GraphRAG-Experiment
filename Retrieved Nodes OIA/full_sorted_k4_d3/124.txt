@@ -1,0 +1,30 @@
+When is the Detailed Business Case (DBC) for the North Auckland Rapid Transit Corridor expected to be available?
+None
+Seed: North Auckland Rapid Transit Corridor
+Seed: National Ticketing Solution request for proposal
+Seed: Rapid Transit Network Delivery Plan
+Seed: Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case
+[North Auckland Rapid Transit Corridor]: North Auckland Rapid Transit Corridor --[LOCATED]-> Auckland 0.887446939945221
+[North Auckland Rapid Transit Corridor]: North Auckland Rapid Transit Corridor --[ECONOMIC_STUDY]-> Economic Study 0.8786587715148926
+[North Auckland Rapid Transit Corridor]: Audit Process --[AUDITS]-> North Auckland Rapid Transit Corridor 0.874895453453064
+[North Auckland Rapid Transit Corridor]: North Auckland Rapid Transit Corridor --[ENVIRONMENTAL_IMPACT]-> Environmental Impact Study 0.8714081645011902
+[North Auckland Rapid Transit Corridor]: New Zealand Transport Agency --[MANAGES]-> North Auckland Rapid Transit Corridor 0.8687747716903687
+[North Auckland Rapid Transit Corridor]: transport services --[AVAILABLE_IN]-> Auckland 0.8645833730697632
+[North Auckland Rapid Transit Corridor]: New Zealand Transport Agency --[BASED_IN]-> Auckland 0.8641358017921448
+[National Ticketing Solution request for proposal]: www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ --[CONTAINS]-> National Ticketing Solution request for proposal 0.8535386323928833
+[National Ticketing Solution request for proposal]: RFP for National Ticket System --[AVAILABLE]-> www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ 0.8401603698730469
+[National Ticketing Solution request for proposal]: New Zealand Transport Agency --[REFUSES]-> RFP for National Ticket System 0.7946215271949768
+[Rapid Transit Network Delivery Plan]: North Auckland Rapid Transit Corridor --[LOCATED]-> Auckland 0.887446939945221
+[Rapid Transit Network Delivery Plan]: North Auckland Rapid Transit Corridor --[ECONOMIC_STUDY]-> Economic Study 0.8786587715148926
+[Rapid Transit Network Delivery Plan]: Audit Process --[AUDITS]-> North Auckland Rapid Transit Corridor 0.874895453453064
+[Rapid Transit Network Delivery Plan]: North Auckland Rapid Transit Corridor --[ENVIRONMENTAL_IMPACT]-> Environmental Impact Study 0.8714081645011902
+[Rapid Transit Network Delivery Plan]: New Zealand Transport Agency --[MANAGES]-> North Auckland Rapid Transit Corridor 0.8687747716903687
+[Rapid Transit Network Delivery Plan]: transport services --[AVAILABLE_IN]-> Auckland 0.8645833730697632
+[Rapid Transit Network Delivery Plan]: New Zealand Transport Agency --[BASED_IN]-> Auckland 0.8641358017921448
+[Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.8609107136726379
+[Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Access and Development Programme Business Case 0.857707679271698
+[Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case]: Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.8486700654029846
+[Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.8413197994232178
+[Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Access and Development Programme Business Case 0.841060996055603
+[Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case]: Hornby Access and Development Programme Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.8387055397033691
+[Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case]: Main South Road, Shands Road and Carmen Road intersection --[LOCATED_NEAR]-> Hornby Access and Development Programme Business Case 0.8281933069229126

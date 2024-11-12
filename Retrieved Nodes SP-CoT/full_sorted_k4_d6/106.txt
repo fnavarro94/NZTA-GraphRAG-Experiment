@@ -1,0 +1,33 @@
+Who operates the rail network in the country where the regular activities performed to keep roads safe and functional, including vegetation control, litter removal, and drainage maintenance, are described by what term?
+None
+Seed: Transport as critical component of nation's infrastructure
+Seed: Significant role in planning and management of transport infrastructure and services
+Seed: Crucial role in promoting road safety
+Seed: Rail infrastructure
+[Transport as critical component of nation's infrastructure]: Rail network --[Plays]-> Crucial role in freight transport 0.852701723575592
+[Transport as critical component of nation's infrastructure]: Ministry of transport --[Oversees]-> Rail 0.8456760048866272
+[Transport as critical component of nation's infrastructure]: Rail network --[Requires]-> Ongoing maintenance 0.8419103622436523
+[Transport as critical component of nation's infrastructure]: Rail network --[Is]-> Integral for freight transport 0.8350082039833069
+[Transport as critical component of nation's infrastructure]: Rail network --[Connects]-> Major cities and industrial hubs 0.8345019817352295
+[Transport as critical component of nation's infrastructure]: Ministry of transport --[Oversees]-> Transport sector 0.8341037034988403
+[Transport as critical component of nation's infrastructure]: Road network --[Is]-> Primary mode of transport for both freight and passengers 0.833625316619873
+[Significant role in planning and management of transport infrastructure and services]: Rail network --[Plays]-> Crucial role in freight transport 0.852701723575592
+[Significant role in planning and management of transport infrastructure and services]: Ministry of transport --[Oversees]-> Rail 0.8456760048866272
+[Significant role in planning and management of transport infrastructure and services]: Rail network --[Requires]-> Ongoing maintenance 0.8419103622436523
+[Significant role in planning and management of transport infrastructure and services]: Rail network --[Is]-> Integral for freight transport 0.8350082039833069
+[Significant role in planning and management of transport infrastructure and services]: Rail network --[Connects]-> Major cities and industrial hubs 0.8345019817352295
+[Significant role in planning and management of transport infrastructure and services]: Ministry of transport --[Oversees]-> Transport sector 0.8341037034988403
+[Significant role in planning and management of transport infrastructure and services]: Road network --[Is]-> Primary mode of transport for both freight and passengers 0.833625316619873
+[Crucial role in promoting road safety]: Education and awareness programs --[Play]-> Crucial role in promoting road safety 0.803707480430603
+[Crucial role in promoting road safety]: Education and awareness programs --[Include]-> Road safety week 0.7888551354408264
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about safe driving practices 0.768010675907135
+[Crucial role in promoting road safety]: Education and awareness programs --[Include]-> Belt up campaign 0.7564408779144287
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about dangers of distracted driving 0.7335869073867798
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about importance of seatbelt use 0.7328860759735107
+[Rail infrastructure]: Rail network --[Plays]-> Crucial role in freight transport 0.852701723575592
+[Rail infrastructure]: Ministry of transport --[Oversees]-> Rail 0.8456760048866272
+[Rail infrastructure]: Rail network --[Requires]-> Ongoing maintenance 0.8419103622436523
+[Rail infrastructure]: Rail network --[Is]-> Integral for freight transport 0.8350082039833069
+[Rail infrastructure]: Rail network --[Connects]-> Major cities and industrial hubs 0.8345019817352295
+[Rail infrastructure]: Ministry of transport --[Oversees]-> Transport sector 0.8341037034988403
+[Rail infrastructure]: Road network --[Is]-> Primary mode of transport for both freight and passengers 0.833625316619873

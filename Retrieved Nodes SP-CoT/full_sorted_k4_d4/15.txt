@@ -1,0 +1,30 @@
+What is the minimum age requirement for obtaining a driver license in New Zealand, which is the first stage of the driver licensing process and can be obtained at the age of 16?
+None
+Seed: Age of 16
+Seed: Provisional driving license
+Seed: Legal framework for licensing of drivers
+Seed: Full valid driver's license
+[Age of 16]: Learner license --[Issued in]-> New zealand 0.8825306296348572
+[Age of 16]: Learner license --[Obtained at]-> Age of 16 0.8774173855781555
+[Age of 16]: Learner license --[Eligibility]-> At least 16 years old 0.8725294470787048
+[Age of 16]: Driver licensing programs --[Are structured systems]-> New zealand 0.8663100004196167
+[Age of 16]: New zealand --[Has]-> Graduated licensing system 0.8635604381561279
+[Age of 16]: Driver licensing programs --[Administered by]-> Waka kotahi nz transport agency 0.8539196848869324
+[Age of 16]: New zealand --[Governed by]-> Transport services licensing act 1989 0.8498232960700989
+[Provisional driving license]: Learner license --[Issued in]-> New zealand 0.8825306296348572
+[Provisional driving license]: Learner license --[Obtained at]-> Age of 16 0.8774173855781555
+[Provisional driving license]: Learner license --[Eligibility]-> At least 16 years old 0.8725294470787048
+[Provisional driving license]: Driver licensing programs --[Are structured systems]-> New zealand 0.8663100004196167
+[Provisional driving license]: New zealand --[Has]-> Graduated licensing system 0.8635604381561279
+[Provisional driving license]: Driver licensing programs --[Administered by]-> Waka kotahi nz transport agency 0.8539196848869324
+[Provisional driving license]: New zealand --[Governed by]-> Transport services licensing act 1989 0.8498232960700989
+[Legal framework for licensing of drivers]: Learner license --[Issued in]-> New zealand 0.8825306296348572
+[Legal framework for licensing of drivers]: Learner license --[Obtained at]-> Age of 16 0.8774173855781555
+[Legal framework for licensing of drivers]: Learner license --[Eligibility]-> At least 16 years old 0.8725294470787048
+[Legal framework for licensing of drivers]: Driver licensing programs --[Are structured systems]-> New zealand 0.8663100004196167
+[Legal framework for licensing of drivers]: New zealand --[Has]-> Graduated licensing system 0.8635604381561279
+[Legal framework for licensing of drivers]: Driver licensing programs --[Administered by]-> Waka kotahi nz transport agency 0.8539196848869324
+[Legal framework for licensing of drivers]: New zealand --[Governed by]-> Transport services licensing act 1989 0.8498232960700989
+[Full valid driver's license]: Supervisor --[Hold]-> Full valid driver's license 0.7973023653030396
+[Full valid driver's license]: Supervisor --[At least]-> 20 years old 0.782931923866272
+[Full valid driver's license]: Supervisor --[Seated]-> Front passenger seat 0.7354757785797119

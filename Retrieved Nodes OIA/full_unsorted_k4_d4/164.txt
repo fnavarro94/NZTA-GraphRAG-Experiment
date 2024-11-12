@@ -1,0 +1,36 @@
+What is the typical early termination notice period for Let's Get Wellington Moving contracts?
+None
+Seed: clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: Let's Get Wellington Moving
+Seed: information on LGWM construction contracts
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi --[FOLLOWS]-> clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement 0.8482562303543091
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Response --[CONTAINS]-> Waka Kotahi 0.7439332008361816
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi --[PUBLISHES]-> Response 0.7533411383628845
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: response --[CONTAINS]-> Waka Kotahi 0.7404325008392334
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.7440080046653748
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.7503551840782166
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.727258563041687
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7402650117874146
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.7150130271911621
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.6976706981658936
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.7365306615829468
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.8050113320350647
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7904493808746338
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.7631214261054993
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.7911978960037231
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.7616659998893738
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Leisa Coley --[EMPLOYED_BY]-> Waka Kotahi 0.7355777025222778
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Lizette Marais --[EMPLOYED_BY]-> Waka Kotahi 0.7487961053848267
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi --[EMPLOYS]-> Andy Knackstedt 0.7343109846115112
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi --[EMPLOYS]-> Qualified Staff 0.7433520555496216
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.7871184945106506
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: website --[RELATES_TO]-> Waka Kotahi 0.7568845748901367
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi --[RESPONDS_TO]-> OIA request 0.7645482420921326
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi --[RESPONDS_TO]-> request 0.7553749680519104
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi --[PROVIDES]-> OIA-10601-response-georgina-campbell.pdf 0.7539825439453125
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi --[PROVIDES]-> outcome of suspension 0.7685143351554871
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi --[PROVIDES]-> outcome of surrendered 0.7634714841842651
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi --[PROVIDES]-> information on website 0.7485695481300354
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi --[PROVIDES]-> outcome of revoke 0.7664901614189148
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi --[PROVIDES]-> warnings to individuals 0.7548600435256958

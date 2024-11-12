@@ -1,0 +1,36 @@
+How much did Hamilton City Council spend on replacing or fixing stolen or vandalized signs in the last three years?
+None
+Seed: Burgles (Oth Prop) ($500 -$5000) By Ngt
+Seed: Burgles (Oth Prop) ($100 -$1000) By Ngt
+Seed: cost of the current Road to Zero advertising campaign
+Seed: request for pothole repair cost information
+[Burgles (Oth Prop) ($500 -$5000) By Ngt]: Applicant 12 --[CONVICTED]-> Burgles (Oth Prop) ($500 -$5000) By Ngt 0.7967032194137573
+[Burgles (Oth Prop) ($100 -$1000) By Ngt]: Applicant 10 --[CONVICTED]-> Burgles (Oth Prop) ($100 -$1000) By Ngt 0.7967081069946289
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[COST]-> cost of the current Road to Zero advertising campaign 0.7808005809783936
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[LAUNCHED_BY]-> New Zealand Transport Agency 0.7364830374717712
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7524540424346924
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[BASED]-> Wellington 0.7663528919219971
+[cost of the current Road to Zero advertising campaign]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7530322074890137
+[cost of the current Road to Zero advertising campaign]: Golden Mile --[LOCATED]-> Wellington 0.740898609161377
+[cost of the current Road to Zero advertising campaign]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7440670728683472
+[cost of the current Road to Zero advertising campaign]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7540816068649292
+[cost of the current Road to Zero advertising campaign]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7586781978607178
+[cost of the current Road to Zero advertising campaign]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7554944753646851
+[cost of the current Road to Zero advertising campaign]: Wellington --[PART_OF]-> Wellington Region 0.7502769827842712
+[cost of the current Road to Zero advertising campaign]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7617815136909485
+[cost of the current Road to Zero advertising campaign]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.773541271686554
+[cost of the current Road to Zero advertising campaign]: Wellington --[HAS]-> tunnel 0.773648202419281
+[cost of the current Road to Zero advertising campaign]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7392059564590454
+[cost of the current Road to Zero advertising campaign]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7542514204978943
+[cost of the current Road to Zero advertising campaign]: Wellington --[POSTCODE]-> 6141 0.7474740147590637
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7524999380111694
+[cost of the current Road to Zero advertising campaign]: Wellington --[IS_PART_OF]-> New Zealand 0.7451345920562744
+[cost of the current Road to Zero advertising campaign]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7737171649932861
+[cost of the current Road to Zero advertising campaign]: 50 Victoria Street --[IN]-> Wellington 0.7723323702812195
+[cost of the current Road to Zero advertising campaign]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7551903128623962
+[cost of the current Road to Zero advertising campaign]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7601932287216187
+[cost of the current Road to Zero advertising campaign]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.754127025604248
+[cost of the current Road to Zero advertising campaign]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7392715215682983
+[cost of the current Road to Zero advertising campaign]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7447754144668579
+[cost of the current Road to Zero advertising campaign]: NZ Transport Agency --[LOCATED]-> Wellington 0.7553447484970093
+[cost of the current Road to Zero advertising campaign]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7733241319656372

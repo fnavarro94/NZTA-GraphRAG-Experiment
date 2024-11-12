@@ -1,0 +1,34 @@
+How many staff have resigned from NZTA since March 2016?
+None
+Seed: resignations by year since 2014
+Seed: staff resignation data
+Seed: staff joining and resigning data
+Seed: context for resignations
+[resignations by year since 2014]: New Zealand Transport Agency --[PROVIDES]-> staff resignation data 0.8851460218429565
+[resignations by year since 2014]: New Zealand Transport Agency --[PROVIDES]-> resignations by year since 2014 0.8769615292549133
+[resignations by year since 2014]: New Zealand Transport Agency --[PROVIDES]-> staff joining and resigning data 0.8722203373908997
+[resignations by year since 2014]: New Zealand Transport Agency --[PROVIDES]-> context for resignations 0.8698301911354065
+[resignations by year since 2014]: New Zealand Transport Agency --[PROVIDES]-> notes from exit interviews since March 2016 0.8647487163543701
+[resignations by year since 2014]: New Zealand Transport Agency --[HAS_VACANCIES]-> 259 0.8568131923675537
+[resignations by year since 2014]: New Zealand Transport Agency --[EMPLOYEE_COUNT]-> 1343 0.8513010740280151
+[staff resignation data]: New Zealand Transport Agency --[PROVIDES]-> staff resignation data 0.8851460218429565
+[staff resignation data]: New Zealand Transport Agency --[PROVIDES]-> resignations by year since 2014 0.8769615292549133
+[staff resignation data]: New Zealand Transport Agency --[PROVIDES]-> staff joining and resigning data 0.8722203373908997
+[staff resignation data]: New Zealand Transport Agency --[PROVIDES]-> context for resignations 0.8698301911354065
+[staff resignation data]: New Zealand Transport Agency --[PROVIDES]-> notes from exit interviews since March 2016 0.8647487163543701
+[staff resignation data]: New Zealand Transport Agency --[HAS_VACANCIES]-> 259 0.8568131923675537
+[staff resignation data]: New Zealand Transport Agency --[EMPLOYEE_COUNT]-> 1343 0.8513010740280151
+[staff joining and resigning data]: New Zealand Transport Agency --[PROVIDES]-> staff resignation data 0.8851460218429565
+[staff joining and resigning data]: New Zealand Transport Agency --[PROVIDES]-> resignations by year since 2014 0.8769615292549133
+[staff joining and resigning data]: New Zealand Transport Agency --[PROVIDES]-> staff joining and resigning data 0.8722203373908997
+[staff joining and resigning data]: New Zealand Transport Agency --[PROVIDES]-> context for resignations 0.8698301911354065
+[staff joining and resigning data]: New Zealand Transport Agency --[PROVIDES]-> notes from exit interviews since March 2016 0.8647487163543701
+[staff joining and resigning data]: New Zealand Transport Agency --[HAS_VACANCIES]-> 259 0.8568131923675537
+[staff joining and resigning data]: New Zealand Transport Agency --[EMPLOYEE_COUNT]-> 1343 0.8513010740280151
+[context for resignations]: New Zealand Transport Agency --[PROVIDES]-> staff resignation data 0.8851460218429565
+[context for resignations]: New Zealand Transport Agency --[PROVIDES]-> resignations by year since 2014 0.8769615292549133
+[context for resignations]: New Zealand Transport Agency --[PROVIDES]-> staff joining and resigning data 0.8722203373908997
+[context for resignations]: New Zealand Transport Agency --[PROVIDES]-> context for resignations 0.8698301911354065
+[context for resignations]: New Zealand Transport Agency --[PROVIDES]-> notes from exit interviews since March 2016 0.8647487163543701
+[context for resignations]: New Zealand Transport Agency --[HAS_VACANCIES]-> 259 0.8568131923675537
+[context for resignations]: New Zealand Transport Agency --[EMPLOYEE_COUNT]-> 1343 0.8513010740280151

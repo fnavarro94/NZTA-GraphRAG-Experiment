@@ -1,0 +1,34 @@
+Who is the acting National Manager responsible for the reply on Automatic Number Plate Recognition cameras?
+None
+Seed: Acting Senior Manager, Media
+Seed: no notifications of offences detected by speed cameras
+Seed: National Manager, Education and Marketing
+Seed: National correspondent
+[Acting Senior Manager, Media]: New Zealand Transport Agency --[RESPONDS]-> John-Michael Swannix 0.8016409277915955
+[Acting Senior Manager, Media]: Programme Director, NTS --[AT]-> New Zealand Transport Agency 0.7968543171882629
+[Acting Senior Manager, Media]: Senior Manager Media --[AT]-> New Zealand Transport Agency 0.794529914855957
+[Acting Senior Manager, Media]: New Zealand Transport Agency --[PROVIDES]-> verbatim staff comments from 'AskYourTeam' Surveys 0.7941845655441284
+[Acting Senior Manager, Media]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7941489219665527
+[Acting Senior Manager, Media]: New Zealand Transport Agency --[RESPONDED]-> Susan Strongman 0.7934128046035767
+[Acting Senior Manager, Media]: New Zealand Transport Agency --[RESPONDED]-> drivers 0.7922192215919495
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[PROVIDES]-> information on speed cameras 0.8162679672241211
+[no notifications of offences detected by speed cameras]: Ian Duncan --[ACTING_NATIONAL_MANAGER]-> Policy and System Planning 0.8105393648147583
+[no notifications of offences detected by speed cameras]: Senior Media Manager --[ASSOCIATED_WITH]-> andrew.knackstedt@nzta.govt.nz 0.8061211109161377
+[no notifications of offences detected by speed cameras]: New Zealand Transport Agency --[RESPONDS]-> John-Michael Swannix 0.8016409277915955
+[no notifications of offences detected by speed cameras]: reply with NZ Transport Agency Waka Kotahi (NZTA) --[INVOLVES]-> Andy Knackstedt 0.8012450933456421
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.7998952269554138
+[no notifications of offences detected by speed cameras]: Senior Media Manager --[CONTACT]-> andrew.knackstedt@nzta.govt.nz 0.7997615337371826
+[National Manager, Education and Marketing]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.7906093597412109
+[National Manager, Education and Marketing]: Waka Kotahi --[DISCUSS]-> response 0.7892982959747314
+[National Manager, Education and Marketing]: Waka Kotahi --[PUBLISHED]-> response 0.7889800071716309
+[National Manager, Education and Marketing]: Kevin Reid --[PROVIDE]-> response 0.7887911200523376
+[National Manager, Education and Marketing]: New Zealand Transport Agency --[DISCUSSES]-> response 0.7875143885612488
+[National Manager, Education and Marketing]: response --[PROVIDED_BY]-> New Zealand Transport Agency 0.7867847681045532
+[National Manager, Education and Marketing]: Waka Kotahi --[PROVIDES]-> response 0.7861777544021606
+[National correspondent]: Charlie Mitchell --[CORRESPONDENT]-> National correspondent 0.7810790538787842
+[National correspondent]: Jono Galuszka --[REQUESTS]-> information under the Official Information Act 1982 0.7745393514633179
+[National correspondent]: Conan Young --[INQUIRES]-> information under the Official Information Act 1982 0.7678294777870178
+[National correspondent]: Debrin Foxcroft --[REQUESTS]-> information under the Official Information Act 1982 0.7674766778945923
+[National correspondent]: Sam Kelway --[REQUESTS]-> information under the Official Information Act 1982 0.7655626535415649
+[National correspondent]: Joel MacManus --[REQUESTED]-> information under the Official Information Act 1982 0.7643164396286011
+[National correspondent]: Conan Young --[REQUESTS]-> information under the Official Information Act 1982 0.7641036510467529

@@ -1,0 +1,11 @@
+What legislation established the source of funding for road maintenance strategies in New Zealand, which is derived from fuel excise duties and road user charges?
+None
+Seed: Primarily financed through fuel excise duties
+Seed: Funding maintenance and development of roads
+Seed: Fuel excise duties
+Seed: Legislative framework for road safety initiatives
+[Primarily financed through fuel excise duties]: National land transport fund --[Is]-> Primarily financed through fuel excise duties 0.8661221265792847
+[Funding maintenance and development of roads]: Road user charges --[Aimed at]-> Funding maintenance and development of roads 0.8767119646072388
+[Fuel excise duties]: National land transport fund --[Sourced from]-> Fuel excise duties 0.8843120336532593
+[Fuel excise duties]: National land transport fund --[Is financed by]-> Fuel excise duties 0.8761168718338013
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Provides]-> Legislative framework for road safety initiatives 0.8309229016304016

@@ -1,0 +1,36 @@
+What is the abbreviation for the funding source for road maintenance strategies in the country that is implementing the program including the expressway project aimed at improving freight transport efficiency in the region, derived from fuel excise duties and road user charges?
+None
+Seed: Funding maintenance and development of roads
+Seed: Legislative framework for road safety initiatives
+Seed: Framework for implementing road safety campaigns and initiatives
+Seed: Funding local road projects
+[Funding maintenance and development of roads]: Road user charges --[Aimed at]-> Funding maintenance and development of roads 0.8705365061759949
+[Funding maintenance and development of roads]: National land transport fund --[Sourced from]-> Road user charges 0.8523987531661987
+[Funding maintenance and development of roads]: Road user charges --[Calculated]-> Based on distance traveled and vehicle's weight 0.8114947080612183
+[Funding maintenance and development of roads]: Road user charges --[Apply]-> Heavy vehicles 0.8160920143127441
+[Funding maintenance and development of roads]: Road user charges --[Applies to]-> Diesel-powered vehicles 0.8278050422668457
+[Funding maintenance and development of roads]: Road user charges --[Undergone]-> Various reforms since inception 0.8122748732566833
+[Funding maintenance and development of roads]: Road user charges --[Applies to]-> Certain heavy petrol vehicles 0.8178536295890808
+[Funding maintenance and development of roads]: Road user charges --[Introduced in]-> 1978 0.7990669012069702
+[Funding maintenance and development of roads]: Road user charges --[Aligns with]-> New zealand's broader goals of sustainability and reducing greenhouse gas emissions 0.7922928333282471
+[Funding maintenance and development of roads]: Road user charges --[Includes]-> Introduction of electronic ruc systems 0.8034104108810425
+[Funding maintenance and development of roads]: Road user charges --[Administered by]-> Waka kotahi nz transport agency 0.7871752977371216
+[Funding maintenance and development of roads]: Road user charges --[Rates determined by]-> Type of vehicle and weight class 0.8124088048934937
+[Funding maintenance and development of roads]: Road user charges --[Encourages]-> Efficient use of transport resources 0.8253608345985413
+[Funding maintenance and development of roads]: National land transport fund --[Is financed by]-> Road user charges 0.8399900197982788
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Provides]-> Legislative framework for road safety initiatives 0.8276967406272888
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Reflected in]-> Land transport act 1998 0.8079004287719727
+[Legislative framework for road safety initiatives]: Road transport safety --[Governed by]-> Land transport act 1998 0.8043137788772583
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Establishes]-> Legal framework for enforcement of road rules 0.8187938928604126
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Establishes]-> Legal framework for registration of vehicles 0.7981563210487366
+[Legislative framework for road safety initiatives]: Road safety legislation --[Governed by]-> Land transport act 1998 0.81103515625
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Establishes]-> Legal framework for licensing of drivers 0.8043461441993713
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Complemented by]-> Land transport (road user 0.8266105055809021
+[Legislative framework for road safety initiatives]: Vehicle maintenance standards --[Are set forth in]-> Land transport act 1998 0.8001546859741211
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Provides]-> Legal foundation 0.8128362894058228
+[Legislative framework for road safety initiatives]: New zealand --[Has]-> Land transport act 1998 0.7862458229064941
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Outlines]-> Driver licensing 0.8018319606781006
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Outlines]-> Rules for vehicle operation 0.8066134452819824
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Outlines]-> Road safety 0.7972716093063354
+[Legislative framework for road safety initiatives]: Vehicle safety standards --[Are overseen by]-> Land transport act 1998 0.7834270596504211
+[Legislative framework for road safety initiatives]: New zealand --[Governed by]-> Land transport act 1998 0.7741842865943909

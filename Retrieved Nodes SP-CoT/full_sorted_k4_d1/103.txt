@@ -1,0 +1,10 @@
+What is one of the destinations served by the Regional Rail System that connects the capital city of New Zealand, which is linked to the city home to the Te Ara I Whiti (Lightpath) project, by the specific rail line in New Zealand that has been improved as part of the government's investment in upgrading rail infrastructure to support sustainable freight solutions?
+None
+Seed: Transport link between wellington and northern regions of north island
+Seed: Ongoing investments in rail infrastructure
+Seed: Regional transport initiatives
+Seed: New zealand's transport network
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Aims to improve]-> Transport link between wellington and northern regions of north island 0.8509244918823242
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Ongoing investments in rail infrastructure 0.8623437881469727
+[Regional transport initiatives]: Local councils --[Contribute to]-> Regional transport initiatives 0.7860478162765503
+[New zealand's transport network]: Road infrastructure projects --[Play crucial role in]-> New zealand's transport network 0.8611902594566345

@@ -1,0 +1,36 @@
+How can someone challenge a decision made under the Official Information Act?
+None
+Seed: I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.
+Seed: decision making
+Seed: public interest in seeking and receiving confidential legal advice
+Seed: seeking and receiving confidential legal advice
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. --[OFFICIAL_INFORMATION]-> I am refusing this part of your request under section 18(d) of the Act as the information is publicly available. 0.8088490962982178
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: I will respond to each of your questions in turn. --[OFFICIAL_INFORMATION]-> 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. 0.8029297590255737
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act). --[OFFICIAL_INFORMATION]-> I will respond to each of your questions in turn. 0.8180079460144043
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: Request made under the Official Information Act 1982 --[OFFICIAL_INFORMATION]-> Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act). 0.8300280570983887
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: Joel MacManus --[REQUEST]-> Request made under the Official Information Act 1982 0.8413606882095337
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: Request made under the Official Information Act 1982 --[REQUEST_DATE]-> 30 October 2018 0.8589898347854614
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: Request made under the Official Information Act 1982 --[REQUESTED_BY]-> Thomas Coughlan 0.8535303473472595
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.8686705827713013
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: Request made under the Official Information Act 1982 --[REQUESTS]-> New Zealand Transport Agency 0.8442471027374268
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: Request made under the Official Information Act 1982 --[REQUESTS]-> detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) 0.8372523188591003
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: Dear --[OFFICIAL_INFORMATION]-> Request made under the Official Information Act 1982 0.8662376403808594
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: Request made under the Official Information Act 1982 --[CHALLENGES]-> Road To Zero campaign 0.8875606060028076
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: Request made under the Official Information Act 1982 --[REQUESTS]-> information about Road To Zero campaign 0.8638588190078735
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: logic in making this critical decision --[CHALLENGED_BY]-> Request made under the Official Information Act 1982 0.9300686120986938
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: New Zealand Transport Agency --[RESPONDS_TO]-> Request made under the Official Information Act 1982 0.8433259725570679
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: REF: OIA -13915 --[ASSOCIATED_WITH]-> Request made under the Official Information Act 1982 0.8557594418525696
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: Request made under the Official Information Act 1982 --[ASSOCIATED_WITH]-> information under the Official Information Act 1982 0.8668056130409241
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: Request made under the Official Information Act 1982 --[REQUESTED]-> information under the Official Information Act 1982 0.8679190874099731
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: New Zealand Transport Agency --[RESPONDS]-> Request made under the Official Information Act 1982 0.844254732131958
+[decision making]: feedback --[CONTRIBUTES_TO]-> decision making 0.7780090570449829
+[decision making]: feedback --[IS_RESOLVED]-> issues 0.736014187335968
+[decision making]: issues --[RAISED]-> public 0.7857451438903809
+[decision making]: public --[RAISES]-> concerns 0.8052527904510498
+[decision making]: concerns --[RELATING_TO]-> Roads of National Significance 0.8165438175201416
+[decision making]: public transport fare policy review --[AFFECTS]-> public 0.7775272130966187
+[decision making]: public transport fare policy review --[AFFECTS]-> State Highway 1 0.7802478075027466
+[decision making]: Waka Kotahi NZ Transport Agency --[MANAGES]-> public transport fare policy review 0.7444555759429932
+[decision making]: public transport fare policy review --[ENGAGES]-> public 0.7720715403556824
+[decision making]: public transport fare policy review --[CONDUCTED_BY]-> Waka Kotahi NZ Transport Agency 0.7582732439041138
+[decision making]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> public transport fare policy review 0.7381627559661865

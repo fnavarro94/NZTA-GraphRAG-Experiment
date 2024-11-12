@@ -1,0 +1,36 @@
+Who is the Senior Manager responsible for Waka Kotahi’s Education and Marketing regarding this response?
+None
+Seed: Waka Kotahi Senior Project Manager
+Seed: Waka Kotahi
+Seed: Waka Kotahi policy
+Seed: Waka Kotahi Board
+[Waka Kotahi Senior Project Manager]: Waka Kotahi Senior Project Manager --[MANAGES]-> State Highway 25A Rebuild Project 0.8375741243362427
+[Waka Kotahi]: Response --[CONTAINS]-> Waka Kotahi 0.8561810255050659
+[Waka Kotahi]: Waka Kotahi --[PUBLISHES]-> Response 0.8944427967071533
+[Waka Kotahi]: response --[CONTAINS]-> Waka Kotahi 0.8809022903442383
+[Waka Kotahi]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.8680886626243591
+[Waka Kotahi]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.8569366931915283
+[Waka Kotahi]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7791787385940552
+[Waka Kotahi]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.8079198598861694
+[Waka Kotahi]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.7924423217773438
+[Waka Kotahi]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7798715829849243
+[Waka Kotahi]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.8552249670028687
+[Waka Kotahi]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.8353791832923889
+[Waka Kotahi]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8546710014343262
+[Waka Kotahi]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.8473770618438721
+[Waka Kotahi]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.8427499532699585
+[Waka Kotahi]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.842573881149292
+[Waka Kotahi]: Leisa Coley --[EMPLOYED_BY]-> Waka Kotahi 0.8540622591972351
+[Waka Kotahi]: Lizette Marais --[EMPLOYED_BY]-> Waka Kotahi 0.8326276540756226
+[Waka Kotahi]: Waka Kotahi --[EMPLOYS]-> Andy Knackstedt 0.8560787439346313
+[Waka Kotahi]: Waka Kotahi --[EMPLOYS]-> Qualified Staff 0.8739222288131714
+[Waka Kotahi]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.8275055885314941
+[Waka Kotahi]: website --[RELATES_TO]-> Waka Kotahi 0.8494943380355835
+[Waka Kotahi]: Waka Kotahi --[RESPONDS_TO]-> OIA request 0.8433530926704407
+[Waka Kotahi]: Waka Kotahi --[RESPONDS_TO]-> request 0.834793746471405
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> OIA-10601-response-georgina-campbell.pdf 0.8627397418022156
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> outcome of suspension 0.8623315095901489
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> outcome of surrendered 0.8356364369392395
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> information on website 0.8568860292434692
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> outcome of revoke 0.8349514007568359
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> warnings to individuals 0.8570377230644226

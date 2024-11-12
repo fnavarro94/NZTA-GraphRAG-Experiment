@@ -1,0 +1,16 @@
+What significant engineering challenge associated with the North Island Main Trunk Railway, completed in the year when the major railway line in New Zealand being upgraded to enhance its capacity and efficiency for sustainable transport officially completed its construction, marking a significant achievement in New Zealand's railway history, is known for its unique spiral design?
+None
+Seed: North island main trunk railway
+Seed: Cultural significance
+Seed: Critical component of new zealand's transport strategy
+Seed: Unique challenges in transportation
+[North island main trunk railway]: North island main trunk railway --[Features]-> Raurimu spiral 0.8871498703956604
+[North island main trunk railway]: North island main trunk railway --[Began]-> 1880s 0.8777024745941162
+[North island main trunk railway]: North island main trunk railway --[Holds]-> Sustainability 0.8759446740150452
+[North island main trunk railway]: North island main trunk railway --[Is]-> Critical for freight and passenger movement 0.8716166019439697
+[North island main trunk railway]: North island main trunk railway --[Holds]-> Cultural significance 0.8711661100387573
+[North island main trunk railway]: North island main trunk railway --[Completed]-> 1908 0.8693997859954834
+[North island main trunk railway]: North island main trunk railway --[Is]-> Key railway line 0.8685617446899414
+[Cultural significance]: North island main trunk railway --[Holds]-> Cultural significance 0.8711661100387573
+[Critical component of new zealand's transport strategy]: Road safety education --[Is]-> Critical component of new zealand's transport strategy 0.816937267780304
+[Unique challenges in transportation]: New zealand --[Faces]-> Unique challenges in transportation 0.8579486608505249

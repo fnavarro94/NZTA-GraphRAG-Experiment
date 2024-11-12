@@ -1,0 +1,15 @@
+How is the NZTA engaging with regional councils regarding the Choice application?
+None
+Seed: Regional Investment Opportunities
+Seed: wider objectives in Regional Public Transport Plans
+Seed: does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?
+Seed: regional council readiness
+[Regional Investment Opportunities]: Ministry of Business, Innovation and Employment --[ADMINISTERS]-> Regional Investment Opportunities 0.8345450758934021
+[Regional Investment Opportunities]: Kānoa --[ADMINISTERS]-> Regional Investment Opportunities 0.8156194090843201
+[Regional Investment Opportunities]: project artworks --[PART_OF]-> Regional Investment Opportunities 0.8083450794219971
+[Regional Investment Opportunities]: Regional Investment Opportunities --[FUNDED]-> project artworks 0.8042013049125671
+[wider objectives in Regional Public Transport Plans]: wider objectives in Regional Public Transport Plans --[CONTRIBUTES]-> government's transport priorities 0.8225748538970947
+[wider objectives in Regional Public Transport Plans]: underlying principles of the current policy --[CONTRIBUTES]-> wider objectives in Regional Public Transport Plans 0.8158113956451416
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: Amanda Cropp --[REQUESTED]-> does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it? 0.9094824194908142
+[regional council readiness]: payment option --[DEPENDENT_ON]-> regional council readiness 0.8448729515075684
+[regional council readiness]: regional council readiness --[READY_FOR]-> integration of payments 0.8217708468437195

@@ -1,0 +1,36 @@
+In what year did the project that aims to develop a high-quality public transport corridor in Wellington begin?
+None
+Seed: Significant step towards creating sustainable and user-friendly public transport system
+Seed: Transport link between wellington and northern regions of north island
+Seed: Meet the evolving needs of new zealand's transport system
+Seed: Promoting public transport initiatives
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Represents]-> Significant step towards creating sustainable and user-friendly public transport system 0.8819208145141602
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Initiated in response to]-> Increasing urbanization 0.882498025894165
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington regional rail plan --[Developed in response to]-> Increasing urbanization 0.8636003732681274
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington regional rail plan --[Aims to]-> Ensure that rail network meets needs of community 0.8309565186500549
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington regional rail plan --[Is]-> Strategic framework 0.8530519604682922
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Is]-> Strategic framework 0.8795210123062134
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Objectives include]-> Integration of transport modes 0.8664133548736572
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Objectives include]-> Community engagement 0.8677370548248291
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Objectives include]-> Sustainability 0.8520267605781555
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Key initiatives include]-> Infrastructure upgrades 0.8742271661758423
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Aimed at]-> Improving accessibility 0.872621476650238
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Aimed at]-> Enhancing efficiency 0.876124382019043
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Key initiatives include]-> Smart ticketing systems 0.8619004487991333
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Objectives include]-> Enhancing service quality 0.8773477077484131
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Developed by]-> Greater wellington regional council 0.8852235674858093
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Initiated in response to]-> Traffic congestion 0.875737190246582
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Aimed at]-> Promoting sustainability 0.880703330039978
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Key initiatives include]-> Light rail development 0.8725583553314209
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Key initiatives include]-> Bus rapid transit 0.8688243627548218
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Outlines]-> Comprehensive approach 0.8812780380249023
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Initiated in response to]-> Need for environmentally friendly transport system 0.8703118562698364
+[Significant step towards creating sustainable and user-friendly public transport system]: Auckland transport plan --[Is]-> Strategic framework 0.8364686369895935
+[Significant step towards creating sustainable and user-friendly public transport system]: Auckland transport plan --[Aligns with]-> Local government initiatives 0.8317002058029175
+[Significant step towards creating sustainable and user-friendly public transport system]: Auckland transport plan --[Includes]-> Active transport initiatives 0.8375084400177002
+[Significant step towards creating sustainable and user-friendly public transport system]: Auckland transport plan --[Includes]-> Road network enhancements 0.8178955912590027
+[Significant step towards creating sustainable and user-friendly public transport system]: Auckland transport plan --[Includes]-> Public transport improvements 0.8355910778045654
+[Significant step towards creating sustainable and user-friendly public transport system]: Auckland transport plan --[Aligns with]-> Broader national transport policies 0.8187768459320068
+[Significant step towards creating sustainable and user-friendly public transport system]: Auckland transport plan --[Includes]-> Sustainability and resilience 0.8221842646598816
+[Significant step towards creating sustainable and user-friendly public transport system]: Auckland transport plan --[Emphasizes]-> Reducing greenhouse gas emissions 0.8124166131019592
+[Significant step towards creating sustainable and user-friendly public transport system]: Auckland transport plan --[Emphasizes]-> Need for sustainable transport system 0.827541172504425

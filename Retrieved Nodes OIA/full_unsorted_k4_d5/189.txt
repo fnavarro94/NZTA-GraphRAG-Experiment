@@ -1,0 +1,36 @@
+How are exemptions for wearing bicycle and motorcycle helmets granted in New Zealand?
+None
+Seed: exemptions
+Seed: instances where a driver and/or passenger may automatically be excused from the requirement to utilise a child restrain and seatbelt
+Seed: grant formal exemptions
+Seed: an adherent of the Sikh religion to be excused from wearing a motorcycle helmet, providing they will not be travelling at a speed exceeding 50kmph
+[exemptions]: New Zealand Transport Agency --[GRANTS]-> exemptions 0.8846818208694458
+[exemptions]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8016507625579834
+[exemptions]: New Zealand Transport Agency --[BASED]-> Wellington 0.8174444437026978
+[exemptions]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8106458783149719
+[exemptions]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.8119446039199829
+[exemptions]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7756974101066589
+[exemptions]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.7715733647346497
+[exemptions]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7731425166130066
+[exemptions]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.8056585788726807
+[exemptions]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.8093031048774719
+[exemptions]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7874408960342407
+[exemptions]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7642207145690918
+[exemptions]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7704379558563232
+[exemptions]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7404114603996277
+[exemptions]: Wellington --[CONTAINS]-> Private Bag 6995 0.7942488193511963
+[exemptions]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8243440985679626
+[exemptions]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8066166639328003
+[exemptions]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.8018395900726318
+[exemptions]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7921481728553772
+[exemptions]: 50 Victoria Street --[IN]-> Wellington 0.762218713760376
+[exemptions]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.8010625839233398
+[exemptions]: New Zealand Transport Agency --[LOCATED]-> 50 Victoria Street 0.8035918474197388
+[exemptions]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7678832411766052
+[exemptions]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7646611332893372
+[exemptions]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7795931696891785
+[exemptions]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7549999952316284
+[exemptions]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7735992074012756
+[exemptions]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7995514273643494
+[exemptions]: New Zealand Transport Agency --[CONTACT]-> Wellington 6141 0.798721969127655
+[exemptions]: Wellington 6141 --[POSTAL_ADDRESS]-> New Zealand 0.771882176399231

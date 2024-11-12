@@ -1,0 +1,36 @@
+What standards must retroreflective sheeting for black background plates comply with in New Zealand?
+None
+Seed: retroreflective sheeting for use in New Zealand
+Seed: performance requirements for retroreflective sheeting
+Seed: information on retroreflective sheeting
+Seed: NZTA M25 Retroreflective sheeting
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi --[APPROVES]-> retroreflective sheeting for use in New Zealand 0.9118884801864624
+[retroreflective sheeting for use in New Zealand]: Response --[CONTAINS]-> Waka Kotahi 0.753669261932373
+[retroreflective sheeting for use in New Zealand]: response --[CONTAINS]-> Waka Kotahi 0.7485291361808777
+[retroreflective sheeting for use in New Zealand]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.7527109384536743
+[retroreflective sheeting for use in New Zealand]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.7497161626815796
+[retroreflective sheeting for use in New Zealand]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7298780083656311
+[retroreflective sheeting for use in New Zealand]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7291250228881836
+[retroreflective sheeting for use in New Zealand]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.753939151763916
+[retroreflective sheeting for use in New Zealand]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.758093535900116
+[retroreflective sheeting for use in New Zealand]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.7462537884712219
+[retroreflective sheeting for use in New Zealand]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.7847014665603638
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7734166383743286
+[retroreflective sheeting for use in New Zealand]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.7617611885070801
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.7673728466033936
+[retroreflective sheeting for use in New Zealand]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.7410085201263428
+[retroreflective sheeting for use in New Zealand]: Leisa Coley --[EMPLOYED_BY]-> Waka Kotahi 0.7262752652168274
+[retroreflective sheeting for use in New Zealand]: Lizette Marais --[EMPLOYED_BY]-> Waka Kotahi 0.7187377214431763
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi --[EMPLOYS]-> Andy Knackstedt 0.7276859283447266
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi --[EMPLOYS]-> Qualified Staff 0.7387204170227051
+[retroreflective sheeting for use in New Zealand]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.7933731079101562
+[retroreflective sheeting for use in New Zealand]: website --[RELATES_TO]-> Waka Kotahi 0.7582231163978577
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi --[RESPONDS_TO]-> OIA request 0.7433322668075562
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi --[RESPONDS_TO]-> request 0.7349599599838257
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi --[PROVIDES]-> OIA-10601-response-georgina-campbell.pdf 0.7527409791946411
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi --[PROVIDES]-> outcome of suspension 0.7586009502410889
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi --[PROVIDES]-> outcome of surrendered 0.7293273210525513
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi --[PROVIDES]-> information on website 0.7535497546195984
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi --[PROVIDES]-> outcome of revoke 0.7629362344741821
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi --[PROVIDES]-> warnings to individuals 0.7493331432342529
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi --[PROVIDES]-> Transport Data 0.765828013420105

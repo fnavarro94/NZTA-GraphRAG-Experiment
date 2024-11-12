@@ -1,0 +1,30 @@
+How does NZTA handle reports of threats or attacks against driving test examiners?
+None
+Seed: Speed and Drunk Driving Enforcement
+Seed: national, regional and local road safety promotion and education campaigns
+Seed: Road Policing Activities
+Seed: breaches of rules or regulations
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[PROVIDES]-> https://www.nzta.govt.nz/assets/resources/road-policing-programme/docs/rpp-2021-24.pdf 0.8472787737846375
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[PROVIDES]-> Road Policing Activities 0.8016133308410645
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[DOUBLES]-> Speed and Drunk Driving Enforcement 0.7971984148025513
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[FOCUSES_ON]-> Restraints, Impairment, Distraction, Speed 0.7951189279556274
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[ALLOCATES]-> $1.24 billion 0.7636899352073669
+[national, regional and local road safety promotion and education campaigns]: Traffic Crash Reports --[RECEIVED_FROM]-> NZ Police 0.8733664751052856
+[national, regional and local road safety promotion and education campaigns]: NZ Police --[PROVIDES]-> Traffic Crash Reports 0.867802083492279
+[national, regional and local road safety promotion and education campaigns]: Traffic Crash Report --[RECEIVED_FROM]-> NZ Police 0.8656398057937622
+[national, regional and local road safety promotion and education campaigns]: NZ Police --[INVESTIGATES]-> road traffic crashes 0.8654069304466248
+[national, regional and local road safety promotion and education campaigns]: NZ Police --[PROVIDES]-> Traffic Crash Report 0.8634459376335144
+[national, regional and local road safety promotion and education campaigns]: New Zealand --[REGULATES]-> Vehicle Inspection 0.8628830909729004
+[national, regional and local road safety promotion and education campaigns]: Traffic Crash Report --[PROVIDED_BY]-> NZ Police 0.8610339164733887
+[Road Policing Activities]: Road Safety Partnership Programme --[PROVIDES]-> https://www.nzta.govt.nz/assets/resources/road-policing-programme/docs/rpp-2021-24.pdf 0.8472787737846375
+[Road Policing Activities]: Road Safety Partnership Programme --[PROVIDES]-> Road Policing Activities 0.8016133308410645
+[Road Policing Activities]: Road Safety Partnership Programme --[DOUBLES]-> Speed and Drunk Driving Enforcement 0.7971984148025513
+[Road Policing Activities]: Road Safety Partnership Programme --[FOCUSES_ON]-> Restraints, Impairment, Distraction, Speed 0.7951189279556274
+[Road Policing Activities]: Road Safety Partnership Programme --[ALLOCATES]-> $1.24 billion 0.7636899352073669
+[breaches of rules or regulations]: Audits, Reviews, Investigations --[CONDUCTED_BY]-> New Zealand Transport Agency 0.880661129951477
+[breaches of rules or regulations]: NZ Transport Agency --[REVIEWS]-> risk rating 0.8780149221420288
+[breaches of rules or regulations]: questions and responses --[FROM]-> NZ Transport Agency 0.8776572942733765
+[breaches of rules or regulations]: New Zealand Transport Agency --[CONDUCTS]-> Audits, Reviews, Investigations 0.8771914839744568
+[breaches of rules or regulations]: risk rating --[REVIEWED_BY]-> NZ Transport Agency 0.8749837875366211
+[breaches of rules or regulations]: New Zealand Police --[NOTIFIES]-> New Zealand Transport Agency 0.8741907477378845
+[breaches of rules or regulations]: Traffic Crash Reports --[RECEIVED_FROM]-> NZ Police 0.8733664751052856

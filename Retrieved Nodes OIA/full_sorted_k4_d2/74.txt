@@ -1,0 +1,28 @@
+Who is the Senior Manager responsible for Waka Kotahi’s Education and Marketing regarding this response?
+None
+Seed: Waka Kotahi Senior Project Manager
+Seed: Waka Kotahi
+Seed: Waka Kotahi policy
+Seed: Waka Kotahi Board
+[Waka Kotahi Senior Project Manager]: Waka Kotahi Senior Project Manager --[MANAGES]-> State Highway 25A Rebuild Project 0.8375741243362427
+[Waka Kotahi]: Senior Media Manager --[AT]-> Waka Kotahi 0.9147096872329712
+[Waka Kotahi]: Senior Manager, Research and Analytics --[AT]-> Waka Kotahi 0.9145303964614868
+[Waka Kotahi]: Waka Kotahi --[PUBLISHED]-> response letter 0.8983920812606812
+[Waka Kotahi]: response letter --[DISCUSSED]-> Waka Kotahi 0.8981145620346069
+[Waka Kotahi]: Waka Kotahi --[GENERAL]-> Manager 0.8967124223709106
+[Waka Kotahi]: Waka Kotahi --[PUBLISHES]-> Response 0.8944427967071533
+[Waka Kotahi]: Waka Kotahi --[DISCUSS]-> response letter 0.8908989429473877
+[Waka Kotahi policy]: Senior Media Manager --[AT]-> Waka Kotahi 0.9147096872329712
+[Waka Kotahi policy]: Senior Manager, Research and Analytics --[AT]-> Waka Kotahi 0.9145303964614868
+[Waka Kotahi policy]: Waka Kotahi --[PUBLISHED]-> response letter 0.8983920812606812
+[Waka Kotahi policy]: response letter --[DISCUSSED]-> Waka Kotahi 0.8981145620346069
+[Waka Kotahi policy]: Waka Kotahi --[GENERAL]-> Manager 0.8967124223709106
+[Waka Kotahi policy]: Waka Kotahi --[PUBLISHES]-> Response 0.8944427967071533
+[Waka Kotahi policy]: Waka Kotahi --[DISCUSS]-> response letter 0.8908989429473877
+[Waka Kotahi Board]: Waka Kotahi --[COLLABORATES_WITH]-> Auckland Transport 0.8374497890472412
+[Waka Kotahi Board]: Waka Kotahi Board --[SIGNED_OFF]-> Auckland Transport 0.7986079454421997
+[Waka Kotahi Board]: Auckland Transport --[SIGNED_OFF]-> Waka Kotahi Board 0.7931622266769409
+[Waka Kotahi Board]: Auckland Transport --[RESPONSIBLE_FOR]-> AT Mobile app 0.7496881484985352
+[Waka Kotahi Board]: Auckland Transport --[CONTACT]-> officialinformation@at.govt.nz 0.7435124516487122
+[Waka Kotahi Board]: Auckland Transport --[DEVELOPS]-> AT Mobile app 0.729252815246582
+[Waka Kotahi Board]: Auckland Transport --[MANAGES]-> roads 0.7271343469619751

@@ -1,0 +1,29 @@
+Where can data about daily traffic volumes on Hewletts Road be found?
+None
+Seed: Open Data portal for information about daily traffic volumes on Hewletts Road
+Seed: traffic counter sites on Hewletts Road
+Seed: Road Traffic Volumes
+Seed: traffic on the roads
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Open Data portal for information about daily traffic volumes on Hewletts Road --[LINKED_TO]-> https://maphub.nzta.govt.nz/public/?appid=31305d4c1c794c1188a87da0d3e85d04 0.9535813331604004
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.908386766910553
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.8663623332977295
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.8379228711128235
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8159463405609131
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: www.nzta.govt.nz --[OF]-> Waka Kotahi NZ Transport Agency 0.8108065128326416
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.8063448667526245
+[traffic counter sites on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.908386766910553
+[traffic counter sites on Hewletts Road]: traffic counter sites on Hewletts Road --[DOES_NOT]-> separate heavy or light vehicles 0.8952828049659729
+[traffic counter sites on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.8663623332977295
+[traffic counter sites on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.8379228711128235
+[traffic counter sites on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8159463405609131
+[traffic counter sites on Hewletts Road]: www.nzta.govt.nz --[OF]-> Waka Kotahi NZ Transport Agency 0.8108065128326416
+[traffic counter sites on Hewletts Road]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.8063448667526245
+[Road Traffic Volumes]: Larger Ferries --[AFFECTS]-> Road Traffic Volumes 0.8474365472793579
+[Road Traffic Volumes]: Road Traffic Volumes --[INCREASES]-> Marlborough Region 0.8400996923446655
+[Road Traffic Volumes]: Marlborough Region --[REQUIRES]-> Road Network Changes 0.8039298057556152
+[Road Traffic Volumes]: Interislander Ferries --[INTRODUCES]-> Larger Ferries 0.7578505277633667
+[traffic on the roads]: Red level --[AFFECTS]-> traffic on the roads 0.8270233869552612
+[traffic on the roads]: Orange level --[AFFECTS]-> traffic on the roads 0.8193462491035461
+[traffic on the roads]: Covid-19 pandemic --[AFFECTS]-> road traffic 0.7994634509086609
+[traffic on the roads]: Covid-19 pandemic --[AFFECTS]-> traffic on the roads 0.7988927364349365
+[traffic on the roads]: Covid-19 pandemic --[AFFECTS]-> road crashes 0.7789002656936646

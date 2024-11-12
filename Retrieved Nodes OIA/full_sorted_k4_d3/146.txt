@@ -1,0 +1,34 @@
+Were any draft letters regarding the Rainbow Crossing ever sent to Wellington City Council?
+None
+Seed: Wellington's Rainbow Crossing proposal
+Seed: safety of Wellington's Rainbow Crossing proposal
+Seed: Wellington City Council
+Seed: one crossing near Daniell Street
+[Wellington's Rainbow Crossing proposal]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.9070554971694946
+[Wellington's Rainbow Crossing proposal]: suggested action to address concerns --[RELATES_TO]-> Wellington's Rainbow Crossing proposal 0.8727091550827026
+[Wellington's Rainbow Crossing proposal]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8625194430351257
+[Wellington's Rainbow Crossing proposal]: New Zealand Transport Agency --[collaborating]-> Wellington City Council 0.8605329394340515
+[Wellington's Rainbow Crossing proposal]: New Zealand --[HOME_OF]-> Wellington City Council 0.8597928881645203
+[Wellington's Rainbow Crossing proposal]: safety of Wellington's Rainbow Crossing proposal --[RAISES_CONCERNS]-> New Zealand Transport Agency 0.8511121273040771
+[Wellington's Rainbow Crossing proposal]: Letter --[DISCUSS]-> NZ Transport Agency 0.8502904176712036
+[safety of Wellington's Rainbow Crossing proposal]: draft letters --[UNSIGNED]-> Wellington City Council 0.9135556817054749
+[safety of Wellington's Rainbow Crossing proposal]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.9070554971694946
+[safety of Wellington's Rainbow Crossing proposal]: correspondence, attachments and briefings --[REGARDS]-> safety of Wellington's Rainbow Crossing proposal 0.8798844814300537
+[safety of Wellington's Rainbow Crossing proposal]: suggested action to address concerns --[RELATES_TO]-> Wellington's Rainbow Crossing proposal 0.8727091550827026
+[safety of Wellington's Rainbow Crossing proposal]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8625194430351257
+[safety of Wellington's Rainbow Crossing proposal]: initiatives --[COLLABORATED_BY]-> Wellington City Council 0.8624562621116638
+[safety of Wellington's Rainbow Crossing proposal]: New Zealand Transport Agency --[collaborating]-> Wellington City Council 0.8605329394340515
+[Wellington City Council]: draft letters --[UNSIGNED]-> Wellington City Council 0.9135556817054749
+[Wellington City Council]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.9070554971694946
+[Wellington City Council]: correspondence, attachments and briefings --[REGARDS]-> safety of Wellington's Rainbow Crossing proposal 0.8798844814300537
+[Wellington City Council]: suggested action to address concerns --[RELATES_TO]-> Wellington's Rainbow Crossing proposal 0.8727091550827026
+[Wellington City Council]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8625194430351257
+[Wellington City Council]: initiatives --[COLLABORATED_BY]-> Wellington City Council 0.8624562621116638
+[Wellington City Council]: New Zealand Transport Agency --[collaborating]-> Wellington City Council 0.8605329394340515
+[one crossing near Daniell Street]: New Zealand --[HOME_OF]-> Wellington City Council 0.8597928881645203
+[one crossing near Daniell Street]: Wellington --[IS_PART_OF]-> New Zealand 0.8297732472419739
+[one crossing near Daniell Street]: New Zealand --[HAS_CAPITAL]-> Wellington 0.828008770942688
+[one crossing near Daniell Street]: Wellington --[PART_OF]-> New Zealand 0.82764732837677
+[one crossing near Daniell Street]: New Zealand --[CONTAINS]-> Wellington 0.8239747285842896
+[one crossing near Daniell Street]: Wellington 6141 --[POSTAL_ADDRESS]-> New Zealand 0.8192499876022339
+[one crossing near Daniell Street]: Wellington Gateway Partnership --[PART_OF]-> New Zealand 0.8169435262680054

@@ -1,0 +1,34 @@
+Does Waka Kotahi provide data distinguishing private vehicle movements on Hewletts Road?
+None
+Seed: information on daily private vehicle movements
+Seed: traffic counter sites on Hewletts Road
+Seed: Open Data portal for information about daily traffic volumes on Hewletts Road
+Seed: Waka Kotahi N Z Transport Agency
+[information on daily private vehicle movements]: Waka Kotahi --[PROVIDES]-> Transport Data 0.9142520427703857
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.9115909934043884
+[information on daily private vehicle movements]: transport data --[PROVIDED_BY]-> Waka Kotahi 0.909089982509613
+[information on daily private vehicle movements]: Data --[PROVIDED]-> Waka Kotahi N Z Transport Agency 0.9045767784118652
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.8958986401557922
+[information on daily private vehicle movements]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.8897861242294312
+[information on daily private vehicle movements]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.8881874084472656
+[traffic counter sites on Hewletts Road]: Waka Kotahi --[PROVIDES]-> Transport Data 0.9142520427703857
+[traffic counter sites on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.9115909934043884
+[traffic counter sites on Hewletts Road]: transport data --[PROVIDED_BY]-> Waka Kotahi 0.909089982509613
+[traffic counter sites on Hewletts Road]: Data --[PROVIDED]-> Waka Kotahi N Z Transport Agency 0.9045767784118652
+[traffic counter sites on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.8958986401557922
+[traffic counter sites on Hewletts Road]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.8897861242294312
+[traffic counter sites on Hewletts Road]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.8881874084472656
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi --[PROVIDES]-> Transport Data 0.9142520427703857
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.9115909934043884
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: transport data --[PROVIDED_BY]-> Waka Kotahi 0.909089982509613
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Data --[PROVIDED]-> Waka Kotahi N Z Transport Agency 0.9045767784118652
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.8958986401557922
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.8897861242294312
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.8881874084472656
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi --[PROVIDES]-> Transport Data 0.9142520427703857
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.9115909934043884
+[Waka Kotahi N Z Transport Agency]: transport data --[PROVIDED_BY]-> Waka Kotahi 0.909089982509613
+[Waka Kotahi N Z Transport Agency]: Data --[PROVIDED]-> Waka Kotahi N Z Transport Agency 0.9045767784118652
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.8958986401557922
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.8897861242294312
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.8881874084472656

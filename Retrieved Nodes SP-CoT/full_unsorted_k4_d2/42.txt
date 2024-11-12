@@ -1,0 +1,36 @@
+Which country hosted the adoption of the international agreement that promotes road safety and the harmonization of traffic regulations among member countries, to which New Zealand is a signatory?
+None
+Seed: New zealand's commitment to international standards in road safety and traffic management
+Seed: New zealand's road safety initiatives
+Seed: New zealand's national road traffic laws
+Seed: Significant shift in new zealand's approach to road safety
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Reflects]-> New zealand's commitment to international standards in road safety and traffic management 0.8843696117401123
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Aiming to]-> Reduce road traffic accidents and fatalities 0.8274402022361755
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Reflected in]-> Land transport act 1998 0.8215301036834717
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Emphasis on]-> Standardized road signs and signals 0.8140887022018433
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Aimed at]-> Facilitating international road traffic 0.8430502414703369
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Integrated into]-> New zealand's national road traffic laws 0.873329222202301
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Ratified by]-> Numerous countries 0.8471333980560303
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Aimed at]-> Promoting road safety 0.8369370102882385
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Adopted]-> Graduated licensing system 0.8300062417984009
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Reflected in]-> Road user rule 2004 0.8144979476928711
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Establishes]-> Uniform rules for road users 0.8185577988624573
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Promotes]-> Responsible use of vehicles 0.8231906294822693
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Aiming to]-> Novice drivers 0.8034040927886963
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Promotes]-> Safe driving practices 0.8250807523727417
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Instrumental in]-> Shaping new zealand's transport policies 0.866294264793396
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Provisions on]-> Driver licensing and vehicle registration 0.8110724091529846
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Implemented by]-> New zealand transport agency 0.8712474703788757
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Is]-> International treaty 0.850570797920227
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Foundational element in]-> Promoting safe and efficient road use 0.8336513042449951
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Influenced]-> New zealand's road safety initiatives 0.8788776397705078
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Contributes to]-> Cohesive framework for road traffic regulations 0.8310966491699219
+[New zealand's commitment to international standards in road safety and traffic management]: New zealand --[Signatory to]-> Vienna convention on road traffic 0.8935919404029846
+[New zealand's road safety initiatives]: Vienna convention on road traffic --[Influenced]-> New zealand's road safety initiatives 0.8788776397705078
+[New zealand's road safety initiatives]: Vienna convention on road traffic --[Aiming to]-> Reduce road traffic accidents and fatalities 0.8274402022361755
+[New zealand's road safety initiatives]: Vienna convention on road traffic --[Reflected in]-> Land transport act 1998 0.8215301036834717
+[New zealand's road safety initiatives]: Vienna convention on road traffic --[Emphasis on]-> Standardized road signs and signals 0.8140887022018433
+[New zealand's road safety initiatives]: Vienna convention on road traffic --[Aimed at]-> Facilitating international road traffic 0.8430502414703369
+[New zealand's road safety initiatives]: Vienna convention on road traffic --[Integrated into]-> New zealand's national road traffic laws 0.873329222202301
+[New zealand's road safety initiatives]: Vienna convention on road traffic --[Ratified by]-> Numerous countries 0.8471333980560303
+[New zealand's road safety initiatives]: Vienna convention on road traffic --[Aimed at]-> Promoting road safety 0.8369370102882385

@@ -1,0 +1,36 @@
+What is the abbreviation for the program that includes the expressway project aimed at improving freight transport efficiency in the region in New Zealand?
+None
+Seed: Efficiency of freight transport in region
+Seed: Regional transport initiatives
+Seed: Significant transport infrastructure project
+Seed: Enhancement of new zealand's transport infrastructure
+[Efficiency of freight transport in region]: Waikato expressway --[Significantly enhances]-> Efficiency of freight transport in region 0.8931275606155396
+[Efficiency of freight transport in region]: Waikato expressway --[Is part of]-> National land transport programme 0.879420816898346
+[Efficiency of freight transport in region]: National land transport programme --[Is]-> Key component of new zealand's transport planning framework 0.8686312437057495
+[Efficiency of freight transport in region]: National land transport programme --[Updated]-> Every three years 0.7980406880378723
+[Efficiency of freight transport in region]: National land transport programme --[Promotes]-> Environmental sustainability 0.7965489625930786
+[Efficiency of freight transport in region]: National land transport programme --[Supports]-> Economic growth 0.79962158203125
+[Efficiency of freight transport in region]: National land transport programme --[Is]-> Key framework 0.8245217204093933
+[Efficiency of freight transport in region]: National land transport programme --[Aims to]-> Enhance sustainability 0.812446117401123
+[Efficiency of freight transport in region]: National land transport programme --[Aims to]-> Enhance efficiency 0.8320739269256592
+[Efficiency of freight transport in region]: National land transport programme --[Developed by]-> Waka kotahi nz transport agency 0.8531498312950134
+[Efficiency of freight transport in region]: National land transport programme --[Funded through]-> Government revenue 0.8155875205993652
+[Efficiency of freight transport in region]: National land transport programme --[Prioritizes projects]-> Align with regional transport plans 0.8297717571258545
+[Efficiency of freight transport in region]: National land transport programme --[Aims to]-> Enhance safety 0.8019702434539795
+[Efficiency of freight transport in region]: National land transport programme --[Established under]-> Land transport management act 2003 0.81278395652771
+[Efficiency of freight transport in region]: National land transport programme --[Prioritizes projects]-> Align with national transport strategies 0.8210946917533875
+[Efficiency of freight transport in region]: National land transport programme --[Is]-> Developed through collaborative process involving waka kotahi 0.8182606101036072
+[Efficiency of freight transport in region]: National land transport programme --[Is]-> Developed through collaborative process 0.8178977966308594
+[Efficiency of freight transport in region]: National land transport programme --[Is]-> Developed through collaborative process involving local councils 0.8131348490715027
+[Efficiency of freight transport in region]: National land transport programme --[Is]-> Developed through collaborative process involving regional transport committees 0.8232236504554749
+[Efficiency of freight transport in region]: National land transport programme --[Is]-> Key mechanism 0.8190501928329468
+[Efficiency of freight transport in region]: National land transport programme --[Allocates]-> Funding for transport projects 0.8174654245376587
+[Efficiency of freight transport in region]: National land transport programme --[Developed in consultation with]-> Regional councils and local authorities 0.8344338536262512
+[Efficiency of freight transport in region]: Waikato expressway --[Aims to improve]-> Travel times and safety between auckland and hamilton 0.852462887763977
+[Efficiency of freight transport in region]: Waikato expressway --[Includes]-> Several new sections of road and upgrades to existing routes 0.8251656889915466
+[Regional transport initiatives]: Local councils --[Contribute to]-> Regional transport initiatives 0.8136478662490845
+[Regional transport initiatives]: Road safety authority --[Collaborates with]-> Local councils 0.765701174736023
+[Regional transport initiatives]: Road safety authority --[Collaborates with]-> Law enforcement agencies 0.7596861720085144
+[Regional transport initiatives]: Road safety authority --[Operates under]-> Ministry of transport 0.7896773815155029
+[Regional transport initiatives]: Road safety authority --[Advocates for]-> Infrastructure improvements 0.7979365587234497
+[Regional transport initiatives]: Road safety authority --[Emphasizes]-> Need for holistic view of road safety 0.7694726586341858

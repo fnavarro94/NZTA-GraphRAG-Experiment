@@ -1,0 +1,10 @@
+What major arterial route enhances accessibility between Auckland and Onehunga, particularly for travel to one of the major airports in New Zealand's transport infrastructure as of 2023?
+None
+Seed: Future of transport in new zealand
+Seed: Access to auckland airport and other regions of the north island
+Seed: Strategically located near major arterial routes
+Seed: Wider transport network of new zealand
+[Future of transport in new zealand]: Auckland airport --[Key player]-> Future of transport in new zealand 0.8787257671356201
+[Access to auckland airport and other regions of the north island]: State highway 20 --[Facilitates]-> Access to auckland airport and other regions of the north island 0.8455373048782349
+[Strategically located near major arterial routes]: Onehunga --[Is]-> Strategically located near major arterial routes 0.8761754631996155
+[Wider transport network of new zealand]: Auckland airport --[Well-connected]-> Wider transport network of new zealand 0.8628103733062744

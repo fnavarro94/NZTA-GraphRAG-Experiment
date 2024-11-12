@@ -1,0 +1,33 @@
+What organization emerged from the country known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, and is responsible for the term that describes the regular activities performed to keep roads safe and functional, including vegetation control, litter removal, and drainage maintenance, during its establishment in 2008?
+None
+Seed: Crucial role in promoting road safety
+Seed: Critical component of new zealand's transport strategy
+Seed: Growing emphasis on sustainable transport solutions
+Seed: Framework for implementing road safety campaigns and initiatives
+[Crucial role in promoting road safety]: Education and awareness programs --[Play]-> Crucial role in promoting road safety 0.8233276605606079
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about safe driving practices 0.8033130764961243
+[Crucial role in promoting road safety]: Education and awareness programs --[Include]-> Road safety week 0.7931122779846191
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about importance of seatbelt use 0.7619487643241882
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about dangers of distracted driving 0.7612120509147644
+[Crucial role in promoting road safety]: Education and awareness programs --[Include]-> Belt up campaign 0.7610414028167725
+[Critical component of new zealand's transport strategy]: New zealand road safety strategy --[Established by]-> New zealand government 0.8241326808929443
+[Critical component of new zealand's transport strategy]: Community engagement --[Is]-> Critical aspect of transport planning 0.8241167068481445
+[Critical component of new zealand's transport strategy]: Road safety education --[Is]-> Critical component of new zealand's transport strategy 0.8233523368835449
+[Critical component of new zealand's transport strategy]: Nzta --[Plays]-> Pivotal role in overseeing road condition monitoring activities 0.823244571685791
+[Critical component of new zealand's transport strategy]: Road safety education --[Implemented by]-> Non-governmental organizations 0.8194912672042847
+[Critical component of new zealand's transport strategy]: Community engagement --[Plays a vital role in]-> Building road network resilience 0.8184688091278076
+[Critical component of new zealand's transport strategy]: New zealand government --[Developed]-> Various road safety strategies over the years 0.8144330978393555
+[Growing emphasis on sustainable transport solutions]: New zealand transport agency --[Established in]-> 2008 0.8341043591499329
+[Growing emphasis on sustainable transport solutions]: Vienna convention on road traffic --[Foundational element in]-> Promoting safe and efficient road use 0.83086758852005
+[Growing emphasis on sustainable transport solutions]: Regional transport planning --[Is]-> Critical component 0.8293023109436035
+[Growing emphasis on sustainable transport solutions]: Transport infrastructure development --[Is crucial for]-> Addressing geographical challenges 0.8288512825965881
+[Growing emphasis on sustainable transport solutions]: New zealand transport agency --[Plays]-> Pivotal role in conducting forecasts 0.8278120160102844
+[Growing emphasis on sustainable transport solutions]: Transport sector --[Is]-> Critical component of national economy 0.8269331455230713
+[Growing emphasis on sustainable transport solutions]: New zealand transport agency --[Is responsible for]-> Road networks 0.8265587091445923
+[Framework for implementing road safety campaigns and initiatives]: Land transport act --[Provides]-> Framework for implementing road safety campaigns and initiatives 0.8240242600440979
+[Framework for implementing road safety campaigns and initiatives]: Land transport act --[Aims to create]-> Comprehensive framework for safe and efficient movement of people and goods 0.8163177967071533
+[Framework for implementing road safety campaigns and initiatives]: Land transport act --[Enacted in]-> 1998 0.8015256524085999
+[Framework for implementing road safety campaigns and initiatives]: Land transport act --[Complemented by]-> Regulations and codes 0.8012712001800537
+[Framework for implementing road safety campaigns and initiatives]: Land transport management act 2003 --[Is]-> Key piece of legislation 0.800223708152771
+[Framework for implementing road safety campaigns and initiatives]: Land transport act --[Emphasizes]-> Importance of integrating land transport with broader environmental and urban planning initiatives 0.797033429145813
+[Framework for implementing road safety campaigns and initiatives]: Land transport act --[Sets]-> Safety and emissions standards 0.7969307899475098

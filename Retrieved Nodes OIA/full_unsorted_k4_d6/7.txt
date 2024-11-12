@@ -1,0 +1,36 @@
+What are the titles of the documents released in response to OIA request 15599 regarding advice provided in April 2024?
+None
+Seed: 26 April 2024
+Seed: 22 April 2024
+Seed: 8 April 2024
+Seed: 24 April 2024
+[26 April 2024]: MINO-990 --[DATE]-> 26 April 2024 0.8151470422744751
+[26 April 2024]: MINO-990 --[IS]-> Not enclosed 0.7442907691001892
+[26 April 2024]: MIN-4467 --[IS]-> Not enclosed 0.736603856086731
+[26 April 2024]: MIN-4467 --[IS]-> GPS advice updates 0.773186206817627
+[26 April 2024]: Documents --[CONTAINS]-> GPS advice updates 0.8256459832191467
+[26 April 2024]: Documents --[CONTAINS]-> Road Efficiency Group 0.7843959331512451
+[26 April 2024]: Documents --[CONTAINS]-> Brown Update on the installation of cameras 0.7838054895401001
+[26 April 2024]: Request for Official Information --[COVERS]-> Documents 0.8237460851669312
+[26 April 2024]: Response to Request --[CONTAINS]-> Documents 0.7770968675613403
+[26 April 2024]: MIN-4467 --[DATE]-> 26 April 2024 0.7971844673156738
+[26 April 2024]: MINO-990 --[IS]-> Safety camera installation update 0.7460075616836548
+[26 April 2024]: BRI-3010 --[RELATES_TO]-> Road Efficiency Group 0.7789280414581299
+[26 April 2024]: OIA-15599 --[CONTAINS]-> BRI-3010 0.8382039070129395
+[26 April 2024]: New Zealand Transport Agency --[RESPONDS]-> Request for Official Information 0.8006842136383057
+[26 April 2024]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7456015944480896
+[26 April 2024]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7585240602493286
+[26 April 2024]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7514094114303589
+[26 April 2024]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7291715145111084
+[26 April 2024]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7461880445480347
+[26 April 2024]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7495688199996948
+[26 April 2024]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.767581582069397
+[26 April 2024]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.754921555519104
+[26 April 2024]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7818062901496887
+[26 April 2024]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8222776651382446
+[26 April 2024]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7880805134773254
+[26 April 2024]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7958555817604065
+[26 April 2024]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7922906875610352
+[26 April 2024]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7868040800094604
+[26 April 2024]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7525267601013184
+[26 April 2024]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8296314477920532

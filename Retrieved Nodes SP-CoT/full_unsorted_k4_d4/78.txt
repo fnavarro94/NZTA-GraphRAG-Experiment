@@ -1,0 +1,36 @@
+In what year did the establishment become established?
+None
+Seed: Commenced in 1840
+Seed: Early european settlement in 19th century
+Seed: Establishment of national land transport fund
+Seed: In early european settlement
+[Commenced in 1840]: Auckland ferry network --[First regular ferry service]-> Commenced in 1840 0.7781304121017456
+[Commenced in 1840]: Auckland ferry network --[Operated by]-> Auckland transport 0.7357154488563538
+[Commenced in 1840]: Auckland transport --[Has]-> Vision to support growth 0.7141607999801636
+[Commenced in 1840]: Auckland transport --[Has]-> Vision to minimize environmental impact 0.680324137210846
+[Commenced in 1840]: Auckland transport --[Has]-> Vision to create efficient transport system 0.7200663685798645
+[Commenced in 1840]: Auckland transport --[Has]-> Vision to create integrated transport system 0.7203311324119568
+[Commenced in 1840]: Auckland transport --[Has]-> Long-term vision 0.7202576398849487
+[Commenced in 1840]: New zealand transport strategy --[Outlines]-> Long-term vision 0.7095997929573059
+[Commenced in 1840]: Auckland transport --[Has]-> Vision to create safe transport system 0.7050787806510925
+[Commenced in 1840]: Auckland transport --[Focused on]-> Promoting active transport modes 0.7295622229576111
+[Commenced in 1840]: Auckland transport --[Focused on]-> Promoting cycling 0.7070556879043579
+[Commenced in 1840]: Auckland transport --[Focused on]-> Promoting walking 0.7121104001998901
+[Commenced in 1840]: Auckland transport --[Is]-> Primary agency 0.7254270911216736
+[Commenced in 1840]: Waka kotahi --[Is]-> Primary agency 0.7136353850364685
+[Commenced in 1840]: Auckland transport --[Implemented]-> Cycling infrastructure projects 0.717694878578186
+[Commenced in 1840]: Auckland transport --[Implemented]-> Dedicated bike lanes 0.7226450443267822
+[Commenced in 1840]: Sustainable urban transport --[Key component]-> Dedicated bike lanes 0.7058475017547607
+[Commenced in 1840]: Auckland transport --[Implemented]-> Cycleways 0.7226777076721191
+[Commenced in 1840]: Christchurch --[Served by]-> Cycleways 0.7157307267189026
+[Commenced in 1840]: Auckland transport --[Introduced]-> Auckland integrated ticketing system 0.7453716993331909
+[Commenced in 1840]: Auckland transport --[Responsible for]-> Managing public transport services 0.7156038284301758
+[Commenced in 1840]: Greater wellington regional council --[Responsible for]-> Managing public transport services 0.7107822895050049
+[Commenced in 1840]: Auckland transport --[Responsible for]-> Development 0.7364790439605713
+[Commenced in 1840]: Waka kotahi --[Plays crucial role in]-> Development 0.7167401313781738
+[Commenced in 1840]: Kiwirail --[Involved in]-> Development 0.7516388893127441
+[Commenced in 1840]: Waka kotahi nz transport agency --[Oversees]-> Development 0.7140542268753052
+[Commenced in 1840]: Auckland transport --[Responsible for]-> Management 0.7266308069229126
+[Commenced in 1840]: Waka kotahi --[Responsible for]-> Management 0.7233425378799438
+[Commenced in 1840]: Waka kotahi nz transport agency --[Responsible for]-> Management 0.7082863450050354
+[Commenced in 1840]: Auckland transport --[Responsible for]-> Planning 0.722841739654541

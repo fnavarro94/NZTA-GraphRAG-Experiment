@@ -1,0 +1,13 @@
+Which city in the country where the program, established in 2010, requires periodic testing of older vehicles to ensure they meet emissions standards throughout their operational life, utilizes the Snapper card as part of its initiative that has improved the reliability of public transport services and allowed users to plan their journeys more effectively?
+None
+Seed: Need for more integrated and sustainable transport system
+Seed: Snapper card
+Seed: Growing emphasis on improving transport compliance through technology
+Seed: Solution to promote sustainable transport options in new zealand
+[Need for more integrated and sustainable transport system]: New zealand transport strategy --[Emphasizes]-> Need for more integrated and sustainable transport system 0.7918635606765747
+[Snapper card]: Snapper card --[Allows]-> Passengers to load funds and tap on and off at various transport services 0.8730857372283936
+[Snapper card]: Snapper card --[Used in]-> Wellington 0.8572383522987366
+[Snapper card]: Snapper card --[Simplifies]-> Fare payment 0.8472799062728882
+[Snapper card]: Snapper card --[Reduces]-> Need for cash transactions 0.8276020884513855
+[Growing emphasis on improving transport compliance through technology]: New zealand --[Seen]-> Growing emphasis on improving transport compliance through technology 0.8058992624282837
+[Solution to promote sustainable transport options in new zealand]: Mobility as a service --[Is]-> Solution to promote sustainable transport options in new zealand 0.8131355047225952

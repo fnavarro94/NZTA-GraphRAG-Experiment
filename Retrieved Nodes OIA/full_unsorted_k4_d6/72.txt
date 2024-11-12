@@ -1,0 +1,36 @@
+What information was withheld from the response about the Road Efficiency Group briefing?
+None
+Seed: Some information has been withheld under section 9(2)(f)(iv)
+Seed: Road Efficiency Group
+Seed: Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)
+Seed: specific questions and the NZ Transport Agency’s responses
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[IS]-> Some information has been withheld under section 9(2)(f)(iv) 0.8298884034156799
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[DATE]-> 24 April 2024 0.7442833781242371
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[IS]-> NTS rollout timeline 0.7642608880996704
+[Road Efficiency Group]: Documents --[CONTAINS]-> Road Efficiency Group 0.8644993305206299
+[Road Efficiency Group]: Documents --[CONTAINS]-> Brown Update on the installation of cameras 0.7910003662109375
+[Road Efficiency Group]: Documents --[CONTAINS]-> GPS advice updates 0.8150349855422974
+[Road Efficiency Group]: MIN-4467 --[IS]-> GPS advice updates 0.784432590007782
+[Road Efficiency Group]: MIN-4467 --[DATE]-> 26 April 2024 0.7509340047836304
+[Road Efficiency Group]: MINO-990 --[DATE]-> 26 April 2024 0.7340252995491028
+[Road Efficiency Group]: MINO-990 --[IS]-> Not enclosed 0.7415211796760559
+[Road Efficiency Group]: MINO-990 --[IS]-> Safety camera installation update 0.7296298742294312
+[Road Efficiency Group]: MIN-4467 --[IS]-> Not enclosed 0.7483636140823364
+[Road Efficiency Group]: Request for Official Information --[COVERS]-> Documents 0.8201377987861633
+[Road Efficiency Group]: New Zealand Transport Agency --[RESPONDS]-> Request for Official Information 0.8490582704544067
+[Road Efficiency Group]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7763121128082275
+[Road Efficiency Group]: New Zealand Transport Agency --[BASED]-> Wellington 0.7809368968009949
+[Road Efficiency Group]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7821707129478455
+[Road Efficiency Group]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7802156209945679
+[Road Efficiency Group]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7518986463546753
+[Road Efficiency Group]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7700808048248291
+[Road Efficiency Group]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7760313153266907
+[Road Efficiency Group]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7856613993644714
+[Road Efficiency Group]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7793158292770386
+[Road Efficiency Group]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7934330701828003
+[Road Efficiency Group]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8084063529968262
+[Road Efficiency Group]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.805958092212677
+[Road Efficiency Group]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.822561502456665
+[Road Efficiency Group]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8031268119812012
+[Road Efficiency Group]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8074485063552856
+[Road Efficiency Group]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7933433055877686

@@ -1,0 +1,34 @@
+How are contractors paid to repair potholes on New Zealand highways?
+None
+Seed: request for pothole repair cost information
+Seed: pothole repair specifications
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf
+[request for pothole repair cost information]: New Zealand Transport Agency --[CONSIDERS]-> request for pothole repair cost information 0.9117268323898315
+[request for pothole repair cost information]: pothole repair specifications --[FROM]-> NZTA 0.8897546529769897
+[request for pothole repair cost information]: https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf --[ACCESS]-> pothole repair specifications 0.8849823474884033
+[request for pothole repair cost information]: New Zealand Transport Agency --[PROVIDES]-> funding for road maintenance 0.8825678825378418
+[request for pothole repair cost information]: New Zealand Transport Agency --[FUNDING]-> Road Maintenance 0.8817862272262573
+[request for pothole repair cost information]: New Zealand Transport Agency --[REFUSES]-> request for pothole repair cost information 0.8788819313049316
+[request for pothole repair cost information]: road maintenance --[PERFORMED_BY]-> New Zealand Transport Agency 0.8764835596084595
+[pothole repair specifications]: New Zealand Transport Agency --[CONSIDERS]-> request for pothole repair cost information 0.9117268323898315
+[pothole repair specifications]: pothole repair specifications --[FROM]-> NZTA 0.8897546529769897
+[pothole repair specifications]: https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf --[ACCESS]-> pothole repair specifications 0.8849823474884033
+[pothole repair specifications]: New Zealand Transport Agency --[PROVIDES]-> funding for road maintenance 0.8825678825378418
+[pothole repair specifications]: New Zealand Transport Agency --[FUNDING]-> Road Maintenance 0.8817862272262573
+[pothole repair specifications]: New Zealand Transport Agency --[REFUSES]-> request for pothole repair cost information 0.8788819313049316
+[pothole repair specifications]: road maintenance --[PERFORMED_BY]-> New Zealand Transport Agency 0.8764835596084595
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[CONSIDERS]-> request for pothole repair cost information 0.9117268323898315
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[PROVIDES]-> funding for road maintenance 0.8825678825378418
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[FUNDING]-> Road Maintenance 0.8817862272262573
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[REFUSES]-> request for pothole repair cost information 0.8788819313049316
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: road maintenance --[PERFORMED_BY]-> New Zealand Transport Agency 0.8764835596084595
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[RESPONSIBLE_FOR]-> road maintenance 0.8732290863990784
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: State Highway 1 --[REPAIRS]-> potholes 0.8730614185333252
+[https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf]: New Zealand Transport Agency --[CONSIDERS]-> request for pothole repair cost information 0.9117268323898315
+[https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf]: pothole repair specifications --[FROM]-> NZTA 0.8897546529769897
+[https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf]: https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf --[ACCESS]-> pothole repair specifications 0.8849823474884033
+[https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf]: New Zealand Transport Agency --[PROVIDES]-> funding for road maintenance 0.8825678825378418
+[https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf]: New Zealand Transport Agency --[FUNDING]-> Road Maintenance 0.8817862272262573
+[https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf]: New Zealand Transport Agency --[REFUSES]-> request for pothole repair cost information 0.8788819313049316
+[https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf]: road maintenance --[PERFORMED_BY]-> New Zealand Transport Agency 0.8764835596084595

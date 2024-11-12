@@ -1,0 +1,36 @@
+What is the NZTA planning in terms of road network changes to accommodate the increased traffic from the new Interislander ferries in Marlborough?
+None
+Seed: 2023-24 State Highway Investment Proposal
+Seed: Road Network Changes
+Seed: Strategic Highway Improvements
+Seed: wider objectives in Regional Public Transport Plans
+[2023-24 State Highway Investment Proposal]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.8258973360061646
+[2023-24 State Highway Investment Proposal]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.8242267966270447
+[2023-24 State Highway Investment Proposal]: 2024-27 National Land Transport Programme --[DEVELOPMENT_OF]-> Regional Land Transport Plan 0.8151655197143555
+[2023-24 State Highway Investment Proposal]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Access and Development Programme Business Case 0.8238455057144165
+[2023-24 State Highway Investment Proposal]: Hornby Access and Development Programme Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.7920799255371094
+[2023-24 State Highway Investment Proposal]: Main South Road, Shands Road and Carmen Road intersection --[LOCATED_NEAR]-> Hornby Access and Development Programme Business Case 0.7828530669212341
+[2023-24 State Highway Investment Proposal]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Access and Development Programme Business Case 0.8242402672767639
+[2023-24 State Highway Investment Proposal]: Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.8085301518440247
+[Road Network Changes]: Marlborough Region --[REQUIRES]-> Road Network Changes 0.8848259449005127
+[Road Network Changes]: Road Traffic Volumes --[INCREASES]-> Marlborough Region 0.8545936346054077
+[Road Network Changes]: Larger Ferries --[AFFECTS]-> Road Traffic Volumes 0.8549148440361023
+[Road Network Changes]: Interislander Ferries --[INTRODUCES]-> Larger Ferries 0.8635907769203186
+[Road Network Changes]: Road Network Changes --[PLANNED_BY]-> New Zealand Transport Agency 0.8945071697235107
+[Road Network Changes]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8388723731040955
+[Road Network Changes]: New Zealand Transport Agency --[BASED]-> Wellington 0.8396261930465698
+[Road Network Changes]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8246945738792419
+[Road Network Changes]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.839644193649292
+[Road Network Changes]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.8130761384963989
+[Road Network Changes]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.8340283632278442
+[Road Network Changes]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.8432455062866211
+[Road Network Changes]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.8414739370346069
+[Road Network Changes]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.8325290083885193
+[Road Network Changes]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8152225017547607
+[Road Network Changes]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8178603649139404
+[Road Network Changes]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8142668008804321
+[Road Network Changes]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8261603116989136
+[Road Network Changes]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8310132026672363
+[Road Network Changes]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8097034692764282
+[Road Network Changes]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8135391473770142
+[Road Network Changes]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8197636604309082

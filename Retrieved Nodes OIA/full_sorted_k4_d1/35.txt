@@ -1,0 +1,11 @@
+How many streetlights are there on motorways in New Zealand?
+None
+Seed: street lights information from local councils
+Seed: information on traffic light cameras
+Seed: street lights information
+Seed: information on traffic light cameras and speed cameras
+[street lights information from local councils]: street lights information from local councils --[OBTAINABLE_FROM]-> local councils 0.8449780941009521
+[street lights information from local councils]: New Zealand Transport Agency --[REFUSES]-> street lights information from local councils 0.8319506049156189
+[information on traffic light cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.8166650533676147
+[street lights information]: response letter --[CONTAINS]-> street lights information 0.8234589099884033
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.8038558959960938

@@ -1,0 +1,31 @@
+What is the current status of the construction drawings for the SH1 Brynderwyn closure, and why are they subject to change?
+None
+Seed: information on LGWM construction contracts
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: investigations, construction findings, on-site progress, design updates, design assumptions
+Seed: Waito hi Picton Ferry Precinct Redevelopment
+[information on LGWM construction contracts]: updates on progress --[AVAILABLE]-> https://www.nzta.govt.nz/projects/sh25-sh25a-thames-coromandel/sh25a-rebuild/ 0.8517745733261108
+[information on LGWM construction contracts]: Let's Get Wellington Moving --[HAS_COMPONENT]-> Strategic Highway Improvements 0.8290491700172424
+[information on LGWM construction contracts]: funding for road maintenance --[FOR]-> State Highway 1 0.8274524807929993
+[information on LGWM construction contracts]: New Zealand Transport Agency --[RESPONDS_TO]-> Request for information on Hornby Intersection improvements 0.827340841293335
+[information on LGWM construction contracts]: Marlborough Region --[REQUIRES]-> Road Network Changes 0.825241208076477
+[information on LGWM construction contracts]: Request for information on Hornby Intersection improvements --[REQUESTS]-> New Zealand Transport Agency 0.8236481547355652
+[information on LGWM construction contracts]: funding for road maintenance --[ASSOCIATED_WITH]-> State Highway 1 0.8232117295265198
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: updates on progress --[AVAILABLE]-> https://www.nzta.govt.nz/projects/sh25-sh25a-thames-coromandel/sh25a-rebuild/ 0.8517745733261108
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Let's Get Wellington Moving --[HAS_COMPONENT]-> Strategic Highway Improvements 0.8290491700172424
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: funding for road maintenance --[FOR]-> State Highway 1 0.8274524807929993
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[RESPONDS_TO]-> Request for information on Hornby Intersection improvements 0.827340841293335
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Marlborough Region --[REQUIRES]-> Road Network Changes 0.825241208076477
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request for information on Hornby Intersection improvements --[REQUESTS]-> New Zealand Transport Agency 0.8236481547355652
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: funding for road maintenance --[ASSOCIATED_WITH]-> State Highway 1 0.8232117295265198
+[investigations, construction findings, on-site progress, design updates, design assumptions]: updates on progress --[AVAILABLE]-> https://www.nzta.govt.nz/projects/sh25-sh25a-thames-coromandel/sh25a-rebuild/ 0.8517745733261108
+[investigations, construction findings, on-site progress, design updates, design assumptions]: Let's Get Wellington Moving --[HAS_COMPONENT]-> Strategic Highway Improvements 0.8290491700172424
+[investigations, construction findings, on-site progress, design updates, design assumptions]: funding for road maintenance --[FOR]-> State Highway 1 0.8274524807929993
+[investigations, construction findings, on-site progress, design updates, design assumptions]: New Zealand Transport Agency --[RESPONDS_TO]-> Request for information on Hornby Intersection improvements 0.827340841293335
+[investigations, construction findings, on-site progress, design updates, design assumptions]: Marlborough Region --[REQUIRES]-> Road Network Changes 0.825241208076477
+[investigations, construction findings, on-site progress, design updates, design assumptions]: Request for information on Hornby Intersection improvements --[REQUESTS]-> New Zealand Transport Agency 0.8236481547355652
+[investigations, construction findings, on-site progress, design updates, design assumptions]: funding for road maintenance --[ASSOCIATED_WITH]-> State Highway 1 0.8232117295265198
+[Waito hi Picton Ferry Precinct Redevelopment]: 10 September 2020 --[ASSOCIATED_WITH]-> Waito hi Picton Ferry Precinct Redevelopment 0.8342288136482239
+[Waito hi Picton Ferry Precinct Redevelopment]: Waito hi Picton Ferry Precinct Redevelopment --[ASSOCIATED_WITH]-> Integrated Transportation Assessment 0.8197584748268127
+[Waito hi Picton Ferry Precinct Redevelopment]: Draft --[ASSOCIATED_WITH]-> 10 September 2020 0.7901241183280945
+[Waito hi Picton Ferry Precinct Redevelopment]: Integrated Transportation Assessment --[ASSOCIATED_WITH]-> Draft 0.7744304537773132

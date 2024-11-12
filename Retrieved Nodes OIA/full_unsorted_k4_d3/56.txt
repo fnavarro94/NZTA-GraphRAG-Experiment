@@ -1,0 +1,36 @@
+What challenges affect the accuracy of drug-related crash data in the Bay of Plenty?
+None
+Seed: Guide for the interpretation of coded crash reports
+Seed: data on road traffic crashes
+Seed: figures on drivers involved in fatal crashes
+Seed: report on the impacts of the Fare Recovery Ratio
+[Guide for the interpretation of coded crash reports]: Guide for the interpretation of coded crash reports --[AVAILABLE_AT]-> https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf 0.8229110240936279
+[Guide for the interpretation of coded crash reports]: https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf --[ACCESSIBLE]-> online 0.830319881439209
+[Guide for the interpretation of coded crash reports]: online --[RELATES_TO]-> https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c 0.786353349685669
+[Guide for the interpretation of coded crash reports]: National Maintenance Forward Work Map --[AVAILABLE]-> online 0.77775639295578
+[Guide for the interpretation of coded crash reports]: MR1/B transactions --[COMPLETED]-> online 0.7901255488395691
+[Guide for the interpretation of coded crash reports]: online --[PROVIDES_ACCESS]-> Transport Agency 0.7711784839630127
+[Guide for the interpretation of coded crash reports]: Transport Agency --[PROVIDES]-> Guide for the interpretation of coded crash reports 0.8235667943954468
+[Guide for the interpretation of coded crash reports]: www.ombudsman.parliament.nz --[PROVIDES]-> Transport Agency 0.7674541473388672
+[Guide for the interpretation of coded crash reports]: www.ombudsman.parliament.nz --[LINKS_TO]-> Ombudsman 0.7689270377159119
+[Guide for the interpretation of coded crash reports]: website --[LOCATED_AT]-> www.ombudsman.parliament.nz 0.7612947821617126
+[Guide for the interpretation of coded crash reports]: New Zealand Transport Agency --[PROVIDES]-> www.ombudsman.parliament.nz 0.7757465243339539
+[Guide for the interpretation of coded crash reports]: www.ombudsman.parliament.nz --[PROVIDES]-> New Zealand Transport Agency 0.7675716876983643
+[Guide for the interpretation of coded crash reports]: Ombudsman --[LOCATED_AT]-> www.ombudsman.parliament.nz 0.7564926147460938
+[Guide for the interpretation of coded crash reports]: www.ombudsman.parliament.nz --[HOSTS]-> contact details for the Ombudsman 0.763022780418396
+[Guide for the interpretation of coded crash reports]: contact details for the Ombudsman --[LOCATED_AT]-> www.ombudsman.parliament.nz 0.7509840726852417
+[Guide for the interpretation of coded crash reports]: contact details for the Ombudsman --[AVAILABLE_AT]-> www.ombudsman.parliament.nz 0.7573899030685425
+[Guide for the interpretation of coded crash reports]: www.ombudsman.parliament.nz --[PROVIDES]-> contact details 0.7682318091392517
+[Guide for the interpretation of coded crash reports]: contact details --[LOCATED]-> www.ombudsman.parliament.nz 0.7534416317939758
+[Guide for the interpretation of coded crash reports]: Ombudsman --[IS]-> www.ombudsman.parliament.nz 0.7649767994880676
+[Guide for the interpretation of coded crash reports]: Website --[URL]-> www.ombudsman.parliament.nz 0.7633007168769836
+[Guide for the interpretation of coded crash reports]: contact details for the Ombudsman --[FOUND]-> www.ombudsman.parliament.nz 0.759554386138916
+[Guide for the interpretation of coded crash reports]: Ombudsman --[LOCATED]-> www.ombudsman.parliament.nz 0.7662588357925415
+[Guide for the interpretation of coded crash reports]: Contact Details --[AVAILABLE]-> www.ombudsman.parliament.nz 0.7536358833312988
+[Guide for the interpretation of coded crash reports]: www.ombudsman.parliament.nz --[PROVIDES]-> Ombudsman 0.7662101984024048
+[Guide for the interpretation of coded crash reports]: contact details for the Ombudsman --[LOCATED]-> www.ombudsman.parliament.nz 0.7541952133178711
+[Guide for the interpretation of coded crash reports]: www.ombudsman.parliament.nz --[ASSOCIATED]-> Ombudsman 0.7681169509887695
+[Guide for the interpretation of coded crash reports]: Ombudsman contact details --[LOCATED]-> www.ombudsman.parliament.nz 0.7554392218589783
+[Guide for the interpretation of coded crash reports]: Transport Agency --[PROVIDES]-> summary of survey results 0.8053504228591919
+[Guide for the interpretation of coded crash reports]: Transport Agency --[PROVIDES]-> summary of exit interview results 0.780311107635498
+[Guide for the interpretation of coded crash reports]: Transport Agency --[PROVIDES]-> summary of engagement survey results 0.7984383702278137

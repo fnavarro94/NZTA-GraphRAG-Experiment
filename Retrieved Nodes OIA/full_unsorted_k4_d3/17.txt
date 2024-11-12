@@ -1,0 +1,36 @@
+How many Clean Car rebates have been issued between 1 July 2021 and 31 May 2022?
+None
+Seed: 19,662 applications for Clean Car rebates
+Seed: Clean Car rebate scheme
+Seed: 7,162 Clean Car fees
+Seed: Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below.
+[19,662 applications for Clean Car rebates]: Waka Kotahi NZ Transport Agency --[APPROVED]-> 19,662 applications for Clean Car rebates 0.8218832612037659
+[19,662 applications for Clean Car rebates]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7372697591781616
+[19,662 applications for Clean Car rebates]: New Zealand Transport Agency --[BASED]-> Wellington 0.754785418510437
+[19,662 applications for Clean Car rebates]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.742789626121521
+[19,662 applications for Clean Car rebates]: Golden Mile --[LOCATED]-> Wellington 0.7056764364242554
+[19,662 applications for Clean Car rebates]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7320911288261414
+[19,662 applications for Clean Car rebates]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7058781385421753
+[19,662 applications for Clean Car rebates]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7463394999504089
+[19,662 applications for Clean Car rebates]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7262511253356934
+[19,662 applications for Clean Car rebates]: Wellington --[PART_OF]-> Wellington Region 0.7345743179321289
+[19,662 applications for Clean Car rebates]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7579977512359619
+[19,662 applications for Clean Car rebates]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7198390960693359
+[19,662 applications for Clean Car rebates]: Wellington --[HAS]-> tunnel 0.7264078855514526
+[19,662 applications for Clean Car rebates]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7315846681594849
+[19,662 applications for Clean Car rebates]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7450262904167175
+[19,662 applications for Clean Car rebates]: Wellington --[POSTCODE]-> 6141 0.721691370010376
+[19,662 applications for Clean Car rebates]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7408013343811035
+[19,662 applications for Clean Car rebates]: Wellington --[IS_PART_OF]-> New Zealand 0.738532304763794
+[19,662 applications for Clean Car rebates]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7359700202941895
+[19,662 applications for Clean Car rebates]: 50 Victoria Street --[IN]-> Wellington 0.7281573414802551
+[19,662 applications for Clean Car rebates]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7067006826400757
+[19,662 applications for Clean Car rebates]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7200652360916138
+[19,662 applications for Clean Car rebates]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7360390424728394
+[19,662 applications for Clean Car rebates]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7421010732650757
+[19,662 applications for Clean Car rebates]: NZ Transport Agency --[LOCATED]-> Wellington 0.7459444999694824
+[19,662 applications for Clean Car rebates]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7447805404663086
+[19,662 applications for Clean Car rebates]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7418878078460693
+[19,662 applications for Clean Car rebates]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7250064611434937
+[19,662 applications for Clean Car rebates]: New Zealand --[CONTAINS]-> Wellington 0.752078652381897
+[19,662 applications for Clean Car rebates]: Wellington --[PART_OF]-> New Zealand 0.7372796535491943

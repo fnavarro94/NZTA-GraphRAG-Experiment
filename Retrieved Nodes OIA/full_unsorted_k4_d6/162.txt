@@ -1,0 +1,36 @@
+How does NZTA handle reports of threats or attacks against driving test examiners?
+None
+Seed: Speed and Drunk Driving Enforcement
+Seed: national, regional and local road safety promotion and education campaigns
+Seed: Road Policing Activities
+Seed: breaches of rules or regulations
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[DOUBLES]-> Speed and Drunk Driving Enforcement 0.7971984148025513
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[FOCUSES_ON]-> Restraints, Impairment, Distraction, Speed 0.7951189279556274
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[PROVIDES]-> Road Policing Activities 0.8016133308410645
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[PROVIDES]-> https://www.nzta.govt.nz/assets/resources/road-policing-programme/docs/rpp-2021-24.pdf 0.8472787737846375
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[ALLOCATES]-> $1.24 billion 0.7636899352073669
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.820286750793457
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7825778722763062
+[national, regional and local road safety promotion and education campaigns]: New Zealand Transport Agency --[BASED]-> Wellington 0.8306906223297119
+[national, regional and local road safety promotion and education campaigns]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8196800947189331
+[national, regional and local road safety promotion and education campaigns]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7593866586685181
+[national, regional and local road safety promotion and education campaigns]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.8173054456710815
+[national, regional and local road safety promotion and education campaigns]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.7639543414115906
+[national, regional and local road safety promotion and education campaigns]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.767187774181366
+[national, regional and local road safety promotion and education campaigns]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8254979848861694
+[national, regional and local road safety promotion and education campaigns]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.8181596398353577
+[national, regional and local road safety promotion and education campaigns]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.82221919298172
+[national, regional and local road safety promotion and education campaigns]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7769554853439331
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7654953002929688
+[national, regional and local road safety promotion and education campaigns]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7630265951156616
+[national, regional and local road safety promotion and education campaigns]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7193504571914673
+[national, regional and local road safety promotion and education campaigns]: Wellington --[CONTAINS]-> Private Bag 6995 0.7754205465316772
+[national, regional and local road safety promotion and education campaigns]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.828552782535553
+[national, regional and local road safety promotion and education campaigns]: Golden Mile --[LOCATED]-> Wellington 0.7407689094543457
+[national, regional and local road safety promotion and education campaigns]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7901979684829712
+[national, regional and local road safety promotion and education campaigns]: road safety --[ENHANCED_BY]-> State Highway 1 0.8040866255760193
+[national, regional and local road safety promotion and education campaigns]: State Highway 1 --[REPAIRS]-> potholes 0.7428488731384277
+[national, regional and local road safety promotion and education campaigns]: Road Safety Initiatives --[IMPROVES]-> State Highway 1 0.7823078036308289
+[national, regional and local road safety promotion and education campaigns]: road maintenance --[OVERDUE]-> State Highway 1 0.7691094875335693
+[national, regional and local road safety promotion and education campaigns]: State Highway 1 --[OVERDUE]-> road maintenance 0.7812606692314148
+[national, regional and local road safety promotion and education campaigns]: State Highway 1 --[IN]-> Bay of Plenty 0.7533968687057495

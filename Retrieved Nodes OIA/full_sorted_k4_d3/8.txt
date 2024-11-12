@@ -1,0 +1,27 @@
+Under which sections of the Official Information Act was certain information withheld in the OIA-15599 response?
+None
+Seed: Some information has been withheld under section 9(2)(f)(iv)
+Seed: Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)
+Seed: Request made under the Official Information Act 1982
+Seed: section 9(2)(j) of the Act
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[IS]-> Some information has been withheld under section 9(2)(f)(iv) 0.843669056892395
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[IS]-> NTS rollout timeline 0.7368964552879333
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[DATE]-> 24 April 2024 0.7288557887077332
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[IS]-> Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv) 0.8366753458976746
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[IS]-> Transport stakeholders meeting 0.7502071857452393
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4449 --[DATE]-> 17 April 2024 0.7427646517753601
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[DATE]-> 17 April 2024 0.7410187125205994
+[Request made under the Official Information Act 1982]: REF: OIA -13915 --[ASSOCIATED_WITH]-> Request made under the Official Information Act 1982 0.8864210247993469
+[Request made under the Official Information Act 1982]: Oli Lewis --[REQUESTED]-> information under the Official Information Act 1982 0.8753279447555542
+[Request made under the Official Information Act 1982]: Request made under the Official Information Act 1982 --[ASSOCIATED_WITH]-> information under the Official Information Act 1982 0.8689075708389282
+[Request made under the Official Information Act 1982]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.8678512573242188
+[Request made under the Official Information Act 1982]: Dear --[OFFICIAL_INFORMATION]-> Request made under the Official Information Act 1982 0.8628548383712769
+[Request made under the Official Information Act 1982]: Request made under the Official Information Act 1982 --[REQUESTED]-> information under the Official Information Act 1982 0.858259916305542
+[Request made under the Official Information Act 1982]: Debrin Foxcroft --[REQUESTS]-> information under the Official Information Act 1982 0.8578843474388123
+[section 9(2)(j) of the Act]: New Zealand Transport Agency --[PROVIDES]-> response under section 9(2)(a) of the Official Information Act 1982 0.8571833372116089
+[section 9(2)(j) of the Act]: New Zealand Transport Agency --[RESPONDS_TO]-> Request made under the Official Information Act 1982 0.8538910150527954
+[section 9(2)(j) of the Act]: New Zealand Transport Agency --[RESPONDS]-> request made under the Official Information Act 1982 0.8506203889846802
+[section 9(2)(j) of the Act]: New Zealand Transport Agency --[RESPONDS]-> Request made under the Official Information Act 1982 0.8506203889846802
+[section 9(2)(j) of the Act]: oia-9157-response.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8442711234092712
+[section 9(2)(j) of the Act]: section 9(2)(b)(ii) of the Act --[PROTECTS]-> information 0.8437849283218384
+[section 9(2)(j) of the Act]: New Zealand Transport Agency --[RESPONDS_TO]-> oia-9157-response.pdf 0.8435693383216858

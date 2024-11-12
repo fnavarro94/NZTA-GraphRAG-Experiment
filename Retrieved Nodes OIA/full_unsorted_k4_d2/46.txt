@@ -1,0 +1,36 @@
+What action can an individual take if they wish to contest the decision to refuse their request?
+None
+Seed: decision to refuse request
+Seed: refusal of request
+Seed: I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.
+Seed: public interest in seeking and receiving confidential legal advice
+[decision to refuse request]: request --[REFUSED]-> decision to refuse request 0.8788845539093018
+[decision to refuse request]: request --[RELATES_TO]-> section 18(e) of the Act 0.8113937377929688
+[decision to refuse request]: request --[RELATES_TO]-> section 28 of the Act 0.8031849265098572
+[decision to refuse request]: decision --[REFUSES]-> request 0.8516695499420166
+[decision to refuse request]: Waka Kotahi NZ Transport Agency --[REFUSES]-> request 0.7909045815467834
+[decision to refuse request]: requester --[SUBMITTED]-> request 0.7756466269493103
+[decision to refuse request]: request --[REFUSED]-> section 18(e) of the Act 0.8439611196517944
+[decision to refuse request]: New Zealand Transport Agency --[RESPONDS]-> request 0.7701679468154907
+[decision to refuse request]: request --[RELATES_TO]-> response letter 0.7777085304260254
+[decision to refuse request]: Waka Kotahi --[CONSIDERS]-> request 0.7948790192604065
+[decision to refuse request]: request --[RELATES_TO]-> renewal and resurfacing programmes 0.7762134075164795
+[decision to refuse request]: request --[FROM]-> Taylor Rice 0.7773743867874146
+[decision to refuse request]: New Zealand Transport Agency --[RESPONDS_TO]-> request 0.7735446095466614
+[decision to refuse request]: request --[REFUSE]-> decision 0.899573802947998
+[decision to refuse request]: request --[DISCUSS]-> Andrew Knackstedt 0.7507168054580688
+[decision to refuse request]: Andrew Knackstedt --[DISCUSS]-> request 0.7733299732208252
+[decision to refuse request]: decision --[REFUSE]-> request 0.8785701394081116
+[decision to refuse request]: Chris Lokum --[RESPONDS]-> request 0.7783752679824829
+[decision to refuse request]: Waka Kotahi --[RESPONDS]-> request 0.7802027463912964
+[decision to refuse request]: Email --[CONTAINS]-> request 0.7506916522979736
+[decision to refuse request]: request --[IS_FOR]-> information 0.7772855758666992
+[decision to refuse request]: Waka Kotahi --[RESPONDS_TO]-> request 0.7819473147392273
+[decision to refuse request]: New Zealand Transport Agency --[REFUSES]-> request 0.7857447862625122
+[decision to refuse request]: make a decision --[ON]-> request 0.8275702595710754
+[decision to refuse request]: request --[RELATES]-> section 18(d) of the Act 0.8168665766716003
+[decision to refuse request]: request --[FOR]-> drug test results 0.7802388668060303
+[decision to refuse request]: information --[REQUESTED]-> request 0.7826933860778809
+[decision to refuse request]: Kevin Reid --[DISPUTE]-> request 0.7921844720840454
+[decision to refuse request]: Kevin Reid --[REFUSE]-> request 0.8065180778503418
+[decision to refuse request]: Kevin Reid --[RESPOND]-> request 0.7799305319786072

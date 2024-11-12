@@ -1,0 +1,36 @@
+What were some of the key software or apps developed by NZTA's Connected Journey Solutions (CJS)?
+None
+Seed: successful applications
+Seed: multi-tenanted platform
+Seed: projects for New Zealand Transport Agency
+Seed: Connected Journey Solutions
+[successful applications]: innovation-fund/innovation-fund-round-one-successful-applicants.pdf --[PROVIDES]-> successful applications 0.7706074118614197
+[successful applications]: www.nzta.govt.nz --[CONTAINS]-> innovation-fund/innovation-fund-round-one-successful-applicants.pdf 0.7981125116348267
+[successful applications]: successful applications --[LISTS]-> Hoe ki angitū – Innovation Fund 0.7845091223716736
+[successful applications]: Hoe ki angitū – Innovation Fund --[FUNDED_BY]-> National Land Transport Fund 0.7569105625152588
+[successful applications]: Innovation Fund --[PART_OF]-> Hoe ki angitū – Innovation Fund 0.7476453185081482
+[successful applications]: Hoe ki angitū – Innovation Fund --[APPROVED_BY]-> New Zealand Transport Agency 0.7740041017532349
+[multi-tenanted platform]: multi-tenanted platform --[DELIVERS]-> delivery 0.7871434688568115
+[projects for New Zealand Transport Agency]: Higgins Wellington --[CONTRACTED_FOR]-> projects for New Zealand Transport Agency 0.7805662155151367
+[projects for New Zealand Transport Agency]: Higgins Wellington --[CONTRACTED]-> New Zealand Transport Agency 0.7709834575653076
+[projects for New Zealand Transport Agency]: Higgins Wellington --[CONTRACTED_BY]-> New Zealand Transport Agency 0.7678981423377991
+[projects for New Zealand Transport Agency]: New Zealand Transport Agency --[INVESTIGATES]-> Higgins Wellington 0.7384341359138489
+[projects for New Zealand Transport Agency]: Higgins Ltd --[CONTRACTED_FOR]-> projects for New Zealand Transport Agency 0.7834208607673645
+[projects for New Zealand Transport Agency]: Higgins Ltd --[CONTRACTED_BY]-> New Zealand Transport Agency 0.7748866081237793
+[projects for New Zealand Transport Agency]: New Zealand Transport Agency --[INVESTIGATES]-> Higgins Ltd 0.7458304166793823
+[projects for New Zealand Transport Agency]: Higgins Ltd --[CONTRACTED]-> New Zealand Transport Agency 0.7814266681671143
+[Connected Journey Solutions]: Connected Journey Solutions --[DELIVERS]-> innovative transport solutions 0.853222131729126
+[Connected Journey Solutions]: Connected Journey Solutions --[TASKED_WITH]-> pre-existing software development 0.8318052291870117
+[Connected Journey Solutions]: Connected Journey Solutions --[IS_PART_OF]-> New Zealand Transport Agency 0.8742916584014893
+[Connected Journey Solutions]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7805286645889282
+[Connected Journey Solutions]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7954196333885193
+[Connected Journey Solutions]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7845054268836975
+[Connected Journey Solutions]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7846078276634216
+[Connected Journey Solutions]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7844423651695251
+[Connected Journey Solutions]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7868963479995728
+[Connected Journey Solutions]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7922252416610718
+[Connected Journey Solutions]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7891380786895752
+[Connected Journey Solutions]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8027393817901611
+[Connected Journey Solutions]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7973285913467407
+[Connected Journey Solutions]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.784232497215271
+[Connected Journey Solutions]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7934539914131165

@@ -1,0 +1,36 @@
+How does Waka Kotahi gather data on fatal crashes?
+None
+Seed: figures on drivers involved in fatal crashes
+Seed: drivers involved in fatal crashes
+Seed: information on driver fatalities
+Seed: https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf
+[figures on drivers involved in fatal crashes]: AA --[PROVIDES]-> figures on drivers involved in fatal crashes 0.8548164367675781
+[drivers involved in fatal crashes]: drivers involved in fatal crashes --[INVOLVED_IN]-> fatal crashes 0.8432331085205078
+[drivers involved in fatal crashes]: fatal crashes --[CAUSED_BY]-> drugs or alcohol 0.8312917351722717
+[drivers involved in fatal crashes]: drugs or alcohol --[AFFECTS]-> drivers 0.7661128640174866
+[drivers involved in fatal crashes]: tolls --[COLLECTED]-> drivers 0.787864089012146
+[drivers involved in fatal crashes]: New Zealand Transport Agency --[MANAGES]-> tolls 0.7861806750297546
+[drivers involved in fatal crashes]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7646856307983398
+[drivers involved in fatal crashes]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7581052780151367
+[drivers involved in fatal crashes]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7651254534721375
+[drivers involved in fatal crashes]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7680644989013672
+[drivers involved in fatal crashes]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7605123519897461
+[drivers involved in fatal crashes]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7638540267944336
+[drivers involved in fatal crashes]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.759127140045166
+[drivers involved in fatal crashes]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.757737398147583
+[drivers involved in fatal crashes]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7645002007484436
+[drivers involved in fatal crashes]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7568506002426147
+[drivers involved in fatal crashes]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7659931182861328
+[drivers involved in fatal crashes]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7773804664611816
+[drivers involved in fatal crashes]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7795981168746948
+[drivers involved in fatal crashes]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7641814947128296
+[drivers involved in fatal crashes]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7622095346450806
+[drivers involved in fatal crashes]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.784533679485321
+[drivers involved in fatal crashes]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7724606990814209
+[drivers involved in fatal crashes]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7563626766204834
+[drivers involved in fatal crashes]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7839948534965515
+[drivers involved in fatal crashes]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7538203001022339
+[drivers involved in fatal crashes]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7841475009918213
+[drivers involved in fatal crashes]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7712745666503906
+[drivers involved in fatal crashes]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7818454504013062
+[drivers involved in fatal crashes]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7507140636444092

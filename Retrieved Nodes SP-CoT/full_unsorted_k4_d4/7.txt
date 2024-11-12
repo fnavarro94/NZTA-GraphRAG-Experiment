@@ -1,0 +1,36 @@
+What major arterial route enhances accessibility between Auckland and Onehunga, particularly for travel to one of the major airports in New Zealand's transport infrastructure as of 2023?
+None
+Seed: Future of transport in new zealand
+Seed: Access to auckland airport and other regions of the north island
+Seed: Strategically located near major arterial routes
+Seed: Wider transport network of new zealand
+[Future of transport in new zealand]: Auckland airport --[Key player]-> Future of transport in new zealand 0.8787257671356201
+[Future of transport in new zealand]: Auckland airport --[Serves]-> As hub for domestic and international flights 0.8498436212539673
+[Future of transport in new zealand]: Auckland airport --[Is]-> Undergoing significant expansion 0.867223858833313
+[Future of transport in new zealand]: Auckland airport --[Serves as]-> Primary international gateway for new zealand 0.8487931489944458
+[Future of transport in new zealand]: Auckland airport --[Committed]-> Sustainability 0.8177361488342285
+[Future of transport in new zealand]: Auckland ferry network --[Commitment to]-> Sustainability 0.8014079928398132
+[Future of transport in new zealand]: Auckland ferry network --[Operated by]-> Auckland transport 0.8193548321723938
+[Future of transport in new zealand]: Auckland ferry network --[Crucial element]-> New zealand's transport landscape 0.8252112865447998
+[Future of transport in new zealand]: Auckland ferry network --[Enhancing]-> User convenience 0.7821204662322998
+[Future of transport in new zealand]: Auckland ferry network --[Focus on]-> Integrating with emerging technologies 0.8235320448875427
+[Future of transport in new zealand]: Auckland ferry network --[Origins]-> Date back to 19th century 0.803511381149292
+[Future of transport in new zealand]: Auckland ferry network --[Set to undergo]-> Further enhancements 0.8322232365608215
+[Future of transport in new zealand]: Auckland ferry network --[Operates]-> Multiple routes 0.8351662755012512
+[Future of transport in new zealand]: Auckland ferry network --[First regular ferry service]-> Commenced in 1840 0.7930772304534912
+[Future of transport in new zealand]: Auckland ferry network --[Part of]-> Auckland transport's broader strategy 0.8293960094451904
+[Future of transport in new zealand]: Auckland ferry network --[Known for]-> Reliability 0.7992386221885681
+[Future of transport in new zealand]: Auckland ferry network --[Integrated with]-> Other forms of public transport 0.8351351022720337
+[Future of transport in new zealand]: Auckland ferry network --[Consists of]-> Several routes 0.8288397789001465
+[Future of transport in new zealand]: Auckland ferry network --[Contributing to]-> Sustainability of urban transport 0.8146482706069946
+[Future of transport in new zealand]: Auckland ferry network --[Offering]-> Unique and picturesque travel experience 0.8308373093605042
+[Future of transport in new zealand]: Auckland ferry network --[Service]-> Popular during peak hours 0.8016479015350342
+[Future of transport in new zealand]: Auckland ferry network --[Is]-> Vital component of public transport system 0.816382884979248
+[Future of transport in new zealand]: Auckland ferry network --[Services provided by]-> Several operators 0.8220021724700928
+[Future of transport in new zealand]: Auckland ferry network --[Connects]-> Central business district of auckland with destinations 0.8169207572937012
+[Future of transport in new zealand]: Auckland ferry network --[Plays]-> Significant role in alleviating road congestion 0.8226004838943481
+[Future of transport in new zealand]: Auckland ferry network --[Significant expansions and upgrades]-> Accommodate growing population and increasing demand 0.8204781413078308
+[Future of transport in new zealand]: Auckland ferry network --[Offers]-> Alternative mode of transport for commuters and tourists 0.8256202340126038
+[Future of transport in new zealand]: Auckland ferry network --[Poised to play]-> Increasingly important role in shaping future of public transport 0.8406940698623657
+[Future of transport in new zealand]: Auckland ferry network --[Fleet]-> Consists of various vessels 0.8073161244392395
+[Future of transport in new zealand]: Auckland ferry network --[Improve]-> Public transport infrastructure 0.8343257308006287

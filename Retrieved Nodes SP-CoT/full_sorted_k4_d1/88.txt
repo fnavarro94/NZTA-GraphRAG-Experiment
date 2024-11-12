@@ -1,0 +1,10 @@
+Which city in New Zealand utilizes the Snapper card as part of its initiative that has improved the reliability of public transport services and allowed users to plan their journeys more effectively, and what is the headquarters city of the airline that provides domestic air travel services between the North and South Islands of New Zealand and is crucial for the tourism sector?
+None
+Seed: Domestic flights to major cities across new zealand
+Seed: Flagship airline of new zealand
+Seed: Flights within new zealand
+Seed: Domestic and international travel
+[Domestic flights to major cities across new zealand]: Wellington international airport --[Provides]-> Domestic flights to major cities across new zealand 0.8587126731872559
+[Flagship airline of new zealand]: Air new zealand --[Is]-> Flagship airline of new zealand 0.8615130186080933
+[Flights within new zealand]: Auckland airport --[Serves]-> Flights within new zealand 0.8422168493270874
+[Domestic and international travel]: Auckland airport --[Facilitates]-> Domestic and international travel 0.8603374361991882

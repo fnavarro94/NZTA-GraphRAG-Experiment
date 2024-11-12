@@ -1,0 +1,28 @@
+Does Waka Kotahi hold a schedule of tasks for remedial work on the Kaipara Coast Highway (SH16) near Omeru Reserve?
+None
+Seed: Waka Kotahi N Z Transport Agency
+Seed: NZ Transport Agency Waka Kotahi
+Seed: Waka Kotahi NZ Transport Agency
+Seed: Waka Kotahi Senior Project Manager
+[Waka Kotahi N Z Transport Agency]: New Zealand Transport Agency --[ASSOCIATED]-> Waka Kotahi 0.8651922941207886
+[Waka Kotahi N Z Transport Agency]: NZ Transport Agency Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8636596202850342
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8602035641670227
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi --[ASSOCIATED]-> New Zealand Transport Agency 0.860013484954834
+[Waka Kotahi N Z Transport Agency]: New Zealand Transport Agency --[IS]-> Waka Kotahi 0.8572841286659241
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.8565022945404053
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi NZ Transport Agency --[MANAGES]-> road maintenance 0.8555939197540283
+[NZ Transport Agency Waka Kotahi]: transport infrastructure --[SERVED_BY]-> Waka Kotahi 0.8699433207511902
+[NZ Transport Agency Waka Kotahi]: Waka Kotahi --[WORKING]-> industry 0.8698368668556213
+[NZ Transport Agency Waka Kotahi]: New Zealand Transport Agency --[ASSOCIATED]-> Waka Kotahi 0.8651922941207886
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8636596202850342
+[NZ Transport Agency Waka Kotahi]: Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8602035641670227
+[NZ Transport Agency Waka Kotahi]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.8600289821624756
+[NZ Transport Agency Waka Kotahi]: Waka Kotahi --[ASSOCIATED]-> New Zealand Transport Agency 0.860013484954834
+[Waka Kotahi NZ Transport Agency]: transport infrastructure --[SERVED_BY]-> Waka Kotahi 0.8699433207511902
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[WORKING]-> industry 0.8698368668556213
+[Waka Kotahi NZ Transport Agency]: New Zealand Transport Agency --[ASSOCIATED]-> Waka Kotahi 0.8651922941207886
+[Waka Kotahi NZ Transport Agency]: NZ Transport Agency Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8636596202850342
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8602035641670227
+[Waka Kotahi NZ Transport Agency]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.8600289821624756
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[ASSOCIATED]-> New Zealand Transport Agency 0.860013484954834
+[Waka Kotahi Senior Project Manager]: Waka Kotahi Senior Project Manager --[MANAGES]-> State Highway 25A Rebuild Project 0.8541150093078613

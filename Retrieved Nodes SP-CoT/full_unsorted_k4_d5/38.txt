@@ -1,0 +1,36 @@
+What is the abbreviation commonly used for the method that involves the use of advanced sensors and cameras to gather real-time data on road conditions in the context of transport systems in New Zealand?
+None
+Seed: Advanced sensors and cameras
+Seed: Cameras and sensors
+Seed: Real-time tracking of buses and trains
+Seed: Systematic collection and analysis of data related to the physical state of roadways
+[Advanced sensors and cameras]: Automated data collection --[Uses]-> Advanced sensors and cameras 0.8507516980171204
+[Advanced sensors and cameras]: Automated data collection --[Is]-> Technology 0.8083797693252563
+[Advanced sensors and cameras]: Waka kotahi --[Leverages]-> Technology 0.7634514570236206
+[Advanced sensors and cameras]: Waka kotahi --[Has]-> Road to zero  strategy 0.742881178855896
+[Advanced sensors and cameras]: Waka kotahi --[Is]-> Primary agency 0.7579777240753174
+[Advanced sensors and cameras]: Auckland transport --[Is]-> Primary agency 0.8276799321174622
+[Advanced sensors and cameras]: Waka kotahi --[Is]-> Government agency 0.751899003982544
+[Advanced sensors and cameras]: Road safety authority --[Is]-> Government agency 0.7900101542472839
+[Advanced sensors and cameras]: New zealand transport agency --[Is]-> Government agency 0.8369815945625305
+[Advanced sensors and cameras]: Ministry of transport --[Is]-> Government agency 0.7859939932823181
+[Advanced sensors and cameras]: Waka kotahi --[Responsible for]-> Funding 0.7471200227737427
+[Advanced sensors and cameras]: Waka kotahi --[Allocates]-> Funding 0.7219099402427673
+[Advanced sensors and cameras]: New zealand transport agency --[Coordinates]-> Funding 0.8070409297943115
+[Advanced sensors and cameras]: Waka kotahi nz transport agency --[Responsible for]-> Funding 0.80027174949646
+[Advanced sensors and cameras]: Waka kotahi --[Responsible for]-> Management 0.7361135482788086
+[Advanced sensors and cameras]: Auckland transport --[Responsible for]-> Management 0.8055992126464844
+[Advanced sensors and cameras]: Waka kotahi nz transport agency --[Responsible for]-> Management 0.793703556060791
+[Advanced sensors and cameras]: Waka kotahi --[Responsible for]-> Planning 0.7620407342910767
+[Advanced sensors and cameras]: Auckland transport --[Responsible for]-> Planning 0.8269170522689819
+[Advanced sensors and cameras]: Tms --[Designed for]-> Planning 0.7792422771453857
+[Advanced sensors and cameras]: Lifecycle management --[Emphasizes]-> Planning 0.753395140171051
+[Advanced sensors and cameras]: Waka kotahi nz transport agency --[Responsible for]-> Planning 0.8104667663574219
+[Advanced sensors and cameras]: Waka kotahi --[Ensures]-> Investments 0.7223098874092102
+[Advanced sensors and cameras]: Waka kotahi --[Ensures]-> Transport system is effective and efficient 0.7750511765480042
+[Advanced sensors and cameras]: Waka kotahi --[Ensures]-> Sustainable transport network 0.7732129096984863
+[Advanced sensors and cameras]: New zealand transport strategy --[Aims]-> Sustainable transport network 0.796375572681427
+[Advanced sensors and cameras]: Auckland western ring route --[Represents]-> Sustainable transport network 0.7996195554733276
+[Advanced sensors and cameras]: Waka kotahi --[Ensures]-> Efficient transport network 0.7847545742988586
+[Advanced sensors and cameras]: Waka kotahi --[Creates]-> Efficient transport network 0.7932264804840088
+[Advanced sensors and cameras]: Waka kotahi --[Ensures]-> Safe transport network 0.7752951383590698

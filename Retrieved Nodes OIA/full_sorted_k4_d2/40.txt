@@ -1,0 +1,31 @@
+What is the current status of the construction drawings for the SH1 Brynderwyn closure, and why are they subject to change?
+None
+Seed: information on LGWM construction contracts
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: investigations, construction findings, on-site progress, design updates, design assumptions
+Seed: Waito hi Picton Ferry Precinct Redevelopment
+[information on LGWM construction contracts]: Wellington City Council --[TRANSFERS_REQUEST]-> Waka Kotahi NZ Transport Agency 0.7892605066299438
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.7884243726730347
+[information on LGWM construction contracts]: State Highway 1 --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.787755012512207
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.78517085313797
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[APPROVES]-> funding for road maintenance 0.7825242280960083
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.7804300785064697
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[FOLLOWS]-> Waka Kotahi policy 0.7797240018844604
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUESTS]-> detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) 0.8151016235351562
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) --[CONTRACTS]-> consultants 0.8140608072280884
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[RESPONDS_TO]-> Request made under the Official Information Act 1982 0.7991183400154114
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[RESPONDS]-> Request made under the Official Information Act 1982 0.7984799742698669
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[OFFICIAL_INFORMATION]-> Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act). 0.7960556745529175
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.7934472560882568
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUESTS]-> New Zealand Transport Agency 0.7917014956474304
+[investigations, construction findings, on-site progress, design updates, design assumptions]: NZ Transport Agency Waka Kotahi --[BASED_ON]-> investigations, construction findings, on-site progress, design updates, design assumptions 0.8155858516693115
+[investigations, construction findings, on-site progress, design updates, design assumptions]: NZ Transport Agency Waka Kotahi --[RESPOND]-> oia-15599-response-letter-23-july-2024.pdf 0.7916648983955383
+[investigations, construction findings, on-site progress, design updates, design assumptions]: NZ Transport Agency Waka Kotahi --[GRANTS_REQUEST]-> BRI-3010, MIN-4467 and MINO-990 0.7897369265556335
+[investigations, construction findings, on-site progress, design updates, design assumptions]: response letter --[ASSOCIATED_WITH]-> NZ Transport Agency Waka Kotahi 0.789038360118866
+[investigations, construction findings, on-site progress, design updates, design assumptions]: NZ Transport Agency Waka Kotahi --[POLICY]-> publishing policy 0.786102294921875
+[investigations, construction findings, on-site progress, design updates, design assumptions]: NZ Transport Agency Waka Kotahi --[PUBLISHES]-> response letter 0.7829576730728149
+[investigations, construction findings, on-site progress, design updates, design assumptions]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> NZ Transport Agency Waka Kotahi 0.7827438712120056
+[Waito hi Picton Ferry Precinct Redevelopment]: 10 September 2020 --[ASSOCIATED_WITH]-> Waito hi Picton Ferry Precinct Redevelopment 0.8342288136482239
+[Waito hi Picton Ferry Precinct Redevelopment]: Waito hi Picton Ferry Precinct Redevelopment --[ASSOCIATED_WITH]-> Integrated Transportation Assessment 0.8197584748268127
+[Waito hi Picton Ferry Precinct Redevelopment]: Draft --[ASSOCIATED_WITH]-> 10 September 2020 0.7901241183280945
+[Waito hi Picton Ferry Precinct Redevelopment]: Integrated Transportation Assessment --[ASSOCIATED_WITH]-> Draft 0.7744304537773132

@@ -1,0 +1,36 @@
+What region does the Metlink bus service connect to besides Porirua, the city in the country known for its Metlink services, which focus on providing comprehensive coverage across the region and allocates financial resources for the development, maintenance, and upgrading of transport infrastructure, including roads, railways, airports, and public transport systems?
+None
+Seed: Regional transport initiatives
+Seed: Significant investment in public transport infrastructure
+Seed: Importance of well-planned transport systems in both countries
+Seed: Transport link between wellington and northern regions of north island
+[Regional transport initiatives]: Local councils --[Contribute to]-> Regional transport initiatives 0.7873156070709229
+[Regional transport initiatives]: Road safety authority --[Collaborates with]-> Local councils 0.7453605532646179
+[Regional transport initiatives]: Road safety authority --[Collaborates with]-> Law enforcement agencies 0.7342172861099243
+[Regional transport initiatives]: Road safety authority --[Operates under]-> Ministry of transport 0.7623621225357056
+[Regional transport initiatives]: Ministry of transport --[Develops]-> National transport policies 0.7795248627662659
+[Regional transport initiatives]: Ministry of transport --[Oversees]-> Rail 0.777276873588562
+[Regional transport initiatives]: Health and safety at work act 2015 --[Applies to]-> Rail 0.7396606206893921
+[Regional transport initiatives]: Health and safety at work act 2015 --[Emphasizes]-> Importance of proactive risk management 0.7075015902519226
+[Regional transport initiatives]: Health and safety at work act 2015 --[Introduced]-> Robust approach to workplace safety 0.6842531561851501
+[Regional transport initiatives]: Health and safety at work act 2015 --[Applies to]-> Road transport 0.7374771237373352
+[Regional transport initiatives]: Health and safety at work act 2015 --[Emphasizes]-> Importance of risk management 0.7056347727775574
+[Regional transport initiatives]: Health and safety at work act 2015 --[Applies to]-> Maritime 0.7194004654884338
+[Regional transport initiatives]: Health and safety at work act 2015 --[Emphasizes]-> Worker participation 0.6915993690490723
+[Regional transport initiatives]: Health and safety at work act 2015 --[Is]-> Key piece of legislation 0.7063210010528564
+[Regional transport initiatives]: Health and safety at work act 2015 --[Applies to]-> Aviation 0.7165744304656982
+[Regional transport initiatives]: Health and safety at work act 2015 --[Replaced]-> Health and safety in employment act 1992 0.6839989423751831
+[Regional transport initiatives]: Health and safety at work act 2015 --[Introduced]-> Robust approach to workplace health and safety 0.6844643354415894
+[Regional transport initiatives]: Rail transport safety --[Governed by]-> Health and safety at work act 2015 0.7451267242431641
+[Regional transport initiatives]: Kiwirail --[Promotes]-> Rail 0.7738054990768433
+[Regional transport initiatives]: Kiwirail --[Operates]-> Great journeys of new zealand 0.7943307161331177
+[Regional transport initiatives]: Kiwirail --[Operates]-> Freight route 0.7979053854942322
+[Regional transport initiatives]: Kiwirail --[Transports]-> Manufactured items 0.7912017703056335
+[Regional transport initiatives]: Kiwirail --[Operates]-> Northern explorer 0.7879608869552612
+[Regional transport initiatives]: North island main trunk line --[Operated by]-> Kiwirail 0.7850237488746643
+[Regional transport initiatives]: Tranzalpine --[Operated by]-> Kiwirail 0.7855814695358276
+[Regional transport initiatives]: Kiwirail --[Operates]-> Rail network 0.7992857694625854
+[Regional transport initiatives]: Kiwirail --[Manages]-> Both freight and passenger services 0.8044120669364929
+[Regional transport initiatives]: Kiwirail --[Involved in]-> Development 0.8049492835998535
+[Regional transport initiatives]: Kiwirail --[Contributes to]-> Lower carbon emissions 0.7733069658279419
+[Regional transport initiatives]: Kiwirail --[Collaborates with]-> Maritime services 0.8077041506767273

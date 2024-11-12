@@ -1,0 +1,36 @@
+What are the two types of toll revenue for the Tākitimu Drive Toll Road?
+None
+Seed: Takitimu Drive Toll Road
+Seed: Toll Revenue
+Seed: toll revenue
+Seed: paid toll revenues
+[Takitimu Drive Toll Road]: Takitimu Drive Toll Road --[PROVIDES]-> Toll Revenue 0.9322882294654846
+[Takitimu Drive Toll Road]: Tauranga Eastern Link Toll Road --[PROVIDES]-> Toll Revenue 0.852565586566925
+[Takitimu Drive Toll Road]: Northern Gateway Toll Road --[PROVIDES]-> Toll Revenue 0.8446418642997742
+[Takitimu Drive Toll Road]: Northern Gateway Toll Road --[DEBT_REPAYMENT]-> 35 years 0.8155136108398438
+[Takitimu Drive Toll Road]: Northern Gateway Toll Road --[ESTIMATED_END_DATE]-> 2045 0.8091853857040405
+[Toll Revenue]: Tauranga Eastern Link Toll Road --[PROVIDES]-> Toll Revenue 0.852565586566925
+[Toll Revenue]: Takitimu Drive Toll Road --[PROVIDES]-> Toll Revenue 0.9322882294654846
+[Toll Revenue]: Northern Gateway Toll Road --[PROVIDES]-> Toll Revenue 0.8446418642997742
+[Toll Revenue]: Northern Gateway Toll Road --[DEBT_REPAYMENT]-> 35 years 0.8155136108398438
+[Toll Revenue]: Northern Gateway Toll Road --[ESTIMATED_END_DATE]-> 2045 0.8091853857040405
+[toll revenue]: NZTA --[RETAINS]-> toll revenue 0.813494861125946
+[toll revenue]: NZTA --[SETS]-> quality standards 0.7198219895362854
+[toll revenue]: quality standards --[THROUGH]-> Maintenance Management Plan 0.7423098087310791
+[toll revenue]: NZTA --[PROVIDES]-> maintenance specifications 0.7494863271713257
+[toll revenue]: maintenance specifications --[AVAILABLE]-> website 0.7504262328147888
+[toll revenue]: pothole repair specifications --[FROM]-> NZTA 0.751832127571106
+[toll revenue]: https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf --[ACCESS]-> pothole repair specifications 0.7740898132324219
+[toll revenue]: NZTA --[PROVIDES]-> third-party web pages 0.7571051120758057
+[toll revenue]: third-party web pages --[LINKS]-> https://www.ezstreetasphalt.co.nz/ 0.7661861181259155
+[toll revenue]: quarterly reports --[AUDITED]-> NZTA 0.7569300532341003
+[toll revenue]: Maintenance Management Plan --[REPORT]-> quarterly reports 0.7516701221466064
+[toll revenue]: transport_data --[ASSOCIATED_WITH]-> NZTA 0.7466048002243042
+[toll revenue]: page_label: 1 --[ASSOCIATED_WITH]-> transport_data 0.727715253829956
+[toll revenue]: transport_data --[ASSOCIATED_WITH]-> Andrew McFarlane 0.7564519643783569
+[toll revenue]: Andrew McFarlane --[ASSOCIATED_WITH]-> transport_data 0.7432098388671875
+[toll revenue]: transport_data --[CONTAINS]-> oia-9406-response 0.736716628074646
+[toll revenue]: oia-9406-response --[ASSOCIATED_WITH]-> transport_data 0.7315171957015991
+[toll revenue]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> transport_data 0.7747312188148499
+[toll revenue]: transport_data --[ASSOCIATED_WITH]-> temp_files 0.7299631237983704
+[toll revenue]: transport_data --[ASSOCIATED_WITH]-> sample_files 0.7311562299728394

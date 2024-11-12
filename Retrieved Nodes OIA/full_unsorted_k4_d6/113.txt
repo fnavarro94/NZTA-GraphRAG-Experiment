@@ -1,0 +1,36 @@
+How many complaints did NZTA receive about vehicle certifications not being performed correctly since January 1, 2010?
+None
+Seed: ride share operator complaints
+Seed: 196 complaints about Uber drivers
+Seed: Complaint Data
+Seed: vehicle registration and licensing
+[ride share operator complaints]: Waka Kotahi --[INVESTIGATES]-> ride share operator complaints 0.832413375377655
+[ride share operator complaints]: Response --[CONTAINS]-> Waka Kotahi 0.777920663356781
+[ride share operator complaints]: Waka Kotahi --[PUBLISHES]-> Response 0.773133397102356
+[ride share operator complaints]: response --[CONTAINS]-> Waka Kotahi 0.7680301070213318
+[ride share operator complaints]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.8524566888809204
+[ride share operator complaints]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.8032586574554443
+[ride share operator complaints]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.8252288103103638
+[ride share operator complaints]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.8033977746963501
+[ride share operator complaints]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> list of LGWM construction contracts 0.7900261878967285
+[ride share operator complaints]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> public transport fare policy review 0.8158063292503357
+[ride share operator complaints]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.8152452707290649
+[ride share operator complaints]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8095583319664001
+[ride share operator complaints]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.797878086566925
+[ride share operator complaints]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.80356764793396
+[ride share operator complaints]: Waka Kotahi NZ Transport Agency --[FAX]-> F 64 4 894 6100 0.8022409677505493
+[ride share operator complaints]: Andrew Knackstedt --[CONTACT]-> Waka Kotahi NZ Transport Agency 0.804612934589386
+[ride share operator complaints]: Waka Kotahi NZ Transport Agency --[CONTACT]-> T 64 4 894 5400 0.8038357496261597
+[ride share operator complaints]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7986866235733032
+[ride share operator complaints]: Chris Marshall --[REQUESTS]-> Waka Kotahi NZ Transport Agency 0.8125427961349487
+[ride share operator complaints]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.8474041223526001
+[ride share operator complaints]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.8158623576164246
+[ride share operator complaints]: Waka Kotahi NZ Transport Agency --[ANNOUNCED]-> Road to Zero 0.8143474459648132
+[ride share operator complaints]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8303651809692383
+[ride share operator complaints]: Road to Zero --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.829867959022522
+[ride share operator complaints]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.8070034980773926
+[ride share operator complaints]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7990099787712097
+[ride share operator complaints]: New Zealand --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.8236897587776184
+[ride share operator complaints]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.8226998448371887
+[ride share operator complaints]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7914031147956848
+[ride share operator complaints]: www.nzta.govt.nz --[OF]-> Waka Kotahi NZ Transport Agency 0.8459866046905518

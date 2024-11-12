@@ -1,0 +1,36 @@
+What is the largest city in the country known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, served by the key transport corridor critical for freight and passenger movement and runs through the North Island?
+None
+Seed: Critical for freight and passenger movement
+Seed: Critical aspect of transportation planning
+Seed: Critical component of new zealand's transport strategy
+Seed: Major cities and industrial hubs
+[Critical for freight and passenger movement]: North island main trunk railway --[Is]-> Critical for freight and passenger movement 0.8789194822311401
+[Critical for freight and passenger movement]: North island main trunk railway --[Supports]-> Tourism 0.8196532726287842
+[Critical for freight and passenger movement]: North island main trunk railway --[Supports]-> Industry 0.8065513968467712
+[Critical for freight and passenger movement]: North island main trunk railway --[Holds]-> Efficiency 0.7964693307876587
+[Critical for freight and passenger movement]: Tms --[Drives]-> Efficiency 0.7191572189331055
+[Critical for freight and passenger movement]: Tms --[Enhances]-> Efficiency 0.6986002326011658
+[Critical for freight and passenger movement]: Auckland city rail link --[Improves]-> Efficiency 0.770159125328064
+[Critical for freight and passenger movement]: Vehicle fleet optimization --[Improve]-> Efficiency 0.7561429142951965
+[Critical for freight and passenger movement]: Ruei --[Aimed at]-> Efficiency 0.7090021371841431
+[Critical for freight and passenger movement]: Vehicle technology advancements --[Enhanced]-> Efficiency 0.7332338094711304
+[Critical for freight and passenger movement]: Smart mobility solutions --[Enhance]-> Efficiency 0.7311604022979736
+[Critical for freight and passenger movement]: Intelligent transport systems --[Enhance]-> Efficiency 0.757359504699707
+[Critical for freight and passenger movement]: Road maintenance strategies --[Ensure]-> Efficiency 0.7498621940612793
+[Critical for freight and passenger movement]: North island main trunk railway --[Fosters]-> Movement of people 0.8246787786483765
+[Critical for freight and passenger movement]: Kiwirail --[Facilitates]-> Movement of people 0.7983046770095825
+[Critical for freight and passenger movement]: North island main trunk railway --[Holds]-> Vital link 0.8135520219802856
+[Critical for freight and passenger movement]: Hamilton --[Is]-> Vital link 0.7404083013534546
+[Critical for freight and passenger movement]: North island main trunk railway --[Features]-> Makatote viaduct 0.8120752573013306
+[Critical for freight and passenger movement]: North island main trunk line --[Features]-> Makatote viaduct 0.8124160766601562
+[Critical for freight and passenger movement]: North island main trunk railway --[Features]-> Hapuakohe viaduct 0.8094723224639893
+[Critical for freight and passenger movement]: North island main trunk railway --[Upgraded]-> Improve safety 0.7932639718055725
+[Critical for freight and passenger movement]: Electric and autonomous vehicles --[Potential]-> Improve safety 0.7317424416542053
+[Critical for freight and passenger movement]: North island main trunk railway --[Holds]-> Sustainability 0.8112154603004456
+[Critical for freight and passenger movement]: Auckland ferry network --[Commitment to]-> Sustainability 0.8070288896560669
+[Critical for freight and passenger movement]: Wellington public transport plan --[Objectives include]-> Sustainability 0.7868021726608276
+[Critical for freight and passenger movement]: North island main trunk line --[Enhances]-> Sustainability 0.8230651617050171
+[Critical for freight and passenger movement]: Auckland airport --[Committed]-> Sustainability 0.7862931489944458
+[Critical for freight and passenger movement]: Kiwirail group --[Prioritizes]-> Sustainability 0.7913309335708618
+[Critical for freight and passenger movement]: Waka kotahi --[Places emphasis on]-> Sustainability 0.7547691464424133
+[Critical for freight and passenger movement]: Transport skills strategy --[Primary objectives include]-> Sustainability 0.7925458550453186

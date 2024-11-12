@@ -1,0 +1,33 @@
+Which city in the country known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, utilizes the Snapper card as part of its initiative that has improved the reliability of public transport services and allowed users to plan their journeys more effectively?
+None
+Seed: Increased demand for effective transportation systems
+Seed: Critical aspect of transportation planning
+Seed: Adopting integrated transport planning approaches that consider public transport
+Seed: Critical for freight and passenger movement
+[Increased demand for effective transportation systems]: Unified ticketing systems --[Implemented in]-> Auckland 0.8030887842178345
+[Increased demand for effective transportation systems]: Sustainable urban transport --[Key component]-> Auckland 0.801565408706665
+[Increased demand for effective transportation systems]: Auckland --[Serves as]-> Critical hub for transport 0.8013814687728882
+[Increased demand for effective transportation systems]: Auckland --[Is]-> Critical hub for transport 0.7982074618339539
+[Increased demand for effective transportation systems]: Auckland --[Leading to]-> Increased demand for effective transportation systems 0.7975560426712036
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Comprehensive public transport system 0.7939363718032837
+[Increased demand for effective transportation systems]: Auckland --[Promoting]-> Sustainable transport solutions 0.7934367060661316
+[Critical aspect of transportation planning]: Transport demand forecasting --[Is]-> Critical aspect of transportation planning 0.8531844019889832
+[Critical aspect of transportation planning]: Transport demand forecasting --[Involves]-> Socio-economic indicators 0.8479941487312317
+[Critical aspect of transportation planning]: Transport demand forecasting --[Estimates]-> Future travel patterns 0.8352764844894409
+[Critical aspect of transportation planning]: Transport demand forecasting --[Involves]-> Statistical models 0.8292701840400696
+[Critical aspect of transportation planning]: Transport demand forecasting --[Estimates]-> Demand for various transport services 0.8238946199417114
+[Critical aspect of transportation planning]: Transport demand forecasting --[Involves]-> Historical data 0.8226068615913391
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Aims to]-> Create more efficient transport networks 0.8173280358314514
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Aims to]-> Create more sustainable transport networks 0.815064013004303
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches 0.8136506676673889
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting 0.8119127750396729
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider public transport 0.8116986751556396
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider active transport modes 0.8035451173782349
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider land use 0.8021007776260376
+[Critical for freight and passenger movement]: North island main trunk railway --[Is]-> Critical for freight and passenger movement 0.7882227301597595
+[Critical for freight and passenger movement]: North island main trunk railway --[Facilitates]-> Economic activity 0.7681409120559692
+[Critical for freight and passenger movement]: North island main trunk railway --[Serves]-> Passenger services 0.7659416198730469
+[Critical for freight and passenger movement]: North island main trunk railway --[Facilitates]-> Regional connectivity 0.7658423781394958
+[Critical for freight and passenger movement]: North island main trunk railway --[Supports]-> Tourism 0.7620102763175964
+[Critical for freight and passenger movement]: North island main trunk railway --[Equipped]-> Modern signaling systems 0.755599319934845
+[Critical for freight and passenger movement]: North island main trunk railway --[Upgraded]-> Improve safety 0.7528793811798096

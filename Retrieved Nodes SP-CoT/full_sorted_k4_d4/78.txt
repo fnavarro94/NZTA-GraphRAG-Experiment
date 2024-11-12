@@ -1,0 +1,29 @@
+In what year did the establishment become established?
+None
+Seed: Commenced in 1840
+Seed: Early european settlement in 19th century
+Seed: Establishment of national land transport fund
+Seed: In early european settlement
+[Commenced in 1840]: Auckland ferry network --[Origins]-> Date back to 19th century 0.7783321142196655
+[Commenced in 1840]: Auckland ferry network --[First regular ferry service]-> Commenced in 1840 0.7781304121017456
+[Commenced in 1840]: Auckland ferry network --[Evolved]-> Over years 0.7771065831184387
+[Commenced in 1840]: Public transport --[Underwent]-> Significant evolution 0.7739853262901306
+[Commenced in 1840]: Kiwirail group --[Established in]-> 2008 0.77164626121521
+[Commenced in 1840]: North island main trunk line --[Construction began]-> 1880s 0.767373263835907
+[Commenced in 1840]: Community engagement --[Fosters]-> Sense of ownership and preparedness among residents 0.7650713920593262
+[Early european settlement in 19th century]: New zealand police --[Established in]-> 1846 0.7831138968467712
+[Early european settlement in 19th century]: New zealand --[Had]-> Early european settlement in 19th century 0.7815529704093933
+[Early european settlement in 19th century]: Ministry of transport --[Established in]-> 1962 0.7813484072685242
+[Early european settlement in 19th century]: Kiwirail --[Established in]-> 2008 0.7777020931243896
+[Early european settlement in 19th century]: Public transport --[Underwent]-> Significant evolution 0.7739853262901306
+[Early european settlement in 19th century]: Air new zealand --[Established in]-> 1940 0.7739096879959106
+[Early european settlement in 19th century]: Walking access act --[Established]-> New zealand walking access commission 0.7724486589431763
+[Establishment of national land transport fund]: New zealand --[Had]-> Early european settlement in 19th century 0.7815529704093933
+[Establishment of national land transport fund]: Kiwirail --[Established in]-> 2008 0.7777020931243896
+[Establishment of national land transport fund]: Wellington regional council --[Established in]-> 1989 0.7745540142059326
+[Establishment of national land transport fund]: Public transport --[Underwent]-> Significant evolution 0.7739853262901306
+[Establishment of national land transport fund]: Kiwirail group --[Established in]-> 2008 0.77164626121521
+[Establishment of national land transport fund]: Vienna convention on road traffic --[Ratified by]-> Numerous countries 0.7708589434623718
+[Establishment of national land transport fund]: Resource management act 1991 --[Cornerstone]-> New zealand's approach to managing transport 0.7707273960113525
+[In early european settlement]: Road construction --[Was often rudimentary]-> In early european settlement 0.7652190923690796
+[In early european settlement]: Road construction --[Focused on]-> Connecting settlements and facilitating the transport of agricultural products 0.7438493967056274

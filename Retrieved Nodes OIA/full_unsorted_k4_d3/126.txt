@@ -1,0 +1,36 @@
+Were any details about the crash that caused the $93,114.27 repair withheld?
+None
+Seed: figures on drivers involved in fatal crashes
+Seed: report on the impacts of the Fare Recovery Ratio
+Seed: Traffic Crash Reports
+Seed: Operated A Motor Vehicle Recklessly
+[figures on drivers involved in fatal crashes]: AA --[PROVIDES]-> figures on drivers involved in fatal crashes 0.8103829622268677
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[PRODUCES]-> report on the impacts of the Fare Recovery Ratio 0.7906550168991089
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.761494517326355
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[BASED]-> Wellington 0.7631581425666809
+[report on the impacts of the Fare Recovery Ratio]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7414613962173462
+[report on the impacts of the Fare Recovery Ratio]: Golden Mile --[LOCATED]-> Wellington 0.7174379825592041
+[report on the impacts of the Fare Recovery Ratio]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7628307938575745
+[report on the impacts of the Fare Recovery Ratio]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7248379588127136
+[report on the impacts of the Fare Recovery Ratio]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7426981925964355
+[report on the impacts of the Fare Recovery Ratio]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7327812910079956
+[report on the impacts of the Fare Recovery Ratio]: Wellington --[PART_OF]-> Wellington Region 0.7353290915489197
+[report on the impacts of the Fare Recovery Ratio]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7395676374435425
+[report on the impacts of the Fare Recovery Ratio]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7383958101272583
+[report on the impacts of the Fare Recovery Ratio]: Wellington --[HAS]-> tunnel 0.7384694814682007
+[report on the impacts of the Fare Recovery Ratio]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7483415603637695
+[report on the impacts of the Fare Recovery Ratio]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7364115715026855
+[report on the impacts of the Fare Recovery Ratio]: Wellington --[POSTCODE]-> 6141 0.7237726449966431
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7591649293899536
+[report on the impacts of the Fare Recovery Ratio]: Wellington --[IS_PART_OF]-> New Zealand 0.7245323657989502
+[report on the impacts of the Fare Recovery Ratio]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7399837970733643
+[report on the impacts of the Fare Recovery Ratio]: 50 Victoria Street --[IN]-> Wellington 0.7330337166786194
+[report on the impacts of the Fare Recovery Ratio]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7271844148635864
+[report on the impacts of the Fare Recovery Ratio]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7508494853973389
+[report on the impacts of the Fare Recovery Ratio]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7396727800369263
+[report on the impacts of the Fare Recovery Ratio]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7498635649681091
+[report on the impacts of the Fare Recovery Ratio]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7528712749481201
+[report on the impacts of the Fare Recovery Ratio]: NZ Transport Agency --[LOCATED]-> Wellington 0.7616066932678223
+[report on the impacts of the Fare Recovery Ratio]: Wellington --[CONTAINS]-> 50 Victoria Street 0.730940580368042
+[report on the impacts of the Fare Recovery Ratio]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7298210263252258
+[report on the impacts of the Fare Recovery Ratio]: New Zealand --[CONTAINS]-> Wellington 0.7194806933403015

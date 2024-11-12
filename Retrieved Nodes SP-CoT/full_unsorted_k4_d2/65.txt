@@ -1,0 +1,36 @@
+What significant engineering challenge associated with the North Island Main Trunk Railway, completed in the year when the major railway line in New Zealand being upgraded to enhance its capacity and efficiency for sustainable transport officially completed its construction, marking a significant achievement in New Zealand's railway history, is known for its unique spiral design?
+None
+Seed: North island main trunk railway
+Seed: Cultural significance
+Seed: Critical component of new zealand's transport strategy
+Seed: Unique challenges in transportation
+[North island main trunk railway]: North island main trunk railway --[Supports]-> Tourism 0.850215494632721
+[North island main trunk railway]: North island main trunk railway --[Supports]-> Industry 0.8565020561218262
+[North island main trunk railway]: North island main trunk railway --[Holds]-> Efficiency 0.8593642711639404
+[North island main trunk railway]: Tms --[Drives]-> Efficiency 0.7079293727874756
+[North island main trunk railway]: Tms --[Enhances]-> Efficiency 0.7096881866455078
+[North island main trunk railway]: Auckland city rail link --[Improves]-> Efficiency 0.8204474449157715
+[North island main trunk railway]: Vehicle fleet optimization --[Improve]-> Efficiency 0.7568756341934204
+[North island main trunk railway]: Ruei --[Aimed at]-> Efficiency 0.7277042269706726
+[North island main trunk railway]: Vehicle technology advancements --[Enhanced]-> Efficiency 0.7663722634315491
+[North island main trunk railway]: Smart mobility solutions --[Enhance]-> Efficiency 0.7323766946792603
+[North island main trunk railway]: Intelligent transport systems --[Enhance]-> Efficiency 0.7592657804489136
+[North island main trunk railway]: Road maintenance strategies --[Ensure]-> Efficiency 0.7580763697624207
+[North island main trunk railway]: North island main trunk railway --[Fosters]-> Movement of people 0.8500939607620239
+[North island main trunk railway]: Kiwirail --[Facilitates]-> Movement of people 0.8127230405807495
+[North island main trunk railway]: North island main trunk railway --[Holds]-> Vital link 0.8642314672470093
+[North island main trunk railway]: Hamilton --[Is]-> Vital link 0.755753755569458
+[North island main trunk railway]: North island main trunk railway --[Features]-> Makatote viaduct 0.8682925701141357
+[North island main trunk railway]: North island main trunk line --[Features]-> Makatote viaduct 0.8550662398338318
+[North island main trunk railway]: North island main trunk railway --[Features]-> Hapuakohe viaduct 0.8629626035690308
+[North island main trunk railway]: North island main trunk railway --[Upgraded]-> Improve safety 0.8577054738998413
+[North island main trunk railway]: Electric and autonomous vehicles --[Potential]-> Improve safety 0.7367243766784668
+[North island main trunk railway]: North island main trunk railway --[Holds]-> Sustainability 0.8759446740150452
+[North island main trunk railway]: Auckland ferry network --[Commitment to]-> Sustainability 0.8293564319610596
+[North island main trunk railway]: Wellington public transport plan --[Objectives include]-> Sustainability 0.8179532289505005
+[North island main trunk railway]: North island main trunk line --[Enhances]-> Sustainability 0.868940532207489
+[North island main trunk railway]: Auckland airport --[Committed]-> Sustainability 0.8035991787910461
+[North island main trunk railway]: Kiwirail group --[Prioritizes]-> Sustainability 0.8183112740516663
+[North island main trunk railway]: Waka kotahi --[Places emphasis on]-> Sustainability 0.7675246000289917
+[North island main trunk railway]: Transport skills strategy --[Primary objectives include]-> Sustainability 0.800251305103302
+[North island main trunk railway]: Freight transport in new zealand --[Driven by]-> Sustainability 0.8396936655044556

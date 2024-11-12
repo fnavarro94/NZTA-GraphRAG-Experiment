@@ -1,0 +1,24 @@
+What is required for obtaining an I endorsement, and how are criminal convictions considered during the process?
+None
+Seed: information related to criminal convictions of driving instructor (I) endorsement holders
+Seed: criminal convictions
+Seed: applications for I endorsements
+Seed: Applicant 7
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Michael Morrah --[REQUESTS]-> information related to criminal convictions of driving instructor (I) endorsement holders 0.8631559610366821
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Michael Morrah --[SUBMITTED]-> request for information 0.7815238833427429
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[RESPONDS]-> request for information 0.7621119022369385
+[criminal convictions]: I endorsements --[HOLD]-> criminal convictions 0.9105414152145386
+[criminal convictions]: Transport Agency --[ASSESS]-> applications for I endorsements 0.862134575843811
+[criminal convictions]: criminal convictions --[ASSOCIATED_WITH]-> driver trainers or instructors 0.846613347530365
+[criminal convictions]: Transport Agency --[GRANT]-> I endorsements 0.8239597082138062
+[criminal convictions]: drink driving --[EXAMPLE_OF]-> criminal convictions 0.8239001035690308
+[criminal convictions]: criminal convictions --[ASSOCIATED]-> Table 2 0.8187154531478882
+[criminal convictions]: assault --[EXAMPLE_OF]-> criminal convictions 0.8160470724105835
+[applications for I endorsements]: I endorsements --[HOLD]-> criminal convictions 0.9105414152145386
+[applications for I endorsements]: applications for I endorsements --[INCLUDE]-> renewals of existing endorsement holders 0.8636582493782043
+[applications for I endorsements]: Transport Agency --[ASSESS]-> applications for I endorsements 0.862134575843811
+[applications for I endorsements]: fit and proper person assessments --[FORM]-> criminal history 0.8423911333084106
+[applications for I endorsements]: Transport Agency --[GRANT]-> I endorsements 0.8239597082138062
+[applications for I endorsements]: Transport Agency --[REQUIRE]-> fit and proper person assessments 0.8002368211746216
+[applications for I endorsements]: www.ombudsman.parliament.nz --[ASSOCIATED]-> Ombudsman 0.7923822402954102
+[Applicant 7]: Applicant 7 --[CONVICTED]-> Breach Probation 0.8229623436927795

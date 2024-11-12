@@ -1,0 +1,22 @@
+What factors contributed to fatal crashes in 2020 related to drug driving in New Zealand?
+None
+Seed: figures on drivers involved in fatal crashes
+Seed: information on driver fatalities
+Seed: Traffic Crash Report
+Seed: drivers involved in fatal crashes
+[figures on drivers involved in fatal crashes]: AA --[PROVIDES]-> figures on drivers involved in fatal crashes 0.8313195705413818
+[information on driver fatalities]: Emma Conyngham --[REQUESTS]-> information on driver fatalities 0.8283253908157349
+[Traffic Crash Report]: Traffic Crash Report --[PROVIDED_BY]-> New Zealand Police 0.8693548440933228
+[Traffic Crash Report]: Traffic Crash Report --[PROVIDED_BY]-> NZ Police 0.8668946027755737
+[Traffic Crash Report]: fatal crashes --[CAUSED_BY]-> drugs or alcohol 0.8644579648971558
+[Traffic Crash Report]: NZ Police --[INVESTIGATES]-> road traffic crashes 0.863654375076294
+[Traffic Crash Report]: Fatal Crashes --[TESTED_FOR]-> Alcohol and Drugs 0.861174464225769
+[Traffic Crash Report]: Road Traffic Crash Data --[RELATES_TO]-> Christchurch Region 0.8588571548461914
+[Traffic Crash Report]: New Zealand Police --[SUBMITS]-> Traffic Crash Report 0.8587691783905029
+[drivers involved in fatal crashes]: Traffic Crash Report --[PROVIDED_BY]-> New Zealand Police 0.8693548440933228
+[drivers involved in fatal crashes]: Traffic Crash Report --[PROVIDED_BY]-> NZ Police 0.8668946027755737
+[drivers involved in fatal crashes]: fatal crashes --[CAUSED_BY]-> drugs or alcohol 0.8644579648971558
+[drivers involved in fatal crashes]: NZ Police --[INVESTIGATES]-> road traffic crashes 0.863654375076294
+[drivers involved in fatal crashes]: New Zealand Police --[SUBMITS]-> Traffic Crash Report 0.8587691783905029
+[drivers involved in fatal crashes]: New Zealand Police --[REPORTS]-> crashes 0.8584827184677124
+[drivers involved in fatal crashes]: NZ Police --[PROVIDES]-> Traffic Crash Report 0.8583921194076538

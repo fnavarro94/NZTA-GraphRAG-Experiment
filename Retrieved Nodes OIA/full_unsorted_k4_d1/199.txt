@@ -1,0 +1,13 @@
+How did the number of direct reports to the NZTA Chief Executive change from 2014 to 2016?
+None
+Seed: Annual Reports
+Seed: Annual Monitoring Report 2020
+Seed: resignations by year since 2014
+Seed: Chief Financial Officer
+[Annual Reports]: Waka Kotahi --[PUBLISHES]-> Annual Reports 0.8086501955986023
+[Annual Reports]: Annual Reports --[CONTAINS]-> paid toll revenues 0.8178408741950989
+[Annual Reports]: paid toll revenues --[AVAILABLE_IN]-> Annual Reports 0.8177779912948608
+[Annual Monitoring Report 2020]: Road to Zero --[PUBLICATION]-> Annual Monitoring Report 2020 0.8032861948013306
+[Annual Monitoring Report 2020]: Road to Zero --[EFFECTIVENESS]-> Annual Monitoring Report 2020 0.8004356622695923
+[resignations by year since 2014]: New Zealand Transport Agency --[PROVIDES]-> resignations by year since 2014 0.8596545457839966
+[Chief Financial Officer]: Chief Financial Officer --[HELD_BY]-> Howard Cattermole 0.790883481502533

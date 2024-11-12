@@ -1,0 +1,36 @@
+What were the key safety incidents reported to the board in the June 2017 update?
+None
+Seed: Safety Incidents
+Seed: health and safety incidents
+Seed: rail operational safety
+Seed: incident reports
+[Safety Incidents]: Health, Safety & Quality Report --[CONTAINS]-> Safety Incidents 0.8728950619697571
+[Safety Incidents]: Stephen Bell --[SUBMITS_REPORT]-> Health, Safety & Quality Report 0.8239105939865112
+[Safety Incidents]: Board --[RECEIVES_REPORT]-> Health, Safety & Quality Report 0.8639699816703796
+[Safety Incidents]: Safety Incidents --[INVESTIGATED]-> Board 0.9061064720153809
+[health and safety incidents]: health and safety incidents --[REGIONAL_BREAKDOWN]-> regional breakdown 0.8423941135406494
+[health and safety incidents]: regional breakdown --[LISTS]-> incidents by region 0.8265296220779419
+[health and safety incidents]: incidents by region --[INCLUDES]-> total incidents per year 0.8226777911186218
+[health and safety incidents]: total incidents per year --[SHOWS]-> 2008-2013 0.8202311992645264
+[health and safety incidents]: 2008-2013 --[CONTAINS]-> incident reports 0.8422702550888062
+[health and safety incidents]: Health and Safety Committee --[REVIEW]-> incident reports 0.8606594204902649
+[health and safety incidents]: incident reports --[REVIEWED]-> regional managers 0.8352941870689392
+[health and safety incidents]: incident reports --[RETAINED]-> 12 months 0.8259391188621521
+[health and safety incidents]: spreadsheet --[CONTAINS]-> incident reports 0.8142615556716919
+[health and safety incidents]: incident reports --[ISO]-> International Organisation for Standardisation 0.8296846151351929
+[health and safety incidents]: incident reports --[RELATE_TO]-> health and safety incidents 0.8450368046760559
+[health and safety incidents]: 12 months --[RETENTION_PERIOD]-> incident reports 0.8232512474060059
+[health and safety incidents]: health and safety incidents --[OCCURRED]-> 2008-2013 0.8658453226089478
+[health and safety incidents]: Waka Kotahi --[DOES_NOT_CAPTURE]-> regional breakdown 0.7298918962478638
+[health and safety incidents]: Response --[CONTAINS]-> Waka Kotahi 0.7590593695640564
+[health and safety incidents]: Waka Kotahi --[PUBLISHES]-> Response 0.7490239143371582
+[health and safety incidents]: response --[CONTAINS]-> Waka Kotahi 0.7383288145065308
+[health and safety incidents]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.7886247634887695
+[health and safety incidents]: Charles Ronaldson --[SIGNED]-> response 0.7395457029342651
+[health and safety incidents]: Lauren Cooke --[SIGNED]-> response 0.7470457553863525
+[health and safety incidents]: Waka Kotahi --[PUBLISHED_BY]-> response 0.7484826445579529
+[health and safety incidents]: Ministry --[PROVIDE]-> response 0.7626276016235352
+[health and safety incidents]: response --[REMOVED]-> personal information 0.7390124797821045
+[health and safety incidents]: Waka Kotahi website --[CONTAINS]-> response 0.7429202795028687
+[health and safety incidents]: New Zealand Transport Agency --[DISCUSSES]-> response 0.7887694835662842
+[health and safety incidents]: response --[IS_A]-> letter 0.7289636135101318

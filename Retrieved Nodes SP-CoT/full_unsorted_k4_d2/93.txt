@@ -1,0 +1,36 @@
+In which decade did the construction of the major railway line that is being upgraded to enhance its capacity and efficiency for sustainable transport begin?
+None
+Seed: Growing emphasis on sustainable transport solutions
+Seed: Vision for sustainable transport system
+Seed: Growing emphasis on sustainable transport options
+Seed: Sustainable and efficient transportation solutions
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Growing emphasis on sustainable transport solutions 0.8435629606246948
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Transport projects 0.814051628112793
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.790014386177063
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Diverse transport network 0.7935557961463928
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Post-incident review 0.7144147753715515
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.7772168517112732
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.7751072645187378
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Broader environmental policies 0.7797656059265137
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Traffic congestion 0.7614507079124451
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Increasing urbanization 0.7779672145843506
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Graduated licensing system 0.7473325133323669
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Extensive coastline supporting a thriving fishing industry and recreational boating activities 0.7561475038528442
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Trend towards more integrated and environmentally friendly transport solutions 0.833670973777771
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Extensive network of roads 0.7856811285018921
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Public transport network planning 0.8049405217170715
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Public transit 0.7804231643676758
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Goal 0.7581408619880676
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Transport system sustainability 0.8306148648262024
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Walking 0.7538580894470215
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Cycling 0.7531002163887024
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Biodiversity 0.7318540811538696
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Urban-rural dynamics 0.7516952157020569
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Unique geographical features 0.7455358505249023
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Transport funding strategies 0.8058066368103027
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Growing population 0.7684884071350098
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Light rail 0.8079559206962585
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Buses 0.7718805074691772
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Land transport management act 2003 0.7846980690956116
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Ferries 0.7699620127677917
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Trains 0.8033978939056396

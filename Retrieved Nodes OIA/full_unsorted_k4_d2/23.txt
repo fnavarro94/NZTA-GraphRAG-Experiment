@@ -1,0 +1,32 @@
+How many fatal crashes in the Queenstown Lakes and Central Otago districts involved overseas drivers between 2015 and 2019?
+None
+Seed: drivers involved in fatal crashes
+Seed: Road Traffic Crashes
+Seed: road traffic crashes
+Seed: figures on drivers involved in fatal crashes
+[drivers involved in fatal crashes]: drivers involved in fatal crashes --[INVOLVED_IN]-> fatal crashes 0.8378830552101135
+[drivers involved in fatal crashes]: fatal crashes --[CAUSED_BY]-> drugs or alcohol 0.8137697577476501
+[drivers involved in fatal crashes]: drivers --[INVOLVED_IN]-> fatal crashes 0.8369482755661011
+[drivers involved in fatal crashes]: fatal crashes --[RECORDED]-> CAS 0.8141757845878601
+[Road Traffic Crashes]: Road Traffic Crashes --[ANALYZED_BY]-> Crash Analysis 0.822953462600708
+[Road Traffic Crashes]: Crash Analysis --[PERFORMED_BY]-> Waka Kotahi NZ Transport Agency 0.8391750454902649
+[Road Traffic Crashes]: Factor 103 --[CONTRIBUTES_TO]-> Crash Analysis 0.789703905582428
+[Road Traffic Crashes]: Alcohol Consumption --[CONTRIBUTES_TO]-> Road Traffic Crashes 0.8032260537147522
+[Road Traffic Crashes]: Road Traffic --[AFFECTED_BY]-> Alcohol Consumption 0.7904930114746094
+[road traffic crashes]: NZ Police --[INVESTIGATES]-> road traffic crashes 0.8609979152679443
+[road traffic crashes]: Traffic Crash Report --[PROVIDED_BY]-> NZ Police 0.8455184698104858
+[road traffic crashes]: NZ Police --[GATHER]-> statistics 0.7985237836837769
+[road traffic crashes]: Traffic Crash Report --[RECEIVED]-> NZ Police 0.8311012387275696
+[road traffic crashes]: New Zealand Transport Agency --[COLLABORATES_WITH]-> NZ Police 0.7946813106536865
+[road traffic crashes]: Traffic Crash Reports --[RECEIVED_FROM]-> NZ Police 0.8457080721855164
+[road traffic crashes]: NZ Police --[PROVIDES]-> Traffic Crash Reports 0.8475687503814697
+[road traffic crashes]: Waka Kotahi NZ Transport Agency --[RECEIVES_REQUEST]-> NZ Police 0.7891117930412292
+[road traffic crashes]: NZ Police --[GATHERS]-> statistics 0.801461398601532
+[road traffic crashes]: crashes --[BY]-> NZ Police 0.8536702394485474
+[road traffic crashes]: Waka Kotahi --[COLLABORATES_WITH]-> NZ Police 0.7699638605117798
+[road traffic crashes]: Traffic Crash Report --[RECEIVED_FROM]-> NZ Police 0.8368130922317505
+[road traffic crashes]: NZ Police --[PROVIDES]-> crash reports 0.847726583480835
+[road traffic crashes]: NZ Police --[PROVIDES]-> Traffic Crash Report 0.8429797887802124
+[road traffic crashes]: road traffic crashes --[OCCURS_IN]-> Queenstown Lakes and Central Otago 0.9232737421989441
+[road traffic crashes]: Queenstown Lakes and Central Otago --[PART_OF]-> New Zealand 0.8685100674629211
+[figures on drivers involved in fatal crashes]: AA --[PROVIDES]-> figures on drivers involved in fatal crashes 0.827420711517334

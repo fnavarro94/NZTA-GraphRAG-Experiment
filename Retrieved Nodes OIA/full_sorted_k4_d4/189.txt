@@ -1,0 +1,24 @@
+How are exemptions for wearing bicycle and motorcycle helmets granted in New Zealand?
+None
+Seed: exemptions
+Seed: instances where a driver and/or passenger may automatically be excused from the requirement to utilise a child restrain and seatbelt
+Seed: grant formal exemptions
+Seed: an adherent of the Sikh religion to be excused from wearing a motorcycle helmet, providing they will not be travelling at a speed exceeding 50kmph
+[exemptions]: New Zealand Transport Agency --[GRANTS]-> exemptions 0.8846818208694458
+[exemptions]: questions and responses --[FROM]-> NZ Transport Agency 0.8633939027786255
+[exemptions]: New Zealand --[REGULATES]-> Vehicle Inspection 0.8608811497688293
+[exemptions]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.8551042079925537
+[exemptions]: New Zealand Transport Agency --[PROVIDES]-> answers to questions 1 and 2 0.8539133667945862
+[exemptions]: New Zealand Transport Agency --[PROVIDES]-> responses to written questions 1-112 0.8522070646286011
+[exemptions]: New Zealand Transport Agency --[ASSOCIATED]-> Business-as-usual legal advice 0.8492262959480286
+[instances where a driver and/or passenger may automatically be excused from the requirement to utilise a child restrain and seatbelt]: Land Transport (Road User) Rule 2004 --[ALLOWS]-> an adherent of the Sikh religion to be excused from wearing a motorcycle helmet, providing they will not be travelling at a speed exceeding 50kmph 0.8302692174911499
+[instances where a driver and/or passenger may automatically be excused from the requirement to utilise a child restrain and seatbelt]: Land Transport (Road User) Rule 2004 --[SPECIFIES]-> instances where a driver and/or passenger may automatically be excused from the requirement to utilise a child restrain and seatbelt 0.8150814771652222
+[grant formal exemptions]: New Zealand Transport Agency --[GRANTS]-> exemptions 0.8846818208694458
+[grant formal exemptions]: questions and responses --[FROM]-> NZ Transport Agency 0.8633939027786255
+[grant formal exemptions]: New Zealand --[REGULATES]-> Vehicle Inspection 0.8608811497688293
+[grant formal exemptions]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.8551042079925537
+[grant formal exemptions]: New Zealand Transport Agency --[PROVIDES]-> answers to questions 1 and 2 0.8539133667945862
+[grant formal exemptions]: New Zealand Transport Agency --[PROVIDES]-> responses to written questions 1-112 0.8522070646286011
+[grant formal exemptions]: New Zealand Transport Agency --[ASSOCIATED]-> Business-as-usual legal advice 0.8492262959480286
+[an adherent of the Sikh religion to be excused from wearing a motorcycle helmet, providing they will not be travelling at a speed exceeding 50kmph]: Land Transport (Road User) Rule 2004 --[ALLOWS]-> an adherent of the Sikh religion to be excused from wearing a motorcycle helmet, providing they will not be travelling at a speed exceeding 50kmph 0.8302692174911499
+[an adherent of the Sikh religion to be excused from wearing a motorcycle helmet, providing they will not be travelling at a speed exceeding 50kmph]: Land Transport (Road User) Rule 2004 --[SPECIFIES]-> instances where a driver and/or passenger may automatically be excused from the requirement to utilise a child restrain and seatbelt 0.8150814771652222

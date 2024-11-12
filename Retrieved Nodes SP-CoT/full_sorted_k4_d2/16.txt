@@ -1,0 +1,34 @@
+What legislation established the source of funding for road maintenance strategies in New Zealand, which is derived from fuel excise duties and road user charges?
+None
+Seed: Primarily financed through fuel excise duties
+Seed: Funding maintenance and development of roads
+Seed: Fuel excise duties
+Seed: Legislative framework for road safety initiatives
+[Primarily financed through fuel excise duties]: National land transport fund --[Sourced from]-> Fuel excise duties 0.8843120336532593
+[Primarily financed through fuel excise duties]: National land transport fund --[Is financed by]-> Fuel excise duties 0.8761168718338013
+[Primarily financed through fuel excise duties]: National land transport fund --[Sourced from]-> Road user charges 0.8689301013946533
+[Primarily financed through fuel excise duties]: National land transport fund --[Is]-> Primarily financed through fuel excise duties 0.8661221265792847
+[Primarily financed through fuel excise duties]: National land transport fund --[Is financed by]-> Road user charges 0.8534057140350342
+[Primarily financed through fuel excise duties]: National land transport fund --[Established by]-> New zealand government 0.850501298904419
+[Primarily financed through fuel excise duties]: National land transport fund --[Is]-> Primarily financed through road user charges 0.8501863479614258
+[Funding maintenance and development of roads]: Road user charges --[Aimed at]-> Funding maintenance and development of roads 0.8767119646072388
+[Funding maintenance and development of roads]: Road user charges --[Aligns with]-> New zealand's broader goals of sustainability and reducing greenhouse gas emissions 0.8712035417556763
+[Funding maintenance and development of roads]: National land transport fund --[Sourced from]-> Road user charges 0.8689301013946533
+[Funding maintenance and development of roads]: National land transport fund --[Is financed by]-> Road user charges 0.8534057140350342
+[Funding maintenance and development of roads]: Road user charges --[Applies to]-> Certain heavy petrol vehicles 0.848840594291687
+[Funding maintenance and development of roads]: Road user charges --[Administered by]-> Waka kotahi nz transport agency 0.846904456615448
+[Funding maintenance and development of roads]: Road user charges --[Undergone]-> Various reforms since inception 0.8452348709106445
+[Fuel excise duties]: National land transport fund --[Sourced from]-> Fuel excise duties 0.8843120336532593
+[Fuel excise duties]: National land transport fund --[Is financed by]-> Fuel excise duties 0.8761168718338013
+[Fuel excise duties]: National land transport fund --[Sourced from]-> Road user charges 0.8689301013946533
+[Fuel excise duties]: National land transport fund --[Is]-> Primarily financed through fuel excise duties 0.8661221265792847
+[Fuel excise duties]: National land transport fund --[Is financed by]-> Road user charges 0.8534057140350342
+[Fuel excise duties]: National land transport fund --[Established by]-> New zealand government 0.850501298904419
+[Fuel excise duties]: National land transport fund --[Is]-> Primarily financed through road user charges 0.8501863479614258
+[Legislative framework for road safety initiatives]: New zealand --[Has]-> Land transport act 1998 0.8524705767631531
+[Legislative framework for road safety initiatives]: New zealand --[Governed by]-> Land transport act 1998 0.8505251407623291
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Complemented by]-> Land transport (road user 0.8403339982032776
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Complemented by]-> Resource management act 1991 0.8357477188110352
+[Legislative framework for road safety initiatives]: Road safety legislation --[Governed by]-> Land transport act 1998 0.8335548043251038
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Provides]-> Legislative framework for road safety initiatives 0.8309229016304016
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Establishes]-> Legal framework for enforcement of road rules 0.8251230716705322

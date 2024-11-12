@@ -1,0 +1,36 @@
+Who is responsible for engaging with the community to enhance the project in Wellington that connects various neighborhoods and promotes cycling as a primary mode of transport?
+None
+Seed: A crucial role in funding and promoting cycling infrastructure projects
+Seed: Wellington's commitment to becoming a more cycle-friendly city
+Seed: Broader initiative by the wellington city council and greater wellington regional council
+Seed: Promote sustainable transport
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Plays]-> A crucial role in funding and promoting cycling infrastructure projects 0.8742314577102661
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> New zealand transport agency 0.8144060373306274
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Transport projects 0.8596951961517334
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand transport agency --[Oversees]-> Transport projects 0.8314120769500732
+[A crucial role in funding and promoting cycling infrastructure projects]: Auckland --[Has]-> Transport projects 0.8558728694915771
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.8227630853652954
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Diverse transport network 0.8350617289543152
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Post-incident review 0.7522058486938477
+[A crucial role in funding and promoting cycling infrastructure projects]: Post-incident review --[Crucial for]-> Improving operational efficiency 0.7212666273117065
+[A crucial role in funding and promoting cycling infrastructure projects]: Post-incident review --[Crucial for]-> Fostering culture of continuous improvement 0.7238011956214905
+[A crucial role in funding and promoting cycling infrastructure projects]: Post-incident review --[Aimed at]-> Recommending measures 0.709986686706543
+[A crucial role in funding and promoting cycling infrastructure projects]: Post-incident review --[Crucial for]-> Enhancing safety 0.7085115313529968
+[A crucial role in funding and promoting cycling infrastructure projects]: Post-incident review --[Is]-> Systematic process 0.7089231610298157
+[A crucial role in funding and promoting cycling infrastructure projects]: Post-incident review --[Conducted]-> Following an incident 0.7143995761871338
+[A crucial role in funding and promoting cycling infrastructure projects]: Post-incident review --[Aimed at]-> Analyzing circumstances 0.7170097231864929
+[A crucial role in funding and promoting cycling infrastructure projects]: Post-incident review --[Aimed at]-> Identifying contributing factors 0.7295114398002625
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.7994464635848999
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.8100224137306213
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Broader environmental policies 0.7780201435089111
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Traffic congestion 0.8084795475006104
+[A crucial role in funding and promoting cycling infrastructure projects]: Auckland --[Faces challenges]-> Traffic congestion 0.8074570298194885
+[A crucial role in funding and promoting cycling infrastructure projects]: Wellington public transport plan --[Initiated in response to]-> Traffic congestion 0.8652113676071167
+[A crucial role in funding and promoting cycling infrastructure projects]: Auckland --[Has]-> Traffic congestion 0.8059086203575134
+[A crucial role in funding and promoting cycling infrastructure projects]: Wellington --[Has]-> Traffic congestion 0.8532798290252686
+[A crucial role in funding and promoting cycling infrastructure projects]: Wellington public transport spine study --[Initiated in response to]-> Traffic congestion 0.8433274030685425
+[A crucial role in funding and promoting cycling infrastructure projects]: Sustainable urban transport --[Faces challenges]-> Traffic congestion 0.794615626335144
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Face]-> Traffic congestion 0.7998186945915222
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Address]-> Traffic congestion 0.7858529090881348
+[A crucial role in funding and promoting cycling infrastructure projects]: New zealand --[Has]-> Increasing urbanization 0.8080179691314697
+[A crucial role in funding and promoting cycling infrastructure projects]: Wellington public transport plan --[Initiated in response to]-> Increasing urbanization 0.8791492581367493

@@ -1,0 +1,34 @@
+Which major urban center is located to the south of the city in the region known for its Metlink services, which focus on providing comprehensive coverage across the region?
+None
+Seed: To connect urban centers with rural areas
+Seed: Major urban centers
+Seed: Urban centers and rural communities
+Seed: Key urban centers
+[To connect urban centers with rural areas]: Metlink --[Provides]-> Essential services to commuters and residents 0.8554468154907227
+[To connect urban centers with rural areas]: Metlink --[Provides services to]-> Greater wellington region 0.8466517925262451
+[To connect urban centers with rural areas]: Metlink --[Includes]-> Hutt valley and porirua 0.8327236175537109
+[To connect urban centers with rural areas]: Sustainable urban transport --[Key component]-> Metlink network 0.8307896852493286
+[To connect urban centers with rural areas]: State highway 1 --[Links]-> Major urban centers 0.8290444612503052
+[To connect urban centers with rural areas]: Wellington regional council --[Operates]-> Metlink brand 0.8277985453605652
+[To connect urban centers with rural areas]: Jetstar --[Operates]-> Numerous routes connecting major cities and regional centers 0.8256642818450928
+[Major urban centers]: Metlink --[Provides]-> Essential services to commuters and residents 0.8554468154907227
+[Major urban centers]: Metlink --[Provides services to]-> Greater wellington region 0.8466517925262451
+[Major urban centers]: Metlink --[Includes]-> Hutt valley and porirua 0.8327236175537109
+[Major urban centers]: Sustainable urban transport --[Key component]-> Metlink network 0.8307896852493286
+[Major urban centers]: State highway 1 --[Links]-> Major urban centers 0.8290444612503052
+[Major urban centers]: Wellington regional council --[Operates]-> Metlink brand 0.8277985453605652
+[Major urban centers]: Metlink --[Is]-> Public transport network 0.8175185322761536
+[Urban centers and rural communities]: Metlink --[Provides]-> Essential services to commuters and residents 0.8554468154907227
+[Urban centers and rural communities]: Metlink --[Provides services to]-> Greater wellington region 0.8466517925262451
+[Urban centers and rural communities]: Metlink --[Includes]-> Hutt valley and porirua 0.8327236175537109
+[Urban centers and rural communities]: Sustainable urban transport --[Key component]-> Metlink network 0.8307896852493286
+[Urban centers and rural communities]: State highway 1 --[Links]-> Major urban centers 0.8290444612503052
+[Urban centers and rural communities]: Wellington regional council --[Operates]-> Metlink brand 0.8277985453605652
+[Urban centers and rural communities]: Jetstar --[Operates]-> Numerous routes connecting major cities and regional centers 0.8256642818450928
+[Key urban centers]: Sustainable urban transport --[Key component]-> Metlink network 0.8307896852493286
+[Key urban centers]: Wellington regional council --[Operates]-> Metlink brand 0.8277985453605652
+[Key urban centers]: Jetstar --[Operates]-> Numerous routes connecting major cities and regional centers 0.8256642818450928
+[Key urban centers]: Pch --[Connects]-> Key urban centers 0.8215506076812744
+[Key urban centers]: Air new zealand --[Plays crucial role in]-> Connecting new zealand's remote regions with major urban centers 0.8182979226112366
+[Key urban centers]: Rail network --[Connects]-> Major cities and industrial hubs 0.807607889175415
+[Key urban centers]: Wellington --[Connected to]-> Other major urban centers 0.8045737147331238

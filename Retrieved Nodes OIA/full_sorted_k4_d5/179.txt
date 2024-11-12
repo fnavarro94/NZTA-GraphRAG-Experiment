@@ -1,0 +1,30 @@
+What are the two types of toll revenue for the Tākitimu Drive Toll Road?
+None
+Seed: Takitimu Drive Toll Road
+Seed: Toll Revenue
+Seed: toll revenue
+Seed: paid toll revenues
+[Takitimu Drive Toll Road]: Takitimu Drive Toll Road --[PROVIDES]-> Toll Revenue 0.9322882294654846
+[Takitimu Drive Toll Road]: Tauranga Eastern Link Toll Road --[PROVIDES]-> Toll Revenue 0.852565586566925
+[Takitimu Drive Toll Road]: Northern Gateway Toll Road --[PROVIDES]-> Toll Revenue 0.8446418642997742
+[Takitimu Drive Toll Road]: Northern Gateway Toll Road --[DEBT_REPAYMENT]-> 35 years 0.8155136108398438
+[Takitimu Drive Toll Road]: Northern Gateway Toll Road --[ESTIMATED_END_DATE]-> 2045 0.8091853857040405
+[Toll Revenue]: Takitimu Drive Toll Road --[PROVIDES]-> Toll Revenue 0.9322882294654846
+[Toll Revenue]: Tauranga Eastern Link Toll Road --[PROVIDES]-> Toll Revenue 0.852565586566925
+[Toll Revenue]: Northern Gateway Toll Road --[PROVIDES]-> Toll Revenue 0.8446418642997742
+[Toll Revenue]: Northern Gateway Toll Road --[DEBT_REPAYMENT]-> 35 years 0.8155136108398438
+[Toll Revenue]: Northern Gateway Toll Road --[ESTIMATED_END_DATE]-> 2045 0.8091853857040405
+[toll revenue]: toll revenue --[OPERATES]-> toll road 0.8738489747047424
+[toll revenue]: tolls --[SPENT]-> on various roads 0.8649215698242188
+[toll revenue]: toll road --[COST]-> $45 million 0.8521485924720764
+[toll revenue]: road maintenance --[FUNDED_BY]-> toll tariffs 0.8496667146682739
+[toll revenue]: toll tariffs --[SPENT_ON]-> road maintenance 0.8459559679031372
+[toll revenue]: toll roads --[COLLECTS]-> toll tariffs 0.8439894914627075
+[toll revenue]: State Highway --[CHANGED]-> toll price 0.840136706829071
+[paid toll revenues]: tolls --[SPENT]-> on various roads 0.8649215698242188
+[paid toll revenues]: road maintenance --[FUNDED_BY]-> toll tariffs 0.8496667146682739
+[paid toll revenues]: toll tariffs --[SPENT_ON]-> road maintenance 0.8459559679031372
+[paid toll revenues]: toll roads --[COLLECTS]-> toll tariffs 0.8439894914627075
+[paid toll revenues]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.8399506211280823
+[paid toll revenues]: toll tariffs --[USED_FOR]-> road maintenance 0.8367845416069031
+[paid toll revenues]: toll roads --[INCLUDE]-> administration fee 0.833142876625061

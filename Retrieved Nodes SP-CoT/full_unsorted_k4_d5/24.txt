@@ -1,0 +1,36 @@
+What is the abbreviation for the program that includes the expressway project aimed at improving freight transport efficiency in the region in New Zealand?
+None
+Seed: Efficiency of freight transport in region
+Seed: Regional transport initiatives
+Seed: Significant transport infrastructure project
+Seed: Enhancement of new zealand's transport infrastructure
+[Efficiency of freight transport in region]: Waikato expressway --[Significantly enhances]-> Efficiency of freight transport in region 0.8931275606155396
+[Efficiency of freight transport in region]: Waikato expressway --[Is part of]-> National land transport programme 0.879420816898346
+[Efficiency of freight transport in region]: National land transport programme --[Is]-> Key component of new zealand's transport planning framework 0.8686312437057495
+[Efficiency of freight transport in region]: National land transport programme --[Updated]-> Every three years 0.7980406880378723
+[Efficiency of freight transport in region]: National land transport programme --[Promotes]-> Environmental sustainability 0.7965489625930786
+[Efficiency of freight transport in region]: Government objectives --[Include]-> Environmental sustainability 0.7583029270172119
+[Efficiency of freight transport in region]: Government objectives --[Include]-> Social equity 0.7680062055587769
+[Efficiency of freight transport in region]: New zealand transport strategy --[Aligned with]-> Government objectives 0.8560574054718018
+[Efficiency of freight transport in region]: Government objectives --[Include]-> Economic growth 0.7714712023735046
+[Efficiency of freight transport in region]: Waka kotahi --[Contributes to]-> Environmental sustainability 0.7486114501953125
+[Efficiency of freight transport in region]: Waka kotahi --[Has]-> Road to zero  strategy 0.7533822059631348
+[Efficiency of freight transport in region]: Waka kotahi --[Is]-> Primary agency 0.7365735769271851
+[Efficiency of freight transport in region]: Waka kotahi --[Is]-> Government agency 0.7457187175750732
+[Efficiency of freight transport in region]: Waka kotahi --[Responsible for]-> Funding 0.7632514834403992
+[Efficiency of freight transport in region]: Waka kotahi --[Responsible for]-> Management 0.7366112470626831
+[Efficiency of freight transport in region]: Waka kotahi --[Responsible for]-> Planning 0.7667516469955444
+[Efficiency of freight transport in region]: Waka kotahi --[Ensures]-> Investments 0.735962986946106
+[Efficiency of freight transport in region]: Waka kotahi --[Ensures]-> Transport system is effective and efficient 0.7944269180297852
+[Efficiency of freight transport in region]: Waka kotahi --[Ensures]-> Sustainable transport network 0.7873885035514832
+[Efficiency of freight transport in region]: Waka kotahi --[Ensures]-> Efficient transport network 0.7898511290550232
+[Efficiency of freight transport in region]: Waka kotahi --[Ensures]-> Safe transport network 0.7658880949020386
+[Efficiency of freight transport in region]: Waka kotahi --[Ensures]-> Sustainability goals 0.7412313222885132
+[Efficiency of freight transport in region]: Waka kotahi --[Promotes]-> Public transit 0.7646304368972778
+[Efficiency of freight transport in region]: Waka kotahi --[Promotes]-> Road safety initiatives 0.7687106132507324
+[Efficiency of freight transport in region]: Waka kotahi --[Promotes]-> Public transport initiatives 0.7812748551368713
+[Efficiency of freight transport in region]: Waka kotahi --[Promotes]-> Walking 0.7413752675056458
+[Efficiency of freight transport in region]: Waka kotahi --[Promotes]-> Cycling 0.7465922832489014
+[Efficiency of freight transport in region]: Waka kotahi --[Aims to]-> Reduce injuries 0.7436014413833618
+[Efficiency of freight transport in region]: Waka kotahi --[Aims to]-> Reduce greenhouse gas emissions 0.7575685977935791
+[Efficiency of freight transport in region]: Waka kotahi --[Aims to]-> Promote healthier lifestyles 0.7343530654907227

@@ -1,0 +1,36 @@
+In what year did The agency that provides policy advice and oversees the transport sector in addition to Waka Kotahi in the country known for its public transport system design influenced by factors such as population density, geographic features, and environmental considerations get established?
+None
+Seed: Vital role in shaping future of transport in new zealand
+Seed: Waka kotahi nz transport agency
+Seed: Sustainable transport system
+Seed: Developing innovative transport solutions
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Plays]-> Vital role in shaping future of transport in new zealand 0.8839608430862427
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Has]-> Road to zero  strategy 0.8158444762229919
+[Vital role in shaping future of transport in new zealand]: Waka kotahi --[Is]-> Primary agency 0.8499562740325928
+[Vital role in shaping future of transport in new zealand]: Auckland transport --[Is]-> Primary agency 0.8152998089790344
+[Vital role in shaping future of transport in new zealand]: Auckland transport --[Has]-> Vision to support growth 0.7837530970573425
+[Vital role in shaping future of transport in new zealand]: Auckland transport --[Has]-> Vision to minimize environmental impact 0.7838736176490784
+[Vital role in shaping future of transport in new zealand]: Auckland transport --[Has]-> Vision to create efficient transport system 0.7921158075332642
+[Vital role in shaping future of transport in new zealand]: Auckland transport --[Has]-> Vision to create integrated transport system 0.7845031023025513
+[Vital role in shaping future of transport in new zealand]: Auckland transport --[Has]-> Long-term vision 0.7834524512290955
+[Vital role in shaping future of transport in new zealand]: Auckland transport --[Has]-> Vision to create safe transport system 0.783679187297821
+[Vital role in shaping future of transport in new zealand]: Auckland transport --[Focused on]-> Promoting active transport modes 0.791000485420227
+[Vital role in shaping future of transport in new zealand]: Auckland transport --[Focused on]-> Promoting cycling 0.7548706531524658
+[Vital role in shaping future of transport in new zealand]: Auckland transport --[Focused on]-> Promoting walking 0.7723389863967896
+[Vital role in shaping future of transport in new zealand]: Auckland transport --[Implemented]-> Cycling infrastructure projects 0.7604086399078369
+[Vital role in shaping future of transport in new zealand]: Auckland transport --[Implemented]-> Dedicated bike lanes 0.7608002424240112
+[Vital role in shaping future of transport in new zealand]: Auckland transport --[Implemented]-> Cycleways 0.757192075252533
+[Vital role in shaping future of transport in new zealand]: Auckland transport --[Introduced]-> Auckland integrated ticketing system 0.771206259727478
+[Vital role in shaping future of transport in new zealand]: Auckland transport --[Responsible for]-> Managing public transport services 0.7946290969848633
+[Vital role in shaping future of transport in new zealand]: Auckland transport --[Responsible for]-> Development 0.7959492206573486
+[Vital role in shaping future of transport in new zealand]: Auckland transport --[Responsible for]-> Management 0.7924124598503113
+[Vital role in shaping future of transport in new zealand]: Auckland transport --[Responsible for]-> Planning 0.7979632616043091
+[Vital role in shaping future of transport in new zealand]: Auckland transport --[Ensures]-> Transport planning aligns with urban development goals 0.7830235958099365
+[Vital role in shaping future of transport in new zealand]: Auckland transport --[Plays]-> Crucial role 0.7929216623306274
+[Vital role in shaping future of transport in new zealand]: Auckland transport --[Manages]-> Public transport in auckland 0.7732862234115601
+[Vital role in shaping future of transport in new zealand]: Auckland transport --[Manages]-> Public transport 0.7883623838424683
+[Vital role in shaping future of transport in new zealand]: Auckland transport --[Oversees]-> Ferries 0.7800998687744141
+[Vital role in shaping future of transport in new zealand]: Auckland transport --[Oversees]-> Trains 0.7735558152198792
+[Vital role in shaping future of transport in new zealand]: Auckland transport --[Oversees]-> Buses 0.787476658821106
+[Vital role in shaping future of transport in new zealand]: Auckland transport --[Oversees]-> Roads 0.7860720753669739
+[Vital role in shaping future of transport in new zealand]: Auckland transport --[Oversees]-> Cycling 0.7589088082313538

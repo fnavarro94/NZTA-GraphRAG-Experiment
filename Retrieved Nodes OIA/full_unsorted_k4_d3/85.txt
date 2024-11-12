@@ -1,0 +1,36 @@
+What were the key safety incidents reported to the board in the June 2017 update?
+None
+Seed: Safety Incidents
+Seed: health and safety incidents
+Seed: rail operational safety
+Seed: incident reports
+[Safety Incidents]: Health, Safety & Quality Report --[CONTAINS]-> Safety Incidents 0.8728950619697571
+[Safety Incidents]: Stephen Bell --[SUBMITS_REPORT]-> Health, Safety & Quality Report 0.8239105939865112
+[Safety Incidents]: Board --[RECEIVES_REPORT]-> Health, Safety & Quality Report 0.8639699816703796
+[Safety Incidents]: Safety Incidents --[INVESTIGATED]-> Board 0.9061064720153809
+[health and safety incidents]: health and safety incidents --[REGIONAL_BREAKDOWN]-> regional breakdown 0.8423941135406494
+[health and safety incidents]: regional breakdown --[LISTS]-> incidents by region 0.8265296220779419
+[health and safety incidents]: incidents by region --[INCLUDES]-> total incidents per year 0.8226777911186218
+[health and safety incidents]: Waka Kotahi --[DOES_NOT_CAPTURE]-> regional breakdown 0.7298918962478638
+[health and safety incidents]: Response --[CONTAINS]-> Waka Kotahi 0.7590593695640564
+[health and safety incidents]: response --[CONTAINS]-> Waka Kotahi 0.7383288145065308
+[health and safety incidents]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.7507542967796326
+[health and safety incidents]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.7536174058914185
+[health and safety incidents]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7271428108215332
+[health and safety incidents]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7490987777709961
+[health and safety incidents]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.7187768220901489
+[health and safety incidents]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7228163480758667
+[health and safety incidents]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.7454413175582886
+[health and safety incidents]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.7671635746955872
+[health and safety incidents]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.757786750793457
+[health and safety incidents]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.7589399814605713
+[health and safety incidents]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.7492175698280334
+[health and safety incidents]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.7446445226669312
+[health and safety incidents]: Leisa Coley --[EMPLOYED_BY]-> Waka Kotahi 0.7266704440116882
+[health and safety incidents]: Lizette Marais --[EMPLOYED_BY]-> Waka Kotahi 0.721362829208374
+[health and safety incidents]: Waka Kotahi --[EMPLOYS]-> Andy Knackstedt 0.7268708944320679
+[health and safety incidents]: Waka Kotahi --[EMPLOYS]-> Qualified Staff 0.7363408803939819
+[health and safety incidents]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.748175859451294
+[health and safety incidents]: website --[RELATES_TO]-> Waka Kotahi 0.745341420173645
+[health and safety incidents]: Waka Kotahi --[RESPONDS_TO]-> OIA request 0.7497999668121338
+[health and safety incidents]: Waka Kotahi --[RESPONDS_TO]-> request 0.7432401180267334

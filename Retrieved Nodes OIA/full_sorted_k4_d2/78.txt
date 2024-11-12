@@ -1,0 +1,26 @@
+What were the concerns raised in the complaint about Uber to the NZ Transport Agency?
+None
+Seed: 196 complaints about Uber drivers
+Seed: ride share operator complaints
+Seed: Complaint Data
+Seed: why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’
+[196 complaints about Uber drivers]: Waka Kotahi --[INVESTIGATES]-> ride share operator complaints 0.8786748647689819
+[196 complaints about Uber drivers]: Waka Kotahi --[RECEIVES]-> 196 complaints about Uber drivers 0.8648542165756226
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.863092839717865
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[DISCUSS]-> Waka Kotahi 0.861574649810791
+[196 complaints about Uber drivers]: Waka Kotahi --[DISCUSS]-> New Zealand Transport Agency 0.8615032434463501
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[IS]-> Waka Kotahi 0.8560215830802917
+[196 complaints about Uber drivers]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8529682159423828
+[ride share operator complaints]: Waka Kotahi --[INVESTIGATES]-> ride share operator complaints 0.8786748647689819
+[ride share operator complaints]: Waka Kotahi --[RECEIVES]-> 196 complaints about Uber drivers 0.8648542165756226
+[ride share operator complaints]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.863092839717865
+[ride share operator complaints]: New Zealand Transport Agency --[DISCUSS]-> Waka Kotahi 0.861574649810791
+[ride share operator complaints]: Waka Kotahi --[DISCUSS]-> New Zealand Transport Agency 0.8615032434463501
+[ride share operator complaints]: New Zealand Transport Agency --[IS]-> Waka Kotahi 0.8560215830802917
+[ride share operator complaints]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8529682159423828
+[Complaint Data]: New Zealand Transport Agency --[RESPONDED]-> Request for Information 0.8906543254852295
+[Complaint Data]: Request for Information --[REQUESTS]-> Complaint Data 0.8073140978813171
+[Complaint Data]: Request for Information --[REQUESTS]-> Warning Letters 0.7839433550834656
+[Complaint Data]: Antoinette Spicer --[SUBMITTED]-> Request for Information 0.7741520404815674
+[why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’]: enquiry --[ASKS]-> why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’ 0.8985319137573242
+[why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’]: Transport Agency --[RECEIVED]-> enquiry 0.8603887557983398

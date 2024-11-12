@@ -1,0 +1,36 @@
+Have any environmental, economic, or carbon impact studies been conducted for the North Auckland Rapid Transit Corridor?
+None
+Seed: Environmental Impact Study
+Seed: carbon impact study
+Seed: North Auckland Rapid Transit Corridor
+Seed: carbon emission data for business related travel and fleet vehicles emissions
+[Environmental Impact Study]: North Auckland Rapid Transit Corridor --[ENVIRONMENTAL_IMPACT]-> Environmental Impact Study 0.9593483209609985
+[Environmental Impact Study]: North Auckland Rapid Transit Corridor --[LOCATED]-> Auckland 0.8856133222579956
+[Environmental Impact Study]: State Highway 1 --[LOCATED_IN]-> Auckland 0.8139004707336426
+[Environmental Impact Study]: New Zealand --[CONTAINS]-> Auckland 0.8245682716369629
+[Environmental Impact Study]: Wellington Region --[CONTAINS]-> Auckland 0.824580192565918
+[Environmental Impact Study]: Auckland --[CONTAINS]-> New Zealand 0.8213711977005005
+[Environmental Impact Study]: Auckland --[CONTAINS]-> transport infrastructure 0.865939199924469
+[Environmental Impact Study]: Auckland --[CONTAINS]-> Users/felipenavarro/Documents/Auckland/nzta/nzta_dev/NZTA-GraphRAG/transport_data/sample_files/nzta/temp_files 0.8367627859115601
+[Environmental Impact Study]: Auckland --[CONTAINS]-> Auckland City 0.826865553855896
+[Environmental Impact Study]: Auckland --[CONTAINS]-> nzta_dev 0.8049025535583496
+[Environmental Impact Study]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.8478768467903137
+[Environmental Impact Study]: temp files --[ASSOCIATED_WITH]-> Auckland 0.786979615688324
+[Environmental Impact Study]: oia-11331-response.pdf --[ASSOCIATED_WITH]-> Auckland 0.8110042214393616
+[Environmental Impact Study]: oia-1393-mcquillan.pdf --[ASSOCIATED_WITH]-> Auckland 0.8078223466873169
+[Environmental Impact Study]: oia-1228-russell.pdf --[ASSOCIATED_WITH]-> Auckland 0.8136105537414551
+[Environmental Impact Study]: oia-8059-response.pdf --[ASSOCIATED_WITH]-> Auckland 0.8083089590072632
+[Environmental Impact Study]: oia-9870-response.pdf --[ASSOCIATED_WITH]-> Auckland 0.8135586977005005
+[Environmental Impact Study]: oia-9368-response.pdf --[ASSOCIATED_WITH]-> Auckland 0.8115357756614685
+[Environmental Impact Study]: transport data --[ASSOCIATED_WITH]-> Auckland 0.8274192810058594
+[Environmental Impact Study]: oia-12215-response-letter.pdf --[ASSOCIATED_WITH]-> Auckland 0.8133755922317505
+[Environmental Impact Study]: oia-9157-response.pdf --[ASSOCIATED_WITH]-> Auckland 0.8146155476570129
+[Environmental Impact Study]: Michael Hayward --[ASSOCIATED_WITH]-> Auckland 0.8084324598312378
+[Environmental Impact Study]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Auckland 0.8420296907424927
+[Environmental Impact Study]: Item 1 --[ASSOCIATED_WITH]-> Auckland 0.800065279006958
+[Environmental Impact Study]: oia-1209-fuatai.pdf --[ASSOCIATED_WITH]-> Auckland 0.8179848790168762
+[Environmental Impact Study]: oia-12463-response-letter --[ASSOCIATED_WITH]-> Auckland 0.8025028109550476
+[Environmental Impact Study]: oia-1129-keijser.pdf --[ASSOCIATED_WITH]-> Auckland 0.8178249597549438
+[Environmental Impact Study]: Transport Data --[ASSOCIATED_WITH]-> Auckland 0.8274192810058594
+[Environmental Impact Study]: oia-15834 --[ASSOCIATED_WITH]-> Auckland 0.8167370557785034
+[Environmental Impact Study]: Scott Yeoman --[ASSOCIATED_WITH]-> Auckland 0.8170287609100342

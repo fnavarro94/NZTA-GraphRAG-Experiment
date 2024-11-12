@@ -1,0 +1,22 @@
+Who is the Senior Manager responsible for Waka Kotahi’s Education and Marketing regarding this response?
+None
+Seed: Waka Kotahi Senior Project Manager
+Seed: Waka Kotahi
+Seed: Waka Kotahi policy
+Seed: Waka Kotahi Board
+[Waka Kotahi Senior Project Manager]: Waka Kotahi Senior Project Manager --[MANAGES]-> State Highway 25A Rebuild Project 0.8375741243362427
+[Waka Kotahi]: Senior Media Manager --[AT]-> Waka Kotahi 0.9147096872329712
+[Waka Kotahi]: Senior Manager, Research and Analytics --[AT]-> Waka Kotahi 0.9145303964614868
+[Waka Kotahi]: Waka Kotahi --[PUBLISHED]-> response letter 0.8983920812606812
+[Waka Kotahi]: response letter --[DISCUSSED]-> Waka Kotahi 0.8981145620346069
+[Waka Kotahi]: Waka Kotahi --[GENERAL]-> Manager 0.8967124223709106
+[Waka Kotahi]: Waka Kotahi --[PUBLISHES]-> Response 0.8944427967071533
+[Waka Kotahi]: Waka Kotahi --[DISCUSS]-> response letter 0.8908989429473877
+[Waka Kotahi policy]: Waka Kotahi --[FOLLOWS]-> Waka Kotahi policy 0.86527419090271
+[Waka Kotahi policy]: Waka Kotahi policy --[PUBLISHED]-> website 0.8598735332489014
+[Waka Kotahi policy]: Waka Kotahi policy --[REQUIRES]-> publishing responses on website 0.8596157431602478
+[Waka Kotahi policy]: Waka Kotahi --[POLICY]-> Waka Kotahi policy 0.8454881906509399
+[Waka Kotahi policy]: New Zealand Transport Agency --[POLICY]-> Waka Kotahi policy 0.8441233038902283
+[Waka Kotahi policy]: Waka Kotahi NZ Transport Agency --[FOLLOWS]-> Waka Kotahi policy 0.8149408102035522
+[Waka Kotahi Board]: Waka Kotahi Board --[SIGNED_OFF]-> Auckland Transport 0.7986079454421997
+[Waka Kotahi Board]: Auckland Transport --[SIGNED_OFF]-> Waka Kotahi Board 0.7931622266769409

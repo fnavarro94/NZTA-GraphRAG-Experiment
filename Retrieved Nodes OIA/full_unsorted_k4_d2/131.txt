@@ -1,0 +1,36 @@
+How much was spent on the Safe Limits campaign, including the radio and other media advertising?
+None
+Seed: cost of the current Road to Zero advertising campaign
+Seed: Advertising Media Spend 2017-2018
+Seed: Total Media Costs
+Seed: advertising campaigns
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[COST]-> cost of the current Road to Zero advertising campaign 0.832727313041687
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[LAUNCHED_BY]-> New Zealand Transport Agency 0.7623376846313477
+[cost of the current Road to Zero advertising campaign]: Request made under the Official Information Act 1982 --[CHALLENGES]-> Road To Zero campaign 0.7779876589775085
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[TARGET]-> zero accidents 0.7763432264328003
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[LOGIC]-> logic in making this critical decision 0.7528458833694458
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[EVALUATED_BY]-> post campaign polling or research 0.7797880172729492
+[Advertising Media Spend 2017-2018]: Response to OIA Request --[CONTAINS]-> Advertising Media Spend 2017-2018 0.821976363658905
+[Advertising Media Spend 2017-2018]: NZ Transport Agency --[PUBLISHES]-> Response to OIA Request 0.7253012657165527
+[Advertising Media Spend 2017-2018]: Advertising Media Spend 2017-2018 --[SHOWS]-> Individual Campaigns 0.8319486379623413
+[Advertising Media Spend 2017-2018]: Individual Campaigns --[BREAKDOWN]-> Traditional Media 0.8023198246955872
+[Advertising Media Spend 2017-2018]: Individual Campaigns --[BREAKDOWN]-> TV 0.8161483407020569
+[Advertising Media Spend 2017-2018]: Individual Campaigns --[BREAKDOWN]-> Social Media Platforms 0.7886494994163513
+[Advertising Media Spend 2017-2018]: Individual Campaigns --[BREAKDOWN]-> Print 0.7878118753433228
+[Advertising Media Spend 2017-2018]: Individual Campaigns --[BREAKDOWN]-> Radio 0.8409055471420288
+[Advertising Media Spend 2017-2018]: Individual Campaigns --[BREAKDOWN]-> Online Platforms 0.7878143787384033
+[Total Media Costs]: Campaign --[HAS]-> Total Media Costs 0.8649366497993469
+[Total Media Costs]: Campaign --[HAS]-> Total Production Costs 0.8223394155502319
+[Total Media Costs]: Campaign --[LAUNCHES]-> Ad Campaign 0.805098831653595
+[Total Media Costs]: Total Media Costs --[AMOUNT]-> $949,154.00 0.8405280113220215
+[advertising campaigns]: Waka Kotahi --[MONITORS]-> advertising campaigns 0.7806419730186462
+[advertising campaigns]: Response --[CONTAINS]-> Waka Kotahi 0.7271237969398499
+[advertising campaigns]: response --[CONTAINS]-> Waka Kotahi 0.7102952003479004
+[advertising campaigns]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.723749041557312
+[advertising campaigns]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.7085203528404236
+[advertising campaigns]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7026337385177612
+[advertising campaigns]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7145849466323853
+[advertising campaigns]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.712640643119812
+[advertising campaigns]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.713422954082489
+[advertising campaigns]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.7167152166366577
+[advertising campaigns]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.7271523475646973

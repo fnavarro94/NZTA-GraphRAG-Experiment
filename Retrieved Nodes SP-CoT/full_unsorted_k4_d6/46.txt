@@ -1,0 +1,36 @@
+In what year did the primary provider of ambulance services in New Zealand officially become established in New Zealand?
+None
+Seed: Primary provider of ambulance services
+Seed: Largest ambulance service in new zealand
+Seed: First free ambulance service
+Seed: Healthcare providers
+[Primary provider of ambulance services]: St john --[Is]-> Primary provider of ambulance services 0.8614489436149597
+[Primary provider of ambulance services]: St john --[Is]-> Charitable organization 0.7361094951629639
+[Primary provider of ambulance services]: Wellington free ambulance --[Is]-> Charitable organization 0.8387272953987122
+[Primary provider of ambulance services]: Wellington free ambulance --[Is]-> First free ambulance service 0.8720431327819824
+[Primary provider of ambulance services]: Wellington free ambulance --[Engages in]-> Community education programs 0.8353244066238403
+[Primary provider of ambulance services]: Wellington free ambulance --[Operates]-> Rapid response vehicles 0.8389355540275574
+[Primary provider of ambulance services]: Wellington free ambulance --[Offers]-> Services without charge 0.8377235531806946
+[Primary provider of ambulance services]: Wellington free ambulance --[Funded by]-> Grants 0.8487147092819214
+[Primary provider of ambulance services]: Wellington free ambulance --[Continues to]-> Evolve 0.8491498231887817
+[Primary provider of ambulance services]: Wellington free ambulance --[Collaborates with]-> Healthcare providers 0.857291579246521
+[Primary provider of ambulance services]: Wellington free ambulance --[Promotes]-> Safety 0.8391567468643188
+[Primary provider of ambulance services]: Automated data collection --[Enhances]-> Safety 0.6803490519523621
+[Primary provider of ambulance services]: Automated data collection --[Is]-> Technology 0.6736767292022705
+[Primary provider of ambulance services]: Freight and logistics --[Utilizes]-> Automated data collection 0.694316029548645
+[Primary provider of ambulance services]: Public transport --[Integrates]-> Automated data collection 0.7156769037246704
+[Primary provider of ambulance services]: Automated data collection --[Faces challenges]-> Privacy concerns 0.661231517791748
+[Primary provider of ambulance services]: Automated data collection --[Optimizes]-> Resource allocation 0.660933256149292
+[Primary provider of ambulance services]: Automated data collection --[Improves]-> Decision-making 0.6468603014945984
+[Primary provider of ambulance services]: Transport in new zealand --[Has]-> Automated data collection 0.784220278263092
+[Primary provider of ambulance services]: Automated data collection --[Used in]-> Transport in new zealand 0.7788681983947754
+[Primary provider of ambulance services]: Automated data collection --[Uses]-> Advanced sensors and cameras 0.6848267316818237
+[Primary provider of ambulance services]: Safety --[Paramount concern]-> School transport 0.7346629500389099
+[Primary provider of ambulance services]: Transport accident investigation commission --[Enhances]-> Safety 0.7246246337890625
+[Primary provider of ambulance services]: Transport safety regulations --[Governed by]-> Transport accident investigation commission 0.7396167516708374
+[Primary provider of ambulance services]: Transport accident investigation commission --[Investigates]-> Transport accidents 0.7395797371864319
+[Primary provider of ambulance services]: Traffic safety audits --[Assess]-> Safety 0.7081460952758789
+[Primary provider of ambulance services]: Traffic safety audits --[Ensure]-> Meet established safety standards 0.7236395478248596
+[Primary provider of ambulance services]: Traffic safety audits --[Are]-> Evaluations 0.7201431393623352
+[Primary provider of ambulance services]: Traffic safety audits --[Proactive]-> Approach 0.7378565073013306
+[Primary provider of ambulance services]: Traffic safety audits --[Align]-> New zealand road safety strategy 0.7883936166763306

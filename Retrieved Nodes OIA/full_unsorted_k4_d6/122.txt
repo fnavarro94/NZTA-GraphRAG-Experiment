@@ -1,0 +1,36 @@
+What has NZTA budgeted for median barriers over the last five years?
+None
+Seed: median barriers
+Seed: Median Barriers
+Seed: manage fare revenue and public transport budgets within current funding allocations
+Seed: public transport budgets
+[median barriers]: information --[RELATES_TO]-> median barriers 0.821408748626709
+[median barriers]: information --[PROVIDES]-> New Zealand Transport Agency 0.8199508190155029
+[median barriers]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7895894646644592
+[median barriers]: New Zealand Transport Agency --[BASED]-> Wellington 0.8037372827529907
+[median barriers]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8132423162460327
+[median barriers]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.8047553300857544
+[median barriers]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.777644157409668
+[median barriers]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.7617769241333008
+[median barriers]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7670374512672424
+[median barriers]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.8071380257606506
+[median barriers]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.8155296444892883
+[median barriers]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7859970331192017
+[median barriers]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.757193386554718
+[median barriers]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7755201458930969
+[median barriers]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7557531595230103
+[median barriers]: Wellington --[CONTAINS]-> Private Bag 6995 0.7882950305938721
+[median barriers]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8270624876022339
+[median barriers]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8142842054367065
+[median barriers]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.801032304763794
+[median barriers]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7981764674186707
+[median barriers]: 50 Victoria Street --[IN]-> Wellington 0.7610870599746704
+[median barriers]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.8051849007606506
+[median barriers]: New Zealand Transport Agency --[LOCATED]-> 50 Victoria Street 0.8162956833839417
+[median barriers]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7727261781692505
+[median barriers]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7628194093704224
+[median barriers]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7765240669250488
+[median barriers]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7549983263015747
+[median barriers]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7779984474182129
+[median barriers]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.8007944822311401
+[median barriers]: New Zealand Transport Agency --[CONTACT]-> Wellington 6141 0.7874103784561157

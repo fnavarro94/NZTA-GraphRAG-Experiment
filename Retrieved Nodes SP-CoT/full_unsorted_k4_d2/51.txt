@@ -1,0 +1,36 @@
+What is the abbreviation commonly used for the legislation in New Zealand that focuses on ensuring the health and safety of workers in the transport sector?
+None
+Seed: Health and safety at work act
+Seed: Health and safety at work act 2015
+Seed: Legislative framework for road safety initiatives
+Seed: Critical aspect of transport management in new zealand
+[Health and safety at work act]: Health and safety at work act --[Year]-> 2015 0.8642112612724304
+[Health and safety at work act]: Electronic stability control --[Required in]-> 2015 0.7380945682525635
+[Health and safety at work act]: Te ara i whiti --[Opened in]-> 2015 0.708116888999939
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Emphasizes]-> Importance of proactive risk management 0.8420360088348389
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Introduced]-> Robust approach to workplace safety 0.8454123139381409
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Applies to]-> Road transport 0.8889070749282837
+[Health and safety at work act 2015]: Road transport --[Uses]-> Gps for navigation and route optimization 0.7604142427444458
+[Health and safety at work act 2015]: Kiwirail group --[Committed to]-> Road transport 0.8225374221801758
+[Health and safety at work act 2015]: Ministry of transport --[Oversees]-> Road transport 0.8376950025558472
+[Health and safety at work act 2015]: Wellington --[Has]-> Road transport 0.8370503783226013
+[Health and safety at work act 2015]: Kiwirail --[Collaborates with]-> Road transport 0.8273534774780273
+[Health and safety at work act 2015]: Road transport --[Accounts for]-> Majority of passenger and freight movement 0.7920517325401306
+[Health and safety at work act 2015]: Fleet management --[Significant reliance on]-> Road transport 0.7983323931694031
+[Health and safety at work act 2015]: Road transport --[Is]-> Most widely used mode of transport in new zealand 0.8581123352050781
+[Health and safety at work act 2015]: Road transport --[Accounts for]-> Significant portion of passenger and freight movement 0.7968040704727173
+[Health and safety at work act 2015]: Road transport --[Accounts for]-> Majority of passenger and freight movements 0.7924838662147522
+[Health and safety at work act 2015]: Road transport --[Characterized by]-> Scenic routes 0.7850615382194519
+[Health and safety at work act 2015]: Road transport --[Focus on]-> Improving road safety and reducing congestion in urban areas 0.8247041702270508
+[Health and safety at work act 2015]: Road transport --[Boasts]-> Extensive network of roads 0.7924860119819641
+[Health and safety at work act 2015]: Road transport --[Predominant mode of]-> Land transport in new zealand 0.8492467999458313
+[Health and safety at work act 2015]: Road transport --[Attracts]-> Domestic and international tourists 0.7583906054496765
+[Health and safety at work act 2015]: Road transport --[Accounts for]-> 90% of all freight movements 0.7654927968978882
+[Health and safety at work act 2015]: New zealand --[Has]-> Road transport 0.8739811182022095
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Emphasizes]-> Importance of risk management 0.8430104851722717
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Applies to]-> Maritime 0.8602846264839172
+[Health and safety at work act 2015]: Ministry of transport --[Oversees]-> Maritime 0.8058203458786011
+[Health and safety at work act 2015]: Transport risk assessment --[Encompasses]-> Maritime 0.8117477893829346
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Emphasizes]-> Worker participation 0.8440150618553162
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Is]-> Key piece of legislation 0.8742935657501221
+[Health and safety at work act 2015]: Land transport management act 2003 --[Is]-> Key piece of legislation 0.840528130531311

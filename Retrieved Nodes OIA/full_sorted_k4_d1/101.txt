@@ -1,0 +1,13 @@
+Where can information about the use of Automatic Number Plate Recognition (ANPR) cameras be found?
+None
+Seed: information on speed cameras
+Seed: information on traffic light cameras and speed cameras
+Seed: information on traffic light cameras
+Seed: cameras
+[information on speed cameras]: Waka Kotahi --[PROVIDES]-> information on speed cameras 0.8391000032424927
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.8203715085983276
+[information on traffic light cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.8286693692207336
+[cameras]: cameras --[INSTALLED]-> January 2017 0.8245569467544556
+[cameras]: Redflex --[MANUFACTURES]-> cameras 0.8203915953636169
+[cameras]: cameras --[CALIBRATED]-> 15 November 2022 0.8196339011192322
+[cameras]: cameras --[CALIBRATED]-> 16 November 2022 0.8139307498931885

@@ -1,0 +1,16 @@
+How has the COVID-19 pandemic affected the reporting of road crashes in 2020?
+None
+Seed: Covid-19 pandemic
+Seed: Covid-19 Pandemic
+Seed: additional costs caused by the Covid-19 pandemic
+Seed: COVID-19
+[Covid-19 pandemic]: Covid-19 pandemic --[AFFECTS]-> road crashes 0.9506544470787048
+[Covid-19 pandemic]: Covid-19 pandemic --[AFFECTS]-> traffic on the roads 0.9279564619064331
+[Covid-19 pandemic]: Covid-19 pandemic --[AFFECTS]-> road traffic 0.9233832955360413
+[Covid-19 Pandemic]: Covid-19 Pandemic --[HAS]-> 4-level Alert System 0.8560466170310974
+[Covid-19 Pandemic]: Reporting Time Frame --[AFFECTED_BY]-> Covid-19 Pandemic 0.8924978375434875
+[additional costs caused by the Covid-19 pandemic]: Periodic Payments --[FOR]-> additional costs caused by the Covid-19 pandemic 0.8484885096549988
+[COVID-19]: COVID-19 --[CHANGED]-> Traffic Light System 0.8676449656486511
+[COVID-19]: New Zealand --[HAS_PANDEMIC]-> COVID-19 0.8639351725578308
+[COVID-19]: Lockdowns --[CAUSED_BY]-> COVID-19 0.8320618867874146
+[COVID-19]: COVID-19 --[AFFECTS]-> Road Traffic 0.8908217549324036

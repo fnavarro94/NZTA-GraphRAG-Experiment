@@ -1,0 +1,22 @@
+What is the destination of the scenic passenger rail service in New Zealand known for showcasing stunning landscapes, particularly through the Southern Alps, departing from the urban area in New Zealand that has experienced significant investment in public transport infrastructure alongside Auckland and Wellington?
+None
+Seed: Scenic routes such as the tranzalpine and the northern explorer
+Seed: Scenic passenger train service
+Seed: New zealand's stunning landscapes
+Seed: Both passenger and freight transport across the cook strait
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Showcase]-> New zealand's stunning landscapes 0.9106910824775696
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Include]-> Scenic routes such as the tranzalpine and the northern explorer 0.8385917544364929
+[Scenic passenger train service]: New zealand --[Includes]-> Scenic routes 0.8627784252166748
+[Scenic passenger train service]: New zealand --[Has]-> Rail transport 0.858039379119873
+[Scenic passenger train service]: New zealand --[Has]-> Urban-centric transport system 0.8572419881820679
+[Scenic passenger train service]: New zealand --[Has]-> Regional transport planning 0.8553066253662109
+[Scenic passenger train service]: Kiwirail --[Operates]-> Great journeys of new zealand 0.8552999496459961
+[Scenic passenger train service]: Wellington --[Serves as]-> Vital transport hub 0.8545593619346619
+[Scenic passenger train service]: Wellington --[Has]-> Commuter rail services 0.8539538383483887
+[New zealand's stunning landscapes]: Passenger rail services --[Showcase]-> New zealand's stunning landscapes 0.9106910824775696
+[New zealand's stunning landscapes]: Passenger rail services --[Include]-> Scenic routes such as the tranzalpine and the northern explorer 0.8385917544364929
+[Both passenger and freight transport across the cook strait]: Port of wellington --[Facilitates]-> Both passenger and freight transport across the cook strait 0.8303107023239136
+[Both passenger and freight transport across the cook strait]: Port of wellington --[Connects]-> Wellington to the south island 0.8292868137359619
+[Both passenger and freight transport across the cook strait]: Port of wellington --[Serves as]-> Departure point for ferries 0.8203043937683105
+[Both passenger and freight transport across the cook strait]: Port of wellington --[Is]-> One of the busiest ports in new zealand 0.8099035024642944
+[Both passenger and freight transport across the cook strait]: Port of wellington --[Handles]-> Variety of cargo 0.7959355115890503

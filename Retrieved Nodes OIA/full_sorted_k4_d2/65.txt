@@ -1,0 +1,25 @@
+What are the requirements for commercial buses in New Zealand with regards to Occupancy Safety?
+None
+Seed: 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.
+Seed: rail operational safety
+Seed: Vehicle Safety
+Seed: vehicle safety
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: I will respond to each of your questions in turn. --[OFFICIAL_INFORMATION]-> 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. 0.8816455602645874
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. --[OFFICIAL_INFORMATION]-> I am refusing this part of your request under section 18(d) of the Act as the information is publicly available. 0.8708922266960144
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act). --[OFFICIAL_INFORMATION]-> I will respond to each of your questions in turn. 0.8253079056739807
+[rail operational safety]: rail operational safety --[improved]-> emergency plan 0.816240131855011
+[rail operational safety]: awareness --[increased]-> rail operational safety 0.8038848638534546
+[rail operational safety]: emergency plan --[activated]-> injured person 0.7788009643554688
+[rail operational safety]: rope supervisor --[in place]-> emergency plan 0.7734637260437012
+[rail operational safety]: tool box talks --[given]-> awareness 0.7280809879302979
+[Vehicle Safety]: Vehicle Safety --[Is]-> Critical 0.8405473828315735
+[Vehicle Safety]: Safety Tolerance --[Ensures]-> Vehicle Safety 0.8212884068489075
+[Vehicle Safety]: Calculations --[Satisfies]-> Safety Tolerance 0.7925419211387634
+[Vehicle Safety]: Critical --[Identified]-> 33 0.7635135650634766
+[vehicle safety]: NZ Transport Agency --[REVIEWS]-> risk rating 0.8617298603057861
+[vehicle safety]: NZ Transport Agency --[RESPONSIBLE_FOR]-> risk rating 0.8607990145683289
+[vehicle safety]: risk rating --[REVIEWED_BY]-> NZ Transport Agency 0.8580917119979858
+[vehicle safety]: risk rating --[ASSIGNED_BY]-> NZ Transport Agency 0.8466452360153198
+[vehicle safety]: risk rating --[IMPORTANT_FOR]-> vehicle safety 0.8302152752876282
+[vehicle safety]: vehicle inspection --[INVOLVES]-> risk rating 0.8129421472549438
+[vehicle safety]: vehicle inspection --[PROVIDES]-> risk rating 0.8069133758544922

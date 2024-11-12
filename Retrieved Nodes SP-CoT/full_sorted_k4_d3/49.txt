@@ -1,0 +1,32 @@
+In what year did the construction of the Raurimu Spiral, a significant engineering feature of the key transport corridor in the country that is critical for freight and passenger movement and runs through the North Island, get completed?
+None
+Seed: Key railway corridor
+Seed: Both passenger and freight transport across the cook strait
+Seed: Transport link between wellington and northern regions of north island
+Seed: Raurimu spiral
+[Key railway corridor]: North island main trunk railway --[Features]-> Raurimu spiral 0.9059731960296631
+[Key railway corridor]: North island main trunk line --[Features]-> Raurimu spiral 0.9000622034072876
+[Key railway corridor]: North island main trunk line --[Is]-> Key railway corridor 0.8684636354446411
+[Key railway corridor]: North island main trunk railway --[Spans]-> 681 kilometers 0.850336492061615
+[Key railway corridor]: North island main trunk railway --[Facilitates]-> Regional connectivity 0.8498314619064331
+[Key railway corridor]: North island main trunk line --[Focus]-> Sustainable transport solutions 0.8480077981948853
+[Key railway corridor]: North island main trunk line --[Operated by]-> Kiwirail 0.8405606746673584
+[Both passenger and freight transport across the cook strait]: Port of wellington --[Facilitates]-> Both passenger and freight transport across the cook strait 0.8172860145568848
+[Both passenger and freight transport across the cook strait]: Port of wellington --[Connects]-> Wellington to the south island 0.7859386205673218
+[Both passenger and freight transport across the cook strait]: Port of wellington --[Handles]-> Variety of cargo 0.7802565693855286
+[Both passenger and freight transport across the cook strait]: Port of wellington --[Is]-> One of the busiest ports in new zealand 0.7794865369796753
+[Both passenger and freight transport across the cook strait]: Port of wellington --[Serves as]-> Departure point for ferries 0.776908278465271
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Connects]-> Northern regions of the north island 0.8453567028045654
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Aims to]-> Meet the evolving needs of new zealand's transport system 0.8405250310897827
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Aims to improve]-> Transport link between wellington and northern regions of north island 0.8358822464942932
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Is]-> Key transport route 0.8278631567955017
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Accommodates]-> Sustainable transport options 0.8233645558357239
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Features]-> Transmission gully motorway 0.817203938961029
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Undergoes]-> Ongoing improvements and upgrades 0.8162318468093872
+[Raurimu spiral]: North island main trunk railway --[Features]-> Raurimu spiral 0.9059731960296631
+[Raurimu spiral]: North island main trunk line --[Features]-> Raurimu spiral 0.9000622034072876
+[Raurimu spiral]: North island main trunk railway --[Is]-> Critical for freight and passenger movement 0.8698509931564331
+[Raurimu spiral]: North island main trunk line --[Is]-> Key railway corridor 0.8684636354446411
+[Raurimu spiral]: North island main trunk railway --[Spans]-> 681 kilometers 0.850336492061615
+[Raurimu spiral]: North island main trunk railway --[Facilitates]-> Regional connectivity 0.8498314619064331
+[Raurimu spiral]: North island main trunk line --[Focus]-> Sustainable transport solutions 0.8480077981948853

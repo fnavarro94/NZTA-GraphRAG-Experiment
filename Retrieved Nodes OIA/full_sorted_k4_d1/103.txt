@@ -1,0 +1,17 @@
+How much was paid in tolls for each road between 2017 and 2019?
+None
+Seed: information on tolls and road maintenance
+Seed: paid toll revenues
+Seed: toll tariffs
+Seed: Toll Revenue
+[information on tolls and road maintenance]: information on tolls and road maintenance --[RELATES]-> New Zealand Transport Agency 0.8378073573112488
+[information on tolls and road maintenance]: response from New Zealand Transport Agency --[CONTAINS]-> information on tolls and road maintenance 0.834488034248352
+[paid toll revenues]: Annual Reports --[CONTAINS]-> paid toll revenues 0.8463058471679688
+[paid toll revenues]: paid toll revenues --[AVAILABLE_IN]-> Annual Reports 0.8460791707038879
+[toll tariffs]: toll tariffs --[SPENT_ON]-> road maintenance 0.894711971282959
+[toll tariffs]: toll roads --[COLLECTS]-> toll tariffs 0.8812482357025146
+[toll tariffs]: road maintenance --[FUNDED_BY]-> toll tariffs 0.8806871771812439
+[toll tariffs]: toll tariffs --[USED_FOR]-> road maintenance 0.8778809905052185
+[Toll Revenue]: Northern Gateway Toll Road --[PROVIDES]-> Toll Revenue 0.8883497714996338
+[Toll Revenue]: Takitimu Drive Toll Road --[PROVIDES]-> Toll Revenue 0.871993899345398
+[Toll Revenue]: Tauranga Eastern Link Toll Road --[PROVIDES]-> Toll Revenue 0.8620725870132446

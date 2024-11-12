@@ -1,0 +1,28 @@
+What action can an individual take if they wish to contest the decision to refuse their request?
+None
+Seed: decision to refuse request
+Seed: refusal of request
+Seed: I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.
+Seed: public interest in seeking and receiving confidential legal advice
+[decision to refuse request]: request --[REFUSE]-> decision 0.899573802947998
+[decision to refuse request]: request --[REFUSED]-> decision to refuse request 0.8788845539093018
+[decision to refuse request]: decision --[REFUSE]-> request 0.8785701394081116
+[decision to refuse request]: decision to refuse request --[BASED_ON]-> section 28 of the Act 0.8774951696395874
+[decision to refuse request]: Ombudsman --[REVIEW]-> decision to refuse request 0.8718570470809937
+[decision to refuse request]: decision --[REFUSES]-> request 0.8516695499420166
+[decision to refuse request]: request --[REFUSED]-> section 18(e) of the Act 0.8439611196517944
+[refusal of request]: section 18(f) of the Act --[PERMITS]-> refusal of request 0.8591588735580444
+[refusal of request]: response to request --[BASED_ON]-> section 18(f) of the Act 0.830730140209198
+[refusal of request]: section 18(f) of the Act --[APPLIES_TO]-> request for pothole repair cost information 0.7807019352912903
+[refusal of request]: request for pothole repair cost information --[SUBJECT_TO]-> section 18(f) of the Act 0.7746751308441162
+[refusal of request]: New Zealand Transport Agency --[CONSIDERS]-> section 18(f) of the Act 0.7736712694168091
+[refusal of request]: New Zealand Transport Agency --[APPLIES]-> section 18(f) of the Act 0.7609614133834839
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. --[OFFICIAL_INFORMATION]-> I am refusing this part of your request under section 18(d) of the Act as the information is publicly available. 0.7572941780090332
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: I will respond to each of your questions in turn. --[OFFICIAL_INFORMATION]-> 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. 0.7571754455566406
+[public interest in seeking and receiving confidential legal advice]: OIA Request --[REFUSED]-> Waka Kotahi 0.8035542964935303
+[public interest in seeking and receiving confidential legal advice]: Waka Kotahi --[REFUSES_REQUEST]-> vehicle registration and licensing 0.7991721630096436
+[public interest in seeking and receiving confidential legal advice]: Waka Kotahi --[SEEKS]-> confidential legal advice 0.7976107597351074
+[public interest in seeking and receiving confidential legal advice]: Waka Kotahi --[CONSIDERS]-> request 0.7948790192604065
+[public interest in seeking and receiving confidential legal advice]: Waka Kotahi --[REFUSES]-> information request 0.7925203442573547
+[public interest in seeking and receiving confidential legal advice]: Waka Kotahi --[PROTECTS]-> seeking and receiving confidential legal advice 0.7896913886070251
+[public interest in seeking and receiving confidential legal advice]: Waka Kotahi --[RECORDED]-> one infringement for failing to comply with the instructions given by a steady red-light signal 0.7891765236854553

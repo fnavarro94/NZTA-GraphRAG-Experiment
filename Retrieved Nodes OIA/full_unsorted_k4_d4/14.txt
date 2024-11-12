@@ -1,0 +1,36 @@
+Does NZTA impose a quality assurance or performance clause for pothole repair work, and if so, where can it be found?
+None
+Seed: pothole repair specifications
+Seed: request for pothole repair cost information
+Seed: https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf
+Seed: potholes
+[pothole repair specifications]: https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf --[ACCESS]-> pothole repair specifications 0.8869953751564026
+[pothole repair specifications]: website --[LINKS]-> https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf 0.8628110885620117
+[pothole repair specifications]: scheduled tasks --[IS_REMOVED]-> website 0.7621158957481384
+[pothole repair specifications]: information requested --[DOES_NOT_EXIST]-> scheduled tasks 0.787149965763092
+[pothole repair specifications]: website --[LOCATED_AT]-> www.ombudsman.parliament.nz 0.7808322906494141
+[pothole repair specifications]: www.ombudsman.parliament.nz --[LINKS_TO]-> Ombudsman 0.7777770757675171
+[pothole repair specifications]: New Zealand Transport Agency --[PROVIDES]-> www.ombudsman.parliament.nz 0.8053545951843262
+[pothole repair specifications]: www.ombudsman.parliament.nz --[PROVIDES]-> New Zealand Transport Agency 0.8113042116165161
+[pothole repair specifications]: Ombudsman --[LOCATED_AT]-> www.ombudsman.parliament.nz 0.7766549587249756
+[pothole repair specifications]: www.ombudsman.parliament.nz --[HOSTS]-> contact details for the Ombudsman 0.7772629857063293
+[pothole repair specifications]: contact details for the Ombudsman --[LOCATED_AT]-> www.ombudsman.parliament.nz 0.7647035121917725
+[pothole repair specifications]: contact details for the Ombudsman --[AVAILABLE_AT]-> www.ombudsman.parliament.nz 0.7743356227874756
+[pothole repair specifications]: www.ombudsman.parliament.nz --[PROVIDES]-> contact details 0.7842296361923218
+[pothole repair specifications]: contact details --[LOCATED]-> www.ombudsman.parliament.nz 0.7726017236709595
+[pothole repair specifications]: www.ombudsman.parliament.nz --[PROVIDES]-> Transport Agency 0.8056676983833313
+[pothole repair specifications]: Ombudsman --[IS]-> www.ombudsman.parliament.nz 0.7796279191970825
+[pothole repair specifications]: Website --[URL]-> www.ombudsman.parliament.nz 0.7852737903594971
+[pothole repair specifications]: contact details for the Ombudsman --[FOUND]-> www.ombudsman.parliament.nz 0.7749737501144409
+[pothole repair specifications]: Ombudsman --[LOCATED]-> www.ombudsman.parliament.nz 0.7818782925605774
+[pothole repair specifications]: Contact Details --[AVAILABLE]-> www.ombudsman.parliament.nz 0.7727771401405334
+[pothole repair specifications]: www.ombudsman.parliament.nz --[PROVIDES]-> Ombudsman 0.7957950830459595
+[pothole repair specifications]: contact details for the Ombudsman --[LOCATED]-> www.ombudsman.parliament.nz 0.7690889835357666
+[pothole repair specifications]: www.ombudsman.parliament.nz --[ASSOCIATED]-> Ombudsman 0.7844446301460266
+[pothole repair specifications]: Ombudsman contact details --[LOCATED]-> www.ombudsman.parliament.nz 0.7664223909378052
+[pothole repair specifications]: personal information removed --[IS_REMOVED]-> website 0.7319315075874329
+[pothole repair specifications]: personal information removed --[RELATES_TO]-> website 0.7237662076950073
+[pothole repair specifications]: response --[RELATES_TO]-> personal information removed 0.7399404048919678
+[pothole repair specifications]: response on website --[CONTAINS]-> personal information removed 0.7248477935791016
+[pothole repair specifications]: response --[CONTAINS]-> personal information removed 0.7290836572647095
+[pothole repair specifications]: personal information removed --[APPLIES_TO]-> response 0.7434923648834229

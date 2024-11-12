@@ -1,0 +1,36 @@
+What region does the Metlink bus service connect to besides Porirua, the city in the country known for its Metlink services, which focus on providing comprehensive coverage across the region and allocates financial resources for the development, maintenance, and upgrading of transport infrastructure, including roads, railways, airports, and public transport systems?
+None
+Seed: Regional transport initiatives
+Seed: Significant investment in public transport infrastructure
+Seed: Importance of well-planned transport systems in both countries
+Seed: Transport link between wellington and northern regions of north island
+[Regional transport initiatives]: Local councils --[Contribute to]-> Regional transport initiatives 0.7873156070709229
+[Regional transport initiatives]: Road safety authority --[Collaborates with]-> Local councils 0.7453605532646179
+[Regional transport initiatives]: Road safety authority --[Collaborates with]-> Law enforcement agencies 0.7342172861099243
+[Regional transport initiatives]: Road safety authority --[Operates under]-> Ministry of transport 0.7623621225357056
+[Regional transport initiatives]: Ministry of transport --[Develops]-> National transport policies 0.7795248627662659
+[Regional transport initiatives]: Ministry of transport --[Oversees]-> Rail 0.777276873588562
+[Regional transport initiatives]: Health and safety at work act 2015 --[Applies to]-> Rail 0.7396606206893921
+[Regional transport initiatives]: Kiwirail --[Promotes]-> Rail 0.7738054990768433
+[Regional transport initiatives]: Transport risk assessment --[Encompasses]-> Rail 0.7826647758483887
+[Regional transport initiatives]: Ministry of transport --[Works with]-> New zealand transport agency 0.7814310193061829
+[Regional transport initiatives]: New zealand --[Has]-> New zealand transport agency 0.7986297011375427
+[Regional transport initiatives]: New zealand transport agency --[Is]-> Forefront of promoting active transport 0.7838481664657593
+[Regional transport initiatives]: New zealand transport agency --[Is]-> Government agency 0.7837339639663696
+[Regional transport initiatives]: New zealand transport agency --[Is]-> Key stakeholder 0.7813452482223511
+[Regional transport initiatives]: New zealand transport agency --[Is]-> Primary authority 0.7744126319885254
+[Regional transport initiatives]: New zealand transport agency --[Is]-> Developing integrated transport solutions 0.8033082485198975
+[Regional transport initiatives]: New zealand transport agency --[Is]-> Collaborating with technology providers 0.8037499189376831
+[Regional transport initiatives]: New zealand transport agency --[Implemented]-> Initiatives 0.7938464283943176
+[Regional transport initiatives]: New zealand transport agency --[Responsible for]-> Management and regulation of transport systems 0.7825263142585754
+[Regional transport initiatives]: New zealand transport agency --[Responsible for]-> Management and regulation of the transport system in new zealand 0.7781847715377808
+[Regional transport initiatives]: New zealand transport agency --[Ensures]-> Policies align with national transport objectives 0.7709963917732239
+[Regional transport initiatives]: New zealand transport agency --[Ensures]-> Voices of all road users are considered in decision-making processes 0.7588143348693848
+[Regional transport initiatives]: New zealand transport agency --[Mandates]-> Regular audits 0.7512853741645813
+[Regional transport initiatives]: New zealand transport agency --[Promotes]-> Road safety 0.7568967938423157
+[Regional transport initiatives]: New zealand transport agency --[Aims]-> Reduce greenhouse gas emissions 0.7468332052230835
+[Regional transport initiatives]: New zealand transport agency --[Plays]-> A crucial role in funding and promoting cycling infrastructure projects 0.7986623644828796
+[Regional transport initiatives]: New zealand transport agency --[Plays]-> Pivotal role in conducting forecasts 0.7833733558654785
+[Regional transport initiatives]: New zealand transport agency --[Plays]-> Pivotal role in facilitating road user engagement 0.7800807952880859
+[Regional transport initiatives]: New zealand transport agency --[Plays]-> Crucial role in developing guidelines 0.7843257188796997
+[Regional transport initiatives]: New zealand transport agency --[Plays]-> Crucial role in developing standards 0.788509726524353

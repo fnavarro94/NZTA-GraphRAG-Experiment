@@ -1,0 +1,10 @@
+In what year did the airline that provides domestic air travel services between the two main islands of New Zealand, where the transport system facilitates the movement of people and goods, become established?
+None
+Seed: Flagship airline of new zealand
+Seed: Domestic flights to major cities across new zealand
+Seed: Significant air and maritime transport services
+Seed: Domestic and international travel
+[Flagship airline of new zealand]: Air new zealand --[Is]-> Flagship airline of new zealand 0.865277886390686
+[Domestic flights to major cities across new zealand]: Wellington international airport --[Provides]-> Domestic flights to major cities across new zealand 0.8501487374305725
+[Significant air and maritime transport services]: New zealand --[Has]-> Significant air and maritime transport services 0.8809682130813599
+[Domestic and international travel]: Auckland airport --[Facilitates]-> Domestic and international travel 0.8643476963043213

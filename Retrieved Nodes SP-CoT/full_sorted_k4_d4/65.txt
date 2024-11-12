@@ -1,0 +1,34 @@
+What significant engineering challenge associated with the North Island Main Trunk Railway, completed in the year when the major railway line in New Zealand being upgraded to enhance its capacity and efficiency for sustainable transport officially completed its construction, marking a significant achievement in New Zealand's railway history, is known for its unique spiral design?
+None
+Seed: North island main trunk railway
+Seed: Cultural significance
+Seed: Critical component of new zealand's transport strategy
+Seed: Unique challenges in transportation
+[North island main trunk railway]: North island main trunk railway --[Features]-> Raurimu spiral 0.8871498703956604
+[North island main trunk railway]: North island main trunk line --[Operated by]-> Kiwirail 0.8793424963951111
+[North island main trunk railway]: North island main trunk railway --[Began]-> 1880s 0.8777024745941162
+[North island main trunk railway]: North island main trunk railway --[Holds]-> Sustainability 0.8759446740150452
+[North island main trunk railway]: North island main trunk line --[Construction began]-> 1880s 0.8731683492660522
+[North island main trunk railway]: North island main trunk railway --[Is]-> Critical for freight and passenger movement 0.8716166019439697
+[North island main trunk railway]: North island main trunk line --[Focus]-> Sustainable transport solutions 0.8713615536689758
+[Cultural significance]: North island main trunk railway --[Features]-> Raurimu spiral 0.8871498703956604
+[Cultural significance]: North island main trunk line --[Operated by]-> Kiwirail 0.8793424963951111
+[Cultural significance]: North island main trunk railway --[Began]-> 1880s 0.8777024745941162
+[Cultural significance]: North island main trunk railway --[Holds]-> Sustainability 0.8759446740150452
+[Cultural significance]: North island main trunk line --[Construction began]-> 1880s 0.8731683492660522
+[Cultural significance]: North island main trunk railway --[Is]-> Critical for freight and passenger movement 0.8716166019439697
+[Cultural significance]: North island main trunk line --[Focus]-> Sustainable transport solutions 0.8713615536689758
+[Critical component of new zealand's transport strategy]: North island main trunk line --[Focus]-> Sustainable transport solutions 0.8713615536689758
+[Critical component of new zealand's transport strategy]: New zealand --[Has]-> Transport projects 0.8582543134689331
+[Critical component of new zealand's transport strategy]: New zealand --[Faces]-> Unique challenges in transportation 0.8579486608505249
+[Critical component of new zealand's transport strategy]: New zealand --[Has]-> Transport infrastructure development 0.8554350137710571
+[Critical component of new zealand's transport strategy]: New zealand --[Has]-> Transport system innovation 0.8546848297119141
+[Critical component of new zealand's transport strategy]: New zealand --[Has]-> Rail transport 0.8532570600509644
+[Critical component of new zealand's transport strategy]: New zealand --[Has]-> Developing rail network 0.8522864580154419
+[Unique challenges in transportation]: North island main trunk railway --[Features]-> Raurimu spiral 0.8871498703956604
+[Unique challenges in transportation]: North island main trunk line --[Operated by]-> Kiwirail 0.8793424963951111
+[Unique challenges in transportation]: North island main trunk railway --[Began]-> 1880s 0.8777024745941162
+[Unique challenges in transportation]: North island main trunk railway --[Holds]-> Sustainability 0.8759446740150452
+[Unique challenges in transportation]: North island main trunk line --[Construction began]-> 1880s 0.8731683492660522
+[Unique challenges in transportation]: North island main trunk railway --[Is]-> Critical for freight and passenger movement 0.8716166019439697
+[Unique challenges in transportation]: North island main trunk line --[Focus]-> Sustainable transport solutions 0.8713615536689758

@@ -1,0 +1,36 @@
+How effective was the Road to Zero advertising campaign in terms of reach and public support as of June 2022?
+None
+Seed: cost of the current Road to Zero advertising campaign
+Seed: development of the next Road to Zero Action Plan
+Seed: Road to Zero advertising campaign
+Seed: information about Road To Zero campaign
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[COST]-> cost of the current Road to Zero advertising campaign 0.8591411113739014
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[LAUNCHED_BY]-> New Zealand Transport Agency 0.8423694372177124
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7297066450119019
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[BASED]-> Wellington 0.7343964576721191
+[cost of the current Road to Zero advertising campaign]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7128257751464844
+[cost of the current Road to Zero advertising campaign]: Golden Mile --[LOCATED]-> Wellington 0.7225586175918579
+[cost of the current Road to Zero advertising campaign]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7256450653076172
+[cost of the current Road to Zero advertising campaign]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7129679918289185
+[cost of the current Road to Zero advertising campaign]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.724226713180542
+[cost of the current Road to Zero advertising campaign]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.714409589767456
+[cost of the current Road to Zero advertising campaign]: Wellington --[PART_OF]-> Wellington Region 0.7107571363449097
+[cost of the current Road to Zero advertising campaign]: New Zealand --[HAS_CAPITAL]-> Wellington 0.721264123916626
+[cost of the current Road to Zero advertising campaign]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7319244146347046
+[cost of the current Road to Zero advertising campaign]: Wellington --[HAS]-> tunnel 0.7262272238731384
+[cost of the current Road to Zero advertising campaign]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7018976807594299
+[cost of the current Road to Zero advertising campaign]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7185297012329102
+[cost of the current Road to Zero advertising campaign]: Wellington --[POSTCODE]-> 6141 0.6784772872924805
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7229710817337036
+[cost of the current Road to Zero advertising campaign]: Wellington --[IS_PART_OF]-> New Zealand 0.7101526260375977
+[cost of the current Road to Zero advertising campaign]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7489175796508789
+[cost of the current Road to Zero advertising campaign]: 50 Victoria Street --[IN]-> Wellington 0.7269212007522583
+[cost of the current Road to Zero advertising campaign]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7116588354110718
+[cost of the current Road to Zero advertising campaign]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7046164274215698
+[cost of the current Road to Zero advertising campaign]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7217703461647034
+[cost of the current Road to Zero advertising campaign]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7057142853736877
+[cost of the current Road to Zero advertising campaign]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7042193412780762
+[cost of the current Road to Zero advertising campaign]: NZ Transport Agency --[LOCATED]-> Wellington 0.7242755889892578
+[cost of the current Road to Zero advertising campaign]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7371687889099121
+[cost of the current Road to Zero advertising campaign]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7253573536872864
+[cost of the current Road to Zero advertising campaign]: New Zealand --[CONTAINS]-> Wellington 0.7110362648963928

@@ -1,0 +1,28 @@
+What challenges affect the accuracy of drug-related crash data in the Bay of Plenty?
+None
+Seed: Guide for the interpretation of coded crash reports
+Seed: data on road traffic crashes
+Seed: figures on drivers involved in fatal crashes
+Seed: report on the impacts of the Fare Recovery Ratio
+[Guide for the interpretation of coded crash reports]: Traffic Crash Reports --[CONTAINS]-> information on crash movements and causes 0.8462720513343811
+[Guide for the interpretation of coded crash reports]: crash reports --[PROVIDES]-> information 0.8448522090911865
+[Guide for the interpretation of coded crash reports]: Crash Analysis System --[UPDATES]-> Traffic Crash Reports 0.8431495428085327
+[Guide for the interpretation of coded crash reports]: CAS --[PROVIDES]-> full and correct crash records 0.8430961966514587
+[Guide for the interpretation of coded crash reports]: drug related information --[IDENTIFIED_IN]-> drug test results 0.8381214737892151
+[Guide for the interpretation of coded crash reports]: https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf --[ACCESSIBLE]-> online 0.830319881439209
+[Guide for the interpretation of coded crash reports]: Transport Agency --[GETS_INFORMATION]-> Traffic Crash Reports 0.8302201628684998
+[data on road traffic crashes]: road accident data --[ATTRIBUTED_TO]-> drugs 0.8819047212600708
+[data on road traffic crashes]: Crash Analysis System --[PROVIDES]-> Data 0.8621839880943298
+[data on road traffic crashes]: Crash Analysis System --[PROVIDES]-> traffic crash data 0.8614962697029114
+[data on road traffic crashes]: Crash Analysis System --[PROVIDES]-> data on road traffic crashes 0.8603963851928711
+[data on road traffic crashes]: Crash Analysis System --[PROVIDES]-> road accident data 0.8553953170776367
+[data on road traffic crashes]: Crash Analysis System --[CAPTURES]-> information on crashes 0.8522957563400269
+[data on road traffic crashes]: Traffic Crash Report --[CONTAINS]-> Crash Data 0.8505308628082275
+[figures on drivers involved in fatal crashes]: AA --[PROVIDES]-> figures on drivers involved in fatal crashes 0.8169283866882324
+[report on the impacts of the Fare Recovery Ratio]: crash data --[RELATES_TO]-> Queenstown Lakes 0.8648013472557068
+[report on the impacts of the Fare Recovery Ratio]: Crash Analysis System --[PROVIDES]-> Data 0.8621839880943298
+[report on the impacts of the Fare Recovery Ratio]: Crash Analysis System --[PROVIDES]-> traffic crash data 0.8614962697029114
+[report on the impacts of the Fare Recovery Ratio]: Crash Analysis System --[PROVIDES]-> data on road traffic crashes 0.8603963851928711
+[report on the impacts of the Fare Recovery Ratio]: drugs --[AFFECTS]-> road safety 0.8565986156463623
+[report on the impacts of the Fare Recovery Ratio]: Crash Analysis System --[PROVIDES]-> road accident data 0.8553953170776367
+[report on the impacts of the Fare Recovery Ratio]: crash data --[RELATES_TO]-> NZ Transport Agency 0.8537311553955078

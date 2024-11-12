@@ -1,0 +1,36 @@
+What improvements were identified following the safety incidents in May 2017?
+None
+Seed: improving the safety performance of the vehicle fleet
+Seed: Safety Incidents
+Seed: health and safety incidents
+Seed: opportunities to make an announcement regarding changes to the national farebox recovery policy
+[improving the safety performance of the vehicle fleet]: Safe System approach --[INCLUDES]-> improving the safety performance of the vehicle fleet 0.8620311617851257
+[improving the safety performance of the vehicle fleet]: Safe System approach --[INCLUDES]-> installing median barriers 0.8189390301704407
+[improving the safety performance of the vehicle fleet]: Safe System approach --[INCLUDES]-> encouraging road users to be alert and compliant 0.8363494873046875
+[improving the safety performance of the vehicle fleet]: resolution A/RES/74/299 --[PROMOTES]-> Safe System approach 0.8203502297401428
+[improving the safety performance of the vehicle fleet]: United Nations General Assembly --[ADOPTED]-> resolution A/RES/74/299 0.7683308124542236
+[improving the safety performance of the vehicle fleet]: United Nations General Assembly --[ADOPTED]-> A/RES/74/299 0.7637551426887512
+[Safety Incidents]: Health, Safety & Quality Report --[CONTAINS]-> Safety Incidents 0.8810409903526306
+[Safety Incidents]: Stephen Bell --[SUBMITS_REPORT]-> Health, Safety & Quality Report 0.8322706818580627
+[Safety Incidents]: Board --[RECEIVES_REPORT]-> Health, Safety & Quality Report 0.8333064317703247
+[Safety Incidents]: Safety Incidents --[INVESTIGATED]-> Board 0.8661335706710815
+[health and safety incidents]: health and safety incidents --[REGIONAL_BREAKDOWN]-> regional breakdown 0.8592875599861145
+[health and safety incidents]: regional breakdown --[LISTS]-> incidents by region 0.8370051980018616
+[health and safety incidents]: incidents by region --[INCLUDES]-> total incidents per year 0.8384017944335938
+[health and safety incidents]: total incidents per year --[SHOWS]-> 2008-2013 0.8391137719154358
+[health and safety incidents]: Waka Kotahi --[DOES_NOT_CAPTURE]-> regional breakdown 0.7299187183380127
+[health and safety incidents]: Response --[CONTAINS]-> Waka Kotahi 0.7654803991317749
+[health and safety incidents]: Waka Kotahi --[PUBLISHES]-> Response 0.7451168894767761
+[health and safety incidents]: response --[CONTAINS]-> Waka Kotahi 0.7447006702423096
+[health and safety incidents]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.7941612601280212
+[health and safety incidents]: Charles Ronaldson --[SIGNED]-> response 0.7412083148956299
+[health and safety incidents]: Lauren Cooke --[SIGNED]-> response 0.7583674788475037
+[health and safety incidents]: Waka Kotahi --[PUBLISHED_BY]-> response 0.7574969530105591
+[health and safety incidents]: Ministry --[PROVIDE]-> response 0.7812735438346863
+[health and safety incidents]: response --[REMOVED]-> personal information 0.7509737014770508
+[health and safety incidents]: Waka Kotahi website --[CONTAINS]-> response 0.7385469675064087
+[health and safety incidents]: New Zealand Transport Agency --[DISCUSSES]-> response 0.7935886383056641
+[health and safety incidents]: response --[IS_A]-> letter 0.7222501039505005
+[health and safety incidents]: Waka Kotahi --[FOLLOWS]-> response 0.7460398077964783
+[health and safety incidents]: New Zealand Transport Agency --[PUBLISH]-> response 0.7997016310691833
+[health and safety incidents]: New Zealand Transport Agency --[PUBLISHES]-> response 0.7965826988220215

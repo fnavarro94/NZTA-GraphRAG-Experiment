@@ -1,0 +1,10 @@
+What is the largest city in the country where individuals must be at least 16 years old to apply for a learner's permit, which is the first stage of the driver licensing process that can be obtained at the age of 16, served by the key transport corridor critical for freight and passenger movement and runs through the North Island?
+None
+Seed: Age of 16
+Seed: Drivers to obtain specific licenses that demonstrate their competency in handling large vehicles
+Seed: Licensing of drivers and vehicles
+Seed: Legal framework for licensing of drivers
+[Age of 16]: Learner license --[Obtained at]-> Age of 16 0.8489243984222412
+[Drivers to obtain specific licenses that demonstrate their competency in handling large vehicles]: Heavy vehicle licensing system --[Requires]-> Drivers to obtain specific licenses that demonstrate their competency in handling large vehicles 0.8096355199813843
+[Licensing of drivers and vehicles]: Nzta --[Oversees]-> Licensing of drivers and vehicles 0.8058427572250366
+[Legal framework for licensing of drivers]: Land transport act 1998 --[Establishes]-> Legal framework for licensing of drivers 0.810545802116394

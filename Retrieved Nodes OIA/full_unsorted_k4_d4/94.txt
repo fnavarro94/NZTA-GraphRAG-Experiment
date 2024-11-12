@@ -1,0 +1,36 @@
+Where can more information about the retroreflective sheeting for registration plates be found?
+None
+Seed: information on retroreflective sheeting
+Seed: retroreflective sheeting for use in New Zealand
+Seed: retroreflective sheeting
+Seed: https://www.nzta.govt.nz/resources/retroflective-sheeting/
+[information on retroreflective sheeting]: https://www.nzta.govt.nz/resources/retroflective-sheeting/ --[PROVIDES]-> information on retroreflective sheeting 0.9210338592529297
+[information on retroreflective sheeting]: NZTA M25 Retroreflective sheeting --[AVAILABLE]-> https://www.nzta.govt.nz/resources/retroflective-sheeting/ 0.9051926136016846
+[information on retroreflective sheeting]: AS 1906.1 2017 --[LISTS]-> NZTA M25 Retroreflective sheeting 0.9001421928405762
+[information on retroreflective sheeting]: AS 1906.1 2017 --[OUTLINES]-> performance requirements for retroreflective sheeting 0.8889942765235901
+[information on retroreflective sheeting]: performance requirements --[SPECIFIED]-> AS 1906.1 2017 0.7390016913414001
+[information on retroreflective sheeting]: New Zealand standards and specifications --[LISTS]-> AS 1906.1 2017 0.7836721539497375
+[information on retroreflective sheeting]: AS 1906.1 2017 --[APPLIES]-> retroreflective materials and devices for road traffic control purposes 0.8567848801612854
+[information on retroreflective sheeting]: NZTA M25 Retroreflective sheeting --[PROVIDES]-> guidance for manufacturers 0.9009207487106323
+[information on retroreflective sheeting]: Waka Kotahi --[PROVIDES]-> guidance for manufacturers 0.7499285936355591
+[information on retroreflective sheeting]: information on retroreflective sheeting --[RELATES]-> retroreflective sheeting 0.9330810308456421
+[information on retroreflective sheeting]: retroreflective sheeting --[USED]-> road traffic control purposes 0.8799675703048706
+[information on retroreflective sheeting]: road traffic control purposes --[RELATES]-> retroreflective sheeting 0.8822464942932129
+[information on retroreflective sheeting]: retroreflective sheeting --[MUST_MEET]-> New Zealand standards and specifications 0.8887985348701477
+[information on retroreflective sheeting]: retroreflective sheeting --[APPROVED]-> Waka Kotahi 0.8706974387168884
+[information on retroreflective sheeting]: retroreflective sheeting for use in New Zealand --[RELATES]-> retroreflective sheeting 0.9122075438499451
+[information on retroreflective sheeting]: retroreflective sheeting --[MUST_MEET]-> performance requirements 0.8704982995986938
+[information on retroreflective sheeting]: retroreflective materials and devices for road traffic control purposes --[RELATES]-> retroreflective sheeting 0.9051313400268555
+[information on retroreflective sheeting]: retroreflective sheeting --[MUST_COMPLY]-> New Zealand standards and specifications 0.8811131119728088
+[information on retroreflective sheeting]: Response --[CONTAINS]-> Waka Kotahi 0.7413269281387329
+[information on retroreflective sheeting]: Waka Kotahi --[PUBLISHES]-> Response 0.7464340925216675
+[information on retroreflective sheeting]: response --[CONTAINS]-> Waka Kotahi 0.7324073910713196
+[information on retroreflective sheeting]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.7534632086753845
+[information on retroreflective sheeting]: Charles Ronaldson --[SIGNED]-> response 0.748599112033844
+[information on retroreflective sheeting]: Lauren Cooke --[SIGNED]-> response 0.7259558439254761
+[information on retroreflective sheeting]: Waka Kotahi --[PUBLISHED_BY]-> response 0.741637110710144
+[information on retroreflective sheeting]: Ministry --[PROVIDE]-> response 0.7174912691116333
+[information on retroreflective sheeting]: response --[REMOVED]-> personal information 0.7164663076400757
+[information on retroreflective sheeting]: Waka Kotahi website --[CONTAINS]-> response 0.7242771983146667
+[information on retroreflective sheeting]: New Zealand Transport Agency --[DISCUSSES]-> response 0.7445662021636963
+[information on retroreflective sheeting]: response --[IS_A]-> letter 0.738296627998352

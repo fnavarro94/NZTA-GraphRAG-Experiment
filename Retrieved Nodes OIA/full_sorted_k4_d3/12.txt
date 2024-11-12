@@ -1,0 +1,34 @@
+How many times have the safety cameras in the Waterview Tunnel been found faulty in the past 36 months?
+None
+Seed: MINO -1042 Waterview Tunnel
+Seed: information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021
+Seed: information on traffic light cameras and speed cameras
+Seed: information on traffic light cameras
+[MINO -1042 Waterview Tunnel]: MINO -1042 Waterview Tunnel --[WARNING]-> 19 April 2024 0.8588340282440186
+[MINO -1042 Waterview Tunnel]: MIN-4449 --[IS]-> Released in full 0.7488583326339722
+[MINO -1042 Waterview Tunnel]: Ministers Report --[IS]-> Released in full 0.7212904691696167
+[MINO -1042 Waterview Tunnel]: 29 April 2024 --[RELEASED]-> Released in full 0.7095824480056763
+[MINO -1042 Waterview Tunnel]: 22 April 2024 --[RELEASED]-> Released in full 0.7094378471374512
+[MINO -1042 Waterview Tunnel]: 19 April 2024 --[RELEASED]-> Released in full 0.7089424729347229
+[MINO -1042 Waterview Tunnel]: 8 April 2024 --[RELEASED]-> Released in full 0.7087411880493164
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.7959229350090027
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.7944238185882568
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: serious injury crashes --[RECORDED]-> CAS 0.7905714511871338
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: non-injury crashes --[RECORDED]-> CAS 0.7870705127716064
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.783266544342041
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Rainbow Crossing Safety Review FINAL --[ATTACHED]-> email 0.7830715775489807
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[PROVIDES]-> information on speed cameras 0.7825753688812256
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.7959229350090027
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.7944238185882568
+[information on traffic light cameras and speed cameras]: serious injury crashes --[RECORDED]-> CAS 0.7905714511871338
+[information on traffic light cameras and speed cameras]: non-injury crashes --[RECORDED]-> CAS 0.7870705127716064
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.783266544342041
+[information on traffic light cameras and speed cameras]: Rainbow Crossing Safety Review FINAL --[ATTACHED]-> email 0.7830715775489807
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on speed cameras 0.7825753688812256
+[information on traffic light cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.7959229350090027
+[information on traffic light cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.7944238185882568
+[information on traffic light cameras]: serious injury crashes --[RECORDED]-> CAS 0.7905714511871338
+[information on traffic light cameras]: non-injury crashes --[RECORDED]-> CAS 0.7870705127716064
+[information on traffic light cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.783266544342041
+[information on traffic light cameras]: Rainbow Crossing Safety Review FINAL --[ATTACHED]-> email 0.7830715775489807
+[information on traffic light cameras]: Waka Kotahi --[PROVIDES]-> information on speed cameras 0.7825753688812256

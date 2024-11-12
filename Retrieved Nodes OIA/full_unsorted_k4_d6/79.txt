@@ -1,0 +1,36 @@
+What repair options are being considered for Kōpū Hill Road, SH25A?
+None
+Seed: committee managing the Kopa Hill Road repair process
+Seed: State Highway 25A Rebuild Project
+Seed: request for pothole repair cost information
+Seed: information on state highway maintenance
+[committee managing the Kopa Hill Road repair process]: committee managing the Kopa Hill Road repair process --[MANAGES]-> New Zealand Transport Agency 0.8485589027404785
+[committee managing the Kopa Hill Road repair process]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7797366380691528
+[committee managing the Kopa Hill Road repair process]: New Zealand Transport Agency --[BASED]-> Wellington 0.7776697874069214
+[committee managing the Kopa Hill Road repair process]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7788289189338684
+[committee managing the Kopa Hill Road repair process]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.781571626663208
+[committee managing the Kopa Hill Road repair process]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7930376529693604
+[committee managing the Kopa Hill Road repair process]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7658480405807495
+[committee managing the Kopa Hill Road repair process]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7750552892684937
+[committee managing the Kopa Hill Road repair process]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7833616137504578
+[committee managing the Kopa Hill Road repair process]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7609635591506958
+[committee managing the Kopa Hill Road repair process]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7688085436820984
+[committee managing the Kopa Hill Road repair process]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7746869325637817
+[committee managing the Kopa Hill Road repair process]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7779833674430847
+[committee managing the Kopa Hill Road repair process]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7661134004592896
+[committee managing the Kopa Hill Road repair process]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7709226608276367
+[committee managing the Kopa Hill Road repair process]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7716197967529297
+[committee managing the Kopa Hill Road repair process]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.759282648563385
+[committee managing the Kopa Hill Road repair process]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7575234770774841
+[committee managing the Kopa Hill Road repair process]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7811934947967529
+[committee managing the Kopa Hill Road repair process]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7551621794700623
+[committee managing the Kopa Hill Road repair process]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7556874752044678
+[committee managing the Kopa Hill Road repair process]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7827966213226318
+[committee managing the Kopa Hill Road repair process]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7378680109977722
+[committee managing the Kopa Hill Road repair process]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7801104784011841
+[committee managing the Kopa Hill Road repair process]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7737605571746826
+[committee managing the Kopa Hill Road repair process]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.780923068523407
+[committee managing the Kopa Hill Road repair process]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7533562183380127
+[committee managing the Kopa Hill Road repair process]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7667502760887146
+[committee managing the Kopa Hill Road repair process]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7865015268325806
+[committee managing the Kopa Hill Road repair process]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7405470609664917

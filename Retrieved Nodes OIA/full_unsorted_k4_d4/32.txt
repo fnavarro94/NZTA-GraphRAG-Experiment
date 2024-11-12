@@ -1,0 +1,36 @@
+Where can data regarding vehicle kilometres travelled (VKT) at a regional level over the past 10 years be found?
+None
+Seed: Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.
+Seed: vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas
+Seed: vehicle kilometres travelled estimates
+Seed: investigating transport companies
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years. --[CONTAINS]-> SHLR worksheet 0.9250043630599976
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: www.nzt a.govt.nz/planning -and-investment/learning- and-resources/transport -data/data- and-tools --[CONTAINS]-> Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years. 0.936613142490387
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: publicly available information --[AVAILABLE_ON]-> www.nzt a.govt.nz/planning -and-investment/learning- and-resources/transport -data/data- and-tools 0.8384032845497131
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: section 18(d) of the Act --[APPLIES]-> publicly available information 0.7627856731414795
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: request --[RELATES]-> section 18(d) of the Act 0.7714366912841797
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: publicly available information --[FOUND]-> section 11 starting on page 124 0.787007749080658
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: section 11 starting on page 124 --[CONTAINS]-> Medical Aspects of the Fitness to Drive publication 0.761970043182373
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: Waka Kotahi --[PROVIDES]-> publicly available information 0.7948638200759888
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: Response --[CONTAINS]-> Waka Kotahi 0.7832262516021729
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: response --[CONTAINS]-> Waka Kotahi 0.7726911306381226
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.7791882753372192
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.7827898263931274
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7854294776916504
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7880685329437256
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.7719229459762573
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7840498685836792
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.7776737213134766
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.8145331740379333
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7975193858146667
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.7931084632873535
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.7930221557617188
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.7522814273834229
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: Leisa Coley --[EMPLOYED_BY]-> Waka Kotahi 0.7264898419380188
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: Lizette Marais --[EMPLOYED_BY]-> Waka Kotahi 0.7255649566650391
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: Waka Kotahi --[EMPLOYS]-> Andy Knackstedt 0.7247436046600342
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: Waka Kotahi --[EMPLOYS]-> Qualified Staff 0.7304062247276306
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.8396039605140686
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: website --[RELATES_TO]-> Waka Kotahi 0.7793279886245728
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: Waka Kotahi --[RESPONDS_TO]-> OIA request 0.7666894793510437
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: Waka Kotahi --[RESPONDS_TO]-> request 0.7539880275726318

@@ -1,0 +1,36 @@
+What was the cost of the artwork component of the Mackenzie Basin Improvement Project?
+None
+Seed: request for pothole repair cost information
+Seed: funding requests
+Seed: itemised breakdown of all spending on public consultation for Golden Mile upgrades
+Seed: financial settlement of $190.6 million
+[request for pothole repair cost information]: sections 18A and 18B of the Act --[APPLIES_TO]-> request for pothole repair cost information 0.784050703048706
+[request for pothole repair cost information]: New Zealand Transport Agency --[CONSIDERS]-> sections 18A and 18B of the Act 0.7614096403121948
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7405277490615845
+[request for pothole repair cost information]: New Zealand Transport Agency --[BASED]-> Wellington 0.7394940257072449
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7568751573562622
+[request for pothole repair cost information]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.7569647431373596
+[request for pothole repair cost information]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7464210391044617
+[request for pothole repair cost information]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.7420873641967773
+[request for pothole repair cost information]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7442454099655151
+[request for pothole repair cost information]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7518129348754883
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.7524656653404236
+[request for pothole repair cost information]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7432319521903992
+[request for pothole repair cost information]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7305725812911987
+[request for pothole repair cost information]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7442033290863037
+[request for pothole repair cost information]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7269986867904663
+[request for pothole repair cost information]: Wellington --[CONTAINS]-> Private Bag 6995 0.7451207637786865
+[request for pothole repair cost information]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7688658833503723
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7594561576843262
+[request for pothole repair cost information]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.7554818391799927
+[request for pothole repair cost information]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7481774091720581
+[request for pothole repair cost information]: 50 Victoria Street --[IN]-> Wellington 0.7421258091926575
+[request for pothole repair cost information]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.7545213103294373
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED]-> 50 Victoria Street 0.7568105459213257
+[request for pothole repair cost information]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7394084334373474
+[request for pothole repair cost information]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.734857439994812
+[request for pothole repair cost information]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7446058988571167
+[request for pothole repair cost information]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7415606379508972
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7572751045227051
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7474249601364136
+[request for pothole repair cost information]: New Zealand Transport Agency --[CONTACT]-> Wellington 6141 0.7449818849563599

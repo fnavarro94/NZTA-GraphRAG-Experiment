@@ -1,0 +1,29 @@
+How does Waka Kotahi measure the success of the "Mixed? Don't Drive" campaign?
+None
+Seed: Mixed? Don’t Drive campaign
+Seed: Waka Kotahi
+Seed: Waka Kotahi N Z Transport Agency
+Seed: Waka Kotahi NZ Transport Agency
+[Mixed? Don’t Drive campaign]: Mixed? Don’t Drive campaign --[MEASURES]-> ongoing advertising tracking 0.8376259803771973
+[Mixed? Don’t Drive campaign]: ongoing advertising tracking --[TRACKS]-> public attitude 0.7631464004516602
+[Waka Kotahi]: Waka Kotahi --[MONITORS]-> advertising campaigns 0.8720896244049072
+[Waka Kotahi]: Waka Kotahi --[INVESTIGATES]-> NFA outcomes 0.8717710375785828
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> public interest 0.8644405603408813
+[Waka Kotahi]: Waka Kotahi --[GATHERS]-> statistics 0.8623616695404053
+[Waka Kotahi]: Waka Kotahi --[SUPPORTS]-> Road to Zero strategy 0.8615834712982178
+[Waka Kotahi]: tests --[CONDUCTED]-> Waka Kotahi 0.8612814545631409
+[Waka Kotahi]: Waka Kotahi --[ENGAGES]-> community 0.8585343360900879
+[Waka Kotahi N Z Transport Agency]: New Zealand Transport Agency --[POLICY]-> Waka Kotahi policy 0.8457165360450745
+[Waka Kotahi N Z Transport Agency]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8437414765357971
+[Waka Kotahi N Z Transport Agency]: NZ Transport Agency Waka Kotahi --[IS]-> New Zealand Transport Agency 0.841215968132019
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8407173752784729
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.8406879901885986
+[Waka Kotahi N Z Transport Agency]: New Zealand Transport Agency --[ASSOCIATED]-> Waka Kotahi 0.8397318124771118
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8385851383209229
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[MONITORS]-> advertising campaigns 0.8720896244049072
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[INVESTIGATES]-> NFA outcomes 0.8717710375785828
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[PROVIDES]-> public interest 0.8644405603408813
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[GATHERS]-> statistics 0.8623616695404053
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[SUPPORTS]-> Road to Zero strategy 0.8615834712982178
+[Waka Kotahi NZ Transport Agency]: tests --[CONDUCTED]-> Waka Kotahi 0.8612814545631409
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[ENGAGES]-> community 0.8585343360900879

@@ -1,0 +1,11 @@
+What measures did NZTA take to ensure conflicts of interest were managed in the 2017/18 Annual Review?
+None
+Seed: conflicts of interest by senior staff
+Seed: Review of regulatory role
+Seed: Enforcement of regulatory role
+Seed: Conflict of interest
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[NOTIFIES]-> conflicts of interest by senior staff 0.862028956413269
+[Review of regulatory role]: New Zealand Transport Agency --[REGULATORY]-> Review of regulatory role 0.8628361821174622
+[Enforcement of regulatory role]: Meredith Connell --[ASSOCIATED]-> Enforcement of regulatory role 0.822380781173706
+[Enforcement of regulatory role]: New Zealand Transport Agency --[ASSOCIATED]-> Enforcement of regulatory role 0.8547742962837219
+[Conflict of interest]: New Zealand Transport Agency --[MANAGES]-> Conflict of interest 0.8894116878509521

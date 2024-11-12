@@ -1,0 +1,24 @@
+What were the travel costs for Waka Kotahi in the 2020/21 financial year?
+None
+Seed: Waka Kotahi N Z Transport Agency
+Seed: Waka Kotahi NZ Transport Agency
+Seed: no additional funding for fare reductions before the next NLTP in June 2021
+Seed: Waka Kotahi
+[Waka Kotahi N Z Transport Agency]: Data --[PROVIDED]-> Waka Kotahi N Z Transport Agency 0.8515527844429016
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINS]-> Waka Kotahi N Z Transport Agency 0.7987791895866394
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[COUNTRY]-> New Zealand 0.8568257689476013
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[FAX]-> F 64 4 894 6100 0.8555513620376587
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[CONTACT]-> T 64 4 894 5400 0.8517537117004395
+[Waka Kotahi NZ Transport Agency]: public transport fare policy review --[CONDUCTED_BY]-> Waka Kotahi NZ Transport Agency 0.8464926481246948
+[Waka Kotahi NZ Transport Agency]: New Zealand --[HOME_TO]-> Waka Kotahi NZ Transport Agency 0.8462266325950623
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.8435873985290527
+[Waka Kotahi NZ Transport Agency]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.8432085514068604
+[no additional funding for fare reductions before the next NLTP in June 2021]: follow the standard cost scope adjustment process --[REQUIRES]-> no additional funding for fare reductions before the next NLTP in June 2021 0.7905608415603638
+[no additional funding for fare reductions before the next NLTP in June 2021]: no additional funding for fare reductions before the next NLTP in June 2021 --[APPLIES_TO]-> funding allocations 0.789419412612915
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> flights - air travel 0.8903770446777344
+[Waka Kotahi]: Waka Kotahi --[LOOKING]-> to continue reducing business travel 0.8811906576156616
+[Waka Kotahi]: Waka Kotahi --[ALLOCATES]-> $15 million 0.8751810193061829
+[Waka Kotahi]: Waka Kotahi --[UPDATE]-> fare policy guidance 0.8740890622138977
+[Waka Kotahi]: National Land Transport Fund --[ADMINISTERED_BY]-> Waka Kotahi 0.8703703880310059
+[Waka Kotahi]: Waka Kotahi --[RECEIVED]-> 7,162 Clean Car fees 0.8699139356613159
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> claimed mileage 0.8691090941429138

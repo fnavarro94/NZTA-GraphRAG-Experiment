@@ -1,0 +1,36 @@
+What legislation established the organization that outlines its responsibilities in transport governance in New Zealand?
+None
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+Seed: Management and regulation of the transport system in new zealand
+Seed: Management and regulation of transport systems
+Seed: Transport industry governed by regulatory bodies
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Plays]-> Significant role in shaping transport infrastructure and policy in new zealand 0.8711110949516296
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Conducts]-> Extensive research and development projects 0.7530002593994141
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Collaborates with]-> New zealand transport agency (nzta 0.835288941860199
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Aims to]-> Enhance resilience and adaptability of new zealand's transport network 0.853621780872345
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Is]-> Collective of australian and new zealand road transport and traffic agencies 0.8447446823120117
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Founded in]-> 1990 0.7607241272926331
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Engages in]-> International collaborations to align initiatives with global best practices 0.7548270225524902
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Responsible for]-> Management and regulation of the transport system in new zealand 0.9029663801193237
+[Management and regulation of the transport system in new zealand]: New zealand --[Has]-> New zealand transport agency 0.8887209296226501
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Is]-> Forefront of promoting active transport 0.8770093321800232
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Is]-> Government agency 0.8839279413223267
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Is]-> Key stakeholder 0.8850035667419434
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Is]-> Primary authority 0.8794651627540588
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Is]-> Developing integrated transport solutions 0.8636635541915894
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Is]-> Collaborating with technology providers 0.841848611831665
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Implemented]-> Initiatives 0.8829964399337769
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Responsible for]-> Management and regulation of transport systems 0.9025870561599731
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Ensures]-> Policies align with national transport objectives 0.854745626449585
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Ensures]-> Voices of all road users are considered in decision-making processes 0.8519768714904785
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Mandates]-> Regular audits 0.8650084137916565
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Promotes]-> Road safety 0.8605923652648926
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Aims]-> Reduce greenhouse gas emissions 0.8377266526222229
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Plays]-> A crucial role in funding and promoting cycling infrastructure projects 0.8799468874931335
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Plays]-> Pivotal role in conducting forecasts 0.8549614548683167
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Plays]-> Pivotal role in facilitating road user engagement 0.8716495633125305
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Plays]-> Crucial role in developing guidelines 0.8878260850906372
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Plays]-> Crucial role in developing standards 0.8822563886642456
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Plays]-> Pivotal role 0.8805902004241943
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Is responsible for]-> Promoting public transport initiatives 0.8969727158546448
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Is responsible for]-> State highway network 0.8957633972167969

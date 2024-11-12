@@ -1,0 +1,31 @@
+How many complaints did NZTA receive about vehicle certifications not being performed correctly since January 1, 2010?
+None
+Seed: ride share operator complaints
+Seed: 196 complaints about Uber drivers
+Seed: Complaint Data
+Seed: vehicle registration and licensing
+[ride share operator complaints]: Waka Kotahi --[REFUSES_REQUEST]-> vehicle registration and licensing 0.8350653052330017
+[ride share operator complaints]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.8329404592514038
+[ride share operator complaints]: Waka Kotahi --[INVESTIGATES]-> ride share operator complaints 0.832413375377655
+[ride share operator complaints]: New Zealand Transport Agency --[IS]-> Waka Kotahi 0.8269639611244202
+[ride share operator complaints]: New Zealand Transport Agency --[ASSOCIATED]-> Waka Kotahi 0.8262506723403931
+[ride share operator complaints]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8231502771377563
+[ride share operator complaints]: New Zealand Transport Agency --[DISCUSS]-> Waka Kotahi 0.8216557502746582
+[196 complaints about Uber drivers]: Waka Kotahi --[REFUSES_REQUEST]-> vehicle registration and licensing 0.8350653052330017
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.8329404592514038
+[196 complaints about Uber drivers]: Waka Kotahi --[INVESTIGATES]-> ride share operator complaints 0.832413375377655
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[IS]-> Waka Kotahi 0.8269639611244202
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[ASSOCIATED]-> Waka Kotahi 0.8262506723403931
+[196 complaints about Uber drivers]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8231502771377563
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[DISCUSS]-> Waka Kotahi 0.8216557502746582
+[Complaint Data]: New Zealand Transport Agency --[RESPONDED]-> Request for Information 0.8626595735549927
+[Complaint Data]: Request for Information --[REQUESTS]-> Complaint Data 0.7922708988189697
+[Complaint Data]: Request for Information --[REQUESTS]-> Warning Letters 0.7689687609672546
+[Complaint Data]: Antoinette Spicer --[SUBMITTED]-> Request for Information 0.766425371170044
+[vehicle registration and licensing]: Waka Kotahi --[REFUSES_REQUEST]-> vehicle registration and licensing 0.8350653052330017
+[vehicle registration and licensing]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.8329404592514038
+[vehicle registration and licensing]: Waka Kotahi --[INVESTIGATES]-> ride share operator complaints 0.832413375377655
+[vehicle registration and licensing]: New Zealand Transport Agency --[IS]-> Waka Kotahi 0.8269639611244202
+[vehicle registration and licensing]: New Zealand Transport Agency --[ASSOCIATED]-> Waka Kotahi 0.8262506723403931
+[vehicle registration and licensing]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8231502771377563
+[vehicle registration and licensing]: New Zealand Transport Agency --[DISCUSS]-> Waka Kotahi 0.8216557502746582

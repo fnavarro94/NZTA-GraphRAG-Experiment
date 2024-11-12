@@ -1,0 +1,36 @@
+What nickname is commonly associated with the cities in New Zealand that are implementing extensive cycling networks and pedestrian-friendly infrastructure to address traffic congestion, highlighting Auckland's maritime culture?
+None
+Seed: Cycling infrastructure and public transport initiatives
+Seed: Culture of cycling as a primary mode of transport
+Seed: Addressing transport challenges in auckland
+Seed: New zealand's transport network
+[Cycling infrastructure and public transport initiatives]: North island --[Features]-> Cycling infrastructure and public transport initiatives 0.840054988861084
+[Cycling infrastructure and public transport initiatives]: North island --[Has]-> Growing emphasis on sustainable transport options 0.7894980311393738
+[Culture of cycling as a primary mode of transport]: Wellington cycle network --[Fosters]-> Culture of cycling as a primary mode of transport 0.8694759011268616
+[Culture of cycling as a primary mode of transport]: Wellington cycle network --[Established in response to]-> Increasing urban congestion 0.8643757700920105
+[Culture of cycling as a primary mode of transport]: Wellington cycle network --[Established in response to]-> Growing emphasis on environmentally friendly transport options 0.841562807559967
+[Culture of cycling as a primary mode of transport]: Wellington cycle network --[Aligned with]-> New zealand's broader transport goals 0.8497895002365112
+[Culture of cycling as a primary mode of transport]: Wellington cycle network --[Part of]-> Broader initiative by the wellington city council and greater wellington regional council 0.8332623839378357
+[Culture of cycling as a primary mode of transport]: Wellington cycle network --[Encourages]-> Cycling 0.8472935557365417
+[Culture of cycling as a primary mode of transport]: Wellington cycle network --[Supports]-> Local businesses 0.8344403505325317
+[Culture of cycling as a primary mode of transport]: Wellington cycle network --[Part of]-> Wellington's commitment to becoming a more cycle-friendly city 0.8400061130523682
+[Culture of cycling as a primary mode of transport]: Wellington cycle network --[Focus on]-> Enhancing connectivity and safety 0.8310540318489075
+[Culture of cycling as a primary mode of transport]: Wellington cycle network --[Ongoing improvements and expansions]-> Planned 0.8214746713638306
+[Culture of cycling as a primary mode of transport]: Wellington cycle network --[Is]-> Extensive system of cycling routes 0.8557277321815491
+[Culture of cycling as a primary mode of transport]: Wellington cycle network --[Designed to cater to]-> Cyclists of all skill levels 0.8415113687515259
+[Culture of cycling as a primary mode of transport]: Wellington cycle network --[Integrates with]-> Public transport systems 0.8506284952163696
+[Culture of cycling as a primary mode of transport]: Sustainable urban transport --[Key component]-> Wellington cycle network 0.8462622761726379
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Addressing transport challenges in auckland 0.8376573324203491
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On enhancing road infrastructure 0.8457286357879639
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Outlines]-> Strategic approach to address challenges 0.8254591822624207
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On improving public transport 0.8364034295082092
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On promoting sustainable transport solutions 0.8353543281555176
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Promote sustainable transport options 0.8344489932060242
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Reduce congestion 0.8440108299255371
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Is]-> Strategic initiative 0.8385480642318726
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Improve efficiency and effectiveness of transport system 0.8346160650253296
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Launched in]-> 2016 0.8252036571502686
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Development of comprehensive transport network 0.8502084612846375
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Is]-> Collaborative effort 0.8376559019088745
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Aligning transport investments 0.8346132636070251
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Create unified transport network 0.8364244699478149

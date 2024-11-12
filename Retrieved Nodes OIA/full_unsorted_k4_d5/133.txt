@@ -1,0 +1,36 @@
+What is the annual accident rate on State Highway 16 (SH16) over the last decade for the 80km/h and 100km/h speed limits?
+None
+Seed: annual accident rate on SH16
+Seed: comparing the number of accidents under the 100km speed limit versus the current 80km speed rate
+Seed: vehicle accidents
+Seed: information on vehicle accidents
+[annual accident rate on SH16]: Debrin Foxcroft --[REQUESTS]-> annual accident rate on SH16 0.8697636723518372
+[annual accident rate on SH16]: Debrin Foxcroft --[EMAILS]-> NZ Transport Agency 0.745874285697937
+[annual accident rate on SH16]: NZ Transport Agency --[ASSOCIATED]-> Andrew Knackstedt 0.7516719102859497
+[annual accident rate on SH16]: response --[ASSOCIATED_WITH]-> Andrew Knackstedt 0.7329225540161133
+[annual accident rate on SH16]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.7832753658294678
+[annual accident rate on SH16]: Charles Ronaldson --[SIGNED]-> response 0.7032626271247864
+[annual accident rate on SH16]: response --[CONTAINS]-> Waka Kotahi 0.7464252710342407
+[annual accident rate on SH16]: Lauren Cooke --[SIGNED]-> response 0.6991032361984253
+[annual accident rate on SH16]: Waka Kotahi --[PUBLISHED_BY]-> response 0.7420099973678589
+[annual accident rate on SH16]: Ministry --[PROVIDE]-> response 0.7257858514785767
+[annual accident rate on SH16]: response --[REMOVED]-> personal information 0.7160754799842834
+[annual accident rate on SH16]: Waka Kotahi website --[CONTAINS]-> response 0.7354251146316528
+[annual accident rate on SH16]: New Zealand Transport Agency --[DISCUSSES]-> response 0.7705873847007751
+[annual accident rate on SH16]: response --[IS_A]-> letter 0.7198874354362488
+[annual accident rate on SH16]: Waka Kotahi --[FOLLOWS]-> response 0.7256056666374207
+[annual accident rate on SH16]: New Zealand Transport Agency --[PUBLISH]-> response 0.7853965759277344
+[annual accident rate on SH16]: New Zealand Transport Agency --[PUBLISHES]-> response 0.7793598175048828
+[annual accident rate on SH16]: response --[IS]-> response letter 0.7180538177490234
+[annual accident rate on SH16]: response letter --[IS]-> response 0.7164265513420105
+[annual accident rate on SH16]: response --[CONTAINS]-> contact details for the Ombudsman 0.723876953125
+[annual accident rate on SH16]: response --[CONTAINS]-> Jamie Ensor 0.7211913466453552
+[annual accident rate on SH16]: response --[RELATES_TO]-> personal information removed 0.718052089214325
+[annual accident rate on SH16]: Conan Young --[RECEIVES]-> response 0.7231924533843994
+[annual accident rate on SH16]: oia-14650-response-letter.pdf --[CONTAINS]-> response 0.7335546612739563
+[annual accident rate on SH16]: response --[IS]-> sincerely 0.7136130928993225
+[annual accident rate on SH16]: NZTA --[REPLY]-> response 0.7381510734558105
+[annual accident rate on SH16]: response --[REMOVE]-> personal information 0.7030179500579834
+[annual accident rate on SH16]: Waka Kotahi --[PUBLISHED]-> response 0.754192054271698
+[annual accident rate on SH16]: Waka Kotahi --[PROVIDES]-> response 0.7243062257766724
+[annual accident rate on SH16]: response --[IS_PUBLISHED_ON]-> website 0.7289804816246033

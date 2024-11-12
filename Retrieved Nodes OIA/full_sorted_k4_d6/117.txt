@@ -1,0 +1,34 @@
+What are the key benefits of the National Ticketing System (NTS) for public transport users?
+None
+Seed: fares play an important role in helping cover the cost of public transport within available budgets
+Seed: wider impacts of fare policy on people and cities
+Seed: National Ticketing System
+Seed: review of public transport fare policy
+[fares play an important role in helping cover the cost of public transport within available budgets]: fares play an important role in helping cover the cost of public transport within available budgets --[CONTRIBUTES]-> public transport budgets 0.8574234843254089
+[fares play an important role in helping cover the cost of public transport within available budgets]: wider impacts of fare policy on people and cities --[INCLUCES]-> national farebox recovery target 0.8550865054130554
+[fares play an important role in helping cover the cost of public transport within available budgets]: government's transport priorities --[INCLUDES]-> fares play an important role in helping cover the cost of public transport within available budgets 0.8508740663528442
+[fares play an important role in helping cover the cost of public transport within available budgets]: public transport affordability --[RELATES_TO]-> wider impacts of fare policy on people and cities 0.8467555642127991
+[fares play an important role in helping cover the cost of public transport within available budgets]: wider objectives in Regional Public Transport Plans --[CONTRIBUTES]-> government's transport priorities 0.8383309841156006
+[fares play an important role in helping cover the cost of public transport within available budgets]: underlying principles of the current policy --[CONTRIBUTES]-> wider objectives in Regional Public Transport Plans 0.8334894180297852
+[fares play an important role in helping cover the cost of public transport within available budgets]: 2018-21 NLTP --[APPLIES]-> national farebox recovery target 0.8296048641204834
+[wider impacts of fare policy on people and cities]: public transport fare policy --[SUPPORTS]-> mode shift 0.8590021133422852
+[wider impacts of fare policy on people and cities]: fares play an important role in helping cover the cost of public transport within available budgets --[CONTRIBUTES]-> public transport budgets 0.8574234843254089
+[wider impacts of fare policy on people and cities]: wider impacts of fare policy on people and cities --[INCLUCES]-> national farebox recovery target 0.8550865054130554
+[wider impacts of fare policy on people and cities]: government's transport priorities --[INCLUDES]-> fares play an important role in helping cover the cost of public transport within available budgets 0.8508740663528442
+[wider impacts of fare policy on people and cities]: public transport affordability --[RELATES_TO]-> wider impacts of fare policy on people and cities 0.8467555642127991
+[wider impacts of fare policy on people and cities]: wider objectives in Regional Public Transport Plans --[CONTRIBUTES]-> government's transport priorities 0.8383309841156006
+[wider impacts of fare policy on people and cities]: underlying principles of the current policy --[CONTRIBUTES]-> wider objectives in Regional Public Transport Plans 0.8334894180297852
+[National Ticketing System]: Request for National Ticketing System Documentation --[REQUESTS]-> National Ticketing System 0.8581976890563965
+[National Ticketing System]: RFP for National Ticket System --[AVAILABLE]-> www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ 0.8539398312568665
+[National Ticketing System]: public transport fare policy review --[AFFECTS]-> public 0.850659966468811
+[National Ticketing System]: road maintenance --[AFFECTS]-> public transport fare policy review 0.8494962453842163
+[National Ticketing System]: Regional Public Transport Plans --[CONTRIBUTES]-> achieving mode shift 0.8467729687690735
+[National Ticketing System]: New Zealand Transport Agency --[PROVIDES]-> Connected Journey Solutions 0.8443558216094971
+[National Ticketing System]: public --[AFFECTED_BY]-> public transport fare policy review 0.8437110185623169
+[review of public transport fare policy]: Request for National Ticketing System Documentation --[REQUESTS]-> National Ticketing System 0.8581976890563965
+[review of public transport fare policy]: RFP for National Ticket System --[AVAILABLE]-> www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ 0.8539398312568665
+[review of public transport fare policy]: Public Transport --[OFFERS]-> Payment Methods 0.8513306379318237
+[review of public transport fare policy]: public transport fare policy review --[AFFECTS]-> public 0.850659966468811
+[review of public transport fare policy]: Mode Shift --[ENHANCES]-> Public Transport 0.850245475769043
+[review of public transport fare policy]: road maintenance --[AFFECTS]-> public transport fare policy review 0.8494962453842163
+[review of public transport fare policy]: Regional Public Transport Plans --[CONTRIBUTES]-> achieving mode shift 0.8467729687690735

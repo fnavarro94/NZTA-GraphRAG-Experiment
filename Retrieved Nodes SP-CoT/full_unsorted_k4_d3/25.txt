@@ -1,0 +1,36 @@
+What key plan is associated with the infrastructure project in Christchurch that aims to improve access to the southern suburbs and the city center following the earthquakes in 2010 and 2011 to enhance the transport network in Christchurch?
+None
+Seed: To improve access to southern suburbs and city center
+Seed: Critical link between southern suburbs and central business district
+Seed: Significant transport infrastructure project
+Seed: Christchurch transport strategic plan
+[To improve access to southern suburbs and city center]: Christchurch southern motorway --[Was developed]-> To improve access to southern suburbs and city center 0.8966140747070312
+[To improve access to southern suburbs and city center]: Christchurch southern motorway --[Serves as]-> Critical link between southern suburbs and central business district 0.867341160774231
+[To improve access to southern suburbs and city center]: Christchurch southern motorway --[Located in]-> South island of new zealand 0.830364465713501
+[To improve access to southern suburbs and city center]: Christchurch southern motorway --[Is]-> Significant transport infrastructure project 0.8879129886627197
+[To improve access to southern suburbs and city center]: Christchurch southern motorway --[Designed to]-> Enhance efficiency of road transport 0.8629850745201111
+[To improve access to southern suburbs and city center]: Christchurch southern motorway --[Ends at]-> Intersection with christchurch northern corridor 0.8214564323425293
+[To improve access to southern suburbs and city center]: Christchurch southern motorway --[Construction began]-> Early 2000s 0.8510538339614868
+[To improve access to southern suburbs and city center]: National cycling network --[Established in]-> Early 2000s 0.7663896083831787
+[To improve access to southern suburbs and city center]: Christchurch southern motorway --[Extends]-> Approximately 20 kilometers 0.8275218605995178
+[To improve access to southern suburbs and city center]: Christchurch southern motorway --[Key component of]-> Christchurch transport strategic plan 0.8771805763244629
+[To improve access to southern suburbs and city center]: Christchurch southern motorway --[Part of]-> New zealand government's broader strategy 0.8513657450675964
+[To improve access to southern suburbs and city center]: Christchurch southern motorway --[Begins at]-> Intersection of state highway 1 and state highway 76 0.8169196844100952
+[To improve access to southern suburbs and city center]: Christchurch --[Served by]-> Christchurch southern motorway 0.84746253490448
+[To improve access to southern suburbs and city center]: Christchurch --[Has]-> Cycling initiatives 0.8377662897109985
+[To improve access to southern suburbs and city center]: Christchurch --[Has]-> Metro system 0.8514735102653503
+[To improve access to southern suburbs and city center]: Christchurch --[Linked to]-> Dunedin 0.8341341614723206
+[To improve access to southern suburbs and city center]: Christchurch --[Has]-> Potential development of light rail system 0.8483738899230957
+[To improve access to southern suburbs and city center]: Christchurch --[Served by]-> Tranzalpine train service 0.8170299530029297
+[To improve access to southern suburbs and city center]: Christchurch --[Has]-> Walking initiatives 0.8452341556549072
+[To improve access to southern suburbs and city center]: Christchurch --[Served by]-> Main south line 0.842408299446106
+[To improve access to southern suburbs and city center]: Christchurch --[Has]-> Road infrastructure 0.8656572699546814
+[To improve access to southern suburbs and city center]: Christchurch --[Linked to]-> Picton 0.8317620754241943
+[To improve access to southern suburbs and city center]: Christchurch --[Connected by]-> State highways 0.8417697548866272
+[To improve access to southern suburbs and city center]: Christchurch --[Has]-> Focus on enhancing bus services 0.839118480682373
+[To improve access to southern suburbs and city center]: Christchurch --[Has]-> New bus network 0.8372415900230408
+[To improve access to southern suburbs and city center]: Christchurch --[Has]-> Public transport system 0.8459154367446899
+[To improve access to southern suburbs and city center]: Christchurch --[Has]-> Second-busiest airport in new zealand 0.7853788733482361
+[To improve access to southern suburbs and city center]: Christchurch --[Has]-> Shuttles 0.8248386383056641
+[To improve access to southern suburbs and city center]: Christchurch --[Has]-> Focus on promoting active transport options 0.8474799394607544
+[To improve access to southern suburbs and city center]: Christchurch --[Has]-> Focus on expanding public transport networks 0.8596222400665283

@@ -1,0 +1,36 @@
+Which city in the country where the program, established in 2010, requires periodic testing of older vehicles to ensure they meet emissions standards throughout their operational life, utilizes the Snapper card as part of its initiative that has improved the reliability of public transport services and allowed users to plan their journeys more effectively?
+None
+Seed: Need for more integrated and sustainable transport system
+Seed: Snapper card
+Seed: Growing emphasis on improving transport compliance through technology
+Seed: Solution to promote sustainable transport options in new zealand
+[Need for more integrated and sustainable transport system]: New zealand transport strategy --[Emphasizes]-> Need for more integrated and sustainable transport system 0.7918635606765747
+[Need for more integrated and sustainable transport system]: New zealand transport strategy --[Emphasizes]-> Multimodal approach 0.8018397688865662
+[Need for more integrated and sustainable transport system]: New zealand transport strategy --[Promotes]-> Public transport 0.7975764870643616
+[Need for more integrated and sustainable transport system]: New zealand transport strategy --[Aims]-> Sustainable transport network 0.7984154224395752
+[Need for more integrated and sustainable transport system]: New zealand transport strategy --[Is]-> Comprehensive framework 0.7971847653388977
+[Need for more integrated and sustainable transport system]: New zealand transport strategy --[Established]-> 2008 0.8083291053771973
+[Need for more integrated and sustainable transport system]: New zealand transport strategy --[Aligned with]-> Government objectives 0.8079444169998169
+[Need for more integrated and sustainable transport system]: New zealand transport strategy --[Promotes]-> Active transport options 0.7999646067619324
+[Need for more integrated and sustainable transport system]: New zealand transport strategy --[Outlines]-> Long-term vision 0.7961471676826477
+[Need for more integrated and sustainable transport system]: New zealand transport strategy --[Emphasizes]-> Integrating transport planning with land use and environmental considerations 0.7956576347351074
+[Need for more integrated and sustainable transport system]: New zealand transport strategy --[Outlines]-> Priorities for transport investment 0.7775616645812988
+[Need for more integrated and sustainable transport system]: New zealand transport strategy --[Emphasizes]-> Importance of community engagement 0.7982796430587769
+[Snapper card]: Snapper card --[Allows]-> Passengers to load funds and tap on and off at various transport services 0.8730857372283936
+[Snapper card]: At hop card --[Allows]-> Passengers to load funds and tap on and off at various transport services 0.8188652396202087
+[Snapper card]: Snapper card --[Used in]-> Wellington 0.8572383522987366
+[Snapper card]: Wellington --[Has]-> Bus network covering city and surrounding suburbs 0.7807058095932007
+[Snapper card]: Wellington --[Has]-> Various infrastructure improvements 0.7602094411849976
+[Snapper card]: Wellington --[Has]-> Invested in its cycling infrastructure 0.7495889663696289
+[Snapper card]: Wellington --[Has]-> Upgraded train stations 0.7619915008544922
+[Snapper card]: Wellington --[Has]-> Improved accessibility 0.7497663497924805
+[Snapper card]: Wellington --[Has]-> Comprehensive public transport networks 0.792984127998352
+[Snapper card]: Wellington --[Has]-> Commuter rail services 0.7771108150482178
+[Snapper card]: Wellington --[Has]-> Proposals for new lines 0.7543140053749084
+[Snapper card]: Wellington --[Has]-> Network of buses 0.7725508213043213
+[Snapper card]: Wellington --[Has]-> Initiatives 0.7779663801193237
+[Snapper card]: Wellington --[Has]-> Wellington regional rail system 0.7761712074279785
+[Snapper card]: Wellington --[Has]-> Extensive road network 0.757429838180542
+[Snapper card]: Wellington --[Has]-> Metlink 0.7596747279167175
+[Snapper card]: Wellington --[Has]-> Numerous tunnels and bridges 0.7355486750602722
+[Snapper card]: Wellington --[Has]-> Iconic wellington urban motorway 0.7613707184791565

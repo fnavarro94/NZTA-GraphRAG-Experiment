@@ -1,0 +1,36 @@
+Which significant town does the transport project in New Zealand, alongside the city home to the Te Ara I Whiti (Lightpath) project, which has transformed underutilized spaces into vibrant cycling and pedestrian pathways, pass through after Upper Hutt and before reaching Levin?
+None
+Seed: Transport link between wellington and northern regions of north island
+Seed: Addressing transport challenges in auckland
+Seed: New zealand's transport network
+Seed: Cycling infrastructure and public transport initiatives
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Aims to improve]-> Transport link between wellington and northern regions of north island 0.8018946051597595
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Links with]-> State highway 1 0.7962710857391357
+[Transport link between wellington and northern regions of north island]: State highway 1 --[Links]-> Major urban centers 0.7697520852088928
+[Transport link between wellington and northern regions of north island]: State highway 1 --[Runs]-> Length of north island 0.7645403742790222
+[Transport link between wellington and northern regions of north island]: Hamilton --[Served by]-> State highway 1 0.7606967687606812
+[Transport link between wellington and northern regions of north island]: Hamilton --[Offers]-> International services 0.7339900732040405
+[Transport link between wellington and northern regions of north island]: Hamilton --[Focus of]-> Local authorities 0.7560924291610718
+[Transport link between wellington and northern regions of north island]: Road safety authority --[Works closely with]-> Local authorities 0.7141209840774536
+[Transport link between wellington and northern regions of north island]: Road safety authority --[Collaborates with]-> Law enforcement agencies 0.6904373168945312
+[Transport link between wellington and northern regions of north island]: Road safety authority --[Operates under]-> Ministry of transport 0.7162449359893799
+[Transport link between wellington and northern regions of north island]: Road safety authority --[Advocates for]-> Infrastructure improvements 0.7303147315979004
+[Transport link between wellington and northern regions of north island]: Road safety authority --[Emphasizes]-> Need for holistic view of road safety 0.7187699675559998
+[Transport link between wellington and northern regions of north island]: Road safety authority --[Is]-> Government agency 0.7049744129180908
+[Transport link between wellington and northern regions of north island]: Road safety authority --[Employs]-> Data-driven approach 0.7174991369247437
+[Transport link between wellington and northern regions of north island]: Road safety authority --[Collaborates with]-> Community organizations 0.7252687215805054
+[Transport link between wellington and northern regions of north island]: Road safety authority --[Aims to]-> Educate the public 0.7147332429885864
+[Transport link between wellington and northern regions of north island]: Road safety authority --[Works towards]-> Vision of safer new zealand 0.7695141434669495
+[Transport link between wellington and northern regions of north island]: Road safety authority --[Encourages]-> Community engagement 0.7302846312522888
+[Transport link between wellington and northern regions of north island]: Road safety authority --[Publishes]-> Reports and statistics 0.7183967232704163
+[Transport link between wellington and northern regions of north island]: Road safety authority --[Focuses on]-> Education 0.7196882367134094
+[Transport link between wellington and northern regions of north island]: Road safety authority --[Fosters]-> Culture of safety and responsibility 0.7026250958442688
+[Transport link between wellington and northern regions of north island]: Road safety authority --[Collaborates with]-> Local councils 0.7201072573661804
+[Transport link between wellington and northern regions of north island]: Road safety authority --[Responsible for]-> Promoting road safety 0.7171144485473633
+[Transport link between wellington and northern regions of north island]: Road safety authority --[Focuses on]-> Enforcement 0.6973143815994263
+[Transport link between wellington and northern regions of north island]: Road safety authority --[Focuses on]-> Engineering 0.723299503326416
+[Transport link between wellington and northern regions of north island]: Road safety authority --[Promotes]-> Safe road practices 0.7124099731445312
+[Transport link between wellington and northern regions of north island]: Road safety authority --[Works closely with]-> Police 0.7071068286895752
+[Transport link between wellington and northern regions of north island]: New zealand --[Has]-> Local authorities 0.7718321084976196
+[Transport link between wellington and northern regions of north island]: New zealand --[Has]-> Transport projects 0.8495609164237976
+[Transport link between wellington and northern regions of north island]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.7861909866333008

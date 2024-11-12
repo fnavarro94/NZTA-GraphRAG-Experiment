@@ -1,0 +1,36 @@
+Under which sections of the Official Information Act was certain information withheld in the OIA-15599 response?
+None
+Seed: Some information has been withheld under section 9(2)(f)(iv)
+Seed: Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)
+Seed: Request made under the Official Information Act 1982
+Seed: section 9(2)(j) of the Act
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[IS]-> Some information has been withheld under section 9(2)(f)(iv) 0.843669056892395
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[DATE]-> 24 April 2024 0.7288557887077332
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[IS]-> NTS rollout timeline 0.7368964552879333
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[IS]-> Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv) 0.8366753458976746
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[IS]-> Transport stakeholders meeting 0.7502071857452393
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[DATE]-> 17 April 2024 0.7410187125205994
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4449 --[DATE]-> 17 April 2024 0.7427646517753601
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4449 --[IS]-> Average cost of resurfacing and rehabilitation 0.7053613066673279
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4449 --[IS]-> Released in full 0.7418938875198364
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: 29 April 2024 --[RELEASED]-> Released in full 0.7134596109390259
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: 30 April 2024 --[RELEASED]-> Released in full 0.722305417060852
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: Ministers Report --[IS]-> Released in full 0.7864646911621094
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: 8 April 2024 --[RELEASED]-> Released in full 0.7232022285461426
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: 19 April 2024 --[RELEASED]-> Released in full 0.7148378491401672
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: 22 April 2024 --[RELEASED]-> Released in full 0.7239023447036743
+[Request made under the Official Information Act 1982]: Joel MacManus --[REQUEST]-> Request made under the Official Information Act 1982 0.8457763195037842
+[Request made under the Official Information Act 1982]: Joel MacManus --[EMAIL]-> joel.macmanus@stuff.co.nz 0.742405891418457
+[Request made under the Official Information Act 1982]: Joel MacManus --[REQUESTED]-> information under the Official Information Act 1982 0.8520205020904541
+[Request made under the Official Information Act 1982]: Thomas Coughlan --[REQUESTS]-> information under the Official Information Act 1982 0.8565431833267212
+[Request made under the Official Information Act 1982]: Newsroom --[EMPLOYS]-> Thomas Coughlan 0.7273833155632019
+[Request made under the Official Information Act 1982]: Thomas Coughlan --[EMPLOYER]-> Newsroom Pro 0.7299901843070984
+[Request made under the Official Information Act 1982]: Newsroom Pro --[LOCATED_IN]-> Parliamentary Press Gallery 0.7646874189376831
+[Request made under the Official Information Act 1982]: Request made under the Official Information Act 1982 --[REQUESTED_BY]-> Thomas Coughlan 0.8478659391403198
+[Request made under the Official Information Act 1982]: Request made under the Official Information Act 1982 --[REQUEST_DATE]-> 30 October 2018 0.849858283996582
+[Request made under the Official Information Act 1982]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.8678512573242188
+[Request made under the Official Information Act 1982]: Request made under the Official Information Act 1982 --[REQUESTS]-> New Zealand Transport Agency 0.8342620134353638
+[Request made under the Official Information Act 1982]: Request made under the Official Information Act 1982 --[REQUESTS]-> detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) 0.805115818977356
+[Request made under the Official Information Act 1982]: Dear --[OFFICIAL_INFORMATION]-> Request made under the Official Information Act 1982 0.8628548383712769
+[Request made under the Official Information Act 1982]: Request made under the Official Information Act 1982 --[OFFICIAL_INFORMATION]-> Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act). 0.8385122418403625
+[Request made under the Official Information Act 1982]: Request made under the Official Information Act 1982 --[CHALLENGES]-> Road To Zero campaign 0.842119574546814

@@ -1,0 +1,28 @@
+Were any details about the crash that caused the $93,114.27 repair withheld?
+None
+Seed: figures on drivers involved in fatal crashes
+Seed: report on the impacts of the Fare Recovery Ratio
+Seed: Traffic Crash Reports
+Seed: Operated A Motor Vehicle Recklessly
+[figures on drivers involved in fatal crashes]: AA --[PROVIDES]-> figures on drivers involved in fatal crashes 0.8103829622268677
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[WITHHOLDS]-> details of the date, time, and place of the crash 0.8329984545707703
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[PROVIDES]-> accident or crash history 0.823367714881897
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.817335307598114
+[report on the impacts of the Fare Recovery Ratio]: Crash Analysis System --[MANAGED_BY]-> New Zealand Transport Agency 0.8171700239181519
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[PROVIDES]-> crash data 0.8160901069641113
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[RESPONSE]-> OIA-8289 0.811396062374115
+[report on the impacts of the Fare Recovery Ratio]: OIA-8452 --[ANSWERED_BY]-> New Zealand Transport Agency 0.8075492978096008
+[Traffic Crash Reports]: Crash Analysis System --[UPDATED]-> Traffic Crash Report 0.8340380191802979
+[Traffic Crash Reports]: information on crash movements and causes --[ASSIGNED]-> primary contribution 0.8336964845657349
+[Traffic Crash Reports]: Traffic Crash Reports --[CONTAINS]-> information on crash movements and causes 0.8302010893821716
+[Traffic Crash Reports]: Transport Agency --[GETS_INFORMATION]-> Traffic Crash Reports 0.8295190930366516
+[Traffic Crash Reports]: crash movements and cause factors --[RECORDED_IN]-> Crash Analysis System 0.8262069225311279
+[Traffic Crash Reports]: Traffic Crash Report --[ASSOCIATED_WITH]-> Crash Analysis System 0.8218100666999817
+[Traffic Crash Reports]: Crash Analysis System --[UPDATES]-> Traffic Crash Report 0.8210654258728027
+[Operated A Motor Vehicle Recklessly]: Theft Ex Car (Over $100) --[COUNT]-> 1 0.8329973220825195
+[Operated A Motor Vehicle Recklessly]: 2019 --[HAS_SERIOUS_INJURY_CRASHES]-> 1 0.8325825929641724
+[Operated A Motor Vehicle Recklessly]: Operated A Motor Vehicle Recklessly --[COUNT]-> 1 0.8269020318984985
+[Operated A Motor Vehicle Recklessly]: 2019 --[HAS_MINOR_INJURY_CRASHES]-> 1 0.8228259682655334
+[Operated A Motor Vehicle Recklessly]: Drove A Motor Vehicle In A Dangerous Manner --[COUNT]-> 1 0.8221150636672974
+[Operated A Motor Vehicle Recklessly]: Theft Ex Dwelling (Under $500) --[COUNT]-> 1 0.8144633173942566
+[Operated A Motor Vehicle Recklessly]: Careless Or Inconsiderate Driving Causing Death Or Injury --[COUNT]-> 1 0.8083873987197876

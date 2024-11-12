@@ -1,0 +1,14 @@
+What information did NZTA provide in response to the OIA request on median barriers (OIA-3396)?
+None
+Seed: installing median barriers
+Seed: median barriers
+Seed: Median Barriers
+Seed: information about the NZ Transport Agency's Information Technology (IT) projects
+[installing median barriers]: Safe System approach --[INCLUDES]-> installing median barriers 0.8215978145599365
+[median barriers]: information --[RELATES_TO]-> median barriers 0.844730794429779
+[median barriers]: context of figures --[RELATES_TO]-> median barriers 0.8225061297416687
+[median barriers]: New Zealand Transport Agency --[BUDGETS]-> median barriers 0.8879339694976807
+[median barriers]: median barriers --[LOCATED]-> New Zealand 0.8916404843330383
+[median barriers]: rely on figures --[RELATES_TO]-> median barriers 0.8181567192077637
+[Median Barriers]: John-Michael Swannix --[REQUESTS]-> Median Barriers 0.8356444835662842
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[PROVIDES]-> information about the NZ Transport Agency's Information Technology (IT) projects 0.8358364105224609

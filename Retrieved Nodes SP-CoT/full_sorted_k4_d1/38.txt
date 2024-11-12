@@ -1,0 +1,10 @@
+What is the abbreviation commonly used for the method that involves the use of advanced sensors and cameras to gather real-time data on road conditions in the context of transport systems in New Zealand?
+None
+Seed: Advanced sensors and cameras
+Seed: Cameras and sensors
+Seed: Real-time tracking of buses and trains
+Seed: Systematic collection and analysis of data related to the physical state of roadways
+[Advanced sensors and cameras]: Automated data collection --[Uses]-> Advanced sensors and cameras 0.8507516980171204
+[Cameras and sensors]: Intelligent transport systems --[Utilize]-> Cameras and sensors 0.8553836345672607
+[Real-time tracking of buses and trains]: Public transport innovations --[Include]-> Real-time tracking of buses and trains 0.8386215567588806
+[Systematic collection and analysis of data related to the physical state of roadways]: Road condition monitoring --[Involves]-> Systematic collection and analysis of data related to the physical state of roadways 0.8632848262786865

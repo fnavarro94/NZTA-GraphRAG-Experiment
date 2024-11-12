@@ -1,0 +1,36 @@
+Which city in the country where the program, established in 2010, requires periodic testing of older vehicles to ensure they meet emissions standards throughout their operational life, utilizes the Snapper card as part of its initiative that has improved the reliability of public transport services and allowed users to plan their journeys more effectively?
+None
+Seed: Need for more integrated and sustainable transport system
+Seed: Snapper card
+Seed: Growing emphasis on improving transport compliance through technology
+Seed: Solution to promote sustainable transport options in new zealand
+[Need for more integrated and sustainable transport system]: New zealand transport strategy --[Emphasizes]-> Need for more integrated and sustainable transport system 0.7918635606765747
+[Need for more integrated and sustainable transport system]: New zealand transport strategy --[Emphasizes]-> Multimodal approach 0.8018397688865662
+[Need for more integrated and sustainable transport system]: New zealand transport strategy --[Promotes]-> Public transport 0.7975764870643616
+[Need for more integrated and sustainable transport system]: Auckland transport --[Manages]-> Public transport 0.7870655059814453
+[Need for more integrated and sustainable transport system]: Auckland transport --[Has]-> Vision to support growth 0.7817775011062622
+[Need for more integrated and sustainable transport system]: Auckland transport --[Has]-> Vision to minimize environmental impact 0.7897583246231079
+[Need for more integrated and sustainable transport system]: Auckland transport --[Has]-> Vision to create efficient transport system 0.8000691533088684
+[Need for more integrated and sustainable transport system]: Auckland transport --[Has]-> Vision to create integrated transport system 0.7920467257499695
+[Need for more integrated and sustainable transport system]: Auckland transport --[Has]-> Long-term vision 0.7988641262054443
+[Need for more integrated and sustainable transport system]: New zealand transport strategy --[Outlines]-> Long-term vision 0.7961471676826477
+[Need for more integrated and sustainable transport system]: New zealand transport strategy --[Aims]-> Sustainable transport network 0.7984154224395752
+[Need for more integrated and sustainable transport system]: New zealand transport strategy --[Is]-> Comprehensive framework 0.7971847653388977
+[Need for more integrated and sustainable transport system]: New zealand transport strategy --[Established]-> 2008 0.8083291053771973
+[Need for more integrated and sustainable transport system]: New zealand transport strategy --[Aligned with]-> Government objectives 0.8079444169998169
+[Need for more integrated and sustainable transport system]: New zealand transport strategy --[Promotes]-> Active transport options 0.7999646067619324
+[Need for more integrated and sustainable transport system]: New zealand transport strategy --[Emphasizes]-> Integrating transport planning with land use and environmental considerations 0.7956576347351074
+[Need for more integrated and sustainable transport system]: New zealand transport strategy --[Outlines]-> Priorities for transport investment 0.7775616645812988
+[Need for more integrated and sustainable transport system]: New zealand transport strategy --[Emphasizes]-> Importance of community engagement 0.7982796430587769
+[Need for more integrated and sustainable transport system]: Auckland transport --[Has]-> Vision to create safe transport system 0.7910890579223633
+[Need for more integrated and sustainable transport system]: Auckland transport --[Focused on]-> Promoting active transport modes 0.8054953813552856
+[Need for more integrated and sustainable transport system]: Auckland transport --[Focused on]-> Promoting cycling 0.7816102504730225
+[Need for more integrated and sustainable transport system]: Auckland transport --[Focused on]-> Promoting walking 0.7925921082496643
+[Need for more integrated and sustainable transport system]: Auckland transport --[Is]-> Primary agency 0.7921857833862305
+[Need for more integrated and sustainable transport system]: Waka kotahi --[Is]-> Primary agency 0.7263555526733398
+[Need for more integrated and sustainable transport system]: Waka kotahi --[Has]-> Road to zero  strategy 0.7241052389144897
+[Need for more integrated and sustainable transport system]: Waka kotahi --[Is]-> Government agency 0.7384931445121765
+[Need for more integrated and sustainable transport system]: Waka kotahi --[Responsible for]-> Funding 0.7327126264572144
+[Need for more integrated and sustainable transport system]: Waka kotahi --[Responsible for]-> Management 0.7177490592002869
+[Need for more integrated and sustainable transport system]: Waka kotahi --[Responsible for]-> Planning 0.7406325936317444
+[Need for more integrated and sustainable transport system]: Waka kotahi --[Ensures]-> Investments 0.7248035669326782

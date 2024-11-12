@@ -1,0 +1,10 @@
+Under which regional council does the entity responsible for planning and delivering public transport services in Auckland operate?
+None
+Seed: Regional councils and local authorities
+Seed: Local councils and new zealand transport agency
+Seed: Local government initiatives
+Seed: Regional transport initiatives
+[Regional councils and local authorities]: National land transport programme --[Developed in consultation with]-> Regional councils and local authorities 0.8255428075790405
+[Local councils and new zealand transport agency]: Greater wellington regional council --[Collaborates with]-> Local councils and new zealand transport agency 0.8677164912223816
+[Local government initiatives]: Auckland transport plan --[Aligns with]-> Local government initiatives 0.8744151592254639
+[Regional transport initiatives]: Local councils --[Contribute to]-> Regional transport initiatives 0.8460637927055359

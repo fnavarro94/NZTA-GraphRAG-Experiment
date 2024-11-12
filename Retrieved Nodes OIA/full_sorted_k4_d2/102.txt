@@ -1,0 +1,24 @@
+Who is the acting National Manager responsible for the reply on Automatic Number Plate Recognition cameras?
+None
+Seed: Acting Senior Manager, Media
+Seed: no notifications of offences detected by speed cameras
+Seed: National Manager, Education and Marketing
+Seed: National correspondent
+[Acting Senior Manager, Media]: Jasmine Higginson --[IS]-> Acting Senior Manager, Media 0.7676956653594971
+[Acting Senior Manager, Media]: Jasmine Higginson --[CONTACT]-> jasmine.higginson@nzta.govt.nz 0.7672431468963623
+[Acting Senior Manager, Media]: New Zealand Transport Agency --[EMPLOYS]-> Jasmine Higginson 0.7619385719299316
+[Acting Senior Manager, Media]: Jasmine Higginson --[PHONE]-> 04 903 2315 0.7421362996101379
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[PROVIDES]-> information on speed cameras 0.8162679672241211
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.7998952269554138
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.7962141633033752
+[no notifications of offences detected by speed cameras]: Robbie Stephen --[CONTACT]-> Waka Kotahi 0.7957258820533752
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[DISCUSS]-> response letter 0.7940158843994141
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[DISCUSS]-> OIA-8620-response.pdf 0.7928022742271423
+[no notifications of offences detected by speed cameras]: Senior Media Manager --[AT]-> Waka Kotahi 0.7925533652305603
+[National Manager, Education and Marketing]: Lauren Cooke --[IS]-> National Manager, Education and Marketing 0.7595024704933167
+[National Manager, Education and Marketing]: Lauren Cooke --[SIGNED]-> response 0.755695104598999
+[National Manager, Education and Marketing]: Lauren Cooke --[WRITES]-> response 0.753795862197876
+[National correspondent]: Charlie Mitchell --[CORRESPONDENT]-> National correspondent 0.7810790538787842
+[National correspondent]: Charlie Mitchell --[REQUESTS]-> information under the Official Information Act 1982 0.7602885365486145
+[National correspondent]: Charlie Mitchell --[EMAIL]-> Charlie.Mitchell@stuff.co.nz 0.7572771906852722
+[National correspondent]: Charlie Mitchell --[EMPLOYER]-> Stuff 0.7504876255989075

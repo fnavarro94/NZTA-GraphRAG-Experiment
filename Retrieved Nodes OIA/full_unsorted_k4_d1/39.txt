@@ -1,0 +1,12 @@
+What does the term "Road Widening Works" mean in the context of SH1 Brynderwyn repairs?
+None
+Seed: Road Widening Works
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: one crossing near SH2/Lyon Street/Birdwood Street intersection
+Seed: information on LGWM construction contracts
+[Road Widening Works]: Attachment 3 --[TITLE]-> Road Widening Works 0.873195469379425
+[Road Widening Works]: Road Widening Works --[MEANS]-> creating space or a shoulder to repair future damage caused by weather events 0.8930172324180603
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUESTS]-> detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) 0.7940411567687988
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) --[CONTRACTS]-> consultants 0.8070048093795776
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: Featherston --[RAISED_CROSSINGS]-> one crossing near SH2/Lyon Street/Birdwood Street intersection 0.8211454153060913
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.7888949513435364

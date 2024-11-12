@@ -1,0 +1,36 @@
+What century does the history of rail transport in the region where the project aims to enhance connectivity between different transport modes in the Wellington region date back to?
+None
+Seed: Rich history of rail transport
+Seed: Transport link between wellington and northern regions of north island
+Seed: New zealand's broader transport goals
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+[Rich history of rail transport]: Wellington region --[Has]-> Rich history of rail transport 0.9317237138748169
+[Rich history of rail transport]: Wellington free ambulance --[Operates in]-> Wellington region 0.8171257972717285
+[Rich history of rail transport]: Wellington free ambulance --[Is]-> First free ambulance service 0.7716517448425293
+[Rich history of rail transport]: Wellington free ambulance --[Engages in]-> Community education programs 0.7911116480827332
+[Rich history of rail transport]: Wellington free ambulance --[Operates]-> Rapid response vehicles 0.7679488658905029
+[Rich history of rail transport]: Wellington free ambulance --[Offers]-> Services without charge 0.7452144622802734
+[Rich history of rail transport]: Wellington free ambulance --[Funded by]-> Grants 0.7891256809234619
+[Rich history of rail transport]: Wellington free ambulance --[Continues to]-> Evolve 0.7746050357818604
+[Rich history of rail transport]: Wellington free ambulance --[Collaborates with]-> Healthcare providers 0.7668026089668274
+[Rich history of rail transport]: Wellington free ambulance --[Promotes]-> Safety 0.7595258951187134
+[Rich history of rail transport]: Wellington free ambulance --[Fosters]-> Culture of preparedness 0.7512509226799011
+[Rich history of rail transport]: Wellington free ambulance --[Promotes]-> Health awareness 0.7599769830703735
+[Rich history of rail transport]: Wellington free ambulance --[Established in]-> 1927 0.7905528545379639
+[Rich history of rail transport]: Wellington free ambulance --[Is]-> Charitable organization 0.7644922733306885
+[Rich history of rail transport]: Wellington free ambulance --[Dedicated to]-> Transport to individuals experiencing medical emergencies 0.7913144826889038
+[Rich history of rail transport]: Wellington free ambulance --[Contributes to]-> Overall resilience 0.7836146354675293
+[Rich history of rail transport]: Wellington free ambulance --[Provides]-> Non-urgent patient transport services 0.7845804691314697
+[Rich history of rail transport]: Wellington free ambulance --[Continues to]-> Adapt to changing needs 0.7791313529014587
+[Rich history of rail transport]: Wellington free ambulance --[Operates under]-> Unique model 0.7793104648590088
+[Rich history of rail transport]: Wellington free ambulance --[Staffed by]-> Trained paramedics 0.7590026259422302
+[Rich history of rail transport]: Wellington free ambulance --[Staffed by]-> Emergency medical technicians 0.7488492131233215
+[Rich history of rail transport]: Wellington free ambulance --[Funded by]-> Government support 0.7773164510726929
+[Rich history of rail transport]: Wellington free ambulance --[Provides]-> Emergency medical services 0.7642438411712646
+[Rich history of rail transport]: Wellington free ambulance --[Funded by]-> Community donations 0.7826618552207947
+[Rich history of rail transport]: Wellington free ambulance --[Contributes to]-> Transport and healthcare systems 0.8061204552650452
+[Rich history of rail transport]: Wellington free ambulance --[Maintains]-> Core mission 0.767686665058136
+[Rich history of rail transport]: Wellington free ambulance --[Dedicated to]-> Delivering high-quality pre-hospital care 0.7627588510513306
+[Rich history of rail transport]: Wellington free ambulance --[Collaborates with]-> Other emergency services 0.777191162109375
+[Rich history of rail transport]: Wellington free ambulance --[Operates]-> Fleet of ambulances 0.7636865377426147
+[Rich history of rail transport]: Wellington free ambulance --[Engages in]-> Public health initiatives 0.7767680287361145

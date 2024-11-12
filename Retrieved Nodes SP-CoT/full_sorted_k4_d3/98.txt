@@ -1,0 +1,32 @@
+I'm sorry, but the questions provided are too complex and convoluted for me to provide accurate answers. If you could simplify the questions or provide more context, I would be happy to help answer them.
+None
+Seed: Criticism for complexity
+Seed: Surveys
+Seed: Cultural influences
+Seed: Cultural factors
+[Criticism for complexity]: Resource management act 1991 --[Subject to]-> Criticism for complexity 0.8291789889335632
+[Criticism for complexity]: Teia --[Includes]-> Social factors 0.807754397392273
+[Criticism for complexity]: Teia --[Includes]-> Cultural factors 0.8069573044776917
+[Criticism for complexity]: Teia --[Includes]-> Economic factors 0.8027251958847046
+[Criticism for complexity]: Teia --[Includes]-> Ecological factors 0.7909159660339355
+[Criticism for complexity]: Resource management act 1991 --[Cornerstone]-> New zealand's approach to managing transport 0.7860068082809448
+[Criticism for complexity]: Resource management act 1991 --[Led to]-> Discussions about potential amendments 0.7847718000411987
+[Surveys]: New zealand --[Has]-> Significant issue 0.8125502467155457
+[Surveys]: New zealand --[Has]-> Significant challenges 0.8088303804397583
+[Surveys]: Tms --[Faces]-> Challenges 0.7958037853240967
+[Surveys]: New zealand --[Has]-> Government contributions 0.7948194146156311
+[Surveys]: New zealand --[Faces]-> Unique challenges 0.7944403886795044
+[Surveys]: New zealand --[Has]-> Dispersed population 0.7942160964012146
+[Surveys]: New zealand --[Characterized by]-> Dispersed population 0.7924188375473022
+[Cultural influences]: Cultural influences --[Explore]-> How cultural factors influence road user behavior 0.7759347558021545
+[Cultural influences]: Cultural influences --[Explore]-> How cultural attitudes towards transport modes affect compliance 0.7664688229560852
+[Cultural influences]: Cultural influences --[Explore]-> How cultural attitudes towards transport modes affect overall road safety outcomes 0.7655812501907349
+[Cultural influences]: Cultural influences --[Explore]-> How cultural attitudes towards road safety affect overall road safety outcomes 0.7633956074714661
+[Cultural influences]: Cultural influences --[Explore]-> How cultural attitudes towards road safety affect compliance 0.762710690498352
+[Cultural factors]: Resource management act 1991 --[Subject to]-> Criticism for complexity 0.8291789889335632
+[Cultural factors]: New zealand --[Has]-> Significant issue 0.8125502467155457
+[Cultural factors]: New zealand --[Has]-> Significant challenges 0.8088303804397583
+[Cultural factors]: Teia --[Includes]-> Social factors 0.807754397392273
+[Cultural factors]: Teia --[Includes]-> Cultural factors 0.8069573044776917
+[Cultural factors]: Teia --[Includes]-> Economic factors 0.8027251958847046
+[Cultural factors]: New zealand --[Has]-> Government contributions 0.7948194146156311

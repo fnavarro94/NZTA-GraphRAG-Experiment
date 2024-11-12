@@ -1,0 +1,28 @@
+What challenges affect the accuracy of drug-related crash data in the Bay of Plenty?
+None
+Seed: Guide for the interpretation of coded crash reports
+Seed: data on road traffic crashes
+Seed: figures on drivers involved in fatal crashes
+Seed: report on the impacts of the Fare Recovery Ratio
+[Guide for the interpretation of coded crash reports]: Crash Data --[RELATES_TO]-> Bay of Plenty Region 0.8913469910621643
+[Guide for the interpretation of coded crash reports]: road accident data --[ATTRIBUTED_TO]-> drugs 0.8819047212600708
+[Guide for the interpretation of coded crash reports]: drugs --[ASSOCIATED_WITH]-> Bay of Plenty 0.875066876411438
+[Guide for the interpretation of coded crash reports]: road accidents --[IN]-> Bay of Plenty 0.8671678304672241
+[Guide for the interpretation of coded crash reports]: crash data --[RELATES_TO]-> Queenstown Lakes 0.8648013472557068
+[Guide for the interpretation of coded crash reports]: Bay of Plenty --[HAS]-> road accidents 0.864418089389801
+[Guide for the interpretation of coded crash reports]: Crash Analysis System --[PROVIDES]-> Data 0.8621839880943298
+[data on road traffic crashes]: Crash Data --[RELATES_TO]-> Bay of Plenty Region 0.8913469910621643
+[data on road traffic crashes]: Bay of Plenty Region --[HAS_CONTRIBUTING_FACTOR]-> Drugs proven 0.8852671980857849
+[data on road traffic crashes]: road accident data --[ATTRIBUTED_TO]-> drugs 0.8819047212600708
+[data on road traffic crashes]: Road Crash Data --[PROVIDES]-> Insights 0.8777865767478943
+[data on road traffic crashes]: drugs --[ASSOCIATED_WITH]-> Bay of Plenty 0.875066876411438
+[data on road traffic crashes]: road accidents --[IN]-> Bay of Plenty 0.8671678304672241
+[data on road traffic crashes]: crash data --[RELATES_TO]-> Queenstown Lakes 0.8648013472557068
+[figures on drivers involved in fatal crashes]: AA --[PROVIDES]-> figures on drivers involved in fatal crashes 0.8169283866882324
+[report on the impacts of the Fare Recovery Ratio]: Crash Data --[RELATES_TO]-> Bay of Plenty Region 0.8913469910621643
+[report on the impacts of the Fare Recovery Ratio]: road accident data --[ATTRIBUTED_TO]-> drugs 0.8819047212600708
+[report on the impacts of the Fare Recovery Ratio]: Road Crash Data --[PROVIDES]-> Insights 0.8777865767478943
+[report on the impacts of the Fare Recovery Ratio]: drugs --[ASSOCIATED_WITH]-> Bay of Plenty 0.875066876411438
+[report on the impacts of the Fare Recovery Ratio]: road accidents --[IN]-> Bay of Plenty 0.8671678304672241
+[report on the impacts of the Fare Recovery Ratio]: crash data --[RELATES_TO]-> Queenstown Lakes 0.8648013472557068
+[report on the impacts of the Fare Recovery Ratio]: Bay of Plenty --[HAS]-> road accidents 0.864418089389801

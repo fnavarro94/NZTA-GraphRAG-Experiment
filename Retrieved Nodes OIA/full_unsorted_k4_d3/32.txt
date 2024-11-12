@@ -1,0 +1,36 @@
+Where can data regarding vehicle kilometres travelled (VKT) at a regional level over the past 10 years be found?
+None
+Seed: Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.
+Seed: vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas
+Seed: vehicle kilometres travelled estimates
+Seed: investigating transport companies
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years. --[CONTAINS]-> SHLR worksheet 0.9250043630599976
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: www.nzt a.govt.nz/planning -and-investment/learning- and-resources/transport -data/data- and-tools --[CONTAINS]-> Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years. 0.936613142490387
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: publicly available information --[AVAILABLE_ON]-> www.nzt a.govt.nz/planning -and-investment/learning- and-resources/transport -data/data- and-tools 0.8384032845497131
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: section 18(d) of the Act --[APPLIES]-> publicly available information 0.7627856731414795
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: publicly available information --[FOUND]-> section 11 starting on page 124 0.787007749080658
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: Waka Kotahi --[PROVIDES]-> publicly available information 0.7948638200759888
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand Transport Agency --[PROVIDES]-> vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas 0.832014262676239
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8010350465774536
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand Transport Agency --[BASED]-> Wellington 0.8078380823135376
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7665849328041077
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Golden Mile --[LOCATED]-> Wellington 0.7691516876220703
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7935003638267517
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7317205667495728
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.761793851852417
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7534347772598267
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Wellington --[PART_OF]-> Wellington Region 0.8016839027404785
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand --[HAS_CAPITAL]-> Wellington 0.8003772497177124
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.766252875328064
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Wellington --[HAS]-> tunnel 0.7790728211402893
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.788773775100708
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7573902010917664
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Wellington --[POSTCODE]-> 6141 0.738030731678009
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7974143028259277
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Wellington --[IS_PART_OF]-> New Zealand 0.7790677547454834
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.77303546667099
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: 50 Victoria Street --[IN]-> Wellington 0.7500945329666138
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7338316440582275
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.744266152381897
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7639095783233643
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7929855585098267

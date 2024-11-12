@@ -1,0 +1,36 @@
+Which city is linked to the urban area in New Zealand that has experienced significant investment in public transport infrastructure, alongside the largest city in New Zealand connected by the major railway line being upgraded to enhance its capacity and efficiency for sustainable transport, by State Highway 1 to the north?
+None
+Seed: Significant investment in public transport infrastructure
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+Seed: Addressing transport challenges in auckland
+Seed: Increased demand for effective transportation systems
+[Significant investment in public transport infrastructure]: Urban areas --[Have]-> Significant investment in public transport infrastructure 0.8526291251182556
+[Significant investment in public transport infrastructure]: Electric scooters --[Used in]-> Urban areas 0.7420487403869629
+[Significant investment in public transport infrastructure]: Electric scooters --[Classified under]-> Land transport act 0.7401003241539001
+[Significant investment in public transport infrastructure]: Land transport act --[Provides]-> Framework for implementing road safety campaigns and initiatives 0.7588744759559631
+[Significant investment in public transport infrastructure]: Land transport act --[Sets]-> Safety and emissions standards 0.7454503178596497
+[Significant investment in public transport infrastructure]: Land transport act --[Reflects]-> New zealand's commitment to sustainable development 0.8272736072540283
+[Significant investment in public transport infrastructure]: Land transport act --[Mandates]-> Registration of all motor vehicles 0.7300245761871338
+[Significant investment in public transport infrastructure]: Land transport act --[Aims to create]-> Comprehensive framework for safe and efficient movement of people and goods 0.7835224270820618
+[Significant investment in public transport infrastructure]: Land transport act --[Includes]-> Structured licensing system 0.756889820098877
+[Significant investment in public transport infrastructure]: Land transport act --[Is]-> Key piece of legislation 0.7803719639778137
+[Significant investment in public transport infrastructure]: Health and safety at work act 2015 --[Is]-> Key piece of legislation 0.7247271537780762
+[Significant investment in public transport infrastructure]: Land transport management act 2003 --[Is]-> Key piece of legislation 0.7833552956581116
+[Significant investment in public transport infrastructure]: Civil defence emergency management act 2002 --[Is]-> Key piece of legislation 0.7405620217323303
+[Significant investment in public transport infrastructure]: Resource management act 1991 --[Is]-> Key piece of legislation 0.7467943429946899
+[Significant investment in public transport infrastructure]: Land transport act --[Consolidates and updates]-> Previous transport laws 0.7599506378173828
+[Significant investment in public transport infrastructure]: Land transport act --[Enacted in]-> 1998 0.7817749977111816
+[Significant investment in public transport infrastructure]: Land transport act --[Year]-> 1998 0.7843208312988281
+[Significant investment in public transport infrastructure]: Land transport act --[Emphasizes]-> Importance of integrating land transport with broader environmental and urban planning initiatives 0.7945199608802795
+[Significant investment in public transport infrastructure]: Land transport act --[Complemented by]-> Regulations and codes 0.7594980597496033
+[Significant investment in public transport infrastructure]: Electric scooters --[Offer]-> Convenient and eco-friendly alternative to traditional vehicles 0.714809775352478
+[Significant investment in public transport infrastructure]: Electric scooters --[Align with]-> Promoting sustainable transport solutions 0.7557510137557983
+[Significant investment in public transport infrastructure]: Hamilton --[Focus of]-> Promoting sustainable transport solutions 0.8180702328681946
+[Significant investment in public transport infrastructure]: Hamilton --[Offers]-> International services 0.7459652423858643
+[Significant investment in public transport infrastructure]: Hamilton --[Focus of]-> Local authorities 0.782038152217865
+[Significant investment in public transport infrastructure]: Hamilton --[Focus of]-> Development of cycleways 0.7937330007553101
+[Significant investment in public transport infrastructure]: Hamilton --[Located]-> 13 kilometers from city center 0.7719510793685913
+[Significant investment in public transport infrastructure]: Hamilton --[Focus of]-> Transport planning 0.8150188326835632
+[Significant investment in public transport infrastructure]: Hamilton --[Offers]-> Domestic flights 0.7471351623535156
+[Significant investment in public transport infrastructure]: Hamilton --[Managed by]-> Hamilton city council 0.7577020525932312
+[Significant investment in public transport infrastructure]: Hamilton --[Situated]-> 40 kilometers north of tauranga 0.780676007270813

@@ -1,0 +1,36 @@
+What is the crash history for the SH2/SH53 intersection in Featherston over the past 10 years?
+None
+Seed: SH2 and SH53 in Featherston
+Seed: intersection of SH2 and SH53
+Seed: Traffic Crash Reports
+Seed: traffic crash data
+[SH2 and SH53 in Featherston]: SH2 and SH53 in Featherston --[INTERSECTS]-> Road 0.922809898853302
+[SH2 and SH53 in Featherston]: Road --[DEFINITION]-> Street, motorway or beach 0.7594389319419861
+[SH2 and SH53 in Featherston]: Road --[DEFINITION]-> Public car park 0.760178804397583
+[SH2 and SH53 in Featherston]: Crash --[MUST_OCCUR]-> Road 0.8189182281494141
+[SH2 and SH53 in Featherston]: Crash --[REPORTED_BY]-> Police 0.8133767247200012
+[SH2 and SH53 in Featherston]: does not reflect the formal view of the Police --[RELATES_TO]-> Police 0.7083008289337158
+[SH2 and SH53 in Featherston]: comment --[STATES]-> does not reflect the formal view of the Police 0.7037613987922668
+[SH2 and SH53 in Featherston]: Rainbow crossing --[DISCUSSED_BY]-> Police 0.7726082801818848
+[SH2 and SH53 in Featherston]: Rainbow crossing --[DISCUSSED_BY]-> NZTA staff 0.7638666033744812
+[SH2 and SH53 in Featherston]: Rainbow crossing --[DISCUSSED_BY]-> Georgina-Campbell 0.7604573369026184
+[SH2 and SH53 in Featherston]: Email chain discussion --[REGARDS]-> Rainbow crossing 0.7337450981140137
+[SH2 and SH53 in Featherston]: Rainbow crossing --[DISCUSSED_IN]-> Email chain discussion 0.7309263348579407
+[SH2 and SH53 in Featherston]: Email chain discussion --[DISCUSSES]-> Rainbow crossing 0.741561233997345
+[SH2 and SH53 in Featherston]: Georgina-Campbell --[DISCUSSES]-> Rainbow crossing 0.7404699921607971
+[SH2 and SH53 in Featherston]: Police --[DISCUSSION]-> NZTA staff 0.737911581993103
+[SH2 and SH53 in Featherston]: Crash --[PROCESSED_BY]-> Data Processing 0.7568177580833435
+[SH2 and SH53 in Featherston]: Data Processing --[LAG]-> Reporting Time Frame 0.722201943397522
+[SH2 and SH53 in Featherston]: Reporting Time Frame --[AFFECTED_BY]-> Covid-19 Pandemic 0.7327495813369751
+[SH2 and SH53 in Featherston]: Crash --[RECORDED]-> CAS 0.7736414074897766
+[SH2 and SH53 in Featherston]: Waka Kotahi --[MAINTAINS]-> CAS 0.7059420347213745
+[SH2 and SH53 in Featherston]: Response --[CONTAINS]-> Waka Kotahi 0.7357797622680664
+[SH2 and SH53 in Featherston]: response --[CONTAINS]-> Waka Kotahi 0.7274823188781738
+[SH2 and SH53 in Featherston]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.7452917098999023
+[SH2 and SH53 in Featherston]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.7608168125152588
+[SH2 and SH53 in Featherston]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7501691579818726
+[SH2 and SH53 in Featherston]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7573205232620239
+[SH2 and SH53 in Featherston]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.7295905947685242
+[SH2 and SH53 in Featherston]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7481885552406311
+[SH2 and SH53 in Featherston]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.7452320456504822
+[SH2 and SH53 in Featherston]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.7675189971923828

@@ -1,0 +1,33 @@
+How many road and street signs were stolen or vandalized in Hamilton over the last three years?
+None
+Seed: road/street signs
+Seed: one crossing near Daniell Street
+Seed: Theft Ex Car (Over $100)
+Seed: one crossing near SH2/Lyon Street/Birdwood Street intersection
+[road/street signs]: road/street signs --[STOLEN]-> last three years 0.918391227722168
+[road/street signs]: road/street signs --[VANDALISED]-> last three years 0.901990532875061
+[road/street signs]: street name signs --[STOLEN]-> last three years 0.8956465125083923
+[road/street signs]: street name signs --[VANDALISED]-> last three years 0.8899542093276978
+[road/street signs]: others --[VANDALISED]-> last three years 0.8568940162658691
+[road/street signs]: others --[STOLEN]-> last three years 0.8566558957099915
+[one crossing near Daniell Street]: road safety initiatives --[ASSOCIATED_WITH]-> Wellington City Council 0.8068294525146484
+[one crossing near Daniell Street]: road traffic crashes --[OCCURS_IN]-> Queenstown Lakes and Central Otago 0.8059266805648804
+[one crossing near Daniell Street]: road maintenance --[OVERDUE]-> Wellington City Council 0.8054951429367065
+[one crossing near Daniell Street]: road safety --[COLLABORATED_BY]-> Wellington City Council 0.8016844987869263
+[one crossing near Daniell Street]: Wellington City Council --[improving]-> road safety initiatives 0.8014773726463318
+[one crossing near Daniell Street]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7977517247200012
+[one crossing near Daniell Street]: Road Safety Initiatives --[COLLABORATED_BY]-> Wellington City Council 0.7974199652671814
+[Theft Ex Car (Over $100)]: Theft Ex Car (Over $100) --[COUNT]-> 1 0.8232280611991882
+[Theft Ex Car (Over $100)]: Theft Ex Dwelling (Under $500) --[COUNT]-> 1 0.8138244152069092
+[Theft Ex Car (Over $100)]: Theft Ex Car (Under $500) --[COUNT]-> 2 0.8081409931182861
+[Theft Ex Car (Over $100)]: Theft Ex Person (Over $100) --[COUNT]-> 1 0.8031728267669678
+[Theft Ex Car (Over $100)]: Other Burglary (Other Property) --[COUNT]-> 1 0.795778214931488
+[Theft Ex Car (Over $100)]: Resist Police --[COUNT]-> 2 0.7950780391693115
+[Theft Ex Car (Over $100)]: Traffic Light System --[ENDED]-> 2022 0.7910400032997131
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: road safety initiatives --[ASSOCIATED_WITH]-> Wellington City Council 0.8068294525146484
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: road traffic crashes --[OCCURS_IN]-> Queenstown Lakes and Central Otago 0.8059266805648804
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: road maintenance --[OVERDUE]-> Wellington City Council 0.8054951429367065
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: road safety --[COLLABORATED_BY]-> Wellington City Council 0.8016844987869263
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: Wellington City Council --[improving]-> road safety initiatives 0.8014773726463318
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7977517247200012
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: Road Safety Initiatives --[COLLABORATED_BY]-> Wellington City Council 0.7974199652671814

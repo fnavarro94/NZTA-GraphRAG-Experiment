@@ -1,0 +1,34 @@
+What entity is responsible for identifying and mapping walking access routes under the legislation that aims to enhance the safety and accessibility of walking routes for pedestrians?
+None
+Seed: Legislative framework for road safety initiatives
+Seed: Developing pedestrian crossings
+Seed: Framework for implementing road safety campaigns and initiatives
+Seed: Advocacy groups
+[Legislative framework for road safety initiatives]: Road safety legislation --[Governed by]-> Land transport act 1998 0.8426333069801331
+[Legislative framework for road safety initiatives]: Road transport safety --[Governed by]-> Land transport act 1998 0.8418771028518677
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Provides]-> Legislative framework for road safety initiatives 0.8409216403961182
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Complemented by]-> Land transport (road user 0.829738199710846
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Outlines]-> Road safety 0.8265106081962585
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Reflected in]-> Land transport act 1998 0.8230408430099487
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Establishes]-> Legal framework for enforcement of road rules 0.8228250741958618
+[Developing pedestrian crossings]: Road safety legislation --[Is]-> New zealand 0.8355472087860107
+[Developing pedestrian crossings]: New zealand --[Has]-> Road safety initiatives 0.8265130519866943
+[Developing pedestrian crossings]: New zealand --[Has]-> Transport accessibility improvements 0.8186436891555786
+[Developing pedestrian crossings]: New zealand --[Has]-> Road design guidelines 0.8175906538963318
+[Developing pedestrian crossings]: Road user engagement --[Is]-> New zealand 0.8139985799789429
+[Developing pedestrian crossings]: New zealand --[Faced]-> Significant challenges related to road safety 0.8120059370994568
+[Developing pedestrian crossings]: New zealand --[Transport system]-> Primarily road-based 0.8107420802116394
+[Framework for implementing road safety campaigns and initiatives]: Land transport act --[Provides]-> Framework for implementing road safety campaigns and initiatives 0.8417495489120483
+[Framework for implementing road safety campaigns and initiatives]: Land transport act --[Aims to create]-> Comprehensive framework for safe and efficient movement of people and goods 0.8230206966400146
+[Framework for implementing road safety campaigns and initiatives]: Land transport act --[Is]-> Key piece of legislation 0.8178098797798157
+[Framework for implementing road safety campaigns and initiatives]: Land transport act --[Complemented by]-> Regulations and codes 0.8151695728302002
+[Framework for implementing road safety campaigns and initiatives]: Land transport act --[Sets]-> Safety and emissions standards 0.8065180778503418
+[Framework for implementing road safety campaigns and initiatives]: Land transport act --[Includes]-> Structured licensing system 0.8030513525009155
+[Framework for implementing road safety campaigns and initiatives]: Land transport act --[Enacted in]-> 1998 0.8028596639633179
+[Advocacy groups]: New zealand transport agency --[Conduct]-> Studies on pedestrian and cyclist interaction 0.8357561230659485
+[Advocacy groups]: New zealand transport agency --[Is responsible for]-> Road networks 0.8252090811729431
+[Advocacy groups]: New zealand transport agency --[Initiated]-> Programs aimed at improving transport access 0.8247149586677551
+[Advocacy groups]: New zealand transport agency --[Plays]-> Pivotal role in facilitating road user engagement 0.8233896493911743
+[Advocacy groups]: New zealand transport agency --[Manages]-> Road traffic monitoring 0.8227769136428833
+[Advocacy groups]: New zealand transport agency --[Develops]-> Road design guidelines 0.8225650787353516
+[Advocacy groups]: New zealand transport agency --[Oversees]-> Transport safety 0.8222002387046814

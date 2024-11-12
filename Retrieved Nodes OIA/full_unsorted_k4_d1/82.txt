@@ -1,0 +1,13 @@
+Where can information on legal drugs that impair driving be found?
+None
+Seed: Careless Or Inconsiderate Driving Causing Death Or Injury
+Seed: Roadside Drug Testing
+Seed: Driving With Excess Blood Alcohol Level
+Seed: Speed and Drunk Driving Enforcement
+[Careless Or Inconsiderate Driving Causing Death Or Injury]: Careless Or Inconsiderate Driving Causing Death Or Injury --[COUNT]-> 1 0.8416814208030701
+[Roadside Drug Testing]: Drugs --[TESTED]-> Roadside Drug Testing 0.8787522912025452
+[Roadside Drug Testing]: Roadside Drug Testing --[NOT_DONE]-> 2022 0.8445149660110474
+[Roadside Drug Testing]: Roadside Drug Testing --[NOT_DONE]-> 2021 0.8519662022590637
+[Roadside Drug Testing]: Roadside Drug Testing --[NOT_DONE]-> 2020 0.8444730043411255
+[Driving With Excess Blood Alcohol Level]: Driving With Excess Blood Alcohol Level --[COUNT]-> 1 0.8420655727386475
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[DOUBLES]-> Speed and Drunk Driving Enforcement 0.7919595241546631

@@ -1,0 +1,36 @@
+Has Waka Kotahi carried out tests comparing steel reinforcement versus fiberglass or wood in cab cut-outs?
+None
+Seed: fibreglass or wood
+Seed: 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.
+Seed: steel is present reinforcing the ca b cut-out
+Seed: information to Waka Kotahi
+[fibreglass or wood]: fibreglass or wood --[TESTED]-> tests 0.8713247776031494
+[fibreglass or wood]: tests --[CONDUCTED]-> Waka Kotahi 0.8833456635475159
+[fibreglass or wood]: tests --[COMPARED]-> steel 0.850431501865387
+[fibreglass or wood]: Waka Kotahi --[HAS]-> tests 0.8474622368812561
+[fibreglass or wood]: Waka Kotahi --[PERFORMS]-> tests 0.8329777121543884
+[fibreglass or wood]: tests --[CONDUCTED_BY]-> Waka Kotahi 0.873664140701294
+[fibreglass or wood]: tests --[NOT_CARRIED_OUT]-> comparable tests 0.7533758282661438
+[fibreglass or wood]: tests --[COMPARES]-> steel 0.8420091271400452
+[fibreglass or wood]: steel is present reinforcing the ca b cut-out --[VS]-> fibreglass or wood 0.880901038646698
+[fibreglass or wood]: comparable tests --[WHERE]-> steel is present reinforcing the ca b cut-out 0.87354576587677
+[fibreglass or wood]: steel --[VS]-> fibreglass or wood 0.8725225925445557
+[fibreglass or wood]: steel --[VS]-> fibreglass 0.876893162727356
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. --[OFFICIAL_INFORMATION]-> I am refusing this part of your request under section 18(d) of the Act as the information is publicly available. 0.8131290674209595
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: I will respond to each of your questions in turn. --[OFFICIAL_INFORMATION]-> 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. 0.8394453525543213
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act). --[OFFICIAL_INFORMATION]-> I will respond to each of your questions in turn. 0.8042345643043518
+[steel is present reinforcing the ca b cut-out]: comparable tests --[WHERE]-> steel is present reinforcing the ca b cut-out 0.87354576587677
+[steel is present reinforcing the ca b cut-out]: tests --[NOT_CARRIED_OUT]-> comparable tests 0.7533758282661438
+[steel is present reinforcing the ca b cut-out]: steel is present reinforcing the ca b cut-out --[VS]-> fibreglass or wood 0.880901038646698
+[steel is present reinforcing the ca b cut-out]: fibreglass or wood --[TESTED]-> tests 0.8713247776031494
+[steel is present reinforcing the ca b cut-out]: steel --[VS]-> fibreglass or wood 0.8725225925445557
+[information to Waka Kotahi]: New Zealand Transport Agency --[PROVIDES]-> information to Waka Kotahi 0.804025411605835
+[information to Waka Kotahi]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7345499396324158
+[information to Waka Kotahi]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7348542213439941
+[information to Waka Kotahi]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7469566464424133
+[information to Waka Kotahi]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7550677061080933
+[information to Waka Kotahi]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7308518886566162
+[information to Waka Kotahi]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7319411635398865
+[information to Waka Kotahi]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7460182905197144
+[information to Waka Kotahi]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.745087206363678
+[information to Waka Kotahi]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7455226182937622

@@ -1,0 +1,10 @@
+In what year did the establishment become established?
+None
+Seed: Commenced in 1840
+Seed: Early european settlement in 19th century
+Seed: Establishment of national land transport fund
+Seed: In early european settlement
+[Commenced in 1840]: Auckland ferry network --[First regular ferry service]-> Commenced in 1840 0.7781304121017456
+[Early european settlement in 19th century]: New zealand --[Had]-> Early european settlement in 19th century 0.7815529704093933
+[Establishment of national land transport fund]: Land transport management act 2003 --[Provides for]-> Establishment of national land transport fund 0.745349109172821
+[In early european settlement]: Road construction --[Was often rudimentary]-> In early european settlement 0.7652190923690796

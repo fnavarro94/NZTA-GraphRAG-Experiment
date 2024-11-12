@@ -1,0 +1,30 @@
+How much has been spent on heavy vehicle certification reviews and inspections as of February 2020?
+None
+Seed: 7,162 Clean Car fees
+Seed: audits under s198 of the Land Transport Act
+Seed: Audits under s198 of the Land Transport Act
+Seed: paid toll revenues
+[7,162 Clean Car fees]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.8083685636520386
+[7,162 Clean Car fees]: Waka Kotahi --[RECEIVED]-> 7,162 Clean Car fees 0.8075287342071533
+[7,162 Clean Car fees]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.8059264421463013
+[7,162 Clean Car fees]: Waka Kotahi --[CAPTURE]-> carbon emission data for business related travel and fleet vehicles emissions 0.7943063974380493
+[7,162 Clean Car fees]: Waka Kotahi --[INVESTIGATES]-> ride share operator complaints 0.7921342253684998
+[7,162 Clean Car fees]: Waka Kotahi --[PROVIDES]-> claimed mileage 0.7911823987960815
+[7,162 Clean Car fees]: transport data --[PROVIDED_BY]-> Waka Kotahi 0.7909505367279053
+[audits under s198 of the Land Transport Act]: New Zealand Transport Agency --[ASSOCIATED]-> Review of 850 open compliance files 0.8320945501327515
+[audits under s198 of the Land Transport Act]: New Zealand Transport Agency --[PROVIDES]-> update on budget and costs 0.8261883854866028
+[audits under s198 of the Land Transport Act]: Audits, Reviews, Investigations --[CONDUCTED_BY]-> New Zealand Transport Agency 0.8258305788040161
+[audits under s198 of the Land Transport Act]: New Zealand Transport Agency --[PROVIDES]-> Vehicle Inspection Data 0.8242942094802856
+[audits under s198 of the Land Transport Act]: New Zealand Transport Agency --[CONDUCTS]-> Audits, Reviews, Investigations 0.8233595490455627
+[audits under s198 of the Land Transport Act]: Vehicle Inspection --[CONDUCTED_BY]-> New Zealand Transport Agency 0.8232039213180542
+[audits under s198 of the Land Transport Act]: New Zealand Transport Agency --[SPENT]-> $6,692,081.51 0.8230446577072144
+[Audits under s198 of the Land Transport Act]: New Zealand Transport Agency --[ASSOCIATED]-> Review of 850 open compliance files 0.8320945501327515
+[Audits under s198 of the Land Transport Act]: New Zealand Transport Agency --[PROVIDES]-> update on budget and costs 0.8261883854866028
+[Audits under s198 of the Land Transport Act]: Audits, Reviews, Investigations --[CONDUCTED_BY]-> New Zealand Transport Agency 0.8258305788040161
+[Audits under s198 of the Land Transport Act]: New Zealand Transport Agency --[PROVIDES]-> Vehicle Inspection Data 0.8242942094802856
+[Audits under s198 of the Land Transport Act]: New Zealand Transport Agency --[CONDUCTS]-> Audits, Reviews, Investigations 0.8233595490455627
+[Audits under s198 of the Land Transport Act]: Vehicle Inspection --[CONDUCTED_BY]-> New Zealand Transport Agency 0.8232039213180542
+[Audits under s198 of the Land Transport Act]: New Zealand Transport Agency --[SPENT]-> $6,692,081.51 0.8230446577072144
+[paid toll revenues]: paid toll revenues --[AVAILABLE_IN]-> Annual Reports 0.8142802119255066
+[paid toll revenues]: Annual Reports --[CONTAINS]-> paid toll revenues 0.8129435777664185
+[paid toll revenues]: Waka Kotahi --[PUBLISHES]-> Annual Reports 0.762504518032074

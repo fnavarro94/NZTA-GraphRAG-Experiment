@@ -1,0 +1,13 @@
+What information did NZTA provide about converting the shoulder of Auckland Motorway into bus lanes?
+None
+Seed: reports on converting the shoulder of Auckland Motorway into Bus Lanes
+Seed: Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf
+Seed: Commercial Buses
+Seed: Expressway
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Zachary Wong --[REQUESTED]-> reports on converting the shoulder of Auckland Motorway into Bus Lanes 0.9098303318023682
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: reports on converting the shoulder of Auckland Motorway into Bus Lanes --[PROVIDED]-> Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf 0.921581506729126
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf --[APPENDIX]-> Appendices A to E 0.9052956104278564
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: reports on converting the shoulder of Auckland Motorway into Bus Lanes --[PROVIDED]-> Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf 0.921581506729126
+[Commercial Buses]: New Zealand --[REGULATES]-> Commercial Buses 0.8423852920532227
+[Commercial Buses]: Commercial Buses --[FALLS_UNDER]-> Large/Heavy Passenger Service Vehicles 0.7897084951400757
+[Expressway]: street lights data --[CONTAINS]-> Expressway 0.8021105527877808

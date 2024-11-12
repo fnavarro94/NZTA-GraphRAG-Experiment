@@ -1,0 +1,36 @@
+What is the official designation of the scenic route in the country where the infrastructure project in Christchurch, which aims to improve access to the southern suburbs and the city center following the earthquakes in 2010 and 2011, is located and is known for attracting both domestic and international tourists?
+None
+Seed: Significant transport infrastructure project
+Seed: Critical link between southern suburbs and central business district
+Seed: Scenic routes such as the tranzalpine and the northern explorer
+Seed: Crucial role in tourism
+[Significant transport infrastructure project]: Christchurch southern motorway --[Is]-> Significant transport infrastructure project 0.8771300911903381
+[Significant transport infrastructure project]: Christchurch southern motorway --[Serves as]-> Critical link between southern suburbs and central business district 0.8509116172790527
+[Significant transport infrastructure project]: Christchurch southern motorway --[Located in]-> South island of new zealand 0.8432270288467407
+[Significant transport infrastructure project]: Christchurch southern motorway --[Designed to]-> Enhance efficiency of road transport 0.8446216583251953
+[Significant transport infrastructure project]: Christchurch southern motorway --[Ends at]-> Intersection with christchurch northern corridor 0.81157386302948
+[Significant transport infrastructure project]: Christchurch southern motorway --[Construction began]-> Early 2000s 0.8399224281311035
+[Significant transport infrastructure project]: National cycling network --[Established in]-> Early 2000s 0.7598203420639038
+[Significant transport infrastructure project]: Christchurch southern motorway --[Extends]-> Approximately 20 kilometers 0.8178672790527344
+[Significant transport infrastructure project]: Christchurch southern motorway --[Key component of]-> Christchurch transport strategic plan 0.8350684642791748
+[Significant transport infrastructure project]: Christchurch southern motorway --[Part of]-> New zealand government's broader strategy 0.8326914310455322
+[Significant transport infrastructure project]: Christchurch southern motorway --[Begins at]-> Intersection of state highway 1 and state highway 76 0.8242830038070679
+[Significant transport infrastructure project]: Christchurch --[Served by]-> Christchurch southern motorway 0.8357943296432495
+[Significant transport infrastructure project]: Christchurch --[Has]-> Cycling initiatives 0.8341850638389587
+[Significant transport infrastructure project]: Christchurch --[Has]-> Metro system 0.8284968733787537
+[Significant transport infrastructure project]: Christchurch --[Linked to]-> Dunedin 0.8273298740386963
+[Significant transport infrastructure project]: Christchurch --[Has]-> Potential development of light rail system 0.8292691111564636
+[Significant transport infrastructure project]: Christchurch --[Served by]-> Tranzalpine train service 0.813240647315979
+[Significant transport infrastructure project]: Christchurch --[Has]-> Walking initiatives 0.8462073802947998
+[Significant transport infrastructure project]: Christchurch --[Served by]-> Main south line 0.8170602917671204
+[Significant transport infrastructure project]: Christchurch --[Has]-> Road infrastructure 0.8746694326400757
+[Significant transport infrastructure project]: Christchurch --[Linked to]-> Picton 0.8435579538345337
+[Significant transport infrastructure project]: Christchurch --[Connected by]-> State highways 0.8499673008918762
+[Significant transport infrastructure project]: Christchurch --[Has]-> Focus on enhancing bus services 0.7967230081558228
+[Significant transport infrastructure project]: Christchurch --[Has]-> New bus network 0.8107185363769531
+[Significant transport infrastructure project]: Christchurch --[Has]-> Public transport system 0.8457585573196411
+[Significant transport infrastructure project]: Christchurch --[Has]-> Second-busiest airport in new zealand 0.7898085713386536
+[Significant transport infrastructure project]: Christchurch --[Has]-> Shuttles 0.8206623792648315
+[Significant transport infrastructure project]: Christchurch --[Has]-> Focus on promoting active transport options 0.8249029517173767
+[Significant transport infrastructure project]: Christchurch --[Has]-> Focus on expanding public transport networks 0.8131579756736755
+[Significant transport infrastructure project]: Christchurch --[Has]-> International travelers 0.8481438755989075

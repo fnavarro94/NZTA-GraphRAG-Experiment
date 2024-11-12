@@ -1,0 +1,36 @@
+How many crashes in Christchurch were alcohol-related between 2017 and 2019?
+None
+Seed: Road Traffic Crashes
+Seed: information on Christchurch road deaths
+Seed: Pedestrian and Cyclist Crashes
+Seed: 1 fatal crash, 3 serious crashes, 8 minor crashes, 12 non-injury crashes, 24 total crashes
+[Road Traffic Crashes]: Road Traffic Crashes --[ANALYZED_BY]-> Crash Analysis 0.8155063390731812
+[Road Traffic Crashes]: Crash Analysis --[PERFORMED_BY]-> Waka Kotahi NZ Transport Agency 0.8289096355438232
+[Road Traffic Crashes]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7657929062843323
+[Road Traffic Crashes]: New Zealand Transport Agency --[BASED]-> Wellington 0.790094792842865
+[Road Traffic Crashes]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7870768308639526
+[Road Traffic Crashes]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7794134616851807
+[Road Traffic Crashes]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7931668758392334
+[Road Traffic Crashes]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.789742112159729
+[Road Traffic Crashes]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7891212701797485
+[Road Traffic Crashes]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7918686866760254
+[Road Traffic Crashes]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.8047062754631042
+[Road Traffic Crashes]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7988096475601196
+[Road Traffic Crashes]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7880446910858154
+[Road Traffic Crashes]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7735462784767151
+[Road Traffic Crashes]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7819342613220215
+[Road Traffic Crashes]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7944022417068481
+[Road Traffic Crashes]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7933254241943359
+[Road Traffic Crashes]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7805292010307312
+[Road Traffic Crashes]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7800548076629639
+[Road Traffic Crashes]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.800058126449585
+[Road Traffic Crashes]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7734273076057434
+[Road Traffic Crashes]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7992435693740845
+[Road Traffic Crashes]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8053343296051025
+[Road Traffic Crashes]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7761325836181641
+[Road Traffic Crashes]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8002256155014038
+[Road Traffic Crashes]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7955461144447327
+[Road Traffic Crashes]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8037524223327637
+[Road Traffic Crashes]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7883629202842712
+[Road Traffic Crashes]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7843774557113647
+[Road Traffic Crashes]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8022263646125793

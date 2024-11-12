@@ -1,0 +1,17 @@
+What is the typical early termination notice period for Let's Get Wellington Moving contracts?
+None
+Seed: clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: Let's Get Wellington Moving
+Seed: information on LGWM construction contracts
+[clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement]: Waka Kotahi --[FOLLOWS]-> clause 9.3 of the Let's Get Wellington Moving Relationship and Funding Agreement 0.8482562303543091
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) --[CONTRACTS]-> consultants 0.829675555229187
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUESTS]-> detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) 0.8253532648086548
+[Let's Get Wellington Moving]: Let's Get Wellington Moving --[HAS_COMPONENT]-> Early Delivery Thorndon Quay and Hutt Road 0.8729327917098999
+[Let's Get Wellington Moving]: Let's Get Wellington Moving --[EXTENDED]-> submission period 0.8615013957023621
+[Let's Get Wellington Moving]: Let's Get Wellington Moving --[HAS_COMPONENT]-> Early Delivery Golden Mile 0.8557116985321045
+[Let's Get Wellington Moving]: Let's Get Wellington Moving --[COLLABORATES_WITH]-> New Zealand Transport Agency 0.852062463760376
+[Let's Get Wellington Moving]: Let's Get Wellington Moving --[HAS_COMPONENT]-> Mass Rapid Transit 0.8489619493484497
+[Let's Get Wellington Moving]: Let's Get Wellington Moving --[HAS_COMPONENT]-> Early Delivery Central City and SH1 WC speed 0.8481953740119934
+[Let's Get Wellington Moving]: Golden Mile Consultation --[IS_PART_OF]-> Let's Get Wellington Moving 0.8406655788421631
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.8161681294441223

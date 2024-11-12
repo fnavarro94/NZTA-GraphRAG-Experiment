@@ -1,0 +1,34 @@
+In what year did the primary provider of ambulance services in New Zealand officially become established in New Zealand?
+None
+Seed: Primary provider of ambulance services
+Seed: Largest ambulance service in new zealand
+Seed: First free ambulance service
+Seed: Healthcare providers
+[Primary provider of ambulance services]: Wellington free ambulance --[Established in]-> 1927 0.873824954032898
+[Primary provider of ambulance services]: Wellington free ambulance --[Is]-> First free ambulance service 0.8720431327819824
+[Primary provider of ambulance services]: St john --[Operates]-> Largest ambulance service in new zealand 0.8696715831756592
+[Primary provider of ambulance services]: St john --[Is]-> Primary provider of ambulance services 0.8614489436149597
+[Primary provider of ambulance services]: Wellington free ambulance --[Dedicated to]-> Delivering high-quality pre-hospital care 0.8581593036651611
+[Primary provider of ambulance services]: Wellington free ambulance --[Collaborates with]-> Healthcare providers 0.857291579246521
+[Primary provider of ambulance services]: Wellington free ambulance --[Provides]-> Emergency medical services 0.8563770055770874
+[Largest ambulance service in new zealand]: Wellington free ambulance --[Established in]-> 1927 0.873824954032898
+[Largest ambulance service in new zealand]: Wellington free ambulance --[Is]-> First free ambulance service 0.8720431327819824
+[Largest ambulance service in new zealand]: St john --[Operates]-> Largest ambulance service in new zealand 0.8696715831756592
+[Largest ambulance service in new zealand]: St john --[Is]-> Primary provider of ambulance services 0.8614489436149597
+[Largest ambulance service in new zealand]: Wellington free ambulance --[Dedicated to]-> Delivering high-quality pre-hospital care 0.8581593036651611
+[Largest ambulance service in new zealand]: Wellington free ambulance --[Collaborates with]-> Healthcare providers 0.857291579246521
+[Largest ambulance service in new zealand]: Wellington free ambulance --[Provides]-> Emergency medical services 0.8563770055770874
+[First free ambulance service]: Wellington free ambulance --[Established in]-> 1927 0.873824954032898
+[First free ambulance service]: Wellington free ambulance --[Is]-> First free ambulance service 0.8720431327819824
+[First free ambulance service]: St john --[Operates]-> Largest ambulance service in new zealand 0.8696715831756592
+[First free ambulance service]: St john --[Is]-> Primary provider of ambulance services 0.8614489436149597
+[First free ambulance service]: Wellington free ambulance --[Dedicated to]-> Delivering high-quality pre-hospital care 0.8581593036651611
+[First free ambulance service]: Wellington free ambulance --[Collaborates with]-> Healthcare providers 0.857291579246521
+[First free ambulance service]: Wellington free ambulance --[Provides]-> Emergency medical services 0.8563770055770874
+[Healthcare providers]: Wellington free ambulance --[Established in]-> 1927 0.873824954032898
+[Healthcare providers]: Wellington free ambulance --[Is]-> First free ambulance service 0.8720431327819824
+[Healthcare providers]: St john --[Operates]-> Largest ambulance service in new zealand 0.8696715831756592
+[Healthcare providers]: St john --[Is]-> Primary provider of ambulance services 0.8614489436149597
+[Healthcare providers]: Wellington free ambulance --[Dedicated to]-> Delivering high-quality pre-hospital care 0.8581593036651611
+[Healthcare providers]: Wellington free ambulance --[Collaborates with]-> Healthcare providers 0.857291579246521
+[Healthcare providers]: Wellington free ambulance --[Provides]-> Emergency medical services 0.8563770055770874

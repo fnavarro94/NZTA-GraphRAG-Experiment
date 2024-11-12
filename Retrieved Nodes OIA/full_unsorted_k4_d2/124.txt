@@ -1,0 +1,36 @@
+When is the Detailed Business Case (DBC) for the North Auckland Rapid Transit Corridor expected to be available?
+None
+Seed: North Auckland Rapid Transit Corridor
+Seed: National Ticketing Solution request for proposal
+Seed: Rapid Transit Network Delivery Plan
+Seed: Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case
+[North Auckland Rapid Transit Corridor]: North Auckland Rapid Transit Corridor --[LOCATED]-> Auckland 0.887446939945221
+[North Auckland Rapid Transit Corridor]: State Highway 1 --[LOCATED_IN]-> Auckland 0.8183478713035583
+[North Auckland Rapid Transit Corridor]: New Zealand --[CONTAINS]-> Auckland 0.8181493282318115
+[North Auckland Rapid Transit Corridor]: Wellington Region --[CONTAINS]-> Auckland 0.8193209767341614
+[North Auckland Rapid Transit Corridor]: Auckland --[CONTAINS]-> New Zealand 0.8181222081184387
+[North Auckland Rapid Transit Corridor]: Auckland --[CONTAINS]-> transport infrastructure 0.8577501177787781
+[North Auckland Rapid Transit Corridor]: Auckland --[CONTAINS]-> Users/felipenavarro/Documents/Auckland/nzta/nzta_dev/NZTA-GraphRAG/transport_data/sample_files/nzta/temp_files 0.8078305721282959
+[North Auckland Rapid Transit Corridor]: Auckland --[CONTAINS]-> Auckland City 0.8275390863418579
+[North Auckland Rapid Transit Corridor]: Auckland --[CONTAINS]-> nzta_dev 0.8087236285209656
+[North Auckland Rapid Transit Corridor]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.8530604839324951
+[North Auckland Rapid Transit Corridor]: temp files --[ASSOCIATED_WITH]-> Auckland 0.7693827748298645
+[North Auckland Rapid Transit Corridor]: oia-11331-response.pdf --[ASSOCIATED_WITH]-> Auckland 0.8013085126876831
+[North Auckland Rapid Transit Corridor]: oia-1393-mcquillan.pdf --[ASSOCIATED_WITH]-> Auckland 0.8085089325904846
+[North Auckland Rapid Transit Corridor]: oia-1228-russell.pdf --[ASSOCIATED_WITH]-> Auckland 0.8113017678260803
+[North Auckland Rapid Transit Corridor]: oia-8059-response.pdf --[ASSOCIATED_WITH]-> Auckland 0.8004180192947388
+[North Auckland Rapid Transit Corridor]: oia-9870-response.pdf --[ASSOCIATED_WITH]-> Auckland 0.8038229942321777
+[North Auckland Rapid Transit Corridor]: oia-9368-response.pdf --[ASSOCIATED_WITH]-> Auckland 0.803726851940155
+[North Auckland Rapid Transit Corridor]: transport data --[ASSOCIATED_WITH]-> Auckland 0.8246489763259888
+[North Auckland Rapid Transit Corridor]: oia-12215-response-letter.pdf --[ASSOCIATED_WITH]-> Auckland 0.8031488060951233
+[North Auckland Rapid Transit Corridor]: oia-9157-response.pdf --[ASSOCIATED_WITH]-> Auckland 0.8063458204269409
+[North Auckland Rapid Transit Corridor]: Michael Hayward --[ASSOCIATED_WITH]-> Auckland 0.8023473620414734
+[North Auckland Rapid Transit Corridor]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Auckland 0.8461059927940369
+[North Auckland Rapid Transit Corridor]: Item 1 --[ASSOCIATED_WITH]-> Auckland 0.802610456943512
+[North Auckland Rapid Transit Corridor]: oia-1209-fuatai.pdf --[ASSOCIATED_WITH]-> Auckland 0.8166670799255371
+[North Auckland Rapid Transit Corridor]: oia-12463-response-letter --[ASSOCIATED_WITH]-> Auckland 0.8023121953010559
+[North Auckland Rapid Transit Corridor]: oia-1129-keijser.pdf --[ASSOCIATED_WITH]-> Auckland 0.8137096762657166
+[North Auckland Rapid Transit Corridor]: Transport Data --[ASSOCIATED_WITH]-> Auckland 0.8246489763259888
+[North Auckland Rapid Transit Corridor]: oia-15834 --[ASSOCIATED_WITH]-> Auckland 0.830025315284729
+[North Auckland Rapid Transit Corridor]: Scott Yeoman --[ASSOCIATED_WITH]-> Auckland 0.7991412878036499
+[North Auckland Rapid Transit Corridor]: oia-0942-prior.pdf --[ASSOCIATED_WITH]-> Auckland 0.8071491122245789

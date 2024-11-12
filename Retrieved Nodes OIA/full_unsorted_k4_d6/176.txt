@@ -1,0 +1,36 @@
+How many traffic light offences were recorded for NZTA vehicles in 2021?
+None
+Seed: information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021
+Seed: information on traffic light cameras and speed cameras
+Seed: information on traffic light cameras
+Seed: Speed and Drunk Driving Enforcement
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.850106954574585
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Response --[CONTAINS]-> Waka Kotahi 0.7609028816223145
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[PUBLISHES]-> Response 0.7470640540122986
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: response --[CONTAINS]-> Waka Kotahi 0.7482866644859314
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.8311885595321655
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.8037704229354858
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.8260327577590942
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.8035435676574707
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> list of LGWM construction contracts 0.7922236919403076
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> public transport fare policy review 0.8119735717773438
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.834928035736084
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8281676769256592
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.8212742805480957
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.8212311267852783
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi NZ Transport Agency --[FAX]-> F 64 4 894 6100 0.7918386459350586
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Andrew Knackstedt --[CONTACT]-> Waka Kotahi NZ Transport Agency 0.797429084777832
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi NZ Transport Agency --[CONTACT]-> T 64 4 894 5400 0.7920053005218506
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.803043007850647
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Chris Marshall --[REQUESTS]-> Waka Kotahi NZ Transport Agency 0.7873457074165344
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.8245720863342285
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.8089637160301208
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi NZ Transport Agency --[ANNOUNCED]-> Road to Zero 0.8148942589759827
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8464951515197754
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Road to Zero --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.819256603717804
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.828599214553833
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.8023668527603149
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: New Zealand --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.8100143671035767
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.8178643584251404
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7909398078918457
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: www.nzta.govt.nz --[OF]-> Waka Kotahi NZ Transport Agency 0.8393653035163879

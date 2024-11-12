@@ -1,0 +1,36 @@
+Where can information about the successful applications to the Innovation Fund be found?
+None
+Seed: innovation-fund/innovation-fund-round-one-successful-applicants.pdf
+Seed: Innovation Fund
+Seed: Regional Investment Opportunities
+Seed: national fund
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: innovation-fund/innovation-fund-round-one-successful-applicants.pdf --[PROVIDES]-> successful applications 0.9087211489677429
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: successful applications --[LISTS]-> Hoe ki angitū – Innovation Fund 0.8917794227600098
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: www.nzta.govt.nz --[CONTAINS]-> innovation-fund/innovation-fund-round-one-successful-applicants.pdf 0.8822618126869202
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: www.nzta.govt.nz --[HOSTS]-> New Zealand Transport Agency 0.7758333086967468
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: New Zealand Transport Agency --[PROVIDES]-> www.nzta.govt.nz 0.7792813777923584
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: F 64 4 894 6100 --[OFFICIAL_INFORMATION]-> www.nzta.govt.nz 0.7670480012893677
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: www.nzta.govt.nz --[OFFICIAL_INFORMATION]-> 16 August 2021 0.7964311838150024
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: New Zealand Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.7804522514343262
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: www.nzta.govt.nz --[OF]-> Waka Kotahi NZ Transport Agency 0.7700017690658569
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.7521764039993286
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> www.nzta.govt.nz 0.765882134437561
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: www.nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7717486619949341
+[Innovation Fund]: $15 million --[FOR]-> Innovation Fund 0.8505209684371948
+[Innovation Fund]: Waka Kotahi --[ALLOCATES]-> $15 million 0.7202281951904297
+[Innovation Fund]: Innovation Fund --[PART_OF]-> Hoe ki angitū – Innovation Fund 0.8462390899658203
+[Innovation Fund]: Hoe ki angitū – Innovation Fund --[FUNDED_BY]-> National Land Transport Fund 0.8315647840499878
+[Innovation Fund]: Hoe ki angitū – Innovation Fund --[APPROVED_BY]-> New Zealand Transport Agency 0.8150658011436462
+[Innovation Fund]: successful applications --[LISTS]-> Hoe ki angitū – Innovation Fund 0.8917794227600098
+[Innovation Fund]: New Zealand Transport Agency --[PROVIDES]-> Innovation Fund 0.8404898047447205
+[Innovation Fund]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7595884799957275
+[Innovation Fund]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7661978006362915
+[Innovation Fund]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7653824090957642
+[Innovation Fund]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7508431673049927
+[Innovation Fund]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7479432821273804
+[Innovation Fund]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7627001404762268
+[Innovation Fund]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7702287435531616
+[Innovation Fund]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7740316390991211
+[Innovation Fund]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7658554911613464
+[Innovation Fund]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7741057276725769
+[Innovation Fund]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7557124495506287

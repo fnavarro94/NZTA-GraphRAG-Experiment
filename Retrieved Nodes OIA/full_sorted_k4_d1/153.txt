@@ -1,0 +1,12 @@
+What topic does the OIA-2127 request focus on?
+None
+Seed: conflict of interest
+Seed: Conflict of interest
+Seed: public interest in accountability
+Seed: public interest in seeking and receiving confidential legal advice
+[conflict of interest]: New Zealand Transport Agency --[MANAGES]-> conflict of interest 0.7862646579742432
+[Conflict of interest]: New Zealand Transport Agency --[MANAGES]-> Conflict of interest 0.7862646579742432
+[public interest in accountability]: Waka Kotahi --[PROTECTS]-> public interest in accountability 0.7756737470626831
+[public interest in accountability]: Waka Kotahi --[CONTINUES]-> public interest in accountability 0.7628411054611206
+[public interest in accountability]: Waka Kotahi --[ACKNOWLEDGES]-> public interest in accountability 0.7609807252883911
+[public interest in seeking and receiving confidential legal advice]: Waka Kotahi --[ACKNOWLEDGES]-> public interest in seeking and receiving confidential legal advice 0.7670993804931641

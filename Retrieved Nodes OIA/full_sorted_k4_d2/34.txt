@@ -1,0 +1,34 @@
+Where can information about the latest developments in the high productivity motor vehicles (HPMV) bridge strengthening programme be found?
+None
+Seed: current information on HPMV investment routes
+Seed: information on HPMV investment routes
+Seed: request to Minister of Transport
+Seed: briefings to the Minister of Transport
+[current information on HPMV investment routes]: New Zealand Transport Agency --[PROVIDES]-> current information on HPMV investment routes 0.8669214248657227
+[current information on HPMV investment routes]: New Zealand Transport Agency --[PROVIDES]-> information on HPMV investment routes 0.860845685005188
+[current information on HPMV investment routes]: New Zealand Transport Agency --[WEBSITE]-> www.nzta.govt.nz/vehicle/your/hpmv/network-maps.htm 0.8513336181640625
+[current information on HPMV investment routes]: New Zealand Transport Agency --[RESPONSE]-> Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below. 0.825289249420166
+[current information on HPMV investment routes]: Request for information on Hornby Intersection improvements --[REQUESTS]-> New Zealand Transport Agency 0.8246402740478516
+[current information on HPMV investment routes]: New Zealand Transport Agency --[RESPONDS_TO]-> Request for information on Hornby Intersection improvements 0.8220584392547607
+[current information on HPMV investment routes]: New Zealand Transport Agency --[PROVIDES]-> information on state highway maintenance 0.8190988898277283
+[information on HPMV investment routes]: New Zealand Transport Agency --[PROVIDES]-> current information on HPMV investment routes 0.8669214248657227
+[information on HPMV investment routes]: New Zealand Transport Agency --[PROVIDES]-> information on HPMV investment routes 0.860845685005188
+[information on HPMV investment routes]: New Zealand Transport Agency --[WEBSITE]-> www.nzta.govt.nz/vehicle/your/hpmv/network-maps.htm 0.8513336181640625
+[information on HPMV investment routes]: New Zealand Transport Agency --[RESPONSE]-> Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below. 0.825289249420166
+[information on HPMV investment routes]: Request for information on Hornby Intersection improvements --[REQUESTS]-> New Zealand Transport Agency 0.8246402740478516
+[information on HPMV investment routes]: New Zealand Transport Agency --[RESPONDS_TO]-> Request for information on Hornby Intersection improvements 0.8220584392547607
+[information on HPMV investment routes]: New Zealand Transport Agency --[PROVIDES]-> information on state highway maintenance 0.8190988898277283
+[request to Minister of Transport]: Jordan Bond --[MADE_REQUEST]-> request to Minister of Transport 0.8224199414253235
+[request to Minister of Transport]: Jordan Bond --[REQUESTS]-> information under the Official Information Act 1982 0.7911672592163086
+[request to Minister of Transport]: Jordan Bond --[REQUESTS]-> Official Information Act 1982 0.7900902628898621
+[request to Minister of Transport]: Jordan Bond --[REQUESTS]-> Official Information Act 0.7897154688835144
+[request to Minister of Transport]: Jordan Bond --[EMAIL]-> Jordan. Bond@ rnz.co.nz 0.7726325988769531
+[request to Minister of Transport]: Jordan Bond --[EMPLOYER]-> Radio New Zealand 0.7722370624542236
+[request to Minister of Transport]: Radio New Zealand --[EMPLOYS]-> Jordan Bond 0.7553097009658813
+[briefings to the Minister of Transport]: New Zealand Transport Agency --[PROVIDES]-> current information on HPMV investment routes 0.8669214248657227
+[briefings to the Minister of Transport]: New Zealand Transport Agency --[PROVIDES]-> information on HPMV investment routes 0.860845685005188
+[briefings to the Minister of Transport]: New Zealand Transport Agency --[WEBSITE]-> www.nzta.govt.nz/vehicle/your/hpmv/network-maps.htm 0.8513336181640625
+[briefings to the Minister of Transport]: New Zealand Transport Agency --[RESPONSE]-> Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below. 0.825289249420166
+[briefings to the Minister of Transport]: Request for information on Hornby Intersection improvements --[REQUESTS]-> New Zealand Transport Agency 0.8246402740478516
+[briefings to the Minister of Transport]: New Zealand Transport Agency --[RESPONDS_TO]-> Request for information on Hornby Intersection improvements 0.8220584392547607
+[briefings to the Minister of Transport]: New Zealand Transport Agency --[PROVIDES]-> information on state highway maintenance 0.8190988898277283

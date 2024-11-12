@@ -1,0 +1,36 @@
+What is the official designation of the scenic route in the country where the infrastructure project in Christchurch, which aims to improve access to the southern suburbs and the city center following the earthquakes in 2010 and 2011, is located and is known for attracting both domestic and international tourists?
+None
+Seed: Significant transport infrastructure project
+Seed: Critical link between southern suburbs and central business district
+Seed: Scenic routes such as the tranzalpine and the northern explorer
+Seed: Crucial role in tourism
+[Significant transport infrastructure project]: Christchurch southern motorway --[Is]-> Significant transport infrastructure project 0.8771300911903381
+[Significant transport infrastructure project]: Christchurch southern motorway --[Serves as]-> Critical link between southern suburbs and central business district 0.8509116172790527
+[Significant transport infrastructure project]: Christchurch southern motorway --[Located in]-> South island of new zealand 0.8432270288467407
+[Significant transport infrastructure project]: Christchurch southern motorway --[Designed to]-> Enhance efficiency of road transport 0.8446216583251953
+[Significant transport infrastructure project]: Christchurch southern motorway --[Ends at]-> Intersection with christchurch northern corridor 0.81157386302948
+[Significant transport infrastructure project]: Christchurch southern motorway --[Construction began]-> Early 2000s 0.8399224281311035
+[Significant transport infrastructure project]: Christchurch southern motorway --[Extends]-> Approximately 20 kilometers 0.8178672790527344
+[Significant transport infrastructure project]: Christchurch southern motorway --[Key component of]-> Christchurch transport strategic plan 0.8350684642791748
+[Significant transport infrastructure project]: Christchurch southern motorway --[Part of]-> New zealand government's broader strategy 0.8326914310455322
+[Significant transport infrastructure project]: Christchurch southern motorway --[Begins at]-> Intersection of state highway 1 and state highway 76 0.8242830038070679
+[Significant transport infrastructure project]: Christchurch --[Served by]-> Christchurch southern motorway 0.8357943296432495
+[Significant transport infrastructure project]: Christchurch southern motorway --[Was developed]-> To improve access to southern suburbs and city center 0.8522080183029175
+[Significant transport infrastructure project]: Christchurch southern motorway --[Supports]-> Ongoing recovery and rebuilding efforts in region 0.833716869354248
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Serves as]-> Critical link between southern suburbs and central business district 0.8509116172790527
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Located in]-> South island of new zealand 0.8432270288467407
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Is]-> Significant transport infrastructure project 0.8771300911903381
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Designed to]-> Enhance efficiency of road transport 0.8446216583251953
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Ends at]-> Intersection with christchurch northern corridor 0.81157386302948
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Construction began]-> Early 2000s 0.8399224281311035
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Extends]-> Approximately 20 kilometers 0.8178672790527344
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Key component of]-> Christchurch transport strategic plan 0.8350684642791748
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Part of]-> New zealand government's broader strategy 0.8326914310455322
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Begins at]-> Intersection of state highway 1 and state highway 76 0.8242830038070679
+[Critical link between southern suburbs and central business district]: Christchurch --[Served by]-> Christchurch southern motorway 0.8357943296432495
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Was developed]-> To improve access to southern suburbs and city center 0.8522080183029175
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Supports]-> Ongoing recovery and rebuilding efforts in region 0.833716869354248
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Include]-> Scenic routes such as the tranzalpine and the northern explorer 0.7879317998886108
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Showcase]-> New zealand's stunning landscapes 0.8097681999206543
+[Crucial role in tourism]: Pch --[Plays]-> Crucial role in tourism 0.7796581983566284
+[Crucial role in tourism]: Pch --[Supports]-> Freight movement 0.7524852752685547

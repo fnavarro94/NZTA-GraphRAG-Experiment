@@ -1,0 +1,36 @@
+In what year did the organization that has focused on enhancing its bus rapid transit system to provide faster and more reliable public transport services become established?
+None
+Seed: Enhancing public transport systems
+Seed: Promoting public transport initiatives
+Seed: Renewed focus on public transport in recent decades
+Seed: Broader strategy to promote public transport as a viable alternative to private vehicle use
+[Enhancing public transport systems]: New zealand --[Prioritizes]-> Enhancing public transport systems 0.8289991617202759
+[Enhancing public transport systems]: New zealand --[Has]-> Transport projects 0.7922152280807495
+[Enhancing public transport systems]: New zealand transport agency --[Oversees]-> Transport projects 0.7801176309585571
+[Enhancing public transport systems]: Auckland --[Has]-> Transport projects 0.7965089678764343
+[Enhancing public transport systems]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.7968048453330994
+[Enhancing public transport systems]: New zealand --[Has]-> Diverse transport network 0.7847744226455688
+[Enhancing public transport systems]: New zealand --[Has]-> Post-incident review 0.7084432244300842
+[Enhancing public transport systems]: Post-incident review --[Crucial for]-> Improving operational efficiency 0.7679638266563416
+[Enhancing public transport systems]: Post-incident review --[Crucial for]-> Fostering culture of continuous improvement 0.755696713924408
+[Enhancing public transport systems]: Post-incident review --[Aimed at]-> Recommending measures 0.7306643128395081
+[Enhancing public transport systems]: Post-incident review --[Crucial for]-> Enhancing safety 0.7533749938011169
+[Enhancing public transport systems]: Post-incident review --[Is]-> Systematic process 0.7312884330749512
+[Enhancing public transport systems]: Post-incident review --[Conducted]-> Following an incident 0.7247461080551147
+[Enhancing public transport systems]: Post-incident review --[Aimed at]-> Analyzing circumstances 0.7275287508964539
+[Enhancing public transport systems]: Post-incident review --[Aimed at]-> Identifying contributing factors 0.7370911836624146
+[Enhancing public transport systems]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.7434277534484863
+[Enhancing public transport systems]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.7565149068832397
+[Enhancing public transport systems]: New zealand --[Has]-> Broader environmental policies 0.736781656742096
+[Enhancing public transport systems]: New zealand --[Has]-> Traffic congestion 0.7564743161201477
+[Enhancing public transport systems]: Auckland --[Faces challenges]-> Traffic congestion 0.7579589486122131
+[Enhancing public transport systems]: Wellington public transport plan --[Initiated in response to]-> Traffic congestion 0.8036381602287292
+[Enhancing public transport systems]: Auckland --[Has]-> Traffic congestion 0.7562583684921265
+[Enhancing public transport systems]: Wellington --[Has]-> Traffic congestion 0.7491587996482849
+[Enhancing public transport systems]: Wellington public transport spine study --[Initiated in response to]-> Traffic congestion 0.7810811996459961
+[Enhancing public transport systems]: Sustainable urban transport --[Faces challenges]-> Traffic congestion 0.7968785762786865
+[Enhancing public transport systems]: New zealand --[Face]-> Traffic congestion 0.7373505234718323
+[Enhancing public transport systems]: New zealand --[Address]-> Traffic congestion 0.7469152212142944
+[Enhancing public transport systems]: New zealand --[Has]-> Increasing urbanization 0.7527598738670349
+[Enhancing public transport systems]: Wellington public transport plan --[Initiated in response to]-> Increasing urbanization 0.8156479001045227
+[Enhancing public transport systems]: Wellington regional rail plan --[Developed in response to]-> Increasing urbanization 0.7901380658149719

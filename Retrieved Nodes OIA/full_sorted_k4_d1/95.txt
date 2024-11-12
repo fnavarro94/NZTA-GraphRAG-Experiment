@@ -1,0 +1,16 @@
+What was the cost of the artwork component of the Mackenzie Basin Improvement Project?
+None
+Seed: request for pothole repair cost information
+Seed: funding requests
+Seed: itemised breakdown of all spending on public consultation for Golden Mile upgrades
+Seed: financial settlement of $190.6 million
+[request for pothole repair cost information]: request for pothole repair cost information --[SUBJECT_TO]-> sections 18A and 18B of the Act 0.8031024932861328
+[request for pothole repair cost information]: request for pothole repair cost information --[SUBJECT_TO]-> section 18(f) of the Act 0.7983831167221069
+[request for pothole repair cost information]: New Zealand Transport Agency --[CONSIDERS]-> request for pothole repair cost information 0.7931645512580872
+[request for pothole repair cost information]: sections 18A and 18B of the Act --[APPLIES_TO]-> request for pothole repair cost information 0.784050703048706
+[request for pothole repair cost information]: section 18(f) of the Act --[APPLIES_TO]-> request for pothole repair cost information 0.7820131182670593
+[request for pothole repair cost information]: New Zealand Transport Agency --[REFUSES]-> request for pothole repair cost information 0.7586934566497803
+[funding requests]: funding requests --[NEEDS]-> follow the standard cost scope adjustment process 0.7919644117355347
+[funding requests]: standard cost scope adjustment process --[APPLIES_TO]-> funding requests 0.7912728190422058
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[ITEMISED]-> itemised breakdown of all spending on public consultation for Golden Mile upgrades 0.7993409633636475
+[financial settlement of $190.6 million]: Joint Venture --[RECEIVED]-> financial settlement of $190.6 million 0.7681580781936646

@@ -1,0 +1,36 @@
+What is the abbreviation commonly used for the method that involves the use of advanced sensors and cameras to gather real-time data on road conditions in the context of transport systems in New Zealand?
+None
+Seed: Advanced sensors and cameras
+Seed: Cameras and sensors
+Seed: Real-time tracking of buses and trains
+Seed: Systematic collection and analysis of data related to the physical state of roadways
+[Advanced sensors and cameras]: Automated data collection --[Uses]-> Advanced sensors and cameras 0.8507516980171204
+[Advanced sensors and cameras]: Automated data collection --[Is]-> Technology 0.8083797693252563
+[Advanced sensors and cameras]: Freight and logistics --[Utilizes]-> Automated data collection 0.8102697134017944
+[Advanced sensors and cameras]: Public transport --[Integrates]-> Automated data collection 0.8277570009231567
+[Advanced sensors and cameras]: Automated data collection --[Enhances]-> Safety 0.7867028117179871
+[Advanced sensors and cameras]: Automated data collection --[Faces challenges]-> Privacy concerns 0.7697633504867554
+[Advanced sensors and cameras]: Automated data collection --[Optimizes]-> Resource allocation 0.7705020904541016
+[Advanced sensors and cameras]: Automated data collection --[Improves]-> Decision-making 0.775916576385498
+[Advanced sensors and cameras]: Transport in new zealand --[Has]-> Automated data collection 0.8808994293212891
+[Advanced sensors and cameras]: Automated data collection --[Used in]-> Transport in new zealand 0.8857194185256958
+[Cameras and sensors]: Intelligent transport systems --[Utilize]-> Cameras and sensors 0.8553836345672607
+[Cameras and sensors]: Waka kotahi --[Explores]-> Intelligent transport systems 0.8258076906204224
+[Cameras and sensors]: Intelligent transport systems --[Provide]-> Real-time information to drivers 0.8492668271064758
+[Cameras and sensors]: Intelligent transport systems --[Utilize]-> Sensors and communication technologies 0.846124529838562
+[Cameras and sensors]: Intelligent transport systems --[Analyze data to]-> Optimize traffic signals and reduce congestion 0.8231586217880249
+[Cameras and sensors]: Intelligent transport systems --[Collect data on]-> Traffic flow 0.8536463975906372
+[Cameras and sensors]: Road safety technologies --[Include]-> Intelligent transport systems 0.832271933555603
+[Cameras and sensors]: Intelligent transport systems --[Gained traction]-> New zealand 0.8506116271018982
+[Cameras and sensors]: Intelligent transport systems --[Utilizing]-> Machine learning 0.8019979000091553
+[Cameras and sensors]: Intelligent transport systems --[Improve]-> Safety 0.8153696060180664
+[Cameras and sensors]: Intelligent transport systems --[Optimize]-> Reduce travel times 0.8127043843269348
+[Cameras and sensors]: Intelligent transport systems --[Improve]-> Transportation efficiency 0.8125262260437012
+[Cameras and sensors]: Intelligent transport systems --[Utilizing]-> Data analytics 0.8188581466674805
+[Cameras and sensors]: Intelligent transport systems --[Integrating]-> Advanced technologies 0.8353743553161621
+[Cameras and sensors]: Intelligent transport systems --[Optimize]-> Traffic flow 0.8135839104652405
+[Cameras and sensors]: Intelligent transport systems --[Optimize]-> Enhance the overall user experience 0.7845423817634583
+[Cameras and sensors]: Intelligent transport systems --[Play]-> Crucial role 0.8213996291160583
+[Cameras and sensors]: Intelligent transport systems --[Use]-> Gps data 0.8492339849472046
+[Cameras and sensors]: Intelligent transport systems --[Use]-> Sensors 0.8666205406188965
+[Cameras and sensors]: Intelligent transport systems --[Allow]-> Dynamic traffic signal control 0.8207508325576782

@@ -1,0 +1,34 @@
+When will the full report from the hidden texting camera trial be made publicly available?
+None
+Seed: WK Exec summary of the TG claim for review
+Seed: public awareness campaign
+Seed: public interest in seeking and receiving confidential legal advice
+Seed: trial
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[POLICY]-> publishing responses on website 0.7944119572639465
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[ASSOCIATED]-> Review of 850 open compliance files 0.7832621335983276
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[PUBLISH]-> web 0.7803777456283569
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[POLICY]-> publish response on website 0.7784871459007263
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[PROVIDES]-> street lights data 0.7771442532539368
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[POLICY]-> publish response on website with personal details removed 0.7765341997146606
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[RESPONDED]-> Request for Information 0.7740342617034912
+[public awareness campaign]: Road to Zero --[PUBLICATION]-> Annual Monitoring Report 2020 0.8069785833358765
+[public awareness campaign]: Road to Zero --[PROGRESS]-> Road to Zero public awareness campaign 0.8041956424713135
+[public awareness campaign]: Road to Zero --[RAISES_AWARENESS_OF]-> public awareness of Road to Zero 0.8039182424545288
+[public awareness campaign]: Road to Zero --[CAMPAIGN]-> public awareness campaign 0.800040066242218
+[public awareness campaign]: Road to Zero --[EFFECTIVENESS]-> Annual Monitoring Report 2020 0.7937480211257935
+[public awareness campaign]: Road to Zero --[PROGRESS]-> Annual Monitoring Report 0.7885574102401733
+[public awareness campaign]: Road to Zero --[PROGRESS]-> radio, digital, social media, print media and out of home media 0.7833201885223389
+[public interest in seeking and receiving confidential legal advice]: Waka Kotahi --[PROVIDES]-> publicly available information 0.8062835335731506
+[public interest in seeking and receiving confidential legal advice]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.8023740649223328
+[public interest in seeking and receiving confidential legal advice]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.8015015125274658
+[public interest in seeking and receiving confidential legal advice]: Waka Kotahi --[POLICY]-> publishing responses on website 0.7948361039161682
+[public interest in seeking and receiving confidential legal advice]: Waka Kotahi --[PUBLISHES]-> report 0.7944252490997314
+[public interest in seeking and receiving confidential legal advice]: Waka Kotahi --[PROVIDES]-> information on speed cameras 0.7936499714851379
+[public interest in seeking and receiving confidential legal advice]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.7875770926475525
+[trial]: Waka Kotahi --[PROVIDES]-> publicly available information 0.8062835335731506
+[trial]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.8023740649223328
+[trial]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.8015015125274658
+[trial]: Waka Kotahi --[POLICY]-> publishing responses on website 0.7948361039161682
+[trial]: Waka Kotahi --[PUBLISHES]-> report 0.7944252490997314
+[trial]: Waka Kotahi --[PROVIDES]-> information on speed cameras 0.7936499714851379
+[trial]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.7875770926475525

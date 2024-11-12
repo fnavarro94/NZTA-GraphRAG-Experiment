@@ -1,0 +1,36 @@
+What is the official designation of the scenic route in New Zealand that is known for attracting both domestic and international tourists?
+None
+Seed: Scenic routes such as the tranzalpine and the northern explorer
+Seed: Domestic and international tourists
+Seed: Renowned scenic roadway
+Seed: Scenic routes
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Include]-> Scenic routes such as the tranzalpine and the northern explorer 0.8044208884239197
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Showcase]-> New zealand's stunning landscapes 0.8293941617012024
+[Domestic and international tourists]: Road transport --[Attracts]-> Domestic and international tourists 0.8422207832336426
+[Domestic and international tourists]: Road transport --[Uses]-> Gps for navigation and route optimization 0.7651116847991943
+[Domestic and international tourists]: Health and safety at work act 2015 --[Applies to]-> Road transport 0.7375304102897644
+[Domestic and international tourists]: Kiwirail group --[Committed to]-> Road transport 0.7883493900299072
+[Domestic and international tourists]: Ministry of transport --[Oversees]-> Road transport 0.7655441761016846
+[Domestic and international tourists]: Wellington --[Has]-> Road transport 0.8327131271362305
+[Domestic and international tourists]: Kiwirail --[Collaborates with]-> Road transport 0.8064804077148438
+[Domestic and international tourists]: Road transport --[Accounts for]-> Majority of passenger and freight movement 0.7563949823379517
+[Domestic and international tourists]: Fleet management --[Significant reliance on]-> Road transport 0.7410681247711182
+[Domestic and international tourists]: Road transport --[Is]-> Most widely used mode of transport in new zealand 0.8421071171760559
+[Domestic and international tourists]: Road transport --[Accounts for]-> Significant portion of passenger and freight movement 0.7695447206497192
+[Domestic and international tourists]: Road transport --[Accounts for]-> Majority of passenger and freight movements 0.7539083361625671
+[Domestic and international tourists]: Road transport --[Characterized by]-> Scenic routes 0.834131121635437
+[Domestic and international tourists]: Road transport --[Focus on]-> Improving road safety and reducing congestion in urban areas 0.7320682406425476
+[Domestic and international tourists]: Road transport --[Boasts]-> Extensive network of roads 0.7755979895591736
+[Domestic and international tourists]: Road transport --[Predominant mode of]-> Land transport in new zealand 0.8365641832351685
+[Domestic and international tourists]: Road transport --[Accounts for]-> 90% of all freight movements 0.7362861633300781
+[Domestic and international tourists]: New zealand --[Has]-> Road transport 0.8530206084251404
+[Renowned scenic roadway]: Pacific coast highway --[Is]-> Renowned scenic roadway 0.8269210457801819
+[Renowned scenic roadway]: Pacific coast highway --[Stretches along]-> Western coastline of the united states 0.777596116065979
+[Renowned scenic roadway]: Pacific coast highway --[Also known as]-> State route 1 0.793804407119751
+[Renowned scenic roadway]: Pacific coast highway --[Is]-> Scenic route 0.829089879989624
+[Scenic routes]: New zealand --[Includes]-> Scenic routes 0.9051235914230347
+[Scenic routes]: New zealand --[Has]-> Transport projects 0.8322256803512573
+[Scenic routes]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.8102273941040039
+[Scenic routes]: New zealand --[Has]-> Diverse transport network 0.8400027751922607
+[Scenic routes]: New zealand --[Has]-> Post-incident review 0.7644045352935791
+[Scenic routes]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.7854164242744446

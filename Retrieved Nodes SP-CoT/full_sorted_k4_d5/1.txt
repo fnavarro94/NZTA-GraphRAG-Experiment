@@ -1,0 +1,32 @@
+Who manages the State Highway network in the country known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns?
+None
+Seed: Significant role in planning and management of transport infrastructure and services
+Seed: Socio-economic indicators
+Seed: Demand for efficient transportation systems
+Seed: Critical aspect of transportation planning
+[Significant role in planning and management of transport infrastructure and services]: New zealand transport agency --[Is responsible for]-> Managing state highway network 0.8575925827026367
+[Significant role in planning and management of transport infrastructure and services]: Traffic management systems --[Critical in]-> Managing the increasing demand for road space 0.8499338626861572
+[Significant role in planning and management of transport infrastructure and services]: State highway network --[Managed by]-> Waka kotahi nz transport agency 0.8488429188728333
+[Significant role in planning and management of transport infrastructure and services]: New zealand transport agency --[Manages]-> State highway network 0.8481019735336304
+[Significant role in planning and management of transport infrastructure and services]: New zealand transport agency --[Is responsible for]-> State highway network 0.8457592725753784
+[Significant role in planning and management of transport infrastructure and services]: Traffic management systems --[Expected to evolve further]-> Shaping future transport policies 0.8436327576637268
+[Significant role in planning and management of transport infrastructure and services]: New zealand transport agency --[Plays]-> Pivotal role in conducting forecasts 0.8428968191146851
+[Socio-economic indicators]: Transport demand forecasting --[Involves]-> Socio-economic indicators 0.8820364475250244
+[Socio-economic indicators]: Transport demand forecasting --[Is]-> Critical aspect of transportation planning 0.8725880980491638
+[Socio-economic indicators]: Transport demand forecasting --[Involves]-> Statistical models 0.8614435791969299
+[Socio-economic indicators]: Transport demand forecasting --[Estimates]-> Future travel patterns 0.8473142385482788
+[Socio-economic indicators]: Transport demand forecasting --[Involves]-> Historical data 0.841994047164917
+[Socio-economic indicators]: Transport demand forecasting --[Estimates]-> Demand for various transport services 0.8376253247261047
+[Demand for efficient transportation systems]: New zealand transport agency --[Is responsible for]-> Managing state highway network 0.8575925827026367
+[Demand for efficient transportation systems]: Traffic management systems --[Critical in]-> Managing the increasing demand for road space 0.8499338626861572
+[Demand for efficient transportation systems]: State highway network --[Aimed to create]-> Cohesive system of major roads 0.8498630523681641
+[Demand for efficient transportation systems]: State highway network --[Managed by]-> Waka kotahi nz transport agency 0.8488429188728333
+[Demand for efficient transportation systems]: Transport demand management --[Is]-> Set of strategies 0.8488412499427795
+[Demand for efficient transportation systems]: New zealand transport agency --[Manages]-> State highway network 0.8481019735336304
+[Demand for efficient transportation systems]: New zealand transport agency --[Is responsible for]-> State highway network 0.8457592725753784
+[Critical aspect of transportation planning]: Transport demand forecasting --[Involves]-> Socio-economic indicators 0.8820364475250244
+[Critical aspect of transportation planning]: Transport demand forecasting --[Is]-> Critical aspect of transportation planning 0.8725880980491638
+[Critical aspect of transportation planning]: Transport demand forecasting --[Involves]-> Statistical models 0.8614435791969299
+[Critical aspect of transportation planning]: Transport demand forecasting --[Estimates]-> Future travel patterns 0.8473142385482788
+[Critical aspect of transportation planning]: Transport demand forecasting --[Involves]-> Historical data 0.841994047164917
+[Critical aspect of transportation planning]: Transport demand forecasting --[Estimates]-> Demand for various transport services 0.8376253247261047

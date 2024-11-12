@@ -1,0 +1,26 @@
+What was the cost of the artwork component of the Mackenzie Basin Improvement Project?
+None
+Seed: request for pothole repair cost information
+Seed: funding requests
+Seed: itemised breakdown of all spending on public consultation for Golden Mile upgrades
+Seed: financial settlement of $190.6 million
+[request for pothole repair cost information]: request for pothole repair cost information --[SUBJECT_TO]-> sections 18A and 18B of the Act 0.8031024932861328
+[request for pothole repair cost information]: request for pothole repair cost information --[SUBJECT_TO]-> section 18(f) of the Act 0.7983831167221069
+[request for pothole repair cost information]: Jo-Lines-MacKenzie --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7971017956733704
+[request for pothole repair cost information]: Transport Gully --[FINANCED_BY]-> New Zealand Transport Agency 0.7954719662666321
+[request for pothole repair cost information]: New Zealand Transport Agency --[CONSIDERS]-> request for pothole repair cost information 0.7931645512580872
+[request for pothole repair cost information]: Request for information on Hornby Intersection improvements --[REQUESTS]-> New Zealand Transport Agency 0.7916521430015564
+[request for pothole repair cost information]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.7913882732391357
+[funding requests]: funding requests --[NEEDS]-> follow the standard cost scope adjustment process 0.7919644117355347
+[funding requests]: standard cost scope adjustment process --[APPLIES_TO]-> funding requests 0.7912728190422058
+[funding requests]: manage fare revenue and public transport budgets within current funding allocations --[REQUIRES]-> standard cost scope adjustment process 0.762819766998291
+[funding requests]: follow the standard cost scope adjustment process --[REQUIRES]-> no additional funding for fare reductions before the next NLTP in June 2021 0.7437082529067993
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[ITEMISED]-> itemised breakdown of all spending on public consultation for Golden Mile upgrades 0.7993409633636475
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[ITEMISED]-> itemised list of all Let’s Get Wellington Moving spending in 2020 to date 0.7743589282035828
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[REQUEST]-> Request made under the Official Information Act 1982 0.7729377746582031
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[REQUESTED]-> information under the Official Information Act 1982 0.7568492293357849
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[EMAIL]-> joel.macmanus@stuff.co.nz 0.7536919116973877
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[REF]-> REF: OIA -6939 0.7468228340148926
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[EMAIL]-> 28 July 2020 0.7295971512794495
+[financial settlement of $190.6 million]: Joint Venture --[RECEIVED]-> financial settlement 0.7749224901199341
+[financial settlement of $190.6 million]: Joint Venture --[RECEIVED]-> financial settlement of $190.6 million 0.7681580781936646

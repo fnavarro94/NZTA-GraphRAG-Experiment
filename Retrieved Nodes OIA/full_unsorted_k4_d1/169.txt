@@ -1,0 +1,11 @@
+Was Higgins Concrete Ltd engaged in any NZTA projects during the audit period?
+None
+Seed: information on Higgins Ltd projects
+Seed: information on Higgins Wellington projects
+Seed: Higgins Concrete Limited
+Seed: Higgins Group Holdings Limited
+[information on Higgins Ltd projects]: New Zealand Transport Agency --[PROVIDES]-> information on Higgins Ltd projects 0.8874444961547852
+[information on Higgins Wellington projects]: New Zealand Transport Agency --[PROVIDES]-> information on Higgins Wellington projects 0.8744159936904907
+[Higgins Concrete Limited]: Higgins Concrete Limited --[ENGAGED]-> New Zealand Transport Agency 0.8889854550361633
+[Higgins Group Holdings Limited]: Higgins Group Holdings Limited --[OWNED_BY]-> Fletcher Building Limited 0.8333754539489746
+[Higgins Group Holdings Limited]: Higgins Group Holdings Limited --[CONTRACTED]-> New Zealand Transport Agency 0.8699682950973511

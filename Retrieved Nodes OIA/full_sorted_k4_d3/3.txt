@@ -1,0 +1,34 @@
+What is the crash history for the SH2/SH53 intersection in Featherston over the past 10 years?
+None
+Seed: SH2 and SH53 in Featherston
+Seed: intersection of SH2 and SH53
+Seed: Traffic Crash Reports
+Seed: traffic crash data
+[SH2 and SH53 in Featherston]: SH2 and SH53 in Featherston --[INTERSECTS]-> Road 0.922809898853302
+[SH2 and SH53 in Featherston]: Crash Data --[LIMITED_TO]-> SH2 and SH53 in Featherston 0.8665138483047485
+[SH2 and SH53 in Featherston]: Crash Analysis System --[UPDATED]-> Traffic Crash Report 0.822274923324585
+[SH2 and SH53 in Featherston]: Crash --[MUST_OCCUR]-> Road 0.8189182281494141
+[SH2 and SH53 in Featherston]: Crash Data --[RELATES_TO]-> Pedestrian and Cyclist Crashes 0.8188461065292358
+[SH2 and SH53 in Featherston]: Crash --[REPORTED_BY]-> Police 0.8133767247200012
+[SH2 and SH53 in Featherston]: Crash Analysis System --[UPDATES]-> Traffic Crash Report 0.8122432231903076
+[intersection of SH2 and SH53]: intersection of SH2 and SH53 --[LOCATED_IN]-> Featherston 0.8975452184677124
+[intersection of SH2 and SH53]: no fatal, serious or minor injury crashes --[OCCURRED]-> intersection of SH2 and SH53 0.8890056610107422
+[intersection of SH2 and SH53]: accident or crash history --[RELATES_TO]-> intersection of SH2 and SH53 0.8879202604293823
+[intersection of SH2 and SH53]: Featherston --[RAISED_CROSSINGS]-> SH2 and SH53 0.8653592467308044
+[intersection of SH2 and SH53]: Featherston --[RAISED_CROSSINGS]-> one crossing near SH2/Lyon Street/Birdwood Street intersection 0.8615763783454895
+[intersection of SH2 and SH53]: Featherston --[HAS_SPEED_LIMIT]-> 40km/h 0.858863353729248
+[intersection of SH2 and SH53]: Featherston --[RANKING]-> not in the top 200 high risk intersections 0.8379446268081665
+[Traffic Crash Reports]: Featherston --[PART_OF]-> New Zealand 0.8377754092216492
+[Traffic Crash Reports]: seven non-injury crashes --[OCCURRED]-> past 10 years 0.8341406583786011
+[Traffic Crash Reports]: Crash Analysis --[PERFORMED_BY]-> Waka Kotahi NZ Transport Agency 0.8263074159622192
+[Traffic Crash Reports]: Crash Analysis System --[UPDATED]-> Traffic Crash Report 0.822274923324585
+[Traffic Crash Reports]: crashes --[OCCURRED]-> Territorial Local Authorities 0.8186728954315186
+[Traffic Crash Reports]: New Zealand Transport Agency --[PROVIDES]-> accident or crash history 0.817653477191925
+[Traffic Crash Reports]: crashes --[OCCURRED]-> State Highway 16 0.8171154260635376
+[traffic crash data]: seven non-injury crashes --[OCCURRED]-> past 10 years 0.8341406583786011
+[traffic crash data]: Crash Analysis --[PERFORMED_BY]-> Waka Kotahi NZ Transport Agency 0.8263074159622192
+[traffic crash data]: Crash Analysis System --[UPDATED]-> Traffic Crash Report 0.822274923324585
+[traffic crash data]: New Zealand Transport Agency --[PROVIDES]-> accident or crash history 0.817653477191925
+[traffic crash data]: Transport Agency --[GETS_INFORMATION]-> Traffic Crash Reports 0.8154091238975525
+[traffic crash data]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.8153269290924072
+[traffic crash data]: Fatal Crashes --[ASSOCIATED_WITH]-> Deceased Drivers 0.8131440877914429

@@ -1,0 +1,10 @@
+Which city is linked to the urban area in New Zealand that has experienced significant investment in public transport infrastructure, alongside the largest city in New Zealand connected by the major railway line being upgraded to enhance its capacity and efficiency for sustainable transport, by State Highway 1 to the north?
+None
+Seed: Significant investment in public transport infrastructure
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+Seed: Addressing transport challenges in auckland
+Seed: Increased demand for effective transportation systems
+[Significant investment in public transport infrastructure]: Urban areas --[Have]-> Significant investment in public transport infrastructure 0.8526291251182556
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Plays]-> Significant role in shaping transport infrastructure and policy in new zealand 0.8505674004554749
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Addressing transport challenges in auckland 0.8505250811576843
+[Increased demand for effective transportation systems]: Auckland --[Leading to]-> Increased demand for effective transportation systems 0.8617784976959229

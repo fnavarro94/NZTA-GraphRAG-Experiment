@@ -1,0 +1,34 @@
+When were the stages of the major project in Auckland designed to provide alternative routes and reduce bottlenecks in the transport network officially opened?
+None
+Seed: Addressing transport challenges in auckland
+Seed: Development of comprehensive transport network
+Seed: New zealand's broader transport goals
+Seed: New zealand's national transport objectives
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Encompasses]-> Range of projects 0.8963513374328613
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Development of comprehensive transport network 0.8963353633880615
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Create unified transport network 0.8911705017089844
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Is]-> Strategic initiative 0.8887056112289429
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Reduce congestion 0.8870108723640442
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Outlines]-> Strategic approach to address challenges 0.8846827745437622
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Improve efficiency and effectiveness of transport system 0.8826918601989746
+[Development of comprehensive transport network]: Auckland transport alignment project --[Encompasses]-> Range of projects 0.8963513374328613
+[Development of comprehensive transport network]: Auckland transport alignment project --[Focuses on]-> Development of comprehensive transport network 0.8963353633880615
+[Development of comprehensive transport network]: Auckland transport alignment project --[Aims to]-> Create unified transport network 0.8911705017089844
+[Development of comprehensive transport network]: Auckland transport alignment project --[Is]-> Strategic initiative 0.8887056112289429
+[Development of comprehensive transport network]: Auckland transport alignment project --[Aims to]-> Reduce congestion 0.8870108723640442
+[Development of comprehensive transport network]: Auckland transport alignment project --[Outlines]-> Strategic approach to address challenges 0.8846827745437622
+[Development of comprehensive transport network]: Auckland transport alignment project --[Aims to]-> Improve efficiency and effectiveness of transport system 0.8826918601989746
+[New zealand's broader transport goals]: Wellington cycle network --[Aligned with]-> New zealand's broader transport goals 0.8817731142044067
+[New zealand's broader transport goals]: Wellington cycle network --[Established in response to]-> Increasing urban congestion 0.8570539355278015
+[New zealand's broader transport goals]: Wellington cycle network --[Integrates with]-> Public transport systems 0.8565449118614197
+[New zealand's broader transport goals]: Wellington cycle network --[Established in response to]-> Growing emphasis on environmentally friendly transport options 0.8534108400344849
+[New zealand's broader transport goals]: Wellington cycle network --[Ongoing improvements and expansions]-> Planned 0.8515087962150574
+[New zealand's broader transport goals]: Sustainable urban transport --[Key component]-> Wellington cycle network 0.8491843342781067
+[New zealand's broader transport goals]: Wellington cycle network --[Is]-> Extensive system of cycling routes 0.838473379611969
+[New zealand's national transport objectives]: Auckland cycling network plan --[Developed by]-> Auckland transport 0.8902717232704163
+[New zealand's national transport objectives]: Auckland cycling network plan --[Aligns with]-> New zealand's national transport objectives 0.8730311989784241
+[New zealand's national transport objectives]: Auckland cycling network plan --[Primary objectives]-> Infrastructure development 0.8722364902496338
+[New zealand's national transport objectives]: Auckland cycling network plan --[Part of]-> Broader effort 0.8715437054634094
+[New zealand's national transport objectives]: Auckland cycling network plan --[Introduced in]-> Early 2010s 0.8713451027870178
+[New zealand's national transport objectives]: Auckland cycling network plan --[Is]-> Strategic initiative 0.8647815585136414
+[New zealand's national transport objectives]: Auckland cycling network plan --[Seeks to]-> Create cycling network 0.855263352394104

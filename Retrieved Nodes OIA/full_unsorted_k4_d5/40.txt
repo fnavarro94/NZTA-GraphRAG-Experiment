@@ -1,0 +1,36 @@
+What is the current status of the construction drawings for the SH1 Brynderwyn closure, and why are they subject to change?
+None
+Seed: information on LGWM construction contracts
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: investigations, construction findings, on-site progress, design updates, design assumptions
+Seed: Waito hi Picton Ferry Precinct Redevelopment
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.7884243726730347
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7475433349609375
+[information on LGWM construction contracts]: New Zealand Transport Agency --[BASED]-> Wellington 0.7856194972991943
+[information on LGWM construction contracts]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7757053971290588
+[information on LGWM construction contracts]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7611523270606995
+[information on LGWM construction contracts]: Golden Mile --[LOCATED]-> Wellington 0.7490479946136475
+[information on LGWM construction contracts]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7848601341247559
+[information on LGWM construction contracts]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7565820813179016
+[information on LGWM construction contracts]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7877136468887329
+[information on LGWM construction contracts]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.762721061706543
+[information on LGWM construction contracts]: Wellington --[PART_OF]-> Wellington Region 0.7770116925239563
+[information on LGWM construction contracts]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7863767147064209
+[information on LGWM construction contracts]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.8120195865631104
+[information on LGWM construction contracts]: Wellington --[HAS]-> tunnel 0.7970311641693115
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7480965852737427
+[information on LGWM construction contracts]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.75453782081604
+[information on LGWM construction contracts]: Wellington --[POSTCODE]-> 6141 0.7399197816848755
+[information on LGWM construction contracts]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7743256688117981
+[information on LGWM construction contracts]: Wellington --[IS_PART_OF]-> New Zealand 0.773741602897644
+[information on LGWM construction contracts]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.8080481290817261
+[information on LGWM construction contracts]: 50 Victoria Street --[IN]-> Wellington 0.7525979280471802
+[information on LGWM construction contracts]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7584061026573181
+[information on LGWM construction contracts]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7631911039352417
+[information on LGWM construction contracts]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7688406109809875
+[information on LGWM construction contracts]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7572076916694641
+[information on LGWM construction contracts]: NZ Transport Agency --[LOCATED]-> Wellington 0.7782546281814575
+[information on LGWM construction contracts]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7650556564331055
+[information on LGWM construction contracts]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7436769008636475
+[information on LGWM construction contracts]: New Zealand --[CONTAINS]-> Wellington 0.769983172416687
+[information on LGWM construction contracts]: Wellington --[PART_OF]-> New Zealand 0.7784588932991028

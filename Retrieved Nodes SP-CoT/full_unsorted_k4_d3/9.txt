@@ -1,0 +1,36 @@
+In what year did the project that aims to develop a high-quality public transport corridor in Wellington begin?
+None
+Seed: Significant step towards creating sustainable and user-friendly public transport system
+Seed: Transport link between wellington and northern regions of north island
+Seed: Meet the evolving needs of new zealand's transport system
+Seed: Promoting public transport initiatives
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Represents]-> Significant step towards creating sustainable and user-friendly public transport system 0.8819208145141602
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Initiated in response to]-> Increasing urbanization 0.882498025894165
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington regional rail plan --[Developed in response to]-> Increasing urbanization 0.8636003732681274
+[Significant step towards creating sustainable and user-friendly public transport system]: New zealand --[Has]-> Increasing urbanization 0.7897125482559204
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Objectives include]-> Integration of transport modes 0.8664133548736572
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Objectives include]-> Community engagement 0.8677370548248291
+[Significant step towards creating sustainable and user-friendly public transport system]: Auckland cycling network plan --[Primary objectives]-> Community engagement 0.8176462650299072
+[Significant step towards creating sustainable and user-friendly public transport system]: Road safety authority --[Encourages]-> Community engagement 0.7722057700157166
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington regional rail plan --[Involved]-> Community engagement 0.8623183369636536
+[Significant step towards creating sustainable and user-friendly public transport system]: Auckland transport --[Actively involved in]-> Community engagement 0.8395881652832031
+[Significant step towards creating sustainable and user-friendly public transport system]: Walking school bus --[Fosters]-> Community engagement 0.7720733880996704
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington regional public transport plan --[Key components]-> Community engagement 0.8620098233222961
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport spine study --[Involves]-> Community engagement 0.8359194993972778
+[Significant step towards creating sustainable and user-friendly public transport system]: Road infrastructure resilience --[Emphasizes]-> Community engagement 0.7720610499382019
+[Significant step towards creating sustainable and user-friendly public transport system]: Road infrastructure resilience --[Encompasses]-> Community engagement 0.780809760093689
+[Significant step towards creating sustainable and user-friendly public transport system]: Road safety education --[Includes]-> Community engagement 0.7553449869155884
+[Significant step towards creating sustainable and user-friendly public transport system]: Community engagement --[Is]-> Critical aspect of transport planning 0.8094160556793213
+[Significant step towards creating sustainable and user-friendly public transport system]: Community engagement --[Employs]-> Various methods 0.7426523566246033
+[Significant step towards creating sustainable and user-friendly public transport system]: Local government --[Manages]-> Community engagement 0.7570685744285583
+[Significant step towards creating sustainable and user-friendly public transport system]: Community engagement --[Enhances]-> Overall effectiveness of resilience initiatives 0.7399428486824036
+[Significant step towards creating sustainable and user-friendly public transport system]: Community engagement --[Plays a vital role in]-> Building road network resilience 0.7774189710617065
+[Significant step towards creating sustainable and user-friendly public transport system]: Community engagement --[Fosters]-> Sense of ownership and preparedness among residents 0.7196428179740906
+[Significant step towards creating sustainable and user-friendly public transport system]: Wellington public transport plan --[Objectives include]-> Sustainability 0.8520267605781555
+[Significant step towards creating sustainable and user-friendly public transport system]: Auckland ferry network --[Commitment to]-> Sustainability 0.8197733759880066
+[Significant step towards creating sustainable and user-friendly public transport system]: North island main trunk railway --[Holds]-> Sustainability 0.772699773311615
+[Significant step towards creating sustainable and user-friendly public transport system]: North island main trunk line --[Enhances]-> Sustainability 0.7923799157142639
+[Significant step towards creating sustainable and user-friendly public transport system]: Auckland airport --[Committed]-> Sustainability 0.7988262176513672
+[Significant step towards creating sustainable and user-friendly public transport system]: Kiwirail group --[Prioritizes]-> Sustainability 0.7929515838623047
+[Significant step towards creating sustainable and user-friendly public transport system]: Waka kotahi --[Places emphasis on]-> Sustainability 0.7377632260322571
+[Significant step towards creating sustainable and user-friendly public transport system]: Transport skills strategy --[Primary objectives include]-> Sustainability 0.781130313873291

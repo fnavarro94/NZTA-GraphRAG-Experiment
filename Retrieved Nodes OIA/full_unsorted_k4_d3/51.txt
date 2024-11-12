@@ -1,0 +1,36 @@
+How many potential mobile phone use offenses were detected during the hidden texting camera trial?
+None
+Seed: criminal history
+Seed: Attempted Burglary
+Seed: no notifications of offences detected by speed cameras
+Seed: one infringement for failing to comply with the instructions given by a steady red-light signal
+[criminal history]: criminal history --[PART_OF]-> fitness and propriety factors 0.7947542667388916
+[criminal history]: fitness and propriety factors --[SET]-> sections 30C and 30D of the Land Transport Act 1998 0.7244278192520142
+[criminal history]: sections 30C and 30D of the Land Transport Act 1998 --[LINK]-> https://www.nzta.govt.nz/driver-licences/getting-an-endorsement/getting-an-endorsement-pvio/fit-and-proper-person-check-vio-endorsements/ 0.755620539188385
+[criminal history]: fit and proper person assessments --[FORM]-> criminal history 0.7980396747589111
+[criminal history]: Transport Agency --[REQUIRE]-> fit and proper person assessments 0.7448262572288513
+[criminal history]: www.ombudsman.parliament.nz --[PROVIDES]-> Transport Agency 0.7533485889434814
+[criminal history]: Transport Agency --[PROVIDES]-> summary of survey results 0.7729990482330322
+[criminal history]: Transport Agency --[PROVIDES]-> summary of exit interview results 0.7556977868080139
+[criminal history]: Transport Agency --[PROVIDES]-> summary of engagement survey results 0.778264045715332
+[criminal history]: Transport Agency --[PROVIDES]-> contact details for the Ombudsman 0.7602413892745972
+[criminal history]: Transport Agency --[PROVIDES]-> EAP 0.7416860461235046
+[criminal history]: Transport Agency --[PROVIDES]-> response to this request on our website 0.7559340596199036
+[criminal history]: Transport Agency --[PROVIDES]-> summary of exit interview results since March 2016 0.7377462387084961
+[criminal history]: Transport Agency --[PROVIDES]-> Contact Details 0.7621659636497498
+[criminal history]: Transport Agency --[PROVIDES]-> address of the Office of the Ombudsmen 0.7222487926483154
+[criminal history]: Transport Agency --[PROVIDES]-> Guide for the interpretation of coded crash reports 0.7537896633148193
+[criminal history]: Transport Agency --[PROVIDES]-> contact details 0.7621659636497498
+[criminal history]: Transport Agency --[PROVIDES]-> reply 0.7417407631874084
+[criminal history]: Transport Agency --[WITHHOLDS]-> exact copies of staff exit interview notes 0.7347164750099182
+[criminal history]: Transport Agency --[WITHHOLDS]-> information 0.7586395144462585
+[criminal history]: Kevin Reid --[DISCUSS]-> Transport Agency 0.7429273128509521
+[criminal history]: Transport Agency --[DISCUSS]-> HVSCs 0.7533566355705261
+[criminal history]: Andrew Knackstedt --[CONTACT]-> Transport Agency 0.7531461715698242
+[criminal history]: Transport Agency --[CONTACT]-> Andrew Knackstedt 0.752695620059967
+[criminal history]: Transport Agency --[PUBLISHES]-> response to this request on our website 0.7559119462966919
+[criminal history]: Transport Agency --[MAINTAINS]-> database 0.7442631721496582
+[criminal history]: Transport Agency --[COLLABORATES_WITH]-> Wellington City Council 0.7136306762695312
+[criminal history]: Andrew Knackstedt --[EMPLOYER]-> Transport Agency 0.7264789342880249
+[criminal history]: OIA-6026 --[REFUSED]-> Transport Agency 0.7221167087554932
+[criminal history]: Transport Agency --[REFUSED]-> section 18(e) of the Act 0.7179670333862305

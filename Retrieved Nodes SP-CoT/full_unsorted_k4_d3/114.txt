@@ -1,0 +1,36 @@
+What is the second-busiest airport in New Zealand, serving as a key entry point for international travelers to the region known for its rugged terrain and stunning landscapes, particularly in the context of the two main islands of New Zealand where the transport system facilitates the movement of people and goods, in the context of Auckland and which city in New Zealand is mentioned as facing significant traffic congestion issues alongside Auckland and Wellington?
+None
+Seed: Crucial role in new zealand's transport infrastructure
+Seed: Busiest airport in new zealand
+Seed: Local economy and tourism industry
+Seed: Second-busiest airport in new zealand
+[Crucial role in new zealand's transport infrastructure]: Auckland airport --[Plays]-> Crucial role in new zealand's transport infrastructure 0.8937344551086426
+[Crucial role in new zealand's transport infrastructure]: Auckland airport --[Serves]-> As hub for domestic and international flights 0.8675599098205566
+[Crucial role in new zealand's transport infrastructure]: Auckland airport --[Is]-> Undergoing significant expansion 0.8633931279182434
+[Crucial role in new zealand's transport infrastructure]: Auckland airport --[Serves as]-> Primary international gateway for new zealand 0.8752033710479736
+[Crucial role in new zealand's transport infrastructure]: Auckland airport --[Committed]-> Sustainability 0.8280373811721802
+[Crucial role in new zealand's transport infrastructure]: Auckland ferry network --[Commitment to]-> Sustainability 0.7969494462013245
+[Crucial role in new zealand's transport infrastructure]: North island main trunk railway --[Holds]-> Sustainability 0.7375633716583252
+[Crucial role in new zealand's transport infrastructure]: Wellington public transport plan --[Objectives include]-> Sustainability 0.7947691679000854
+[Crucial role in new zealand's transport infrastructure]: North island main trunk line --[Enhances]-> Sustainability 0.7661075592041016
+[Crucial role in new zealand's transport infrastructure]: Kiwirail group --[Prioritizes]-> Sustainability 0.7656652927398682
+[Crucial role in new zealand's transport infrastructure]: Waka kotahi --[Places emphasis on]-> Sustainability 0.7272011637687683
+[Crucial role in new zealand's transport infrastructure]: Transport skills strategy --[Primary objectives include]-> Sustainability 0.7571500539779663
+[Crucial role in new zealand's transport infrastructure]: Freight transport in new zealand --[Driven by]-> Sustainability 0.8106118440628052
+[Crucial role in new zealand's transport infrastructure]: Urban mobility solutions --[Aimed at]-> Sustainability 0.7496752738952637
+[Crucial role in new zealand's transport infrastructure]: Smart mobility solutions --[Enhance]-> Sustainability 0.7153031826019287
+[Crucial role in new zealand's transport infrastructure]: Intelligent transport systems --[Enhance]-> Sustainability 0.7405600547790527
+[Crucial role in new zealand's transport infrastructure]: Auckland airport --[Serves]-> Critical gateway for new zealand 0.8720714449882507
+[Crucial role in new zealand's transport infrastructure]: Auckland airport --[Key player]-> Future of transport in new zealand 0.8727888464927673
+[Crucial role in new zealand's transport infrastructure]: Auckland airport --[Implemented]-> Various initiatives to minimize environmental impact 0.8334047794342041
+[Crucial role in new zealand's transport infrastructure]: Auckland airport --[Opened]-> 1966 0.8303824067115784
+[Crucial role in new zealand's transport infrastructure]: Auckland airport --[Underwent]-> Several expansions and renovations 0.8436802625656128
+[Crucial role in new zealand's transport infrastructure]: Auckland airport --[Facilitates]-> Domestic and international travel 0.868215799331665
+[Crucial role in new zealand's transport infrastructure]: Auckland airport --[Serves]-> Flights within new zealand 0.8731615543365479
+[Crucial role in new zealand's transport infrastructure]: Auckland airport --[Supporting]-> Local economy and tourism industry 0.8645486235618591
+[Crucial role in new zealand's transport infrastructure]: Auckland airport --[Well-connected]-> Wider transport network of new zealand 0.8731251955032349
+[Crucial role in new zealand's transport infrastructure]: Auckland airport --[Is]-> Primary international airport 0.8682592511177063
+[Crucial role in new zealand's transport infrastructure]: Auckland airport --[Handled]-> Over 21 million passengers in 2019 0.8433940410614014
+[Crucial role in new zealand's transport infrastructure]: Auckland airport --[Replaced]-> Former auckland international airport at mangere 0.8212707042694092
+[Crucial role in new zealand's transport infrastructure]: Auckland airport --[Vital]-> Hub for tourism and business travel 0.8685458302497864
+[Crucial role in new zealand's transport infrastructure]: Auckland airport --[Working towards]-> Achieving carbon neutrality in operations by 2025 0.8368663787841797

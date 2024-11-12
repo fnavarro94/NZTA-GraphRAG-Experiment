@@ -1,0 +1,36 @@
+Does Waka Kotahi hold a schedule of tasks for remedial work on the Kaipara Coast Highway (SH16) near Omeru Reserve?
+None
+Seed: Waka Kotahi N Z Transport Agency
+Seed: NZ Transport Agency Waka Kotahi
+Seed: Waka Kotahi NZ Transport Agency
+Seed: Waka Kotahi Senior Project Manager
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINS]-> Waka Kotahi N Z Transport Agency 0.8259599208831787
+[Waka Kotahi N Z Transport Agency]: Deceased Drivers --[ASSOCIATED_WITH]-> Crash Analysis System 0.7371612787246704
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[ASSOCIATED_WITH]-> Deceased Drivers 0.7322162985801697
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[UPDATED]-> Traffic Crash Report 0.743385910987854
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[PROVIDES]-> Traffic Crash Report 0.7411562204360962
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[ASSOCIATED_WITH]-> Traffic Crash Report 0.732070803642273
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[PROVIDES]-> Data 0.7323675751686096
+[Waka Kotahi N Z Transport Agency]: 2020 --[FATAL_CRASHES]-> Crash Analysis System 0.7324944734573364
+[Waka Kotahi N Z Transport Agency]: Traffic Crash Report --[ASSOCIATED_WITH]-> Crash Analysis System 0.7361115217208862
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.8299782276153564
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[UPDATES]-> Traffic Crash Report 0.7390862703323364
+[Waka Kotahi N Z Transport Agency]: road accident data --[FROM]-> Crash Analysis System 0.7340652346611023
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[PROVIDES]-> road accident data 0.7418409585952759
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MANAGED_BY]-> New Zealand Transport Agency 0.7781466841697693
+[Waka Kotahi N Z Transport Agency]: crash movements and cause factors --[RECORDED_IN]-> Crash Analysis System 0.7275003790855408
+[Waka Kotahi N Z Transport Agency]: New Zealand Transport Agency --[MAINTAINS]-> Crash Analysis System 0.7673572301864624
+[Waka Kotahi N Z Transport Agency]: primary contribution --[DETERMINED]-> Crash Analysis System 0.7393678426742554
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[PROVIDES]-> data on road traffic crashes 0.7388609647750854
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[UPDATES]-> Traffic Crash Reports 0.7398212552070618
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[CAPTURES]-> information on crashes 0.7238429188728333
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[USES]-> contributing factor codes 0.7370964288711548
+[Waka Kotahi N Z Transport Agency]: New Zealand Transport Agency --[MANAGES]-> Crash Analysis System 0.7675262093544006
+[Waka Kotahi N Z Transport Agency]: Traffic Crash Report --[RECORDED_IN]-> Crash Analysis System 0.7290196418762207
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[UPDATES]-> Data 0.7190884351730347
+[Waka Kotahi N Z Transport Agency]: New Zealand Transport Agency Waka Kotahi --[MAINTAINS]-> Crash Analysis System 0.8301839828491211
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[PROVIDES]-> traffic crash data 0.73807692527771
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.832505464553833
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[CONTAINS]-> Traffic Crash Report 0.7434884905815125
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[RECORDS]-> seven non-injury crashes 0.733792781829834
+[Waka Kotahi N Z Transport Agency]: Traffic Crash Report --[PROVIDED_BY]-> NZ Police 0.7518739104270935

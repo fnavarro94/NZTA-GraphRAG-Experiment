@@ -1,0 +1,13 @@
+What is the NZTA planning in terms of road network changes to accommodate the increased traffic from the new Interislander ferries in Marlborough?
+None
+Seed: 2023-24 State Highway Investment Proposal
+Seed: Road Network Changes
+Seed: Strategic Highway Improvements
+Seed: wider objectives in Regional Public Transport Plans
+[2023-24 State Highway Investment Proposal]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.8258973360061646
+[2023-24 State Highway Investment Proposal]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Access and Development Programme Business Case 0.8242402672767639
+[Road Network Changes]: Road Network Changes --[PLANNED_BY]-> New Zealand Transport Agency 0.8945071697235107
+[Road Network Changes]: Marlborough Region --[REQUIRES]-> Road Network Changes 0.8848259449005127
+[Strategic Highway Improvements]: Let's Get Wellington Moving --[HAS_COMPONENT]-> Strategic Highway Improvements 0.859376072883606
+[wider objectives in Regional Public Transport Plans]: underlying principles of the current policy --[CONTRIBUTES]-> wider objectives in Regional Public Transport Plans 0.8204548358917236
+[wider objectives in Regional Public Transport Plans]: wider objectives in Regional Public Transport Plans --[CONTRIBUTES]-> government's transport priorities 0.8107022643089294

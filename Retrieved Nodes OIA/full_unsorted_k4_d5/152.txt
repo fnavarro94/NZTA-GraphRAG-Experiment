@@ -1,0 +1,36 @@
+Which companies were involved in the development of the Greater Christchurch Mass Rapid Transit Business Case?
+None
+Seed: costing information for Greater Christchurch Mass Rapid Transit
+Seed: cost breakdown for Greater Christchurch Mass Rapid Transit
+Seed: investigating transport companies
+Seed: Investigating transport companies
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[PROVIDES]-> costing information for Greater Christchurch Mass Rapid Transit 0.8558987379074097
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8150075674057007
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[BASED]-> Wellington 0.8138598203659058
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.81911700963974
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.8147899508476257
+[costing information for Greater Christchurch Mass Rapid Transit]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7597814202308655
+[costing information for Greater Christchurch Mass Rapid Transit]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.760895848274231
+[costing information for Greater Christchurch Mass Rapid Transit]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7629514932632446
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7999362945556641
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.8146632313728333
+[costing information for Greater Christchurch Mass Rapid Transit]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7757312655448914
+[costing information for Greater Christchurch Mass Rapid Transit]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7665778398513794
+[costing information for Greater Christchurch Mass Rapid Transit]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7611649036407471
+[costing information for Greater Christchurch Mass Rapid Transit]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7426843643188477
+[costing information for Greater Christchurch Mass Rapid Transit]: Wellington --[CONTAINS]-> Private Bag 6995 0.7640135884284973
+[costing information for Greater Christchurch Mass Rapid Transit]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8222023248672485
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8297121524810791
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.8186759352684021
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7967411875724792
+[costing information for Greater Christchurch Mass Rapid Transit]: 50 Victoria Street --[IN]-> Wellington 0.7508937120437622
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.8081099390983582
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[LOCATED]-> 50 Victoria Street 0.8252981305122375
+[costing information for Greater Christchurch Mass Rapid Transit]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.773054301738739
+[costing information for Greater Christchurch Mass Rapid Transit]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7729330062866211
+[costing information for Greater Christchurch Mass Rapid Transit]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7617734670639038
+[costing information for Greater Christchurch Mass Rapid Transit]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7517627477645874
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.8248711824417114
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.818962037563324
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[CONTACT]-> Wellington 6141 0.8136552572250366
+[costing information for Greater Christchurch Mass Rapid Transit]: Wellington 6141 --[POSTAL_ADDRESS]-> New Zealand 0.7635295391082764

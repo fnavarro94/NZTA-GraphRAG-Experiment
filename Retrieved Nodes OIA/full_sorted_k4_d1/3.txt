@@ -1,0 +1,18 @@
+What is the crash history for the SH2/SH53 intersection in Featherston over the past 10 years?
+None
+Seed: SH2 and SH53 in Featherston
+Seed: intersection of SH2 and SH53
+Seed: Traffic Crash Reports
+Seed: traffic crash data
+[SH2 and SH53 in Featherston]: SH2 and SH53 in Featherston --[INTERSECTS]-> Road 0.922809898853302
+[SH2 and SH53 in Featherston]: Crash Data --[LIMITED_TO]-> SH2 and SH53 in Featherston 0.8665138483047485
+[intersection of SH2 and SH53]: intersection of SH2 and SH53 --[LOCATED_IN]-> Featherston 0.8975452184677124
+[intersection of SH2 and SH53]: no fatal, serious or minor injury crashes --[OCCURRED]-> intersection of SH2 and SH53 0.8890056610107422
+[intersection of SH2 and SH53]: accident or crash history --[RELATES_TO]-> intersection of SH2 and SH53 0.8879202604293823
+[Traffic Crash Reports]: Transport Agency --[GETS_INFORMATION]-> Traffic Crash Reports 0.8154091238975525
+[Traffic Crash Reports]: Traffic Crash Reports --[CONTAINS]-> information on crash movements and causes 0.8129220008850098
+[Traffic Crash Reports]: Crash Analysis System --[UPDATES]-> Traffic Crash Reports 0.8108359575271606
+[Traffic Crash Reports]: Traffic Crash Reports --[STORED_AS]-> PDFs 0.801708996295929
+[Traffic Crash Reports]: Traffic Crash Reports --[RECEIVED_FROM]-> NZ Police 0.8004510998725891
+[Traffic Crash Reports]: NZ Police --[PROVIDES]-> Traffic Crash Reports 0.7982059717178345
+[traffic crash data]: Crash Analysis System --[PROVIDES]-> traffic crash data 0.811935544013977

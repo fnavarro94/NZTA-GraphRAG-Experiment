@@ -1,0 +1,28 @@
+Are all costs related to flood damage recorded in Waka Kotahi’s asset management system?
+None
+Seed: Waka Kotahi
+Seed: Waka Kotahi policy
+Seed: information to Waka Kotahi
+Seed: Waka Kotahi Senior Project Manager
+[Waka Kotahi]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.8775084018707275
+[Waka Kotahi]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.8753679990768433
+[Waka Kotahi]: Waka Kotahi --[PUBLISHES]-> Annual Reports 0.8730369210243225
+[Waka Kotahi]: transport infrastructure --[SERVED_BY]-> Waka Kotahi 0.8721909523010254
+[Waka Kotahi]: Waka Kotahi --[INFORMS]-> affected area 0.8719703555107117
+[Waka Kotahi]: Waka Kotahi --[ALLOCATES]-> $15 million 0.8675605654716492
+[Waka Kotahi]: Waka Kotahi policy --[PUBLISHED]-> website 0.8673614263534546
+[Waka Kotahi policy]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.8775084018707275
+[Waka Kotahi policy]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.8753679990768433
+[Waka Kotahi policy]: Waka Kotahi --[PUBLISHES]-> Annual Reports 0.8730369210243225
+[Waka Kotahi policy]: transport infrastructure --[SERVED_BY]-> Waka Kotahi 0.8721909523010254
+[Waka Kotahi policy]: Waka Kotahi --[INFORMS]-> affected area 0.8719703555107117
+[Waka Kotahi policy]: Waka Kotahi --[ALLOCATES]-> $15 million 0.8675605654716492
+[Waka Kotahi policy]: Waka Kotahi policy --[PUBLISHED]-> website 0.8673614263534546
+[information to Waka Kotahi]: New Zealand Transport Agency --[ASSOCIATED]-> Waka Kotahi 0.8581066131591797
+[information to Waka Kotahi]: New Zealand Transport Agency --[POLICY]-> Waka Kotahi policy 0.855185329914093
+[information to Waka Kotahi]: NZ Transport Agency Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8491610288619995
+[information to Waka Kotahi]: Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8476283550262451
+[information to Waka Kotahi]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8456999063491821
+[information to Waka Kotahi]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.8456598520278931
+[information to Waka Kotahi]: Waka Kotahi --[ASSOCIATED]-> New Zealand Transport Agency 0.845388650894165
+[Waka Kotahi Senior Project Manager]: Waka Kotahi Senior Project Manager --[MANAGES]-> State Highway 25A Rebuild Project 0.8384420275688171

@@ -1,0 +1,36 @@
+What body of water does the public transport system that connects the central business district of Auckland with various suburbs and islands operate across to connect the central business district with destinations like Devonport and Waiheke Island?
+None
+Seed: Central business district of auckland with destinations
+Seed: 21 kilometers south of auckland's central business district
+Seed: Hub for tourism and business travel
+Seed: Public transport in auckland
+[Central business district of auckland with destinations]: Auckland ferry network --[Connects]-> Central business district of auckland with destinations 0.9097281694412231
+[Central business district of auckland with destinations]: Auckland ferry network --[Operated by]-> Auckland transport 0.8669043183326721
+[Central business district of auckland with destinations]: Auckland ferry network --[Crucial element]-> New zealand's transport landscape 0.8552922010421753
+[Central business district of auckland with destinations]: Auckland ferry network --[Enhancing]-> User convenience 0.8086559772491455
+[Central business district of auckland with destinations]: Auckland ferry network --[Focus on]-> Integrating with emerging technologies 0.8449465036392212
+[Central business district of auckland with destinations]: Auckland ferry network --[Origins]-> Date back to 19th century 0.8352242708206177
+[Central business district of auckland with destinations]: Auckland ferry network --[Set to undergo]-> Further enhancements 0.8141360282897949
+[Central business district of auckland with destinations]: Auckland ferry network --[Operates]-> Multiple routes 0.8746475577354431
+[Central business district of auckland with destinations]: Auckland ferry network --[First regular ferry service]-> Commenced in 1840 0.8276753425598145
+[Central business district of auckland with destinations]: Auckland ferry network --[Part of]-> Auckland transport's broader strategy 0.867427408695221
+[Central business district of auckland with destinations]: Auckland ferry network --[Commitment to]-> Sustainability 0.8364736437797546
+[Central business district of auckland with destinations]: Auckland ferry network --[Known for]-> Reliability 0.845197856426239
+[Central business district of auckland with destinations]: Auckland ferry network --[Integrated with]-> Other forms of public transport 0.8782156109809875
+[Central business district of auckland with destinations]: Auckland ferry network --[Consists of]-> Several routes 0.863955020904541
+[Central business district of auckland with destinations]: Auckland ferry network --[Contributing to]-> Sustainability of urban transport 0.8499665260314941
+[Central business district of auckland with destinations]: Auckland ferry network --[Offering]-> Unique and picturesque travel experience 0.8557090163230896
+[Central business district of auckland with destinations]: Auckland ferry network --[Service]-> Popular during peak hours 0.8534351587295532
+[Central business district of auckland with destinations]: Auckland ferry network --[Is]-> Vital component of public transport system 0.8652178645133972
+[Central business district of auckland with destinations]: Auckland ferry network --[Services provided by]-> Several operators 0.8646616339683533
+[Central business district of auckland with destinations]: Auckland ferry network --[Plays]-> Significant role in alleviating road congestion 0.8429850339889526
+[Central business district of auckland with destinations]: Auckland ferry network --[Significant expansions and upgrades]-> Accommodate growing population and increasing demand 0.8235664367675781
+[Central business district of auckland with destinations]: Auckland ferry network --[Offers]-> Alternative mode of transport for commuters and tourists 0.8520993590354919
+[Central business district of auckland with destinations]: Auckland ferry network --[Poised to play]-> Increasingly important role in shaping future of public transport 0.8488882780075073
+[Central business district of auckland with destinations]: Auckland ferry network --[Fleet]-> Consists of various vessels 0.8561686277389526
+[Central business district of auckland with destinations]: Auckland ferry network --[Improve]-> Public transport infrastructure 0.84688800573349
+[Central business district of auckland with destinations]: Auckland ferry network --[Planned developments]-> Include introduction of new routes 0.8387949466705322
+[Central business district of auckland with destinations]: Auckland ferry network --[Planned developments]-> Include increased frequency of services 0.8387307524681091
+[Central business district of auckland with destinations]: Auckland ferry network --[Enhancing]-> Overall accessibility 0.8347981572151184
+[Central business district of auckland with destinations]: Auckland ferry network --[Planned developments]-> Include upgrades to ferry terminals 0.8330789804458618
+[Central business district of auckland with destinations]: Auckland ferry network --[Evolved]-> Over years 0.8539557456970215

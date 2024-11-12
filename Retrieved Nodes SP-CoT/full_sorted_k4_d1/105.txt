@@ -1,0 +1,10 @@
+Which notable transport project in New Zealand, alongside the City Rail Link located to the north of the city known for its Metlink services, which focus on providing comprehensive coverage across the region, has undergone the process with the acronym used in New Zealand to assess the environmental impacts of transport projects?
+None
+Seed: Transport link between wellington and northern regions of north island
+Seed: Regional transport initiatives
+Seed: New zealand's transport network
+Seed: Addressing transport challenges in auckland
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Aims to improve]-> Transport link between wellington and northern regions of north island 0.8353258371353149
+[Regional transport initiatives]: Local councils --[Contribute to]-> Regional transport initiatives 0.7928577661514282
+[New zealand's transport network]: Road infrastructure projects --[Play crucial role in]-> New zealand's transport network 0.8606523275375366
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Addressing transport challenges in auckland 0.8429430723190308

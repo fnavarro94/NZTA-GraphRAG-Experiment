@@ -1,0 +1,36 @@
+What information did NZTA provide about converting the shoulder of Auckland Motorway into bus lanes?
+None
+Seed: reports on converting the shoulder of Auckland Motorway into Bus Lanes
+Seed: Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf
+Seed: Commercial Buses
+Seed: Expressway
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Zachary Wong --[REQUESTED]-> reports on converting the shoulder of Auckland Motorway into Bus Lanes 0.9098303318023682
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Zachary Wong --[EMAIL]-> fyi-request-9242-f4aad453@requests.fyi.org.nz 0.7588059902191162
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: reports on converting the shoulder of Auckland Motorway into Bus Lanes --[PROVIDED]-> Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf 0.921581506729126
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf --[APPENDIX]-> Appendices A to E 0.9052956104278564
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf --[APPENDIX]-> Appendices A to E 0.9052956104278564
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: reports on converting the shoulder of Auckland Motorway into Bus Lanes --[PROVIDED]-> Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf 0.921581506729126
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: Zachary Wong --[REQUESTED]-> reports on converting the shoulder of Auckland Motorway into Bus Lanes 0.9098303318023682
+[Commercial Buses]: New Zealand --[REGULATES]-> Commercial Buses 0.8423852920532227
+[Commercial Buses]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.8452470898628235
+[Commercial Buses]: New Zealand Media and Entertainment --[LOCATED_IN]-> New Zealand 0.7908797860145569
+[Commercial Buses]: State Highway 1 --[LOCATED_IN]-> New Zealand 0.8260904550552368
+[Commercial Buses]: Ombudsman --[LOCATED_IN]-> New Zealand 0.7717342376708984
+[Commercial Buses]: Queenstown Lakes --[LOCATED_IN]-> New Zealand 0.7938364744186401
+[Commercial Buses]: Central Otago --[LOCATED_IN]-> New Zealand 0.7768493294715881
+[Commercial Buses]: Wellington 6141 --[CONTAINS]-> New Zealand 0.7946910858154297
+[Commercial Buses]: Auckland --[CONTAINS]-> New Zealand 0.826961874961853
+[Commercial Buses]: New Zealand --[CONTAINS]-> Wellington 0.7952386140823364
+[Commercial Buses]: New Zealand --[CONTAINS]-> nzta.govt.nz 0.8209569454193115
+[Commercial Buses]: New Zealand --[CONTAINS]-> Auckland 0.8256784081459045
+[Commercial Buses]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.8381889462471008
+[Commercial Buses]: New Zealand --[CONTAINS]-> nzta_dev 0.8137935400009155
+[Commercial Buses]: Auckland --[ASSOCIATED_WITH]-> New Zealand 0.8104796409606934
+[Commercial Buses]: New Zealand --[ASSOCIATED_WITH]-> transport 0.8260539174079895
+[Commercial Buses]: New Zealand --[ASSOCIATED_WITH]-> NZTRANSPORT AGENCY 0.8169877529144287
+[Commercial Buses]: New Zealand --[ASSOCIATED_WITH]-> oia-4543-Phil-Pennington.pdf 0.811700701713562
+[Commercial Buses]: Wellington --[PART_OF]-> New Zealand 0.8042488098144531
+[Commercial Buses]: Featherston --[PART_OF]-> New Zealand 0.7813159823417664
+[Commercial Buses]: Auckland --[PART_OF]-> New Zealand 0.8353534936904907
+[Commercial Buses]: Tauranga --[PART_OF]-> New Zealand 0.7969712018966675
+[Commercial Buses]: New Zealand Transport Agency --[PART_OF]-> New Zealand 0.8489172458648682

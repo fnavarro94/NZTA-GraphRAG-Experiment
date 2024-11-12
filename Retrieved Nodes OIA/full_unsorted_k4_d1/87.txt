@@ -1,0 +1,11 @@
+What is the total amount of investment planned to achieve the Road to Zero campaign goals?
+None
+Seed: cost of the current Road to Zero advertising campaign
+Seed: development of the next Road to Zero Action Plan
+Seed: information about Road To Zero campaign
+Seed: 2023-24 State Highway Investment Proposal
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[COST]-> cost of the current Road to Zero advertising campaign 0.8801161050796509
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[WORKING_WITH]-> development of the next Road to Zero Action Plan 0.8422333002090454
+[information about Road To Zero campaign]: Request made under the Official Information Act 1982 --[REQUESTS]-> information about Road To Zero campaign 0.8429238796234131
+[2023-24 State Highway Investment Proposal]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.827923059463501
+[2023-24 State Highway Investment Proposal]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Access and Development Programme Business Case 0.8202199935913086

@@ -1,0 +1,34 @@
+Were there any personal grievances or employment law processes underway with Charles Ronaldson, Giles Southwell, or Leigh Mitchell?
+None
+Seed: Giles Southwell
+Seed: Leigh Mitchell
+Seed: Charles Ronaldson
+Seed: public interest in legal professional privilege
+[Giles Southwell]: Charles Ronaldson --[IS]-> Programme Director, Commercial Projects 0.8273807168006897
+[Giles Southwell]: Giles Southwell --[EMPLOYED_BY]-> New Zealand Transport Agency 0.8193958401679993
+[Giles Southwell]: Leigh Mitchell --[EMPLOYED_BY]-> New Zealand Transport Agency 0.8143210411071777
+[Giles Southwell]: Charles Ronaldson --[EMPLOYED_BY]-> New Zealand Transport Agency 0.8140394687652588
+[Giles Southwell]: Charles Ronaldson --[GENERAL_MANAGER]-> Operations 0.8089484572410583
+[Giles Southwell]: Charlie Mitchell --[REQUESTS]-> information under the Official Information Act 1982 0.8050156831741333
+[Giles Southwell]: Charles Ronaldson --[SIGNED]-> response 0.804772675037384
+[Leigh Mitchell]: Charles Ronaldson --[IS]-> Programme Director, Commercial Projects 0.8273807168006897
+[Leigh Mitchell]: Giles Southwell --[EMPLOYED_BY]-> New Zealand Transport Agency 0.8193958401679993
+[Leigh Mitchell]: Leigh Mitchell --[EMPLOYED_BY]-> New Zealand Transport Agency 0.8143210411071777
+[Leigh Mitchell]: Charles Ronaldson --[EMPLOYED_BY]-> New Zealand Transport Agency 0.8140394687652588
+[Leigh Mitchell]: Charles Ronaldson --[GENERAL_MANAGER]-> Operations 0.8089484572410583
+[Leigh Mitchell]: Charlie Mitchell --[REQUESTS]-> information under the Official Information Act 1982 0.8050156831741333
+[Leigh Mitchell]: Charles Ronaldson --[SIGNED]-> response 0.804772675037384
+[Charles Ronaldson]: Charles Ronaldson --[IS]-> Programme Director, Commercial Projects 0.8273807168006897
+[Charles Ronaldson]: Giles Southwell --[EMPLOYED_BY]-> New Zealand Transport Agency 0.8193958401679993
+[Charles Ronaldson]: Leigh Mitchell --[EMPLOYED_BY]-> New Zealand Transport Agency 0.8143210411071777
+[Charles Ronaldson]: Charles Ronaldson --[EMPLOYED_BY]-> New Zealand Transport Agency 0.8140394687652588
+[Charles Ronaldson]: Charles Ronaldson --[GENERAL_MANAGER]-> Operations 0.8089484572410583
+[Charles Ronaldson]: Charlie Mitchell --[REQUESTS]-> information under the Official Information Act 1982 0.8050156831741333
+[Charles Ronaldson]: Charles Ronaldson --[SIGNED]-> response 0.804772675037384
+[public interest in legal professional privilege]: Giles Southwell --[EMPLOYED_BY]-> New Zealand Transport Agency 0.8193958401679993
+[public interest in legal professional privilege]: Leigh Mitchell --[EMPLOYED_BY]-> New Zealand Transport Agency 0.8143210411071777
+[public interest in legal professional privilege]: Charles Ronaldson --[EMPLOYED_BY]-> New Zealand Transport Agency 0.8140394687652588
+[public interest in legal professional privilege]: Charles Ronaldson --[SIGNED]-> response 0.804772675037384
+[public interest in legal professional privilege]: Ian Duncan --[ACTING_NATIONAL_MANAGER]-> Policy and System Planning 0.7750262022018433
+[public interest in legal professional privilege]: Galina Mitchelhill --[RESPONSIBLE_FOR]-> Public Transport Analysis 0.7696967124938965
+[public interest in legal professional privilege]: Galina Mitchelhill --[RESPONSIBLE_FOR]-> Transport Infrastructure Analysis 0.7696478366851807

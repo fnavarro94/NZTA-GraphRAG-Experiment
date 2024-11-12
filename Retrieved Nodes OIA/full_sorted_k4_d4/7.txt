@@ -1,0 +1,30 @@
+What are the titles of the documents released in response to OIA request 15599 regarding advice provided in April 2024?
+None
+Seed: 26 April 2024
+Seed: 22 April 2024
+Seed: 8 April 2024
+Seed: 24 April 2024
+[26 April 2024]: Documents --[CONTAINS]-> GPS advice updates 0.8256459832191467
+[26 April 2024]: Request for Official Information --[COVERS]-> Documents 0.8237460851669312
+[26 April 2024]: MINO-990 --[DATE]-> 26 April 2024 0.8151470422744751
+[26 April 2024]: MIN-4467 --[DATE]-> 26 April 2024 0.7971844673156738
+[26 April 2024]: Documents --[CONTAINS]-> Road Efficiency Group 0.7843959331512451
+[26 April 2024]: Documents --[CONTAINS]-> Brown Update on the installation of cameras 0.7838054895401001
+[26 April 2024]: Response to Request --[CONTAINS]-> Documents 0.7770968675613403
+[22 April 2024]: MINO -1029 Minister Office's --[QUERY]-> 8 April 2024 0.8591034412384033
+[22 April 2024]: Ministers Report --[DATE]-> 8 April 2024 0.8487589359283447
+[22 April 2024]: MINO -1051 Supporting information --[DEBATE]-> 30 April 2024 0.8229196667671204
+[22 April 2024]: 22 April 2024 --[RELEASED]-> Released in full 0.8200981616973877
+[22 April 2024]: 30 April 2024 --[RELEASED]-> Released in full 0.8186690807342529
+[22 April 2024]: 19 April 2024 --[RELEASED]-> Released in full 0.8181906938552856
+[22 April 2024]: 8 April 2024 --[RELEASED]-> Released in full 0.8180559277534485
+[8 April 2024]: MINO -1029 Minister Office's --[QUERY]-> 8 April 2024 0.8591034412384033
+[8 April 2024]: Ministers Report --[DATE]-> 8 April 2024 0.8487589359283447
+[8 April 2024]: MINO -1051 Supporting information --[DEBATE]-> 30 April 2024 0.8229196667671204
+[8 April 2024]: 22 April 2024 --[RELEASED]-> Released in full 0.8200981616973877
+[8 April 2024]: 30 April 2024 --[RELEASED]-> Released in full 0.8186690807342529
+[8 April 2024]: 19 April 2024 --[RELEASED]-> Released in full 0.8181906938552856
+[8 April 2024]: 8 April 2024 --[RELEASED]-> Released in full 0.8180559277534485
+[24 April 2024]: MIN-4465 --[DATE]-> 24 April 2024 0.7965523600578308
+[24 April 2024]: MIN-4465 --[IS]-> Some information has been withheld under section 9(2)(f)(iv) 0.774391770362854
+[24 April 2024]: MIN-4465 --[IS]-> NTS rollout timeline 0.7704375386238098

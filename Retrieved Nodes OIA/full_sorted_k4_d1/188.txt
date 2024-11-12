@@ -1,0 +1,28 @@
+How does Waka Kotahi manage its travel expenditure?
+None
+Seed: Waka Kotahi N Z Transport Agency
+Seed: Waka Kotahi NZ Transport Agency
+Seed: Waka Kotahi policy
+Seed: NZ Transport Agency Waka Kotahi
+[Waka Kotahi N Z Transport Agency]: Data --[PROVIDED]-> Waka Kotahi N Z Transport Agency 0.8768628239631653
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINS]-> Waka Kotahi N Z Transport Agency 0.8355530500411987
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[MANAGES]-> public transport fare policy review 0.8805745840072632
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[COUNTRY]-> New Zealand 0.8760915994644165
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.8759699463844299
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> public transport fare policy review 0.873316764831543
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[MANAGES]-> road maintenance 0.871391773223877
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[FOLLOWS]-> Waka Kotahi policy 0.8689439296722412
+[Waka Kotahi NZ Transport Agency]: New Zealand --[HOME_TO]-> Waka Kotahi NZ Transport Agency 0.8667583465576172
+[Waka Kotahi policy]: Waka Kotahi --[FOLLOWS]-> Waka Kotahi policy 0.8872586488723755
+[Waka Kotahi policy]: New Zealand Transport Agency --[POLICY]-> Waka Kotahi policy 0.885918140411377
+[Waka Kotahi policy]: Waka Kotahi policy --[PUBLISHED]-> website 0.8707755208015442
+[Waka Kotahi policy]: Waka Kotahi NZ Transport Agency --[FOLLOWS]-> Waka Kotahi policy 0.8689439296722412
+[Waka Kotahi policy]: Waka Kotahi --[POLICY]-> Waka Kotahi policy 0.86735600233078
+[Waka Kotahi policy]: Waka Kotahi policy --[REQUIRES]-> publishing responses on website 0.8360534310340881
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8863505125045776
+[NZ Transport Agency Waka Kotahi]: WSP --[PREPARED]-> NZ Transport Agency Waka Kotahi 0.8679386377334595
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[POLICY]-> publishing policy 0.8664592504501343
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[BASED_ON]-> investigations, construction findings, on-site progress, design updates, design assumptions 0.8630306124687195
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[GRANTS_REQUEST]-> BRI-3010, MIN-4467 and MINO-990 0.8537993431091309
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[CONTACT]-> official.correspondence@nzta.govt.nz 0.8499826192855835
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[PUBLISHES]-> response letter 0.845238447189331

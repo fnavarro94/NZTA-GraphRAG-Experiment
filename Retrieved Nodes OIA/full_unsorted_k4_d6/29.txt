@@ -1,0 +1,36 @@
+What transport route was NZTA planning from Auckland CBD to West Auckland?
+None
+Seed: work done on a light rail route from the Auckland CBD to West Auckland
+Seed: Rapid Transit in Auckland
+Seed: Regional Land Transport Plan
+Seed: Regional Public Transport Plans
+[work done on a light rail route from the Auckland CBD to West Auckland]: New Zealand Transport Agency --[PROVIDES]-> work done on a light rail route from the Auckland CBD to West Auckland 0.8849544525146484
+[work done on a light rail route from the Auckland CBD to West Auckland]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8555644750595093
+[work done on a light rail route from the Auckland CBD to West Auckland]: New Zealand Transport Agency --[BASED]-> Wellington 0.8531922101974487
+[work done on a light rail route from the Auckland CBD to West Auckland]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8514618873596191
+[work done on a light rail route from the Auckland CBD to West Auckland]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.8394098877906799
+[work done on a light rail route from the Auckland CBD to West Auckland]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8422309756278992
+[work done on a light rail route from the Auckland CBD to West Auckland]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.8402954339981079
+[work done on a light rail route from the Auckland CBD to West Auckland]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.8469066023826599
+[work done on a light rail route from the Auckland CBD to West Auckland]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.8582921028137207
+[work done on a light rail route from the Auckland CBD to West Auckland]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.8427308797836304
+[work done on a light rail route from the Auckland CBD to West Auckland]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.8737033009529114
+[work done on a light rail route from the Auckland CBD to West Auckland]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8412913680076599
+[work done on a light rail route from the Auckland CBD to West Auckland]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8195317983627319
+[work done on a light rail route from the Auckland CBD to West Auckland]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8247067332267761
+[work done on a light rail route from the Auckland CBD to West Auckland]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8285579085350037
+[work done on a light rail route from the Auckland CBD to West Auckland]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8308043479919434
+[work done on a light rail route from the Auckland CBD to West Auckland]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8141141533851624
+[work done on a light rail route from the Auckland CBD to West Auckland]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8076754808425903
+[work done on a light rail route from the Auckland CBD to West Auckland]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.816489577293396
+[work done on a light rail route from the Auckland CBD to West Auckland]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8181712627410889
+[work done on a light rail route from the Auckland CBD to West Auckland]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8303383588790894
+[work done on a light rail route from the Auckland CBD to West Auckland]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8435236215591431
+[work done on a light rail route from the Auckland CBD to West Auckland]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7996835708618164
+[work done on a light rail route from the Auckland CBD to West Auckland]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8161129951477051
+[work done on a light rail route from the Auckland CBD to West Auckland]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8108572959899902
+[work done on a light rail route from the Auckland CBD to West Auckland]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8150493502616882
+[work done on a light rail route from the Auckland CBD to West Auckland]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7995651960372925
+[work done on a light rail route from the Auckland CBD to West Auckland]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8177894353866577
+[work done on a light rail route from the Auckland CBD to West Auckland]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8230760097503662
+[work done on a light rail route from the Auckland CBD to West Auckland]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7949255704879761

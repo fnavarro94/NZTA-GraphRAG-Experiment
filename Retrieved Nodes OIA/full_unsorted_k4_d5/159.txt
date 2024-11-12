@@ -1,0 +1,36 @@
+How much has the NZ Transport Agency spent on software/app development through Connected Journey Solutions (CJS)?
+None
+Seed: information about the NZ Transport Agency's Information Technology (IT) projects
+Seed: names of companies and individuals paid $6.63m to develop software/apps
+Seed: costing information for Greater Christchurch Mass Rapid Transit
+Seed: cost breakdown for Greater Christchurch Mass Rapid Transit
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[PROVIDES]-> information about the NZ Transport Agency's Information Technology (IT) projects 0.8514043092727661
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8507648706436157
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[BASED]-> Wellington 0.8573113679885864
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8559994697570801
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.8400615453720093
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7772884964942932
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.7813157439231873
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7818368077278137
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.8365730047225952
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.8512765765190125
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.8188656568527222
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.8057001829147339
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7714038491249084
+[information about the NZ Transport Agency's Information Technology (IT) projects]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7357481718063354
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Wellington --[CONTAINS]-> Private Bag 6995 0.790496289730072
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8510798811912537
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8467684984207153
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.8192499279975891
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.8039767146110535
+[information about the NZ Transport Agency's Information Technology (IT) projects]: 50 Victoria Street --[IN]-> Wellington 0.7510381937026978
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.8216966390609741
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[LOCATED]-> 50 Victoria Street 0.8463810086250305
+[information about the NZ Transport Agency's Information Technology (IT) projects]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.8022869825363159
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7909407615661621
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7675369381904602
+[information about the NZ Transport Agency's Information Technology (IT) projects]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7503565549850464
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.8428679704666138
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.8564439415931702
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[CONTACT]-> Wellington 6141 0.8335028290748596
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Wellington 6141 --[POSTAL_ADDRESS]-> New Zealand 0.773016631603241

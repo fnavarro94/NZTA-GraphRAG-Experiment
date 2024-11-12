@@ -1,0 +1,36 @@
+How does NZTA handle conflicts of interest when investigating contractors?
+None
+Seed: conflicts of interest by senior staff
+Seed: Conflict of interest
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: conflict of interest
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[NOTIFIES]-> conflicts of interest by senior staff 0.87937992811203
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8061963319778442
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[BASED]-> Wellington 0.8018321394920349
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.818230926990509
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.812669038772583
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8054537773132324
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7844314575195312
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7997450232505798
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.8155269622802734
+[conflicts of interest by senior staff]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.8087092638015747
+[conflicts of interest by senior staff]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7983880043029785
+[conflicts of interest by senior staff]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8222595453262329
+[conflicts of interest by senior staff]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8196423649787903
+[conflicts of interest by senior staff]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8125205039978027
+[conflicts of interest by senior staff]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8199474811553955
+[conflicts of interest by senior staff]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8213321566581726
+[conflicts of interest by senior staff]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8084745407104492
+[conflicts of interest by senior staff]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8291110396385193
+[conflicts of interest by senior staff]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.834523618221283
+[conflicts of interest by senior staff]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7985671758651733
+[conflicts of interest by senior staff]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7930616140365601
+[conflicts of interest by senior staff]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8234182596206665
+[conflicts of interest by senior staff]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8114826679229736
+[conflicts of interest by senior staff]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8337189555168152
+[conflicts of interest by senior staff]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8243166208267212
+[conflicts of interest by senior staff]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8308162689208984
+[conflicts of interest by senior staff]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.806981086730957
+[conflicts of interest by senior staff]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7946077585220337
+[conflicts of interest by senior staff]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8352687358856201
+[conflicts of interest by senior staff]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8016789555549622

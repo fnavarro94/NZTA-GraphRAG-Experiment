@@ -1,0 +1,36 @@
+What standards must retroreflective sheeting for black background plates comply with in New Zealand?
+None
+Seed: retroreflective sheeting for use in New Zealand
+Seed: performance requirements for retroreflective sheeting
+Seed: information on retroreflective sheeting
+Seed: NZTA M25 Retroreflective sheeting
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi --[APPROVES]-> retroreflective sheeting for use in New Zealand 0.9118884801864624
+[retroreflective sheeting for use in New Zealand]: Response --[CONTAINS]-> Waka Kotahi 0.753669261932373
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi --[PUBLISHES]-> Response 0.7548474073410034
+[retroreflective sheeting for use in New Zealand]: response --[CONTAINS]-> Waka Kotahi 0.7485291361808777
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.7939423322677612
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7693660855293274
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.766210675239563
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.7827798128128052
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> list of LGWM construction contracts 0.7794413566589355
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> public transport fare policy review 0.781804621219635
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.7769694924354553
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.7620078325271606
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.7682203054428101
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.7573174238204956
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi NZ Transport Agency --[FAX]-> F 64 4 894 6100 0.7692760229110718
+[retroreflective sheeting for use in New Zealand]: Andrew Knackstedt --[CONTACT]-> Waka Kotahi NZ Transport Agency 0.775651216506958
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi NZ Transport Agency --[CONTACT]-> T 64 4 894 5400 0.7612411379814148
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7681546807289124
+[retroreflective sheeting for use in New Zealand]: Chris Marshall --[REQUESTS]-> Waka Kotahi NZ Transport Agency 0.7760297060012817
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.7866867780685425
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.7821651697158813
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi NZ Transport Agency --[ANNOUNCED]-> Road to Zero 0.7795343995094299
+[retroreflective sheeting for use in New Zealand]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.7894511222839355
+[retroreflective sheeting for use in New Zealand]: Road to Zero --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8071764707565308
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.7613063454627991
+[retroreflective sheeting for use in New Zealand]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7757605910301208
+[retroreflective sheeting for use in New Zealand]: New Zealand --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7803917527198792
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.7756597399711609
+[retroreflective sheeting for use in New Zealand]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.761343777179718
+[retroreflective sheeting for use in New Zealand]: www.nzta.govt.nz --[OF]-> Waka Kotahi NZ Transport Agency 0.7860710620880127

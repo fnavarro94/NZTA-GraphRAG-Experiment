@@ -1,0 +1,36 @@
+What does the term "Road Widening Works" mean in the context of SH1 Brynderwyn repairs?
+None
+Seed: Road Widening Works
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: one crossing near SH2/Lyon Street/Birdwood Street intersection
+Seed: information on LGWM construction contracts
+[Road Widening Works]: Attachment 3 --[TITLE]-> Road Widening Works 0.873195469379425
+[Road Widening Works]: Road Widening Works --[MEANS]-> creating space or a shoulder to repair future damage caused by weather events 0.8930172324180603
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUESTS]-> detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) 0.7940411567687988
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Joel MacManus --[REQUEST]-> Request made under the Official Information Act 1982 0.7393392324447632
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUEST_DATE]-> 30 October 2018 0.742035984992981
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUESTED_BY]-> Thomas Coughlan 0.7532039880752563
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.7466725707054138
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUESTS]-> New Zealand Transport Agency 0.7745711803436279
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Dear --[OFFICIAL_INFORMATION]-> Request made under the Official Information Act 1982 0.7515011429786682
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[OFFICIAL_INFORMATION]-> Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act). 0.7761327028274536
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[CHALLENGES]-> Road To Zero campaign 0.7588422298431396
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUESTS]-> information about Road To Zero campaign 0.7735030651092529
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: logic in making this critical decision --[CHALLENGED_BY]-> Request made under the Official Information Act 1982 0.7512592077255249
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[RESPONDS_TO]-> Request made under the Official Information Act 1982 0.7804194688796997
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: REF: OIA -13915 --[ASSOCIATED_WITH]-> Request made under the Official Information Act 1982 0.7611491680145264
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[ASSOCIATED_WITH]-> information under the Official Information Act 1982 0.7566065788269043
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUESTED]-> information under the Official Information Act 1982 0.7559446692466736
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[RESPONDS]-> Request made under the Official Information Act 1982 0.7817795872688293
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) --[CONTRACTS]-> consultants 0.8070048093795776
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: consultants --[FROM]-> various organizations 0.730837345123291
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency Waka Kotahi --[ENGAGES]-> consultants 0.7645459771156311
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: Featherston --[RAISED_CROSSINGS]-> one crossing near SH2/Lyon Street/Birdwood Street intersection 0.8211454153060913
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: Featherston --[RAISED_CROSSINGS]-> staged way over time 0.7932257652282715
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: Featherston --[RANKING]-> not in the top 200 high risk intersections 0.7624854445457458
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: Featherston --[RAISED_CROSSINGS]-> five 0.7892091274261475
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: Featherston --[PART_OF]-> New Zealand 0.7666282653808594
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: intersection of SH2 and SH53 --[LOCATED_IN]-> Featherston 0.7768409848213196
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: Featherston --[HAS_SPEED_LIMIT]-> 40km/h 0.7811628580093384
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: Featherston --[RAISED_CROSSINGS]-> two new crossings 0.8168144226074219
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: Featherston --[RAISED_CROSSINGS]-> SH2 and SH53 0.7902734875679016

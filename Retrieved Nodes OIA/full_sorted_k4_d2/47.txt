@@ -1,0 +1,18 @@
+What types of restraints are included in the analysis of seatbelt usage?
+None
+Seed: instances where a driver and/or passenger may automatically be excused from the requirement to utilise a child restrain and seatbelt
+Seed: Seatbelts
+Seed: Restraints, Impairment, Distraction, Speed
+Seed: Driver or Passenger Restraint Use
+[instances where a driver and/or passenger may automatically be excused from the requirement to utilise a child restrain and seatbelt]: Land Transport (Road User) Rule 2004 --[SPECIFIES]-> instances where a driver and/or passenger may automatically be excused from the requirement to utilise a child restrain and seatbelt 0.8483135104179382
+[instances where a driver and/or passenger may automatically be excused from the requirement to utilise a child restrain and seatbelt]: Land Transport (Road User) Rule 2004 --[ALLOWS]-> an adherent of the Sikh religion to be excused from wearing a motorcycle helmet, providing they will not be travelling at a speed exceeding 50kmph 0.7679999470710754
+[Seatbelts]: Restraints --[INCLUDES]-> Seatbelts 0.9046167135238647
+[Seatbelts]: Restraints --[INCLUDES]-> Baby seats 0.8744202852249146
+[Seatbelts]: Restraints --[INCLUDES]-> Harnesses 0.871562659740448
+[Seatbelts]: Restraints --[INCLUDES]-> Other restraints 0.8685919642448425
+[Restraints, Impairment, Distraction, Speed]: Road Safety Partnership Programme --[FOCUSES_ON]-> Restraints, Impairment, Distraction, Speed 0.8440786600112915
+[Restraints, Impairment, Distraction, Speed]: Road Safety Partnership Programme --[DOUBLES]-> Speed and Drunk Driving Enforcement 0.7724089026451111
+[Restraints, Impairment, Distraction, Speed]: Road Safety Partnership Programme --[PROVIDES]-> https://www.nzta.govt.nz/assets/resources/road-policing-programme/docs/rpp-2021-24.pdf 0.7701831459999084
+[Restraints, Impairment, Distraction, Speed]: Road Safety Partnership Programme --[PROVIDES]-> Road Policing Activities 0.7586361169815063
+[Restraints, Impairment, Distraction, Speed]: Road Safety Partnership Programme --[ALLOCATES]-> $1.24 billion 0.7479763627052307
+[Driver or Passenger Restraint Use]: Driver or Passenger Restraint Use --[IS_LIMITED_TO]-> No or None Available 0.8150343298912048

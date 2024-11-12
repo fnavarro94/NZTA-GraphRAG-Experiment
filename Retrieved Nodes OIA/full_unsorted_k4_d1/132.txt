@@ -1,0 +1,12 @@
+What was the objective of the Safe Limits campaign regarding speed limits?
+None
+Seed: comparing the number of accidents under the 100km speed limit versus the current 80km speed rate
+Seed: wider objectives in Regional Public Transport Plans
+Seed: Setting of Speed Limits Rule 2017
+Seed: speed limit zones
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[INTERESTED_IN]-> comparing the number of accidents under the 100km speed limit versus the current 80km speed rate 0.8275731205940247
+[wider objectives in Regional Public Transport Plans]: underlying principles of the current policy --[CONTRIBUTES]-> wider objectives in Regional Public Transport Plans 0.8214088082313538
+[wider objectives in Regional Public Transport Plans]: wider objectives in Regional Public Transport Plans --[CONTRIBUTES]-> government's transport priorities 0.8207579851150513
+[Setting of Speed Limits Rule 2017]: Setting of Speed Limits Rule 2017 --[APPLIES_TO]-> speed review process 0.8445148468017578
+[Setting of Speed Limits Rule 2017]: Waka Kotahi --[FOLLOWS]-> Setting of Speed Limits Rule 2017 0.7993307113647461
+[speed limit zones]: crashes --[BY]-> speed limit zones 0.8260400295257568

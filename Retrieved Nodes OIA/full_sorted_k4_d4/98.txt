@@ -1,0 +1,28 @@
+Who should be contacted to discuss the report on Auckland Motorway shoulder bus lanes?
+None
+Seed: reports on converting the shoulder of Auckland Motorway into Bus Lanes
+Seed: Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf
+Seed: Open Data portal for information about daily traffic volumes on Hewletts Road
+Seed: reports and correspondence to the Minister of Transport, Phil Twyford, or his office
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Zachary Wong --[REQUESTED]-> reports on converting the shoulder of Auckland Motorway into Bus Lanes 0.9127823710441589
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: reports on converting the shoulder of Auckland Motorway into Bus Lanes --[PROVIDED]-> Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf 0.9034061431884766
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf --[APPENDIX]-> Appendices A to E 0.9005783796310425
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Zachary Wong --[EMAIL]-> fyi-request-9242-f4aad453@requests.fyi.org.nz 0.808806300163269
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: Zachary Wong --[REQUESTED]-> reports on converting the shoulder of Auckland Motorway into Bus Lanes 0.9127823710441589
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: reports on converting the shoulder of Auckland Motorway into Bus Lanes --[PROVIDED]-> Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf 0.9034061431884766
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf --[APPENDIX]-> Appendices A to E 0.9005783796310425
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: Zachary Wong --[EMAIL]-> fyi-request-9242-f4aad453@requests.fyi.org.nz 0.808806300163269
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: questions and responses --[FROM]-> NZ Transport Agency 0.8958817720413208
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Letter --[DISCUSS]-> NZ Transport Agency 0.886095404624939
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand Transport Agency --[CONTACT]-> Andy Knackstedt 0.8833179473876953
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand Transport Agency --[CONTACT]-> T 64 4 894 5400 0.8822817802429199
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand Transport Agency --[CONTACT]-> T 64 4 894 5400, F 64 4 894 6100, www.nzta.govt.nz 0.8819608688354492
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand Transport Agency --[CONTACT]-> 64 4 894 5400 0.8801831603050232
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand Transport Agency --[CONTACT]-> New Zealand 0.8798274397850037
+[reports and correspondence to the Minister of Transport, Phil Twyford, or his office]: Auckland Transport --[CONTACT]-> officialinformation@at.govt.nz 0.897153913974762
+[reports and correspondence to the Minister of Transport, Phil Twyford, or his office]: questions and responses --[FROM]-> NZ Transport Agency 0.8958817720413208
+[reports and correspondence to the Minister of Transport, Phil Twyford, or his office]: Discuss this reply with the NZ Transport Agency --[IS]-> Contact Andrew Knackstedt 0.8943941593170166
+[reports and correspondence to the Minister of Transport, Phil Twyford, or his office]: Letter --[DISCUSS]-> NZ Transport Agency 0.886095404624939
+[reports and correspondence to the Minister of Transport, Phil Twyford, or his office]: New Zealand Transport Agency --[CONTACT]-> Andy Knackstedt 0.8833179473876953
+[reports and correspondence to the Minister of Transport, Phil Twyford, or his office]: New Zealand Transport Agency --[CONTACT]-> T 64 4 894 5400 0.8822817802429199
+[reports and correspondence to the Minister of Transport, Phil Twyford, or his office]: New Zealand Transport Agency --[CONTACT]-> T 64 4 894 5400, F 64 4 894 6100, www.nzta.govt.nz 0.8819608688354492

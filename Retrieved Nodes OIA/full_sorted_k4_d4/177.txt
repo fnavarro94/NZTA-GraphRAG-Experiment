@@ -1,0 +1,34 @@
+What initiative was discussed to improve safety for visiting drivers in New Zealand?
+None
+Seed: Road safety initiatives
+Seed: Road Safety Initiatives
+Seed: road safety initiatives
+Seed: summary of the visiting drivers survey
+[Road safety initiatives]: New Zealand Transport Agency --[ASSOCIATED]-> Road safety initiatives 0.9172646999359131
+[Road safety initiatives]: New Zealand Transport Agency --[PROVIDES]-> Road Safety Initiatives 0.9103784561157227
+[Road safety initiatives]: Wellington City Council --[improving]-> road safety initiatives 0.9047801494598389
+[Road safety initiatives]: road safety initiatives --[ASSOCIATED_WITH]-> Wellington City Council 0.9001981019973755
+[Road safety initiatives]: road safety --[ENHANCED_BY]-> New Zealand Transport Agency 0.8948785066604614
+[Road safety initiatives]: Road Safety Initiatives --[COLLABORATED_BY]-> Wellington City Council 0.8930743932723999
+[Road safety initiatives]: Road Safety --[IMPROVED]-> Initiatives 0.8920655250549316
+[Road Safety Initiatives]: New Zealand Transport Agency --[ASSOCIATED]-> Road safety initiatives 0.9172646999359131
+[Road Safety Initiatives]: New Zealand Transport Agency --[PROVIDES]-> Road Safety Initiatives 0.9103784561157227
+[Road Safety Initiatives]: Wellington City Council --[improving]-> road safety initiatives 0.9047801494598389
+[Road Safety Initiatives]: road safety initiatives --[ASSOCIATED_WITH]-> Wellington City Council 0.9001981019973755
+[Road Safety Initiatives]: summary of the visiting drivers survey --[AVAILABLE]-> www.saferjourneys.govt.nz/action-plans/signature-programme/ 0.8961648941040039
+[Road Safety Initiatives]: road safety --[ENHANCED_BY]-> New Zealand Transport Agency 0.8948785066604614
+[Road Safety Initiatives]: Road Safety Initiatives --[COLLABORATED_BY]-> Wellington City Council 0.8930743932723999
+[road safety initiatives]: New Zealand Transport Agency --[ASSOCIATED]-> Road safety initiatives 0.9172646999359131
+[road safety initiatives]: New Zealand Transport Agency --[PROVIDES]-> Road Safety Initiatives 0.9103784561157227
+[road safety initiatives]: Wellington City Council --[improving]-> road safety initiatives 0.9047801494598389
+[road safety initiatives]: road safety initiatives --[ASSOCIATED_WITH]-> Wellington City Council 0.9001981019973755
+[road safety initiatives]: summary of the visiting drivers survey --[AVAILABLE]-> www.saferjourneys.govt.nz/action-plans/signature-programme/ 0.8961648941040039
+[road safety initiatives]: road safety --[ENHANCED_BY]-> New Zealand Transport Agency 0.8948785066604614
+[road safety initiatives]: Road Safety Initiatives --[COLLABORATED_BY]-> Wellington City Council 0.8930743932723999
+[summary of the visiting drivers survey]: New Zealand Transport Agency --[ASSOCIATED]-> Road safety initiatives 0.9172646999359131
+[summary of the visiting drivers survey]: New Zealand Transport Agency --[PROVIDES]-> Road Safety Initiatives 0.9103784561157227
+[summary of the visiting drivers survey]: Wellington City Council --[improving]-> road safety initiatives 0.9047801494598389
+[summary of the visiting drivers survey]: road safety initiatives --[ASSOCIATED_WITH]-> Wellington City Council 0.9001981019973755
+[summary of the visiting drivers survey]: summary of the visiting drivers survey --[AVAILABLE]-> www.saferjourneys.govt.nz/action-plans/signature-programme/ 0.8961648941040039
+[summary of the visiting drivers survey]: road safety --[ENHANCED_BY]-> New Zealand Transport Agency 0.8948785066604614
+[summary of the visiting drivers survey]: Road Safety Initiatives --[COLLABORATED_BY]-> Wellington City Council 0.8930743932723999

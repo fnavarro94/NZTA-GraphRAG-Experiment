@@ -1,0 +1,34 @@
+How are flooding-related road repair costs defined in the OIA-9194 request?
+None
+Seed: request for pothole repair cost information
+Seed: funding for road maintenance
+Seed: committee managing the Kopa Hill Road repair process
+Seed: Costs
+[request for pothole repair cost information]: road maintenance --[AFFECTED_BY]-> flooding 0.8814579844474792
+[request for pothole repair cost information]: flooding --[CAN_AFFECT]-> road maintenance 0.8736721873283386
+[request for pothole repair cost information]: road maintenance --[FUNDED_BY]-> toll tariffs 0.8695296049118042
+[request for pothole repair cost information]: request for pothole repair cost information --[SUBJECT_TO]-> section 18(f) of the Act 0.8684461116790771
+[request for pothole repair cost information]: section 18(f) of the Act --[APPLIES_TO]-> request for pothole repair cost information 0.8645605444908142
+[request for pothole repair cost information]: New Zealand Transport Agency --[RESPONDS_TO]-> oia-9157-response.pdf 0.8636369109153748
+[request for pothole repair cost information]: toll tariffs --[SPENT_ON]-> road maintenance 0.8632991909980774
+[funding for road maintenance]: road maintenance --[AFFECTED_BY]-> flooding 0.8814579844474792
+[funding for road maintenance]: flooding --[CAN_AFFECT]-> road maintenance 0.8736721873283386
+[funding for road maintenance]: road maintenance --[FUNDED_BY]-> toll tariffs 0.8695296049118042
+[funding for road maintenance]: request for pothole repair cost information --[SUBJECT_TO]-> section 18(f) of the Act 0.8684461116790771
+[funding for road maintenance]: section 18(f) of the Act --[APPLIES_TO]-> request for pothole repair cost information 0.8645605444908142
+[funding for road maintenance]: New Zealand Transport Agency --[RESPONDS_TO]-> oia-9157-response.pdf 0.8636369109153748
+[funding for road maintenance]: toll tariffs --[SPENT_ON]-> road maintenance 0.8632991909980774
+[committee managing the Kopa Hill Road repair process]: road maintenance --[AFFECTED_BY]-> flooding 0.8814579844474792
+[committee managing the Kopa Hill Road repair process]: flooding --[CAN_AFFECT]-> road maintenance 0.8736721873283386
+[committee managing the Kopa Hill Road repair process]: road maintenance --[FUNDED_BY]-> toll tariffs 0.8695296049118042
+[committee managing the Kopa Hill Road repair process]: request for pothole repair cost information --[SUBJECT_TO]-> section 18(f) of the Act 0.8684461116790771
+[committee managing the Kopa Hill Road repair process]: section 18(f) of the Act --[APPLIES_TO]-> request for pothole repair cost information 0.8645605444908142
+[committee managing the Kopa Hill Road repair process]: New Zealand Transport Agency --[RESPONDS_TO]-> oia-9157-response.pdf 0.8636369109153748
+[committee managing the Kopa Hill Road repair process]: toll tariffs --[SPENT_ON]-> road maintenance 0.8632991909980774
+[Costs]: road maintenance --[AFFECTED_BY]-> flooding 0.8814579844474792
+[Costs]: flooding --[CAN_AFFECT]-> road maintenance 0.8736721873283386
+[Costs]: road maintenance --[FUNDED_BY]-> toll tariffs 0.8695296049118042
+[Costs]: request for pothole repair cost information --[SUBJECT_TO]-> section 18(f) of the Act 0.8684461116790771
+[Costs]: section 18(f) of the Act --[APPLIES_TO]-> request for pothole repair cost information 0.8645605444908142
+[Costs]: New Zealand Transport Agency --[RESPONDS_TO]-> oia-9157-response.pdf 0.8636369109153748
+[Costs]: toll tariffs --[SPENT_ON]-> road maintenance 0.8632991909980774

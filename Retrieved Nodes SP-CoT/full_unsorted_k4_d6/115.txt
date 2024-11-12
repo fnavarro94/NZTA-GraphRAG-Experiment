@@ -1,0 +1,36 @@
+Which country did the airline that initially operated trans-Tasman flights to in 1940 connect to for tourism and business travel, alongside major cities in New Zealand and Asia, alongside the urban area in New Zealand that has experienced significant investment in public transport infrastructure alongside Auckland and Wellington?
+None
+Seed: Local economy and tourism industry
+Seed: Trans-tasman flights between new zealand and australia
+Seed: Domestic flights to major cities across new zealand
+Seed: Both passenger and freight transport across the cook strait
+[Local economy and tourism industry]: Auckland airport --[Supporting]-> Local economy and tourism industry 0.8570446968078613
+[Local economy and tourism industry]: Auckland airport --[Serves]-> As hub for domestic and international flights 0.8487673401832581
+[Local economy and tourism industry]: Auckland airport --[Is]-> Undergoing significant expansion 0.8432936072349548
+[Local economy and tourism industry]: Auckland airport --[Serves as]-> Primary international gateway for new zealand 0.8462353944778442
+[Local economy and tourism industry]: Auckland airport --[Committed]-> Sustainability 0.8062562942504883
+[Local economy and tourism industry]: Auckland ferry network --[Commitment to]-> Sustainability 0.799540638923645
+[Local economy and tourism industry]: Auckland ferry network --[Operated by]-> Auckland transport 0.8170128464698792
+[Local economy and tourism industry]: Auckland transport --[Has]-> Vision to support growth 0.827258288860321
+[Local economy and tourism industry]: Auckland transport --[Has]-> Vision to minimize environmental impact 0.8082039952278137
+[Local economy and tourism industry]: Auckland transport --[Has]-> Vision to create efficient transport system 0.8214598894119263
+[Local economy and tourism industry]: Auckland transport --[Has]-> Vision to create integrated transport system 0.8220025300979614
+[Local economy and tourism industry]: Auckland transport --[Has]-> Long-term vision 0.8257522583007812
+[Local economy and tourism industry]: New zealand transport strategy --[Outlines]-> Long-term vision 0.8182239532470703
+[Local economy and tourism industry]: Auckland transport --[Has]-> Vision to create safe transport system 0.8014931082725525
+[Local economy and tourism industry]: Auckland transport --[Focused on]-> Promoting active transport modes 0.8293700218200684
+[Local economy and tourism industry]: Auckland transport --[Focused on]-> Promoting cycling 0.8144853711128235
+[Local economy and tourism industry]: Auckland transport --[Focused on]-> Promoting walking 0.8228656053543091
+[Local economy and tourism industry]: Auckland transport --[Is]-> Primary agency 0.825140655040741
+[Local economy and tourism industry]: Waka kotahi --[Is]-> Primary agency 0.7173571586608887
+[Local economy and tourism industry]: Auckland transport --[Implemented]-> Cycling infrastructure projects 0.8182122707366943
+[Local economy and tourism industry]: Auckland transport --[Implemented]-> Dedicated bike lanes 0.8009709715843201
+[Local economy and tourism industry]: Sustainable urban transport --[Key component]-> Dedicated bike lanes 0.7565935254096985
+[Local economy and tourism industry]: Auckland transport --[Implemented]-> Cycleways 0.8042358160018921
+[Local economy and tourism industry]: Christchurch --[Served by]-> Cycleways 0.7850304245948792
+[Local economy and tourism industry]: Auckland transport --[Introduced]-> Auckland integrated ticketing system 0.8200786709785461
+[Local economy and tourism industry]: Auckland transport --[Responsible for]-> Managing public transport services 0.8259268403053284
+[Local economy and tourism industry]: Greater wellington regional council --[Responsible for]-> Managing public transport services 0.7962905764579773
+[Local economy and tourism industry]: Auckland transport --[Responsible for]-> Development 0.8272693753242493
+[Local economy and tourism industry]: Waka kotahi --[Plays crucial role in]-> Development 0.7273869514465332
+[Local economy and tourism industry]: Kiwirail --[Involved in]-> Development 0.8181001543998718

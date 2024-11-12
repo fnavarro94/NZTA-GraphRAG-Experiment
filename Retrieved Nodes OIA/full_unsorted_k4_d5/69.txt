@@ -1,0 +1,36 @@
+How many road and street signs were stolen or vandalized in Hamilton over the last three years?
+None
+Seed: road/street signs
+Seed: one crossing near Daniell Street
+Seed: Theft Ex Car (Over $100)
+Seed: one crossing near SH2/Lyon Street/Birdwood Street intersection
+[road/street signs]: road/street signs --[VANDALISED]-> last three years 0.901990532875061
+[road/street signs]: street name signs --[STOLEN]-> last three years 0.8956465125083923
+[road/street signs]: street name signs --[VANDALISED]-> last three years 0.8899542093276978
+[road/street signs]: others --[STOLEN]-> last three years 0.8566558957099915
+[road/street signs]: others --[VANDALISED]-> last three years 0.8568940162658691
+[road/street signs]: road/street signs --[STOLEN]-> last three years 0.918391227722168
+[one crossing near Daniell Street]: Featherston --[RAISED_CROSSINGS]-> one crossing near Daniell Street 0.7939562201499939
+[one crossing near Daniell Street]: Featherston --[RAISED_CROSSINGS]-> staged way over time 0.7594492435455322
+[one crossing near Daniell Street]: Featherston --[RANKING]-> not in the top 200 high risk intersections 0.7659838199615479
+[one crossing near Daniell Street]: Featherston --[RAISED_CROSSINGS]-> five 0.759194016456604
+[one crossing near Daniell Street]: Featherston --[RAISED_CROSSINGS]-> one crossing near SH2/Lyon Street/Birdwood Street intersection 0.7846695780754089
+[one crossing near Daniell Street]: Featherston --[PART_OF]-> New Zealand 0.7619412541389465
+[one crossing near Daniell Street]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7647326588630676
+[one crossing near Daniell Street]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7729842066764832
+[one crossing near Daniell Street]: New Zealand Transport Agency --[BASED]-> Wellington 0.7770078182220459
+[one crossing near Daniell Street]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7744042873382568
+[one crossing near Daniell Street]: Golden Mile --[LOCATED]-> Wellington 0.7764842510223389
+[one crossing near Daniell Street]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7819817066192627
+[one crossing near Daniell Street]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7651233673095703
+[one crossing near Daniell Street]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7796931266784668
+[one crossing near Daniell Street]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7686741948127747
+[one crossing near Daniell Street]: Wellington --[PART_OF]-> Wellington Region 0.7760065197944641
+[one crossing near Daniell Street]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7819077968597412
+[one crossing near Daniell Street]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7628932595252991
+[one crossing near Daniell Street]: Wellington --[HAS]-> tunnel 0.7909426689147949
+[one crossing near Daniell Street]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7527188658714294
+[one crossing near Daniell Street]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7732276916503906
+[one crossing near Daniell Street]: Wellington --[POSTCODE]-> 6141 0.7519500255584717
+[one crossing near Daniell Street]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7713276147842407
+[one crossing near Daniell Street]: Wellington --[IS_PART_OF]-> New Zealand 0.7727431654930115

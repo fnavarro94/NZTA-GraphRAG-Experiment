@@ -1,0 +1,36 @@
+What information did NZTA provide about converting the shoulder of Auckland Motorway into bus lanes?
+None
+Seed: reports on converting the shoulder of Auckland Motorway into Bus Lanes
+Seed: Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf
+Seed: Commercial Buses
+Seed: Expressway
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Zachary Wong --[REQUESTED]-> reports on converting the shoulder of Auckland Motorway into Bus Lanes 0.9098303318023682
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Zachary Wong --[EMAIL]-> fyi-request-9242-f4aad453@requests.fyi.org.nz 0.7588059902191162
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: reports on converting the shoulder of Auckland Motorway into Bus Lanes --[PROVIDED]-> Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf 0.921581506729126
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf --[APPENDIX]-> Appendices A to E 0.9052956104278564
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf --[APPENDIX]-> Appendices A to E 0.9052956104278564
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: reports on converting the shoulder of Auckland Motorway into Bus Lanes --[PROVIDED]-> Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf 0.921581506729126
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: Zachary Wong --[REQUESTED]-> reports on converting the shoulder of Auckland Motorway into Bus Lanes 0.9098303318023682
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: Zachary Wong --[EMAIL]-> fyi-request-9242-f4aad453@requests.fyi.org.nz 0.7588059902191162
+[Commercial Buses]: New Zealand --[REGULATES]-> Commercial Buses 0.8423852920532227
+[Commercial Buses]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.8452470898628235
+[Commercial Buses]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8411620855331421
+[Commercial Buses]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8446504473686218
+[Commercial Buses]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8384479284286499
+[Commercial Buses]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.826022744178772
+[Commercial Buses]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.840950071811676
+[Commercial Buses]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.8381889462471008
+[Commercial Buses]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.863562285900116
+[Commercial Buses]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8447604179382324
+[Commercial Buses]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8289990425109863
+[Commercial Buses]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8409431576728821
+[Commercial Buses]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8396530151367188
+[Commercial Buses]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8308736681938171
+[Commercial Buses]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8264204859733582
+[Commercial Buses]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8244394063949585
+[Commercial Buses]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8267699480056763
+[Commercial Buses]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8222112655639648
+[Commercial Buses]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8386087417602539
+[Commercial Buses]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8542013764381409
+[Commercial Buses]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8144497871398926
+[Commercial Buses]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8268121480941772

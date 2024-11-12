@@ -1,0 +1,10 @@
+What organization did emerge from during its establishment in 2008, which operates the rail network in the country where the term describing the regular activities performed to keep roads safe and functional, including vegetation control, litter removal, and drainage maintenance of local roads is particularly important due to diverse geography and challenges such as landslides, flooding, and erosion, primarily serving freight and providing passenger services in metropolitan areas?
+None
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+Seed: Crucial role in promoting road safety
+Seed: Critical for freight and passenger movement
+Seed: Improving road safety and reducing congestion in urban areas
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Plays]-> Significant role in shaping transport infrastructure and policy in new zealand 0.8142414689064026
+[Crucial role in promoting road safety]: Education and awareness programs --[Play]-> Crucial role in promoting road safety 0.8174929022789001
+[Critical for freight and passenger movement]: North island main trunk railway --[Is]-> Critical for freight and passenger movement 0.8147746920585632
+[Improving road safety and reducing congestion in urban areas]: Road transport --[Focus on]-> Improving road safety and reducing congestion in urban areas 0.821854829788208

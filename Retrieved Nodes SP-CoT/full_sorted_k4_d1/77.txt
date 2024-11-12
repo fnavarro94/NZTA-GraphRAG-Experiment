@@ -1,0 +1,10 @@
+In what year did the Onehunga Line get reintroduced, enhancing the connection between the two locations connected by the first railway line constructed in the country in 1873?
+None
+Seed: First railway line between auckland and onehunga in 1873
+Seed: Onehunga to the wider auckland rail network
+Seed: 1873
+Seed: Rich history of rail transport
+[First railway line between auckland and onehunga in 1873]: New zealand --[Had]-> First railway line between auckland and onehunga in 1873 0.9145550727844238
+[Onehunga to the wider auckland rail network]: Onehunga line --[Connects]-> Onehunga to the wider auckland rail network 0.847040593624115
+[1873]: Railway line --[Opened]-> 1873 0.8723945021629333
+[Rich history of rail transport]: Wellington region --[Has]-> Rich history of rail transport 0.7867205142974854

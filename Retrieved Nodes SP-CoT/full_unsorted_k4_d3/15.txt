@@ -1,0 +1,36 @@
+What is the minimum age requirement for obtaining a driver license in New Zealand, which is the first stage of the driver licensing process and can be obtained at the age of 16?
+None
+Seed: Age of 16
+Seed: Provisional driving license
+Seed: Legal framework for licensing of drivers
+Seed: Full valid driver's license
+[Age of 16]: Learner license --[Obtained at]-> Age of 16 0.8774173855781555
+[Age of 16]: Learner license --[Aims]-> Reduce risk of accidents 0.8029466271400452
+[Age of 16]: Learner license --[Promotes]-> Responsible driving habits 0.80977463722229
+[Age of 16]: Learner license --[Valid]-> Five years 0.8172269463539124
+[Age of 16]: Learner license --[Importance]-> Road safety 0.8245092630386353
+[Age of 16]: Smart technology integration --[Improves]-> Road safety 0.7290048599243164
+[Age of 16]: New zealand transport agency --[Promotes]-> Road safety 0.8036487698554993
+[Age of 16]: Learner license --[Enhances]-> Road safety 0.8064196109771729
+[Age of 16]: New zealand --[Committed to]-> Road safety 0.8229239583015442
+[Age of 16]: Autonomous vehicles --[Promise to enhance]-> Road safety 0.7484169006347656
+[Age of 16]: Land transport act 1998 --[Outlines]-> Road safety 0.7720291614532471
+[Age of 16]: Intelligent transport systems --[Enhance]-> Road safety 0.7375836372375488
+[Age of 16]: Road design guidelines --[Encompass]-> Road safety 0.767000138759613
+[Age of 16]: Traffic management systems --[Enhance]-> Road safety 0.7379787564277649
+[Age of 16]: Learner license --[Requires]-> Specific conditions 0.8056930303573608
+[Age of 16]: Learner license --[Issued in]-> New zealand 0.8825306296348572
+[Age of 16]: New zealand --[Has]-> Transport projects 0.8160151243209839
+[Age of 16]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.8156989216804504
+[Age of 16]: New zealand --[Has]-> Diverse transport network 0.8103336095809937
+[Age of 16]: New zealand --[Has]-> Post-incident review 0.7766448855400085
+[Age of 16]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.7819807529449463
+[Age of 16]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.7740744352340698
+[Age of 16]: New zealand --[Has]-> Broader environmental policies 0.7779667377471924
+[Age of 16]: New zealand --[Has]-> Traffic congestion 0.8167563080787659
+[Age of 16]: New zealand --[Has]-> Increasing urbanization 0.7937132716178894
+[Age of 16]: New zealand --[Has]-> Graduated licensing system 0.8635604381561279
+[Age of 16]: New zealand --[Has]-> Extensive coastline supporting a thriving fishing industry and recreational boating activities 0.769920825958252
+[Age of 16]: New zealand --[Has]-> Trend towards more integrated and environmentally friendly transport solutions 0.7675433158874512
+[Age of 16]: New zealand --[Has]-> Extensive network of roads 0.8121069669723511
+[Age of 16]: New zealand --[Has]-> Public transport network planning 0.8153572082519531

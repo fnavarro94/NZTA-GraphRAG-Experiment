@@ -1,0 +1,36 @@
+When will the full report from the hidden texting camera trial be made publicly available?
+None
+Seed: WK Exec summary of the TG claim for review
+Seed: public awareness campaign
+Seed: public interest in seeking and receiving confidential legal advice
+Seed: trial
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[FALLS_IN_SCOPE]-> WK Exec summary of the TG claim for review 0.7586785554885864
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7255793809890747
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[BASED]-> Wellington 0.7268843650817871
+[WK Exec summary of the TG claim for review]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7449353337287903
+[WK Exec summary of the TG claim for review]: Golden Mile --[LOCATED]-> Wellington 0.7087129354476929
+[WK Exec summary of the TG claim for review]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7125132083892822
+[WK Exec summary of the TG claim for review]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7487478852272034
+[WK Exec summary of the TG claim for review]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7696855068206787
+[WK Exec summary of the TG claim for review]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7233777046203613
+[WK Exec summary of the TG claim for review]: Wellington --[PART_OF]-> Wellington Region 0.7075868844985962
+[WK Exec summary of the TG claim for review]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7226059436798096
+[WK Exec summary of the TG claim for review]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7387474775314331
+[WK Exec summary of the TG claim for review]: Wellington --[HAS]-> tunnel 0.7284046411514282
+[WK Exec summary of the TG claim for review]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7077600955963135
+[WK Exec summary of the TG claim for review]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7443088889122009
+[WK Exec summary of the TG claim for review]: Wellington --[POSTCODE]-> 6141 0.7126010656356812
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.722747802734375
+[WK Exec summary of the TG claim for review]: Wellington --[IS_PART_OF]-> New Zealand 0.6991827487945557
+[WK Exec summary of the TG claim for review]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7444955110549927
+[WK Exec summary of the TG claim for review]: 50 Victoria Street --[IN]-> Wellington 0.727595865726471
+[WK Exec summary of the TG claim for review]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7480494379997253
+[WK Exec summary of the TG claim for review]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7254250049591064
+[WK Exec summary of the TG claim for review]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7377353310585022
+[WK Exec summary of the TG claim for review]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.710661768913269
+[WK Exec summary of the TG claim for review]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7077101469039917
+[WK Exec summary of the TG claim for review]: NZ Transport Agency --[LOCATED]-> Wellington 0.7238389253616333
+[WK Exec summary of the TG claim for review]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7268939018249512
+[WK Exec summary of the TG claim for review]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7283158898353577
+[WK Exec summary of the TG claim for review]: New Zealand --[CONTAINS]-> Wellington 0.7113729119300842
+[WK Exec summary of the TG claim for review]: Wellington --[PART_OF]-> New Zealand 0.7001798748970032

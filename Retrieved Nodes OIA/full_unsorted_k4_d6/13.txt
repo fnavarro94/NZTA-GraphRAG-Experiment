@@ -1,0 +1,36 @@
+How are contractors paid to repair potholes on New Zealand highways?
+None
+Seed: request for pothole repair cost information
+Seed: pothole repair specifications
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf
+[request for pothole repair cost information]: sections 18A and 18B of the Act --[APPLIES_TO]-> request for pothole repair cost information 0.8526146411895752
+[request for pothole repair cost information]: New Zealand Transport Agency --[CONSIDERS]-> sections 18A and 18B of the Act 0.8111565113067627
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8204320669174194
+[request for pothole repair cost information]: New Zealand Transport Agency --[BASED]-> Wellington 0.8325805068016052
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8160632848739624
+[request for pothole repair cost information]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.8167421817779541
+[request for pothole repair cost information]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7731205821037292
+[request for pothole repair cost information]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.7710334062576294
+[request for pothole repair cost information]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7749701738357544
+[request for pothole repair cost information]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.801533579826355
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.811955988407135
+[request for pothole repair cost information]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7757847309112549
+[request for pothole repair cost information]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7627248167991638
+[request for pothole repair cost information]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7660256624221802
+[request for pothole repair cost information]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7253716588020325
+[request for pothole repair cost information]: Wellington --[CONTAINS]-> Private Bag 6995 0.7770189046859741
+[request for pothole repair cost information]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8127171397209167
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8139524459838867
+[request for pothole repair cost information]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.8122362494468689
+[request for pothole repair cost information]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7939440011978149
+[request for pothole repair cost information]: 50 Victoria Street --[IN]-> Wellington 0.7746149301528931
+[request for pothole repair cost information]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.8049207329750061
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED]-> 50 Victoria Street 0.8143086433410645
+[request for pothole repair cost information]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7742898464202881
+[request for pothole repair cost information]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7676264047622681
+[request for pothole repair cost information]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7876863479614258
+[request for pothole repair cost information]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.770088791847229
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7822617888450623
+[request for pothole repair cost information]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.8191139698028564
+[request for pothole repair cost information]: New Zealand Transport Agency --[CONTACT]-> Wellington 6141 0.8174734711647034

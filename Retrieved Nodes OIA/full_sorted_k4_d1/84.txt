@@ -1,0 +1,12 @@
+Where can information on driver licensing trends and related statistics be found?
+None
+Seed: information on vehicle and driver registration and licensing
+Seed: information on visiting drivers survey
+Seed: Speed and Drunk Driving Enforcement
+Seed: summary of the visiting drivers survey
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[PROVIDES]-> information on vehicle and driver registration and licensing 0.8537337779998779
+[information on visiting drivers survey]: David Williams --[REQUESTS]-> information on visiting drivers survey 0.8662194013595581
+[information on visiting drivers survey]: New Zealand Transport Agency --[PROVIDES]-> information on visiting drivers survey 0.8504960536956787
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[DOUBLES]-> Speed and Drunk Driving Enforcement 0.7957023978233337
+[summary of the visiting drivers survey]: summary of the visiting drivers survey --[AVAILABLE]-> www.saferjourneys.govt.nz/action-plans/signature-programme/ 0.8287486433982849
+[summary of the visiting drivers survey]: NZ Transport Agency --[DECLINE]-> summary of the visiting drivers survey 0.8214966654777527

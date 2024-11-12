@@ -1,0 +1,36 @@
+Who is responsible for enforcing the Health and Safety at Work Act in New Zealand?
+None
+Seed: Health and safety at work act
+Seed: Health and safety at work act 2015
+Seed: Health and safety in employment act 1992
+Seed: Primary body responsible for overseeing heavy vehicle safety
+[Health and safety at work act]: Health and safety at work act --[Year]-> 2015 0.8715921640396118
+[Health and safety at work act]: Electronic stability control --[Required in]-> 2015 0.7374275922775269
+[Health and safety at work act]: Electronic stability control --[Designed to]-> Enhance vehicle stability 0.7107369303703308
+[Health and safety at work act]: Electronic stability control --[Is]-> Advanced safety feature 0.7539834380149841
+[Health and safety at work act]: Vehicle safety technologies --[Include]-> Electronic stability control 0.7592692971229553
+[Health and safety at work act]: Vehicle safety technologies --[Include]-> Anti-lock braking systems 0.7576855421066284
+[Health and safety at work act]: New zealand --[Has adopted]-> Anti-lock braking systems 0.8075816035270691
+[Health and safety at work act]: Vehicle safety technologies --[Include]-> Advanced driver assistance systems 0.741020679473877
+[Health and safety at work act]: Advanced driver assistance systems --[Include]-> Blind-spot monitoring 0.7102524042129517
+[Health and safety at work act]: Advanced driver assistance systems --[Include]-> Lane departure warning 0.70916748046875
+[Health and safety at work act]: Advanced driver assistance systems --[Designed to]-> Reduce accidents 0.7216396331787109
+[Health and safety at work act]: Advanced driver assistance systems --[Designed to]-> Assist drivers 0.714332640171051
+[Health and safety at work act]: Vehicle safety technology --[Includes]-> Advanced driver assistance systems 0.7408299446105957
+[Health and safety at work act]: Advanced driver assistance systems --[Include]-> Adaptive cruise control 0.7032638192176819
+[Health and safety at work act]: Advanced driver assistance systems --[Include]-> Automatic emergency braking 0.7154450416564941
+[Health and safety at work act]: Advanced driver assistance systems --[Designed to]-> Make safer decisions 0.7172950506210327
+[Health and safety at work act]: Electronic stability control --[Utilize]-> Sensors 0.7281395792961121
+[Health and safety at work act]: Intelligent transport systems --[Use]-> Sensors 0.7222340703010559
+[Health and safety at work act]: Waka kotahi --[Explores]-> Intelligent transport systems 0.7293261885643005
+[Health and safety at work act]: Intelligent transport systems --[Provide]-> Real-time information to drivers 0.7115553617477417
+[Health and safety at work act]: Intelligent transport systems --[Utilize]-> Sensors and communication technologies 0.709032416343689
+[Health and safety at work act]: Intelligent transport systems --[Analyze data to]-> Optimize traffic signals and reduce congestion 0.7124388813972473
+[Health and safety at work act]: Intelligent transport systems --[Collect data on]-> Traffic flow 0.720607340335846
+[Health and safety at work act]: Road safety technologies --[Include]-> Intelligent transport systems 0.7583378553390503
+[Health and safety at work act]: Intelligent transport systems --[Utilize]-> Cameras and sensors 0.6941601037979126
+[Health and safety at work act]: Intelligent transport systems --[Gained traction]-> New zealand 0.7780983448028564
+[Health and safety at work act]: Intelligent transport systems --[Utilizing]-> Machine learning 0.6843117475509644
+[Health and safety at work act]: Intelligent transport systems --[Improve]-> Safety 0.7384381294250488
+[Health and safety at work act]: Intelligent transport systems --[Optimize]-> Reduce travel times 0.6936265230178833
+[Health and safety at work act]: Intelligent transport systems --[Improve]-> Transportation efficiency 0.7017396688461304

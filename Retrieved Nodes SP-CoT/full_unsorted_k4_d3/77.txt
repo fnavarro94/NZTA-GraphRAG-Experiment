@@ -1,0 +1,36 @@
+In what year did the Onehunga Line get reintroduced, enhancing the connection between the two locations connected by the first railway line constructed in the country in 1873?
+None
+Seed: First railway line between auckland and onehunga in 1873
+Seed: Onehunga to the wider auckland rail network
+Seed: 1873
+Seed: Rich history of rail transport
+[First railway line between auckland and onehunga in 1873]: New zealand --[Had]-> First railway line between auckland and onehunga in 1873 0.9145550727844238
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Transport projects 0.77965247631073
+[First railway line between auckland and onehunga in 1873]: New zealand transport agency --[Oversees]-> Transport projects 0.7343164086341858
+[First railway line between auckland and onehunga in 1873]: Auckland --[Has]-> Transport projects 0.7716881036758423
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.7364295721054077
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Diverse transport network 0.765566349029541
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Post-incident review 0.6978117227554321
+[First railway line between auckland and onehunga in 1873]: Post-incident review --[Crucial for]-> Improving operational efficiency 0.6889657378196716
+[First railway line between auckland and onehunga in 1873]: Post-incident review --[Crucial for]-> Fostering culture of continuous improvement 0.693932056427002
+[First railway line between auckland and onehunga in 1873]: Post-incident review --[Aimed at]-> Recommending measures 0.697864830493927
+[First railway line between auckland and onehunga in 1873]: Post-incident review --[Crucial for]-> Enhancing safety 0.6833258867263794
+[First railway line between auckland and onehunga in 1873]: Post-incident review --[Is]-> Systematic process 0.671107292175293
+[First railway line between auckland and onehunga in 1873]: Post-incident review --[Conducted]-> Following an incident 0.688117265701294
+[First railway line between auckland and onehunga in 1873]: Post-incident review --[Aimed at]-> Analyzing circumstances 0.6870538592338562
+[First railway line between auckland and onehunga in 1873]: Post-incident review --[Aimed at]-> Identifying contributing factors 0.6961041688919067
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.7513217329978943
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.7481215000152588
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Broader environmental policies 0.7370796203613281
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Traffic congestion 0.7435712218284607
+[First railway line between auckland and onehunga in 1873]: Auckland --[Faces challenges]-> Traffic congestion 0.7281759977340698
+[First railway line between auckland and onehunga in 1873]: Wellington public transport plan --[Initiated in response to]-> Traffic congestion 0.756438136100769
+[First railway line between auckland and onehunga in 1873]: Auckland --[Has]-> Traffic congestion 0.733298122882843
+[First railway line between auckland and onehunga in 1873]: Wellington --[Has]-> Traffic congestion 0.7362372279167175
+[First railway line between auckland and onehunga in 1873]: Wellington public transport spine study --[Initiated in response to]-> Traffic congestion 0.7405188083648682
+[First railway line between auckland and onehunga in 1873]: Sustainable urban transport --[Faces challenges]-> Traffic congestion 0.7084926962852478
+[First railway line between auckland and onehunga in 1873]: New zealand --[Face]-> Traffic congestion 0.7290672659873962
+[First railway line between auckland and onehunga in 1873]: New zealand --[Address]-> Traffic congestion 0.7392575740814209
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Increasing urbanization 0.7498857975006104
+[First railway line between auckland and onehunga in 1873]: Wellington public transport plan --[Initiated in response to]-> Increasing urbanization 0.7686805129051208
+[First railway line between auckland and onehunga in 1873]: Wellington regional rail plan --[Developed in response to]-> Increasing urbanization 0.8045046329498291

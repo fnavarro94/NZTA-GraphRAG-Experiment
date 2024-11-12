@@ -1,0 +1,36 @@
+What is the definition of a road used by the Crash Analysis System (CAS)?
+None
+Seed: Guide for the interpretation of coded crash reports
+Seed: Road Safety Analysis
+Seed: Crash Analysis System
+Seed: Road Traffic Crash Data
+[Guide for the interpretation of coded crash reports]: Guide for the interpretation of coded crash reports --[AVAILABLE_AT]-> https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf 0.8188116550445557
+[Guide for the interpretation of coded crash reports]: https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf --[ACCESSIBLE]-> online 0.8101710677146912
+[Guide for the interpretation of coded crash reports]: online --[RELATES_TO]-> https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c 0.7789459228515625
+[Guide for the interpretation of coded crash reports]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.770673394203186
+[Guide for the interpretation of coded crash reports]: Response --[CONTAINS]-> Waka Kotahi 0.723639965057373
+[Guide for the interpretation of coded crash reports]: response --[CONTAINS]-> Waka Kotahi 0.7177956104278564
+[Guide for the interpretation of coded crash reports]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.7167543172836304
+[Guide for the interpretation of coded crash reports]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.7317056655883789
+[Guide for the interpretation of coded crash reports]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7613449096679688
+[Guide for the interpretation of coded crash reports]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.750389039516449
+[Guide for the interpretation of coded crash reports]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.7157893180847168
+[Guide for the interpretation of coded crash reports]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7279468774795532
+[Guide for the interpretation of coded crash reports]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.7257716059684753
+[Guide for the interpretation of coded crash reports]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.76731276512146
+[Guide for the interpretation of coded crash reports]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7504416108131409
+[Guide for the interpretation of coded crash reports]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.749413788318634
+[Guide for the interpretation of coded crash reports]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.7386186122894287
+[Guide for the interpretation of coded crash reports]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.7091888189315796
+[Guide for the interpretation of coded crash reports]: Leisa Coley --[EMPLOYED_BY]-> Waka Kotahi 0.6924126148223877
+[Guide for the interpretation of coded crash reports]: Lizette Marais --[EMPLOYED_BY]-> Waka Kotahi 0.671990156173706
+[Guide for the interpretation of coded crash reports]: Waka Kotahi --[EMPLOYS]-> Andy Knackstedt 0.6880620718002319
+[Guide for the interpretation of coded crash reports]: Waka Kotahi --[EMPLOYS]-> Qualified Staff 0.6872205138206482
+[Guide for the interpretation of coded crash reports]: website --[RELATES_TO]-> Waka Kotahi 0.7321127653121948
+[Guide for the interpretation of coded crash reports]: Waka Kotahi --[RESPONDS_TO]-> OIA request 0.7050631046295166
+[Guide for the interpretation of coded crash reports]: Waka Kotahi --[RESPONDS_TO]-> request 0.701431393623352
+[Guide for the interpretation of coded crash reports]: Waka Kotahi --[PROVIDES]-> OIA-10601-response-georgina-campbell.pdf 0.7248975038528442
+[Guide for the interpretation of coded crash reports]: Waka Kotahi --[PROVIDES]-> outcome of suspension 0.7251453399658203
+[Guide for the interpretation of coded crash reports]: Waka Kotahi --[PROVIDES]-> outcome of surrendered 0.7089055776596069
+[Guide for the interpretation of coded crash reports]: Waka Kotahi --[PROVIDES]-> information on website 0.7208342552185059
+[Guide for the interpretation of coded crash reports]: Waka Kotahi --[PROVIDES]-> outcome of revoke 0.711061954498291

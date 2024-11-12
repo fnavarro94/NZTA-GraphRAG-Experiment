@@ -1,0 +1,36 @@
+What were the safety failures identified in Go Wellington buses during the inspections in April and May 2013?
+None
+Seed: Safety Incidents
+Seed: rail operational safety
+Seed: Senior Manager Road Safety
+Seed: Vehicle Safety
+[Safety Incidents]: Health, Safety & Quality Report --[CONTAINS]-> Safety Incidents 0.8126248717308044
+[Safety Incidents]: Stephen Bell --[SUBMITS_REPORT]-> Health, Safety & Quality Report 0.7792056202888489
+[Safety Incidents]: Board --[RECEIVES_REPORT]-> Health, Safety & Quality Report 0.7784532904624939
+[Safety Incidents]: Safety Incidents --[INVESTIGATED]-> Board 0.829444169998169
+[rail operational safety]: awareness --[increased]-> rail operational safety 0.7968844175338745
+[rail operational safety]: tool box talks --[given]-> awareness 0.7300440073013306
+[rail operational safety]: State Highway 1 --[identified]-> tool box talks 0.770982027053833
+[rail operational safety]: road safety --[ENHANCED_BY]-> State Highway 1 0.7812713980674744
+[rail operational safety]: transportation infrastructure --[IMPROVES]-> road safety 0.7906287312507629
+[rail operational safety]: road maintenance --[IMPROVES]-> road safety 0.7986332178115845
+[rail operational safety]: road safety --[COLLABORATED_BY]-> Wellington City Council 0.8555494546890259
+[rail operational safety]: drugs --[AFFECTS]-> road safety 0.7839797139167786
+[rail operational safety]: road safety --[IMPROVED_BY]-> initiatives 0.7999757528305054
+[rail operational safety]: road safety --[ENHANCED_BY]-> New Zealand Transport Agency 0.8418902158737183
+[rail operational safety]: safety solutions --[IMPROVES]-> road safety 0.8005732297897339
+[rail operational safety]: road safety --[IMPROVED_BY]-> reduced speed limits 0.7846828103065491
+[rail operational safety]: speed review process --[AFFECTS]-> road safety 0.8176172375679016
+[rail operational safety]: State Highway 1 --[REPAIRS]-> potholes 0.7647852301597595
+[rail operational safety]: Road Safety Initiatives --[IMPROVES]-> State Highway 1 0.7692365646362305
+[rail operational safety]: New Zealand Transport Agency --[PROVIDES]-> Road Safety Initiatives 0.8431588411331177
+[rail operational safety]: Road Safety Initiatives --[COLLABORATED_BY]-> Wellington City Council 0.8536195158958435
+[rail operational safety]: Pedestrian and Cyclist Crashes --[ASSOCIATED_WITH]-> Road Safety Initiatives 0.8075007796287537
+[rail operational safety]: State Highway 1 --[LOCATED_IN]-> Wellington 0.8161636590957642
+[rail operational safety]: New Zealand Transport Agency --[BASED]-> Wellington 0.8688766956329346
+[rail operational safety]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.805081844329834
+[rail operational safety]: Golden Mile --[LOCATED]-> Wellington 0.7994804978370667
+[rail operational safety]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7864279747009277
+[rail operational safety]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7882303595542908
+[rail operational safety]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.8024274110794067
+[rail operational safety]: Wellington --[PART_OF]-> Wellington Region 0.8175077438354492

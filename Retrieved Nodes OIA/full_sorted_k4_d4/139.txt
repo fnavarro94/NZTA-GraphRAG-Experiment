@@ -1,0 +1,30 @@
+What was the total spending on the Let’s Get Wellington Moving Programme from January to June 2020?
+None
+Seed: itemised list of all Let’s Get Wellington Moving spending in 2020 to date
+Seed: Let’s Get Wellington Moving Programme
+Seed: bid for NZ Transport Agency funding
+Seed: update on budget and costs
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Joel MacManus --[ITEMISED]-> itemised list of all Let’s Get Wellington Moving spending in 2020 to date 0.8854416608810425
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: New Zealand Transport Agency --[PLANS_TO_SPEND]-> total amount of money 0.8518674373626709
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Let's Get Wellington Moving --[COLLABORATES_WITH]-> New Zealand Transport Agency 0.8464065790176392
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: New Zealand Transport Agency --[PROVIDES]-> funding 0.8337353467941284
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: New Zealand Transport Agency --[BASED]-> Wellington 0.8322359323501587
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: New Zealand Transport Agency --[SPENT]-> $6,639,308.51 0.8313444256782532
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: New Zealand Transport Agency --[PROVIDES]-> update on budget and costs 0.829887330532074
+[Let’s Get Wellington Moving Programme]: Let’s Get Wellington Moving Programme --[INVESTMENT]-> $6.4 billion 0.8906567096710205
+[Let’s Get Wellington Moving Programme]: Let’s Get Wellington Moving Programme --[PLAN]-> large, complex, and ambitious plan 0.8681885600090027
+[Let’s Get Wellington Moving Programme]: Let’s Get Wellington Moving Programme --[RESPONSIBLE]-> improve the experience of all Wellingtonians as they move around the city 0.8380661010742188
+[bid for NZ Transport Agency funding]: New Zealand Transport Agency --[PLANS_TO_SPEND]-> total amount of money 0.8518674373626709
+[bid for NZ Transport Agency funding]: Let's Get Wellington Moving --[COLLABORATES_WITH]-> New Zealand Transport Agency 0.8464065790176392
+[bid for NZ Transport Agency funding]: New Zealand Transport Agency --[PROVIDES]-> funding 0.8337353467941284
+[bid for NZ Transport Agency funding]: New Zealand Transport Agency --[BASED]-> Wellington 0.8322359323501587
+[bid for NZ Transport Agency funding]: New Zealand Transport Agency --[SPENT]-> $6,639,308.51 0.8313444256782532
+[bid for NZ Transport Agency funding]: New Zealand Transport Agency --[PROVIDES]-> update on budget and costs 0.829887330532074
+[bid for NZ Transport Agency funding]: Auckland Transport --[PROVIDES]-> funding 0.8275618553161621
+[update on budget and costs]: Joel MacManus --[ITEMISED]-> itemised list of all Let’s Get Wellington Moving spending in 2020 to date 0.8854416608810425
+[update on budget and costs]: New Zealand Transport Agency --[PLANS_TO_SPEND]-> total amount of money 0.8518674373626709
+[update on budget and costs]: Let's Get Wellington Moving --[COLLABORATES_WITH]-> New Zealand Transport Agency 0.8464065790176392
+[update on budget and costs]: Let's Get Wellington Moving --[HAS_COMPONENT]-> Early Delivery Thorndon Quay and Hutt Road 0.834073543548584
+[update on budget and costs]: New Zealand Transport Agency --[PROVIDES]-> funding 0.8337353467941284
+[update on budget and costs]: Let's Get Wellington Moving --[HAS_COMPONENT]-> Managing Travel Demand 0.833640456199646
+[update on budget and costs]: New Zealand Transport Agency --[BASED]-> Wellington 0.8322359323501587

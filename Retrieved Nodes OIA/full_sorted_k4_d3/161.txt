@@ -1,0 +1,28 @@
+How many complaints were made to the NZTA regarding threats or attacks against examiners during driving tests in recent years?
+None
+Seed: Speed and Drunk Driving Enforcement
+Seed: 196 complaints about Uber drivers
+Seed: national, regional and local road safety promotion and education campaigns
+Seed: information related to criminal convictions of driving instructor (I) endorsement holders
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[PROVIDES]-> https://www.nzta.govt.nz/assets/resources/road-policing-programme/docs/rpp-2021-24.pdf 0.827177882194519
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[DOUBLES]-> Speed and Drunk Driving Enforcement 0.7969679832458496
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[FOCUSES_ON]-> Restraints, Impairment, Distraction, Speed 0.7843165397644043
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[PROVIDES]-> Road Policing Activities 0.7802242636680603
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[ALLOCATES]-> $1.24 billion 0.7560480237007141
+[196 complaints about Uber drivers]: questions and responses --[FROM]-> NZ Transport Agency 0.8738451600074768
+[196 complaints about Uber drivers]: Audits, Reviews, Investigations --[CONDUCTED_BY]-> New Zealand Transport Agency 0.8723768591880798
+[196 complaints about Uber drivers]: NZ Transport Agency --[REVIEWS]-> risk rating 0.8670983910560608
+[196 complaints about Uber drivers]: risk rating --[REVIEWED_BY]-> NZ Transport Agency 0.8639086484909058
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[RESPONDED]-> complaint 0.8634252548217773
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[ASSOCIATED]-> Review of 850 open compliance files 0.8632322549819946
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[REVIEWED]-> 850 open compliance files 0.8620015382766724
+[national, regional and local road safety promotion and education campaigns]: Traffic Crash Reports --[RECEIVED_FROM]-> NZ Police 0.8565367460250854
+[national, regional and local road safety promotion and education campaigns]: NZ Police --[INVESTIGATES]-> road traffic crashes 0.8536644577980042
+[national, regional and local road safety promotion and education campaigns]: New Zealand Transport Agency --[PUBLISHES]-> response 0.8461344242095947
+[national, regional and local road safety promotion and education campaigns]: NZ Police --[PROVIDES]-> Traffic Crash Reports 0.8459323644638062
+[national, regional and local road safety promotion and education campaigns]: Traffic Crash Report --[RECEIVED_FROM]-> NZ Police 0.8456487655639648
+[national, regional and local road safety promotion and education campaigns]: New Zealand Transport Agency --[PUBLISH]-> response 0.844684362411499
+[national, regional and local road safety promotion and education campaigns]: New Zealand Transport Agency --[PROVIDES]-> response 0.8439025282859802
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[RESPONDS]-> request for information 0.8365856409072876
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Michael Morrah --[REQUESTS]-> information related to criminal convictions of driving instructor (I) endorsement holders 0.8200572729110718
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Michael Morrah --[SUBMITTED]-> request for information 0.7563769221305847

@@ -1,0 +1,34 @@
+Was Higgins Concrete Ltd engaged in any NZTA projects during the audit period?
+None
+Seed: information on Higgins Ltd projects
+Seed: information on Higgins Wellington projects
+Seed: Higgins Concrete Limited
+Seed: Higgins Group Holdings Limited
+[information on Higgins Ltd projects]: Higgins Concrete Limited --[ENGAGED]-> New Zealand Transport Agency 0.8889854550361633
+[information on Higgins Ltd projects]: New Zealand Transport Agency --[PROVIDES]-> information on Higgins Ltd projects 0.8874444961547852
+[information on Higgins Ltd projects]: New Zealand Transport Agency --[PROVIDES]-> information on Higgins Wellington projects 0.8744159936904907
+[information on Higgins Ltd projects]: Higgins Ltd --[CONTRACTED_BY]-> New Zealand Transport Agency 0.8714506030082703
+[information on Higgins Ltd projects]: Higgins Ltd --[CONTRACTED]-> New Zealand Transport Agency 0.8708371520042419
+[information on Higgins Ltd projects]: Higgins Group Holdings Limited --[CONTRACTED]-> New Zealand Transport Agency 0.8699682950973511
+[information on Higgins Ltd projects]: New Zealand Transport Agency --[INVESTIGATES]-> Higgins Ltd 0.8676007986068726
+[information on Higgins Wellington projects]: Higgins Concrete Limited --[ENGAGED]-> New Zealand Transport Agency 0.8889854550361633
+[information on Higgins Wellington projects]: New Zealand Transport Agency --[PROVIDES]-> information on Higgins Ltd projects 0.8874444961547852
+[information on Higgins Wellington projects]: New Zealand Transport Agency --[PROVIDES]-> information on Higgins Wellington projects 0.8744159936904907
+[information on Higgins Wellington projects]: Higgins Ltd --[CONTRACTED_BY]-> New Zealand Transport Agency 0.8714506030082703
+[information on Higgins Wellington projects]: Higgins Ltd --[CONTRACTED]-> New Zealand Transport Agency 0.8708371520042419
+[information on Higgins Wellington projects]: Higgins Group Holdings Limited --[CONTRACTED]-> New Zealand Transport Agency 0.8699682950973511
+[information on Higgins Wellington projects]: New Zealand Transport Agency --[INVESTIGATES]-> Higgins Ltd 0.8676007986068726
+[Higgins Concrete Limited]: Higgins Concrete Limited --[ENGAGED]-> New Zealand Transport Agency 0.8889854550361633
+[Higgins Concrete Limited]: New Zealand Transport Agency --[PROVIDES]-> information on Higgins Ltd projects 0.8874444961547852
+[Higgins Concrete Limited]: New Zealand Transport Agency --[PROVIDES]-> information on Higgins Wellington projects 0.8744159936904907
+[Higgins Concrete Limited]: Higgins Ltd --[CONTRACTED_BY]-> New Zealand Transport Agency 0.8714506030082703
+[Higgins Concrete Limited]: Higgins Ltd --[CONTRACTED]-> New Zealand Transport Agency 0.8708371520042419
+[Higgins Concrete Limited]: Higgins Group Holdings Limited --[CONTRACTED]-> New Zealand Transport Agency 0.8699682950973511
+[Higgins Concrete Limited]: New Zealand Transport Agency --[INVESTIGATES]-> Higgins Ltd 0.8676007986068726
+[Higgins Group Holdings Limited]: Higgins Concrete Limited --[ENGAGED]-> New Zealand Transport Agency 0.8889854550361633
+[Higgins Group Holdings Limited]: New Zealand Transport Agency --[PROVIDES]-> information on Higgins Ltd projects 0.8874444961547852
+[Higgins Group Holdings Limited]: New Zealand Transport Agency --[PROVIDES]-> information on Higgins Wellington projects 0.8744159936904907
+[Higgins Group Holdings Limited]: Higgins Ltd --[CONTRACTED_BY]-> New Zealand Transport Agency 0.8714506030082703
+[Higgins Group Holdings Limited]: Higgins Ltd --[CONTRACTED]-> New Zealand Transport Agency 0.8708371520042419
+[Higgins Group Holdings Limited]: Higgins Group Holdings Limited --[CONTRACTED]-> New Zealand Transport Agency 0.8699682950973511
+[Higgins Group Holdings Limited]: New Zealand Transport Agency --[INVESTIGATES]-> Higgins Ltd 0.8676007986068726

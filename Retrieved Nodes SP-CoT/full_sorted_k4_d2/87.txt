@@ -1,0 +1,34 @@
+I'm sorry, but the raw question you provided is incomplete. Could you please provide the missing information so I can form a complete and accurate natural question for you?
+None
+Seed: Paramount importance
+Seed: Cultural factors
+Seed: Ecological factors
+Seed: Environmental concerns
+[Paramount importance]: Road infrastructure resilience --[Is]-> Paramount importance 0.7861039042472839
+[Paramount importance]: Road infrastructure resilience --[Poses]-> Significant challenge 0.776275634765625
+[Paramount importance]: Road infrastructure resilience --[Necessitates]-> Proactive approach 0.775198221206665
+[Paramount importance]: Road infrastructure resilience --[Requires]-> Comprehensive approach 0.7710429430007935
+[Paramount importance]: Road infrastructure resilience --[Encompasses]-> Community engagement 0.7709701061248779
+[Paramount importance]: Road infrastructure resilience --[Encompasses]-> Climate adaptation 0.7683579325675964
+[Paramount importance]: Road infrastructure resilience --[Is]-> New zealand 0.768220067024231
+[Cultural factors]: Teia --[Includes]-> Ecological factors 0.8074631690979004
+[Cultural factors]: Teia --[Includes]-> Cultural factors 0.8063626289367676
+[Cultural factors]: Teia --[Includes]-> Social factors 0.7971085906028748
+[Cultural factors]: Teia --[Includes]-> Economic factors 0.7943419814109802
+[Cultural factors]: Teia --[Is]-> Critical framework 0.7796509265899658
+[Cultural factors]: Teia --[Used in]-> New zealand 0.7788946628570557
+[Cultural factors]: Teia --[Governed by]-> Resource management act 1991 0.7676368951797485
+[Ecological factors]: Teia --[Includes]-> Ecological factors 0.8074631690979004
+[Ecological factors]: Teia --[Includes]-> Cultural factors 0.8063626289367676
+[Ecological factors]: Teia --[Includes]-> Social factors 0.7971085906028748
+[Ecological factors]: Teia --[Includes]-> Economic factors 0.7943419814109802
+[Ecological factors]: Teia --[Is]-> Critical framework 0.7796509265899658
+[Ecological factors]: Teia --[Used in]-> New zealand 0.7788946628570557
+[Ecological factors]: Teia --[Governed by]-> Resource management act 1991 0.7676368951797485
+[Environmental concerns]: New zealand --[Has]-> Significant issue 0.8074634671211243
+[Environmental concerns]: New zealand --[Has]-> Dispersed population 0.8037899732589722
+[Environmental concerns]: New zealand --[Characterized by]-> Dispersed population 0.802230179309845
+[Environmental concerns]: New zealand --[Has]-> Remote regions 0.8014132976531982
+[Environmental concerns]: New zealand --[Has]-> Low-income populations 0.7951650619506836
+[Environmental concerns]: New zealand --[Is vulnerable to]-> Natural hazards 0.7928791046142578
+[Environmental concerns]: New zealand --[Has]-> Coastal areas 0.7926446199417114

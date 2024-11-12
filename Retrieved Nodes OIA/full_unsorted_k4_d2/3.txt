@@ -1,0 +1,36 @@
+What is the crash history for the SH2/SH53 intersection in Featherston over the past 10 years?
+None
+Seed: SH2 and SH53 in Featherston
+Seed: intersection of SH2 and SH53
+Seed: Traffic Crash Reports
+Seed: traffic crash data
+[SH2 and SH53 in Featherston]: SH2 and SH53 in Featherston --[INTERSECTS]-> Road 0.922809898853302
+[SH2 and SH53 in Featherston]: Road --[DEFINITION]-> Street, motorway or beach 0.7594389319419861
+[SH2 and SH53 in Featherston]: Road --[DEFINITION]-> Public car park 0.760178804397583
+[SH2 and SH53 in Featherston]: Crash --[MUST_OCCUR]-> Road 0.8189182281494141
+[SH2 and SH53 in Featherston]: Road --[DEFINITION]-> Place to which the public have access with a motor vehicle 0.7683207392692566
+[SH2 and SH53 in Featherston]: Road --[DEFINITION]-> any street, motorway or beach, or a place to which the public have access with a motor vehicle, whether as of right or not e.g. a public car park. 0.7481948137283325
+[SH2 and SH53 in Featherston]: CAS --[DEFINES]-> Road 0.7513808012008667
+[SH2 and SH53 in Featherston]: Road --[DEFINED_BY]-> CAS 0.7604031562805176
+[SH2 and SH53 in Featherston]: Road --[ACCESSIBLE_BY]-> Motor Vehicle 0.773216724395752
+[SH2 and SH53 in Featherston]: Motor Vehicle --[ACCESS]-> Road 0.7991108298301697
+[SH2 and SH53 in Featherston]: Crash Data --[LIMITED_TO]-> SH2 and SH53 in Featherston 0.8665138483047485
+[SH2 and SH53 in Featherston]: Crash Data --[RELATES_TO]-> Bay of Plenty Region 0.7710574865341187
+[SH2 and SH53 in Featherston]: Crash Data --[FILTERED_BY]-> Factor 103 0.7751638889312744
+[SH2 and SH53 in Featherston]: Traffic Crash Report --[CONTAINS]-> Crash Data 0.8082147836685181
+[SH2 and SH53 in Featherston]: Crash Data --[RELATES_TO]-> Pedestrian and Cyclist Crashes 0.8188461065292358
+[SH2 and SH53 in Featherston]: Free Text --[CONTAINS]-> Crash Data 0.7617080211639404
+[SH2 and SH53 in Featherston]: New Zealand Transport Agency Waka Kotahi --[PROVIDES]-> Crash Data 0.8071407079696655
+[SH2 and SH53 in Featherston]: Traffic Crash Report --[RECORDS]-> Crash Data 0.8093826174736023
+[intersection of SH2 and SH53]: no fatal, serious or minor injury crashes --[OCCURRED]-> intersection of SH2 and SH53 0.8890056610107422
+[intersection of SH2 and SH53]: past 10 years --[INCLUDES]-> no fatal, serious or minor injury crashes 0.8222920298576355
+[intersection of SH2 and SH53]: intersection of SH2 and SH53 --[LOCATED_IN]-> Featherston 0.8975452184677124
+[intersection of SH2 and SH53]: Featherston --[RAISED_CROSSINGS]-> staged way over time 0.8136658072471619
+[intersection of SH2 and SH53]: Featherston --[RANKING]-> not in the top 200 high risk intersections 0.8379446268081665
+[intersection of SH2 and SH53]: Featherston --[RAISED_CROSSINGS]-> five 0.8031608462333679
+[intersection of SH2 and SH53]: Featherston --[RAISED_CROSSINGS]-> one crossing near SH2/Lyon Street/Birdwood Street intersection 0.8615763783454895
+[intersection of SH2 and SH53]: Featherston --[PART_OF]-> New Zealand 0.8377754092216492
+[intersection of SH2 and SH53]: Featherston --[HAS_SPEED_LIMIT]-> 40km/h 0.858863353729248
+[intersection of SH2 and SH53]: Featherston --[RAISED_CROSSINGS]-> two new crossings 0.8121663331985474
+[intersection of SH2 and SH53]: Featherston --[RAISED_CROSSINGS]-> SH2 and SH53 0.8653592467308044
+[intersection of SH2 and SH53]: Featherston --[RAISED_CROSSINGS]-> one crossing near Daniell Street 0.8294346928596497

@@ -1,0 +1,36 @@
+Which companies were involved in the development of the Greater Christchurch Mass Rapid Transit Business Case?
+None
+Seed: costing information for Greater Christchurch Mass Rapid Transit
+Seed: cost breakdown for Greater Christchurch Mass Rapid Transit
+Seed: investigating transport companies
+Seed: Investigating transport companies
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[PROVIDES]-> costing information for Greater Christchurch Mass Rapid Transit 0.8558987379074097
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8150075674057007
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[BASED]-> Wellington 0.8138598203659058
+[costing information for Greater Christchurch Mass Rapid Transit]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7597814202308655
+[costing information for Greater Christchurch Mass Rapid Transit]: Golden Mile --[LOCATED]-> Wellington 0.7561289072036743
+[costing information for Greater Christchurch Mass Rapid Transit]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7383843660354614
+[costing information for Greater Christchurch Mass Rapid Transit]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7465379238128662
+[costing information for Greater Christchurch Mass Rapid Transit]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.735798716545105
+[costing information for Greater Christchurch Mass Rapid Transit]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7649595141410828
+[costing information for Greater Christchurch Mass Rapid Transit]: Wellington --[PART_OF]-> Wellington Region 0.774016261100769
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand --[HAS_CAPITAL]-> Wellington 0.794822633266449
+[costing information for Greater Christchurch Mass Rapid Transit]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7734115123748779
+[costing information for Greater Christchurch Mass Rapid Transit]: Wellington --[HAS]-> tunnel 0.7728009819984436
+[costing information for Greater Christchurch Mass Rapid Transit]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7872470021247864
+[costing information for Greater Christchurch Mass Rapid Transit]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7629514932632446
+[costing information for Greater Christchurch Mass Rapid Transit]: Wellington --[POSTCODE]-> 6141 0.7432036399841309
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.8102328777313232
+[costing information for Greater Christchurch Mass Rapid Transit]: Wellington --[IS_PART_OF]-> New Zealand 0.7725421190261841
+[costing information for Greater Christchurch Mass Rapid Transit]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7744473814964294
+[costing information for Greater Christchurch Mass Rapid Transit]: 50 Victoria Street --[IN]-> Wellington 0.7508937120437622
+[costing information for Greater Christchurch Mass Rapid Transit]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7498455047607422
+[costing information for Greater Christchurch Mass Rapid Transit]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7443360090255737
+[costing information for Greater Christchurch Mass Rapid Transit]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7613014578819275
+[costing information for Greater Christchurch Mass Rapid Transit]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7918025255203247
+[costing information for Greater Christchurch Mass Rapid Transit]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7824218273162842
+[costing information for Greater Christchurch Mass Rapid Transit]: NZ Transport Agency --[LOCATED]-> Wellington 0.8158799409866333
+[costing information for Greater Christchurch Mass Rapid Transit]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7617734670639038
+[costing information for Greater Christchurch Mass Rapid Transit]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7517627477645874
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand --[CONTAINS]-> Wellington 0.7666535377502441
+[costing information for Greater Christchurch Mass Rapid Transit]: Wellington --[PART_OF]-> New Zealand 0.772182285785675

@@ -1,0 +1,30 @@
+What is the abbreviation commonly used for the legislation in New Zealand that focuses on ensuring the health and safety of workers in the transport sector?
+None
+Seed: Health and safety at work act
+Seed: Health and safety at work act 2015
+Seed: Legislative framework for road safety initiatives
+Seed: Critical aspect of transport management in new zealand
+[Health and safety at work act]: Health and safety at work act --[Year]-> 2015 0.8642112612724304
+[Health and safety at work act]: Electronic stability control --[Required in]-> 2015 0.7380945682525635
+[Health and safety at work act]: Te ara i whiti --[Opened in]-> 2015 0.708116888999939
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Applies to]-> Road transport 0.8889070749282837
+[Health and safety at work act 2015]: Rail transport safety --[Governed by]-> Health and safety at work act 2015 0.8773820400238037
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Is]-> Key piece of legislation 0.8742935657501221
+[Health and safety at work act 2015]: New zealand --[Has]-> Road transport 0.8739811182022095
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Applies to]-> Rail 0.8708305954933167
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Applies to]-> Maritime 0.8602846264839172
+[Health and safety at work act 2015]: Road transport --[Is]-> Most widely used mode of transport in new zealand 0.8581123352050781
+[Legislative framework for road safety initiatives]: Road safety legislation --[Governed by]-> Land transport act 1998 0.8751996755599976
+[Legislative framework for road safety initiatives]: Road transport safety --[Governed by]-> Land transport act 1998 0.8729181885719299
+[Legislative framework for road safety initiatives]: New zealand --[Has]-> Land transport act 1998 0.871860921382904
+[Legislative framework for road safety initiatives]: New zealand --[Governed by]-> Land transport act 1998 0.8642799258232117
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Provides]-> Legislative framework for road safety initiatives 0.863045871257782
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Outlines]-> Road safety 0.860679030418396
+[Legislative framework for road safety initiatives]: Vehicle safety standards --[Are overseen by]-> Land transport act 1998 0.8505587577819824
+[Critical aspect of transport management in new zealand]: Heavy vehicle safety --[Is]-> Critical aspect of transport management in new zealand 0.8750824332237244
+[Critical aspect of transport management in new zealand]: Road condition monitoring --[Is]-> Critical aspect of transport management in new zealand 0.842606782913208
+[Critical aspect of transport management in new zealand]: Heavy vehicle safety --[Is]-> Essential for the movement of goods and passengers across the nation 0.8128798007965088
+[Critical aspect of transport management in new zealand]: Heavy vehicle safety --[Poses]-> Substantial risks on the road 0.8109431266784668
+[Critical aspect of transport management in new zealand]: Road condition monitoring --[Helps]-> Prevent accidents and ensure the safety of road users 0.7888444066047668
+[Critical aspect of transport management in new zealand]: Road condition monitoring --[Contributes]-> To the overall efficiency of the transport network 0.7845242023468018
+[Critical aspect of transport management in new zealand]: Road condition monitoring --[Involves]-> Systematic collection and analysis of data related to the physical state of roadways 0.7785249948501587

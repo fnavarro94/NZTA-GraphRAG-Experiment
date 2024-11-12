@@ -1,0 +1,36 @@
+In what year did the airline that provides domestic air travel services between the two main islands of New Zealand, where the transport system facilitates the movement of people and goods, become established?
+None
+Seed: Flagship airline of new zealand
+Seed: Domestic flights to major cities across new zealand
+Seed: Significant air and maritime transport services
+Seed: Domestic and international travel
+[Flagship airline of new zealand]: Air new zealand --[Is]-> Flagship airline of new zealand 0.865277886390686
+[Flagship airline of new zealand]: Air new zealand --[Operates]-> Boeing 787 dreamliners 0.8387883305549622
+[Flagship airline of new zealand]: Air new zealand --[Member of]-> Star alliance 0.8310976624488831
+[Flagship airline of new zealand]: Air new zealand --[Operates]-> Modern fleet of aircraft 0.8581469655036926
+[Flagship airline of new zealand]: Air new zealand --[Headquartered in]-> Auckland 0.853702962398529
+[Flagship airline of new zealand]: Air new zealand --[Aligns with]-> New zealand's broader environmental goals 0.8228846788406372
+[Flagship airline of new zealand]: Air new zealand --[Continues to evolve in response to]-> Dynamic landscape of global aviation 0.8450814485549927
+[Flagship airline of new zealand]: Air new zealand --[Implemented]-> Various initiatives aimed at improving fuel efficiency 0.8102697730064392
+[Flagship airline of new zealand]: Air new zealand --[Reflects]-> Airline's responsibility as a key player in the transport sector 0.8487309217453003
+[Flagship airline of new zealand]: Air new zealand --[Known for]-> Innovative approach to customer service and safety 0.8615710735321045
+[Flagship airline of new zealand]: Air new zealand --[Operates]-> Airbus a320s 0.8419254422187805
+[Flagship airline of new zealand]: Air new zealand --[Expanded services to include]-> Long-haul international flights 0.8571822643280029
+[Flagship airline of new zealand]: Air new zealand --[Invested in]-> Sustainable aviation fuel 0.8270034790039062
+[Flagship airline of new zealand]: Air new zealand --[Contributes significantly to]-> Country's economy and connectivity 0.8571964502334595
+[Flagship airline of new zealand]: Air new zealand --[Established in]-> 1940 0.8771626353263855
+[Flagship airline of new zealand]: Air new zealand --[Plays crucial role in]-> Connecting new zealand's remote regions with major urban centers 0.8528847098350525
+[Flagship airline of new zealand]: Air new zealand --[Remains]-> Cornerstone of new zealand's transport infrastructure 0.8470095992088318
+[Flagship airline of new zealand]: Air new zealand --[Committed to]-> Sustainability and reducing its carbon footprint 0.8176059126853943
+[Flagship airline of new zealand]: Air new zealand --[Operates]-> Numerous routes connecting major cities and regional centers 0.8600308895111084
+[Flagship airline of new zealand]: Air new zealand --[Expanded]-> Domestic air services 0.8868155479431152
+[Flagship airline of new zealand]: Air new zealand --[Introduced]-> Jet aircraft 0.8402962684631348
+[Flagship airline of new zealand]: Teal --[Became]-> Air new zealand 0.8441056609153748
+[Domestic flights to major cities across new zealand]: Wellington international airport --[Provides]-> Domestic flights to major cities across new zealand 0.8501487374305725
+[Domestic flights to major cities across new zealand]: Wellington international airport --[Provides]-> International flights to australia and the south pacific 0.8358721137046814
+[Domestic flights to major cities across new zealand]: Wellington international airport --[Is]-> Primary airport serving the city 0.8089959025382996
+[Domestic flights to major cities across new zealand]: Wellington international airport --[Located]-> Just 8 kilometers from the central business district 0.8121461868286133
+[Domestic flights to major cities across new zealand]: Wellington international airport --[Known for]-> Unique location 0.813398003578186
+[Domestic flights to major cities across new zealand]: Wellington international airport --[Situated on]-> Narrow strip of land between the hills and the sea 0.8289012312889099
+[Domestic flights to major cities across new zealand]: Wellington international airport --[Presents challenges for]-> Both takeoff and landing 0.7909820079803467
+[Significant air and maritime transport services]: New zealand --[Has]-> Significant air and maritime transport services 0.8809682130813599

@@ -1,0 +1,34 @@
+Who developed the initiative that focuses on improving public transport services and infrastructure in Wellington to enhance the travel experience for users?
+None
+Seed: Enhance and optimize public transport services
+Seed: Improving public transport services
+Seed: Promoting public transport initiatives
+Seed: Enhancing public transport infrastructure
+[Enhance and optimize public transport services]: Wellington regional public transport plan --[Aims to]-> Enhance and optimize public transport services 0.8979427218437195
+[Enhance and optimize public transport services]: Wellington --[Focused on]-> Enhancing its transport infrastructure 0.897813081741333
+[Enhance and optimize public transport services]: Wellington public transport plan --[Key initiatives include]-> Infrastructure upgrades 0.8958548307418823
+[Enhance and optimize public transport services]: Wellington public transport plan --[Key initiatives include]-> Smart ticketing systems 0.8957562446594238
+[Enhance and optimize public transport services]: Wellington public transport plan --[Objectives include]-> Enhancing service quality 0.8931251168251038
+[Enhance and optimize public transport services]: Wellington public transport plan --[Initiated in response to]-> Increasing urbanization 0.8902913928031921
+[Enhance and optimize public transport services]: Wellington public transport plan --[Aimed at]-> Enhancing efficiency 0.8897229433059692
+[Improving public transport services]: Wellington regional public transport plan --[Aims to]-> Enhance and optimize public transport services 0.8979427218437195
+[Improving public transport services]: Wellington --[Focused on]-> Enhancing its transport infrastructure 0.897813081741333
+[Improving public transport services]: Wellington public transport plan --[Key initiatives include]-> Infrastructure upgrades 0.8958548307418823
+[Improving public transport services]: Wellington public transport plan --[Key initiatives include]-> Smart ticketing systems 0.8957562446594238
+[Improving public transport services]: Wellington public transport plan --[Objectives include]-> Enhancing service quality 0.8931251168251038
+[Improving public transport services]: Wellington public transport plan --[Initiated in response to]-> Increasing urbanization 0.8902913928031921
+[Improving public transport services]: Wellington public transport plan --[Aimed at]-> Enhancing efficiency 0.8897229433059692
+[Promoting public transport initiatives]: Wellington regional public transport plan --[Aims to]-> Enhance and optimize public transport services 0.8979427218437195
+[Promoting public transport initiatives]: Wellington --[Focused on]-> Enhancing its transport infrastructure 0.897813081741333
+[Promoting public transport initiatives]: Wellington public transport plan --[Key initiatives include]-> Infrastructure upgrades 0.8958548307418823
+[Promoting public transport initiatives]: Wellington public transport plan --[Key initiatives include]-> Smart ticketing systems 0.8957562446594238
+[Promoting public transport initiatives]: Wellington public transport plan --[Objectives include]-> Enhancing service quality 0.8931251168251038
+[Promoting public transport initiatives]: Wellington public transport plan --[Initiated in response to]-> Increasing urbanization 0.8902913928031921
+[Promoting public transport initiatives]: Wellington public transport plan --[Aimed at]-> Enhancing efficiency 0.8897229433059692
+[Enhancing public transport infrastructure]: Wellington regional public transport plan --[Aims to]-> Enhance and optimize public transport services 0.8979427218437195
+[Enhancing public transport infrastructure]: Wellington --[Focused on]-> Enhancing its transport infrastructure 0.897813081741333
+[Enhancing public transport infrastructure]: Wellington public transport plan --[Key initiatives include]-> Infrastructure upgrades 0.8958548307418823
+[Enhancing public transport infrastructure]: Wellington public transport plan --[Key initiatives include]-> Smart ticketing systems 0.8957562446594238
+[Enhancing public transport infrastructure]: Wellington public transport plan --[Objectives include]-> Enhancing service quality 0.8931251168251038
+[Enhancing public transport infrastructure]: Wellington public transport plan --[Initiated in response to]-> Increasing urbanization 0.8902913928031921
+[Enhancing public transport infrastructure]: Wellington public transport plan --[Aimed at]-> Enhancing efficiency 0.8897229433059692

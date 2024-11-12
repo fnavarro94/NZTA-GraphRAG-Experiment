@@ -1,0 +1,34 @@
+What percentage of a project's total budget is typically allocated to communications and public engagement on large roading projects?
+None
+Seed: 32 percent of the roading network
+Seed: wider objectives in Regional Public Transport Plans
+Seed: manage fare revenue and public transport budgets within current funding allocations
+Seed: itemised breakdown of all spending on public consultation for Golden Mile upgrades
+[32 percent of the roading network]: 32 percent of the roading network --[PAST_DESIGN_LIFE]-> design life 0.8453732132911682
+[32 percent of the roading network]: road maintenance data --[OVERDUE]-> 32 percent of the roading network 0.839047908782959
+[32 percent of the roading network]: Transport Agency --[PROVIDES]-> summary of engagement survey results 0.8305130004882812
+[32 percent of the roading network]: Road to Zero Strategy --[DEVELOPMENT_FUNDING]-> expenditure breakdown 0.8299170732498169
+[32 percent of the roading network]: 100M --[ALLOCATED_FOR]-> State Highway 1 0.8270689845085144
+[32 percent of the roading network]: Road to Zero Strategy Development --[BREAKDOWN]-> Expenditure 0.8246039152145386
+[32 percent of the roading network]: community engagement --[COST]-> $245,475 0.8223962187767029
+[wider objectives in Regional Public Transport Plans]: wider objectives in Regional Public Transport Plans --[CONTRIBUTES]-> government's transport priorities 0.8237691521644592
+[wider objectives in Regional Public Transport Plans]: manage fare revenue and public transport budgets within current funding allocations --[REQUIRES]-> standard cost scope adjustment process 0.8184453845024109
+[wider objectives in Regional Public Transport Plans]: public transport budgets --[MANAGED_BY]-> councils 0.8173267841339111
+[wider objectives in Regional Public Transport Plans]: councils --[MUST]-> manage fare revenue and public transport budgets within current funding allocations 0.8148019313812256
+[wider objectives in Regional Public Transport Plans]: underlying principles of the current policy --[CONTRIBUTES]-> wider objectives in Regional Public Transport Plans 0.8128712177276611
+[wider objectives in Regional Public Transport Plans]: fares play an important role in helping cover the cost of public transport within available budgets --[CONTRIBUTES]-> public transport budgets 0.8050857186317444
+[wider objectives in Regional Public Transport Plans]: government's transport priorities --[INCLUDES]-> fares play an important role in helping cover the cost of public transport within available budgets 0.8030875325202942
+[manage fare revenue and public transport budgets within current funding allocations]: wider objectives in Regional Public Transport Plans --[CONTRIBUTES]-> government's transport priorities 0.8237691521644592
+[manage fare revenue and public transport budgets within current funding allocations]: funding allocations --[PROVIDES]-> record $3.9 billion in public transport during this NLTP 0.8190475702285767
+[manage fare revenue and public transport budgets within current funding allocations]: manage fare revenue and public transport budgets within current funding allocations --[REQUIRES]-> standard cost scope adjustment process 0.8184453845024109
+[manage fare revenue and public transport budgets within current funding allocations]: public transport budgets --[MANAGED_BY]-> councils 0.8173267841339111
+[manage fare revenue and public transport budgets within current funding allocations]: councils --[MUST]-> manage fare revenue and public transport budgets within current funding allocations 0.8148019313812256
+[manage fare revenue and public transport budgets within current funding allocations]: underlying principles of the current policy --[CONTRIBUTES]-> wider objectives in Regional Public Transport Plans 0.8128712177276611
+[manage fare revenue and public transport budgets within current funding allocations]: fares play an important role in helping cover the cost of public transport within available budgets --[CONTRIBUTES]-> public transport budgets 0.8050857186317444
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: 32 percent of the roading network --[PAST_DESIGN_LIFE]-> design life 0.8453732132911682
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: road maintenance data --[OVERDUE]-> 32 percent of the roading network 0.839047908782959
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Transport Agency --[PROVIDES]-> summary of engagement survey results 0.8305130004882812
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Road to Zero Strategy --[DEVELOPMENT_FUNDING]-> expenditure breakdown 0.8299170732498169
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: 100M --[ALLOCATED_FOR]-> State Highway 1 0.8270689845085144
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Road to Zero Strategy Development --[BREAKDOWN]-> Expenditure 0.8246039152145386
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: community engagement --[COST]-> $245,475 0.8223962187767029

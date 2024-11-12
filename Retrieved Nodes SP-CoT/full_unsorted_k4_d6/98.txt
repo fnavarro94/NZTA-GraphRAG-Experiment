@@ -1,0 +1,36 @@
+I'm sorry, but the questions provided are too complex and convoluted for me to provide accurate answers. If you could simplify the questions or provide more context, I would be happy to help answer them.
+None
+Seed: Criticism for complexity
+Seed: Surveys
+Seed: Cultural influences
+Seed: Cultural factors
+[Criticism for complexity]: Resource management act 1991 --[Subject to]-> Criticism for complexity 0.8291789889335632
+[Criticism for complexity]: Teia --[Governed by]-> Resource management act 1991 0.7666939496994019
+[Criticism for complexity]: Teia --[Evaluates]-> Potential effects of transport projects 0.7700625658035278
+[Criticism for complexity]: Teia --[Includes]-> Economic factors 0.8027251958847046
+[Criticism for complexity]: Regional transport planning --[Considers]-> Economic factors 0.7748749256134033
+[Criticism for complexity]: Regional transport planning --[Aims to]-> Meet mobility needs of communities 0.7572582364082336
+[Criticism for complexity]: Regional transport planning --[Is]-> Critical component 0.7686904668807983
+[Criticism for complexity]: Regional transport planning --[Considers]-> Environmental factors 0.7706158757209778
+[Criticism for complexity]: Environmental factors --[Explore]-> How weather conditions influence road user behavior 0.7723331451416016
+[Criticism for complexity]: Environmental factors --[Explore]-> How road infrastructure quality influences road user behavior 0.7682408094406128
+[Criticism for complexity]: Regional transport planning --[Considers]-> Social factors 0.7808594703674316
+[Criticism for complexity]: Teia --[Includes]-> Social factors 0.807754397392273
+[Criticism for complexity]: Land transport management act 2003 --[Governs]-> Regional transport planning 0.7403125762939453
+[Criticism for complexity]: Land transport management act 2003 --[Aims to]-> Provide framework for sustainable development 0.7208499312400818
+[Criticism for complexity]: Land transport management act 2003 --[Provides for]-> Establishment of national land transport fund 0.7055680751800537
+[Criticism for complexity]: Land transport management act 2003 --[Enacted on]-> 1 july 2004 0.7267889976501465
+[Criticism for complexity]: Land transport management act 2003 --[Is]-> Key piece of legislation 0.7451445460319519
+[Criticism for complexity]: Land transport management act 2003 --[Has been updated]-> To incorporate principles of sustainability 0.7120094299316406
+[Criticism for complexity]: Land transport management act 2003 --[Has undergone]-> Several amendments to address emerging transport challenges 0.7406114339828491
+[Criticism for complexity]: Land transport management act 2003 --[Mandates]-> Involvement of various stakeholders in planning and decision-making processes 0.7384554147720337
+[Criticism for complexity]: Land transport management act 2003 --[Establishes]-> Framework for development of regional land transport plans 0.7153792381286621
+[Criticism for complexity]: Land transport management act 2003 --[Emphasizes]-> Importance of integrating land transport planning with land use planning 0.7485532760620117
+[Criticism for complexity]: National land transport programme --[Established under]-> Land transport management act 2003 0.7130409479141235
+[Criticism for complexity]: Wellington regional public transport plan --[Established under]-> Land transport management act 2003 0.7197413444519043
+[Criticism for complexity]: National land transport fund --[Established under]-> Land transport management act 2003 0.7088773846626282
+[Criticism for complexity]: Waka kotahi nz transport agency --[Established under]-> Land transport management act 2003 0.6920497417449951
+[Criticism for complexity]: Waka kotahi --[Established under]-> Land transport management act 2003 0.70287024974823
+[Criticism for complexity]: New zealand --[Has]-> Land transport management act 2003 0.7440179586410522
+[Criticism for complexity]: Land transport management act 2003 --[Marked]-> Shift towards integrated transport planning 0.7431691288948059
+[Criticism for complexity]: Land transport management act 2003 --[Governs]-> Public transport services 0.7126546502113342

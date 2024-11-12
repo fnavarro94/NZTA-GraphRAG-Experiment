@@ -1,0 +1,36 @@
+What topic does the OIA-2127 request focus on?
+None
+Seed: conflict of interest
+Seed: Conflict of interest
+Seed: public interest in accountability
+Seed: public interest in seeking and receiving confidential legal advice
+[conflict of interest]: New Zealand Transport Agency --[MANAGES]-> conflict of interest 0.7862646579742432
+[conflict of interest]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7573069334030151
+[conflict of interest]: New Zealand Transport Agency --[BASED]-> Wellington 0.7575348019599915
+[conflict of interest]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7619169354438782
+[conflict of interest]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7541245818138123
+[conflict of interest]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7452729940414429
+[conflict of interest]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7587619423866272
+[conflict of interest]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7559914588928223
+[conflict of interest]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7656806111335754
+[conflict of interest]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7616078853607178
+[conflict of interest]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7758934497833252
+[conflict of interest]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8420661687850952
+[conflict of interest]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7741836905479431
+[conflict of interest]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7935433387756348
+[conflict of interest]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7823246717453003
+[conflict of interest]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7793031334877014
+[conflict of interest]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7720664143562317
+[conflict of interest]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8269782066345215
+[conflict of interest]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7588130235671997
+[conflict of interest]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7642302513122559
+[conflict of interest]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7940455079078674
+[conflict of interest]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.758600115776062
+[conflict of interest]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8251560926437378
+[conflict of interest]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8143376111984253
+[conflict of interest]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.834718644618988
+[conflict of interest]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7456493973731995
+[conflict of interest]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7543253898620605
+[conflict of interest]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8159617185592651
+[conflict of interest]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.765466570854187
+[conflict of interest]: Senior Engineer Vehicle Standard --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7564734220504761

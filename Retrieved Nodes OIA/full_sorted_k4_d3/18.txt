@@ -1,0 +1,33 @@
+How much revenue has been collected from Clean Car penalties between 1 April and 31 May 2022?
+None
+Seed: 19,662 applications for Clean Car rebates
+Seed: 7,162 Clean Car fees
+Seed: Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below.
+Seed: manage fare revenue and public transport budgets within current funding allocations
+[19,662 applications for Clean Car rebates]: Road to Zero --[PUBLICATION]-> Government Policy Statement on Land Transport 2021 0.8084685802459717
+[19,662 applications for Clean Car rebates]: Road to Zero --[INVESTMENT]-> Government Policy Statement on Land Transport 2021 0.8083080053329468
+[19,662 applications for Clean Car rebates]: Road to Zero --[PROGRESS]-> 2022 0.801262378692627
+[19,662 applications for Clean Car rebates]: total amount of money --[FOR]-> Road to Zero 0.8009403347969055
+[19,662 applications for Clean Car rebates]: toll tariffs --[SPENT_ON]-> road maintenance 0.7998177409172058
+[19,662 applications for Clean Car rebates]: public --[AFFECTED_BY]-> public transport fare policy review 0.7992607355117798
+[19,662 applications for Clean Car rebates]: road maintenance --[FUNDED_BY]-> toll tariffs 0.7967336177825928
+[7,162 Clean Car fees]: New Zealand Transport Agency --[RESPONSE]-> Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below. 0.8401270508766174
+[7,162 Clean Car fees]: New Zealand Transport Agency --[PROVIDES]-> information to 8 May 2018 0.8089841604232788
+[7,162 Clean Car fees]: Road to Zero --[PUBLICATION]-> Government Policy Statement on Land Transport 2021 0.8084685802459717
+[7,162 Clean Car fees]: Road to Zero --[INVESTMENT]-> Government Policy Statement on Land Transport 2021 0.8083080053329468
+[7,162 Clean Car fees]: Waka Kotahi --[RECEIVED]-> 7,162 Clean Car fees 0.8049030303955078
+[7,162 Clean Car fees]: New Zealand Transport Agency --[ON_TRACK]-> transition to a fully electric vehicle fleet by 2025 0.804401159286499
+[7,162 Clean Car fees]: New Zealand Transport Agency --[PLANS_TO_SPEND]-> total amount of money 0.8031576871871948
+[Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below.]: New Zealand Transport Agency --[RESPONSE]-> Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below. 0.8401270508766174
+[Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below.]: Request made under the Official Information Act 1982 --[OFFICIAL_INFORMATION]-> Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act). 0.811955451965332
+[Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below.]: email of 12 May 2023 --[REQUESTS]-> accident or crash history 0.8109182119369507
+[Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below.]: New Zealand Transport Agency --[PROVIDES]-> information to 8 May 2018 0.8089841604232788
+[Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below.]: Waka Kotahi --[RECEIVED]-> 7,162 Clean Car fees 0.8049030303955078
+[Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below.]: New Zealand Transport Agency --[ON_TRACK]-> transition to a fully electric vehicle fleet by 2025 0.804401159286499
+[Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below.]: New Zealand Transport Agency --[PLANS_TO_SPEND]-> total amount of money 0.8031576871871948
+[manage fare revenue and public transport budgets within current funding allocations]: manage fare revenue and public transport budgets within current funding allocations --[REQUIRES]-> standard cost scope adjustment process 0.8038504123687744
+[manage fare revenue and public transport budgets within current funding allocations]: councils --[MUST]-> manage fare revenue and public transport budgets within current funding allocations 0.8035011291503906
+[manage fare revenue and public transport budgets within current funding allocations]: public transport budgets --[MANAGED_BY]-> councils 0.7802210450172424
+[manage fare revenue and public transport budgets within current funding allocations]: fares play an important role in helping cover the cost of public transport within available budgets --[CONTRIBUTES]-> public transport budgets 0.7763747572898865
+[manage fare revenue and public transport budgets within current funding allocations]: standard cost scope adjustment process --[APPLIES_TO]-> funding requests 0.7553586959838867
+[manage fare revenue and public transport budgets within current funding allocations]: funding requests --[NEEDS]-> follow the standard cost scope adjustment process 0.7495220303535461

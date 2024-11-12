@@ -1,0 +1,36 @@
+Who developed the initiative that focuses on improving public transport services and infrastructure in Wellington to enhance the travel experience for users?
+None
+Seed: Enhance and optimize public transport services
+Seed: Improving public transport services
+Seed: Promoting public transport initiatives
+Seed: Enhancing public transport infrastructure
+[Enhance and optimize public transport services]: Wellington regional public transport plan --[Aims to]-> Enhance and optimize public transport services 0.8979427218437195
+[Enhance and optimize public transport services]: Wellington regional public transport plan --[Key components]-> Community engagement 0.8676769137382507
+[Enhance and optimize public transport services]: Auckland cycling network plan --[Primary objectives]-> Community engagement 0.8262925744056702
+[Enhance and optimize public transport services]: Auckland cycling network plan --[Seeks to]-> Create cycling network 0.8063011765480042
+[Enhance and optimize public transport services]: Auckland cycling network plan --[Developed by]-> Auckland transport 0.8295241594314575
+[Enhance and optimize public transport services]: Auckland cycling network plan --[Introduced in]-> Early 2010s 0.813235342502594
+[Enhance and optimize public transport services]: Auckland cycling network plan --[Aligns with]-> New zealand's national transport objectives 0.8261775970458984
+[Enhance and optimize public transport services]: Auckland cycling network plan --[Primary objectives]-> Safety improvements 0.8098384141921997
+[Enhance and optimize public transport services]: Auckland cycling network plan --[Part of]-> Broader effort 0.8194105625152588
+[Enhance and optimize public transport services]: Auckland cycling network plan --[Primary objectives]-> Infrastructure development 0.8336790204048157
+[Enhance and optimize public transport services]: Auckland cycling network plan --[Is]-> Strategic initiative 0.8245744705200195
+[Enhance and optimize public transport services]: Auckland cycling network plan --[Primary objectives]-> Promotion of cycling 0.8050133585929871
+[Enhance and optimize public transport services]: Road safety authority --[Encourages]-> Community engagement 0.7917953729629517
+[Enhance and optimize public transport services]: Road safety authority --[Collaborates with]-> Law enforcement agencies 0.7445518970489502
+[Enhance and optimize public transport services]: Road safety authority --[Operates under]-> Ministry of transport 0.7656893730163574
+[Enhance and optimize public transport services]: Road safety authority --[Advocates for]-> Infrastructure improvements 0.8048316836357117
+[Enhance and optimize public transport services]: Road safety authority --[Emphasizes]-> Need for holistic view of road safety 0.7681419253349304
+[Enhance and optimize public transport services]: Road safety authority --[Is]-> Government agency 0.7537691593170166
+[Enhance and optimize public transport services]: Road safety authority --[Employs]-> Data-driven approach 0.7743316888809204
+[Enhance and optimize public transport services]: Road safety authority --[Collaborates with]-> Community organizations 0.7728840112686157
+[Enhance and optimize public transport services]: Road safety authority --[Aims to]-> Educate the public 0.7846184372901917
+[Enhance and optimize public transport services]: Road safety authority --[Works towards]-> Vision of safer new zealand 0.8046600818634033
+[Enhance and optimize public transport services]: Road safety authority --[Publishes]-> Reports and statistics 0.7623260021209717
+[Enhance and optimize public transport services]: Road safety authority --[Focuses on]-> Education 0.7702816724777222
+[Enhance and optimize public transport services]: Road safety authority --[Fosters]-> Culture of safety and responsibility 0.7445988655090332
+[Enhance and optimize public transport services]: Road safety authority --[Collaborates with]-> Local councils 0.7678232789039612
+[Enhance and optimize public transport services]: Road safety authority --[Responsible for]-> Promoting road safety 0.7683692574501038
+[Enhance and optimize public transport services]: Road safety authority --[Focuses on]-> Enforcement 0.7441670298576355
+[Enhance and optimize public transport services]: Road safety authority --[Focuses on]-> Engineering 0.7752584218978882
+[Enhance and optimize public transport services]: Road safety authority --[Promotes]-> Safe road practices 0.7668207883834839

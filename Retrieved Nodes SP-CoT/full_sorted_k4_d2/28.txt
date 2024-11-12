@@ -1,0 +1,28 @@
+What is the target year set by the government for achieving 100% of the light vehicle fleet being zero-emission as part of their initiatives focused on evaluating the economic implications of transport systems and policies in New Zealand?
+None
+Seed: 100% of light vehicle fleet being zero-emission by 2035
+Seed: New zealand's commitment to sustainable transport
+Seed: Target for net-zero emissions by 2050
+Seed: Achieving net-zero emissions by 2050
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Goal]-> 100% of light vehicle fleet being zero-emission by 2035 0.936819851398468
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Supported]-> Adoption of sustainable transport technologies 0.880154550075531
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Set]-> Ambitious targets to increase number of evs on the road 0.8736094236373901
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Has set]-> Ambitious targets 0.8679957389831543
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Set]-> Ambitious targets 0.8679344654083252
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Prioritizes]-> Transport research 0.8630088567733765
+[100% of light vehicle fleet being zero-emission by 2035]: New zealand government --[Recognized]-> Importance of transport equity in its transport policies 0.8626805543899536
+[New zealand's commitment to sustainable transport]: Vehicle emissions regulations --[Are]-> Critical component of new zealand's environmental policy 0.876990020275116
+[New zealand's commitment to sustainable transport]: Vehicle emissions regulations --[Reflect]-> New zealand's commitment to sustainable transport 0.8710296750068665
+[New zealand's commitment to sustainable transport]: Vehicle emissions regulations --[Reflect]-> New zealand's commitment to environmental stewardship 0.8558419346809387
+[New zealand's commitment to sustainable transport]: Vehicle emissions regulations --[Shaped by]-> National legislation 0.8337146639823914
+[New zealand's commitment to sustainable transport]: Vehicle emissions regulations --[Aim]-> Reduce air pollution 0.8202335834503174
+[New zealand's commitment to sustainable transport]: Vehicle emissions regulations --[Shaped by]-> International agreements 0.8151899576187134
+[New zealand's commitment to sustainable transport]: Vehicle emissions regulations --[Aim]-> Mitigate impacts of climate change 0.8147537112236023
+[Target for net-zero emissions by 2050]: Zero carbon act --[Sets]-> Target for net-zero emissions by 2050 0.845535159111023
+[Achieving net-zero emissions by 2050]: New zealand electric vehicle programme --[Goal]-> Supporting the transition to a low-emission economy 0.8978135585784912
+[Achieving net-zero emissions by 2050]: New zealand electric vehicle programme --[Goal]-> Achieving net-zero emissions by 2050 0.896808922290802
+[Achieving net-zero emissions by 2050]: New zealand electric vehicle programme --[Goal]-> Reducing greenhouse gas emissions 0.89155113697052
+[Achieving net-zero emissions by 2050]: New zealand electric vehicle programme --[Is]-> Government initiative 0.8845008611679077
+[Achieving net-zero emissions by 2050]: New zealand electric vehicle programme --[Goal]-> Transitioning to a more sustainable transport system 0.8803797960281372
+[Achieving net-zero emissions by 2050]: New zealand electric vehicle programme --[Part of]-> New zealand's commitment 0.8724002838134766
+[Achieving net-zero emissions by 2050]: New zealand electric vehicle programme --[Objective]-> Increasing the number of electric vehicles on new zealand roads 0.8625729084014893

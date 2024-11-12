@@ -1,0 +1,36 @@
+What does the Crash Analysis System (CAS) track with regards to incidents involving cyclists and pedestrians wearing headphones?
+None
+Seed: Pedestrian and Cyclist Crashes
+Seed: Pedestrian Safety Analysis
+Seed: figures on drivers involved in fatal crashes
+Seed: information on driver fatalities
+[Pedestrian and Cyclist Crashes]: Pedestrian and Cyclist Crashes --[ASSOCIATED_WITH]-> Headphones, Earphones, Earbuds, or Headsets 0.9088004231452942
+[Pedestrian and Cyclist Crashes]: Headphones, Earphones, Earbuds, or Headsets --[MENTIONED_IN]-> Crash Description 0.8513724207878113
+[Pedestrian and Cyclist Crashes]: Crash Description --[CONTAINS]-> Mistakes 0.7673416137695312
+[Pedestrian and Cyclist Crashes]: Mistakes --[CAUSED_BY]-> Typos 0.7126824855804443
+[Pedestrian and Cyclist Crashes]: Typos --[ASSOCIATED_WITH]-> Free Text 0.6976252794265747
+[Pedestrian and Cyclist Crashes]: Free Text --[CONTAINS]-> Crash Data 0.7652794122695923
+[Pedestrian and Cyclist Crashes]: Crash Data --[RELATES_TO]-> Pedestrian and Cyclist Crashes 0.8734562397003174
+[Pedestrian and Cyclist Crashes]: Crash Data --[RELATES_TO]-> Bay of Plenty Region 0.7799370288848877
+[Pedestrian and Cyclist Crashes]: Sat tests --[REGIONALISED_BY]-> Bay of Plenty Region 0.7244147062301636
+[Pedestrian and Cyclist Crashes]: Sat tests --[REGIONALISED_BY]-> Hawkes Bay Region 0.7379376888275146
+[Pedestrian and Cyclist Crashes]: Sat tests --[REGIONALISED_BY]-> Rotorua District 0.7246849536895752
+[Pedestrian and Cyclist Crashes]: Sat tests --[REGIONALISED_BY]-> Auckland Region 0.7252272367477417
+[Pedestrian and Cyclist Crashes]: Sat tests --[REGIONALISED_BY]-> Wanganui District 0.7304284572601318
+[Pedestrian and Cyclist Crashes]: Bay of Plenty Region --[HAS_CONTRIBUTING_FACTOR]-> Drugs proven 0.731889009475708
+[Pedestrian and Cyclist Crashes]: Crash Data --[FILTERED_BY]-> Factor 103 0.7817904353141785
+[Pedestrian and Cyclist Crashes]: Factor 103 --[CONTRIBUTES_TO]-> Crash Analysis 0.8070240616798401
+[Pedestrian and Cyclist Crashes]: Crash Analysis --[PERFORMED_BY]-> Waka Kotahi NZ Transport Agency 0.8282187581062317
+[Pedestrian and Cyclist Crashes]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7302072048187256
+[Pedestrian and Cyclist Crashes]: New Zealand Transport Agency --[BASED]-> Wellington 0.7630056142807007
+[Pedestrian and Cyclist Crashes]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7402994632720947
+[Pedestrian and Cyclist Crashes]: Golden Mile --[LOCATED]-> Wellington 0.721457839012146
+[Pedestrian and Cyclist Crashes]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7464414238929749
+[Pedestrian and Cyclist Crashes]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7293400764465332
+[Pedestrian and Cyclist Crashes]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7194538116455078
+[Pedestrian and Cyclist Crashes]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7182068228721619
+[Pedestrian and Cyclist Crashes]: Wellington --[PART_OF]-> Wellington Region 0.7380722761154175
+[Pedestrian and Cyclist Crashes]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7463504076004028
+[Pedestrian and Cyclist Crashes]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7318320870399475
+[Pedestrian and Cyclist Crashes]: Wellington --[HAS]-> tunnel 0.7491256594657898
+[Pedestrian and Cyclist Crashes]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.730086088180542

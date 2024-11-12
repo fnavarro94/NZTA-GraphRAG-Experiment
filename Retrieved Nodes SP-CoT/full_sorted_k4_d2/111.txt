@@ -1,0 +1,23 @@
+What nickname is associated with Christchurch, a key transport hub in the island where the scenic passenger rail service in New Zealand, known for showcasing stunning landscapes, particularly through the Southern Alps, is located, in contrast to the cities in New Zealand implementing extensive cycling networks and pedestrian-friendly infrastructure to address traffic congestion?
+None
+Seed: Critical link between southern suburbs and central business district
+Seed: New zealand's transport network
+Seed: Scenic routes such as the tranzalpine and the northern explorer
+Seed: Cities like christchurch
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Located in]-> South island of new zealand 0.8544971942901611
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Is]-> Significant transport infrastructure project 0.8516339063644409
+[Critical link between southern suburbs and central business district]: Christchurch --[Served by]-> Christchurch southern motorway 0.8480691313743591
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Serves as]-> Critical link between southern suburbs and central business district 0.8464218378067017
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Designed to]-> Enhance efficiency of road transport 0.836672306060791
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Key component of]-> Christchurch transport strategic plan 0.8246797323226929
+[Critical link between southern suburbs and central business district]: Christchurch southern motorway --[Was developed]-> To improve access to southern suburbs and city center 0.8194994926452637
+[New zealand's transport network]: Road infrastructure projects --[Play crucial role in]-> New zealand's transport network 0.827688455581665
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Showcase]-> New zealand's stunning landscapes 0.8763473629951477
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Include]-> Scenic routes such as the tranzalpine and the northern explorer 0.7962424755096436
+[Cities like christchurch]: Auckland transport --[Utilized]-> Vissim 0.8111022114753723
+[Cities like christchurch]: Vissim --[Application in various projects]-> Shaping the future of transport in new zealand 0.8012497425079346
+[Cities like christchurch]: Vissim --[Used in]-> Cities like christchurch 0.7992787957191467
+[Cities like christchurch]: Vissim --[Aligns with]-> New zealand's commitment to promoting sustainable transport solutions 0.7877222895622253
+[Cities like christchurch]: Vissim --[Used in]-> Cities like auckland 0.7803546190261841
+[Cities like christchurch]: Vissim --[Used in]-> Cities like wellington 0.7730050086975098
+[Cities like christchurch]: Vissim --[Widely utilized in]-> Transport planning 0.753997266292572

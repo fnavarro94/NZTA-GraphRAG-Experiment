@@ -1,0 +1,34 @@
+What international agreement does the program, established in 2010, which requires periodic testing of older vehicles to ensure they meet emissions standards throughout their operational life, align with to help limit global warming and reduce carbon emissions?
+None
+Seed: Vehicles meet specific emissions standards
+Seed: International agreements
+Seed: Paris agreement
+Seed: Commitment to reducing carbon emissions
+[Vehicles meet specific emissions standards]: Nzta --[Ensures]-> Vehicles meet specific emissions standards 0.8418089151382446
+[Vehicles meet specific emissions standards]: Nzta --[Responsible for]-> Implementing vehicle emissions regulations 0.8235540986061096
+[Vehicles meet specific emissions standards]: Nzta --[Promotes]-> Use of low-emission vehicles 0.8100212812423706
+[Vehicles meet specific emissions standards]: Nzta --[Promotes]-> Use of low-emission vehicles through various initiatives 0.8083788752555847
+[Vehicles meet specific emissions standards]: Nzta --[Enforces]-> Regular vehicle inspections and maintenance checks to ensure compliance with safety standards 0.7824928760528564
+[Vehicles meet specific emissions standards]: Nzta --[Ensures]-> Vehicles registered for use on public roads 0.7788289785385132
+[Vehicles meet specific emissions standards]: Nzta --[Actively exploring]-> Connected and autonomous vehicles 0.7741276621818542
+[International agreements]: Vehicle emissions regulations --[Shaped by]-> International agreements 0.8741125464439392
+[International agreements]: Vehicle emissions regulations --[Aim]-> Mitigate impacts of climate change 0.8505378365516663
+[International agreements]: Vehicle safety standards --[Are governed by]-> International agreements 0.8289635181427002
+[International agreements]: Vehicle emissions regulations --[Aim]-> Reduce air pollution 0.8286827802658081
+[International agreements]: Vehicle emissions regulations --[Shaped by]-> National legislation 0.8268430233001709
+[International agreements]: Vehicle emissions regulations --[Reflect]-> New zealand's commitment to environmental stewardship 0.8255754709243774
+[International agreements]: Vehicle emissions regulations --[Govern]-> Allowable levels of pollutants 0.824822723865509
+[Paris agreement]: Vehicle exhaust emissions testing programme --[Aligns with]-> Paris agreement 0.8780202865600586
+[Paris agreement]: Vehicle exhaust emissions testing programme --[Established]-> 2010 0.8711043000221252
+[Paris agreement]: Vehicle exhaust emissions testing programme --[Aligns with]-> International standards 0.8700082898139954
+[Paris agreement]: Vehicle exhaust emissions testing programme --[Mandates]-> Periodic testing of older vehicles 0.8684349656105042
+[Paris agreement]: Vehicle exhaust emissions testing programme --[Ensures]-> Vehicles continue to meet emissions standards 0.8567639589309692
+[Paris agreement]: Vehicle exhaust emissions testing programme --[Is]-> Regulatory initiative 0.8507691025733948
+[Paris agreement]: Vehicle exhaust emissions testing programme --[Has]-> Objectives 0.8499549627304077
+[Commitment to reducing carbon emissions]: Electric scooters --[Align with]-> Commitment to reducing carbon emissions 0.8330255150794983
+[Commitment to reducing carbon emissions]: New zealand --[Has]-> Commitment to reducing carbon emissions 0.8062419891357422
+[Commitment to reducing carbon emissions]: Electric scooters --[Align with]-> Promoting sustainable transport solutions 0.8040857315063477
+[Commitment to reducing carbon emissions]: New zealand --[Adopted]-> Euro emissions standards in 2004 0.7983769178390503
+[Commitment to reducing carbon emissions]: New zealand --[Transport sector]-> Significant contributor to greenhouse gas emissions 0.7979593873023987
+[Commitment to reducing carbon emissions]: New zealand --[Committed to]-> Reducing greenhouse gas emissions 0.7977815270423889
+[Commitment to reducing carbon emissions]: Vehicle technology advancements --[In]-> New zealand 0.7976118922233582

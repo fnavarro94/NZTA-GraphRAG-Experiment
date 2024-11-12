@@ -1,0 +1,32 @@
+What region does the Northern Motorway from the country known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, provide access to?
+None
+Seed: Critical component of new zealand's transport strategy
+Seed: Socio-economic indicators
+Seed: Critical aspect of transportation planning
+Seed: Critical aspect of transport management in new zealand
+[Critical component of new zealand's transport strategy]: Transport data analytics --[Gained importance]-> New zealand 0.8405036926269531
+[Critical component of new zealand's transport strategy]: New zealand --[Has]-> Regional transport planning 0.8330743312835693
+[Critical component of new zealand's transport strategy]: Nzta --[Actively exploring]-> Enhancing traffic management capabilities 0.8327263593673706
+[Critical component of new zealand's transport strategy]: New zealand road safety strategy --[Designed to]-> Create safer transport environment for all road users 0.8304284811019897
+[Critical component of new zealand's transport strategy]: Transport asset management --[In]-> New zealand 0.8293216824531555
+[Critical component of new zealand's transport strategy]: New zealand --[Is]-> Critical aspect of transport policy 0.8292551040649414
+[Critical component of new zealand's transport strategy]: Transport environmental impact assessments --[Are critical tools used in]-> New zealand 0.8272910118103027
+[Socio-economic indicators]: Transport demand forecasting --[Involves]-> Socio-economic indicators 0.8768707513809204
+[Socio-economic indicators]: Transport demand forecasting --[Is]-> Critical aspect of transportation planning 0.8682637214660645
+[Socio-economic indicators]: Transport demand forecasting --[Involves]-> Statistical models 0.857377290725708
+[Socio-economic indicators]: Transport demand forecasting --[Estimates]-> Future travel patterns 0.8561762571334839
+[Socio-economic indicators]: Transport demand forecasting --[Involves]-> Historical data 0.8532646894454956
+[Socio-economic indicators]: Transport demand forecasting --[Estimates]-> Demand for various transport services 0.8352620005607605
+[Critical aspect of transportation planning]: Transport demand forecasting --[Involves]-> Socio-economic indicators 0.8768707513809204
+[Critical aspect of transportation planning]: Transport demand forecasting --[Is]-> Critical aspect of transportation planning 0.8682637214660645
+[Critical aspect of transportation planning]: Transport demand forecasting --[Involves]-> Statistical models 0.857377290725708
+[Critical aspect of transportation planning]: Transport demand forecasting --[Estimates]-> Future travel patterns 0.8561762571334839
+[Critical aspect of transportation planning]: Transport demand forecasting --[Involves]-> Historical data 0.8532646894454956
+[Critical aspect of transportation planning]: Transport demand forecasting --[Estimates]-> Demand for various transport services 0.8352620005607605
+[Critical aspect of transport management in new zealand]: Transport sector --[Is]-> Critical component of national economy 0.843882143497467
+[Critical aspect of transport management in new zealand]: Road condition monitoring --[Is]-> Critical aspect of transport management in new zealand 0.8349149227142334
+[Critical aspect of transport management in new zealand]: Transport workforce development --[Is critical]-> To the country's economy 0.8317496180534363
+[Critical aspect of transport management in new zealand]: Heavy vehicle safety --[Is]-> Critical aspect of transport management in new zealand 0.8276796936988831
+[Critical aspect of transport management in new zealand]: Transport sector --[Uses]-> Gps technology 0.8264808058738708
+[Critical aspect of transport management in new zealand]: Road condition monitoring --[Contributes]-> To the overall efficiency of the transport network 0.8222589492797852
+[Critical aspect of transport management in new zealand]: Transport sector --[Is]-> Significant contributor to new zealand's overall emissions 0.8219369053840637

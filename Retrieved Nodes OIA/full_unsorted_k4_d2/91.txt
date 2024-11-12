@@ -1,0 +1,36 @@
+How many times has the Milford Rd closed each year for the past 5 years?
+None
+Seed: 5 years
+Seed: vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas
+Seed: resignations by year since 2014
+Seed: Milford Alliance
+[5 years]: Transport Service Licences --[ACTIVE_FOR]-> 5 years 0.8066335916519165
+[5 years]: Transport Service Licences --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7455906867980957
+[5 years]: New Zealand Transport Agency --[MANAGES]-> Transport Service Licences 0.7375841736793518
+[5 years]: Land Transport Management Act 2003 --[CITED_IN]-> Transport Service Licences 0.7484327554702759
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand Transport Agency --[PROVIDES]-> vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas 0.7861930131912231
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7566347122192383
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7673767805099487
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.76405930519104
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7463212013244629
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7539725303649902
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7634271383285522
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7653471231460571
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7713269591331482
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7714185118675232
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7487161755561829
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.740364670753479
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7538676261901855
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7699737548828125
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7468113899230957
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7555220127105713
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.754898190498352
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7421143054962158
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7499548196792603
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7788959741592407
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7423916459083557
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7548964023590088
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7419009804725647
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7536665201187134
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7623432874679565
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7387217283248901

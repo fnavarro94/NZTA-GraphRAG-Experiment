@@ -1,0 +1,36 @@
+How much has been invested in Road to Zero-related infrastructure and road policing as of February 2022?
+None
+Seed: 2023-24 State Highway Investment Proposal
+Seed: Road to Zero – Road policing
+Seed: development of the next Road to Zero Action Plan
+Seed: cost of the current Road to Zero advertising campaign
+[2023-24 State Highway Investment Proposal]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.8493120670318604
+[2023-24 State Highway Investment Proposal]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.8130553960800171
+[2023-24 State Highway Investment Proposal]: 2024-27 National Land Transport Programme --[DEVELOPMENT_OF]-> Regional Land Transport Plan 0.8175927996635437
+[2023-24 State Highway Investment Proposal]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Access and Development Programme Business Case 0.8056982755661011
+[2023-24 State Highway Investment Proposal]: Hornby Access and Development Programme Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.7861100435256958
+[2023-24 State Highway Investment Proposal]: Main South Road, Shands Road and Carmen Road intersection --[LOCATED_NEAR]-> Hornby Access and Development Programme Business Case 0.7742346525192261
+[2023-24 State Highway Investment Proposal]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Access and Development Programme Business Case 0.8461927175521851
+[2023-24 State Highway Investment Proposal]: Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.8082823157310486
+[Road to Zero – Road policing]: Road to Zero – Road policing --[INVESTMENT]-> 256.5 million 0.9066357612609863
+[Road to Zero – Road policing]: Road to Zero – Road policing --[INVESTMENT]-> 193.3 million 0.9106536507606506
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[WORKING_WITH]-> development of the next Road to Zero Action Plan 0.8278025984764099
+[development of the next Road to Zero Action Plan]: Response --[CONTAINS]-> Waka Kotahi 0.7334545850753784
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[PUBLISHES]-> Response 0.7362912893295288
+[development of the next Road to Zero Action Plan]: response --[CONTAINS]-> Waka Kotahi 0.718359112739563
+[development of the next Road to Zero Action Plan]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.7239185571670532
+[development of the next Road to Zero Action Plan]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.7351686954498291
+[development of the next Road to Zero Action Plan]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.725725531578064
+[development of the next Road to Zero Action Plan]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7327678203582764
+[development of the next Road to Zero Action Plan]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.707689642906189
+[development of the next Road to Zero Action Plan]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7119234800338745
+[development of the next Road to Zero Action Plan]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.7259354591369629
+[development of the next Road to Zero Action Plan]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.7649506330490112
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.75387042760849
+[development of the next Road to Zero Action Plan]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.7633429169654846
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.7381957769393921
+[development of the next Road to Zero Action Plan]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.729197084903717
+[development of the next Road to Zero Action Plan]: Leisa Coley --[EMPLOYED_BY]-> Waka Kotahi 0.7035950422286987
+[development of the next Road to Zero Action Plan]: Lizette Marais --[EMPLOYED_BY]-> Waka Kotahi 0.6921783089637756
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[EMPLOYS]-> Andy Knackstedt 0.6982066631317139
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[EMPLOYS]-> Qualified Staff 0.6964486837387085

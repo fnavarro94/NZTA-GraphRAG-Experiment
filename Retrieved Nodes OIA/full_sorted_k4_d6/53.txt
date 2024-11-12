@@ -1,0 +1,34 @@
+What information can be found in the Driver Licence Register (DLR)?
+None
+Seed: information on vehicle and driver registration and licensing
+Seed: information related to criminal convictions of driving instructor (I) endorsement holders
+Seed: vehicle registration and licensing
+Seed: driver licenses
+[information on vehicle and driver registration and licensing]: Driver Licence Register --[PROVIDES]-> Data 0.8830363154411316
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[PROVIDES]-> information on vehicle and driver registration and licensing 0.8656876087188721
+[information on vehicle and driver registration and licensing]: Data --[IS]-> Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019 0.860381543636322
+[information on vehicle and driver registration and licensing]: driver's licence test data --[PROVIDED]-> spreadsheet 0.8573583364486694
+[information on vehicle and driver registration and licensing]: Driving Tests Data.xlsx --[PROVIDES]-> driver's licence test statistics 0.8563559651374817
+[information on vehicle and driver registration and licensing]: Michael Morrah --[REQUESTS]-> information related to criminal convictions of driving instructor (I) endorsement holders 0.8492350578308105
+[information on vehicle and driver registration and licensing]: NZ Driver Licensing (1998) Limited --[PROVIDES]-> spreadsheet 0.8483223915100098
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Driver Licence Register --[PROVIDES]-> Data 0.8830363154411316
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[PROVIDES]-> information on vehicle and driver registration and licensing 0.8656876087188721
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Data --[IS]-> Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019 0.860381543636322
+[information related to criminal convictions of driving instructor (I) endorsement holders]: driver's licence test data --[PROVIDED]-> spreadsheet 0.8573583364486694
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Michael Morrah --[REQUESTS]-> information related to criminal convictions of driving instructor (I) endorsement holders 0.8492350578308105
+[information related to criminal convictions of driving instructor (I) endorsement holders]: NZ Driver Licensing (1998) Limited --[PROVIDES]-> spreadsheet 0.8483223915100098
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Transport Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8468036651611328
+[vehicle registration and licensing]: Driver Licence Register --[PROVIDES]-> Data 0.8830363154411316
+[vehicle registration and licensing]: New Zealand Transport Agency --[PROVIDES]-> information on vehicle and driver registration and licensing 0.8656876087188721
+[vehicle registration and licensing]: Data --[IS]-> Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019 0.860381543636322
+[vehicle registration and licensing]: driver's licence test data --[PROVIDED]-> spreadsheet 0.8573583364486694
+[vehicle registration and licensing]: Driving Tests Data.xlsx --[PROVIDES]-> driver's licence test statistics 0.8563559651374817
+[vehicle registration and licensing]: Michael Morrah --[REQUESTS]-> information related to criminal convictions of driving instructor (I) endorsement holders 0.8492350578308105
+[vehicle registration and licensing]: NZ Driver Licensing (1998) Limited --[PROVIDES]-> spreadsheet 0.8483223915100098
+[driver licenses]: driver licenses --[CONTAINS]-> annual data 0.8542440533638
+[driver licenses]: age categories --[BREAKDOWN]-> learners, restricted, full licenses and vehicle classes 0.8288129568099976
+[driver licenses]: learners, restricted, full licenses and vehicle classes --[TREND]-> increase/decrease 0.8041650652885437
+[driver licenses]: draft letter --[FROM]-> NZTA 0.7797703742980957
+[driver licenses]: withholding information --[BY]-> NZTA 0.7776132822036743
+[driver licenses]: NZTA --[TOOK_OVER]-> road 0.7770394086837769
+[driver licenses]: transport_data --[ASSOCIATED_WITH]-> NZTA 0.7716251611709595

@@ -1,0 +1,36 @@
+What is the purpose of the "Mixed? Don't Drive" campaign by Waka Kotahi?
+None
+Seed: Mixed? Don’t Drive campaign
+Seed: Waka Kotahi policy
+Seed: Waka Kotahi N Z Transport Agency
+Seed: Waka Kotahi Board
+[Mixed? Don’t Drive campaign]: Mixed? Don’t Drive campaign --[MEASURES]-> ongoing advertising tracking 0.8297359943389893
+[Mixed? Don’t Drive campaign]: ongoing advertising tracking --[TRACKS]-> public attitude 0.7411656379699707
+[Waka Kotahi policy]: Waka Kotahi --[FOLLOWS]-> Waka Kotahi policy 0.8301162719726562
+[Waka Kotahi policy]: Response --[CONTAINS]-> Waka Kotahi 0.7986851930618286
+[Waka Kotahi policy]: response --[CONTAINS]-> Waka Kotahi 0.8187158703804016
+[Waka Kotahi policy]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.8178740739822388
+[Waka Kotahi policy]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.8215152025222778
+[Waka Kotahi policy]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7974685430526733
+[Waka Kotahi policy]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.8062567710876465
+[Waka Kotahi policy]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.7911942601203918
+[Waka Kotahi policy]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7993687987327576
+[Waka Kotahi policy]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.8150963187217712
+[Waka Kotahi policy]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.8272650241851807
+[Waka Kotahi policy]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8355166912078857
+[Waka Kotahi policy]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.8131510019302368
+[Waka Kotahi policy]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.8180694580078125
+[Waka Kotahi policy]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.8048064112663269
+[Waka Kotahi policy]: Leisa Coley --[EMPLOYED_BY]-> Waka Kotahi 0.7953969240188599
+[Waka Kotahi policy]: Lizette Marais --[EMPLOYED_BY]-> Waka Kotahi 0.7929638028144836
+[Waka Kotahi policy]: Waka Kotahi --[EMPLOYS]-> Andy Knackstedt 0.7951761484146118
+[Waka Kotahi policy]: Waka Kotahi --[EMPLOYS]-> Qualified Staff 0.7820286154747009
+[Waka Kotahi policy]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.8104977011680603
+[Waka Kotahi policy]: website --[RELATES_TO]-> Waka Kotahi 0.8102566003799438
+[Waka Kotahi policy]: Waka Kotahi --[RESPONDS_TO]-> OIA request 0.7866537570953369
+[Waka Kotahi policy]: Waka Kotahi --[RESPONDS_TO]-> request 0.7831200361251831
+[Waka Kotahi policy]: Waka Kotahi --[PROVIDES]-> OIA-10601-response-georgina-campbell.pdf 0.8064258098602295
+[Waka Kotahi policy]: Waka Kotahi --[PROVIDES]-> outcome of suspension 0.8108602166175842
+[Waka Kotahi policy]: Waka Kotahi --[PROVIDES]-> outcome of surrendered 0.8048443794250488
+[Waka Kotahi policy]: Waka Kotahi --[PROVIDES]-> information on website 0.7965976595878601
+[Waka Kotahi policy]: Waka Kotahi --[PROVIDES]-> outcome of revoke 0.8040850162506104

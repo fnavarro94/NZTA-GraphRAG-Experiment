@@ -1,0 +1,36 @@
+How did the number of direct reports to the NZTA Chief Executive change from 2014 to 2016?
+None
+Seed: Annual Reports
+Seed: Annual Monitoring Report 2020
+Seed: resignations by year since 2014
+Seed: Chief Financial Officer
+[Annual Reports]: Waka Kotahi --[PUBLISHES]-> Annual Reports 0.8086501955986023
+[Annual Reports]: Response --[CONTAINS]-> Waka Kotahi 0.7506688833236694
+[Annual Reports]: Waka Kotahi --[PUBLISHES]-> Response 0.7597728371620178
+[Annual Reports]: response --[CONTAINS]-> Waka Kotahi 0.7444789409637451
+[Annual Reports]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.810771644115448
+[Annual Reports]: Charles Ronaldson --[SIGNED]-> response 0.7490196228027344
+[Annual Reports]: Lauren Cooke --[SIGNED]-> response 0.726943850517273
+[Annual Reports]: Waka Kotahi --[PUBLISHED_BY]-> response 0.7731581926345825
+[Annual Reports]: Ministry --[PROVIDE]-> response 0.7482577562332153
+[Annual Reports]: response --[REMOVED]-> personal information 0.7361854314804077
+[Annual Reports]: Waka Kotahi website --[CONTAINS]-> response 0.7411211729049683
+[Annual Reports]: New Zealand Transport Agency --[DISCUSSES]-> response 0.817497968673706
+[Annual Reports]: response --[IS_A]-> letter 0.7304813861846924
+[Annual Reports]: Waka Kotahi --[FOLLOWS]-> response 0.7469154596328735
+[Annual Reports]: New Zealand Transport Agency --[PUBLISH]-> response 0.8274962902069092
+[Annual Reports]: New Zealand Transport Agency --[PUBLISHES]-> response 0.8276386857032776
+[Annual Reports]: response --[IS]-> response letter 0.7338783740997314
+[Annual Reports]: response letter --[IS]-> response 0.7295472025871277
+[Annual Reports]: response --[CONTAINS]-> contact details for the Ombudsman 0.7531332969665527
+[Annual Reports]: response --[CONTAINS]-> Jamie Ensor 0.7373401522636414
+[Annual Reports]: response --[RELATES_TO]-> personal information removed 0.7379432916641235
+[Annual Reports]: Conan Young --[RECEIVES]-> response 0.7262890338897705
+[Annual Reports]: oia-14650-response-letter.pdf --[CONTAINS]-> response 0.7376594543457031
+[Annual Reports]: response --[IS]-> sincerely 0.7264195084571838
+[Annual Reports]: NZTA --[REPLY]-> response 0.8070499897003174
+[Annual Reports]: response --[REMOVE]-> personal information 0.7131273746490479
+[Annual Reports]: Waka Kotahi --[PUBLISHED]-> response 0.7789405584335327
+[Annual Reports]: Waka Kotahi --[PROVIDES]-> response 0.7447757720947266
+[Annual Reports]: response --[IS_PUBLISHED_ON]-> website 0.7469215393066406
+[Annual Reports]: personal information --[REMOVED]-> response 0.7342805862426758

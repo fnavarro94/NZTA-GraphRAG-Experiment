@@ -1,0 +1,21 @@
+What initiative was discussed to improve safety for visiting drivers in New Zealand?
+None
+Seed: Road safety initiatives
+Seed: Road Safety Initiatives
+Seed: road safety initiatives
+Seed: summary of the visiting drivers survey
+[Road safety initiatives]: New Zealand Transport Agency --[ASSOCIATED]-> Road safety initiatives 0.9172646999359131
+[Road safety initiatives]: Meredith Connell --[ASSOCIATED]-> Road safety initiatives 0.8463751077651978
+[Road Safety Initiatives]: New Zealand Transport Agency --[PROVIDES]-> Road Safety Initiatives 0.9103784561157227
+[Road Safety Initiatives]: Road Safety Initiatives --[IMPROVES]-> State Highway 1 0.8599668145179749
+[Road Safety Initiatives]: Road Safety Initiatives --[COLLABORATED_BY]-> Wellington City Council 0.8930743932723999
+[Road Safety Initiatives]: Pedestrian and Cyclist Crashes --[ASSOCIATED_WITH]-> Road Safety Initiatives 0.8593689203262329
+[road safety initiatives]: road safety initiatives --[ASSOCIATED_WITH]-> Wellington City Council 0.9001981019973755
+[road safety initiatives]: Wellington City Council --[IMPROVES]-> road safety initiatives 0.8844132423400879
+[road safety initiatives]: road safety initiatives --[TARGETS]-> State Highway 1 0.8624067306518555
+[road safety initiatives]: road safety initiatives --[improving]-> State Highway 1 0.8793413043022156
+[road safety initiatives]: Wellington City Council --[improving]-> road safety initiatives 0.9047801494598389
+[road safety initiatives]: State Highway 1 --[ASSOCIATED_WITH]-> road safety initiatives 0.861415445804596
+[road safety initiatives]: road safety initiatives --[IMPROVES]-> State Highway 1 0.8599668145179749
+[summary of the visiting drivers survey]: NZ Transport Agency --[DECLINE]-> summary of the visiting drivers survey 0.8642105460166931
+[summary of the visiting drivers survey]: summary of the visiting drivers survey --[AVAILABLE]-> www.saferjourneys.govt.nz/action-plans/signature-programme/ 0.8961648941040039

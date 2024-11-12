@@ -1,0 +1,33 @@
+Where can data regarding vehicle kilometres travelled (VKT) at a regional level over the past 10 years be found?
+None
+Seed: Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.
+Seed: vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas
+Seed: vehicle kilometres travelled estimates
+Seed: investigating transport companies
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: www.nzt a.govt.nz/planning -and-investment/learning- and-resources/transport -data/data- and-tools --[CONTAINS]-> Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years. 0.936613142490387
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years. --[CONTAINS]-> SHLR worksheet 0.9250043630599976
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: publicly available information --[AVAILABLE_ON]-> www.nzt a.govt.nz/planning -and-investment/learning- and-resources/transport -data/data- and-tools 0.8384032845497131
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: Waka Kotahi --[PROVIDES]-> publicly available information 0.7948638200759888
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: publicly available information --[FOUND]-> section 11 starting on page 124 0.787007749080658
+[Vehicle use (VKT) ‘Vehicle Kilometres Travelled’ within Road Controlling Authority areas, in each region and in NZ...over the last 10 years.]: section 18(d) of the Act --[APPLIES]-> publicly available information 0.7627856731414795
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Transport Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8710547089576721
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Transport Safety Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8579698801040649
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: transport data --[PROVIDED_BY]-> Waka Kotahi 0.8571577072143555
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Vehicle Inspection Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8567376732826233
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand Transport Agency --[PROVIDES]-> transport data 0.8551969528198242
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand Transport Agency --[PROVIDES]-> Transport Data 0.8551969528198242
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.8521218299865723
+[vehicle kilometres travelled estimates]: Transport Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8710547089576721
+[vehicle kilometres travelled estimates]: transport data --[PROVIDED_BY]-> Waka Kotahi 0.8571577072143555
+[vehicle kilometres travelled estimates]: New Zealand Transport Agency --[PROVIDES]-> transport data 0.8551969528198242
+[vehicle kilometres travelled estimates]: New Zealand Transport Agency --[PROVIDES]-> Transport Data 0.8551969528198242
+[vehicle kilometres travelled estimates]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.8521218299865723
+[vehicle kilometres travelled estimates]: NZ Transport Agency --[PROVIDES]-> transport data 0.8503135442733765
+[vehicle kilometres travelled estimates]: Waka Kotahi --[PROVIDES]-> Transport Data 0.8501045107841492
+[investigating transport companies]: Transport Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8710547089576721
+[investigating transport companies]: Transport Safety Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8579698801040649
+[investigating transport companies]: transport data --[PROVIDED_BY]-> Waka Kotahi 0.8571577072143555
+[investigating transport companies]: Vehicle Inspection Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8567376732826233
+[investigating transport companies]: New Zealand Transport Agency --[PROVIDES]-> transport data 0.8551969528198242
+[investigating transport companies]: New Zealand Transport Agency --[PROVIDES]-> Transport Data 0.8551969528198242
+[investigating transport companies]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.8521218299865723

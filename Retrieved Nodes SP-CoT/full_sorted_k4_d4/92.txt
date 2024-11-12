@@ -1,0 +1,34 @@
+What body of water encircles the geological region located in the country where a method involving the use of advanced sensors and cameras to gather real-time data on road conditions significantly enhances the efficiency and accuracy of transport data acquisition processes, making it susceptible to natural disasters such as earthquakes, volcanic eruptions, and tsunamis?
+None
+Seed: Natural hazards
+Seed: Regions prone to wet conditions
+Seed: Volcanic activity
+Seed: Heavily on road transport for trade and tourism
+[Natural hazards]: New zealand --[Is vulnerable to]-> Volcanic activity 0.8523914217948914
+[Natural hazards]: New zealand --[Is vulnerable to]-> Natural hazards 0.8477253317832947
+[Natural hazards]: New zealand --[Susceptible to]-> Natural hazards 0.8462419509887695
+[Natural hazards]: Road traffic monitoring --[Is]-> Critical component of transport infrastructure 0.8406105637550354
+[Natural hazards]: Transport infrastructure development --[Is crucial for]-> Addressing geographical challenges 0.8393753170967102
+[Natural hazards]: New zealand --[Is vulnerable to]-> Earthquakes 0.838878333568573
+[Natural hazards]: Nzta --[Plays]-> Pivotal role in overseeing road condition monitoring activities 0.8388686180114746
+[Regions prone to wet conditions]: New zealand --[Is vulnerable to]-> Volcanic activity 0.8523914217948914
+[Regions prone to wet conditions]: New zealand --[Is vulnerable to]-> Natural hazards 0.8477253317832947
+[Regions prone to wet conditions]: New zealand --[Susceptible to]-> Natural hazards 0.8462419509887695
+[Regions prone to wet conditions]: Road traffic monitoring --[Is]-> Critical component of transport infrastructure 0.8406105637550354
+[Regions prone to wet conditions]: Transport infrastructure development --[Is crucial for]-> Addressing geographical challenges 0.8393753170967102
+[Regions prone to wet conditions]: New zealand --[Is vulnerable to]-> Earthquakes 0.838878333568573
+[Regions prone to wet conditions]: Nzta --[Plays]-> Pivotal role in overseeing road condition monitoring activities 0.8388686180114746
+[Volcanic activity]: New zealand --[Is vulnerable to]-> Volcanic activity 0.8523914217948914
+[Volcanic activity]: New zealand --[Is vulnerable to]-> Natural hazards 0.8477253317832947
+[Volcanic activity]: New zealand --[Susceptible to]-> Natural hazards 0.8462419509887695
+[Volcanic activity]: Road traffic monitoring --[Is]-> Critical component of transport infrastructure 0.8406105637550354
+[Volcanic activity]: Transport infrastructure development --[Is crucial for]-> Addressing geographical challenges 0.8393753170967102
+[Volcanic activity]: New zealand --[Is vulnerable to]-> Earthquakes 0.838878333568573
+[Volcanic activity]: Nzta --[Plays]-> Pivotal role in overseeing road condition monitoring activities 0.8388686180114746
+[Heavily on road transport for trade and tourism]: New zealand --[Is vulnerable to]-> Volcanic activity 0.8523914217948914
+[Heavily on road transport for trade and tourism]: New zealand --[Is vulnerable to]-> Natural hazards 0.8477253317832947
+[Heavily on road transport for trade and tourism]: New zealand --[Susceptible to]-> Natural hazards 0.8462419509887695
+[Heavily on road transport for trade and tourism]: Road traffic monitoring --[Is]-> Critical component of transport infrastructure 0.8406105637550354
+[Heavily on road transport for trade and tourism]: Transport infrastructure development --[Is crucial for]-> Addressing geographical challenges 0.8393753170967102
+[Heavily on road transport for trade and tourism]: New zealand --[Is vulnerable to]-> Earthquakes 0.838878333568573
+[Heavily on road transport for trade and tourism]: Nzta --[Plays]-> Pivotal role in overseeing road condition monitoring activities 0.8388686180114746

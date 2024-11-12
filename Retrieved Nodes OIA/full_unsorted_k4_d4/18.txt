@@ -1,0 +1,36 @@
+How much revenue has been collected from Clean Car penalties between 1 April and 31 May 2022?
+None
+Seed: 19,662 applications for Clean Car rebates
+Seed: 7,162 Clean Car fees
+Seed: Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below.
+Seed: manage fare revenue and public transport budgets within current funding allocations
+[19,662 applications for Clean Car rebates]: Waka Kotahi NZ Transport Agency --[APPROVED]-> 19,662 applications for Clean Car rebates 0.7923781871795654
+[19,662 applications for Clean Car rebates]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7373139262199402
+[19,662 applications for Clean Car rebates]: New Zealand Transport Agency --[BASED]-> Wellington 0.7579061985015869
+[19,662 applications for Clean Car rebates]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7547190189361572
+[19,662 applications for Clean Car rebates]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7636001110076904
+[19,662 applications for Clean Car rebates]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7656725645065308
+[19,662 applications for Clean Car rebates]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7448660135269165
+[19,662 applications for Clean Car rebates]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7604709267616272
+[19,662 applications for Clean Car rebates]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7520700097084045
+[19,662 applications for Clean Car rebates]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7684385776519775
+[19,662 applications for Clean Car rebates]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7631872296333313
+[19,662 applications for Clean Car rebates]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7776118516921997
+[19,662 applications for Clean Car rebates]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7600540518760681
+[19,662 applications for Clean Car rebates]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7722870707511902
+[19,662 applications for Clean Car rebates]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7646811604499817
+[19,662 applications for Clean Car rebates]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7841860055923462
+[19,662 applications for Clean Car rebates]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7658063173294067
+[19,662 applications for Clean Car rebates]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7803289890289307
+[19,662 applications for Clean Car rebates]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7751733064651489
+[19,662 applications for Clean Car rebates]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7619402408599854
+[19,662 applications for Clean Car rebates]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7580372095108032
+[19,662 applications for Clean Car rebates]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7816985845565796
+[19,662 applications for Clean Car rebates]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7558376789093018
+[19,662 applications for Clean Car rebates]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7777608633041382
+[19,662 applications for Clean Car rebates]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7655314207077026
+[19,662 applications for Clean Car rebates]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7727217674255371
+[19,662 applications for Clean Car rebates]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7519087791442871
+[19,662 applications for Clean Car rebates]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7700133919715881
+[19,662 applications for Clean Car rebates]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7613285779953003
+[19,662 applications for Clean Car rebates]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7592276334762573

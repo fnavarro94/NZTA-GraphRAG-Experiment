@@ -1,0 +1,28 @@
+What is the process for handling Official Information Act requests by Waka Kotahi?
+None
+Seed: Waka Kotahi Senior Project Manager
+Seed: Waka Kotahi policy
+Seed: Waka Kotahi
+Seed: Waka Kotahi NZ Transport Agency
+[Waka Kotahi Senior Project Manager]: Waka Kotahi Senior Project Manager --[MANAGES]-> State Highway 25A Rebuild Project 0.8357032537460327
+[Waka Kotahi policy]: Waka Kotahi --[SEEKS]-> additional information 0.9114086627960205
+[Waka Kotahi policy]: Waka Kotahi --[PROCESSES]-> requests for information 0.9080350399017334
+[Waka Kotahi policy]: Waka Kotahi --[SEEKS]-> confidential legal advice 0.9072691202163696
+[Waka Kotahi policy]: Waka Kotahi --[PROVIDES]-> publicly available information 0.9066221117973328
+[Waka Kotahi policy]: information --[PROVIDED_BY]-> Waka Kotahi 0.9049168229103088
+[Waka Kotahi policy]: Waka Kotahi --[PROVIDES]-> contact information 0.8978312611579895
+[Waka Kotahi policy]: Waka Kotahi --[INVESTIGATES]-> breaches of rules or regulations 0.896242618560791
+[Waka Kotahi]: Waka Kotahi --[SEEKS]-> additional information 0.9114086627960205
+[Waka Kotahi]: Waka Kotahi --[PROCESSES]-> requests for information 0.9080350399017334
+[Waka Kotahi]: Waka Kotahi --[SEEKS]-> confidential legal advice 0.9072691202163696
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> publicly available information 0.9066221117973328
+[Waka Kotahi]: information --[PROVIDED_BY]-> Waka Kotahi 0.9049168229103088
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> contact information 0.8978312611579895
+[Waka Kotahi]: Waka Kotahi --[INVESTIGATES]-> breaches of rules or regulations 0.896242618560791
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[SEEKS]-> additional information 0.9114086627960205
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[PROCESSES]-> requests for information 0.9080350399017334
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[SEEKS]-> confidential legal advice 0.9072691202163696
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[PROVIDES]-> publicly available information 0.9066221117973328
+[Waka Kotahi NZ Transport Agency]: information --[PROVIDED_BY]-> Waka Kotahi 0.9049168229103088
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[PROVIDES]-> contact information 0.8978312611579895
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[INVESTIGATES]-> breaches of rules or regulations 0.896242618560791

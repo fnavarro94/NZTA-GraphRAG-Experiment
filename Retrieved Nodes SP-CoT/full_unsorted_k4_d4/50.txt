@@ -1,0 +1,36 @@
+What is the abbreviation for the initiative in New Zealand that aims to increase the number of electric trucks and vans on the roads in the freight sector?
+None
+Seed: Growing number of initiatives
+Seed: Increasing the number of electric vehicles on new zealand roads
+Seed: Increase number of electric vehicles on the road
+Seed: Driving innovation in freight transport sector
+[Growing number of initiatives]: New zealand --[Has]-> Growing number of initiatives 0.8601331114768982
+[Growing number of initiatives]: New zealand --[Has]-> Transport projects 0.8584679365158081
+[Growing number of initiatives]: New zealand transport agency --[Oversees]-> Transport projects 0.8249704241752625
+[Growing number of initiatives]: New zealand --[Has]-> New zealand transport agency 0.8500000238418579
+[Growing number of initiatives]: New zealand transport agency --[Is]-> Forefront of promoting active transport 0.8482881784439087
+[Growing number of initiatives]: New zealand transport agency --[Is]-> Government agency 0.8315027952194214
+[Growing number of initiatives]: New zealand transport agency --[Is]-> Key stakeholder 0.8350170850753784
+[Growing number of initiatives]: New zealand transport agency --[Is]-> Primary authority 0.826195478439331
+[Growing number of initiatives]: New zealand transport agency --[Is]-> Developing integrated transport solutions 0.8460071682929993
+[Growing number of initiatives]: New zealand transport agency --[Is]-> Collaborating with technology providers 0.8291580677032471
+[Growing number of initiatives]: New zealand transport agency --[Implemented]-> Initiatives 0.8809225559234619
+[Growing number of initiatives]: New zealand transport agency --[Responsible for]-> Management and regulation of transport systems 0.8090020418167114
+[Growing number of initiatives]: New zealand transport agency --[Responsible for]-> Management and regulation of the transport system in new zealand 0.8099895715713501
+[Growing number of initiatives]: New zealand transport agency --[Ensures]-> Policies align with national transport objectives 0.8044406175613403
+[Growing number of initiatives]: New zealand transport agency --[Ensures]-> Voices of all road users are considered in decision-making processes 0.7945432066917419
+[Growing number of initiatives]: New zealand transport agency --[Mandates]-> Regular audits 0.8038035035133362
+[Growing number of initiatives]: New zealand transport agency --[Promotes]-> Road safety 0.8168646097183228
+[Growing number of initiatives]: New zealand transport agency --[Aims]-> Reduce greenhouse gas emissions 0.8208345770835876
+[Growing number of initiatives]: New zealand transport agency --[Plays]-> A crucial role in funding and promoting cycling infrastructure projects 0.8258407115936279
+[Growing number of initiatives]: New zealand transport agency --[Plays]-> Pivotal role in conducting forecasts 0.8163148164749146
+[Growing number of initiatives]: New zealand transport agency --[Plays]-> Pivotal role in facilitating road user engagement 0.8540836572647095
+[Growing number of initiatives]: New zealand transport agency --[Plays]-> Crucial role in developing guidelines 0.8350119590759277
+[Growing number of initiatives]: New zealand transport agency --[Plays]-> Crucial role in developing standards 0.8251844644546509
+[Growing number of initiatives]: New zealand transport agency --[Plays]-> Pivotal role 0.8427301645278931
+[Growing number of initiatives]: New zealand transport agency --[Is responsible for]-> Promoting public transport initiatives 0.849907398223877
+[Growing number of initiatives]: New zealand transport agency --[Is responsible for]-> State highway network 0.8307141661643982
+[Growing number of initiatives]: New zealand transport agency --[Is responsible for]-> Managing state highway network 0.8198458552360535
+[Growing number of initiatives]: New zealand transport agency --[Is responsible for]-> Funding local road projects 0.8387342691421509
+[Growing number of initiatives]: New zealand transport agency --[Is responsible for]-> Road networks 0.840605616569519
+[Growing number of initiatives]: New zealand transport agency --[Manages]-> National land transport fund 0.8109517097473145

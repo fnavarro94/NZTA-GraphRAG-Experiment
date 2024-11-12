@@ -1,0 +1,34 @@
+How much has been spent on heavy vehicle certification reviews and inspections as of February 2020?
+None
+Seed: 7,162 Clean Car fees
+Seed: audits under s198 of the Land Transport Act
+Seed: Audits under s198 of the Land Transport Act
+Seed: paid toll revenues
+[7,162 Clean Car fees]: toll tariffs --[SPENT_ON]-> road maintenance 0.8474502563476562
+[7,162 Clean Car fees]: Vehicle Inspection Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8335992693901062
+[7,162 Clean Car fees]: tolls --[SPENT]-> on various roads 0.8334580063819885
+[7,162 Clean Car fees]: New Zealand Transport Agency --[ASSOCIATED]-> Review of 850 open compliance files 0.8320945501327515
+[7,162 Clean Car fees]: road maintenance --[FUNDED_BY]-> toll tariffs 0.8291824460029602
+[7,162 Clean Car fees]: Vehicle Inspection --[Undertakes]-> Calculations 0.8267220258712769
+[7,162 Clean Car fees]: questions and responses --[FROM]-> NZ Transport Agency 0.826688289642334
+[audits under s198 of the Land Transport Act]: toll tariffs --[SPENT_ON]-> road maintenance 0.8474502563476562
+[audits under s198 of the Land Transport Act]: Vehicle Inspection Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8335992693901062
+[audits under s198 of the Land Transport Act]: tolls --[SPENT]-> on various roads 0.8334580063819885
+[audits under s198 of the Land Transport Act]: New Zealand Transport Agency --[ASSOCIATED]-> Review of 850 open compliance files 0.8320945501327515
+[audits under s198 of the Land Transport Act]: road maintenance --[FUNDED_BY]-> toll tariffs 0.8291824460029602
+[audits under s198 of the Land Transport Act]: Vehicle Inspection --[Undertakes]-> Calculations 0.8267220258712769
+[audits under s198 of the Land Transport Act]: questions and responses --[FROM]-> NZ Transport Agency 0.826688289642334
+[Audits under s198 of the Land Transport Act]: toll tariffs --[SPENT_ON]-> road maintenance 0.8474502563476562
+[Audits under s198 of the Land Transport Act]: Vehicle Inspection Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8335992693901062
+[Audits under s198 of the Land Transport Act]: tolls --[SPENT]-> on various roads 0.8334580063819885
+[Audits under s198 of the Land Transport Act]: New Zealand Transport Agency --[ASSOCIATED]-> Review of 850 open compliance files 0.8320945501327515
+[Audits under s198 of the Land Transport Act]: road maintenance --[FUNDED_BY]-> toll tariffs 0.8291824460029602
+[Audits under s198 of the Land Transport Act]: Vehicle Inspection --[Undertakes]-> Calculations 0.8267220258712769
+[Audits under s198 of the Land Transport Act]: questions and responses --[FROM]-> NZ Transport Agency 0.826688289642334
+[paid toll revenues]: New Zealand Transport Agency --[ASSOCIATED]-> Review of 850 open compliance files 0.8320945501327515
+[paid toll revenues]: questions and responses --[FROM]-> NZ Transport Agency 0.826688289642334
+[paid toll revenues]: New Zealand Transport Agency --[PROVIDES]-> update on budget and costs 0.8261883854866028
+[paid toll revenues]: Audits, Reviews, Investigations --[CONDUCTED_BY]-> New Zealand Transport Agency 0.8258305788040161
+[paid toll revenues]: New Zealand Transport Agency --[PROVIDES]-> Vehicle Inspection Data 0.8242942094802856
+[paid toll revenues]: vehicle inspection --[CONDUCTED_BY]-> NZ Transport Agency 0.8233808875083923
+[paid toll revenues]: New Zealand Transport Agency --[CONDUCTS]-> Audits, Reviews, Investigations 0.8233595490455627

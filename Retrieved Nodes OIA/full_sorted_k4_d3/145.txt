@@ -1,0 +1,34 @@
+What were NZTA's safety concerns regarding Wellington's Rainbow Crossing proposal?
+None
+Seed: safety of Wellington's Rainbow Crossing proposal
+Seed: Briefing for Fergus on WCC proposal to install non-complying rainbow pedestrian crossing traffic control device
+Seed: Wellington's Rainbow Crossing proposal
+Seed: Rainbow Crossing Safety Review FINAL
+[safety of Wellington's Rainbow Crossing proposal]: safety of Wellington's Rainbow Crossing proposal --[RAISES_CONCERNS]-> New Zealand Transport Agency 0.9520038366317749
+[safety of Wellington's Rainbow Crossing proposal]: correspondence, attachments and briefings --[REGARDS]-> safety of Wellington's Rainbow Crossing proposal 0.9254133701324463
+[safety of Wellington's Rainbow Crossing proposal]: suggested action to address concerns --[RELATES_TO]-> Wellington's Rainbow Crossing proposal 0.8985710144042969
+[safety of Wellington's Rainbow Crossing proposal]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.8827207088470459
+[safety of Wellington's Rainbow Crossing proposal]: New Zealand Transport Agency --[SUGGESTS]-> suggested action to address concerns 0.8702839612960815
+[safety of Wellington's Rainbow Crossing proposal]: road safety --[COLLABORATED_BY]-> Wellington City Council 0.864296555519104
+[safety of Wellington's Rainbow Crossing proposal]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.862887978553772
+[Briefing for Fergus on WCC proposal to install non-complying rainbow pedestrian crossing traffic control device]: Rainbow Crossing --[SAFETY_REVIEW]-> Safety Review 0.8877055644989014
+[Briefing for Fergus on WCC proposal to install non-complying rainbow pedestrian crossing traffic control device]: Fergus Gammie --[BRIEFING]-> Briefing for Fergus on WCC proposal to install non-complying rainbow pedestrian crossing traffic control device 0.852637529373169
+[Briefing for Fergus on WCC proposal to install non-complying rainbow pedestrian crossing traffic control device]: Rainbow Crossing --[Safety Review]-> Rainbow Crossing Safety Review FINAL.docx 0.8509767055511475
+[Briefing for Fergus on WCC proposal to install non-complying rainbow pedestrian crossing traffic control device]: Rainbow Crossing --[ASSOCIATED_WITH]-> NZTA 0.8344857692718506
+[Briefing for Fergus on WCC proposal to install non-complying rainbow pedestrian crossing traffic control device]: dialogue between WCC and Emma --[DISCUSSES]-> Rainbow Crossing 0.8064115643501282
+[Briefing for Fergus on WCC proposal to install non-complying rainbow pedestrian crossing traffic control device]: Rainbow Crossing --[UPDATE_REQUEST]-> Fergus Gammie 0.8032994270324707
+[Briefing for Fergus on WCC proposal to install non-complying rainbow pedestrian crossing traffic control device]: Rainbow Crossing --[Email]-> David Chick 0.7992103695869446
+[Wellington's Rainbow Crossing proposal]: safety of Wellington's Rainbow Crossing proposal --[RAISES_CONCERNS]-> New Zealand Transport Agency 0.9520038366317749
+[Wellington's Rainbow Crossing proposal]: suggested action to address concerns --[RELATES_TO]-> Wellington's Rainbow Crossing proposal 0.8985710144042969
+[Wellington's Rainbow Crossing proposal]: questions and responses --[FROM]-> NZ Transport Agency 0.8831764459609985
+[Wellington's Rainbow Crossing proposal]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.8827207088470459
+[Wellington's Rainbow Crossing proposal]: New Zealand Transport Agency --[SUGGESTS]-> suggested action to address concerns 0.8702839612960815
+[Wellington's Rainbow Crossing proposal]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.862887978553772
+[Wellington's Rainbow Crossing proposal]: New Zealand Transport Agency --[RESPONSE]-> OIA-8289 0.8624425530433655
+[Rainbow Crossing Safety Review FINAL]: safety of Wellington's Rainbow Crossing proposal --[RAISES_CONCERNS]-> New Zealand Transport Agency 0.9520038366317749
+[Rainbow Crossing Safety Review FINAL]: Rainbow Crossing --[SAFETY_REVIEW]-> Safety Review 0.8877055644989014
+[Rainbow Crossing Safety Review FINAL]: WCC --[SAFETY_ASSESSMENT]-> Rainbow Crossing Safety Review FINAL 0.8816252946853638
+[Rainbow Crossing Safety Review FINAL]: New Zealand Transport Agency --[SUGGESTS]-> suggested action to address concerns 0.8702839612960815
+[Rainbow Crossing Safety Review FINAL]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.862887978553772
+[Rainbow Crossing Safety Review FINAL]: New Zealand Transport Agency --[RESPONSE]-> OIA-8289 0.8624425530433655
+[Rainbow Crossing Safety Review FINAL]: OIA-8452 --[ANSWERED_BY]-> New Zealand Transport Agency 0.8612673878669739

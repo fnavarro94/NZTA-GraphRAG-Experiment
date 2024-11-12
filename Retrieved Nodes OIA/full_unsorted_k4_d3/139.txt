@@ -1,0 +1,36 @@
+What was the total spending on the Let’s Get Wellington Moving Programme from January to June 2020?
+None
+Seed: itemised list of all Let’s Get Wellington Moving spending in 2020 to date
+Seed: Let’s Get Wellington Moving Programme
+Seed: bid for NZ Transport Agency funding
+Seed: update on budget and costs
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Joel MacManus --[ITEMISED]-> itemised list of all Let’s Get Wellington Moving spending in 2020 to date 0.8854416608810425
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Joel MacManus --[EMAIL]-> joel.macmanus@stuff.co.nz 0.751139223575592
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Joel MacManus --[REQUEST]-> Request made under the Official Information Act 1982 0.7201310396194458
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Request made under the Official Information Act 1982 --[REQUEST_DATE]-> 30 October 2018 0.7830871343612671
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Request made under the Official Information Act 1982 --[REQUESTED_BY]-> Thomas Coughlan 0.7474958300590515
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.7852665781974792
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Request made under the Official Information Act 1982 --[REQUESTS]-> New Zealand Transport Agency 0.7827573418617249
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Request made under the Official Information Act 1982 --[REQUESTS]-> detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) 0.7859820127487183
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Dear --[OFFICIAL_INFORMATION]-> Request made under the Official Information Act 1982 0.7343195080757141
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Request made under the Official Information Act 1982 --[OFFICIAL_INFORMATION]-> Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act). 0.7532791495323181
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Request made under the Official Information Act 1982 --[CHALLENGES]-> Road To Zero campaign 0.7434499263763428
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Request made under the Official Information Act 1982 --[REQUESTS]-> information about Road To Zero campaign 0.757233202457428
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: logic in making this critical decision --[CHALLENGED_BY]-> Request made under the Official Information Act 1982 0.73197340965271
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: New Zealand Transport Agency --[RESPONDS_TO]-> Request made under the Official Information Act 1982 0.7833251953125
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: REF: OIA -13915 --[ASSOCIATED_WITH]-> Request made under the Official Information Act 1982 0.7530864477157593
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Request made under the Official Information Act 1982 --[ASSOCIATED_WITH]-> information under the Official Information Act 1982 0.7449944019317627
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Request made under the Official Information Act 1982 --[REQUESTED]-> information under the Official Information Act 1982 0.7412897348403931
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: New Zealand Transport Agency --[RESPONDS]-> Request made under the Official Information Act 1982 0.7853989601135254
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Joel MacManus --[REQUESTED]-> information under the Official Information Act 1982 0.7029175162315369
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Thomas Coughlan --[REQUESTS]-> information under the Official Information Act 1982 0.7372913360595703
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: information under the Official Information Act 1982 --[REGULATED_BY]-> Official Information Act 1982 0.7196584939956665
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Cherie Howie --[REQUESTS]-> information under the Official Information Act 1982 0.7127488851547241
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Sam Kelway --[REQUESTS]-> information under the Official Information Act 1982 0.7349052429199219
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Conan Young --[INQUIRES]-> information under the Official Information Act 1982 0.7051519155502319
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Conan Young --[REQUESTS]-> information under the Official Information Act 1982 0.7116371393203735
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Phil Pennington --[REQUESTS]-> information under the Official Information Act 1982 0.7373524308204651
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Jordan Bond --[REQUESTS]-> information under the Official Information Act 1982 0.7256307601928711
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Charlie Mitchell --[REQUESTS]-> information under the Official Information Act 1982 0.7334856986999512
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: New Zealand Transport Agency --[PROVIDES]-> information under the Official Information Act 1982 0.7670517563819885
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Hamish Cardwell --[REQUESTED]-> information under the Official Information Act 1982 0.7474637031555176

@@ -1,0 +1,36 @@
+What iconic transport system is managed by the organization that oversees the implementation of one of the key initiatives in New Zealand aimed at improving public transport accessibility, particularly in the Wellington region, in the cities of Auckland and Wellington?
+None
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+Seed: Promoting public transport initiatives
+Seed: Management and regulation of the transport system in new zealand
+Seed: Regional transport initiatives
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Plays]-> Significant role in shaping transport infrastructure and policy in new zealand 0.8699779510498047
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Conducts]-> Extensive research and development projects 0.7650371789932251
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Collaborates with]-> New zealand transport agency (nzta 0.8408818244934082
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Aims to]-> Enhance resilience and adaptability of new zealand's transport network 0.8632708787918091
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Is]-> Collective of australian and new zealand road transport and traffic agencies 0.8333733677864075
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Founded in]-> 1990 0.7469242811203003
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Engages in]-> International collaborations to align initiatives with global best practices 0.7695895433425903
+[Promoting public transport initiatives]: New zealand transport agency --[Is responsible for]-> Promoting public transport initiatives 0.8980589509010315
+[Promoting public transport initiatives]: New zealand --[Has]-> New zealand transport agency 0.8710877299308777
+[Promoting public transport initiatives]: New zealand transport agency --[Is]-> Forefront of promoting active transport 0.8764685988426208
+[Promoting public transport initiatives]: New zealand transport agency --[Is]-> Government agency 0.8508762121200562
+[Promoting public transport initiatives]: New zealand transport agency --[Is]-> Key stakeholder 0.8653768301010132
+[Promoting public transport initiatives]: New zealand transport agency --[Is]-> Primary authority 0.8595119714736938
+[Promoting public transport initiatives]: New zealand transport agency --[Is]-> Developing integrated transport solutions 0.8609484434127808
+[Promoting public transport initiatives]: New zealand transport agency --[Is]-> Collaborating with technology providers 0.8484761714935303
+[Promoting public transport initiatives]: New zealand transport agency --[Implemented]-> Initiatives 0.8842524290084839
+[Promoting public transport initiatives]: New zealand transport agency --[Responsible for]-> Management and regulation of transport systems 0.8782531023025513
+[Promoting public transport initiatives]: New zealand transport agency --[Responsible for]-> Management and regulation of the transport system in new zealand 0.8792058229446411
+[Promoting public transport initiatives]: New zealand transport agency --[Ensures]-> Policies align with national transport objectives 0.8290495276451111
+[Promoting public transport initiatives]: New zealand transport agency --[Ensures]-> Voices of all road users are considered in decision-making processes 0.8238970041275024
+[Promoting public transport initiatives]: New zealand transport agency --[Mandates]-> Regular audits 0.8213359117507935
+[Promoting public transport initiatives]: New zealand transport agency --[Promotes]-> Road safety 0.8405805230140686
+[Promoting public transport initiatives]: New zealand transport agency --[Aims]-> Reduce greenhouse gas emissions 0.8160127401351929
+[Promoting public transport initiatives]: New zealand transport agency --[Plays]-> A crucial role in funding and promoting cycling infrastructure projects 0.8630157709121704
+[Promoting public transport initiatives]: New zealand transport agency --[Plays]-> Pivotal role in conducting forecasts 0.8310673236846924
+[Promoting public transport initiatives]: New zealand transport agency --[Plays]-> Pivotal role in facilitating road user engagement 0.8660162687301636
+[Promoting public transport initiatives]: New zealand transport agency --[Plays]-> Crucial role in developing guidelines 0.857768177986145
+[Promoting public transport initiatives]: New zealand transport agency --[Plays]-> Crucial role in developing standards 0.8543670177459717
+[Promoting public transport initiatives]: New zealand transport agency --[Plays]-> Pivotal role 0.8705176711082458
+[Promoting public transport initiatives]: New zealand transport agency --[Is responsible for]-> State highway network 0.8518400192260742

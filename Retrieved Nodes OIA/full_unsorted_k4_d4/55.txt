@@ -1,0 +1,36 @@
+What is the definition of a road used by the Crash Analysis System (CAS)?
+None
+Seed: Guide for the interpretation of coded crash reports
+Seed: Road Safety Analysis
+Seed: Crash Analysis System
+Seed: Road Traffic Crash Data
+[Guide for the interpretation of coded crash reports]: Guide for the interpretation of coded crash reports --[AVAILABLE_AT]-> https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf 0.8188116550445557
+[Guide for the interpretation of coded crash reports]: https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf --[ACCESSIBLE]-> online 0.8101710677146912
+[Guide for the interpretation of coded crash reports]: online --[RELATES_TO]-> https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c 0.7789459228515625
+[Guide for the interpretation of coded crash reports]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.770673394203186
+[Guide for the interpretation of coded crash reports]: National Maintenance Forward Work Map --[AVAILABLE]-> online 0.776751697063446
+[Guide for the interpretation of coded crash reports]: current and future renewal programmes --[PUBLISHED]-> National Maintenance Forward Work Map 0.7699634432792664
+[Guide for the interpretation of coded crash reports]: MR1/B transactions --[COMPLETED]-> online 0.7315981984138489
+[Guide for the interpretation of coded crash reports]: MR1/B transactions --[TOTAL]-> 5,496,319 0.7387757301330566
+[Guide for the interpretation of coded crash reports]: MR1/B transactions --[COMPLETED]-> agent 0.7390024662017822
+[Guide for the interpretation of coded crash reports]: online --[PROVIDES_ACCESS]-> Transport Agency 0.7613163590431213
+[Guide for the interpretation of coded crash reports]: www.ombudsman.parliament.nz --[PROVIDES]-> Transport Agency 0.7722593545913696
+[Guide for the interpretation of coded crash reports]: Transport Agency --[PROVIDES]-> summary of survey results 0.7700003981590271
+[Guide for the interpretation of coded crash reports]: Transport Agency --[PROVIDES]-> summary of exit interview results 0.7448890209197998
+[Guide for the interpretation of coded crash reports]: Transport Agency --[PROVIDES]-> summary of engagement survey results 0.7578191757202148
+[Guide for the interpretation of coded crash reports]: Transport Agency --[PROVIDES]-> contact details for the Ombudsman 0.7306278944015503
+[Guide for the interpretation of coded crash reports]: Transport Agency --[PROVIDES]-> EAP 0.7738956809043884
+[Guide for the interpretation of coded crash reports]: Transport Agency --[PROVIDES]-> response to this request on our website 0.7592394351959229
+[Guide for the interpretation of coded crash reports]: Transport Agency --[PROVIDES]-> summary of exit interview results since March 2016 0.7170575857162476
+[Guide for the interpretation of coded crash reports]: Transport Agency --[PROVIDES]-> Contact Details 0.7476991415023804
+[Guide for the interpretation of coded crash reports]: Transport Agency --[PROVIDES]-> address of the Office of the Ombudsmen 0.7303568124771118
+[Guide for the interpretation of coded crash reports]: Transport Agency --[PROVIDES]-> Guide for the interpretation of coded crash reports 0.8414613604545593
+[Guide for the interpretation of coded crash reports]: Transport Agency --[PROVIDES]-> contact details 0.7476991415023804
+[Guide for the interpretation of coded crash reports]: Transport Agency --[PROVIDES]-> reply 0.7652425169944763
+[Guide for the interpretation of coded crash reports]: Transport Agency --[WITHHOLDS]-> exact copies of staff exit interview notes 0.6913995146751404
+[Guide for the interpretation of coded crash reports]: Transport Agency --[WITHHOLDS]-> information 0.751844048500061
+[Guide for the interpretation of coded crash reports]: Kevin Reid --[DISCUSS]-> Transport Agency 0.744104266166687
+[Guide for the interpretation of coded crash reports]: Transport Agency --[DISCUSS]-> HVSCs 0.7674839496612549
+[Guide for the interpretation of coded crash reports]: Andrew Knackstedt --[CONTACT]-> Transport Agency 0.7455645799636841
+[Guide for the interpretation of coded crash reports]: Transport Agency --[CONTACT]-> Andrew Knackstedt 0.7409460544586182
+[Guide for the interpretation of coded crash reports]: Transport Agency --[PUBLISHES]-> response to this request on our website 0.7554616332054138

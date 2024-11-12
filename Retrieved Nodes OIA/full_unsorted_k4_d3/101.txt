@@ -1,0 +1,36 @@
+Where can information about the use of Automatic Number Plate Recognition (ANPR) cameras be found?
+None
+Seed: information on speed cameras
+Seed: information on traffic light cameras and speed cameras
+Seed: information on traffic light cameras
+Seed: cameras
+[information on speed cameras]: Waka Kotahi --[PROVIDES]-> information on speed cameras 0.8391000032424927
+[information on speed cameras]: Response --[CONTAINS]-> Waka Kotahi 0.7498584985733032
+[information on speed cameras]: Waka Kotahi --[PUBLISHES]-> Response 0.7523288130760193
+[information on speed cameras]: response --[CONTAINS]-> Waka Kotahi 0.7562127113342285
+[information on speed cameras]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.7716617584228516
+[information on speed cameras]: Charles Ronaldson --[SIGNED]-> response 0.7415435910224915
+[information on speed cameras]: Lauren Cooke --[SIGNED]-> response 0.7309671640396118
+[information on speed cameras]: Waka Kotahi --[PUBLISHED_BY]-> response 0.7548776268959045
+[information on speed cameras]: Ministry --[PROVIDE]-> response 0.7517443895339966
+[information on speed cameras]: response --[REMOVED]-> personal information 0.7463557720184326
+[information on speed cameras]: Waka Kotahi website --[CONTAINS]-> response 0.7511056065559387
+[information on speed cameras]: New Zealand Transport Agency --[DISCUSSES]-> response 0.7721880078315735
+[information on speed cameras]: response --[IS_A]-> letter 0.7514851093292236
+[information on speed cameras]: Waka Kotahi --[FOLLOWS]-> response 0.7516453266143799
+[information on speed cameras]: New Zealand Transport Agency --[PUBLISH]-> response 0.7808250784873962
+[information on speed cameras]: New Zealand Transport Agency --[PUBLISHES]-> response 0.7741661071777344
+[information on speed cameras]: response --[IS]-> response letter 0.7340742349624634
+[information on speed cameras]: response letter --[IS]-> response 0.7325243949890137
+[information on speed cameras]: response --[CONTAINS]-> contact details for the Ombudsman 0.748903751373291
+[information on speed cameras]: response --[CONTAINS]-> Jamie Ensor 0.7498455047607422
+[information on speed cameras]: response --[RELATES_TO]-> personal information removed 0.7466393709182739
+[information on speed cameras]: Conan Young --[RECEIVES]-> response 0.7396427392959595
+[information on speed cameras]: oia-14650-response-letter.pdf --[CONTAINS]-> response 0.7333554029464722
+[information on speed cameras]: response --[IS]-> sincerely 0.7343219518661499
+[information on speed cameras]: NZTA --[REPLY]-> response 0.7499420642852783
+[information on speed cameras]: response --[REMOVE]-> personal information 0.7308005094528198
+[information on speed cameras]: Waka Kotahi --[PUBLISHED]-> response 0.7741397619247437
+[information on speed cameras]: Waka Kotahi --[PROVIDES]-> response 0.7599161863327026
+[information on speed cameras]: response --[IS_PUBLISHED_ON]-> website 0.7323166131973267
+[information on speed cameras]: personal information --[REMOVED]-> response 0.7514089345932007

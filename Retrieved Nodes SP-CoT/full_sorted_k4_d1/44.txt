@@ -1,0 +1,10 @@
+What global initiative does New Zealand align with to achieve its goal of reducing road deaths and serious injuries to zero by 2050, based on the national framework it follows to guide its efforts in reducing road traffic injuries and fatalities?
+None
+Seed: Reducing road deaths and serious injuries to zero by 2050
+Seed: Reduce road fatalities and serious injuries to zero by 2050
+Seed: Eliminate road fatalities and serious injuries by 2050
+Seed: Significant shift in new zealand's approach to road safety
+[Reducing road deaths and serious injuries to zero by 2050]: Road to zero strategy --[Sets goal]-> Reducing road deaths and serious injuries to zero by 2050 0.8892764449119568
+[Reduce road fatalities and serious injuries to zero by 2050]: Road to zero --[Aim]-> Reduce road fatalities and serious injuries to zero by 2050 0.8853403925895691
+[Eliminate road fatalities and serious injuries by 2050]: Road to zero strategy --[Aims to]-> Eliminate road fatalities and serious injuries by 2050 0.887881875038147
+[Significant shift in new zealand's approach to road safety]: Safer journeys strategy --[Marked]-> Significant shift in new zealand's approach to road safety 0.8704984784126282

@@ -1,0 +1,36 @@
+What organization emerged from the country known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, and is responsible for the term that describes the regular activities performed to keep roads safe and functional, including vegetation control, litter removal, and drainage maintenance, during its establishment in 2008?
+None
+Seed: Crucial role in promoting road safety
+Seed: Critical component of new zealand's transport strategy
+Seed: Growing emphasis on sustainable transport solutions
+Seed: Framework for implementing road safety campaigns and initiatives
+[Crucial role in promoting road safety]: Education and awareness programs --[Play]-> Crucial role in promoting road safety 0.8233276605606079
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about dangers of distracted driving 0.7612120509147644
+[Crucial role in promoting road safety]: Education and awareness programs --[Include]-> Belt up campaign 0.7610414028167725
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about safe driving practices 0.8033130764961243
+[Crucial role in promoting road safety]: Education and awareness programs --[Include]-> Road safety week 0.7931122779846191
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about importance of seatbelt use 0.7619487643241882
+[Critical component of new zealand's transport strategy]: Road safety education --[Is]-> Critical component of new zealand's transport strategy 0.8233523368835449
+[Critical component of new zealand's transport strategy]: Nzta --[Promotes]-> Road safety education 0.789086639881134
+[Critical component of new zealand's transport strategy]: Nzta --[Plays a pivotal role in]-> The development and implementation of these systems 0.7692654728889465
+[Critical component of new zealand's transport strategy]: Nzta --[Actively exploring]-> Connected and autonomous vehicles 0.7643359303474426
+[Critical component of new zealand's transport strategy]: Nzta --[Actively exploring]-> The potential of emerging technologies 0.754266619682312
+[Critical component of new zealand's transport strategy]: Nzta --[Actively exploring]-> Improving road safety 0.807823121547699
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Influenced by]-> Improving road safety 0.7633017301559448
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Designed to]-> Enhance vehicle stability 0.7362402677536011
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Is]-> Advanced safety feature 0.7394585013389587
+[Critical component of new zealand's transport strategy]: Vehicle safety technologies --[Include]-> Electronic stability control 0.7563897371292114
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Utilize]-> Sensors 0.7311701774597168
+[Critical component of new zealand's transport strategy]: New zealand --[Has adopted]-> Electronic stability control 0.7528202533721924
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Helps]-> Reduce skidding 0.7400316596031189
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Helps]-> Reduce rollovers 0.7416647672653198
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Helps]-> Maintain control 0.7252438068389893
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Mandatory]-> New zealand 0.7431873083114624
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Mandatory]-> New vehicles 0.7571201324462891
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Contributed to]-> Challenging driving conditions 0.7574922442436218
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Contributed to]-> Improved road safety 0.7830650806427002
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Contributed to]-> Rural areas 0.7848314642906189
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Particularly relevant in]-> New zealand 0.7517095804214478
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Range from]-> Mountainous terrains 0.7502101063728333
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Range from]-> Urban environments 0.7456502318382263
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Range from]-> Rural roads 0.7802383899688721

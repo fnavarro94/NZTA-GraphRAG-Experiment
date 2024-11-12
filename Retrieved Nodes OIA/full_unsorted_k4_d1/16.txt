@@ -1,0 +1,11 @@
+How did NZ Bus Limited respond to the faults identified in the inspection of Go Wellington buses?
+None
+Seed: reports on converting the shoulder of Auckland Motorway into Bus Lanes
+Seed: report on the impacts of the Fare Recovery Ratio
+Seed: Investigating transport companies
+Seed: investigating transport companies
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Zachary Wong --[REQUESTED]-> reports on converting the shoulder of Auckland Motorway into Bus Lanes 0.8497121930122375
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: reports on converting the shoulder of Auckland Motorway into Bus Lanes --[PROVIDED]-> Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf 0.8280823230743408
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[PRODUCES]-> report on the impacts of the Fare Recovery Ratio 0.8566558361053467
+[Investigating transport companies]: New Zealand Transport Agency --[POLICY]-> Investigating transport companies 0.8748288154602051
+[investigating transport companies]: New Zealand Transport Agency --[MANAGES]-> investigating transport companies 0.8718224167823792

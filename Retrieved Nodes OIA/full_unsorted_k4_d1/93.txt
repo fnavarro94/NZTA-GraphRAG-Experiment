@@ -1,0 +1,14 @@
+What standards must retroreflective sheeting for black background plates comply with in New Zealand?
+None
+Seed: retroreflective sheeting for use in New Zealand
+Seed: performance requirements for retroreflective sheeting
+Seed: information on retroreflective sheeting
+Seed: NZTA M25 Retroreflective sheeting
+[retroreflective sheeting for use in New Zealand]: Waka Kotahi --[APPROVES]-> retroreflective sheeting for use in New Zealand 0.9118884801864624
+[retroreflective sheeting for use in New Zealand]: retroreflective sheeting for use in New Zealand --[RELATES]-> retroreflective sheeting 0.9309893846511841
+[performance requirements for retroreflective sheeting]: AS 1906.1 2017 --[OUTLINES]-> performance requirements for retroreflective sheeting 0.889968752861023
+[information on retroreflective sheeting]: https://www.nzta.govt.nz/resources/retroflective-sheeting/ --[PROVIDES]-> information on retroreflective sheeting 0.9005234837532043
+[information on retroreflective sheeting]: information on retroreflective sheeting --[RELATES]-> retroreflective sheeting 0.8916782140731812
+[NZTA M25 Retroreflective sheeting]: AS 1906.1 2017 --[LISTS]-> NZTA M25 Retroreflective sheeting 0.8954497575759888
+[NZTA M25 Retroreflective sheeting]: NZTA M25 Retroreflective sheeting --[AVAILABLE]-> https://www.nzta.govt.nz/resources/retroflective-sheeting/ 0.9024682641029358
+[NZTA M25 Retroreflective sheeting]: NZTA M25 Retroreflective sheeting --[PROVIDES]-> guidance for manufacturers 0.9031089544296265

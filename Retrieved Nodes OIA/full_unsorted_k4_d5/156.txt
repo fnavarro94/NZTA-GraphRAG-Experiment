@@ -1,0 +1,36 @@
+Are all costs related to flood damage recorded in Waka Kotahi’s asset management system?
+None
+Seed: Waka Kotahi
+Seed: Waka Kotahi policy
+Seed: information to Waka Kotahi
+Seed: Waka Kotahi Senior Project Manager
+[Waka Kotahi]: Response --[CONTAINS]-> Waka Kotahi 0.8355218768119812
+[Waka Kotahi]: Waka Kotahi --[PUBLISHES]-> Response 0.8440451622009277
+[Waka Kotahi]: response --[CONTAINS]-> Waka Kotahi 0.8370877504348755
+[Waka Kotahi]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.842580258846283
+[Waka Kotahi]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.8269927501678467
+[Waka Kotahi]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.8556694388389587
+[Waka Kotahi]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.8416460752487183
+[Waka Kotahi]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> list of LGWM construction contracts 0.827042818069458
+[Waka Kotahi]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> public transport fare policy review 0.8224719762802124
+[Waka Kotahi]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.8562697768211365
+[Waka Kotahi]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8272411227226257
+[Waka Kotahi]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.8291441798210144
+[Waka Kotahi]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.8303225040435791
+[Waka Kotahi]: Waka Kotahi NZ Transport Agency --[FAX]-> F 64 4 894 6100 0.8298447132110596
+[Waka Kotahi]: Andrew Knackstedt --[CONTACT]-> Waka Kotahi NZ Transport Agency 0.8030921816825867
+[Waka Kotahi]: Waka Kotahi NZ Transport Agency --[CONTACT]-> T 64 4 894 5400 0.8290472030639648
+[Waka Kotahi]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.8264961242675781
+[Waka Kotahi]: Chris Marshall --[REQUESTS]-> Waka Kotahi NZ Transport Agency 0.8124657869338989
+[Waka Kotahi]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.837599515914917
+[Waka Kotahi]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.8483044505119324
+[Waka Kotahi]: Waka Kotahi NZ Transport Agency --[ANNOUNCED]-> Road to Zero 0.8094121217727661
+[Waka Kotahi]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8218691945075989
+[Waka Kotahi]: Road to Zero --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8089971542358398
+[Waka Kotahi]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.8367928862571716
+[Waka Kotahi]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.8196901082992554
+[Waka Kotahi]: New Zealand --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.8310444951057434
+[Waka Kotahi]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.838821530342102
+[Waka Kotahi]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.8259034156799316
+[Waka Kotahi]: www.nzta.govt.nz --[OF]-> Waka Kotahi NZ Transport Agency 0.8370641469955444
+[Waka Kotahi]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.8061268925666809

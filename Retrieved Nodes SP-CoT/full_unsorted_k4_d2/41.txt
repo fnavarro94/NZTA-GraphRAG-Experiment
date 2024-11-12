@@ -1,0 +1,36 @@
+What is the abbreviation for the national law enforcement agency responsible for maintaining public safety and order in New Zealand, who is primarily responsible for the enforcement of road traffic laws in New Zealand?
+None
+Seed: Enforcement of road traffic laws
+Seed: National law enforcement agency
+Seed: Legal framework for enforcement of road rules
+Seed: Enforcement of road safety regulations
+[Enforcement of road traffic laws]: New zealand police --[Responsible for]-> Enforcement of road traffic laws 0.9140580296516418
+[Enforcement of road traffic laws]: New zealand police --[Implementing]-> Speed enforcement measures 0.8727403283119202
+[Enforcement of road traffic laws]: New zealand police --[Established]-> 1840 0.8218384385108948
+[Enforcement of road traffic laws]: New zealand police --[Collaborate with]-> New zealand transport agency 0.8676880598068237
+[Enforcement of road traffic laws]: New zealand police --[Enforcing]-> Laws related to transport 0.885852038860321
+[Enforcement of road traffic laws]: New zealand police --[Evolved]-> Address complexities of modern transport systems 0.8278987407684326
+[Enforcement of road traffic laws]: New zealand police --[Promoting]-> Safe driving practices 0.8522699475288391
+[Enforcement of road traffic laws]: New zealand police --[Enforcing]-> Traffic laws 0.8949295282363892
+[Enforcement of road traffic laws]: New zealand police --[Is]-> National law enforcement agency 0.9138756990432739
+[Enforcement of road traffic laws]: New zealand police --[Responsible for]-> Maintaining public safety and order 0.9065936803817749
+[Enforcement of road traffic laws]: New zealand police --[Plays crucial role in]-> Ensuring safety and security of all modes of transport 0.8653343915939331
+[Enforcement of road traffic laws]: New zealand police --[Implementing]-> Road safety campaigns 0.8636165857315063
+[Enforcement of road traffic laws]: New zealand police --[Established in]-> 1846 0.8393687009811401
+[Enforcement of road traffic laws]: New zealand police --[Collaborates with]-> New zealand transport agency 0.8698499202728271
+[Enforcement of road traffic laws]: New zealand police --[Addressing]-> Reckless driving behaviors 0.8378058671951294
+[Enforcement of road traffic laws]: New zealand police --[Conducting]-> Sobriety checkpoints 0.8256369233131409
+[Enforcement of road traffic laws]: New zealand police --[Enforcing]-> Transport laws 0.8788552284240723
+[Enforcement of road traffic laws]: New zealand police --[Enforcing]-> Road safety regulations 0.8932479619979858
+[Enforcement of road traffic laws]: New zealand police --[Empowered to]-> Issue infringement notices for various offenses 0.8523024916648865
+[Enforcement of road traffic laws]: New zealand police --[Empowered to]-> Disqualify from driving in severe cases 0.8453775644302368
+[Enforcement of road traffic laws]: New zealand police --[Empowered to]-> Issue fines for violations 0.8591858148574829
+[Enforcement of road traffic laws]: New zealand police --[Empowered to]-> Issue demerit points for violations 0.8587779402732849
+[Enforcement of road traffic laws]: New zealand police --[Enforce]-> Road safety laws 0.8950673341751099
+[National law enforcement agency]: New zealand police --[Is]-> National law enforcement agency 0.9138756990432739
+[National law enforcement agency]: New zealand police --[Implementing]-> Speed enforcement measures 0.8727403283119202
+[National law enforcement agency]: New zealand police --[Established]-> 1840 0.8218384385108948
+[National law enforcement agency]: New zealand police --[Collaborate with]-> New zealand transport agency 0.8676880598068237
+[National law enforcement agency]: New zealand police --[Enforcing]-> Laws related to transport 0.885852038860321
+[National law enforcement agency]: New zealand police --[Evolved]-> Address complexities of modern transport systems 0.8278987407684326
+[National law enforcement agency]: New zealand police --[Promoting]-> Safe driving practices 0.8522699475288391

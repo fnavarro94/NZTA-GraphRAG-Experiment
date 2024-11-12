@@ -1,0 +1,34 @@
+Who developed the initiative that focuses on improving public transport services and infrastructure in Wellington to enhance the travel experience for users?
+None
+Seed: Enhance and optimize public transport services
+Seed: Improving public transport services
+Seed: Promoting public transport initiatives
+Seed: Enhancing public transport infrastructure
+[Enhance and optimize public transport services]: Wellington regional public transport plan --[Aims to]-> Enhance and optimize public transport services 0.8979427218437195
+[Enhance and optimize public transport services]: Wellington regional public transport plan --[Primary objectives]-> Improve quality and reliability of public transport services 0.881693422794342
+[Enhance and optimize public transport services]: Wellington regional public transport plan --[Primary objectives]-> Increase patronage 0.8792790174484253
+[Enhance and optimize public transport services]: Wellington regional public transport plan --[Primary objectives]-> Promote use of public transport as alternative to private vehicle use 0.873751163482666
+[Enhance and optimize public transport services]: Wellington regional public transport plan --[Is]-> Strategic framework 0.8736770153045654
+[Enhance and optimize public transport services]: Wellington regional public transport plan --[Key components]-> Service improvements 0.8695797920227051
+[Enhance and optimize public transport services]: Wellington regional public transport plan --[Key components]-> Community engagement 0.8676769137382507
+[Improving public transport services]: Wellington public transport spine study --[Focuses on]-> Improving public transport services 0.8801292181015015
+[Improving public transport services]: Wellington public transport spine study --[Aims to]-> Enhance user experience 0.8769280910491943
+[Improving public transport services]: Wellington public transport spine study --[Focuses on]-> Enhancing public transport infrastructure 0.8725001215934753
+[Improving public transport services]: Wellington public transport spine study --[Is]-> Initiative 0.8715001940727234
+[Improving public transport services]: Wellington public transport spine study --[Represents]-> Addressing transport challenges 0.8682026863098145
+[Improving public transport services]: Wellington public transport spine study --[Includes]-> Route optimization 0.8681435585021973
+[Improving public transport services]: Wellington public transport spine study --[Includes]-> Infrastructure development 0.8674017786979675
+[Promoting public transport initiatives]: New zealand transport agency --[Implemented]-> Initiatives 0.8770645260810852
+[Promoting public transport initiatives]: New zealand transport agency --[Plays]-> Pivotal role in facilitating road user engagement 0.8747084140777588
+[Promoting public transport initiatives]: New zealand transport agency --[Initiated]-> Programs aimed at improving transport access 0.8708471655845642
+[Promoting public transport initiatives]: New zealand transport agency --[Is responsible for]-> Promoting public transport initiatives 0.8687059283256531
+[Promoting public transport initiatives]: New zealand transport agency --[Is]-> Developing integrated transport solutions 0.855471670627594
+[Promoting public transport initiatives]: New zealand transport agency --[Is]-> Collaborating with technology providers 0.8482438325881958
+[Promoting public transport initiatives]: New zealand transport agency --[Is]-> Forefront of promoting active transport 0.8463499546051025
+[Enhancing public transport infrastructure]: Wellington public transport spine study --[Focuses on]-> Improving public transport services 0.8801292181015015
+[Enhancing public transport infrastructure]: Wellington public transport spine study --[Aims to]-> Enhance user experience 0.8769280910491943
+[Enhancing public transport infrastructure]: Wellington public transport spine study --[Focuses on]-> Enhancing public transport infrastructure 0.8725001215934753
+[Enhancing public transport infrastructure]: Wellington public transport spine study --[Is]-> Initiative 0.8715001940727234
+[Enhancing public transport infrastructure]: Wellington public transport spine study --[Represents]-> Addressing transport challenges 0.8682026863098145
+[Enhancing public transport infrastructure]: Wellington public transport spine study --[Includes]-> Route optimization 0.8681435585021973
+[Enhancing public transport infrastructure]: Wellington public transport spine study --[Includes]-> Infrastructure development 0.8674017786979675

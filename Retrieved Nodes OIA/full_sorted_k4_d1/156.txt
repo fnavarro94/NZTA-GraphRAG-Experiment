@@ -1,0 +1,21 @@
+Are all costs related to flood damage recorded in Waka Kotahi’s asset management system?
+None
+Seed: Waka Kotahi
+Seed: Waka Kotahi policy
+Seed: information to Waka Kotahi
+Seed: Waka Kotahi Senior Project Manager
+[Waka Kotahi]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.8775084018707275
+[Waka Kotahi]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.8753679990768433
+[Waka Kotahi]: Waka Kotahi --[PUBLISHES]-> Annual Reports 0.8730369210243225
+[Waka Kotahi]: transport infrastructure --[SERVED_BY]-> Waka Kotahi 0.8721909523010254
+[Waka Kotahi]: Waka Kotahi --[INFORMS]-> affected area 0.8719703555107117
+[Waka Kotahi]: Waka Kotahi --[ALLOCATES]-> $15 million 0.8675605654716492
+[Waka Kotahi]: Waka Kotahi --[RECEIVES]-> crash reports 0.8664050102233887
+[Waka Kotahi policy]: Waka Kotahi policy --[PUBLISHED]-> website 0.8673614263534546
+[Waka Kotahi policy]: New Zealand Transport Agency --[POLICY]-> Waka Kotahi policy 0.855185329914093
+[Waka Kotahi policy]: Waka Kotahi --[FOLLOWS]-> Waka Kotahi policy 0.8514540195465088
+[Waka Kotahi policy]: Waka Kotahi --[POLICY]-> Waka Kotahi policy 0.8495010137557983
+[Waka Kotahi policy]: Waka Kotahi NZ Transport Agency --[FOLLOWS]-> Waka Kotahi policy 0.8318591713905334
+[Waka Kotahi policy]: Waka Kotahi policy --[REQUIRES]-> publishing responses on website 0.8315026760101318
+[information to Waka Kotahi]: New Zealand Transport Agency --[PROVIDES]-> information to Waka Kotahi 0.8425354361534119
+[Waka Kotahi Senior Project Manager]: Waka Kotahi Senior Project Manager --[MANAGES]-> State Highway 25A Rebuild Project 0.8384420275688171

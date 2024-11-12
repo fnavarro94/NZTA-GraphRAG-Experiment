@@ -1,0 +1,36 @@
+Under which regional council does the entity responsible for planning and delivering public transport services in Auckland operate?
+None
+Seed: Regional councils and local authorities
+Seed: Local councils and new zealand transport agency
+Seed: Local government initiatives
+Seed: Regional transport initiatives
+[Regional councils and local authorities]: National land transport programme --[Developed in consultation with]-> Regional councils and local authorities 0.8255428075790405
+[Regional councils and local authorities]: National land transport programme --[Is]-> Key component of new zealand's transport planning framework 0.8358884453773499
+[Regional councils and local authorities]: National land transport programme --[Updated]-> Every three years 0.770031213760376
+[Regional councils and local authorities]: National land transport programme --[Promotes]-> Environmental sustainability 0.7723351120948792
+[Regional councils and local authorities]: Government objectives --[Include]-> Environmental sustainability 0.7330392003059387
+[Regional councils and local authorities]: Waka kotahi --[Contributes to]-> Environmental sustainability 0.7398027181625366
+[Regional councils and local authorities]: Sustainable urban transport --[Key component]-> Environmental sustainability 0.7683576941490173
+[Regional councils and local authorities]: Vehicle technology advancements --[Enhanced]-> Environmental sustainability 0.7185237407684326
+[Regional councils and local authorities]: Environmental sustainability --[Has become]-> Key consideration in road infrastructure development 0.7437306642532349
+[Regional councils and local authorities]: Smart mobility solutions --[Address]-> Environmental sustainability 0.7486984729766846
+[Regional councils and local authorities]: New zealand --[Address]-> Environmental sustainability 0.7965334057807922
+[Regional councils and local authorities]: National land transport programme --[Supports]-> Economic growth 0.7702039480209351
+[Regional councils and local authorities]: Government objectives --[Include]-> Economic growth 0.7317616939544678
+[Regional councils and local authorities]: Kiwirail group --[Promotes]-> Economic growth 0.7950313687324524
+[Regional councils and local authorities]: Waka kotahi --[Contributes to]-> Economic growth 0.7335472702980042
+[Regional councils and local authorities]: Auckland western ring route --[Supports]-> Economic growth 0.8141211271286011
+[Regional councils and local authorities]: Transport infrastructure development --[Is crucial for]-> Economic growth 0.771583080291748
+[Regional councils and local authorities]: Freight transport --[Essential for]-> Economic growth 0.7451663017272949
+[Regional councils and local authorities]: Road infrastructure --[Is vital for]-> Economic growth 0.7433516979217529
+[Regional councils and local authorities]: National land transport programme --[Is]-> Key framework 0.7689250707626343
+[Regional councils and local authorities]: National land transport programme --[Aims to]-> Enhance sustainability 0.7663066983222961
+[Regional councils and local authorities]: National land transport programme --[Aims to]-> Enhance efficiency 0.7640600800514221
+[Regional councils and local authorities]: National land transport programme --[Developed by]-> Waka kotahi nz transport agency 0.8207391500473022
+[Regional councils and local authorities]: Waka kotahi nz transport agency --[Responsible for]-> Managing national land transport system 0.8383433222770691
+[Regional councils and local authorities]: New zealand traffic control devices manual --[Published by]-> Waka kotahi nz transport agency 0.7949793934822083
+[Regional councils and local authorities]: Waka kotahi nz transport agency --[Established under]-> Land transport management act 2003 0.8322664499282837
+[Regional councils and local authorities]: Waka kotahi nz transport agency --[Aims to create]-> Safe transport system 0.8087970614433289
+[Regional councils and local authorities]: Waka kotahi nz transport agency --[Ensures]-> Transport network is efficient 0.8061398267745972
+[Regional councils and local authorities]: Waka kotahi nz transport agency --[Involved in]-> Developing innovative transport solutions 0.8335391283035278
+[Regional councils and local authorities]: Waka kotahi nz transport agency --[Focused on]-> Climate change 0.805776059627533

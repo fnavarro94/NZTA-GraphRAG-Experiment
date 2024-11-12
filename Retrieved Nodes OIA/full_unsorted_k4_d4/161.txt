@@ -1,0 +1,36 @@
+How many complaints were made to the NZTA regarding threats or attacks against examiners during driving tests in recent years?
+None
+Seed: Speed and Drunk Driving Enforcement
+Seed: 196 complaints about Uber drivers
+Seed: national, regional and local road safety promotion and education campaigns
+Seed: information related to criminal convictions of driving instructor (I) endorsement holders
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[DOUBLES]-> Speed and Drunk Driving Enforcement 0.7969679832458496
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[FOCUSES_ON]-> Restraints, Impairment, Distraction, Speed 0.7843165397644043
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[PROVIDES]-> Road Policing Activities 0.7802242636680603
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[PROVIDES]-> https://www.nzta.govt.nz/assets/resources/road-policing-programme/docs/rpp-2021-24.pdf 0.827177882194519
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[ALLOCATES]-> $1.24 billion 0.7560480237007141
+[196 complaints about Uber drivers]: Waka Kotahi --[RECEIVES]-> 196 complaints about Uber drivers 0.7992056012153625
+[196 complaints about Uber drivers]: Response --[CONTAINS]-> Waka Kotahi 0.7412903308868408
+[196 complaints about Uber drivers]: Waka Kotahi --[PUBLISHES]-> Response 0.7325502634048462
+[196 complaints about Uber drivers]: response --[CONTAINS]-> Waka Kotahi 0.739385187625885
+[196 complaints about Uber drivers]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.7642455101013184
+[196 complaints about Uber drivers]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.7439771890640259
+[196 complaints about Uber drivers]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7264424562454224
+[196 complaints about Uber drivers]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7739866971969604
+[196 complaints about Uber drivers]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.6925767660140991
+[196 complaints about Uber drivers]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7217946648597717
+[196 complaints about Uber drivers]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.7556086778640747
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.806984543800354
+[196 complaints about Uber drivers]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7950036525726318
+[196 complaints about Uber drivers]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.7338043451309204
+[196 complaints about Uber drivers]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.7764841914176941
+[196 complaints about Uber drivers]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.7375324964523315
+[196 complaints about Uber drivers]: Leisa Coley --[EMPLOYED_BY]-> Waka Kotahi 0.7049152851104736
+[196 complaints about Uber drivers]: Lizette Marais --[EMPLOYED_BY]-> Waka Kotahi 0.7116988897323608
+[196 complaints about Uber drivers]: Waka Kotahi --[EMPLOYS]-> Andy Knackstedt 0.708752453327179
+[196 complaints about Uber drivers]: Waka Kotahi --[EMPLOYS]-> Qualified Staff 0.7176306247711182
+[196 complaints about Uber drivers]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.7575241327285767
+[196 complaints about Uber drivers]: website --[RELATES_TO]-> Waka Kotahi 0.7220704555511475
+[196 complaints about Uber drivers]: Waka Kotahi --[RESPONDS_TO]-> OIA request 0.7425276637077332
+[196 complaints about Uber drivers]: Waka Kotahi --[RESPONDS_TO]-> request 0.7250243425369263
+[196 complaints about Uber drivers]: Waka Kotahi --[PROVIDES]-> OIA-10601-response-georgina-campbell.pdf 0.7662003040313721

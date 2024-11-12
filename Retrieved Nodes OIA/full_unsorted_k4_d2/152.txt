@@ -1,0 +1,36 @@
+Which companies were involved in the development of the Greater Christchurch Mass Rapid Transit Business Case?
+None
+Seed: costing information for Greater Christchurch Mass Rapid Transit
+Seed: cost breakdown for Greater Christchurch Mass Rapid Transit
+Seed: investigating transport companies
+Seed: Investigating transport companies
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[PROVIDES]-> costing information for Greater Christchurch Mass Rapid Transit 0.8558987379074097
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8150075674057007
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.81911700963974
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8297121524810791
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.8248711824417114
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.818962037563324
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.8245338201522827
+[costing information for Greater Christchurch Mass Rapid Transit]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.8247929811477661
+[costing information for Greater Christchurch Mass Rapid Transit]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.8177619576454163
+[costing information for Greater Christchurch Mass Rapid Transit]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8222023248672485
+[costing information for Greater Christchurch Mass Rapid Transit]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.798009991645813
+[costing information for Greater Christchurch Mass Rapid Transit]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.806922197341919
+[costing information for Greater Christchurch Mass Rapid Transit]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8244138360023499
+[costing information for Greater Christchurch Mass Rapid Transit]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8208165764808655
+[costing information for Greater Christchurch Mass Rapid Transit]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8141632676124573
+[costing information for Greater Christchurch Mass Rapid Transit]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8138099908828735
+[costing information for Greater Christchurch Mass Rapid Transit]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8145254254341125
+[costing information for Greater Christchurch Mass Rapid Transit]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8216698169708252
+[costing information for Greater Christchurch Mass Rapid Transit]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8141263723373413
+[costing information for Greater Christchurch Mass Rapid Transit]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8297991156578064
+[costing information for Greater Christchurch Mass Rapid Transit]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7988500595092773
+[costing information for Greater Christchurch Mass Rapid Transit]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8139169216156006
+[costing information for Greater Christchurch Mass Rapid Transit]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8161943554878235
+[costing information for Greater Christchurch Mass Rapid Transit]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8226308822631836
+[costing information for Greater Christchurch Mass Rapid Transit]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8230840563774109
+[costing information for Greater Christchurch Mass Rapid Transit]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8125172853469849
+[costing information for Greater Christchurch Mass Rapid Transit]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.81626957654953
+[costing information for Greater Christchurch Mass Rapid Transit]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8167303800582886
+[costing information for Greater Christchurch Mass Rapid Transit]: Senior Engineer Vehicle Standard --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7995420098304749
+[costing information for Greater Christchurch Mass Rapid Transit]: oia-15834-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.817342221736908

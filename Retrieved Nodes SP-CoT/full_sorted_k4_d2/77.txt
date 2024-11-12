@@ -1,0 +1,25 @@
+In what year did the Onehunga Line get reintroduced, enhancing the connection between the two locations connected by the first railway line constructed in the country in 1873?
+None
+Seed: First railway line between auckland and onehunga in 1873
+Seed: Onehunga to the wider auckland rail network
+Seed: 1873
+Seed: Rich history of rail transport
+[First railway line between auckland and onehunga in 1873]: New zealand --[Had]-> First railway line between auckland and onehunga in 1873 0.9145550727844238
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Developing rail network 0.8074407577514648
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Railways 0.8007805347442627
+[First railway line between auckland and onehunga in 1873]: New zealand --[Composed of]-> Rail networks 0.7937484979629517
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Trains 0.793573796749115
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Rail transport 0.7921727299690247
+[First railway line between auckland and onehunga in 1873]: New zealand --[Composed of]-> Trains 0.788818359375
+[Onehunga to the wider auckland rail network]: Onehunga line --[Connects]-> Onehunga to the wider auckland rail network 0.847040593624115
+[Onehunga to the wider auckland rail network]: Onehunga line --[Has]-> Been instrumental in alleviating road congestion 0.8463435769081116
+[Onehunga to the wider auckland rail network]: Onehunga line --[Has]-> Been instrumental in promoting public transport use 0.8435794115066528
+[Onehunga to the wider auckland rail network]: Onehunga line --[Has]-> Been instrumental in reducing travel times for commuters 0.8318623304367065
+[1873]: Railway line --[Opened]-> 1873 0.8723945021629333
+[Rich history of rail transport]: Wellington region --[Has]-> Rail network 0.7908071279525757
+[Rich history of rail transport]: Wellington region --[Has]-> Rich history of rail transport 0.7867205142974854
+[Rich history of rail transport]: Wellington region --[Includes]-> Surrounding rural areas 0.7467864751815796
+[Rich history of rail transport]: Wellington public transport spine study --[Represents]-> Wellington region 0.7339538335800171
+[Rich history of rail transport]: Wellington public transport spine study --[Focuses on]-> Wellington region 0.7328939437866211
+[Rich history of rail transport]: Wellington regional council --[Responsible for]-> Wellington region 0.7230250239372253
+[Rich history of rail transport]: Wellington free ambulance --[Operates in]-> Wellington region 0.7080143690109253

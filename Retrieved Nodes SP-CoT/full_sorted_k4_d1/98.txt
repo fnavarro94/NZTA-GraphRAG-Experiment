@@ -1,0 +1,16 @@
+I'm sorry, but the questions provided are too complex and convoluted for me to provide accurate answers. If you could simplify the questions or provide more context, I would be happy to help answer them.
+None
+Seed: Criticism for complexity
+Seed: Surveys
+Seed: Cultural influences
+Seed: Cultural factors
+[Criticism for complexity]: Resource management act 1991 --[Subject to]-> Criticism for complexity 0.8291789889335632
+[Surveys]: Road user engagement --[Includes]-> Surveys 0.7730333805084229
+[Surveys]: Driver behavior and safety --[Utilize]-> Surveys 0.7656833529472351
+[Surveys]: Wellington public transport spine study --[Involves]-> Surveys 0.7535083889961243
+[Cultural influences]: Cultural influences --[Explore]-> How cultural factors influence road user behavior 0.7759347558021545
+[Cultural influences]: Cultural influences --[Explore]-> How cultural attitudes towards transport modes affect compliance 0.7664688229560852
+[Cultural influences]: Cultural influences --[Explore]-> How cultural attitudes towards transport modes affect overall road safety outcomes 0.7655812501907349
+[Cultural influences]: Cultural influences --[Explore]-> How cultural attitudes towards road safety affect overall road safety outcomes 0.7633956074714661
+[Cultural influences]: Cultural influences --[Explore]-> How cultural attitudes towards road safety affect compliance 0.762710690498352
+[Cultural factors]: Teia --[Includes]-> Cultural factors 0.8069573044776917

@@ -1,0 +1,30 @@
+How did the number of direct reports to the NZTA Chief Executive change from 2014 to 2016?
+None
+Seed: Annual Reports
+Seed: Annual Monitoring Report 2020
+Seed: resignations by year since 2014
+Seed: Chief Financial Officer
+[Annual Reports]: Annual Reports --[CONTAINS]-> paid toll revenues 0.8178408741950989
+[Annual Reports]: paid toll revenues --[AVAILABLE_IN]-> Annual Reports 0.8177779912948608
+[Annual Reports]: Waka Kotahi --[PUBLISHES]-> Annual Reports 0.8086501955986023
+[Annual Reports]: Andrew Knackstedt --[CONTACT]-> Waka Kotahi 0.8068053722381592
+[Annual Reports]: Waka Kotahi --[CONTACTABLE]-> official.correspondence@nzta.govt.nz 0.8065837025642395
+[Annual Reports]: Waka Kotahi --[CONTACT]-> official.correspondence@nzta.govt.nz 0.8053579926490784
+[Annual Reports]: Waka Kotahi --[CONTACT]-> official.corespondence@nzta.govt.nz 0.8050503730773926
+[Annual Monitoring Report 2020]: Road to Zero --[PROGRESS]-> Annual Monitoring Report 0.814226508140564
+[Annual Monitoring Report 2020]: Annual Monitoring Report --[OUTLINES]-> Road to Zero 0.8049349784851074
+[Annual Monitoring Report 2020]: Road to Zero --[PUBLICATION]-> Annual Monitoring Report 2020 0.8032861948013306
+[Annual Monitoring Report 2020]: Road to Zero --[EFFECTIVENESS]-> Annual Monitoring Report 2020 0.8004356622695923
+[Annual Monitoring Report 2020]: Road to Zero --[FORECAST_INVESTMENT]-> page 35 of the 2021 GPS 0.7956899404525757
+[Annual Monitoring Report 2020]: Road to Zero --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.7925878167152405
+[Annual Monitoring Report 2020]: Waka Kotahi NZ Transport Agency --[ANNOUNCED]-> Road to Zero 0.7874746322631836
+[resignations by year since 2014]: New Zealand Transport Agency --[PROVIDES]-> resignations by year since 2014 0.8596545457839966
+[resignations by year since 2014]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.8503172397613525
+[resignations by year since 2014]: New Zealand Transport Agency --[PROVIDES]-> financial figures 0.8501125574111938
+[resignations by year since 2014]: NZTA Website --[OPERATED_BY]-> New Zealand Transport Agency 0.8479703664779663
+[resignations by year since 2014]: Chief Executive --[EMPLOYER]-> New Zealand Transport Agency 0.8468502759933472
+[resignations by year since 2014]: New Zealand Transport Agency --[FOLLOWS]-> NZTA policy 0.8443841934204102
+[resignations by year since 2014]: New Zealand Transport Agency --[PROVIDES]-> financial information 0.8438114523887634
+[Chief Financial Officer]: Chief Financial Officer --[HELD_BY]-> Howard Cattermole 0.790883481502533
+[Chief Financial Officer]: Howard Cattermole --[SIGNED]-> response letter 0.7362774610519409
+[Chief Financial Officer]: Yours sincerely --[FOLLOWS]-> Howard Cattermole 0.6889076232910156

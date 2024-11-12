@@ -1,0 +1,36 @@
+How is the NZTA engaging with regional councils regarding the Choice application?
+None
+Seed: Regional Investment Opportunities
+Seed: wider objectives in Regional Public Transport Plans
+Seed: does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?
+Seed: regional council readiness
+[Regional Investment Opportunities]: Regional Investment Opportunities --[FUNDED]-> project artworks 0.8042013049125671
+[Regional Investment Opportunities]: project artworks --[PART_OF]-> Regional Investment Opportunities 0.8083450794219971
+[Regional Investment Opportunities]: Ministry of Business, Innovation and Employment --[ADMINISTERS]-> Regional Investment Opportunities 0.8345450758934021
+[Regional Investment Opportunities]: Kānoa --[ADMINISTERS]-> Regional Investment Opportunities 0.8156194090843201
+[wider objectives in Regional Public Transport Plans]: underlying principles of the current policy --[CONTRIBUTES]-> wider objectives in Regional Public Transport Plans 0.8158113956451416
+[wider objectives in Regional Public Transport Plans]: national farebox recovery target --[REPLACED_BY]-> underlying principles of the current policy 0.7819162011146545
+[wider objectives in Regional Public Transport Plans]: wider objectives in Regional Public Transport Plans --[CONTRIBUTES]-> government's transport priorities 0.8225748538970947
+[wider objectives in Regional Public Transport Plans]: government's transport priorities --[INCLUDES]-> fares play an important role in helping cover the cost of public transport within available budgets 0.7853552103042603
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: Amanda Cropp --[REQUESTED]-> does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it? 0.9094824194908142
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: Amanda Cropp --[IS]-> Chief 0.7325439453125
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: Amanda Cropp --[ASSOCIATED]-> oia-4596 0.7447028160095215
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: OIA-4596 --[DECLINED]-> Amanda Cropp 0.7467309236526489
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: Amanda Cropp --[SUBMITTED_REQUEST]-> OIA-4596 0.7872195243835449
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: Amanda Cropp --[REQUESTED]-> Transport Data 0.7779369354248047
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: Amanda Cropp --[WORKS_FOR]-> Stuff Media 0.7284417748451233
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: oia-4596 --[ASSOCIATED]-> Amanda Cropp 0.7341740131378174
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: Amanda Cropp --[ASSOCIATED_WITH]-> oia-4813-Amanda-Cropp.pdf 0.7597481608390808
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: Amanda Cropp --[EMAIL]-> amanda.cropp@stuff.co.nz 0.7817281484603882
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: Amanda Cropp --[ASSOCIATED_WITH]-> nzta_dev 0.7880477905273438
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: Amanda Cropp --[REQUESTED]-> who is developing the AT Mobile app and what is it? 0.7673967480659485
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: oia-4813-Amanda-Cropp.pdf --[CONTAINS]-> Amanda Cropp 0.751767635345459
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: Amanda Cropp --[ASSOCIATED_WITH]-> sample_files 0.7431240677833557
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: Amanda Cropp --[REQUESTED]-> is this just for Otago, other individual regions, or is there going to be a national version? 0.8557858467102051
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: Amanda Cropp --[WORKS_FOR]-> Stuff Media Works 0.7309672832489014
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: Amanda Cropp --[ASSOCIATED_WITH]-> transport_data 0.7512320280075073
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: transport_data --[CONTAINS]-> Amanda Cropp 0.7531150579452515
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: Amanda Cropp --[ASSOCIATED_WITH]-> OIA-4813 0.759411633014679
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: OIA-4813 --[CONTAINS]-> Amanda Cropp 0.7501387596130371
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: Users/felipenavarro/Documents/Auckland/nzta/nzta_dev/NZTA-GraphRAG/transport_data/sample_files/nzta/temp_files/oia-4813-Amanda-Cropp.pdf --[CONTAINS]-> Amanda Cropp 0.7972105741500854
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: sample_files --[CONTAINS]-> Amanda Cropp 0.7356688976287842

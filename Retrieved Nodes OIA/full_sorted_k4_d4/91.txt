@@ -1,0 +1,34 @@
+How many times has the Milford Rd closed each year for the past 5 years?
+None
+Seed: 5 years
+Seed: vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas
+Seed: resignations by year since 2014
+Seed: Milford Alliance
+[5 years]: Milford Alliance --[DEVELOPED_BY]-> Connected Journeys 0.8118149042129517
+[5 years]: Transport Service Licences --[ACTIVE_FOR]-> 5 years 0.8066335916519165
+[5 years]: Connected Journeys --[DEVELOPS]-> Milford Alliance 0.7938207387924194
+[5 years]: Queenstown Lakes and Central Otago --[PART_OF]-> New Zealand 0.7929685115814209
+[5 years]: road renewal --[OVERDUE]-> road maintenance 0.7922957539558411
+[5 years]: Environment Canterbury --[TRANSITIONS]-> NTS 0.7895168662071228
+[5 years]: Galina Mitchelhill --[CONTACT]-> matt.hendry@nzta.govt.nz 0.7886056900024414
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Milford Alliance --[DEVELOPED_BY]-> Connected Journeys 0.8118149042129517
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Transport Service Licences --[ACTIVE_FOR]-> 5 years 0.8066335916519165
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: per year --[FOR]-> road accident data 0.7974660992622375
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Connected Journeys --[DEVELOPS]-> Milford Alliance 0.7938207387924194
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: longest overdue road --[OVERDUE]-> road renewal 0.7936391830444336
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Featherston --[RAISED_CROSSINGS]-> this year 0.7932672500610352
+[vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas]: Queenstown Lakes and Central Otago --[PART_OF]-> New Zealand 0.7929685115814209
+[resignations by year since 2014]: Milford Alliance --[DEVELOPED_BY]-> Connected Journeys 0.8118149042129517
+[resignations by year since 2014]: Transport Service Licences --[ACTIVE_FOR]-> 5 years 0.8066335916519165
+[resignations by year since 2014]: per year --[FOR]-> road accident data 0.7974660992622375
+[resignations by year since 2014]: Connected Journeys --[DEVELOPS]-> Milford Alliance 0.7938207387924194
+[resignations by year since 2014]: longest overdue road --[OVERDUE]-> road renewal 0.7936391830444336
+[resignations by year since 2014]: Featherston --[RAISED_CROSSINGS]-> this year 0.7932672500610352
+[resignations by year since 2014]: Queenstown Lakes and Central Otago --[PART_OF]-> New Zealand 0.7929685115814209
+[Milford Alliance]: Milford Alliance --[DEVELOPED_BY]-> Connected Journeys 0.8118149042129517
+[Milford Alliance]: Transport Service Licences --[ACTIVE_FOR]-> 5 years 0.8066335916519165
+[Milford Alliance]: Connected Journeys --[DEVELOPS]-> Milford Alliance 0.7938207387924194
+[Milford Alliance]: Queenstown Lakes and Central Otago --[PART_OF]-> New Zealand 0.7929685115814209
+[Milford Alliance]: road renewal --[OVERDUE]-> road maintenance 0.7922957539558411
+[Milford Alliance]: Environment Canterbury --[TRANSITIONS]-> NTS 0.7895168662071228
+[Milford Alliance]: Galina Mitchelhill --[CONTACT]-> matt.hendry@nzta.govt.nz 0.7886056900024414

@@ -1,0 +1,34 @@
+Which major urban center is located to the south of the city in the region known for its Metlink services, which focus on providing comprehensive coverage across the region?
+None
+Seed: To connect urban centers with rural areas
+Seed: Major urban centers
+Seed: Urban centers and rural communities
+Seed: Key urban centers
+[To connect urban centers with rural areas]: New zealand --[Has]-> Urban centers 0.7961864471435547
+[To connect urban centers with rural areas]: New zealand --[Needs]-> To connect urban centers with rural areas 0.7892208695411682
+[To connect urban centers with rural areas]: New zealand --[Characterized by]-> Urban centers 0.7864668369293213
+[To connect urban centers with rural areas]: New zealand --[Characterized by]-> Urban centers and rural communities 0.7703642845153809
+[To connect urban centers with rural areas]: New zealand --[Has]-> Urban areas 0.7700567841529846
+[To connect urban centers with rural areas]: New zealand --[Has]-> Regional transport planning 0.7687957286834717
+[To connect urban centers with rural areas]: New zealand --[Has]-> Urban-rural dynamics 0.7663626670837402
+[Major urban centers]: State highway 1 --[Links]-> Major urban centers 0.8290444612503052
+[Major urban centers]: State highway 1 --[Runs]-> Length of the country 0.7368873357772827
+[Major urban centers]: Wellington northern corridor --[Links with]-> State highway 1 0.7251511812210083
+[Major urban centers]: Christchurch --[Served by]-> State highway 1 0.7242343425750732
+[Major urban centers]: Hamilton --[Served by]-> State highway 1 0.7202727794647217
+[Major urban centers]: State highway 1 --[Runs]-> Length of north island 0.7195969820022583
+[Major urban centers]: Auckland western ring route --[Reconnects]-> State highway 1 0.7043721079826355
+[Urban centers and rural communities]: New zealand --[Has]-> Urban centers 0.7961864471435547
+[Urban centers and rural communities]: New zealand --[Needs]-> To connect urban centers with rural areas 0.7892208695411682
+[Urban centers and rural communities]: New zealand --[Characterized by]-> Urban centers 0.7864668369293213
+[Urban centers and rural communities]: New zealand --[Characterized by]-> Urban centers and rural communities 0.7703642845153809
+[Urban centers and rural communities]: New zealand --[Has]-> Urban areas 0.7700567841529846
+[Urban centers and rural communities]: New zealand --[Has]-> Regional transport planning 0.7687957286834717
+[Urban centers and rural communities]: New zealand --[Has]-> Urban-rural dynamics 0.7663626670837402
+[Key urban centers]: Pch --[Connects]-> Key urban centers 0.8215506076812744
+[Key urban centers]: Pch --[Plays]-> Crucial role in regional connectivity 0.7904015779495239
+[Key urban centers]: Pch --[Contributes to]-> Overall accessibility of the region 0.7682244777679443
+[Key urban centers]: Pch --[Reflects]-> Importance of well-planned transport systems in both countries 0.7667770385742188
+[Key urban centers]: Pch --[Provides]-> Access to rural communities 0.766071081161499
+[Key urban centers]: Pch --[Known for]-> Access to numerous coastal towns and attractions 0.7645305395126343
+[Key urban centers]: Pch --[Stretches along]-> Western coastline of the united states 0.7626208662986755

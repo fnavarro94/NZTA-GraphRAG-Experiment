@@ -1,0 +1,22 @@
+What type of public transport solution was being considered for the route between Wynyard Quarter and the north-western motorway?
+None
+Seed: reports on converting the shoulder of Auckland Motorway into Bus Lanes
+Seed: https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/
+Seed: review of public transport fare policy
+Seed: Briefing for Fergus on WCC proposal to install non-complying rainbow pedestrian crossing traffic control device
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Zachary Wong --[REQUESTED]-> reports on converting the shoulder of Auckland Motorway into Bus Lanes 0.8135884404182434
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf --[APPENDIX]-> Appendices A to E 0.806395947933197
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: reports on converting the shoulder of Auckland Motorway into Bus Lanes --[PROVIDED]-> Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf 0.7956129312515259
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Zachary Wong --[EMAIL]-> fyi-request-9242-f4aad453@requests.fyi.org.nz 0.7037843465805054
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Project Agreement --[AVAILABLE]-> https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/ 0.8196707367897034
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Project Agreement --[GOVERNED_BY]-> Public Private Partnership 0.7453817129135132
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Out of Scope --[RELATES]-> Project Agreement 0.7073014974594116
+[review of public transport fare policy]: Connected Journey Solutions --[IS_PART_OF]-> New Zealand Transport Agency 0.8281615972518921
+[review of public transport fare policy]: New Zealand Transport Agency --[PROVIDES]-> Connected Journey Solutions 0.8230506181716919
+[review of public transport fare policy]: Connected Journeys --[PART_OF]-> New Zealand Transport Agency 0.8166179656982422
+[review of public transport fare policy]: WSP --[ENGAGED_BY]-> New Zealand Transport Agency 0.8145922422409058
+[review of public transport fare policy]: New Zealand Transport Agency --[DEVELOPS]-> Road to Zero Strategy 0.8138697147369385
+[review of public transport fare policy]: Road to Zero Strategy --[DEVELOPED]-> New Zealand Transport Agency 0.8134929537773132
+[review of public transport fare policy]: New Zealand Transport Agency --[SPENT]-> Road to Zero Strategy Development 0.812728762626648
+[Briefing for Fergus on WCC proposal to install non-complying rainbow pedestrian crossing traffic control device]: Fergus Gammie --[BRIEFING]-> Briefing for Fergus on WCC proposal to install non-complying rainbow pedestrian crossing traffic control device 0.810894250869751
+[Briefing for Fergus on WCC proposal to install non-complying rainbow pedestrian crossing traffic control device]: Rainbow Crossing --[UPDATE_REQUEST]-> Fergus Gammie 0.745987594127655

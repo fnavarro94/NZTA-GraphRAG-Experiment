@@ -1,0 +1,36 @@
+What is the official designation of the scenic route in New Zealand that is known for attracting both domestic and international tourists?
+None
+Seed: Scenic routes such as the tranzalpine and the northern explorer
+Seed: Domestic and international tourists
+Seed: Renowned scenic roadway
+Seed: Scenic routes
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Include]-> Scenic routes such as the tranzalpine and the northern explorer 0.8044208884239197
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Showcase]-> New zealand's stunning landscapes 0.8293941617012024
+[Domestic and international tourists]: Road transport --[Attracts]-> Domestic and international tourists 0.8422207832336426
+[Domestic and international tourists]: Road transport --[Uses]-> Gps for navigation and route optimization 0.7651116847991943
+[Domestic and international tourists]: Health and safety at work act 2015 --[Applies to]-> Road transport 0.7375304102897644
+[Domestic and international tourists]: Health and safety at work act 2015 --[Emphasizes]-> Importance of proactive risk management 0.7025836706161499
+[Domestic and international tourists]: Health and safety at work act 2015 --[Introduced]-> Robust approach to workplace safety 0.693871259689331
+[Domestic and international tourists]: Health and safety at work act 2015 --[Emphasizes]-> Importance of risk management 0.69730544090271
+[Domestic and international tourists]: Health and safety at work act 2015 --[Applies to]-> Maritime 0.7012849450111389
+[Domestic and international tourists]: Ministry of transport --[Oversees]-> Maritime 0.7289430499076843
+[Domestic and international tourists]: Ministry of transport --[Develops]-> National transport policies 0.7393028736114502
+[Domestic and international tourists]: Ministry of transport --[Oversees]-> Rail 0.7433912754058838
+[Domestic and international tourists]: Health and safety at work act 2015 --[Applies to]-> Rail 0.7219686508178711
+[Domestic and international tourists]: Kiwirail --[Promotes]-> Rail 0.7839425802230835
+[Domestic and international tourists]: Transport risk assessment --[Encompasses]-> Rail 0.7400040626525879
+[Domestic and international tourists]: Ministry of transport --[Works with]-> New zealand transport agency 0.7765538692474365
+[Domestic and international tourists]: New zealand --[Has]-> New zealand transport agency 0.8292297124862671
+[Domestic and international tourists]: New zealand transport agency --[Is]-> Forefront of promoting active transport 0.8066930770874023
+[Domestic and international tourists]: New zealand transport agency --[Is]-> Government agency 0.8025487065315247
+[Domestic and international tourists]: New zealand transport agency --[Is]-> Key stakeholder 0.8053324222564697
+[Domestic and international tourists]: New zealand transport agency --[Is]-> Primary authority 0.8063117861747742
+[Domestic and international tourists]: New zealand transport agency --[Is]-> Developing integrated transport solutions 0.7940172553062439
+[Domestic and international tourists]: New zealand transport agency --[Is]-> Collaborating with technology providers 0.7742846012115479
+[Domestic and international tourists]: New zealand transport agency --[Implemented]-> Initiatives 0.8006255626678467
+[Domestic and international tourists]: New zealand transport agency --[Responsible for]-> Management and regulation of transport systems 0.8040387034416199
+[Domestic and international tourists]: New zealand transport agency --[Responsible for]-> Management and regulation of the transport system in new zealand 0.8052775859832764
+[Domestic and international tourists]: New zealand transport agency --[Ensures]-> Policies align with national transport objectives 0.7767875790596008
+[Domestic and international tourists]: New zealand transport agency --[Ensures]-> Voices of all road users are considered in decision-making processes 0.7899570465087891
+[Domestic and international tourists]: New zealand transport agency --[Mandates]-> Regular audits 0.7741011381149292
+[Domestic and international tourists]: New zealand transport agency --[Promotes]-> Road safety 0.7865281105041504

@@ -1,0 +1,36 @@
+What is the abbreviation for the project in Auckland that uses real-time data to manage traffic and provide timely information to commuters?
+None
+Seed: Addressing transport challenges in auckland
+Seed: Real-time traffic data collection
+Seed: Real-time traffic management systems
+Seed: Advanced technology and real-time data analytics
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Addressing transport challenges in auckland 0.8703999519348145
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On enhancing road infrastructure 0.867870032787323
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Outlines]-> Strategic approach to address challenges 0.8488777279853821
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On improving public transport 0.867254376411438
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On promoting sustainable transport solutions 0.853548526763916
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Promote sustainable transport options 0.851405918598175
+[Addressing transport challenges in auckland]: Walking school bus --[Aligns with]-> Promote sustainable transport options 0.7718634009361267
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Reduce congestion 0.8662929534912109
+[Addressing transport challenges in auckland]: Transmission gully motorway --[Designed to]-> Reduce congestion 0.8134192228317261
+[Addressing transport challenges in auckland]: Transport system optimization --[Aims to]-> Reduce congestion 0.7871221303939819
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Is]-> Strategic initiative 0.8637232780456543
+[Addressing transport challenges in auckland]: Auckland cycling network plan --[Is]-> Strategic initiative 0.840968132019043
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Improve efficiency and effectiveness of transport system 0.8656489849090576
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Launched in]-> 2016 0.8648887276649475
+[Addressing transport challenges in auckland]: New zealand electric vehicle programme --[Launched in]-> 2016 0.8029310703277588
+[Addressing transport challenges in auckland]: Auckland city rail link --[Began]-> 2016 0.8360023498535156
+[Addressing transport challenges in auckland]: Wellington public transport spine study --[Launched in]-> 2016 0.8050810098648071
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Development of comprehensive transport network 0.8833969831466675
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Is]-> Collaborative effort 0.8677524328231812
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Aligning transport investments 0.8650357127189636
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Create unified transport network 0.868393063545227
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Encompasses]-> Range of projects 0.8718466758728027
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Emphasizes]-> Need for balanced transport system 0.8510895371437073
+[Real-time traffic data collection]: Traffic management systems --[Include]-> Real-time traffic data collection 0.8615542054176331
+[Real-time traffic data collection]: Traffic management systems --[Include]-> Variable message signs 0.809107780456543
+[Real-time traffic data collection]: Variable message signs --[Inform]-> Motorists of accidents 0.767344057559967
+[Real-time traffic data collection]: Variable message signs --[Inform]-> Motorists of roadworks 0.7921799421310425
+[Real-time traffic data collection]: Variable message signs --[Inform]-> Motorists of traffic conditions 0.7841489315032959
+[Real-time traffic data collection]: Traffic management systems --[Expected to evolve further]-> Data-driven decision-making 0.813927948474884
+[Real-time traffic data collection]: Traffic management systems --[Include]-> Traffic signals 0.8203451633453369

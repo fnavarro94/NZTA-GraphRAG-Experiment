@@ -1,0 +1,13 @@
+What was the total spending on the Let’s Get Wellington Moving Programme from January to June 2020?
+None
+Seed: itemised list of all Let’s Get Wellington Moving spending in 2020 to date
+Seed: Let’s Get Wellington Moving Programme
+Seed: bid for NZ Transport Agency funding
+Seed: update on budget and costs
+[itemised list of all Let’s Get Wellington Moving spending in 2020 to date]: Joel MacManus --[ITEMISED]-> itemised list of all Let’s Get Wellington Moving spending in 2020 to date 0.8854416608810425
+[Let’s Get Wellington Moving Programme]: Let’s Get Wellington Moving Programme --[INVESTMENT]-> $6.4 billion 0.8906567096710205
+[Let’s Get Wellington Moving Programme]: Let’s Get Wellington Moving Programme --[PLAN]-> large, complex, and ambitious plan 0.8681885600090027
+[Let’s Get Wellington Moving Programme]: Let’s Get Wellington Moving Programme --[RESPONSIBLE]-> improve the experience of all Wellingtonians as they move around the city 0.8380661010742188
+[bid for NZ Transport Agency funding]: Auckland Transport --[SUBMITS]-> bid for NZ Transport Agency funding 0.8069843649864197
+[update on budget and costs]: New Zealand Transport Agency --[PROVIDES]-> update on budget and costs 0.829887330532074
+[update on budget and costs]: update on budget and costs --[RELATES_TO]-> budget 0.7809492349624634

@@ -1,0 +1,36 @@
+What type of fixed-wing aircraft is used by the organization in New Zealand that operates a fleet of helicopters and fixed-wing aircraft to provide rapid transport for critically ill patients to specialized care facilities?
+None
+Seed: Fleet of helicopters and fixed-wing aircraft
+Seed: Diverse fleet of aircraft
+Seed: Modern fleet of aircraft
+Seed: Rapid response and advanced medical care
+[Fleet of helicopters and fixed-wing aircraft]: New zealand air ambulance service --[Operates]-> Fleet of helicopters and fixed-wing aircraft 0.9247332811355591
+[Fleet of helicopters and fixed-wing aircraft]: New zealand air ambulance service --[Utilizes]-> Diverse fleet of aircraft 0.8999338150024414
+[Fleet of helicopters and fixed-wing aircraft]: New zealand air ambulance service --[Works]-> Collaboration with new zealand ministry of health and local health authorities 0.839698314666748
+[Fleet of helicopters and fixed-wing aircraft]: New zealand air ambulance service --[Relies]-> Community support and fundraising efforts 0.8444730639457703
+[Fleet of helicopters and fixed-wing aircraft]: New zealand air ambulance service --[Established]-> Late 20th century 0.8599321246147156
+[Fleet of helicopters and fixed-wing aircraft]: Traffic safety audits --[Emerged]-> Late 20th century 0.7224918603897095
+[Fleet of helicopters and fixed-wing aircraft]: New zealand air ambulance service --[Faces]-> Funding constraints and need for ongoing training and equipment upgrades 0.8368901014328003
+[Fleet of helicopters and fixed-wing aircraft]: New zealand air ambulance service --[Provides]-> Rapid response and advanced medical care 0.8751427531242371
+[Fleet of helicopters and fixed-wing aircraft]: New zealand air ambulance service --[Focuses]-> Improving response times and integrating new technologies 0.8421763181686401
+[Fleet of helicopters and fixed-wing aircraft]: New zealand air ambulance service --[Plays]-> Vital role in broader transport network of new zealand 0.8663311004638672
+[Fleet of helicopters and fixed-wing aircraft]: New zealand air ambulance service --[Is]-> Critical component of emergency medical transport system 0.8788267374038696
+[Diverse fleet of aircraft]: New zealand air ambulance service --[Utilizes]-> Diverse fleet of aircraft 0.8999338150024414
+[Diverse fleet of aircraft]: New zealand air ambulance service --[Operates]-> Fleet of helicopters and fixed-wing aircraft 0.9247332811355591
+[Diverse fleet of aircraft]: New zealand air ambulance service --[Works]-> Collaboration with new zealand ministry of health and local health authorities 0.839698314666748
+[Diverse fleet of aircraft]: New zealand air ambulance service --[Relies]-> Community support and fundraising efforts 0.8444730639457703
+[Diverse fleet of aircraft]: New zealand air ambulance service --[Established]-> Late 20th century 0.8599321246147156
+[Diverse fleet of aircraft]: Traffic safety audits --[Emerged]-> Late 20th century 0.7224918603897095
+[Diverse fleet of aircraft]: New zealand air ambulance service --[Faces]-> Funding constraints and need for ongoing training and equipment upgrades 0.8368901014328003
+[Diverse fleet of aircraft]: New zealand air ambulance service --[Provides]-> Rapid response and advanced medical care 0.8751427531242371
+[Diverse fleet of aircraft]: New zealand air ambulance service --[Focuses]-> Improving response times and integrating new technologies 0.8421763181686401
+[Diverse fleet of aircraft]: New zealand air ambulance service --[Plays]-> Vital role in broader transport network of new zealand 0.8663311004638672
+[Diverse fleet of aircraft]: New zealand air ambulance service --[Is]-> Critical component of emergency medical transport system 0.8788267374038696
+[Modern fleet of aircraft]: Air new zealand --[Operates]-> Modern fleet of aircraft 0.8795093297958374
+[Modern fleet of aircraft]: Air new zealand --[Operates]-> Boeing 787 dreamliners 0.8517757058143616
+[Modern fleet of aircraft]: Air new zealand --[Member of]-> Star alliance 0.8332566022872925
+[Modern fleet of aircraft]: Air new zealand --[Headquartered in]-> Auckland 0.8387782573699951
+[Modern fleet of aircraft]: Auckland --[Has]-> Public transport system 0.807935357093811
+[Modern fleet of aircraft]: Auckland --[Has]-> Pedestrian-friendly projects 0.7786737680435181
+[Modern fleet of aircraft]: Auckland --[Has]-> Network of cycle lanes and shared paths 0.7749996781349182
+[Modern fleet of aircraft]: Auckland --[Has]-> Bus network with extensive coverage 0.7847052812576294

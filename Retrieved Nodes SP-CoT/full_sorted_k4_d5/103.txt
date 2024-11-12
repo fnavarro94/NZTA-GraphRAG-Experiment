@@ -1,0 +1,28 @@
+What is one of the destinations served by the Regional Rail System that connects the capital city of New Zealand, which is linked to the city home to the Te Ara I Whiti (Lightpath) project, by the specific rail line in New Zealand that has been improved as part of the government's investment in upgrading rail infrastructure to support sustainable freight solutions?
+None
+Seed: Transport link between wellington and northern regions of north island
+Seed: Ongoing investments in rail infrastructure
+Seed: Regional transport initiatives
+Seed: New zealand's transport network
+[Transport link between wellington and northern regions of north island]: New zealand --[Has]-> Light rail 0.8801032304763794
+[Transport link between wellington and northern regions of north island]: Auckland --[Has]-> City rail link project 0.8794347047805786
+[Transport link between wellington and northern regions of north island]: New zealand --[Has]-> Rail transport 0.876850426197052
+[Transport link between wellington and northern regions of north island]: New zealand --[Has]-> Developing rail network 0.8762747645378113
+[Transport link between wellington and northern regions of north island]: New zealand --[Has]-> Transport projects 0.8752060532569885
+[Transport link between wellington and northern regions of north island]: Auckland --[Has]-> City rail link 0.8736203908920288
+[Transport link between wellington and northern regions of north island]: Auckland --[Has]-> Rail network 0.8696230053901672
+[Ongoing investments in rail infrastructure]: Auckland city rail link --[Is]-> Significant infrastructure project 0.8826984763145447
+[Ongoing investments in rail infrastructure]: New zealand --[Has]-> Light rail 0.8801032304763794
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> City rail link project 0.8794347047805786
+[Ongoing investments in rail infrastructure]: New zealand --[Has]-> Rail transport 0.876850426197052
+[Ongoing investments in rail infrastructure]: New zealand --[Has]-> Developing rail network 0.8762747645378113
+[Ongoing investments in rail infrastructure]: New zealand --[Has]-> Transport projects 0.8752060532569885
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> City rail link 0.8736203908920288
+[Regional transport initiatives]: New zealand --[Has]-> Light rail 0.8801032304763794
+[Regional transport initiatives]: Auckland --[Has]-> City rail link project 0.8794347047805786
+[Regional transport initiatives]: New zealand --[Has]-> Rail transport 0.876850426197052
+[Regional transport initiatives]: New zealand --[Has]-> Developing rail network 0.8762747645378113
+[Regional transport initiatives]: New zealand --[Has]-> Transport projects 0.8752060532569885
+[Regional transport initiatives]: Auckland --[Has]-> City rail link 0.8736203908920288
+[Regional transport initiatives]: Auckland --[Has]-> Rail network 0.8696230053901672
+[New zealand's transport network]: Road infrastructure projects --[Play crucial role in]-> New zealand's transport network 0.8611902594566345

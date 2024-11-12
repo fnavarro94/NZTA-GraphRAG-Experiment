@@ -1,0 +1,10 @@
+In what year did NZ Transport Agency, the organization that develops guidelines and standards for road construction projects in the country aligning with the initiative focusing on expanding bus and train services, improving infrastructure, and integrating different modes of transport in Auckland to enhance public transport, become established?
+None
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+Seed: Adopting integrated transport planning approaches that consider public transport
+Seed: Addressing transport challenges in auckland
+Seed: Critical component of new zealand's transport strategy
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Plays]-> Significant role in shaping transport infrastructure and policy in new zealand 0.8626739978790283
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider public transport 0.8068515062332153
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Addressing transport challenges in auckland 0.8737137317657471
+[Critical component of new zealand's transport strategy]: Road safety education --[Is]-> Critical component of new zealand's transport strategy 0.8462098240852356

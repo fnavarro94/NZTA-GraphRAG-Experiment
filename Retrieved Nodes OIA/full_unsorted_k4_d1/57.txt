@@ -1,0 +1,36 @@
+What is Waka Kotahi's long-term sustainability vision?
+None
+Seed: Waka Kotahi Senior Project Manager
+Seed: vision for a low carbon, safe and healthy land transport system by 2050
+Seed: Waka Kotahi
+Seed: where people can easily learn about sustainability
+[Waka Kotahi Senior Project Manager]: Waka Kotahi Senior Project Manager --[MANAGES]-> State Highway 25A Rebuild Project 0.8160412311553955
+[vision for a low carbon, safe and healthy land transport system by 2050]: Toitū Te Taiao --[SETS]-> vision for a low carbon, safe and healthy land transport system by 2050 0.7960503697395325
+[Waka Kotahi]: Response --[CONTAINS]-> Waka Kotahi 0.8230199217796326
+[Waka Kotahi]: response --[CONTAINS]-> Waka Kotahi 0.8448795676231384
+[Waka Kotahi]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.8296659588813782
+[Waka Kotahi]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.8442124128341675
+[Waka Kotahi]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7805765867233276
+[Waka Kotahi]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7832537293434143
+[Waka Kotahi]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.7948420643806458
+[Waka Kotahi]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.787582278251648
+[Waka Kotahi]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.8227307200431824
+[Waka Kotahi]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.8162552714347839
+[Waka Kotahi]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8305932283401489
+[Waka Kotahi]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.8772275447845459
+[Waka Kotahi]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.831291675567627
+[Waka Kotahi]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.8284420967102051
+[Waka Kotahi]: Leisa Coley --[EMPLOYED_BY]-> Waka Kotahi 0.8362078666687012
+[Waka Kotahi]: Lizette Marais --[EMPLOYED_BY]-> Waka Kotahi 0.8157657384872437
+[Waka Kotahi]: Waka Kotahi --[EMPLOYS]-> Andy Knackstedt 0.8244256377220154
+[Waka Kotahi]: Waka Kotahi --[EMPLOYS]-> Qualified Staff 0.8331813216209412
+[Waka Kotahi]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.8423023223876953
+[Waka Kotahi]: website --[RELATES_TO]-> Waka Kotahi 0.8357571363449097
+[Waka Kotahi]: Waka Kotahi --[RESPONDS_TO]-> OIA request 0.8004429340362549
+[Waka Kotahi]: Waka Kotahi --[RESPONDS_TO]-> request 0.7923000454902649
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> OIA-10601-response-georgina-campbell.pdf 0.832336962223053
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> outcome of suspension 0.82984459400177
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> outcome of surrendered 0.8288464546203613
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> information on website 0.8357093334197998
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> outcome of revoke 0.8210121989250183
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> warnings to individuals 0.8255733251571655

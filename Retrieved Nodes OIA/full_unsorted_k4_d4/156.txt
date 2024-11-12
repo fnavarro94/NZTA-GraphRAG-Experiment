@@ -1,0 +1,36 @@
+Are all costs related to flood damage recorded in Waka Kotahi’s asset management system?
+None
+Seed: Waka Kotahi
+Seed: Waka Kotahi policy
+Seed: information to Waka Kotahi
+Seed: Waka Kotahi Senior Project Manager
+[Waka Kotahi]: Response --[CONTAINS]-> Waka Kotahi 0.8355218768119812
+[Waka Kotahi]: Waka Kotahi --[PUBLISHES]-> Response 0.8440451622009277
+[Waka Kotahi]: response --[CONTAINS]-> Waka Kotahi 0.8370877504348755
+[Waka Kotahi]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.842580258846283
+[Waka Kotahi]: Charles Ronaldson --[SIGNED]-> response 0.7303396463394165
+[Waka Kotahi]: Lauren Cooke --[SIGNED]-> response 0.7254531979560852
+[Waka Kotahi]: Waka Kotahi --[PUBLISHED_BY]-> response 0.8243595361709595
+[Waka Kotahi]: Ministry --[PROVIDE]-> response 0.7500620484352112
+[Waka Kotahi]: response --[REMOVED]-> personal information 0.7211768627166748
+[Waka Kotahi]: Waka Kotahi website --[CONTAINS]-> response 0.8002886772155762
+[Waka Kotahi]: New Zealand Transport Agency --[DISCUSSES]-> response 0.7705507874488831
+[Waka Kotahi]: response --[IS_A]-> letter 0.7206699848175049
+[Waka Kotahi]: Waka Kotahi --[FOLLOWS]-> response 0.8066422343254089
+[Waka Kotahi]: New Zealand Transport Agency --[PUBLISH]-> response 0.7880281805992126
+[Waka Kotahi]: New Zealand Transport Agency --[PUBLISHES]-> response 0.7831225395202637
+[Waka Kotahi]: response --[IS]-> response letter 0.7311394810676575
+[Waka Kotahi]: response letter --[IS]-> response 0.7278050184249878
+[Waka Kotahi]: response --[CONTAINS]-> contact details for the Ombudsman 0.7631638050079346
+[Waka Kotahi]: response --[CONTAINS]-> Jamie Ensor 0.7357417345046997
+[Waka Kotahi]: response --[RELATES_TO]-> personal information removed 0.7207866907119751
+[Waka Kotahi]: Conan Young --[RECEIVES]-> response 0.7263991832733154
+[Waka Kotahi]: oia-14650-response-letter.pdf --[CONTAINS]-> response 0.7461162805557251
+[Waka Kotahi]: response --[IS]-> sincerely 0.7245286703109741
+[Waka Kotahi]: NZTA --[REPLY]-> response 0.7508946657180786
+[Waka Kotahi]: response --[REMOVE]-> personal information 0.7005489468574524
+[Waka Kotahi]: Waka Kotahi --[PUBLISHED]-> response 0.8418728709220886
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> response 0.8178006410598755
+[Waka Kotahi]: response --[IS_PUBLISHED_ON]-> website 0.7412775754928589
+[Waka Kotahi]: personal information --[REMOVED]-> response 0.7248104810714722
+[Waka Kotahi]: Jackie Smith --[PROVIDES]-> response 0.7393977642059326

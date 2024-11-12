@@ -1,0 +1,36 @@
+Which city in the country known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, utilizes the Snapper card as part of its initiative that has improved the reliability of public transport services and allowed users to plan their journeys more effectively?
+None
+Seed: Increased demand for effective transportation systems
+Seed: Critical aspect of transportation planning
+Seed: Adopting integrated transport planning approaches that consider public transport
+Seed: Critical for freight and passenger movement
+[Increased demand for effective transportation systems]: Auckland --[Leading to]-> Increased demand for effective transportation systems 0.7975560426712036
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Public transport system 0.7898191213607788
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Pedestrian-friendly projects 0.7537195682525635
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Network of cycle lanes and shared paths 0.753180980682373
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Bus network with extensive coverage 0.7710505127906799
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Rail network with several lines 0.764662504196167
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Growing population 0.7426576614379883
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Transport infrastructure 0.7861834764480591
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Public transport services 0.7913511991500854
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Rail network 0.767254114151001
+[Increased demand for effective transportation systems]: Auckland --[Has]-> International airport 0.7747946977615356
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Waterfront 0.751164436340332
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Motorways 0.7627291679382324
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Traffic congestion 0.7517929077148438
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Southern motorway and northern motorway 0.757336437702179
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Rideshare services 0.7779055833816528
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Focus on improving road infrastructure 0.7511972188949585
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Trains 0.7757367491722107
+[Increased demand for effective transportation systems]: Auckland --[Has]-> International and domestic flights 0.7649648785591125
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Significant transport hub 0.7873879075050354
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Ferries 0.7678702473640442
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Buses 0.7760233879089355
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Focus on expanding public transport networks 0.7712531089782715
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Transport projects 0.7817122936248779
+[Increased demand for effective transportation systems]: Auckland --[Has]-> City rail link 0.7711066007614136
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Seen significant improvements in its cycling network 0.7355459928512573
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Low-floor buses 0.7561622858047485
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Comprehensive public transport system 0.7939363718032837
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Invested in modernizing public transport networks 0.776134192943573
+[Increased demand for effective transportation systems]: Auckland --[Has]-> Atap 0.7677208185195923

@@ -1,0 +1,36 @@
+Which country hosted the adoption of the international agreement that promotes road safety and the harmonization of traffic regulations among member countries, to which New Zealand is a signatory?
+None
+Seed: New zealand's commitment to international standards in road safety and traffic management
+Seed: New zealand's road safety initiatives
+Seed: New zealand's national road traffic laws
+Seed: Significant shift in new zealand's approach to road safety
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Reflects]-> New zealand's commitment to international standards in road safety and traffic management 0.8843696117401123
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Aiming to]-> Reduce road traffic accidents and fatalities 0.8274402022361755
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Reflected in]-> Land transport act 1998 0.8215301036834717
+[New zealand's commitment to international standards in road safety and traffic management]: Road transport safety --[Governed by]-> Land transport act 1998 0.8148519992828369
+[New zealand's commitment to international standards in road safety and traffic management]: Land transport act 1998 --[Establishes]-> Legal framework for enforcement of road rules 0.8200961947441101
+[New zealand's commitment to international standards in road safety and traffic management]: Land transport act 1998 --[Establishes]-> Legal framework for registration of vehicles 0.8017659783363342
+[New zealand's commitment to international standards in road safety and traffic management]: Road safety legislation --[Governed by]-> Land transport act 1998 0.8154389262199402
+[New zealand's commitment to international standards in road safety and traffic management]: Land transport act 1998 --[Establishes]-> Legal framework for licensing of drivers 0.7978875637054443
+[New zealand's commitment to international standards in road safety and traffic management]: Land transport act 1998 --[Complemented by]-> Land transport (road user 0.8059901595115662
+[New zealand's commitment to international standards in road safety and traffic management]: Vehicle maintenance standards --[Are set forth in]-> Land transport act 1998 0.770148754119873
+[New zealand's commitment to international standards in road safety and traffic management]: Land transport act 1998 --[Provides]-> Legislative framework for road safety initiatives 0.8109038472175598
+[New zealand's commitment to international standards in road safety and traffic management]: Land transport act 1998 --[Provides]-> Legal foundation 0.7974318265914917
+[New zealand's commitment to international standards in road safety and traffic management]: New zealand --[Has]-> Land transport act 1998 0.8355463743209839
+[New zealand's commitment to international standards in road safety and traffic management]: Land transport act 1998 --[Outlines]-> Driver licensing 0.7833960056304932
+[New zealand's commitment to international standards in road safety and traffic management]: Land transport act 1998 --[Outlines]-> Rules for vehicle operation 0.7842444181442261
+[New zealand's commitment to international standards in road safety and traffic management]: Land transport act 1998 --[Outlines]-> Road safety 0.8019914627075195
+[New zealand's commitment to international standards in road safety and traffic management]: Vehicle safety standards --[Are overseen by]-> Land transport act 1998 0.805952250957489
+[New zealand's commitment to international standards in road safety and traffic management]: New zealand --[Governed by]-> Land transport act 1998 0.842629075050354
+[New zealand's commitment to international standards in road safety and traffic management]: Land transport act 1998 --[Complemented by]-> Resource management act 1991 0.7842487096786499
+[New zealand's commitment to international standards in road safety and traffic management]: Land transport act 1998 --[Provides]-> Foundation for vehicle standards and compliance 0.7999154329299927
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Emphasis on]-> Standardized road signs and signals 0.8140887022018433
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Aimed at]-> Facilitating international road traffic 0.8430502414703369
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Integrated into]-> New zealand's national road traffic laws 0.873329222202301
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Ratified by]-> Numerous countries 0.8471333980560303
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Aimed at]-> Promoting road safety 0.8369370102882385
+[New zealand's commitment to international standards in road safety and traffic management]: Road safety authority --[Responsible for]-> Promoting road safety 0.8382488489151001
+[New zealand's commitment to international standards in road safety and traffic management]: Vienna convention on road traffic --[Adopted]-> Graduated licensing system 0.8300062417984009
+[New zealand's commitment to international standards in road safety and traffic management]: New zealand --[Has]-> Graduated licensing system 0.8492908477783203
+[New zealand's commitment to international standards in road safety and traffic management]: Graduated licensing system --[Ensures]-> New drivers acquire skills 0.7586150765419006
+[New zealand's commitment to international standards in road safety and traffic management]: Graduated licensing system --[Aims]-> Improve road safety 0.8077134490013123

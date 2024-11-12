@@ -1,0 +1,36 @@
+What region does the Metlink bus service connect to, besides Porirua, that is known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, and utilizes the Snapper card as part of its initiative in Auckland that has improved the reliability of public transport services and allowed users to plan their journeys more effectively?
+None
+Seed: Importance of well-planned transport systems in both countries
+Seed: Adopting integrated transport planning approaches that consider public transport
+Seed: Regional transport initiatives
+Seed: Increased demand for effective transportation systems
+[Importance of well-planned transport systems in both countries]: Pch --[Reflects]-> Importance of well-planned transport systems in both countries 0.8142849802970886
+[Importance of well-planned transport systems in both countries]: Pch --[Supports]-> Freight movement 0.7784344553947449
+[Importance of well-planned transport systems in both countries]: Pch --[Contributes to]-> Overall accessibility of the region 0.7514681220054626
+[Importance of well-planned transport systems in both countries]: Pch --[Offers]-> Fishing 0.7252353429794312
+[Importance of well-planned transport systems in both countries]: Pch --[Connects]-> Gisborne 0.7740439176559448
+[Importance of well-planned transport systems in both countries]: Pch --[Popular among]-> Tourists and locals 0.7643972635269165
+[Importance of well-planned transport systems in both countries]: Pch --[Supports]-> Passenger travel 0.7901321649551392
+[Importance of well-planned transport systems in both countries]: Pch --[Provides]-> Access to natural reserves 0.7421748638153076
+[Importance of well-planned transport systems in both countries]: Pch --[Offers]-> Opportunities for recreational activities 0.7390284538269043
+[Importance of well-planned transport systems in both countries]: Pch --[Known for]-> Breathtaking views of the pacific ocean 0.7432131767272949
+[Importance of well-planned transport systems in both countries]: Pch --[Reflects]-> Importance of well-planned transport systems 0.8011381030082703
+[Importance of well-planned transport systems in both countries]: Pch --[Known for]-> Lush landscapes 0.7278686761856079
+[Importance of well-planned transport systems in both countries]: Pch --[Stretches along]-> Western coastline of the united states 0.7375957369804382
+[Importance of well-planned transport systems in both countries]: Pch --[Is]-> Part of new zealand state highway network 0.8088955283164978
+[Importance of well-planned transport systems in both countries]: Pch --[Plays]-> Crucial role in facilitating economic development 0.7328876256942749
+[Importance of well-planned transport systems in both countries]: Pch --[Is]-> Scenic roadway 0.7556231617927551
+[Importance of well-planned transport systems in both countries]: Pch --[Integral to]-> Transport network 0.7571761012077332
+[Importance of well-planned transport systems in both countries]: Pch --[Offers]-> Surfing 0.7372220754623413
+[Importance of well-planned transport systems in both countries]: Pch --[Offers]-> Hiking 0.7469401359558105
+[Importance of well-planned transport systems in both countries]: Pch --[Plays]-> Crucial role in regional connectivity 0.7677323222160339
+[Importance of well-planned transport systems in both countries]: Pch --[Runs along]-> North island's eastern coastline 0.7699846029281616
+[Importance of well-planned transport systems in both countries]: Pch --[Connects]-> Auckland 0.8070560693740845
+[Importance of well-planned transport systems in both countries]: Pch --[Plays]-> Crucial role in tourism 0.7582329511642456
+[Importance of well-planned transport systems in both countries]: Pch --[Connects]-> Key urban centers 0.767490029335022
+[Importance of well-planned transport systems in both countries]: Pch --[Provides]-> Access to rural communities 0.7632089257240295
+[Importance of well-planned transport systems in both countries]: Pch --[Known for]-> Access to numerous coastal towns and attractions 0.7479586601257324
+[Importance of well-planned transport systems in both countries]: Pch --[Also known as]-> State route 1 0.7764914631843567
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider public transport 0.8003247380256653
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Aims to]-> Create more efficient transport networks 0.8038319945335388
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider active transport modes 0.7884729504585266

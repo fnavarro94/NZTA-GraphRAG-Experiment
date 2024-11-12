@@ -1,0 +1,32 @@
+How much was paid in tolls for each road between 2017 and 2019?
+None
+Seed: information on tolls and road maintenance
+Seed: paid toll revenues
+Seed: toll tariffs
+Seed: Toll Revenue
+[information on tolls and road maintenance]: tolls --[SPENT]-> on various roads 0.9164376854896545
+[information on tolls and road maintenance]: tolls --[PAID]-> each year 0.8964641094207764
+[information on tolls and road maintenance]: toll tariffs --[SPENT_ON]-> road maintenance 0.894711971282959
+[information on tolls and road maintenance]: toll roads --[COLLECTS]-> toll tariffs 0.8812482357025146
+[information on tolls and road maintenance]: road maintenance --[FUNDED_BY]-> toll tariffs 0.8806871771812439
+[information on tolls and road maintenance]: toll roads --[INCLUDE]-> administration fee 0.8779275417327881
+[information on tolls and road maintenance]: toll tariffs --[USED_FOR]-> road maintenance 0.8778809905052185
+[paid toll revenues]: total amount of money --[FOR]-> Road to Zero 0.8490844964981079
+[paid toll revenues]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.8481358289718628
+[paid toll revenues]: Annual Reports --[CONTAINS]-> paid toll revenues 0.8463058471679688
+[paid toll revenues]: paid toll revenues --[AVAILABLE_IN]-> Annual Reports 0.8460791707038879
+[paid toll revenues]: tolls --[COLLECTED_BY]-> New Zealand Transport Agency 0.8422222137451172
+[paid toll revenues]: New Zealand Transport Agency --[MANAGES]-> toll roads 0.840736985206604
+[paid toll revenues]: information on tolls and road maintenance --[RELATES]-> New Zealand Transport Agency 0.8378073573112488
+[toll tariffs]: tolls --[SPENT]-> on various roads 0.9164376854896545
+[toll tariffs]: tolls --[PAID]-> each year 0.8964641094207764
+[toll tariffs]: toll tariffs --[SPENT_ON]-> road maintenance 0.894711971282959
+[toll tariffs]: toll roads --[COLLECTS]-> toll tariffs 0.8812482357025146
+[toll tariffs]: road maintenance --[FUNDED_BY]-> toll tariffs 0.8806871771812439
+[toll tariffs]: toll roads --[INCLUDE]-> administration fee 0.8779275417327881
+[toll tariffs]: toll tariffs --[USED_FOR]-> road maintenance 0.8778809905052185
+[Toll Revenue]: Northern Gateway Toll Road --[PROVIDES]-> Toll Revenue 0.8883497714996338
+[Toll Revenue]: Takitimu Drive Toll Road --[PROVIDES]-> Toll Revenue 0.871993899345398
+[Toll Revenue]: Northern Gateway Toll Road --[ESTIMATED_END_DATE]-> 2045 0.8622039556503296
+[Toll Revenue]: Tauranga Eastern Link Toll Road --[PROVIDES]-> Toll Revenue 0.8620725870132446
+[Toll Revenue]: Northern Gateway Toll Road --[DEBT_REPAYMENT]-> 35 years 0.861444354057312

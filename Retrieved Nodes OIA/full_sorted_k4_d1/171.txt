@@ -1,0 +1,27 @@
+What is the process for handling Official Information Act requests by Waka Kotahi?
+None
+Seed: Waka Kotahi Senior Project Manager
+Seed: Waka Kotahi policy
+Seed: Waka Kotahi
+Seed: Waka Kotahi NZ Transport Agency
+[Waka Kotahi Senior Project Manager]: Waka Kotahi Senior Project Manager --[MANAGES]-> State Highway 25A Rebuild Project 0.8357032537460327
+[Waka Kotahi policy]: Waka Kotahi policy --[REQUIRES]-> publishing responses on website 0.8825095295906067
+[Waka Kotahi policy]: Waka Kotahi policy --[PUBLISHED]-> website 0.8775378465652466
+[Waka Kotahi policy]: Waka Kotahi --[FOLLOWS]-> Waka Kotahi policy 0.8726130723953247
+[Waka Kotahi policy]: Waka Kotahi --[POLICY]-> Waka Kotahi policy 0.862959623336792
+[Waka Kotahi policy]: New Zealand Transport Agency --[POLICY]-> Waka Kotahi policy 0.8540717363357544
+[Waka Kotahi policy]: Waka Kotahi NZ Transport Agency --[FOLLOWS]-> Waka Kotahi policy 0.8413704037666321
+[Waka Kotahi]: Waka Kotahi --[SEEKS]-> additional information 0.9114086627960205
+[Waka Kotahi]: Waka Kotahi --[PROCESSES]-> requests for information 0.9080350399017334
+[Waka Kotahi]: Waka Kotahi --[SEEKS]-> confidential legal advice 0.9072691202163696
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> publicly available information 0.9066221117973328
+[Waka Kotahi]: information --[PROVIDED_BY]-> Waka Kotahi 0.9049168229103088
+[Waka Kotahi]: Waka Kotahi --[PROVIDES]-> contact information 0.8978312611579895
+[Waka Kotahi]: Waka Kotahi --[INVESTIGATES]-> breaches of rules or regulations 0.896242618560791
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.8666760921478271
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.866259753704071
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[CONTACT]-> T 64 4 894 5400 0.863523006439209
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[RECEIVES_REQUEST]-> NZ Police 0.8620480298995972
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.8582284450531006
+[Waka Kotahi NZ Transport Agency]: Wellington City Council --[TRANSFERS_REQUEST]-> Waka Kotahi NZ Transport Agency 0.8563558459281921
+[Waka Kotahi NZ Transport Agency]: www.nzta.govt.nz --[OF]-> Waka Kotahi NZ Transport Agency 0.8559345602989197

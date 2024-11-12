@@ -1,0 +1,36 @@
+What are the key challenges faced in completing the Transmission Gully project?
+None
+Seed: Transmission Gully
+Seed: https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/
+Seed: prioritising the clearing of drains and culverts
+Seed: Transmission Gully Motorway
+[Transmission Gully]: Delta outbreak --[AFFECTED]-> Transmission Gully 0.8626071214675903
+[Transmission Gully]: OIA-10601 --[RELATES_TO]-> Delta outbreak 0.7527907490730286
+[Transmission Gully]: OIA-10601 --[ANSWERED_BY]-> New Zealand Transport Agency 0.7867543697357178
+[Transmission Gully]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7655775547027588
+[Transmission Gully]: New Zealand Transport Agency --[BASED]-> Wellington 0.7779603600502014
+[Transmission Gully]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7649247646331787
+[Transmission Gully]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7773559093475342
+[Transmission Gully]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7724419832229614
+[Transmission Gully]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7726827263832092
+[Transmission Gully]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7646747827529907
+[Transmission Gully]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7630237936973572
+[Transmission Gully]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7576282620429993
+[Transmission Gully]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7694031000137329
+[Transmission Gully]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7749049663543701
+[Transmission Gully]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7695538997650146
+[Transmission Gully]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7761125564575195
+[Transmission Gully]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7661303281784058
+[Transmission Gully]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.756808876991272
+[Transmission Gully]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7699410319328308
+[Transmission Gully]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7767173647880554
+[Transmission Gully]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7629669308662415
+[Transmission Gully]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7657919526100159
+[Transmission Gully]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.786623477935791
+[Transmission Gully]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7412009835243225
+[Transmission Gully]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7733144164085388
+[Transmission Gully]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7725250720977783
+[Transmission Gully]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7830391526222229
+[Transmission Gully]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.747174859046936
+[Transmission Gully]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7735413908958435
+[Transmission Gully]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7718915939331055

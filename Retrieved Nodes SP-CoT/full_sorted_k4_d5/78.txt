@@ -1,0 +1,29 @@
+In what year did the establishment become established?
+None
+Seed: Commenced in 1840
+Seed: Early european settlement in 19th century
+Seed: Establishment of national land transport fund
+Seed: In early european settlement
+[Commenced in 1840]: New zealand police --[Established in]-> 1846 0.7831138968467712
+[Commenced in 1840]: New zealand --[Had]-> Early european settlement in 19th century 0.7815529704093933
+[Commenced in 1840]: Ministry of transport --[Established in]-> 1962 0.7813484072685242
+[Commenced in 1840]: Auckland ferry network --[Origins]-> Date back to 19th century 0.7783321142196655
+[Commenced in 1840]: Auckland ferry network --[First regular ferry service]-> Commenced in 1840 0.7781304121017456
+[Commenced in 1840]: Kiwirail --[Established in]-> 2008 0.7777020931243896
+[Commenced in 1840]: Auckland ferry network --[Evolved]-> Over years 0.7771065831184387
+[Early european settlement in 19th century]: Teal --[Established]-> 1953 0.8049355745315552
+[Early european settlement in 19th century]: National cycling network --[Established in]-> Early 2000s 0.7845660448074341
+[Early european settlement in 19th century]: New zealand police --[Established in]-> 1846 0.7831138968467712
+[Early european settlement in 19th century]: New zealand --[Had]-> Early european settlement in 19th century 0.7815529704093933
+[Early european settlement in 19th century]: Ministry of transport --[Established in]-> 1962 0.7813484072685242
+[Early european settlement in 19th century]: Auckland ferry network --[Origins]-> Date back to 19th century 0.7783321142196655
+[Early european settlement in 19th century]: Auckland ferry network --[First regular ferry service]-> Commenced in 1840 0.7781304121017456
+[Establishment of national land transport fund]: New zealand police --[Established in]-> 1846 0.7831138968467712
+[Establishment of national land transport fund]: New zealand --[Had]-> Early european settlement in 19th century 0.7815529704093933
+[Establishment of national land transport fund]: Ministry of transport --[Established in]-> 1962 0.7813484072685242
+[Establishment of national land transport fund]: Auckland ferry network --[Origins]-> Date back to 19th century 0.7783321142196655
+[Establishment of national land transport fund]: Auckland ferry network --[First regular ferry service]-> Commenced in 1840 0.7781304121017456
+[Establishment of national land transport fund]: Kiwirail --[Established in]-> 2008 0.7777020931243896
+[Establishment of national land transport fund]: Auckland ferry network --[Evolved]-> Over years 0.7771065831184387
+[In early european settlement]: Road construction --[Was often rudimentary]-> In early european settlement 0.7652190923690796
+[In early european settlement]: Road construction --[Focused on]-> Connecting settlements and facilitating the transport of agricultural products 0.7438493967056274

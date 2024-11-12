@@ -1,0 +1,24 @@
+What passenger service, operated by the organization in New Zealand that operates the majority of the country's rail services and has launched campaigns to promote rail safety, offers long-distance travel across New Zealand?
+None
+Seed: Majority of rail services
+Seed: Passenger rail services
+Seed: Extensive network of passenger and freight services
+Seed: Majority of passenger and freight movement
+[Majority of rail services]: New zealand --[Has]-> Transport safety campaigns 0.8826224207878113
+[Majority of rail services]: Auckland transport --[Actively involved in]-> Awareness campaigns 0.8714463710784912
+[Majority of rail services]: Kiwirail --[Provides]-> Passenger services 0.868719220161438
+[Majority of rail services]: Kiwirail group --[Operates]-> Passenger services 0.8685092329978943
+[Majority of rail services]: Kiwirail group --[Offers]-> Long-distance travel 0.8684972524642944
+[Majority of rail services]: New zealand --[Has]-> Rail transport 0.8662028312683105
+[Majority of rail services]: Kiwirail --[Operates]-> Great journeys of new zealand 0.8653146624565125
+[Passenger rail services]: Passenger rail services --[Showcase]-> New zealand's stunning landscapes 0.8561162948608398
+[Passenger rail services]: Passenger rail services --[Include]-> Scenic routes such as the tranzalpine and the northern explorer 0.803510844707489
+[Extensive network of passenger and freight services]: New zealand railways department --[Continued to operate]-> Extensive network of passenger and freight services 0.8410544395446777
+[Extensive network of passenger and freight services]: New zealand railways department --[Introduced]-> Diesel locomotives 0.798517107963562
+[Majority of passenger and freight movement]: New zealand --[Has]-> Transport safety campaigns 0.8826224207878113
+[Majority of passenger and freight movement]: Auckland transport --[Actively involved in]-> Awareness campaigns 0.8714463710784912
+[Majority of passenger and freight movement]: Kiwirail --[Provides]-> Passenger services 0.868719220161438
+[Majority of passenger and freight movement]: Kiwirail group --[Operates]-> Passenger services 0.8685092329978943
+[Majority of passenger and freight movement]: Kiwirail group --[Offers]-> Long-distance travel 0.8684972524642944
+[Majority of passenger and freight movement]: New zealand --[Has]-> Rail transport 0.8662028312683105
+[Majority of passenger and freight movement]: Kiwirail --[Operates]-> Great journeys of new zealand 0.8653146624565125

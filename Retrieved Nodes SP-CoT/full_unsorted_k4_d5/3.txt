@@ -1,0 +1,36 @@
+What suburb does Te Ara I Whiti (Lightpath) connect to from the city that is home to the Te Ara I Whiti (Lightpath) project, which has transformed underutilized spaces into vibrant cycling and pedestrian pathways, CBD?
+None
+Seed: Multiple routes linking it to surrounding suburbs and the auckland cbd
+Seed: Auckland cbd
+Seed: Commuters to cbd
+Seed: Dedicated cycle lanes and pedestrian pathways
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Has]-> Multiple routes linking it to surrounding suburbs and the auckland cbd 0.8053060173988342
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Is]-> Near state highway 20 0.717438280582428
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Has]-> Encouraged more sustainable travel options 0.7222728729248047
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Is]-> Strategically located near major arterial routes 0.7373204231262207
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Has]-> Enhanced the overall efficiency of public transport 0.7155998945236206
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Has]-> Key point for maritime trade 0.6957378387451172
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Has]-> Integration of bus and rail services 0.7384935617446899
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Onehunga --[Promotes]-> Active transport 0.7367390394210815
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: New zealand --[Promotes]-> Active transport 0.7649909257888794
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: New zealand --[Has]-> Transport projects 0.7787160873413086
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: New zealand transport agency --[Oversees]-> Transport projects 0.7305228114128113
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Auckland --[Has]-> Transport projects 0.8014789819717407
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.735648512840271
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: New zealand --[Has]-> Diverse transport network 0.7613623142242432
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: New zealand --[Has]-> Post-incident review 0.6943686008453369
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Post-incident review --[Crucial for]-> Improving operational efficiency 0.6771894693374634
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Post-incident review --[Crucial for]-> Fostering culture of continuous improvement 0.6847360730171204
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Post-incident review --[Aimed at]-> Recommending measures 0.6964472532272339
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Post-incident review --[Crucial for]-> Enhancing safety 0.6787397265434265
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Post-incident review --[Is]-> Systematic process 0.6888083219528198
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Post-incident review --[Conducted]-> Following an incident 0.6891276240348816
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Post-incident review --[Aimed at]-> Analyzing circumstances 0.6974257826805115
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Post-incident review --[Aimed at]-> Identifying contributing factors 0.6985101103782654
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.7513858675956726
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.7388178110122681
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: New zealand --[Has]-> Broader environmental policies 0.7234194874763489
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: New zealand --[Has]-> Traffic congestion 0.7463511228561401
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Auckland --[Faces challenges]-> Traffic congestion 0.7600799798965454
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Wellington public transport plan --[Initiated in response to]-> Traffic congestion 0.7547303438186646
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Auckland --[Has]-> Traffic congestion 0.7678586840629578

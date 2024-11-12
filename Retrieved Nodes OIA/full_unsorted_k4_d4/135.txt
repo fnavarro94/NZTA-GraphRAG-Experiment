@@ -1,0 +1,36 @@
+What reports discuss the progress and outcomes of the Road to Zero strategy since it was initiated?
+None
+Seed: Road to Zero Strategy Reports
+Seed: development of the next Road to Zero Action Plan
+Seed: Road to Zero initiatives
+Seed: Road to Zero Strategy Development
+[Road to Zero Strategy Reports]: Road to Zero Strategy Reports --[CONTAINS]-> Basis for Strategy 0.8862780332565308
+[Road to Zero Strategy Reports]: Basis for Strategy --[DISCUSSES]-> Road to Zero Strategy 0.8678669333457947
+[Road to Zero Strategy Reports]: Road to Zero Strategy --[FUNDING]-> Road to Zero Strategy 0.87179034948349
+[Road to Zero Strategy Reports]: New Zealand Transport Agency --[DEVELOPS]-> Road to Zero Strategy 0.8578948974609375
+[Road to Zero Strategy Reports]: Road to Zero Strategy --[MONITORED_BY]-> Ministry of Transport 0.8814695477485657
+[Road to Zero Strategy Reports]: New Zealand Transport Agency --[PROVIDES]-> Road to Zero Strategy 0.8493576645851135
+[Road to Zero Strategy Reports]: Road to Zero Strategy --[CONCLUDES]-> 2030 0.8786791563034058
+[Road to Zero Strategy Reports]: Road to Zero Strategy --[CONCLUSION]-> 2030 0.8787481784820557
+[Road to Zero Strategy Reports]: Road to Zero Strategy --[DEVELOPMENT_FUNDING]-> expenditure breakdown 0.8321115374565125
+[Road to Zero Strategy Reports]: Road to Zero Strategy --[AVAILABLE_ON]-> Ministry of Transport 0.8544269800186157
+[Road to Zero Strategy Reports]: New Zealand Transport Agency --[SPENDS_ON]-> Road to Zero Strategy 0.8373386263847351
+[Road to Zero Strategy Reports]: Road to Zero Strategy --[PROVIDES]-> Ministry of Transport 0.8686593174934387
+[Road to Zero Strategy Reports]: Road to Zero Strategy --[DEVELOPED]-> New Zealand Transport Agency 0.8719183206558228
+[Road to Zero Strategy Reports]: New Zealand Transport Agency --[PLANS]-> Road to Zero Strategy 0.8351305723190308
+[Road to Zero Strategy Reports]: Road to Zero Strategy --[INITIATED]-> 2020 0.8904595375061035
+[Road to Zero Strategy Reports]: Progress and Outcomes --[DISCUSSES]-> Road to Zero Strategy 0.9285297393798828
+[Road to Zero Strategy Reports]: Ministry of Transport --[PROVIDES]-> Road to Zero Strategy 0.8596885204315186
+[Road to Zero Strategy Reports]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7279629111289978
+[Road to Zero Strategy Reports]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7305904626846313
+[Road to Zero Strategy Reports]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.739653468132019
+[Road to Zero Strategy Reports]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7275897264480591
+[Road to Zero Strategy Reports]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7257795333862305
+[Road to Zero Strategy Reports]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7332366704940796
+[Road to Zero Strategy Reports]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7510513067245483
+[Road to Zero Strategy Reports]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7387791872024536
+[Road to Zero Strategy Reports]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.741605818271637
+[Road to Zero Strategy Reports]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7388771772384644
+[Road to Zero Strategy Reports]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7398067116737366
+[Road to Zero Strategy Reports]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7401405572891235
+[Road to Zero Strategy Reports]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7515232563018799

@@ -1,0 +1,34 @@
+Under which regional council does the entity responsible for planning and delivering public transport services in Auckland operate?
+None
+Seed: Regional councils and local authorities
+Seed: Local councils and new zealand transport agency
+Seed: Local government initiatives
+Seed: Regional transport initiatives
+[Regional councils and local authorities]: Auckland transport --[Responsible for]-> Managing public transport services 0.9115564823150635
+[Regional councils and local authorities]: Auckland transport --[Responsible for]-> Planning 0.908024787902832
+[Regional councils and local authorities]: Auckland transport --[Operates under]-> Auckland council 0.9078306555747986
+[Regional councils and local authorities]: Wellington regional council --[Oversees]-> Public transport services 0.9029419422149658
+[Regional councils and local authorities]: Auckland transport --[Responsible for]-> Management 0.9018652439117432
+[Regional councils and local authorities]: Greater wellington regional council --[Responsible for]-> Managing public transport services 0.898626446723938
+[Regional councils and local authorities]: Auckland transport --[Manages]-> Public transport 0.8966811895370483
+[Local councils and new zealand transport agency]: Auckland transport --[Responsible for]-> Managing public transport services 0.9115564823150635
+[Local councils and new zealand transport agency]: Auckland transport --[Responsible for]-> Planning 0.908024787902832
+[Local councils and new zealand transport agency]: Auckland transport --[Operates under]-> Auckland council 0.9078306555747986
+[Local councils and new zealand transport agency]: Wellington regional council --[Oversees]-> Public transport services 0.9029419422149658
+[Local councils and new zealand transport agency]: Auckland transport --[Responsible for]-> Management 0.9018652439117432
+[Local councils and new zealand transport agency]: Greater wellington regional council --[Responsible for]-> Managing public transport services 0.898626446723938
+[Local councils and new zealand transport agency]: Auckland transport --[Manages]-> Public transport 0.8966811895370483
+[Local government initiatives]: Auckland transport --[Responsible for]-> Managing public transport services 0.9115564823150635
+[Local government initiatives]: Auckland transport --[Responsible for]-> Planning 0.908024787902832
+[Local government initiatives]: Auckland transport --[Operates under]-> Auckland council 0.9078306555747986
+[Local government initiatives]: Wellington regional council --[Oversees]-> Public transport services 0.9029419422149658
+[Local government initiatives]: Auckland transport --[Responsible for]-> Management 0.9018652439117432
+[Local government initiatives]: Greater wellington regional council --[Responsible for]-> Managing public transport services 0.898626446723938
+[Local government initiatives]: Auckland transport --[Manages]-> Public transport 0.8966811895370483
+[Regional transport initiatives]: Auckland transport --[Responsible for]-> Managing public transport services 0.9115564823150635
+[Regional transport initiatives]: Auckland transport --[Responsible for]-> Planning 0.908024787902832
+[Regional transport initiatives]: Auckland transport --[Operates under]-> Auckland council 0.9078306555747986
+[Regional transport initiatives]: Wellington regional council --[Oversees]-> Public transport services 0.9029419422149658
+[Regional transport initiatives]: Auckland transport --[Responsible for]-> Management 0.9018652439117432
+[Regional transport initiatives]: Greater wellington regional council --[Responsible for]-> Managing public transport services 0.898626446723938
+[Regional transport initiatives]: Auckland transport --[Manages]-> Public transport 0.8966811895370483

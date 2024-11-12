@@ -1,0 +1,30 @@
+What is the minimum age requirement for obtaining a driver license in New Zealand, which is the first stage of the driver licensing process and can be obtained at the age of 16?
+None
+Seed: Age of 16
+Seed: Provisional driving license
+Seed: Legal framework for licensing of drivers
+Seed: Full valid driver's license
+[Age of 16]: Learner license --[Issued in]-> New zealand 0.8825306296348572
+[Age of 16]: Learner license --[Obtained at]-> Age of 16 0.8774173855781555
+[Age of 16]: Learner license --[Eligibility]-> At least 16 years old 0.8725294470787048
+[Age of 16]: Learner license --[Stepping stone]-> New drivers 0.8432332873344421
+[Age of 16]: Learner license --[Is]-> Provisional driving license 0.8424267768859863
+[Age of 16]: Learner license --[First stage]-> Graduated licensing system 0.835223913192749
+[Age of 16]: Learner license --[Allows]-> Drive under certain conditions 0.8325039744377136
+[Provisional driving license]: Learner license --[Issued in]-> New zealand 0.8825306296348572
+[Provisional driving license]: Learner license --[Obtained at]-> Age of 16 0.8774173855781555
+[Provisional driving license]: Learner license --[Eligibility]-> At least 16 years old 0.8725294470787048
+[Provisional driving license]: Learner license --[Stepping stone]-> New drivers 0.8432332873344421
+[Provisional driving license]: Learner license --[Is]-> Provisional driving license 0.8424267768859863
+[Provisional driving license]: Learner license --[First stage]-> Graduated licensing system 0.835223913192749
+[Provisional driving license]: Learner license --[Allows]-> Drive under certain conditions 0.8325039744377136
+[Legal framework for licensing of drivers]: New zealand --[Has]-> Land transport act 1998 0.8327081203460693
+[Legal framework for licensing of drivers]: New zealand --[Governed by]-> Land transport act 1998 0.827785074710846
+[Legal framework for licensing of drivers]: Land transport act 1998 --[Outlines]-> Driver licensing 0.823434591293335
+[Legal framework for licensing of drivers]: Land transport act 1998 --[Establishes]-> Legal framework for licensing of drivers 0.8202866911888123
+[Legal framework for licensing of drivers]: Land transport act 1998 --[Complemented by]-> Land transport (road user 0.7981799840927124
+[Legal framework for licensing of drivers]: Vienna convention on road traffic --[Reflected in]-> Land transport act 1998 0.7924909591674805
+[Legal framework for licensing of drivers]: Road transport safety --[Governed by]-> Land transport act 1998 0.7919959425926208
+[Full valid driver's license]: Supervisor --[Hold]-> Full valid driver's license 0.7973023653030396
+[Full valid driver's license]: Supervisor --[At least]-> 20 years old 0.782931923866272
+[Full valid driver's license]: Supervisor --[Seated]-> Front passenger seat 0.7354757785797119

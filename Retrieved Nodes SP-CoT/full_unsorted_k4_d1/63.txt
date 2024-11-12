@@ -1,0 +1,12 @@
+Which notable transport project in New Zealand, alongside the Auckland rail project, has undergone TEIA?
+None
+Seed: Addressing transport challenges in auckland
+Seed: New zealand's transport network
+Seed: Rail networks
+Seed: New zealand's transport system
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Addressing transport challenges in auckland 0.8500837087631226
+[New zealand's transport network]: Road infrastructure projects --[Play crucial role in]-> New zealand's transport network 0.8425232172012329
+[Rail networks]: New zealand --[Composed of]-> Rail networks 0.8462285995483398
+[New zealand's transport system]: New zealand's transport system --[Faces]-> Need for significant investment 0.8217419385910034
+[New zealand's transport system]: New zealand's transport system --[Faces]-> Aging infrastructure 0.8267178535461426
+[New zealand's transport system]: New zealand's transport system --[Faces]-> Increasing congestion in urban areas 0.8083759546279907

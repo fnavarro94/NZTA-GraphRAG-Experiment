@@ -1,0 +1,36 @@
+What city does State Highway 3 (SH3) connect to the western regions from, which is located at the southern end of the Waikato Expressway, improving travel times and safety to Auckland?
+None
+Seed: Waikato expressway
+Seed: State highway 3
+Seed: Significant transport corridor
+Seed: City to waikato region
+[Waikato expressway]: Waikato expressway --[Is part of]-> National land transport programme 0.8589686155319214
+[Waikato expressway]: National land transport programme --[Is]-> Key component of new zealand's transport planning framework 0.801365077495575
+[Waikato expressway]: National land transport programme --[Updated]-> Every three years 0.7662650346755981
+[Waikato expressway]: National land transport programme --[Promotes]-> Environmental sustainability 0.7289568185806274
+[Waikato expressway]: National land transport programme --[Supports]-> Economic growth 0.7384175062179565
+[Waikato expressway]: National land transport programme --[Is]-> Key framework 0.7429618835449219
+[Waikato expressway]: National land transport programme --[Aims to]-> Enhance sustainability 0.7386755347251892
+[Waikato expressway]: National land transport programme --[Aims to]-> Enhance efficiency 0.7416977286338806
+[Waikato expressway]: National land transport programme --[Developed by]-> Waka kotahi nz transport agency 0.8091636896133423
+[Waikato expressway]: National land transport programme --[Funded through]-> Government revenue 0.7435840368270874
+[Waikato expressway]: National land transport programme --[Prioritizes projects]-> Align with regional transport plans 0.75356525182724
+[Waikato expressway]: National land transport programme --[Aims to]-> Enhance safety 0.750063955783844
+[Waikato expressway]: National land transport programme --[Established under]-> Land transport management act 2003 0.7583779096603394
+[Waikato expressway]: National land transport programme --[Prioritizes projects]-> Align with national transport strategies 0.7411442399024963
+[Waikato expressway]: National land transport programme --[Is]-> Developed through collaborative process involving waka kotahi 0.783635139465332
+[Waikato expressway]: National land transport programme --[Is]-> Developed through collaborative process 0.7454789876937866
+[Waikato expressway]: National land transport programme --[Is]-> Developed through collaborative process involving local councils 0.7523549199104309
+[Waikato expressway]: National land transport programme --[Is]-> Developed through collaborative process involving regional transport committees 0.7453917264938354
+[Waikato expressway]: National land transport programme --[Is]-> Key mechanism 0.7471814751625061
+[Waikato expressway]: National land transport programme --[Allocates]-> Funding for transport projects 0.7193359732627869
+[Waikato expressway]: National land transport programme --[Developed in consultation with]-> Regional councils and local authorities 0.7756800651550293
+[Waikato expressway]: Waikato expressway --[Aims to improve]-> Travel times and safety between auckland and hamilton 0.8757200241088867
+[Waikato expressway]: Waikato expressway --[Includes]-> Several new sections of road and upgrades to existing routes 0.8423239588737488
+[Waikato expressway]: Waikato expressway --[Significantly enhances]-> Efficiency of freight transport in region 0.8584645390510559
+[State highway 3]: Hamilton --[Served by]-> State highway 3 0.8264254927635193
+[State highway 3]: Hamilton --[Offers]-> International services 0.7397736310958862
+[State highway 3]: Hamilton --[Focus of]-> Local authorities 0.7659873366355896
+[State highway 3]: Hamilton --[Focus of]-> Development of cycleways 0.7745989561080933
+[State highway 3]: Hamilton --[Located]-> 13 kilometers from city center 0.7597811818122864
+[State highway 3]: Hamilton --[Focus of]-> Transport planning 0.7805061340332031

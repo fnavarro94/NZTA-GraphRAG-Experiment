@@ -1,0 +1,36 @@
+What are the titles of the documents released in response to OIA request 15599 regarding advice provided in April 2024?
+None
+Seed: 26 April 2024
+Seed: 22 April 2024
+Seed: 8 April 2024
+Seed: 24 April 2024
+[26 April 2024]: MINO-990 --[DATE]-> 26 April 2024 0.8151470422744751
+[26 April 2024]: MINO-990 --[IS]-> Not enclosed 0.7442907691001892
+[26 April 2024]: MIN-4467 --[IS]-> Not enclosed 0.736603856086731
+[26 April 2024]: MINO-990 --[IS]-> Safety camera installation update 0.7460075616836548
+[26 April 2024]: MIN-4467 --[DATE]-> 26 April 2024 0.7971844673156738
+[26 April 2024]: MIN-4467 --[IS]-> GPS advice updates 0.773186206817627
+[26 April 2024]: Documents --[CONTAINS]-> GPS advice updates 0.8256459832191467
+[22 April 2024]: MINO -1039 Road User Charges --[REVENUE]-> 22 April 2024 0.7951860427856445
+[22 April 2024]: 22 April 2024 --[RELEASED]-> Released in full 0.8200981616973877
+[22 April 2024]: 29 April 2024 --[RELEASED]-> Released in full 0.8092975616455078
+[22 April 2024]: MINO -1047 Driver instructors --[TESTING]-> 29 April 2024 0.7831741571426392
+[22 April 2024]: 30 April 2024 --[RELEASED]-> Released in full 0.8186690807342529
+[22 April 2024]: MINO -1051 Supporting information --[DEBATE]-> 30 April 2024 0.8229196667671204
+[22 April 2024]: Ministers Report --[IS]-> Released in full 0.7919460535049438
+[22 April 2024]: Ministers Report --[DATE]-> 8 April 2024 0.8487589359283447
+[22 April 2024]: Ministers Report --[IS]-> Ministers Report 0.77536940574646
+[22 April 2024]: 8 April 2024 --[RELEASED]-> Released in full 0.8180559277534485
+[22 April 2024]: MINO -1029 Minister Office's --[QUERY]-> 8 April 2024 0.8591034412384033
+[22 April 2024]: 19 April 2024 --[RELEASED]-> Released in full 0.8181906938552856
+[22 April 2024]: MINO -1042 Waterview Tunnel --[WARNING]-> 19 April 2024 0.7902606129646301
+[22 April 2024]: MIN-4449 --[IS]-> Released in full 0.7605321407318115
+[22 April 2024]: MIN-4449 --[DATE]-> 17 April 2024 0.8085008263587952
+[22 April 2024]: MIN-4449 --[IS]-> Average cost of resurfacing and rehabilitation 0.7272266149520874
+[8 April 2024]: Ministers Report --[DATE]-> 8 April 2024 0.8487589359283447
+[8 April 2024]: Ministers Report --[IS]-> Released in full 0.7919460535049438
+[8 April 2024]: 29 April 2024 --[RELEASED]-> Released in full 0.8092975616455078
+[8 April 2024]: 30 April 2024 --[RELEASED]-> Released in full 0.8186690807342529
+[8 April 2024]: 8 April 2024 --[RELEASED]-> Released in full 0.8180559277534485
+[8 April 2024]: 19 April 2024 --[RELEASED]-> Released in full 0.8181906938552856
+[8 April 2024]: MIN-4449 --[IS]-> Released in full 0.7605321407318115

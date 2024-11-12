@@ -1,0 +1,34 @@
+What is the abbreviation commonly used to refer to the initiative that focuses on expanding bus and train services, improving infrastructure, and integrating different modes of transport in Auckland to enhance public transport?
+None
+Seed: Promoting public transport initiatives
+Seed: Regional transport initiatives
+Seed: Adopting integrated transport planning approaches that consider public transport
+Seed: Enhancing public transport systems
+[Promoting public transport initiatives]: New zealand transport agency --[Implemented]-> Initiatives 0.8858681917190552
+[Promoting public transport initiatives]: New zealand transport agency --[Initiated]-> Programs aimed at improving transport access 0.8608872890472412
+[Promoting public transport initiatives]: New zealand transport agency --[Is responsible for]-> Promoting public transport initiatives 0.8604874014854431
+[Promoting public transport initiatives]: New zealand transport agency --[Plays]-> Pivotal role 0.8554122447967529
+[Promoting public transport initiatives]: Auckland transport --[Collaborates with]-> New zealand transport agency 0.8536761403083801
+[Promoting public transport initiatives]: New zealand --[Has]-> New zealand transport agency 0.8531492948532104
+[Promoting public transport initiatives]: New zealand transport agency --[Plays]-> Pivotal role in facilitating road user engagement 0.851726233959198
+[Regional transport initiatives]: New zealand transport agency --[Collaborates with]-> Local councils 0.8429890871047974
+[Regional transport initiatives]: Local councils --[Contribute to]-> Regional transport initiatives 0.8374942541122437
+[Regional transport initiatives]: New zealand transport agency --[Works with]-> Local councils 0.8338780403137207
+[Regional transport initiatives]: Waka kotahi nz transport agency --[Works collaboratively with]-> Local councils 0.8275371789932251
+[Regional transport initiatives]: Community transport services --[Operated by]-> Local councils 0.82676762342453
+[Regional transport initiatives]: Local councils --[Contribute to]-> Transport funding 0.8163735270500183
+[Regional transport initiatives]: Local councils --[Implement]-> Tra 0.810540497303009
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting 0.8367971777915955
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider public transport 0.8265685439109802
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Aims to]-> Create more sustainable transport networks 0.8235153555870056
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Aims to]-> Create more efficient transport networks 0.8231562376022339
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches 0.8229261636734009
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider active transport modes 0.8223965167999268
+[Adopting integrated transport planning approaches that consider public transport]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider land use 0.8082061409950256
+[Enhancing public transport systems]: New zealand --[Has]-> Public transport integration 0.8708680868148804
+[Enhancing public transport systems]: New zealand --[Has]-> Transport equity initiatives 0.8707995414733887
+[Enhancing public transport systems]: New zealand --[Has]-> Public transport enhancement 0.8626856803894043
+[Enhancing public transport systems]: New zealand --[Has]-> Public transport network planning 0.8609762191772461
+[Enhancing public transport systems]: New zealand --[Has]-> Sustainable transport initiatives 0.8592515587806702
+[Enhancing public transport systems]: New zealand --[Has]-> Transport infrastructure development 0.8586633205413818
+[Enhancing public transport systems]: New zealand --[Has]-> Transport infrastructure 0.8583822846412659

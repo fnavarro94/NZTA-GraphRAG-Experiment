@@ -1,0 +1,16 @@
+Why was a list of drugs involved in fatal crashes not provided in response to the request?
+None
+Seed: figures on drivers involved in fatal crashes
+Seed: 1 fatal crash, 3 serious crashes, 8 minor crashes, 12 non-injury crashes, 24 total crashes
+Seed: drivers involved in fatal crashes
+Seed: 2 fatal crashes, 2 serious crashes, 1 minor crash, 4 non-injury crashes, 5 total crashes
+[figures on drivers involved in fatal crashes]: AA --[PROVIDES]-> figures on drivers involved in fatal crashes 0.8342830538749695
+[1 fatal crash, 3 serious crashes, 8 minor crashes, 12 non-injury crashes, 24 total crashes]: 01/10/2020 to 26/05/2021 --[HAS_CRASHES]-> 1 fatal crash, 3 serious crashes, 8 minor crashes, 12 non-injury crashes, 24 total crashes 0.8409827947616577
+[drivers involved in fatal crashes]: fatal crashes --[CAUSED_BY]-> drugs or alcohol 0.8826371431350708
+[drivers involved in fatal crashes]: road accident data --[ATTRIBUTED_TO]-> drugs 0.8659140467643738
+[drivers involved in fatal crashes]: drugs --[AFFECTS]-> road safety 0.862490177154541
+[drivers involved in fatal crashes]: crash --[HAS_FACTOR]-> drug 0.8566266298294067
+[drivers involved in fatal crashes]: drivers involved in fatal crashes --[INVOLVED_IN]-> fatal crashes 0.8515899777412415
+[drivers involved in fatal crashes]: Transport Agency --[GETS_INFORMATION]-> Traffic Crash Reports 0.8450533747673035
+[drivers involved in fatal crashes]: drivers --[INVOLVED_IN]-> fatal crashes 0.8430479764938354
+[2 fatal crashes, 2 serious crashes, 1 minor crash, 4 non-injury crashes, 5 total crashes]: 01/10/2017 to 30/09/2018 --[HAS_CRASHES]-> 2 fatal crashes, 2 serious crashes, 1 minor crash, 4 non-injury crashes, 5 total crashes 0.8508543968200684

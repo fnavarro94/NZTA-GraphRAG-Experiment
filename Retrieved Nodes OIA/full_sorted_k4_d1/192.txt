@@ -1,0 +1,18 @@
+Where can information about the successful applications to the Innovation Fund be found?
+None
+Seed: innovation-fund/innovation-fund-round-one-successful-applicants.pdf
+Seed: Innovation Fund
+Seed: Regional Investment Opportunities
+Seed: national fund
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: innovation-fund/innovation-fund-round-one-successful-applicants.pdf --[PROVIDES]-> successful applications 0.9087211489677429
+[innovation-fund/innovation-fund-round-one-successful-applicants.pdf]: www.nzta.govt.nz --[CONTAINS]-> innovation-fund/innovation-fund-round-one-successful-applicants.pdf 0.8822618126869202
+[Innovation Fund]: Innovation Fund --[FUNDED_BY]-> National Land Transport Fund 0.8542628288269043
+[Innovation Fund]: $15 million --[FOR]-> Innovation Fund 0.8505209684371948
+[Innovation Fund]: Innovation Fund --[PART_OF]-> Hoe ki angitū – Innovation Fund 0.8462390899658203
+[Innovation Fund]: New Zealand Transport Agency --[PROVIDES]-> Innovation Fund 0.8404898047447205
+[Regional Investment Opportunities]: Regional Investment Opportunities --[FUNDED]-> project artworks 0.8246492147445679
+[Regional Investment Opportunities]: Ministry of Business, Innovation and Employment --[ADMINISTERS]-> Regional Investment Opportunities 0.8240506649017334
+[Regional Investment Opportunities]: project artworks --[PART_OF]-> Regional Investment Opportunities 0.8138304948806763
+[Regional Investment Opportunities]: Kānoa --[ADMINISTERS]-> Regional Investment Opportunities 0.7910807132720947
+[national fund]: national fund --[DISTRIBUTED_BY]-> Waka Kotahi 0.8173612952232361
+[national fund]: fuel excise duty --[ADDED_TO]-> national fund 0.7863495349884033

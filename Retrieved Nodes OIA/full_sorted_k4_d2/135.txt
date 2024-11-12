@@ -1,0 +1,34 @@
+What reports discuss the progress and outcomes of the Road to Zero strategy since it was initiated?
+None
+Seed: Road to Zero Strategy Reports
+Seed: development of the next Road to Zero Action Plan
+Seed: Road to Zero initiatives
+Seed: Road to Zero Strategy Development
+[Road to Zero Strategy Reports]: Road to Zero Strategy Reports --[CONTAINS]-> Progress and Outcomes 0.9510536193847656
+[Road to Zero Strategy Reports]: Progress and Outcomes --[DISCUSSES]-> Road to Zero Strategy 0.9285297393798828
+[Road to Zero Strategy Reports]: New Zealand Transport Agency --[PROVIDES]-> Road to Zero Strategy Reports 0.8884193301200867
+[Road to Zero Strategy Reports]: Road to Zero Strategy Reports --[CONTAINS]-> Basis for Strategy 0.8862780332565308
+[Road to Zero Strategy Reports]: Road to Zero Strategy --[DEVELOPED]-> New Zealand Transport Agency 0.8719183206558228
+[Road to Zero Strategy Reports]: Basis for Strategy --[DISCUSSES]-> Road to Zero Strategy 0.8678669333457947
+[Road to Zero Strategy Reports]: New Zealand Transport Agency --[DEVELOPS]-> Road to Zero Strategy 0.8578948974609375
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[WORKING_WITH]-> development of the next Road to Zero Action Plan 0.8477837443351746
+[development of the next Road to Zero Action Plan]: Road to Zero --[IS_IMPLEMENTED_BY]-> Waka Kotahi 0.8330328464508057
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[SUPPORTS]-> Road to Zero strategy 0.8285906314849854
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[PUBLISHES]-> report 0.7986689209938049
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[INVESTIGATES]-> NFA outcomes 0.7937752604484558
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[PUBLISHES]-> Annual Reports 0.792376697063446
+[development of the next Road to Zero Action Plan]: Waka Kotahi --[PROVIDES]-> updates on progress 0.7838889360427856
+[Road to Zero initiatives]: Road to Zero --[PROGRESS]-> Annual Monitoring Report 0.9062985181808472
+[Road to Zero initiatives]: Road to Zero --[PUBLICATION]-> Annual Monitoring Report 2020 0.898443341255188
+[Road to Zero initiatives]: Road to Zero --[PROGRESS]-> Road to Zero initiatives 0.8984344005584717
+[Road to Zero initiatives]: Annual Monitoring Report --[OUTLINES]-> Road to Zero 0.8946821689605713
+[Road to Zero initiatives]: Road to Zero --[EFFECTIVENESS]-> Annual Monitoring Report 2020 0.8858409523963928
+[Road to Zero initiatives]: Road to Zero --[PROGRESS]-> Road to Zero public awareness campaign 0.8810365796089172
+[Road to Zero initiatives]: Road to Zero --[PROGRESS]-> Ministry of Transport 0.8787660598754883
+[Road to Zero Strategy Development]: New Zealand Transport Agency --[PROVIDES]-> Road to Zero Strategy Reports 0.8884193301200867
+[Road to Zero Strategy Development]: Road to Zero Strategy --[DEVELOPED]-> New Zealand Transport Agency 0.8719183206558228
+[Road to Zero Strategy Development]: New Zealand Transport Agency --[DEVELOPS]-> Road to Zero Strategy 0.8578948974609375
+[Road to Zero Strategy Development]: New Zealand Transport Agency --[SPENT]-> Road to Zero Strategy Development 0.8567067384719849
+[Road to Zero Strategy Development]: New Zealand Transport Agency --[PROVIDES]-> Road to Zero Strategy 0.8493576645851135
+[Road to Zero Strategy Development]: Road to Zero Strategy Development --[BREAKDOWN]-> Expenditure 0.8441530466079712
+[Road to Zero Strategy Development]: New Zealand Transport Agency --[SPENDS_ON]-> Road to Zero Strategy 0.8373386263847351

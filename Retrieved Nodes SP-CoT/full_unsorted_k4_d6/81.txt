@@ -1,0 +1,36 @@
+What nickname is commonly associated with the cities that are implementing extensive cycling networks and pedestrian-friendly infrastructure to address traffic congestion, in the country where individuals must be at least 16 years old to apply for a learner's permit, which is the first stage of the driver licensing process that can be obtained at the age of 16, highlighting Auckland's maritime culture?
+None
+Seed: Driver licensing and vehicle registration
+Seed: Licensing of drivers and vehicles
+Seed: Legal framework for licensing of drivers
+Seed: Age of 16
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Provisions on]-> Driver licensing and vehicle registration 0.8103563189506531
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Aiming to]-> Reduce road traffic accidents and fatalities 0.7898603081703186
+[Driver licensing and vehicle registration]: Vienna convention on road traffic --[Reflected in]-> Land transport act 1998 0.8023087978363037
+[Driver licensing and vehicle registration]: Road transport safety --[Governed by]-> Land transport act 1998 0.7907605767250061
+[Driver licensing and vehicle registration]: Road transport safety --[Focus on]-> Safer roads 0.7877206802368164
+[Driver licensing and vehicle registration]: Road transport safety --[Focus on]-> Safer road users 0.7852270603179932
+[Driver licensing and vehicle registration]: Road transport safety --[Focus on]-> Safer vehicles 0.7789783477783203
+[Driver licensing and vehicle registration]: Safer journeys strategy --[Focused on]-> Safer vehicles 0.782776415348053
+[Driver licensing and vehicle registration]: Safer journeys strategy --[Marked]-> Significant shift in new zealand's approach to road safety 0.7947868704795837
+[Driver licensing and vehicle registration]: Safer journeys strategy --[Focused on]-> Safer roads and roadsides 0.7907448410987854
+[Driver licensing and vehicle registration]: Safer journeys strategy --[Focused on]-> Safer speeds 0.783724844455719
+[Driver licensing and vehicle registration]: Safer journeys strategy --[Focused on]-> Safer road use 0.7961392402648926
+[Driver licensing and vehicle registration]: Safer journeys strategy --[Focused on]-> Four key areas 0.7632832527160645
+[Driver licensing and vehicle registration]: Land transport act 1998 --[Establishes]-> Legal framework for enforcement of road rules 0.7826801538467407
+[Driver licensing and vehicle registration]: Land transport act 1998 --[Establishes]-> Legal framework for registration of vehicles 0.7950716614723206
+[Driver licensing and vehicle registration]: Road safety legislation --[Governed by]-> Land transport act 1998 0.7817813754081726
+[Driver licensing and vehicle registration]: Road safety legislation --[Is]-> New zealand 0.8177286982536316
+[Driver licensing and vehicle registration]: New zealand --[Has]-> Transport projects 0.8405438661575317
+[Driver licensing and vehicle registration]: New zealand transport agency --[Oversees]-> Transport projects 0.8192877173423767
+[Driver licensing and vehicle registration]: Auckland --[Has]-> Transport projects 0.8456311821937561
+[Driver licensing and vehicle registration]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.8405554294586182
+[Driver licensing and vehicle registration]: New zealand --[Has]-> Diverse transport network 0.8422104716300964
+[Driver licensing and vehicle registration]: New zealand --[Has]-> Post-incident review 0.7532788515090942
+[Driver licensing and vehicle registration]: Post-incident review --[Crucial for]-> Improving operational efficiency 0.7169519066810608
+[Driver licensing and vehicle registration]: Post-incident review --[Crucial for]-> Fostering culture of continuous improvement 0.7229490876197815
+[Driver licensing and vehicle registration]: Post-incident review --[Aimed at]-> Recommending measures 0.7259165644645691
+[Driver licensing and vehicle registration]: Post-incident review --[Crucial for]-> Enhancing safety 0.7236088514328003
+[Driver licensing and vehicle registration]: Post-incident review --[Is]-> Systematic process 0.7265756726264954
+[Driver licensing and vehicle registration]: Post-incident review --[Conducted]-> Following an incident 0.7297618389129639
+[Driver licensing and vehicle registration]: Post-incident review --[Aimed at]-> Analyzing circumstances 0.7329283952713013

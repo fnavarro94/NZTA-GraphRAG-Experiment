@@ -1,0 +1,11 @@
+What body of water encircles the geological region located in the country where a method involving the use of advanced sensors and cameras to gather real-time data on road conditions significantly enhances the efficiency and accuracy of transport data acquisition processes, making it susceptible to natural disasters such as earthquakes, volcanic eruptions, and tsunamis?
+None
+Seed: Natural hazards
+Seed: Regions prone to wet conditions
+Seed: Volcanic activity
+Seed: Heavily on road transport for trade and tourism
+[Natural hazards]: New zealand --[Is vulnerable to]-> Natural hazards 0.8477253317832947
+[Natural hazards]: New zealand --[Susceptible to]-> Natural hazards 0.8462419509887695
+[Regions prone to wet conditions]: Electronic stability control --[Particularly pertinent in]-> Regions prone to wet conditions 0.7992885708808899
+[Volcanic activity]: New zealand --[Is vulnerable to]-> Volcanic activity 0.8523914217948914
+[Heavily on road transport for trade and tourism]: New zealand --[Relies]-> Heavily on road transport for trade and tourism 0.818204402923584

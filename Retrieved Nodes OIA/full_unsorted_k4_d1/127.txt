@@ -1,0 +1,36 @@
+Does Waka Kotahi hold a schedule of tasks for remedial work on the Kaipara Coast Highway (SH16) near Omeru Reserve?
+None
+Seed: Waka Kotahi N Z Transport Agency
+Seed: NZ Transport Agency Waka Kotahi
+Seed: Waka Kotahi NZ Transport Agency
+Seed: Waka Kotahi Senior Project Manager
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINS]-> Waka Kotahi N Z Transport Agency 0.8259599208831787
+[Waka Kotahi N Z Transport Agency]: Data --[PROVIDED]-> Waka Kotahi N Z Transport Agency 0.8447073698043823
+[NZ Transport Agency Waka Kotahi]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> NZ Transport Agency Waka Kotahi 0.8378475308418274
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[RESPOND]-> oia-15599-response-letter-23-july-2024.pdf 0.8491852283477783
+[NZ Transport Agency Waka Kotahi]: Andy Knackstedt --[DISCUSS]-> NZ Transport Agency Waka Kotahi 0.818367600440979
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[ASSOCIATED_WITH]-> oia-15599-response-letter-23-july-2024.pdf 0.8558981418609619
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[POLICY]-> publishing policy 0.8354052305221558
+[NZ Transport Agency Waka Kotahi]: response letter --[ASSOCIATED_WITH]-> NZ Transport Agency Waka Kotahi 0.8433870673179626
+[NZ Transport Agency Waka Kotahi]: official.correspondence@nzta.govt.nz --[DISCUSS]-> NZ Transport Agency Waka Kotahi 0.8251566886901855
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[PUBLISHES]-> response letter 0.8451035022735596
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[CONTACT]-> official.correspondence@nzta.govt.nz 0.8354591131210327
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[ASSOCIATED_WITH]-> response letter 0.8304212093353271
+[NZ Transport Agency Waka Kotahi]: WSP --[PREPARED]-> NZ Transport Agency Waka Kotahi 0.8547201752662659
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[BASED_ON]-> investigations, construction findings, on-site progress, design updates, design assumptions 0.8593449592590332
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8636596202850342
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[APPLIES]-> section 9(2)(b)(ii) of the Act 0.8232640027999878
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[APPLIES]-> section 9(2)(f)(iv) of the Act 0.8271788954734802
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[GRANTS_REQUEST]-> BRI-3010, MIN-4467 and MINO-990 0.8428348302841187
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[APPLIES]-> section 9(2)(j) of the Act 0.8256769180297852
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.8384156227111816
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.8358638286590576
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.8299082517623901
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> list of LGWM construction contracts 0.82736736536026
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> public transport fare policy review 0.8205643892288208
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.8382585644721985
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8371362090110779
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.8492071032524109
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.8382406830787659
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[FAX]-> F 64 4 894 6100 0.841891884803772
+[Waka Kotahi NZ Transport Agency]: Andrew Knackstedt --[CONTACT]-> Waka Kotahi NZ Transport Agency 0.8318368196487427

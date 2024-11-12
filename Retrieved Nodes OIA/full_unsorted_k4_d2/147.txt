@@ -1,0 +1,36 @@
+Does Waka Kotahi provide data distinguishing private vehicle movements on Hewletts Road?
+None
+Seed: information on daily private vehicle movements
+Seed: traffic counter sites on Hewletts Road
+Seed: Open Data portal for information about daily traffic volumes on Hewletts Road
+Seed: Waka Kotahi N Z Transport Agency
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[REFUSED_REQUEST]-> information on daily private vehicle movements 0.8857535123825073
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.8629688620567322
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.8717399835586548
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.8485194444656372
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> list of LGWM construction contracts 0.8198030591011047
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> public transport fare policy review 0.8546222448348999
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.8853086829185486
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8640171885490417
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.8958986401557922
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.9115909934043884
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[FAX]-> F 64 4 894 6100 0.8594100475311279
+[information on daily private vehicle movements]: Andrew Knackstedt --[CONTACT]-> Waka Kotahi NZ Transport Agency 0.84471595287323
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[CONTACT]-> T 64 4 894 5400 0.8578985333442688
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.8601902723312378
+[information on daily private vehicle movements]: Chris Marshall --[REQUESTS]-> Waka Kotahi NZ Transport Agency 0.842801570892334
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.8756183981895447
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.8725824952125549
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.8570352792739868
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[ANNOUNCED]-> Road to Zero 0.8586161732673645
+[information on daily private vehicle movements]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8627490997314453
+[information on daily private vehicle movements]: Road to Zero --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8665271997451782
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.8542068600654602
+[information on daily private vehicle movements]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.8567948341369629
+[information on daily private vehicle movements]: New Zealand --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.8684983253479004
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.8790024518966675
+[information on daily private vehicle movements]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.8775626420974731
+[information on daily private vehicle movements]: www.nzta.govt.nz --[OF]-> Waka Kotahi NZ Transport Agency 0.8800436854362488
+[information on daily private vehicle movements]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.8732050061225891
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.8659266233444214
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.8707345724105835

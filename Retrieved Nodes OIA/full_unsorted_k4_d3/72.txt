@@ -1,0 +1,36 @@
+What information was withheld from the response about the Road Efficiency Group briefing?
+None
+Seed: Some information has been withheld under section 9(2)(f)(iv)
+Seed: Road Efficiency Group
+Seed: Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)
+Seed: specific questions and the NZ Transport Agency’s responses
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[IS]-> Some information has been withheld under section 9(2)(f)(iv) 0.8298884034156799
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[DATE]-> 24 April 2024 0.7442833781242371
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[IS]-> NTS rollout timeline 0.7642608880996704
+[Road Efficiency Group]: Documents --[CONTAINS]-> Road Efficiency Group 0.8644993305206299
+[Road Efficiency Group]: Documents --[CONTAINS]-> Brown Update on the installation of cameras 0.7910003662109375
+[Road Efficiency Group]: Documents --[CONTAINS]-> GPS advice updates 0.8150349855422974
+[Road Efficiency Group]: MIN-4467 --[IS]-> GPS advice updates 0.784432590007782
+[Road Efficiency Group]: Request for Official Information --[COVERS]-> Documents 0.8201377987861633
+[Road Efficiency Group]: New Zealand Transport Agency --[RESPONDS]-> Request for Official Information 0.8490582704544067
+[Road Efficiency Group]: Response to Request --[CONTAINS]-> Documents 0.7885517477989197
+[Road Efficiency Group]: New Zealand Transport Agency --[PROVIDES]-> Response to Request 0.8238293528556824
+[Road Efficiency Group]: BRI-3010 --[RELATES_TO]-> Road Efficiency Group 0.8427264094352722
+[Road Efficiency Group]: OIA-15599 --[CONTAINS]-> BRI-3010 0.7637712955474854
+[Road Efficiency Group]: OIA-15599 --[CONTAINS]-> Document Schedule 0.7730728387832642
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[IS]-> Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv) 0.8251271843910217
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[IS]-> Transport stakeholders meeting 0.8159172534942627
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[DATE]-> 17 April 2024 0.7565142512321472
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4449 --[DATE]-> 17 April 2024 0.7579575777053833
+[specific questions and the NZ Transport Agency’s responses]: response to the request --[CONTAINS]-> specific questions and the NZ Transport Agency’s responses 0.8377858400344849
+[specific questions and the NZ Transport Agency’s responses]: New Zealand Transport Agency --[PROVIDES]-> response to the request 0.8290934562683105
+[specific questions and the NZ Transport Agency’s responses]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7763121128082275
+[specific questions and the NZ Transport Agency’s responses]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7821707129478455
+[specific questions and the NZ Transport Agency’s responses]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7802156209945679
+[specific questions and the NZ Transport Agency’s responses]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7518986463546753
+[specific questions and the NZ Transport Agency’s responses]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7700808048248291
+[specific questions and the NZ Transport Agency’s responses]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7760313153266907
+[specific questions and the NZ Transport Agency’s responses]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7856613993644714
+[specific questions and the NZ Transport Agency’s responses]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7793158292770386
+[specific questions and the NZ Transport Agency’s responses]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7934330701828003
+[specific questions and the NZ Transport Agency’s responses]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8084063529968262

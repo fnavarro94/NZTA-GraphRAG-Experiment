@@ -1,0 +1,33 @@
+What suburb does Te Ara I Whiti (Lightpath) connect to from the city that is home to the Te Ara I Whiti (Lightpath) project, which has transformed underutilized spaces into vibrant cycling and pedestrian pathways, CBD?
+None
+Seed: Multiple routes linking it to surrounding suburbs and the auckland cbd
+Seed: Auckland cbd
+Seed: Commuters to cbd
+Seed: Dedicated cycle lanes and pedestrian pathways
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Te ara i whiti --[Links]-> Auckland cbd 0.8644683361053467
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Te ara i whiti --[Is]-> Lightpath 0.8454588651657104
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Te ara i whiti --[Part of]-> Auckland cycle network 0.8362159132957458
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Te ara i whiti --[Located in]-> Auckland 0.8239569067955017
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Auckland --[Has]-> Pedestrian pathways 0.8233243227005005
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Te ara i whiti --[Constructed on]-> Former railway corridor 0.8218223452568054
+[Multiple routes linking it to surrounding suburbs and the auckland cbd]: Auckland --[Connected to]-> Surrounding suburbs and regions 0.8139963150024414
+[Auckland cbd]: Te ara i whiti --[Links]-> Auckland cbd 0.8644683361053467
+[Auckland cbd]: Te ara i whiti --[Is]-> Lightpath 0.8454588651657104
+[Auckland cbd]: Te ara i whiti --[Part of]-> Auckland cycle network 0.8362159132957458
+[Auckland cbd]: Te ara i whiti --[Located in]-> Auckland 0.8239569067955017
+[Auckland cbd]: Auckland --[Has]-> Pedestrian pathways 0.8233243227005005
+[Auckland cbd]: Te ara i whiti --[Constructed on]-> Former railway corridor 0.8218223452568054
+[Auckland cbd]: Auckland --[Connected to]-> Surrounding suburbs and regions 0.8139963150024414
+[Commuters to cbd]: Western line --[Connects]-> Commuters to cbd 0.8123621940612793
+[Commuters to cbd]: Eastern line --[Connects]-> Commuters to cbd 0.8025721907615662
+[Commuters to cbd]: Southern line --[Connects]-> Commuters to cbd 0.7966413497924805
+[Commuters to cbd]: Western line --[Is]-> Primary rail corridor 0.7505043745040894
+[Commuters to cbd]: Eastern line --[Is]-> Primary rail corridor 0.735020101070404
+[Commuters to cbd]: Southern line --[Is]-> Primary rail corridor 0.7346377372741699
+[Dedicated cycle lanes and pedestrian pathways]: Te ara i whiti --[Links]-> Auckland cbd 0.8644683361053467
+[Dedicated cycle lanes and pedestrian pathways]: Te ara i whiti --[Is]-> Lightpath 0.8454588651657104
+[Dedicated cycle lanes and pedestrian pathways]: Te ara i whiti --[Part of]-> Auckland cycle network 0.8362159132957458
+[Dedicated cycle lanes and pedestrian pathways]: Te ara i whiti --[Located in]-> Auckland 0.8239569067955017
+[Dedicated cycle lanes and pedestrian pathways]: Auckland --[Has]-> Pedestrian pathways 0.8233243227005005
+[Dedicated cycle lanes and pedestrian pathways]: Te ara i whiti --[Constructed on]-> Former railway corridor 0.8218223452568054
+[Dedicated cycle lanes and pedestrian pathways]: Auckland --[Connected to]-> Surrounding suburbs and regions 0.8139963150024414

@@ -1,0 +1,36 @@
+In what year did the establishment become established?
+None
+Seed: Commenced in 1840
+Seed: Early european settlement in 19th century
+Seed: Establishment of national land transport fund
+Seed: In early european settlement
+[Commenced in 1840]: Auckland ferry network --[First regular ferry service]-> Commenced in 1840 0.7781304121017456
+[Commenced in 1840]: Auckland ferry network --[Operated by]-> Auckland transport 0.7357154488563538
+[Commenced in 1840]: Auckland ferry network --[Crucial element]-> New zealand's transport landscape 0.7196787595748901
+[Commenced in 1840]: Auckland ferry network --[Enhancing]-> User convenience 0.7257288694381714
+[Commenced in 1840]: Auckland ferry network --[Focus on]-> Integrating with emerging technologies 0.7296333909034729
+[Commenced in 1840]: Auckland ferry network --[Origins]-> Date back to 19th century 0.7783321142196655
+[Commenced in 1840]: Auckland ferry network --[Set to undergo]-> Further enhancements 0.7134237289428711
+[Commenced in 1840]: Auckland ferry network --[Operates]-> Multiple routes 0.7221416234970093
+[Commenced in 1840]: Auckland ferry network --[Part of]-> Auckland transport's broader strategy 0.753150224685669
+[Commenced in 1840]: Auckland ferry network --[Commitment to]-> Sustainability 0.7472070455551147
+[Commenced in 1840]: Auckland ferry network --[Known for]-> Reliability 0.7240898609161377
+[Commenced in 1840]: Auckland ferry network --[Integrated with]-> Other forms of public transport 0.7375997304916382
+[Commenced in 1840]: Auckland ferry network --[Consists of]-> Several routes 0.7155717611312866
+[Commenced in 1840]: Auckland ferry network --[Contributing to]-> Sustainability of urban transport 0.7304392457008362
+[Commenced in 1840]: Auckland ferry network --[Offering]-> Unique and picturesque travel experience 0.718800961971283
+[Commenced in 1840]: Auckland ferry network --[Service]-> Popular during peak hours 0.714519202709198
+[Commenced in 1840]: Auckland ferry network --[Is]-> Vital component of public transport system 0.7207367420196533
+[Commenced in 1840]: Auckland ferry network --[Services provided by]-> Several operators 0.7376929521560669
+[Commenced in 1840]: Auckland ferry network --[Connects]-> Central business district of auckland with destinations 0.7309901714324951
+[Commenced in 1840]: Auckland ferry network --[Plays]-> Significant role in alleviating road congestion 0.7167081832885742
+[Commenced in 1840]: Auckland ferry network --[Significant expansions and upgrades]-> Accommodate growing population and increasing demand 0.758752703666687
+[Commenced in 1840]: Auckland ferry network --[Offers]-> Alternative mode of transport for commuters and tourists 0.7116963863372803
+[Commenced in 1840]: Auckland ferry network --[Poised to play]-> Increasingly important role in shaping future of public transport 0.7266592383384705
+[Commenced in 1840]: Auckland ferry network --[Fleet]-> Consists of various vessels 0.7179946899414062
+[Commenced in 1840]: Auckland ferry network --[Improve]-> Public transport infrastructure 0.7214602828025818
+[Commenced in 1840]: Auckland ferry network --[Planned developments]-> Include introduction of new routes 0.74056077003479
+[Commenced in 1840]: Auckland ferry network --[Planned developments]-> Include increased frequency of services 0.7375455498695374
+[Commenced in 1840]: Auckland ferry network --[Enhancing]-> Overall accessibility 0.7303151488304138
+[Commenced in 1840]: Auckland ferry network --[Planned developments]-> Include upgrades to ferry terminals 0.7395825982093811
+[Commenced in 1840]: Auckland ferry network --[Evolved]-> Over years 0.7771065831184387

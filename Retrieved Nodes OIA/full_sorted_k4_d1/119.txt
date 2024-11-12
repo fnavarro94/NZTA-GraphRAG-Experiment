@@ -1,0 +1,10 @@
+How many staff have resigned from NZTA since March 2016?
+None
+Seed: resignations by year since 2014
+Seed: staff resignation data
+Seed: staff joining and resigning data
+Seed: context for resignations
+[resignations by year since 2014]: New Zealand Transport Agency --[PROVIDES]-> resignations by year since 2014 0.8769615292549133
+[staff resignation data]: New Zealand Transport Agency --[PROVIDES]-> staff resignation data 0.8851460218429565
+[staff joining and resigning data]: New Zealand Transport Agency --[PROVIDES]-> staff joining and resigning data 0.8722203373908997
+[context for resignations]: New Zealand Transport Agency --[PROVIDES]-> context for resignations 0.8698301911354065

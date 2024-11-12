@@ -1,0 +1,12 @@
+How were rental companies involved in the Visiting Drivers Signature Project?
+None
+Seed: rental companies might be prepared to pay for this
+Seed: Visiting Drivers Signature Project Working Group
+Seed: summary of the visiting drivers survey
+Seed: information on visiting drivers survey
+[rental companies might be prepared to pay for this]: Kate Meldrum --[INDICATED]-> rental companies might be prepared to pay for this 0.8086701035499573
+[Visiting Drivers Signature Project Working Group]: Visiting Drivers Signature Project Working Group --[MEETS]-> 20 October 2014 0.8574808835983276
+[summary of the visiting drivers survey]: NZ Transport Agency --[DECLINE]-> summary of the visiting drivers survey 0.8027735948562622
+[summary of the visiting drivers survey]: summary of the visiting drivers survey --[AVAILABLE]-> www.saferjourneys.govt.nz/action-plans/signature-programme/ 0.8582960367202759
+[information on visiting drivers survey]: David Williams --[REQUESTS]-> information on visiting drivers survey 0.8311476111412048
+[information on visiting drivers survey]: New Zealand Transport Agency --[PROVIDES]-> information on visiting drivers survey 0.8188506364822388

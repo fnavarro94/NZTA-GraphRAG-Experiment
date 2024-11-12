@@ -1,0 +1,34 @@
+What was the objective of the Safe Limits campaign regarding speed limits?
+None
+Seed: comparing the number of accidents under the 100km speed limit versus the current 80km speed rate
+Seed: wider objectives in Regional Public Transport Plans
+Seed: Setting of Speed Limits Rule 2017
+Seed: speed limit zones
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[INTERESTED_IN]-> comparing the number of accidents under the 100km speed limit versus the current 80km speed rate 0.8275731205940247
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: NZ Transport Agency --[ADVERTISES]-> Road Safety Campaigns 0.8235900402069092
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: questions and responses --[FROM]-> NZ Transport Agency 0.8063638210296631
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: NZ Transport Agency --[RESPONSIBLE_FOR]-> risk rating 0.8005766272544861
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: risk rating --[ASSIGNED_BY]-> NZ Transport Agency 0.7931662797927856
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: NZ Transport Agency --[ASSOCIATED]-> oia-4596 0.7920773029327393
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: oia-4596 --[ASSOCIATED]-> NZ Transport Agency 0.7908921837806702
+[wider objectives in Regional Public Transport Plans]: underlying principles of the current policy --[CONTRIBUTES]-> wider objectives in Regional Public Transport Plans 0.8214088082313538
+[wider objectives in Regional Public Transport Plans]: wider objectives in Regional Public Transport Plans --[CONTRIBUTES]-> government's transport priorities 0.8207579851150513
+[wider objectives in Regional Public Transport Plans]: wider impacts of fare policy on people and cities --[INCLUCES]-> national farebox recovery target 0.7886295914649963
+[wider objectives in Regional Public Transport Plans]: national farebox recovery target --[REPLACED_BY]-> underlying principles of the current policy 0.7866144776344299
+[wider objectives in Regional Public Transport Plans]: government's transport priorities --[INCLUDES]-> fares play an important role in helping cover the cost of public transport within available budgets 0.774955153465271
+[wider objectives in Regional Public Transport Plans]: fares play an important role in helping cover the cost of public transport within available budgets --[CONTRIBUTES]-> public transport budgets 0.7747350931167603
+[wider objectives in Regional Public Transport Plans]: 2018-21 NLTP --[APPLIES]-> national farebox recovery target 0.7640637159347534
+[Setting of Speed Limits Rule 2017]: road safety --[IMPROVED_BY]-> reduced speed limits 0.858251690864563
+[Setting of Speed Limits Rule 2017]: Setting of Speed Limits Rule 2017 --[APPLIES_TO]-> speed review process 0.8445148468017578
+[Setting of Speed Limits Rule 2017]: speed review process --[AFFECTS]-> road safety 0.8354967832565308
+[Setting of Speed Limits Rule 2017]: New Zealand Transport Agency --[ASSOCIATED]-> Road safety initiatives 0.8318181037902832
+[Setting of Speed Limits Rule 2017]: Waka Kotahi --[RAISES_AWARENESS]-> importance of setting safe speeds 0.8291877508163452
+[Setting of Speed Limits Rule 2017]: Road to Zero --[CAMPAIGN]-> public awareness campaign 0.8265393376350403
+[Setting of Speed Limits Rule 2017]: Road to Zero --[PROGRESS]-> Road to Zero public awareness campaign 0.8242085576057434
+[speed limit zones]: crashes --[BY]-> speed limit zones 0.8260400295257568
+[speed limit zones]: State Highway 16 --[HAS_SPEED_LIMIT]-> 80 km/hr 0.8068308234214783
+[speed limit zones]: State Highway 16 --[HAS_SPEED_LIMIT]-> 100 km/hr 0.8061605095863342
+[speed limit zones]: New Zealand Transport Agency --[COLLABORATES_WITH]-> NZ Police 0.7722201943397522
+[speed limit zones]: crashes --[OCCURRED]-> Territorial Local Authorities 0.7688246965408325
+[speed limit zones]: Traffic Crash Report --[PROVIDED_BY]-> NZ Police 0.759656548500061
+[speed limit zones]: New Zealand Police --[TRANSFERS]-> New Zealand Transport Agency 0.759568452835083

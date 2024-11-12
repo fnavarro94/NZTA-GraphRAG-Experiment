@@ -1,0 +1,14 @@
+What are the titles of the documents released in response to OIA request 15599 regarding advice provided in April 2024?
+None
+Seed: 26 April 2024
+Seed: 22 April 2024
+Seed: 8 April 2024
+Seed: 24 April 2024
+[26 April 2024]: MINO-990 --[DATE]-> 26 April 2024 0.8151470422744751
+[26 April 2024]: MIN-4467 --[DATE]-> 26 April 2024 0.7971844673156738
+[22 April 2024]: MINO -1039 Road User Charges --[REVENUE]-> 22 April 2024 0.7951860427856445
+[22 April 2024]: 22 April 2024 --[RELEASED]-> Released in full 0.8200981616973877
+[8 April 2024]: Ministers Report --[DATE]-> 8 April 2024 0.8487589359283447
+[8 April 2024]: MINO -1029 Minister Office's --[QUERY]-> 8 April 2024 0.8591034412384033
+[8 April 2024]: 8 April 2024 --[RELEASED]-> Released in full 0.8180559277534485
+[24 April 2024]: MIN-4465 --[DATE]-> 24 April 2024 0.7965523600578308

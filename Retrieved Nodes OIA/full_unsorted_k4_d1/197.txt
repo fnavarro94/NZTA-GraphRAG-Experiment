@@ -1,0 +1,10 @@
+How many complaints have been received about Uber drivers since 2019?
+None
+Seed: 196 complaints about Uber drivers
+Seed: Uber drivers
+Seed: Complaint Data
+Seed: ride share operator complaints
+[196 complaints about Uber drivers]: Waka Kotahi --[RECEIVES]-> 196 complaints about Uber drivers 0.8900079727172852
+[Uber drivers]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.8500398993492126
+[Complaint Data]: Request for Information --[REQUESTS]-> Complaint Data 0.7904334664344788
+[ride share operator complaints]: Waka Kotahi --[INVESTIGATES]-> ride share operator complaints 0.8351490497589111

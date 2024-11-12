@@ -1,0 +1,34 @@
+What communication has Waka Kotahi had regarding the Ashburton Bridge since January 2023?
+None
+Seed: Waka Kotahi
+Seed: information to Waka Kotahi
+Seed: Waka Kotahi NZ Transport Agency
+Seed: Waka Kotahi N Z Transport Agency
+[Waka Kotahi]: Waka Kotahi --[DISCUSS]-> New Zealand Transport Agency 0.8623197674751282
+[Waka Kotahi]: Waka Kotahi --[CONTACT]-> 64-4-894 5251 0.8593834638595581
+[Waka Kotahi]: Waka Kotahi --[SEEKS]-> additional information 0.8575963377952576
+[Waka Kotahi]: Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8574013710021973
+[Waka Kotahi]: Waka Kotahi --[DISCUSS]-> Ministerial Services 0.8567208647727966
+[Waka Kotahi]: Waka Kotahi --[CONTACTABLE]-> official.correspondence@nzta.govt.nz 0.8563278317451477
+[Waka Kotahi]: response letter --[DISCUSSED]-> Waka Kotahi 0.8561269044876099
+[information to Waka Kotahi]: Waka Kotahi --[DISCUSS]-> New Zealand Transport Agency 0.8623197674751282
+[information to Waka Kotahi]: Waka Kotahi --[CONTACT]-> 64-4-894 5251 0.8593834638595581
+[information to Waka Kotahi]: Waka Kotahi --[SEEKS]-> additional information 0.8575963377952576
+[information to Waka Kotahi]: Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8574013710021973
+[information to Waka Kotahi]: Waka Kotahi --[DISCUSS]-> Ministerial Services 0.8567208647727966
+[information to Waka Kotahi]: Waka Kotahi --[CONTACTABLE]-> official.correspondence@nzta.govt.nz 0.8563278317451477
+[information to Waka Kotahi]: response letter --[DISCUSSED]-> Waka Kotahi 0.8561269044876099
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[DISCUSS]-> New Zealand Transport Agency 0.8623197674751282
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[CONTACT]-> 64-4-894 5251 0.8593834638595581
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[SEEKS]-> additional information 0.8575963377952576
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8574013710021973
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[DISCUSS]-> Ministerial Services 0.8567208647727966
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[CONTACTABLE]-> official.correspondence@nzta.govt.nz 0.8563278317451477
+[Waka Kotahi NZ Transport Agency]: response letter --[DISCUSSED]-> Waka Kotahi 0.8561269044876099
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi --[DISCUSS]-> New Zealand Transport Agency 0.8623197674751282
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8574013710021973
+[Waka Kotahi N Z Transport Agency]: New Zealand Transport Agency --[DISCUSS]-> Waka Kotahi 0.8557447195053101
+[Waka Kotahi N Z Transport Agency]: NZ Transport Agency Waka Kotahi --[IS]-> New Zealand Transport Agency 0.855713963508606
+[Waka Kotahi N Z Transport Agency]: New Zealand Transport Agency --[ASSOCIATED]-> Waka Kotahi 0.8523626923561096
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi --[ASSOCIATED]-> New Zealand Transport Agency 0.8517962694168091
+[Waka Kotahi N Z Transport Agency]: New Zealand Transport Agency --[PROVIDES]-> information to Waka Kotahi 0.8501396179199219

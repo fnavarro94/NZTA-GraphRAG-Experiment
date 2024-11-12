@@ -1,0 +1,28 @@
+Are all costs related to flood damage recorded in Waka Kotahi’s asset management system?
+None
+Seed: Waka Kotahi
+Seed: Waka Kotahi policy
+Seed: information to Waka Kotahi
+Seed: Waka Kotahi Senior Project Manager
+[Waka Kotahi]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.8775084018707275
+[Waka Kotahi]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.8753679990768433
+[Waka Kotahi]: Waka Kotahi --[PUBLISHES]-> Annual Reports 0.8730369210243225
+[Waka Kotahi]: transport infrastructure --[SERVED_BY]-> Waka Kotahi 0.8721909523010254
+[Waka Kotahi]: Waka Kotahi --[INFORMS]-> affected area 0.8719703555107117
+[Waka Kotahi]: Waka Kotahi --[ALLOCATES]-> $15 million 0.8675605654716492
+[Waka Kotahi]: Waka Kotahi policy --[PUBLISHED]-> website 0.8673614263534546
+[Waka Kotahi policy]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.8775084018707275
+[Waka Kotahi policy]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.8753679990768433
+[Waka Kotahi policy]: Waka Kotahi --[PUBLISHES]-> Annual Reports 0.8730369210243225
+[Waka Kotahi policy]: transport infrastructure --[SERVED_BY]-> Waka Kotahi 0.8721909523010254
+[Waka Kotahi policy]: Waka Kotahi --[INFORMS]-> affected area 0.8719703555107117
+[Waka Kotahi policy]: Waka Kotahi --[ALLOCATES]-> $15 million 0.8675605654716492
+[Waka Kotahi policy]: Waka Kotahi policy --[PUBLISHED]-> website 0.8673614263534546
+[information to Waka Kotahi]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.8775084018707275
+[information to Waka Kotahi]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.8753679990768433
+[information to Waka Kotahi]: Waka Kotahi --[PUBLISHES]-> Annual Reports 0.8730369210243225
+[information to Waka Kotahi]: transport infrastructure --[SERVED_BY]-> Waka Kotahi 0.8721909523010254
+[information to Waka Kotahi]: Waka Kotahi --[INFORMS]-> affected area 0.8719703555107117
+[information to Waka Kotahi]: Waka Kotahi --[ALLOCATES]-> $15 million 0.8675605654716492
+[information to Waka Kotahi]: Waka Kotahi policy --[PUBLISHED]-> website 0.8673614263534546
+[Waka Kotahi Senior Project Manager]: Waka Kotahi Senior Project Manager --[MANAGES]-> State Highway 25A Rebuild Project 0.8384420275688171

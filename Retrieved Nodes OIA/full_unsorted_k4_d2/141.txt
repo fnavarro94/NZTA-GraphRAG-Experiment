@@ -1,0 +1,36 @@
+How much money has NZTA spent on the Saddle Road in the 2017/18 and 2018/19 financial years?
+None
+Seed: information about Saddle Road
+Seed: information about Saddle Road works
+Seed: cost of the current Road to Zero advertising campaign
+Seed: Expenditure
+[information about Saddle Road]: New Zealand Transport Agency --[PROVIDES]-> information about Saddle Road 0.8739742040634155
+[information about Saddle Road]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7901601791381836
+[information about Saddle Road]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8116981983184814
+[information about Saddle Road]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7996841073036194
+[information about Saddle Road]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7768599390983582
+[information about Saddle Road]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7966755628585815
+[information about Saddle Road]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7966717481613159
+[information about Saddle Road]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7916403412818909
+[information about Saddle Road]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7935994863510132
+[information about Saddle Road]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8175594806671143
+[information about Saddle Road]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7827082872390747
+[information about Saddle Road]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7865264415740967
+[information about Saddle Road]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7872428297996521
+[information about Saddle Road]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.79033362865448
+[information about Saddle Road]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7834694385528564
+[information about Saddle Road]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7937338948249817
+[information about Saddle Road]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.781743049621582
+[information about Saddle Road]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.760890543460846
+[information about Saddle Road]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7671825885772705
+[information about Saddle Road]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8123950958251953
+[information about Saddle Road]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7775208950042725
+[information about Saddle Road]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7811096906661987
+[information about Saddle Road]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7852355241775513
+[information about Saddle Road]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7846961617469788
+[information about Saddle Road]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7634180188179016
+[information about Saddle Road]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7681279182434082
+[information about Saddle Road]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7940564155578613
+[information about Saddle Road]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7739505171775818
+[information about Saddle Road]: Senior Engineer Vehicle Standard --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7613363265991211
+[information about Saddle Road]: oia-15834-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7898275852203369

@@ -1,0 +1,36 @@
+What is Waka Kotahi's long-term sustainability vision?
+None
+Seed: Waka Kotahi Senior Project Manager
+Seed: vision for a low carbon, safe and healthy land transport system by 2050
+Seed: Waka Kotahi
+Seed: where people can easily learn about sustainability
+[Waka Kotahi Senior Project Manager]: Waka Kotahi Senior Project Manager --[MANAGES]-> State Highway 25A Rebuild Project 0.8160412311553955
+[vision for a low carbon, safe and healthy land transport system by 2050]: Toitū Te Taiao --[SETS]-> vision for a low carbon, safe and healthy land transport system by 2050 0.7960503697395325
+[vision for a low carbon, safe and healthy land transport system by 2050]: Waka Kotahi NZ Transport Agency --[RELEASED]-> Toitū Te Taiao 0.7861352562904358
+[vision for a low carbon, safe and healthy land transport system by 2050]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.800326406955719
+[vision for a low carbon, safe and healthy land transport system by 2050]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.7968484163284302
+[vision for a low carbon, safe and healthy land transport system by 2050]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.7977292537689209
+[vision for a low carbon, safe and healthy land transport system by 2050]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> list of LGWM construction contracts 0.7879565954208374
+[vision for a low carbon, safe and healthy land transport system by 2050]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> public transport fare policy review 0.8066025972366333
+[vision for a low carbon, safe and healthy land transport system by 2050]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.7928655743598938
+[vision for a low carbon, safe and healthy land transport system by 2050]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.7945653796195984
+[vision for a low carbon, safe and healthy land transport system by 2050]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.781224250793457
+[vision for a low carbon, safe and healthy land transport system by 2050]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.7936520576477051
+[vision for a low carbon, safe and healthy land transport system by 2050]: Waka Kotahi NZ Transport Agency --[FAX]-> F 64 4 894 6100 0.8010185956954956
+[vision for a low carbon, safe and healthy land transport system by 2050]: Andrew Knackstedt --[CONTACT]-> Waka Kotahi NZ Transport Agency 0.7884345650672913
+[vision for a low carbon, safe and healthy land transport system by 2050]: Waka Kotahi NZ Transport Agency --[CONTACT]-> T 64 4 894 5400 0.7966965436935425
+[vision for a low carbon, safe and healthy land transport system by 2050]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.8005638122558594
+[vision for a low carbon, safe and healthy land transport system by 2050]: Chris Marshall --[REQUESTS]-> Waka Kotahi NZ Transport Agency 0.7925279140472412
+[vision for a low carbon, safe and healthy land transport system by 2050]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.8164421916007996
+[vision for a low carbon, safe and healthy land transport system by 2050]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.8213372230529785
+[vision for a low carbon, safe and healthy land transport system by 2050]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.7926203012466431
+[vision for a low carbon, safe and healthy land transport system by 2050]: Waka Kotahi NZ Transport Agency --[ANNOUNCED]-> Road to Zero 0.7996733784675598
+[vision for a low carbon, safe and healthy land transport system by 2050]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.819766104221344
+[vision for a low carbon, safe and healthy land transport system by 2050]: Road to Zero --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8068109750747681
+[vision for a low carbon, safe and healthy land transport system by 2050]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.82622891664505
+[vision for a low carbon, safe and healthy land transport system by 2050]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7960453629493713
+[vision for a low carbon, safe and healthy land transport system by 2050]: New Zealand --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.813474714756012
+[vision for a low carbon, safe and healthy land transport system by 2050]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.8177865743637085
+[vision for a low carbon, safe and healthy land transport system by 2050]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7948319911956787
+[vision for a low carbon, safe and healthy land transport system by 2050]: www.nzta.govt.nz --[OF]-> Waka Kotahi NZ Transport Agency 0.8054560422897339
+[vision for a low carbon, safe and healthy land transport system by 2050]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7951856255531311

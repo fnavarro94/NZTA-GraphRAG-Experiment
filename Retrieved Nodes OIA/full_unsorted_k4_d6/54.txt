@@ -1,0 +1,36 @@
+How does the NZ Transport Agency handle privacy concerns when sharing information about driver tests?
+None
+Seed: individual privacy
+Seed: Place to which the public have access with a motor vehicle
+Seed: why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’
+Seed: information on visiting drivers survey
+[individual privacy]: driver's licence test statistics --[PROTECTED]-> individual privacy 0.8989565372467041
+[individual privacy]: Driving Tests Data.xlsx --[PROVIDES]-> driver's licence test statistics 0.8310308456420898
+[individual privacy]: spreadsheet --[CONTAINS]-> Driving Tests Data.xlsx 0.797585666179657
+[individual privacy]: driver's licence test data --[PROVIDED]-> spreadsheet 0.8424962759017944
+[individual privacy]: Luke Kirkness --[REQUESTED]-> driver's licence test data 0.8447102308273315
+[individual privacy]: NZ Driver Licensing (1998) Limited --[PROVIDES]-> spreadsheet 0.8700799942016602
+[individual privacy]: New Zealand Transport Agency --[CONTRACTS]-> NZ Driver Licensing (1998) Limited 0.8618334531784058
+[individual privacy]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8461040258407593
+[individual privacy]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8712334632873535
+[individual privacy]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8523603677749634
+[individual privacy]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.8221743106842041
+[individual privacy]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.8460869789123535
+[individual privacy]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.8574879765510559
+[individual privacy]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.8522071838378906
+[individual privacy]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.8399781584739685
+[individual privacy]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.869623601436615
+[individual privacy]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8551760315895081
+[individual privacy]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.841030478477478
+[individual privacy]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8708646893501282
+[individual privacy]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8654504418373108
+[individual privacy]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8648916482925415
+[individual privacy]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8482338190078735
+[individual privacy]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8604089021682739
+[individual privacy]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8340203762054443
+[individual privacy]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8344947099685669
+[individual privacy]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8619855642318726
+[individual privacy]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8184493184089661
+[individual privacy]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8617278933525085
+[individual privacy]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8577307462692261
+[individual privacy]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8601706027984619

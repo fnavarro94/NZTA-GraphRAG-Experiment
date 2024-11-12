@@ -1,0 +1,29 @@
+In what year did the organization that operates the rail network in New Zealand, primarily serving freight and providing passenger services in metropolitan areas, become established as a state-owned enterprise in New Zealand?
+None
+Seed: State-owned enterprise
+Seed: Extensive network of passenger and freight services
+Seed: Rail network
+Seed: Rail networks
+[State-owned enterprise]: Kiwirail group --[Is]-> State-owned enterprise 0.8966468572616577
+[State-owned enterprise]: Kiwirail --[Is]-> State-owned enterprise 0.8963137865066528
+[State-owned enterprise]: Kiwirail group --[Owned by]-> New zealand government 0.8696597814559937
+[State-owned enterprise]: New zealand --[Has]-> Rail transport 0.8686851263046265
+[State-owned enterprise]: Kiwirail --[Emerged from]-> New zealand railways corporation 0.8662418127059937
+[State-owned enterprise]: Rail freight services --[Are operated by]-> Kiwirail 0.8637599945068359
+[State-owned enterprise]: Kiwirail group --[Operates]-> Freight services 0.8611978888511658
+[Extensive network of passenger and freight services]: New zealand railways department --[Continued to operate]-> Extensive network of passenger and freight services 0.8569406270980835
+[Extensive network of passenger and freight services]: New zealand railways department --[Introduced]-> Diesel locomotives 0.8350869417190552
+[Rail network]: Kiwirail group --[Is]-> State-owned enterprise 0.8966468572616577
+[Rail network]: Kiwirail --[Is]-> State-owned enterprise 0.8963137865066528
+[Rail network]: New zealand --[Has]-> Developing rail network 0.8756682872772217
+[Rail network]: New zealand --[Has]-> Freight and logistics management 0.8730637431144714
+[Rail network]: New zealand --[Composed of]-> Rail networks 0.8698530197143555
+[Rail network]: Kiwirail group --[Owned by]-> New zealand government 0.8696597814559937
+[Rail network]: New zealand --[Has]-> Rail transport 0.8686851263046265
+[Rail networks]: New zealand --[Has]-> Developing rail network 0.8756682872772217
+[Rail networks]: New zealand --[Has]-> Freight and logistics management 0.8730637431144714
+[Rail networks]: New zealand --[Composed of]-> Rail networks 0.8698530197143555
+[Rail networks]: New zealand --[Has]-> Rail transport 0.8686851263046265
+[Rail networks]: New zealand --[Has]-> Railways 0.8683388233184814
+[Rail networks]: New zealand --[Has]-> Transport sector 0.863258957862854
+[Rail networks]: Auckland --[Has]-> Rail network 0.8584566712379456

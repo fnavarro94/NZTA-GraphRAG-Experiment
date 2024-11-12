@@ -1,0 +1,36 @@
+Which country did the airline that initially operated trans-Tasman flights to in 1940 connect to for tourism and business travel, alongside major cities in New Zealand and Asia, alongside the urban area in New Zealand that has experienced significant investment in public transport infrastructure alongside Auckland and Wellington?
+None
+Seed: Local economy and tourism industry
+Seed: Trans-tasman flights between new zealand and australia
+Seed: Domestic flights to major cities across new zealand
+Seed: Both passenger and freight transport across the cook strait
+[Local economy and tourism industry]: Auckland airport --[Supporting]-> Local economy and tourism industry 0.8570446968078613
+[Local economy and tourism industry]: Auckland airport --[Serves]-> As hub for domestic and international flights 0.8487673401832581
+[Local economy and tourism industry]: Auckland airport --[Is]-> Undergoing significant expansion 0.8432936072349548
+[Local economy and tourism industry]: Auckland airport --[Serves as]-> Primary international gateway for new zealand 0.8462353944778442
+[Local economy and tourism industry]: Auckland airport --[Committed]-> Sustainability 0.8062562942504883
+[Local economy and tourism industry]: Auckland ferry network --[Commitment to]-> Sustainability 0.799540638923645
+[Local economy and tourism industry]: Auckland ferry network --[Operated by]-> Auckland transport 0.8170128464698792
+[Local economy and tourism industry]: Auckland ferry network --[Crucial element]-> New zealand's transport landscape 0.8246670365333557
+[Local economy and tourism industry]: Auckland ferry network --[Enhancing]-> User convenience 0.7603989839553833
+[Local economy and tourism industry]: Auckland ferry network --[Focus on]-> Integrating with emerging technologies 0.8176918029785156
+[Local economy and tourism industry]: Auckland ferry network --[Origins]-> Date back to 19th century 0.8161487579345703
+[Local economy and tourism industry]: Auckland ferry network --[Set to undergo]-> Further enhancements 0.7829663753509521
+[Local economy and tourism industry]: Auckland ferry network --[Operates]-> Multiple routes 0.8122624158859253
+[Local economy and tourism industry]: Auckland ferry network --[First regular ferry service]-> Commenced in 1840 0.8045937418937683
+[Local economy and tourism industry]: Auckland ferry network --[Part of]-> Auckland transport's broader strategy 0.8262245059013367
+[Local economy and tourism industry]: Auckland ferry network --[Known for]-> Reliability 0.805422306060791
+[Local economy and tourism industry]: Auckland ferry network --[Integrated with]-> Other forms of public transport 0.836576521396637
+[Local economy and tourism industry]: Auckland ferry network --[Consists of]-> Several routes 0.8059775233268738
+[Local economy and tourism industry]: Auckland ferry network --[Contributing to]-> Sustainability of urban transport 0.8252716064453125
+[Local economy and tourism industry]: Auckland ferry network --[Offering]-> Unique and picturesque travel experience 0.8278279900550842
+[Local economy and tourism industry]: Auckland ferry network --[Service]-> Popular during peak hours 0.8120880126953125
+[Local economy and tourism industry]: Auckland ferry network --[Is]-> Vital component of public transport system 0.8335617780685425
+[Local economy and tourism industry]: Auckland ferry network --[Services provided by]-> Several operators 0.830902099609375
+[Local economy and tourism industry]: Auckland ferry network --[Connects]-> Central business district of auckland with destinations 0.8338431715965271
+[Local economy and tourism industry]: Auckland ferry network --[Plays]-> Significant role in alleviating road congestion 0.8179678916931152
+[Local economy and tourism industry]: Auckland ferry network --[Significant expansions and upgrades]-> Accommodate growing population and increasing demand 0.8124987483024597
+[Local economy and tourism industry]: Auckland ferry network --[Offers]-> Alternative mode of transport for commuters and tourists 0.8161388635635376
+[Local economy and tourism industry]: Auckland ferry network --[Poised to play]-> Increasingly important role in shaping future of public transport 0.8237685561180115
+[Local economy and tourism industry]: Auckland ferry network --[Fleet]-> Consists of various vessels 0.806927502155304
+[Local economy and tourism industry]: Auckland ferry network --[Improve]-> Public transport infrastructure 0.8269115686416626

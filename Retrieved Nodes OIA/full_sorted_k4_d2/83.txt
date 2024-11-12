@@ -1,0 +1,24 @@
+How many driver licenses have been granted annually over the last ten years?
+None
+Seed: driver licenses
+Seed: Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019
+Seed: information related to criminal convictions of driving instructor (I) endorsement holders
+Seed: information on vehicle and driver registration and licensing
+[driver licenses]: driver licenses --[CONTAINS]-> annual data 0.874234139919281
+[driver licenses]: annual data --[BREAKDOWN]-> age categories 0.7751296162605286
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Data --[IS]-> Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019 0.8293493986129761
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Driver Licence Register --[PROVIDES]-> Data 0.8075400590896606
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Data --[IS]-> Standard condition of drivers under 20 subject to zero alcohol level are not included 0.7919147610664368
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Data --[FOR]-> period 1/10/2017 to 26/05/2021 0.7904588580131531
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Data --[PROVIDED]-> Waka Kotahi N Z Transport Agency 0.7780164480209351
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Data --[IS]-> Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence 0.771754264831543
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Data --[RELATES_TO]-> Pedestrian and Cyclist Crashes 0.7709671854972839
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Michael Morrah --[REQUESTS]-> information related to criminal convictions of driving instructor (I) endorsement holders 0.8088971972465515
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Michael Morrah --[SUBMITTED]-> request for information 0.7625592947006226
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[CONTRACTS]-> NZ Driver Licensing (1998) Limited 0.8032815456390381
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[ASSOCIATED]-> Review of 850 open compliance files 0.7957948446273804
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[PROVIDES]-> information on vehicle and driver registration and licensing 0.793445348739624
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[POLICY]-> publishing responses on website 0.7922572493553162
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.7906982898712158
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[PROVIDES]-> vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas 0.7862696051597595
+[information on vehicle and driver registration and licensing]: New Zealand Transport Agency --[PROVIDES]-> documents 0.7862495183944702

@@ -1,0 +1,19 @@
+How does Waka Kotahi gather data on fatal crashes?
+None
+Seed: figures on drivers involved in fatal crashes
+Seed: drivers involved in fatal crashes
+Seed: information on driver fatalities
+Seed: https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf
+[figures on drivers involved in fatal crashes]: AA --[PROVIDES]-> figures on drivers involved in fatal crashes 0.8548164367675781
+[drivers involved in fatal crashes]: drivers involved in fatal crashes --[INVOLVED_IN]-> fatal crashes 0.8432331085205078
+[drivers involved in fatal crashes]: fatal crashes --[CAUSED_BY]-> drugs or alcohol 0.8312917351722717
+[drivers involved in fatal crashes]: drivers --[INVOLVED_IN]-> fatal crashes 0.8419779539108276
+[drivers involved in fatal crashes]: fatal crashes --[RECORDED]-> CAS 0.8588717579841614
+[information on driver fatalities]: Emma Conyngham --[REQUESTS]-> information on driver fatalities 0.8434301614761353
+[https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf]: Guide for the interpretation of coded crash reports --[AVAILABLE_AT]-> https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf 0.8506777286529541
+[https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf]: Transport Agency --[PROVIDES]-> Guide for the interpretation of coded crash reports 0.8491839170455933
+[https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf]: https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf --[ACCESSIBLE]-> online 0.8568763732910156
+[https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf]: online --[RELATES_TO]-> https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c 0.7790804505348206
+[https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf]: National Maintenance Forward Work Map --[AVAILABLE]-> online 0.7822946310043335
+[https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf]: MR1/B transactions --[COMPLETED]-> online 0.7824857234954834
+[https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf]: online --[PROVIDES_ACCESS]-> Transport Agency 0.750752329826355

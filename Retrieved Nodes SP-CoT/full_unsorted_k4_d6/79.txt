@@ -1,0 +1,36 @@
+What major arterial route enhances accessibility between Auckland and Onehunga, particularly for travel to which location?
+None
+Seed: Strategically located near major arterial routes
+Seed: Suburb located approximately 12 kilometers southwest of auckland's central business district
+Seed: First railway line between auckland and onehunga in 1873
+Seed: Access to auckland airport and other regions of the north island
+[Strategically located near major arterial routes]: Onehunga --[Is]-> Strategically located near major arterial routes 0.9042322635650635
+[Strategically located near major arterial routes]: Onehunga --[Is]-> Near state highway 20 0.8554476499557495
+[Strategically located near major arterial routes]: Onehunga --[Has]-> Encouraged more sustainable travel options 0.8492541313171387
+[Strategically located near major arterial routes]: Onehunga --[Has]-> Enhanced the overall efficiency of public transport 0.849003255367279
+[Strategically located near major arterial routes]: Onehunga --[Has]-> Key point for maritime trade 0.8189761638641357
+[Strategically located near major arterial routes]: Onehunga --[Has]-> Integration of bus and rail services 0.8632063865661621
+[Strategically located near major arterial routes]: Onehunga --[Promotes]-> Active transport 0.8047277331352234
+[Strategically located near major arterial routes]: New zealand --[Promotes]-> Active transport 0.8014782071113586
+[Strategically located near major arterial routes]: New zealand --[Has]-> Transport projects 0.8054815530776978
+[Strategically located near major arterial routes]: New zealand transport agency --[Oversees]-> Transport projects 0.7795150876045227
+[Strategically located near major arterial routes]: New zealand --[Has]-> New zealand transport agency 0.8125656247138977
+[Strategically located near major arterial routes]: New zealand transport agency --[Is]-> Forefront of promoting active transport 0.7886805534362793
+[Strategically located near major arterial routes]: New zealand transport agency --[Is]-> Government agency 0.7909600138664246
+[Strategically located near major arterial routes]: New zealand transport agency --[Is]-> Key stakeholder 0.7924304008483887
+[Strategically located near major arterial routes]: New zealand transport agency --[Is]-> Primary authority 0.7815538048744202
+[Strategically located near major arterial routes]: New zealand transport agency --[Is]-> Developing integrated transport solutions 0.7825236320495605
+[Strategically located near major arterial routes]: New zealand transport agency --[Is]-> Collaborating with technology providers 0.7836142778396606
+[Strategically located near major arterial routes]: New zealand transport agency --[Implemented]-> Initiatives 0.789879560470581
+[Strategically located near major arterial routes]: New zealand transport agency --[Responsible for]-> Management and regulation of transport systems 0.7893602848052979
+[Strategically located near major arterial routes]: New zealand transport agency --[Responsible for]-> Management and regulation of the transport system in new zealand 0.7910665273666382
+[Strategically located near major arterial routes]: New zealand transport agency --[Ensures]-> Policies align with national transport objectives 0.7804453372955322
+[Strategically located near major arterial routes]: New zealand transport agency --[Ensures]-> Voices of all road users are considered in decision-making processes 0.7759315371513367
+[Strategically located near major arterial routes]: New zealand transport agency --[Mandates]-> Regular audits 0.773856520652771
+[Strategically located near major arterial routes]: New zealand transport agency --[Promotes]-> Road safety 0.7753851413726807
+[Strategically located near major arterial routes]: New zealand transport agency --[Aims]-> Reduce greenhouse gas emissions 0.7745783925056458
+[Strategically located near major arterial routes]: New zealand transport agency --[Plays]-> A crucial role in funding and promoting cycling infrastructure projects 0.7749167680740356
+[Strategically located near major arterial routes]: New zealand transport agency --[Plays]-> Pivotal role in conducting forecasts 0.7746883630752563
+[Strategically located near major arterial routes]: New zealand transport agency --[Plays]-> Pivotal role in facilitating road user engagement 0.8032893538475037
+[Strategically located near major arterial routes]: New zealand transport agency --[Plays]-> Crucial role in developing guidelines 0.7935497760772705
+[Strategically located near major arterial routes]: New zealand transport agency --[Plays]-> Crucial role in developing standards 0.7847535014152527

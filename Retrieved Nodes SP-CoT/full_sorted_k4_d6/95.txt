@@ -1,0 +1,34 @@
+What is the abbreviation commonly used for the legislation that focuses on ensuring the health and safety of workers in the transport sector?
+None
+Seed: Health and safety at work act
+Seed: Health and safety at work act 2015
+Seed: Legislative framework for road safety initiatives
+Seed: Robust approach to workplace health and safety
+[Health and safety at work act]: Health and safety at work act 2015 --[Applies to]-> Road transport 0.8972757458686829
+[Health and safety at work act]: Rail transport safety --[Governed by]-> Health and safety at work act 2015 0.8897971510887146
+[Health and safety at work act]: Health and safety at work act 2015 --[Is]-> Key piece of legislation 0.8868394494056702
+[Health and safety at work act]: Health and safety at work act 2015 --[Applies to]-> Rail 0.8845353126525879
+[Health and safety at work act]: Road safety legislation --[Governed by]-> Land transport act 1998 0.8819425106048584
+[Health and safety at work act]: Road transport safety --[Governed by]-> Land transport act 1998 0.879554808139801
+[Health and safety at work act]: Health and safety at work act 2015 --[Applies to]-> Maritime 0.8754355311393738
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Applies to]-> Road transport 0.8972757458686829
+[Health and safety at work act 2015]: Rail transport safety --[Governed by]-> Health and safety at work act 2015 0.8897971510887146
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Is]-> Key piece of legislation 0.8868394494056702
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Applies to]-> Rail 0.8845353126525879
+[Health and safety at work act 2015]: Road safety legislation --[Governed by]-> Land transport act 1998 0.8819425106048584
+[Health and safety at work act 2015]: Road transport safety --[Governed by]-> Land transport act 1998 0.879554808139801
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Applies to]-> Maritime 0.8754355311393738
+[Legislative framework for road safety initiatives]: Health and safety at work act 2015 --[Applies to]-> Road transport 0.8972757458686829
+[Legislative framework for road safety initiatives]: Rail transport safety --[Governed by]-> Health and safety at work act 2015 0.8897971510887146
+[Legislative framework for road safety initiatives]: Health and safety at work act 2015 --[Is]-> Key piece of legislation 0.8868394494056702
+[Legislative framework for road safety initiatives]: Health and safety at work act 2015 --[Applies to]-> Rail 0.8845353126525879
+[Legislative framework for road safety initiatives]: Road safety legislation --[Governed by]-> Land transport act 1998 0.8819425106048584
+[Legislative framework for road safety initiatives]: Road transport safety --[Governed by]-> Land transport act 1998 0.879554808139801
+[Legislative framework for road safety initiatives]: Health and safety at work act 2015 --[Applies to]-> Maritime 0.8754355311393738
+[Robust approach to workplace health and safety]: Health and safety at work act 2015 --[Applies to]-> Road transport 0.8972757458686829
+[Robust approach to workplace health and safety]: Rail transport safety --[Governed by]-> Health and safety at work act 2015 0.8897971510887146
+[Robust approach to workplace health and safety]: Health and safety at work act 2015 --[Is]-> Key piece of legislation 0.8868394494056702
+[Robust approach to workplace health and safety]: Health and safety at work act 2015 --[Applies to]-> Rail 0.8845353126525879
+[Robust approach to workplace health and safety]: Road safety legislation --[Governed by]-> Land transport act 1998 0.8819425106048584
+[Robust approach to workplace health and safety]: Road transport safety --[Governed by]-> Land transport act 1998 0.879554808139801
+[Robust approach to workplace health and safety]: Health and safety at work act 2015 --[Applies to]-> Maritime 0.8754355311393738

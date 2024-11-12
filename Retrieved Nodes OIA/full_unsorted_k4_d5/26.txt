@@ -1,0 +1,36 @@
+Where can information about the average length of time taken to respond to OIA requests be found?
+None
+Seed: deadline for responding to request
+Seed: response to OIA request
+Seed: Request made under the Official Information Act 1982
+Seed: Request for Information
+[deadline for responding to request]: New Zealand Transport Agency --[EXTENDS]-> deadline for responding to request 0.8230007886886597
+[deadline for responding to request]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7743121385574341
+[deadline for responding to request]: New Zealand Transport Agency --[BASED]-> Wellington 0.7708762884140015
+[deadline for responding to request]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7843774557113647
+[deadline for responding to request]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.7962382435798645
+[deadline for responding to request]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7579746246337891
+[deadline for responding to request]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.7582830786705017
+[deadline for responding to request]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7608205080032349
+[deadline for responding to request]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.777455747127533
+[deadline for responding to request]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.7743442058563232
+[deadline for responding to request]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7494363188743591
+[deadline for responding to request]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7518868446350098
+[deadline for responding to request]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7484451532363892
+[deadline for responding to request]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7331337928771973
+[deadline for responding to request]: Wellington --[CONTAINS]-> Private Bag 6995 0.7438253164291382
+[deadline for responding to request]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7849747538566589
+[deadline for responding to request]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7719185948371887
+[deadline for responding to request]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.7902956008911133
+[deadline for responding to request]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7625298500061035
+[deadline for responding to request]: 50 Victoria Street --[IN]-> Wellington 0.7311301231384277
+[deadline for responding to request]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.7797372341156006
+[deadline for responding to request]: New Zealand Transport Agency --[LOCATED]-> 50 Victoria Street 0.7680435180664062
+[deadline for responding to request]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7405515909194946
+[deadline for responding to request]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7429947853088379
+[deadline for responding to request]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7377662658691406
+[deadline for responding to request]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7356648445129395
+[deadline for responding to request]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7618503570556641
+[deadline for responding to request]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7714856863021851
+[deadline for responding to request]: New Zealand Transport Agency --[CONTACT]-> Wellington 6141 0.7895311117172241
+[deadline for responding to request]: Wellington 6141 --[POSTAL_ADDRESS]-> New Zealand 0.7430688142776489

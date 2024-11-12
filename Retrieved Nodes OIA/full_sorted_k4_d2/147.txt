@@ -1,0 +1,34 @@
+Does Waka Kotahi provide data distinguishing private vehicle movements on Hewletts Road?
+None
+Seed: information on daily private vehicle movements
+Seed: traffic counter sites on Hewletts Road
+Seed: Open Data portal for information about daily traffic volumes on Hewletts Road
+Seed: Waka Kotahi N Z Transport Agency
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.9115909934043884
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.8958986401557922
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[REFUSED_REQUEST]-> information on daily private vehicle movements 0.8857535123825073
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.8853086829185486
+[information on daily private vehicle movements]: www.nzta.govt.nz --[OF]-> Waka Kotahi NZ Transport Agency 0.8800436854362488
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.8790024518966675
+[information on daily private vehicle movements]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.8775626420974731
+[traffic counter sites on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.9115909934043884
+[traffic counter sites on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.8958986401557922
+[traffic counter sites on Hewletts Road]: Waka Kotahi NZ Transport Agency --[REFUSED_REQUEST]-> information on daily private vehicle movements 0.8857535123825073
+[traffic counter sites on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.8853086829185486
+[traffic counter sites on Hewletts Road]: www.nzta.govt.nz --[OF]-> Waka Kotahi NZ Transport Agency 0.8800436854362488
+[traffic counter sites on Hewletts Road]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.8790024518966675
+[traffic counter sites on Hewletts Road]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.8775626420974731
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.9115909934043884
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.8958986401557922
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[REFUSED_REQUEST]-> information on daily private vehicle movements 0.8857535123825073
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.8853086829185486
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: www.nzta.govt.nz --[OF]-> Waka Kotahi NZ Transport Agency 0.8800436854362488
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.8790024518966675
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.8775626420974731
+[Waka Kotahi N Z Transport Agency]: Data --[PROVIDED]-> Waka Kotahi N Z Transport Agency 0.9045767784118652
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.8693135976791382
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.8570352792739868
+[Waka Kotahi N Z Transport Agency]: New Zealand Transport Agency Waka Kotahi --[MAINTAINS]-> Crash Analysis System 0.8565526008605957
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINS]-> Waka Kotahi N Z Transport Agency 0.8507212400436401
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MANAGED_BY]-> New Zealand Transport Agency 0.8190738558769226
+[Waka Kotahi N Z Transport Agency]: Drivers of motorbikes --[EXCLUDED]-> Data 0.8154395222663879

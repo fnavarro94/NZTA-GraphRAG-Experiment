@@ -1,0 +1,34 @@
+How many complaints have been received about Uber drivers since 2019?
+None
+Seed: 196 complaints about Uber drivers
+Seed: Uber drivers
+Seed: Complaint Data
+Seed: ride share operator complaints
+[196 complaints about Uber drivers]: Uber --[RECEIVED_COMPLAINTS]-> 38 0.8934453725814819
+[196 complaints about Uber drivers]: Uber --[RECEIVED_COMPLAINTS]-> 73 0.8923787474632263
+[196 complaints about Uber drivers]: Waka Kotahi --[RECEIVES]-> 196 complaints about Uber drivers 0.8900079727172852
+[196 complaints about Uber drivers]: Uber --[RECEIVED_COMPLAINTS]-> 85 0.8846861720085144
+[196 complaints about Uber drivers]: Uber --[HAS]-> Under investigation 20 0.8743185997009277
+[196 complaints about Uber drivers]: Uber --[HAS]-> Driver 22 0.8706870675086975
+[196 complaints about Uber drivers]: Uber --[COMPLAINT_CATEGORIES]-> Driving 0.8676772713661194
+[Uber drivers]: Uber --[RECEIVED_COMPLAINTS]-> 38 0.8934453725814819
+[Uber drivers]: Uber --[RECEIVED_COMPLAINTS]-> 73 0.8923787474632263
+[Uber drivers]: Waka Kotahi --[RECEIVES]-> 196 complaints about Uber drivers 0.8900079727172852
+[Uber drivers]: Uber --[RECEIVED_COMPLAINTS]-> 85 0.8846861720085144
+[Uber drivers]: Uber --[HAS]-> Under investigation 20 0.8743185997009277
+[Uber drivers]: Uber --[HAS]-> Driver 22 0.8706870675086975
+[Uber drivers]: Uber --[COMPLAINT_CATEGORIES]-> Driving 0.8676772713661194
+[Complaint Data]: Uber --[RECEIVED_COMPLAINTS]-> 38 0.8934453725814819
+[Complaint Data]: Uber --[RECEIVED_COMPLAINTS]-> 73 0.8923787474632263
+[Complaint Data]: Waka Kotahi --[RECEIVES]-> 196 complaints about Uber drivers 0.8900079727172852
+[Complaint Data]: Uber --[RECEIVED_COMPLAINTS]-> 85 0.8846861720085144
+[Complaint Data]: Uber --[HAS]-> Under investigation 20 0.8743185997009277
+[Complaint Data]: Uber --[HAS]-> Driver 22 0.8706870675086975
+[Complaint Data]: Uber --[COMPLAINT_CATEGORIES]-> Driving 0.8676772713661194
+[ride share operator complaints]: Uber --[RECEIVED_COMPLAINTS]-> 38 0.8934453725814819
+[ride share operator complaints]: Uber --[RECEIVED_COMPLAINTS]-> 73 0.8923787474632263
+[ride share operator complaints]: Waka Kotahi --[RECEIVES]-> 196 complaints about Uber drivers 0.8900079727172852
+[ride share operator complaints]: Uber --[RECEIVED_COMPLAINTS]-> 85 0.8846861720085144
+[ride share operator complaints]: Uber --[HAS]-> Under investigation 20 0.8743185997009277
+[ride share operator complaints]: Uber --[HAS]-> Driver 22 0.8706870675086975
+[ride share operator complaints]: Uber --[COMPLAINT_CATEGORIES]-> Driving 0.8676772713661194

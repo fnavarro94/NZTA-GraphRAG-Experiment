@@ -1,0 +1,36 @@
+What information did NZTA provide in response to the OIA request on median barriers (OIA-3396)?
+None
+Seed: installing median barriers
+Seed: median barriers
+Seed: Median Barriers
+Seed: information about the NZ Transport Agency's Information Technology (IT) projects
+[installing median barriers]: Safe System approach --[INCLUDES]-> installing median barriers 0.8215978145599365
+[installing median barriers]: Safe System approach --[INCLUDES]-> improving the safety performance of the vehicle fleet 0.7649362087249756
+[installing median barriers]: Safe System approach --[INCLUDES]-> encouraging road users to be alert and compliant 0.7614872455596924
+[installing median barriers]: resolution A/RES/74/299 --[PROMOTES]-> Safe System approach 0.7813894748687744
+[median barriers]: information --[RELATES_TO]-> median barriers 0.844730794429779
+[median barriers]: information --[PROVIDES]-> New Zealand Transport Agency 0.8554627895355225
+[median barriers]: Coroner’s reports --[PROVIDES]-> information 0.7779772281646729
+[median barriers]: Ministry --[WITHHOLD]-> information 0.7676351070404053
+[median barriers]: information --[RELATES_TO]-> transport data 0.775295078754425
+[median barriers]: information --[RELATES_TO]-> safety risk ratings 0.78916335105896
+[median barriers]: public interest --[CONSIDERS]-> information 0.797060489654541
+[median barriers]: file_path --[RETAINS]-> information 0.7182912826538086
+[median barriers]: Attachment 1 --[CONTAINS]-> information 0.7742146253585815
+[median barriers]: NZTA --[WITHHOLD]-> information 0.8251938819885254
+[median barriers]: information --[FALLS_OUTSIDE]-> scope of request 0.7656427621841431
+[median barriers]: information --[IS]-> withheld 0.7510330677032471
+[median barriers]: information --[PROTECT]-> natural persons 0.7768236398696899
+[median barriers]: Request --[REQUESTED]-> information 0.7797223329544067
+[median barriers]: decision --[WITHHOLD]-> information 0.7460647821426392
+[median barriers]: request --[IS_FOR]-> information 0.769133985042572
+[median barriers]: information --[PROVIDED_BY]-> Waka Kotahi 0.7966501712799072
+[median barriers]: CAS --[CONTAINS]-> information 0.7649536728858948
+[median barriers]: Transport Agency --[PROVIDES_ACCESS]-> information 0.8179391026496887
+[median barriers]: information --[REQUESTED]-> request 0.791138231754303
+[median barriers]: information --[USED_FOR]-> analysis 0.7513452768325806
+[median barriers]: crash reports --[PROVIDES]-> information 0.774285614490509
+[median barriers]: information --[IS_LIKELY]-> prejudice the commercial position of the person who supplied or who is the subject of the information 0.7649725079536438
+[median barriers]: section 9(2)(b)(ii) of the Act --[PROTECTS]-> information 0.7975878715515137
+[median barriers]: memorandum --[CONTAINS]-> information 0.7684661746025085
+[median barriers]: correspondence --[CONTAINS]-> information 0.762871265411377

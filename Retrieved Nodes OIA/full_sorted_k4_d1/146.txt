@@ -1,0 +1,18 @@
+Were any draft letters regarding the Rainbow Crossing ever sent to Wellington City Council?
+None
+Seed: Wellington's Rainbow Crossing proposal
+Seed: safety of Wellington's Rainbow Crossing proposal
+Seed: Wellington City Council
+Seed: one crossing near Daniell Street
+[Wellington's Rainbow Crossing proposal]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.9070554971694946
+[Wellington's Rainbow Crossing proposal]: suggested action to address concerns --[RELATES_TO]-> Wellington's Rainbow Crossing proposal 0.8727091550827026
+[safety of Wellington's Rainbow Crossing proposal]: correspondence, attachments and briefings --[REGARDS]-> safety of Wellington's Rainbow Crossing proposal 0.8798844814300537
+[safety of Wellington's Rainbow Crossing proposal]: safety of Wellington's Rainbow Crossing proposal --[RAISES_CONCERNS]-> New Zealand Transport Agency 0.8511121273040771
+[Wellington City Council]: draft letters --[UNSIGNED]-> Wellington City Council 0.9135556817054749
+[Wellington City Council]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8625194430351257
+[Wellington City Council]: initiatives --[COLLABORATED_BY]-> Wellington City Council 0.8624562621116638
+[Wellington City Council]: New Zealand Transport Agency --[collaborating]-> Wellington City Council 0.8605329394340515
+[Wellington City Council]: Initiatives --[COLLABORATED]-> Wellington City Council 0.8604224324226379
+[Wellington City Council]: New Zealand --[HOME_OF]-> Wellington City Council 0.8597928881645203
+[Wellington City Council]: David Chick --[CHIEF_CITY_PLANNER]-> Wellington City Council 0.8520628213882446
+[one crossing near Daniell Street]: Featherston --[RAISED_CROSSINGS]-> one crossing near Daniell Street 0.8115774989128113

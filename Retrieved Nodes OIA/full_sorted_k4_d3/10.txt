@@ -1,0 +1,28 @@
+How many crashes in Christchurch were alcohol-related between 2017 and 2019?
+None
+Seed: Road Traffic Crashes
+Seed: information on Christchurch road deaths
+Seed: Pedestrian and Cyclist Crashes
+Seed: 1 fatal crash, 3 serious crashes, 8 minor crashes, 12 non-injury crashes, 24 total crashes
+[Road Traffic Crashes]: Alcohol Consumption --[CONTRIBUTES_TO]-> Road Traffic Crashes 0.8469848036766052
+[Road Traffic Crashes]: Road Traffic --[AFFECTED_BY]-> Alcohol Consumption 0.8298678994178772
+[Road Traffic Crashes]: Crash Analysis --[PERFORMED_BY]-> Waka Kotahi NZ Transport Agency 0.8289096355438232
+[Road Traffic Crashes]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8285273313522339
+[Road Traffic Crashes]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.8156084418296814
+[Road Traffic Crashes]: Road Traffic Crashes --[ANALYZED_BY]-> Crash Analysis 0.8155063390731812
+[Road Traffic Crashes]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.8126220107078552
+[information on Christchurch road deaths]: Road Traffic Crash Data --[RELATES_TO]-> Christchurch Region 0.8735968470573425
+[information on Christchurch road deaths]: Traffic Crash Report --[PROVIDED_BY]-> NZ Police 0.8611494302749634
+[information on Christchurch road deaths]: crashes --[BY]-> NZ Police 0.8611346483230591
+[information on Christchurch road deaths]: NZ Police --[PROVIDES]-> crash reports 0.8600037097930908
+[information on Christchurch road deaths]: Traffic Crash Reports --[RECEIVED_FROM]-> NZ Police 0.8595446348190308
+[information on Christchurch road deaths]: NZ Police --[INVESTIGATES]-> road traffic crashes 0.8582559823989868
+[information on Christchurch road deaths]: NZ Police --[PROVIDES]-> Traffic Crash Reports 0.8568099737167358
+[Pedestrian and Cyclist Crashes]: Traffic Crash Report --[PROVIDED_BY]-> New Zealand Police 0.8614546060562134
+[Pedestrian and Cyclist Crashes]: Traffic Crash Report --[PROVIDED_BY]-> NZ Police 0.8611494302749634
+[Pedestrian and Cyclist Crashes]: NZ Police --[PROVIDES]-> Traffic Crash Report 0.8534424304962158
+[Pedestrian and Cyclist Crashes]: Traffic Crash Report --[RECEIVED_FROM]-> NZ Police 0.8528328537940979
+[Pedestrian and Cyclist Crashes]: New Zealand Police --[SUBMITS]-> Traffic Crash Report 0.8503104448318481
+[Pedestrian and Cyclist Crashes]: New Zealand Transport Agency --[PROVIDES]-> accident or crash history 0.8481087684631348
+[Pedestrian and Cyclist Crashes]: Traffic Crash Report --[RECEIVED]-> NZ Police 0.8478183150291443
+[1 fatal crash, 3 serious crashes, 8 minor crashes, 12 non-injury crashes, 24 total crashes]: 01/10/2020 to 26/05/2021 --[HAS_CRASHES]-> 1 fatal crash, 3 serious crashes, 8 minor crashes, 12 non-injury crashes, 24 total crashes 0.8555302619934082

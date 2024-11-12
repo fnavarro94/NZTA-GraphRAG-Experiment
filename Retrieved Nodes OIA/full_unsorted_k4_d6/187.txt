@@ -1,0 +1,36 @@
+What were the travel costs for Waka Kotahi in the 2020/21 financial year?
+None
+Seed: Waka Kotahi N Z Transport Agency
+Seed: Waka Kotahi NZ Transport Agency
+Seed: no additional funding for fare reductions before the next NLTP in June 2021
+Seed: Waka Kotahi
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINS]-> Waka Kotahi N Z Transport Agency 0.7987791895866394
+[Waka Kotahi N Z Transport Agency]: Deceased Drivers --[ASSOCIATED_WITH]-> Crash Analysis System 0.6871283054351807
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[ASSOCIATED_WITH]-> Deceased Drivers 0.6909838914871216
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[UPDATED]-> Traffic Crash Report 0.7416949272155762
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[PROVIDES]-> Traffic Crash Report 0.7158248424530029
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[ASSOCIATED_WITH]-> Traffic Crash Report 0.7036570906639099
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[PROVIDES]-> Data 0.7121067047119141
+[Waka Kotahi N Z Transport Agency]: 2020 --[FATAL_CRASHES]-> Crash Analysis System 0.74892258644104
+[Waka Kotahi N Z Transport Agency]: Traffic Crash Report --[ASSOCIATED_WITH]-> Crash Analysis System 0.7052069902420044
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.8115471601486206
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[UPDATES]-> Traffic Crash Report 0.7282705307006836
+[Waka Kotahi N Z Transport Agency]: road accident data --[FROM]-> Crash Analysis System 0.7115848064422607
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[PROVIDES]-> road accident data 0.7110350131988525
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MANAGED_BY]-> New Zealand Transport Agency 0.7470232844352722
+[Waka Kotahi N Z Transport Agency]: crash movements and cause factors --[RECORDED_IN]-> Crash Analysis System 0.7153220176696777
+[Waka Kotahi N Z Transport Agency]: New Zealand Transport Agency --[MAINTAINS]-> Crash Analysis System 0.7287541031837463
+[Waka Kotahi N Z Transport Agency]: primary contribution --[DETERMINED]-> Crash Analysis System 0.7176641225814819
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[PROVIDES]-> data on road traffic crashes 0.7156325578689575
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[UPDATES]-> Traffic Crash Reports 0.7286862134933472
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[CAPTURES]-> information on crashes 0.7008042335510254
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[USES]-> contributing factor codes 0.710898220539093
+[Waka Kotahi N Z Transport Agency]: New Zealand Transport Agency --[MANAGES]-> Crash Analysis System 0.7304480075836182
+[Waka Kotahi N Z Transport Agency]: Traffic Crash Report --[RECORDED_IN]-> Crash Analysis System 0.7069683074951172
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[UPDATES]-> Data 0.7148778438568115
+[Waka Kotahi N Z Transport Agency]: New Zealand Transport Agency Waka Kotahi --[MAINTAINS]-> Crash Analysis System 0.8037316203117371
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[PROVIDES]-> traffic crash data 0.7171201705932617
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.8062291741371155
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[CONTAINS]-> Traffic Crash Report 0.7195888161659241
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[RECORDS]-> seven non-injury crashes 0.712879478931427
+[Waka Kotahi N Z Transport Agency]: Traffic Crash Report --[PROVIDED_BY]-> NZ Police 0.7279968857765198

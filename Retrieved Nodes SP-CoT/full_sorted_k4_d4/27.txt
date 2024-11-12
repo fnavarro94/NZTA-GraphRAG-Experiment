@@ -1,0 +1,34 @@
+In what year did the car-sharing service mentioned in the passage as a local initiative providing residents with flexible transportation options launch its car-sharing service in New Zealand?
+None
+Seed: Ride-sharing initiatives
+Seed: Limited public transport services in rural and isolated areas
+Seed: Car-sharing service
+Seed: Residents to share rides
+[Ride-sharing initiatives]: New zealand --[Has]-> Transport equity initiatives 0.8719896078109741
+[Ride-sharing initiatives]: New zealand --[Has]-> Transport planning 0.8636120557785034
+[Ride-sharing initiatives]: New zealand --[Has]-> Regional transport planning 0.8601717352867126
+[Ride-sharing initiatives]: New zealand --[Has]-> Public transport integration 0.8593630790710449
+[Ride-sharing initiatives]: New zealand --[Has]-> Transport infrastructure 0.857486367225647
+[Ride-sharing initiatives]: New zealand --[Has]-> Transport sector 0.8556126952171326
+[Ride-sharing initiatives]: New zealand --[Has]-> Transport projects 0.8555911183357239
+[Limited public transport services in rural and isolated areas]: Community transport services --[Include]-> Ride-sharing initiatives 0.8550734519958496
+[Limited public transport services in rural and isolated areas]: New zealand transport agency --[Collaborates with]-> Local councils 0.8480907082557678
+[Limited public transport services in rural and isolated areas]: Waka kotahi nz transport agency --[Works collaboratively with]-> Local councils 0.840641975402832
+[Limited public transport services in rural and isolated areas]: New zealand transport agency --[Works with]-> Local councils 0.8384811878204346
+[Limited public transport services in rural and isolated areas]: Community transport services --[Operated by]-> Non-profit organizations 0.8370229601860046
+[Limited public transport services in rural and isolated areas]: Ride-sharing initiatives --[Allow]-> Residents to share rides 0.8367809057235718
+[Limited public transport services in rural and isolated areas]: Community transport services --[Play vital role in]-> Enhancing mobility and accessibility 0.8338848948478699
+[Car-sharing service]: New zealand --[Has]-> Transport equity initiatives 0.8719896078109741
+[Car-sharing service]: New zealand --[Has]-> Transport planning 0.8636120557785034
+[Car-sharing service]: Auckland transport --[Collaborates with]-> Local communities 0.8624436259269714
+[Car-sharing service]: New zealand --[Has]-> Regional transport planning 0.8601717352867126
+[Car-sharing service]: New zealand --[Has]-> Public transport integration 0.8593630790710449
+[Car-sharing service]: New zealand --[Has]-> Transport infrastructure 0.857486367225647
+[Car-sharing service]: Auckland transport --[Actively involved in]-> Community engagement 0.8565926551818848
+[Residents to share rides]: Community transport services --[Include]-> Ride-sharing initiatives 0.8550734519958496
+[Residents to share rides]: New zealand transport agency --[Collaborates with]-> Local councils 0.8480907082557678
+[Residents to share rides]: Waka kotahi nz transport agency --[Works collaboratively with]-> Local councils 0.840641975402832
+[Residents to share rides]: New zealand transport agency --[Works with]-> Local councils 0.8384811878204346
+[Residents to share rides]: Community transport services --[Operated by]-> Non-profit organizations 0.8370229601860046
+[Residents to share rides]: Ride-sharing initiatives --[Allow]-> Residents to share rides 0.8367809057235718
+[Residents to share rides]: Community transport services --[Play vital role in]-> Enhancing mobility and accessibility 0.8338848948478699

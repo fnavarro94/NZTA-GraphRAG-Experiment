@@ -1,0 +1,14 @@
+What are the two types of toll revenue for the Tākitimu Drive Toll Road?
+None
+Seed: Takitimu Drive Toll Road
+Seed: Toll Revenue
+Seed: toll revenue
+Seed: paid toll revenues
+[Takitimu Drive Toll Road]: Takitimu Drive Toll Road --[PROVIDES]-> Toll Revenue 0.9322882294654846
+[Toll Revenue]: Takitimu Drive Toll Road --[PROVIDES]-> Toll Revenue 0.9322882294654846
+[Toll Revenue]: Tauranga Eastern Link Toll Road --[PROVIDES]-> Toll Revenue 0.852565586566925
+[Toll Revenue]: Northern Gateway Toll Road --[PROVIDES]-> Toll Revenue 0.8446418642997742
+[toll revenue]: toll revenue --[OPERATES]-> toll road 0.8738489747047424
+[toll revenue]: NZTA --[RETAINS]-> toll revenue 0.813494861125946
+[paid toll revenues]: paid toll revenues --[AVAILABLE_IN]-> Annual Reports 0.826978325843811
+[paid toll revenues]: Annual Reports --[CONTAINS]-> paid toll revenues 0.8261942863464355

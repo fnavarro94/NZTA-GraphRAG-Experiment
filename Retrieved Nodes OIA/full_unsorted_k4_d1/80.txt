@@ -1,0 +1,16 @@
+Why was the economic cost of the road closure and additional transport emissions not provided?
+None
+Seed: information on additional cost and emissions
+Seed: reducing business travel emissions
+Seed: wider impacts of fare policy on people and cities
+Seed: funding for road maintenance
+[information on additional cost and emissions]: Waka Kotahi --[REFUSES]-> information on additional cost and emissions 0.8260955810546875
+[reducing business travel emissions]: New Zealand Transport Agency --[FOCUSED_ON]-> reducing business travel emissions 0.8353298902511597
+[wider impacts of fare policy on people and cities]: wider impacts of fare policy on people and cities --[INCLUCES]-> national farebox recovery target 0.8077989220619202
+[wider impacts of fare policy on people and cities]: public transport affordability --[RELATES_TO]-> wider impacts of fare policy on people and cities 0.8219687938690186
+[funding for road maintenance]: New Zealand Transport Agency --[APPROVES]-> funding for road maintenance 0.8084948658943176
+[funding for road maintenance]: New Zealand Transport Agency --[PROVIDES]-> funding for road maintenance 0.8206591606140137
+[funding for road maintenance]: funding for road maintenance --[FOR]-> State Highway 1 0.8291519284248352
+[funding for road maintenance]: Waka Kotahi NZ Transport Agency --[APPROVES]-> funding for road maintenance 0.7952070236206055
+[funding for road maintenance]: funding for road maintenance --[ASSOCIATED_WITH]-> State Highway 1 0.8256409764289856
+[funding for road maintenance]: New Zealand Transport Agency --[APPROVED]-> funding for road maintenance 0.8091409206390381

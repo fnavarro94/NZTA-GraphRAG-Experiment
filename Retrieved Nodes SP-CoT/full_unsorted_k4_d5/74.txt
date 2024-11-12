@@ -1,0 +1,36 @@
+What is the abbreviation for The program that includes the expressway project aimed at improving freight transport efficiency in the region in the country known for its transport system innovation aimed at improving efficiency, sustainability, and accessibility in response to unique geographical challenges?
+None
+Seed: Efficiency of freight transport in region
+Seed: Driving innovation in freight transport sector
+Seed: Regional transport initiatives
+Seed: Enhancing safety and efficiency of transportation systems in new zealand
+[Efficiency of freight transport in region]: Waikato expressway --[Significantly enhances]-> Efficiency of freight transport in region 0.8661929965019226
+[Efficiency of freight transport in region]: Waikato expressway --[Is part of]-> National land transport programme 0.8318911790847778
+[Efficiency of freight transport in region]: National land transport programme --[Is]-> Key component of new zealand's transport planning framework 0.8095321655273438
+[Efficiency of freight transport in region]: National land transport programme --[Updated]-> Every three years 0.8058054447174072
+[Efficiency of freight transport in region]: National land transport programme --[Promotes]-> Environmental sustainability 0.812761127948761
+[Efficiency of freight transport in region]: Government objectives --[Include]-> Environmental sustainability 0.7768642902374268
+[Efficiency of freight transport in region]: Government objectives --[Include]-> Social equity 0.7688469886779785
+[Efficiency of freight transport in region]: New zealand transport strategy --[Aligned with]-> Government objectives 0.8057734966278076
+[Efficiency of freight transport in region]: Government objectives --[Include]-> Economic growth 0.7715517282485962
+[Efficiency of freight transport in region]: Waka kotahi --[Contributes to]-> Environmental sustainability 0.7553657293319702
+[Efficiency of freight transport in region]: Waka kotahi --[Has]-> Road to zero  strategy 0.7327102422714233
+[Efficiency of freight transport in region]: Waka kotahi --[Is]-> Primary agency 0.7214490175247192
+[Efficiency of freight transport in region]: Waka kotahi --[Is]-> Government agency 0.7326908111572266
+[Efficiency of freight transport in region]: Waka kotahi --[Responsible for]-> Funding 0.7401371002197266
+[Efficiency of freight transport in region]: Waka kotahi --[Responsible for]-> Management 0.7200765609741211
+[Efficiency of freight transport in region]: Waka kotahi --[Responsible for]-> Planning 0.7471516132354736
+[Efficiency of freight transport in region]: Waka kotahi --[Ensures]-> Investments 0.7129294872283936
+[Efficiency of freight transport in region]: Waka kotahi --[Ensures]-> Transport system is effective and efficient 0.7908104658126831
+[Efficiency of freight transport in region]: Waka kotahi --[Ensures]-> Sustainable transport network 0.786748468875885
+[Efficiency of freight transport in region]: Waka kotahi --[Ensures]-> Efficient transport network 0.7758463025093079
+[Efficiency of freight transport in region]: Waka kotahi --[Ensures]-> Safe transport network 0.7504220008850098
+[Efficiency of freight transport in region]: Waka kotahi --[Ensures]-> Sustainability goals 0.7419156432151794
+[Efficiency of freight transport in region]: Waka kotahi --[Promotes]-> Public transit 0.7539202570915222
+[Efficiency of freight transport in region]: Waka kotahi --[Promotes]-> Road safety initiatives 0.7651253938674927
+[Efficiency of freight transport in region]: Waka kotahi --[Promotes]-> Public transport initiatives 0.7771826386451721
+[Efficiency of freight transport in region]: Waka kotahi --[Promotes]-> Walking 0.727745532989502
+[Efficiency of freight transport in region]: Waka kotahi --[Promotes]-> Cycling 0.7307071685791016
+[Efficiency of freight transport in region]: Waka kotahi --[Aims to]-> Reduce injuries 0.7288332581520081
+[Efficiency of freight transport in region]: Waka kotahi --[Aims to]-> Reduce greenhouse gas emissions 0.7471716403961182
+[Efficiency of freight transport in region]: Waka kotahi --[Aims to]-> Promote healthier lifestyles 0.7261569499969482

@@ -1,0 +1,34 @@
+What is the reason Waka Kotahi does not provide regional breakdowns for Road User Charges, vehicle registration, and licensing data?
+None
+Seed: Waka Kotahi N Z Transport Agency
+Seed: Waka Kotahi NZ Transport Agency
+Seed: NZ Transport Agency Waka Kotahi
+Seed: New Zealand Transport Agency Waka Kotahi
+[Waka Kotahi N Z Transport Agency]: Data --[PROVIDED]-> Waka Kotahi N Z Transport Agency 0.9088808298110962
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.8700968027114868
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.8612484335899353
+[Waka Kotahi N Z Transport Agency]: New Zealand Transport Agency Waka Kotahi --[MAINTAINS]-> Crash Analysis System 0.8590810894966125
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MAINTAINS]-> Waka Kotahi N Z Transport Agency 0.855219841003418
+[Waka Kotahi N Z Transport Agency]: Data --[IS]-> Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019 0.8185175657272339
+[Waka Kotahi N Z Transport Agency]: Crash Analysis System --[MANAGED_BY]-> New Zealand Transport Agency 0.8176618814468384
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.8871787786483765
+[Waka Kotahi NZ Transport Agency]: www.nzta.govt.nz --[OF]-> Waka Kotahi NZ Transport Agency 0.8861299753189087
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.8849312663078308
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi NZ Transport Agency --[DOES_NOT_HOLD]-> information regarding actual costs of litter collection 0.8846429586410522
+[Waka Kotahi NZ Transport Agency]: New Zealand Transport Agency --[POLICY]-> Waka Kotahi policy 0.8810781836509705
+[Waka Kotahi NZ Transport Agency]: New Zealand --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.8790265917778015
+[Waka Kotahi NZ Transport Agency]: New Zealand --[HOME_TO]-> Waka Kotahi NZ Transport Agency 0.8786028623580933
+[NZ Transport Agency Waka Kotahi]: New Zealand Transport Agency --[ASSOCIATED]-> Waka Kotahi 0.8901932239532471
+[NZ Transport Agency Waka Kotahi]: NZ Transport Agency Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8892832398414612
+[NZ Transport Agency Waka Kotahi]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.8877357840538025
+[NZ Transport Agency Waka Kotahi]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8876732587814331
+[NZ Transport Agency Waka Kotahi]: New Zealand Transport Agency --[IS]-> Waka Kotahi 0.8867545127868652
+[NZ Transport Agency Waka Kotahi]: New Zealand Transport Agency --[PROVIDES]-> information to Waka Kotahi 0.8860941529273987
+[NZ Transport Agency Waka Kotahi]: Waka Kotahi --[IS]-> New Zealand Transport Agency 0.8842049837112427
+[New Zealand Transport Agency Waka Kotahi]: New Zealand Transport Agency Waka Kotahi --[PROVIDES]-> Crash Data 0.8729630708694458
+[New Zealand Transport Agency Waka Kotahi]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.8700968027114868
+[New Zealand Transport Agency Waka Kotahi]: Wellington City Council --[TRANSFERS_REQUEST]-> Waka Kotahi NZ Transport Agency 0.8620504140853882
+[New Zealand Transport Agency Waka Kotahi]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.8612484335899353
+[New Zealand Transport Agency Waka Kotahi]: New Zealand Transport Agency Waka Kotahi --[ENGAGES]-> consultants 0.8605719208717346
+[New Zealand Transport Agency Waka Kotahi]: New Zealand Transport Agency Waka Kotahi --[MAINTAINS]-> Crash Analysis System 0.8590810894966125
+[New Zealand Transport Agency Waka Kotahi]: Crash Analysis System --[MAINTAINS]-> Waka Kotahi N Z Transport Agency 0.855219841003418

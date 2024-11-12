@@ -1,0 +1,10 @@
+In what year did the primary provider of ambulance services in New Zealand officially become established in New Zealand?
+None
+Seed: Primary provider of ambulance services
+Seed: Largest ambulance service in new zealand
+Seed: First free ambulance service
+Seed: Healthcare providers
+[Primary provider of ambulance services]: St john --[Is]-> Primary provider of ambulance services 0.8614489436149597
+[Largest ambulance service in new zealand]: St john --[Operates]-> Largest ambulance service in new zealand 0.8696715831756592
+[First free ambulance service]: Wellington free ambulance --[Is]-> First free ambulance service 0.8720431327819824
+[Healthcare providers]: Wellington free ambulance --[Collaborates with]-> Healthcare providers 0.857291579246521

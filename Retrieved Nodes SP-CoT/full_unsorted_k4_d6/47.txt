@@ -1,0 +1,36 @@
+In what year did the organization that provides free emergency medical services to residents in the Wellington region first establish its services in New Zealand?
+None
+Seed: First free ambulance service
+Seed: Healthcare providers
+Seed: Emergency medical services
+Seed: Delivering high-quality pre-hospital care
+[First free ambulance service]: Wellington free ambulance --[Is]-> First free ambulance service 0.9068116545677185
+[First free ambulance service]: Wellington free ambulance --[Engages in]-> Community education programs 0.8765830397605896
+[First free ambulance service]: Wellington free ambulance --[Operates]-> Rapid response vehicles 0.8473877310752869
+[First free ambulance service]: Wellington free ambulance --[Offers]-> Services without charge 0.8735775351524353
+[First free ambulance service]: Wellington free ambulance --[Funded by]-> Grants 0.8789377808570862
+[First free ambulance service]: Wellington free ambulance --[Continues to]-> Evolve 0.8679842948913574
+[First free ambulance service]: Wellington free ambulance --[Collaborates with]-> Healthcare providers 0.8935640454292297
+[First free ambulance service]: Wellington free ambulance --[Promotes]-> Safety 0.8688491582870483
+[First free ambulance service]: Automated data collection --[Enhances]-> Safety 0.6856489181518555
+[First free ambulance service]: Automated data collection --[Is]-> Technology 0.6791579723358154
+[First free ambulance service]: Waka kotahi --[Leverages]-> Technology 0.7057495713233948
+[First free ambulance service]: Waka kotahi --[Has]-> Road to zero  strategy 0.725883960723877
+[First free ambulance service]: Waka kotahi --[Is]-> Primary agency 0.7445755004882812
+[First free ambulance service]: Waka kotahi --[Is]-> Government agency 0.7473744750022888
+[First free ambulance service]: Waka kotahi --[Responsible for]-> Funding 0.7519125938415527
+[First free ambulance service]: Waka kotahi --[Responsible for]-> Management 0.7395196557044983
+[First free ambulance service]: Waka kotahi --[Responsible for]-> Planning 0.7338680028915405
+[First free ambulance service]: Waka kotahi --[Ensures]-> Investments 0.712363600730896
+[First free ambulance service]: Waka kotahi --[Ensures]-> Transport system is effective and efficient 0.7205085158348083
+[First free ambulance service]: Waka kotahi --[Ensures]-> Sustainable transport network 0.7292947769165039
+[First free ambulance service]: Waka kotahi --[Ensures]-> Efficient transport network 0.728798508644104
+[First free ambulance service]: Waka kotahi --[Ensures]-> Safe transport network 0.7377027273178101
+[First free ambulance service]: Waka kotahi --[Ensures]-> Sustainability goals 0.715436577796936
+[First free ambulance service]: Waka kotahi --[Promotes]-> Public transit 0.7379736304283142
+[First free ambulance service]: Waka kotahi --[Promotes]-> Road safety initiatives 0.7414464950561523
+[First free ambulance service]: Waka kotahi --[Promotes]-> Public transport initiatives 0.7364640235900879
+[First free ambulance service]: Waka kotahi --[Promotes]-> Walking 0.7219381332397461
+[First free ambulance service]: Waka kotahi --[Promotes]-> Cycling 0.7393366098403931
+[First free ambulance service]: Waka kotahi --[Aims to]-> Reduce injuries 0.7430827617645264
+[First free ambulance service]: Waka kotahi --[Aims to]-> Reduce greenhouse gas emissions 0.7208833694458008

@@ -1,0 +1,36 @@
+Which major urban center is located to the south of the city in the region known for its Metlink services, which focus on providing comprehensive coverage across the region?
+None
+Seed: To connect urban centers with rural areas
+Seed: Major urban centers
+Seed: Urban centers and rural communities
+Seed: Key urban centers
+[To connect urban centers with rural areas]: New zealand --[Needs]-> To connect urban centers with rural areas 0.7892208695411682
+[To connect urban centers with rural areas]: New zealand --[Has]-> Transport projects 0.7427352666854858
+[To connect urban centers with rural areas]: New zealand transport agency --[Oversees]-> Transport projects 0.7221408486366272
+[To connect urban centers with rural areas]: New zealand --[Has]-> New zealand transport agency 0.7337362766265869
+[To connect urban centers with rural areas]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.7153465747833252
+[To connect urban centers with rural areas]: New zealand --[Has]-> Diverse transport network 0.756470799446106
+[To connect urban centers with rural areas]: New zealand --[Has]-> Post-incident review 0.6951413154602051
+[To connect urban centers with rural areas]: Post-incident review --[Crucial for]-> Improving operational efficiency 0.7230089902877808
+[To connect urban centers with rural areas]: Post-incident review --[Crucial for]-> Fostering culture of continuous improvement 0.7221679091453552
+[To connect urban centers with rural areas]: Post-incident review --[Aimed at]-> Recommending measures 0.722041666507721
+[To connect urban centers with rural areas]: Post-incident review --[Crucial for]-> Enhancing safety 0.7188683748245239
+[To connect urban centers with rural areas]: Post-incident review --[Is]-> Systematic process 0.709966778755188
+[To connect urban centers with rural areas]: Post-incident review --[Conducted]-> Following an incident 0.7064510583877563
+[To connect urban centers with rural areas]: Post-incident review --[Aimed at]-> Analyzing circumstances 0.7205970287322998
+[To connect urban centers with rural areas]: Post-incident review --[Aimed at]-> Identifying contributing factors 0.7414916753768921
+[To connect urban centers with rural areas]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.7031688690185547
+[To connect urban centers with rural areas]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.7356207370758057
+[To connect urban centers with rural areas]: New zealand --[Has]-> Broader environmental policies 0.7154532670974731
+[To connect urban centers with rural areas]: New zealand --[Has]-> Traffic congestion 0.7277956008911133
+[To connect urban centers with rural areas]: Auckland --[Faces challenges]-> Traffic congestion 0.7225022912025452
+[To connect urban centers with rural areas]: Wellington public transport plan --[Initiated in response to]-> Traffic congestion 0.7312095165252686
+[To connect urban centers with rural areas]: Auckland --[Has]-> Traffic congestion 0.7203975915908813
+[To connect urban centers with rural areas]: Wellington --[Has]-> Traffic congestion 0.7264463901519775
+[To connect urban centers with rural areas]: Wellington public transport spine study --[Initiated in response to]-> Traffic congestion 0.7469136714935303
+[To connect urban centers with rural areas]: Sustainable urban transport --[Faces challenges]-> Traffic congestion 0.7385119795799255
+[To connect urban centers with rural areas]: New zealand --[Face]-> Traffic congestion 0.7197491526603699
+[To connect urban centers with rural areas]: New zealand --[Address]-> Traffic congestion 0.7374134659767151
+[To connect urban centers with rural areas]: New zealand --[Has]-> Increasing urbanization 0.7374246716499329
+[To connect urban centers with rural areas]: Wellington public transport plan --[Initiated in response to]-> Increasing urbanization 0.7481526136398315
+[To connect urban centers with rural areas]: Wellington regional rail plan --[Developed in response to]-> Increasing urbanization 0.7685132026672363

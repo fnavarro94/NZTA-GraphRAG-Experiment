@@ -1,0 +1,36 @@
+Who should be contacted to discuss the report on Auckland Motorway shoulder bus lanes?
+None
+Seed: reports on converting the shoulder of Auckland Motorway into Bus Lanes
+Seed: Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf
+Seed: Open Data portal for information about daily traffic volumes on Hewletts Road
+Seed: reports and correspondence to the Minister of Transport, Phil Twyford, or his office
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Zachary Wong --[REQUESTED]-> reports on converting the shoulder of Auckland Motorway into Bus Lanes 0.9127823710441589
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Zachary Wong --[EMAIL]-> fyi-request-9242-f4aad453@requests.fyi.org.nz 0.808806300163269
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: reports on converting the shoulder of Auckland Motorway into Bus Lanes --[PROVIDED]-> Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf 0.9034061431884766
+[reports on converting the shoulder of Auckland Motorway into Bus Lanes]: Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf --[APPENDIX]-> Appendices A to E 0.9005783796310425
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf --[APPENDIX]-> Appendices A to E 0.9005783796310425
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: reports on converting the shoulder of Auckland Motorway into Bus Lanes --[PROVIDED]-> Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf 0.9034061431884766
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: Zachary Wong --[REQUESTED]-> reports on converting the shoulder of Auckland Motorway into Bus Lanes 0.9127823710441589
+[Attachment 1: Shoulder Bus Lane Along Auckland Motorways Study.pdf]: Zachary Wong --[EMAIL]-> fyi-request-9242-f4aad453@requests.fyi.org.nz 0.808806300163269
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.842776358127594
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.8286221623420715
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand Transport Agency --[BASED]-> Wellington 0.8349698781967163
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8427223563194275
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8400837182998657
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8374127745628357
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.8154621720314026
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.8399269580841064
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.8439873456954956
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.8196154832839966
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.8445872664451599
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8313324451446533
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8390829563140869
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8501324653625488
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8725839257240295
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8312363624572754
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8507040739059448
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8294063210487366
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8428019285202026
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8220871686935425
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8402344584465027
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8663289546966553

@@ -1,0 +1,36 @@
+What is the most common component found to be non-compliant during heavy vehicle certifications in New Zealand?
+None
+Seed: Heavy Vehicle Specialist Certificate
+Seed: Vehicle Safety
+Seed: vehicle safety
+Seed: Commercial Vehicle Safety Programme
+[Heavy Vehicle Specialist Certificate]: Heavy Vehicle Specialist Certificate --[Revoked]-> 19 0.8458147048950195
+[Vehicle Safety]: Safety Tolerance --[Ensures]-> Vehicle Safety 0.8332735300064087
+[Vehicle Safety]: Calculations --[Satisfies]-> Safety Tolerance 0.7835468649864197
+[Vehicle Safety]: Vehicle Inspection --[Undertakes]-> Calculations 0.8110416531562805
+[Vehicle Safety]: Vehicle Inspection --[CONDUCTED_BY]-> New Zealand Transport Agency 0.8794072866439819
+[Vehicle Safety]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8330455422401428
+[Vehicle Safety]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.840604841709137
+[Vehicle Safety]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.831841766834259
+[Vehicle Safety]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.8254036903381348
+[Vehicle Safety]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.8329752683639526
+[Vehicle Safety]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.8491957783699036
+[Vehicle Safety]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.8709244728088379
+[Vehicle Safety]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.8496274352073669
+[Vehicle Safety]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8568556308746338
+[Vehicle Safety]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8352774381637573
+[Vehicle Safety]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8338212370872498
+[Vehicle Safety]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8379641175270081
+[Vehicle Safety]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8494196534156799
+[Vehicle Safety]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8307188153266907
+[Vehicle Safety]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8399941325187683
+[Vehicle Safety]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8410155177116394
+[Vehicle Safety]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8338870406150818
+[Vehicle Safety]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8321552276611328
+[Vehicle Safety]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.843031108379364
+[Vehicle Safety]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8186968564987183
+[Vehicle Safety]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8379677534103394
+[Vehicle Safety]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8356307148933411
+[Vehicle Safety]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.840759813785553
+[Vehicle Safety]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.824262261390686
+[Vehicle Safety]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8226372003555298

@@ -1,0 +1,33 @@
+What organization emerged from the country known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, and is responsible for the term that describes the regular activities performed to keep roads safe and functional, including vegetation control, litter removal, and drainage maintenance, during its establishment in 2008?
+None
+Seed: Crucial role in promoting road safety
+Seed: Critical component of new zealand's transport strategy
+Seed: Growing emphasis on sustainable transport solutions
+Seed: Framework for implementing road safety campaigns and initiatives
+[Crucial role in promoting road safety]: Education and awareness programs --[Play]-> Crucial role in promoting road safety 0.8233276605606079
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about safe driving practices 0.8033130764961243
+[Crucial role in promoting road safety]: Education and awareness programs --[Include]-> Road safety week 0.7931122779846191
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about importance of seatbelt use 0.7619487643241882
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about dangers of distracted driving 0.7612120509147644
+[Crucial role in promoting road safety]: Education and awareness programs --[Include]-> Belt up campaign 0.7610414028167725
+[Critical component of new zealand's transport strategy]: New zealand transport strategy --[Established]-> 2008 0.8382359147071838
+[Critical component of new zealand's transport strategy]: New zealand transport agency --[Established in]-> 2008 0.8341043591499329
+[Critical component of new zealand's transport strategy]: Vienna convention on road traffic --[Foundational element in]-> Promoting safe and efficient road use 0.83086758852005
+[Critical component of new zealand's transport strategy]: Regional transport planning --[Is]-> Critical component 0.8293023109436035
+[Critical component of new zealand's transport strategy]: New zealand road safety strategy --[Designed to]-> Create safer transport environment for all road users 0.8290196657180786
+[Critical component of new zealand's transport strategy]: Transport infrastructure development --[Is crucial for]-> Addressing geographical challenges 0.8288512825965881
+[Critical component of new zealand's transport strategy]: New zealand transport agency --[Plays]-> Pivotal role in conducting forecasts 0.8278120160102844
+[Growing emphasis on sustainable transport solutions]: Road maintenance strategies --[Are]-> Critical components 0.8408089876174927
+[Growing emphasis on sustainable transport solutions]: Road traffic monitoring --[Is]-> Critical component of transport infrastructure 0.8398758769035339
+[Growing emphasis on sustainable transport solutions]: Transport agency collaboration in new zealand --[Aimed at]-> Enhancing sustainability 0.8382942080497742
+[Growing emphasis on sustainable transport solutions]: New zealand transport strategy --[Established]-> 2008 0.8382359147071838
+[Growing emphasis on sustainable transport solutions]: New zealand transport agency --[Established in]-> 2008 0.8341043591499329
+[Growing emphasis on sustainable transport solutions]: Road condition monitoring --[Is]-> Critical aspect of transport management in new zealand 0.8325775861740112
+[Growing emphasis on sustainable transport solutions]: Safer journeys strategy --[Focused on]-> Safer vehicles 0.8315604329109192
+[Framework for implementing road safety campaigns and initiatives]: New zealand transport agency --[Established in]-> 2008 0.8341043591499329
+[Framework for implementing road safety campaigns and initiatives]: Vienna convention on road traffic --[Foundational element in]-> Promoting safe and efficient road use 0.83086758852005
+[Framework for implementing road safety campaigns and initiatives]: Regional transport planning --[Is]-> Critical component 0.8293023109436035
+[Framework for implementing road safety campaigns and initiatives]: Transport infrastructure development --[Is crucial for]-> Addressing geographical challenges 0.8288512825965881
+[Framework for implementing road safety campaigns and initiatives]: New zealand transport agency --[Plays]-> Pivotal role in conducting forecasts 0.8278120160102844
+[Framework for implementing road safety campaigns and initiatives]: Transport sector --[Is]-> Critical component of national economy 0.8269331455230713
+[Framework for implementing road safety campaigns and initiatives]: New zealand transport agency --[Is responsible for]-> Road networks 0.8265587091445923

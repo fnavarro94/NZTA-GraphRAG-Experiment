@@ -1,0 +1,34 @@
+By when is it planned for all regions to transfer to the National Ticketing System?
+None
+Seed: National Ticketing Solution request for proposal
+Seed: National Ticketing System
+Seed: no additional funding for fare reductions before the next NLTP in June 2021
+Seed: Request for National Ticketing System Documentation
+[National Ticketing Solution request for proposal]: Request for National Ticketing System Documentation --[REQUESTS]-> National Ticketing System 0.8547602891921997
+[National Ticketing Solution request for proposal]: transactions --[OCCURRED]-> 1 October 2022 to 30 September 2023 0.8531153798103333
+[National Ticketing Solution request for proposal]: www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ --[CONTAINS]-> National Ticketing Solution request for proposal 0.8485479354858398
+[National Ticketing Solution request for proposal]: RFP for National Ticket System --[AVAILABLE]-> www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ 0.8439344167709351
+[National Ticketing Solution request for proposal]: Amanda Cropp --[REQUESTED]-> is this just for Otago, other individual regions, or is there going to be a national version? 0.8430933952331543
+[National Ticketing Solution request for proposal]: Email --[CONTAINS]-> Request for National Ticketing System Documentation 0.8347082138061523
+[National Ticketing Solution request for proposal]: Regional Public Transport Plans --[DEVELOPED_BY]-> Waka Kotahi 0.8342435956001282
+[National Ticketing System]: Request for National Ticketing System Documentation --[REQUESTS]-> National Ticketing System 0.8547602891921997
+[National Ticketing System]: transactions --[OCCURRED]-> 1 October 2022 to 30 September 2023 0.8531153798103333
+[National Ticketing System]: www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ --[CONTAINS]-> National Ticketing Solution request for proposal 0.8485479354858398
+[National Ticketing System]: RFP for National Ticket System --[AVAILABLE]-> www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ 0.8439344167709351
+[National Ticketing System]: Amanda Cropp --[REQUESTED]-> is this just for Otago, other individual regions, or is there going to be a national version? 0.8430933952331543
+[National Ticketing System]: Email --[CONTAINS]-> Request for National Ticketing System Documentation 0.8347082138061523
+[National Ticketing System]: Regional Public Transport Plans --[DEVELOPED_BY]-> Waka Kotahi 0.8342435956001282
+[no additional funding for fare reductions before the next NLTP in June 2021]: follow the standard cost scope adjustment process --[REQUIRES]-> no additional funding for fare reductions before the next NLTP in June 2021 0.8410073518753052
+[no additional funding for fare reductions before the next NLTP in June 2021]: no additional funding for fare reductions before the next NLTP in June 2021 --[APPLIES_TO]-> funding allocations 0.8376630544662476
+[no additional funding for fare reductions before the next NLTP in June 2021]: manage fare revenue and public transport budgets within current funding allocations --[REQUIRES]-> standard cost scope adjustment process 0.8171154260635376
+[no additional funding for fare reductions before the next NLTP in June 2021]: councils --[MUST]-> manage fare revenue and public transport budgets within current funding allocations 0.807164192199707
+[no additional funding for fare reductions before the next NLTP in June 2021]: public transport budgets --[MANAGED_BY]-> councils 0.7840328216552734
+[no additional funding for fare reductions before the next NLTP in June 2021]: funding allocations --[PROVIDES]-> record $3.9 billion in public transport during this NLTP 0.7794157266616821
+[no additional funding for fare reductions before the next NLTP in June 2021]: funding requests --[NEEDS]-> follow the standard cost scope adjustment process 0.7773455381393433
+[Request for National Ticketing System Documentation]: Request for National Ticketing System Documentation --[REQUESTS]-> National Ticketing System 0.8547602891921997
+[Request for National Ticketing System Documentation]: transactions --[OCCURRED]-> 1 October 2022 to 30 September 2023 0.8531153798103333
+[Request for National Ticketing System Documentation]: www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ --[CONTAINS]-> National Ticketing Solution request for proposal 0.8485479354858398
+[Request for National Ticketing System Documentation]: RFP for National Ticket System --[AVAILABLE]-> www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ 0.8439344167709351
+[Request for National Ticketing System Documentation]: Amanda Cropp --[REQUESTED]-> is this just for Otago, other individual regions, or is there going to be a national version? 0.8430933952331543
+[Request for National Ticketing System Documentation]: Email --[CONTAINS]-> Request for National Ticketing System Documentation 0.8347082138061523
+[Request for National Ticketing System Documentation]: Regional Public Transport Plans --[DEVELOPED_BY]-> Waka Kotahi 0.8342435956001282

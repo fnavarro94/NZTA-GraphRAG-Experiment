@@ -1,0 +1,36 @@
+In what year did the organization that has focused on enhancing its bus rapid transit system to provide faster and more reliable public transport services become established?
+None
+Seed: Enhancing public transport systems
+Seed: Promoting public transport initiatives
+Seed: Renewed focus on public transport in recent decades
+Seed: Broader strategy to promote public transport as a viable alternative to private vehicle use
+[Enhancing public transport systems]: New zealand --[Prioritizes]-> Enhancing public transport systems 0.8289991617202759
+[Enhancing public transport systems]: New zealand --[Has]-> Transport projects 0.7922152280807495
+[Enhancing public transport systems]: New zealand transport agency --[Oversees]-> Transport projects 0.7801176309585571
+[Enhancing public transport systems]: New zealand --[Has]-> New zealand transport agency 0.801314115524292
+[Enhancing public transport systems]: New zealand transport agency --[Is]-> Forefront of promoting active transport 0.8312327265739441
+[Enhancing public transport systems]: New zealand transport agency --[Is]-> Government agency 0.7923633456230164
+[Enhancing public transport systems]: New zealand transport agency --[Is]-> Key stakeholder 0.8072402477264404
+[Enhancing public transport systems]: New zealand transport agency --[Is]-> Primary authority 0.8029651641845703
+[Enhancing public transport systems]: New zealand transport agency --[Is]-> Developing integrated transport solutions 0.8220282196998596
+[Enhancing public transport systems]: New zealand transport agency --[Is]-> Collaborating with technology providers 0.8063176274299622
+[Enhancing public transport systems]: New zealand transport agency --[Implemented]-> Initiatives 0.8242318630218506
+[Enhancing public transport systems]: New zealand transport agency --[Responsible for]-> Management and regulation of transport systems 0.8077095150947571
+[Enhancing public transport systems]: New zealand transport agency --[Responsible for]-> Management and regulation of the transport system in new zealand 0.8057382702827454
+[Enhancing public transport systems]: New zealand transport agency --[Ensures]-> Policies align with national transport objectives 0.7827516198158264
+[Enhancing public transport systems]: New zealand transport agency --[Ensures]-> Voices of all road users are considered in decision-making processes 0.7696652412414551
+[Enhancing public transport systems]: New zealand transport agency --[Mandates]-> Regular audits 0.7680913805961609
+[Enhancing public transport systems]: New zealand transport agency --[Promotes]-> Road safety 0.7949954271316528
+[Enhancing public transport systems]: New zealand transport agency --[Aims]-> Reduce greenhouse gas emissions 0.7661781907081604
+[Enhancing public transport systems]: New zealand transport agency --[Plays]-> A crucial role in funding and promoting cycling infrastructure projects 0.7981134653091431
+[Enhancing public transport systems]: New zealand transport agency --[Plays]-> Pivotal role in conducting forecasts 0.792546272277832
+[Enhancing public transport systems]: New zealand transport agency --[Plays]-> Pivotal role in facilitating road user engagement 0.8102943301200867
+[Enhancing public transport systems]: New zealand transport agency --[Plays]-> Crucial role in developing guidelines 0.7960142493247986
+[Enhancing public transport systems]: New zealand transport agency --[Plays]-> Crucial role in developing standards 0.8071111440658569
+[Enhancing public transport systems]: New zealand transport agency --[Plays]-> Pivotal role 0.8078035116195679
+[Enhancing public transport systems]: New zealand transport agency --[Is responsible for]-> Promoting public transport initiatives 0.8374068737030029
+[Enhancing public transport systems]: New zealand transport agency --[Is responsible for]-> State highway network 0.7896415591239929
+[Enhancing public transport systems]: New zealand transport agency --[Is responsible for]-> Managing state highway network 0.7881424427032471
+[Enhancing public transport systems]: New zealand transport agency --[Is responsible for]-> Funding local road projects 0.7721688747406006
+[Enhancing public transport systems]: New zealand transport agency --[Is responsible for]-> Road networks 0.8025131225585938
+[Enhancing public transport systems]: New zealand transport agency --[Manages]-> National land transport fund 0.778082013130188

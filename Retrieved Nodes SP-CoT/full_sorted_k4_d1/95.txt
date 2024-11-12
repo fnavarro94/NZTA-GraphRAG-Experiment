@@ -1,0 +1,16 @@
+What is the abbreviation commonly used for the legislation that focuses on ensuring the health and safety of workers in the transport sector?
+None
+Seed: Health and safety at work act
+Seed: Health and safety at work act 2015
+Seed: Legislative framework for road safety initiatives
+Seed: Robust approach to workplace health and safety
+[Health and safety at work act]: Health and safety at work act --[Year]-> 2015 0.8685861825942993
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Applies to]-> Road transport 0.8972757458686829
+[Health and safety at work act 2015]: Rail transport safety --[Governed by]-> Health and safety at work act 2015 0.8897971510887146
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Is]-> Key piece of legislation 0.8868394494056702
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Applies to]-> Rail 0.8845353126525879
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Applies to]-> Maritime 0.8754355311393738
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Applies to]-> Aviation 0.869403064250946
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Emphasizes]-> Worker participation 0.8587449789047241
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Provides]-> Legislative framework for road safety initiatives 0.8729040026664734
+[Robust approach to workplace health and safety]: Health and safety at work act 2015 --[Introduced]-> Robust approach to workplace health and safety 0.8558942675590515

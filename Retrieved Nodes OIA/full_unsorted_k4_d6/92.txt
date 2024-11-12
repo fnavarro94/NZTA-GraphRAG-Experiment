@@ -1,0 +1,36 @@
+How many times has the Milford Rd closed each year for the past 5 years?
+None
+Seed: 5 years
+Seed: vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas
+Seed: resignations by year since 2014
+Seed: Milford Alliance
+[5 years]: Transport Service Licences --[ACTIVE_FOR]-> 5 years 0.8066335916519165
+[5 years]: Transport Service Licences --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7455906867980957
+[5 years]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7566347122192383
+[5 years]: New Zealand Transport Agency --[BASED]-> Wellington 0.7568411231040955
+[5 years]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7673767805099487
+[5 years]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.7629797458648682
+[5 years]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7748245000839233
+[5 years]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.7500512599945068
+[5 years]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7535053491592407
+[5 years]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7507210969924927
+[5 years]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.7599272727966309
+[5 years]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7492779493331909
+[5 years]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7305687069892883
+[5 years]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7559312582015991
+[5 years]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.744004487991333
+[5 years]: Wellington --[CONTAINS]-> Private Bag 6995 0.7634310722351074
+[5 years]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7714185118675232
+[5 years]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.76405930519104
+[5 years]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.7642462849617004
+[5 years]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7495800852775574
+[5 years]: 50 Victoria Street --[IN]-> Wellington 0.7576768398284912
+[5 years]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.7550843954086304
+[5 years]: New Zealand Transport Agency --[LOCATED]-> 50 Victoria Street 0.7584556341171265
+[5 years]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.746910035610199
+[5 years]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7427086234092712
+[5 years]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7660812139511108
+[5 years]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7581011056900024
+[5 years]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7463212013244629
+[5 years]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7539725303649902
+[5 years]: New Zealand Transport Agency --[CONTACT]-> Wellington 6141 0.755752444267273

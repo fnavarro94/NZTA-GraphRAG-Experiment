@@ -1,0 +1,29 @@
+What region is known for its rugged terrain and stunning landscapes, particularly in the context of the two main islands of the country where the initiative focusing on improving public transport services and infrastructure in Wellington to enhance the travel experience for users is being implemented, and where the transport system facilitates the movement of people and goods?
+None
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+Seed: Importance of well-planned transport systems in both countries
+Seed: Transport link between wellington and northern regions of north island
+Seed: New zealand's stunning landscapes
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Plays]-> Significant role in shaping transport infrastructure and policy in new zealand 0.8533498048782349
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Aims to]-> Enhance resilience and adaptability of new zealand's transport network 0.8497894406318665
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Is]-> Collective of australian and new zealand road transport and traffic agencies 0.8178077936172485
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Collaborates with]-> New zealand transport agency (nzta 0.8177343010902405
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Conducts]-> Extensive research and development projects 0.7744117975234985
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Engages in]-> International collaborations to align initiatives with global best practices 0.7690420150756836
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Founded in]-> 1990 0.735375702381134
+[Importance of well-planned transport systems in both countries]: Pch --[Reflects]-> Importance of well-planned transport systems in both countries 0.8434182405471802
+[Importance of well-planned transport systems in both countries]: Pch --[Reflects]-> Importance of well-planned transport systems 0.8211572170257568
+[Importance of well-planned transport systems in both countries]: Pch --[Is]-> Part of new zealand state highway network 0.8198683857917786
+[Importance of well-planned transport systems in both countries]: Pch --[Runs along]-> North island's eastern coastline 0.800301194190979
+[Importance of well-planned transport systems in both countries]: Pch --[Is]-> Scenic roadway 0.7920244336128235
+[Importance of well-planned transport systems in both countries]: Pch --[Plays]-> Crucial role in tourism 0.7909471392631531
+[Importance of well-planned transport systems in both countries]: Pch --[Contributes to]-> Overall accessibility of the region 0.7876808643341064
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Aims to]-> Meet the evolving needs of new zealand's transport system 0.8665434122085571
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Aims to improve]-> Transport link between wellington and northern regions of north island 0.8607292771339417
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Connects]-> Northern regions of the north island 0.8593208193778992
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Is]-> Integral part of the country's national road network 0.8450202345848083
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Accommodates]-> Sustainable transport options 0.8449610471725464
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Promotes]-> Shift towards more environmentally friendly modes of travel 0.84477698802948
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Is]-> Key transport route 0.8444091081619263
+[New zealand's stunning landscapes]: Passenger rail services --[Showcase]-> New zealand's stunning landscapes 0.8673387765884399
+[New zealand's stunning landscapes]: Passenger rail services --[Include]-> Scenic routes such as the tranzalpine and the northern explorer 0.8097224831581116

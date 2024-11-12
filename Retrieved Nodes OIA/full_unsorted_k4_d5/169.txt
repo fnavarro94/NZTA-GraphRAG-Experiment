@@ -1,0 +1,36 @@
+Was Higgins Concrete Ltd engaged in any NZTA projects during the audit period?
+None
+Seed: information on Higgins Ltd projects
+Seed: information on Higgins Wellington projects
+Seed: Higgins Concrete Limited
+Seed: Higgins Group Holdings Limited
+[information on Higgins Ltd projects]: New Zealand Transport Agency --[PROVIDES]-> information on Higgins Ltd projects 0.8874444961547852
+[information on Higgins Ltd projects]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8004370927810669
+[information on Higgins Ltd projects]: New Zealand Transport Agency --[BASED]-> Wellington 0.805645763874054
+[information on Higgins Ltd projects]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8015211224555969
+[information on Higgins Ltd projects]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.7939870953559875
+[information on Higgins Ltd projects]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7782591581344604
+[information on Higgins Ltd projects]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.7747933864593506
+[information on Higgins Ltd projects]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.77445387840271
+[information on Higgins Ltd projects]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7873646020889282
+[information on Higgins Ltd projects]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.7962316274642944
+[information on Higgins Ltd projects]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.752480149269104
+[information on Higgins Ltd projects]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7407646179199219
+[information on Higgins Ltd projects]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7770311832427979
+[information on Higgins Ltd projects]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.730556309223175
+[information on Higgins Ltd projects]: Wellington --[CONTAINS]-> Private Bag 6995 0.7761460542678833
+[information on Higgins Ltd projects]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.806594967842102
+[information on Higgins Ltd projects]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8035451173782349
+[information on Higgins Ltd projects]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.7907700538635254
+[information on Higgins Ltd projects]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7798730134963989
+[information on Higgins Ltd projects]: 50 Victoria Street --[IN]-> Wellington 0.7673071622848511
+[information on Higgins Ltd projects]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.7914971113204956
+[information on Higgins Ltd projects]: New Zealand Transport Agency --[LOCATED]-> 50 Victoria Street 0.7966249585151672
+[information on Higgins Ltd projects]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7490372061729431
+[information on Higgins Ltd projects]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7471400499343872
+[information on Higgins Ltd projects]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7767045497894287
+[information on Higgins Ltd projects]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7704323530197144
+[information on Higgins Ltd projects]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7893452644348145
+[information on Higgins Ltd projects]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.8015559315681458
+[information on Higgins Ltd projects]: New Zealand Transport Agency --[CONTACT]-> Wellington 6141 0.7932738065719604
+[information on Higgins Ltd projects]: Wellington 6141 --[POSTAL_ADDRESS]-> New Zealand 0.7818300724029541

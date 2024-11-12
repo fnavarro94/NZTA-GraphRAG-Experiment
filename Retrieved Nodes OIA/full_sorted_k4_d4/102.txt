@@ -1,0 +1,34 @@
+Who is the acting National Manager responsible for the reply on Automatic Number Plate Recognition cameras?
+None
+Seed: Acting Senior Manager, Media
+Seed: no notifications of offences detected by speed cameras
+Seed: National Manager, Education and Marketing
+Seed: National correspondent
+[Acting Senior Manager, Media]: Waka Kotahi --[PROVIDES]-> information on speed cameras 0.8162679672241211
+[Acting Senior Manager, Media]: Senior Media Manager --[ASSOCIATED_WITH]-> andrew.knackstedt@nzta.govt.nz 0.8061211109161377
+[Acting Senior Manager, Media]: Yogesh Anand --[POSITION]-> Programme Director, NTS 0.8031572103500366
+[Acting Senior Manager, Media]: Jackie Smith --[DISCUSSES]-> reply with NZ Transport Agency Waka Kotahi (NZTA) 0.8030940294265747
+[Acting Senior Manager, Media]: New Zealand Transport Agency --[RESPONDS]-> John-Michael Swannix 0.8016409277915955
+[Acting Senior Manager, Media]: reply with NZ Transport Agency Waka Kotahi (NZTA) --[INVOLVES]-> Andy Knackstedt 0.8012450933456421
+[Acting Senior Manager, Media]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.7998952269554138
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[PROVIDES]-> information on speed cameras 0.8162679672241211
+[no notifications of offences detected by speed cameras]: Ian Duncan --[ACTING_NATIONAL_MANAGER]-> Policy and System Planning 0.8105393648147583
+[no notifications of offences detected by speed cameras]: Senior Media Manager --[ASSOCIATED_WITH]-> andrew.knackstedt@nzta.govt.nz 0.8061211109161377
+[no notifications of offences detected by speed cameras]: Yogesh Anand --[POSITION]-> Programme Director, NTS 0.8031572103500366
+[no notifications of offences detected by speed cameras]: Jackie Smith --[DISCUSSES]-> reply with NZ Transport Agency Waka Kotahi (NZTA) 0.8030940294265747
+[no notifications of offences detected by speed cameras]: New Zealand Transport Agency --[RESPONDS]-> John-Michael Swannix 0.8016409277915955
+[no notifications of offences detected by speed cameras]: Kalpana Narsi-Brown --[CONTACT]-> Kane Patena 0.8013604283332825
+[National Manager, Education and Marketing]: Waka Kotahi --[PROVIDES]-> information on speed cameras 0.8162679672241211
+[National Manager, Education and Marketing]: Jackie Smith --[DISCUSSES]-> reply with NZ Transport Agency Waka Kotahi (NZTA) 0.8030940294265747
+[National Manager, Education and Marketing]: New Zealand Transport Agency --[RESPONDS]-> John-Michael Swannix 0.8016409277915955
+[National Manager, Education and Marketing]: National Manager Infrastructure Delivery --[AT]-> NZTA 0.8007370233535767
+[National Manager, Education and Marketing]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.7998952269554138
+[National Manager, Education and Marketing]: Programme Director, NTS --[AT]-> New Zealand Transport Agency 0.7968543171882629
+[National Manager, Education and Marketing]: response letter --[ASSOCIATED_WITH]-> NZ Transport Agency Waka Kotahi 0.796467661857605
+[National correspondent]: New Zealand Transport Agency --[RESPONDS]-> John-Michael Swannix 0.8016409277915955
+[National correspondent]: Programme Director, NTS --[AT]-> New Zealand Transport Agency 0.7968543171882629
+[National correspondent]: Senior Manager Media --[AT]-> New Zealand Transport Agency 0.794529914855957
+[National correspondent]: New Zealand Transport Agency --[PROVIDES]-> verbatim staff comments from 'AskYourTeam' Surveys 0.7941845655441284
+[National correspondent]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7941489219665527
+[National correspondent]: New Zealand Transport Agency --[RESPONDED]-> Susan Strongman 0.7934128046035767
+[National correspondent]: Kane Patena --[DISCUSS]-> NZ Transport Agency 0.7922338247299194

@@ -1,0 +1,36 @@
+How is the Hoe ki angitū Innovation Fund financed?
+None
+Seed: Hoe ki angitū – Innovation Fund
+Seed: Innovation Fund
+Seed: funding
+Seed: funding requests
+[Hoe ki angitū – Innovation Fund]: Hoe ki angitū – Innovation Fund --[FUNDED_BY]-> National Land Transport Fund 0.9167662858963013
+[Hoe ki angitū – Innovation Fund]: National Land Transport Fund --[ADMINISTERED_BY]-> Waka Kotahi 0.817132830619812
+[Hoe ki angitū – Innovation Fund]: Response --[CONTAINS]-> Waka Kotahi 0.7654584646224976
+[Hoe ki angitū – Innovation Fund]: Waka Kotahi --[PUBLISHES]-> Response 0.7697654962539673
+[Hoe ki angitū – Innovation Fund]: response --[CONTAINS]-> Waka Kotahi 0.760949969291687
+[Hoe ki angitū – Innovation Fund]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.7769951820373535
+[Hoe ki angitū – Innovation Fund]: Charles Ronaldson --[SIGNED]-> response 0.7192329168319702
+[Hoe ki angitū – Innovation Fund]: Lauren Cooke --[SIGNED]-> response 0.7364123463630676
+[Hoe ki angitū – Innovation Fund]: Waka Kotahi --[PUBLISHED_BY]-> response 0.772019624710083
+[Hoe ki angitū – Innovation Fund]: Ministry --[PROVIDE]-> response 0.7345467805862427
+[Hoe ki angitū – Innovation Fund]: response --[REMOVED]-> personal information 0.698723554611206
+[Hoe ki angitū – Innovation Fund]: Waka Kotahi website --[CONTAINS]-> response 0.7442607283592224
+[Hoe ki angitū – Innovation Fund]: New Zealand Transport Agency --[DISCUSSES]-> response 0.7514113783836365
+[Hoe ki angitū – Innovation Fund]: response --[IS_A]-> letter 0.713352382183075
+[Hoe ki angitū – Innovation Fund]: Waka Kotahi --[FOLLOWS]-> response 0.745241641998291
+[Hoe ki angitū – Innovation Fund]: New Zealand Transport Agency --[PUBLISH]-> response 0.7781491875648499
+[Hoe ki angitū – Innovation Fund]: New Zealand Transport Agency --[PUBLISHES]-> response 0.7716457843780518
+[Hoe ki angitū – Innovation Fund]: response --[IS]-> response letter 0.7165961265563965
+[Hoe ki angitū – Innovation Fund]: response letter --[IS]-> response 0.713481605052948
+[Hoe ki angitū – Innovation Fund]: response --[CONTAINS]-> contact details for the Ombudsman 0.721985936164856
+[Hoe ki angitū – Innovation Fund]: response --[CONTAINS]-> Jamie Ensor 0.7293854355812073
+[Hoe ki angitū – Innovation Fund]: response --[RELATES_TO]-> personal information removed 0.6955865621566772
+[Hoe ki angitū – Innovation Fund]: Conan Young --[RECEIVES]-> response 0.7171299457550049
+[Hoe ki angitū – Innovation Fund]: oia-14650-response-letter.pdf --[CONTAINS]-> response 0.7270627021789551
+[Hoe ki angitū – Innovation Fund]: response --[IS]-> sincerely 0.7209935188293457
+[Hoe ki angitū – Innovation Fund]: NZTA --[REPLY]-> response 0.7535185217857361
+[Hoe ki angitū – Innovation Fund]: response --[REMOVE]-> personal information 0.6804935336112976
+[Hoe ki angitū – Innovation Fund]: Waka Kotahi --[PUBLISHED]-> response 0.7882151007652283
+[Hoe ki angitū – Innovation Fund]: Waka Kotahi --[PROVIDES]-> response 0.7441924214363098
+[Hoe ki angitū – Innovation Fund]: response --[IS_PUBLISHED_ON]-> website 0.7329594492912292

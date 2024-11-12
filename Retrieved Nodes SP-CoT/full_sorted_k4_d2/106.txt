@@ -1,0 +1,33 @@
+Who operates the rail network in the country where the regular activities performed to keep roads safe and functional, including vegetation control, litter removal, and drainage maintenance, are described by what term?
+None
+Seed: Transport as critical component of nation's infrastructure
+Seed: Significant role in planning and management of transport infrastructure and services
+Seed: Crucial role in promoting road safety
+Seed: Rail infrastructure
+[Transport as critical component of nation's infrastructure]: Resource management act 1991 --[Recognizes]-> Transport as critical component of nation's infrastructure 0.8075459003448486
+[Transport as critical component of nation's infrastructure]: Resource management act 1991 --[Plays]-> Significant role in planning and management of transport infrastructure and services 0.8030678629875183
+[Transport as critical component of nation's infrastructure]: Resource management act 1991 --[Plays]-> Significant role in shaping transport infrastructure 0.801234781742096
+[Transport as critical component of nation's infrastructure]: Resource management act 1991 --[Recognizes]-> Transport as critical component 0.79902583360672
+[Transport as critical component of nation's infrastructure]: Resource management act 1991 --[Subject]-> Debate regarding effectiveness in addressing challenges of modern transport needs 0.7911897897720337
+[Transport as critical component of nation's infrastructure]: Land transport act 1998 --[Complemented by]-> Resource management act 1991 0.7906429767608643
+[Transport as critical component of nation's infrastructure]: Resource management act 1991 --[Aims]-> Balance need for efficient transport systems with preservation of new zealand's unique landscapes and ecosystems 0.7897360920906067
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Recognizes]-> Transport as critical component of nation's infrastructure 0.8075459003448486
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Plays]-> Significant role in planning and management of transport infrastructure and services 0.8030678629875183
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Plays]-> Significant role in shaping transport infrastructure 0.801234781742096
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Recognizes]-> Transport as critical component 0.79902583360672
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Subject]-> Debate regarding effectiveness in addressing challenges of modern transport needs 0.7911897897720337
+[Significant role in planning and management of transport infrastructure and services]: Land transport act 1998 --[Complemented by]-> Resource management act 1991 0.7906429767608643
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Aims]-> Balance need for efficient transport systems with preservation of new zealand's unique landscapes and ecosystems 0.7897360920906067
+[Crucial role in promoting road safety]: Education and awareness programs --[Play]-> Crucial role in promoting road safety 0.803707480430603
+[Crucial role in promoting road safety]: Education and awareness programs --[Include]-> Road safety week 0.7888551354408264
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about safe driving practices 0.768010675907135
+[Crucial role in promoting road safety]: Education and awareness programs --[Include]-> Belt up campaign 0.7564408779144287
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about dangers of distracted driving 0.7335869073867798
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about importance of seatbelt use 0.7328860759735107
+[Rail infrastructure]: Kiwirail --[Oversees]-> Rail infrastructure 0.8193966150283813
+[Rail infrastructure]: Kiwirail --[Contributes to]-> Nation's infrastructure 0.8155516982078552
+[Rail infrastructure]: Rail freight services --[Are operated by]-> Kiwirail 0.8134204149246216
+[Rail infrastructure]: Kiwirail --[Manages]-> Both freight and passenger services 0.8103033304214478
+[Rail infrastructure]: Kiwirail --[Operates]-> Freight route 0.8068864941596985
+[Rail infrastructure]: Kiwirail --[Supports]-> Reducing environmental impact 0.8068270087242126
+[Rail infrastructure]: Kiwirail --[Operates]-> National rail network 0.8063375949859619

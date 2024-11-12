@@ -1,0 +1,34 @@
+How many road deaths in Christchurch between 2017 and 2019 were attributed to alcohol being a contributing factor?
+None
+Seed: information on Christchurch road deaths
+Seed: Road Traffic Crashes
+Seed: Alcohol Consumption
+Seed: 45-60 fatalities
+[information on Christchurch road deaths]: Road Traffic Crash Data --[RELATES_TO]-> Christchurch Region 0.881111741065979
+[information on Christchurch road deaths]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8587267398834229
+[information on Christchurch road deaths]: NZ Police --[INVESTIGATES]-> road traffic crashes 0.8487212061882019
+[information on Christchurch road deaths]: Traffic Crash Report --[PROVIDED_BY]-> NZ Police 0.8454426527023315
+[information on Christchurch road deaths]: road safety --[COLLABORATED_BY]-> Wellington City Council 0.8430448174476624
+[information on Christchurch road deaths]: Traffic Crash Reports --[RECEIVED_FROM]-> NZ Police 0.8413578867912292
+[information on Christchurch road deaths]: road safety initiatives --[ASSOCIATED_WITH]-> Wellington City Council 0.8385778069496155
+[Road Traffic Crashes]: Alcohol Consumption --[CONTRIBUTES_TO]-> Road Traffic Crashes 0.8729584217071533
+[Road Traffic Crashes]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8587267398834229
+[Road Traffic Crashes]: Road Traffic --[AFFECTED_BY]-> Alcohol Consumption 0.8579446077346802
+[Road Traffic Crashes]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8179654479026794
+[Road Traffic Crashes]: COVID-19 --[AFFECTS]-> Road Traffic 0.8141593337059021
+[Road Traffic Crashes]: Road Traffic Crashes --[ANALYZED_BY]-> Crash Analysis 0.8118003606796265
+[Road Traffic Crashes]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.8103452920913696
+[Alcohol Consumption]: Alcohol Consumption --[CONTRIBUTES_TO]-> Road Traffic Crashes 0.8729584217071533
+[Alcohol Consumption]: Road Traffic --[AFFECTED_BY]-> Alcohol Consumption 0.8579446077346802
+[Alcohol Consumption]: Road Crashes --[DECREASED]-> Lockdowns 0.817261815071106
+[Alcohol Consumption]: New Zealand --[HAS_PANDEMIC]-> COVID-19 0.815362274646759
+[Alcohol Consumption]: COVID-19 --[AFFECTS]-> Road Traffic 0.8141593337059021
+[Alcohol Consumption]: Road Traffic Crashes --[ANALYZED_BY]-> Crash Analysis 0.8118003606796265
+[Alcohol Consumption]: Road Traffic --[DECREASED]-> Lockdowns 0.8057103157043457
+[45-60 fatalities]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8587267398834229
+[45-60 fatalities]: Road to Zero --[FATality REDUCTION]-> 45-60 fatalities 0.8196537494659424
+[45-60 fatalities]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8179654479026794
+[45-60 fatalities]: Ministry of Transport --[WEBSITE]-> www.transport.govt.nz/area-of-inte rest/safety/road-to-zero/ 0.8165317177772522
+[45-60 fatalities]: Road to Zero --[PREVENTS]-> fatal and serious injuries 0.8122636675834656
+[45-60 fatalities]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.8103452920913696
+[45-60 fatalities]: Road to Zero --[TARGETS]-> 40 percent reduction in deaths and serious injuries by 2030 0.8074854612350464

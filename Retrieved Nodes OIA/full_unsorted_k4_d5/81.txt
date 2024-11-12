@@ -1,0 +1,36 @@
+Why was a list of drugs involved in fatal crashes not provided in response to the request?
+None
+Seed: figures on drivers involved in fatal crashes
+Seed: 1 fatal crash, 3 serious crashes, 8 minor crashes, 12 non-injury crashes, 24 total crashes
+Seed: drivers involved in fatal crashes
+Seed: 2 fatal crashes, 2 serious crashes, 1 minor crash, 4 non-injury crashes, 5 total crashes
+[figures on drivers involved in fatal crashes]: AA --[PROVIDES]-> figures on drivers involved in fatal crashes 0.8342830538749695
+[1 fatal crash, 3 serious crashes, 8 minor crashes, 12 non-injury crashes, 24 total crashes]: 01/10/2020 to 26/05/2021 --[HAS_CRASHES]-> 1 fatal crash, 3 serious crashes, 8 minor crashes, 12 non-injury crashes, 24 total crashes 0.8409827947616577
+[drivers involved in fatal crashes]: drivers involved in fatal crashes --[INVOLVED_IN]-> fatal crashes 0.8515899777412415
+[drivers involved in fatal crashes]: fatal crashes --[CAUSED_BY]-> drugs or alcohol 0.8826371431350708
+[drivers involved in fatal crashes]: drugs or alcohol --[AFFECTS]-> drivers 0.8265054225921631
+[drivers involved in fatal crashes]: tolls --[COLLECTED]-> drivers 0.7852993607521057
+[drivers involved in fatal crashes]: New Zealand Transport Agency --[MANAGES]-> tolls 0.7584656476974487
+[drivers involved in fatal crashes]: tolls --[PAID]-> each year 0.7590245604515076
+[drivers involved in fatal crashes]: tolls --[SPENT]-> on various roads 0.7837411165237427
+[drivers involved in fatal crashes]: drivers --[PAY]-> tolls 0.7473154664039612
+[drivers involved in fatal crashes]: tolls --[COLLECTED_BY]-> New Zealand Transport Agency 0.7871515154838562
+[drivers involved in fatal crashes]: road maintenance --[SUPPORTED_BY]-> tolls 0.7818302512168884
+[drivers involved in fatal crashes]: tolls --[USED_FOR]-> road maintenance 0.7811322212219238
+[drivers involved in fatal crashes]: maintenance --[FUNDED_BY]-> tolls 0.7861981391906738
+[drivers involved in fatal crashes]: drivers --[CONTRIBUTE]-> crash 0.807933509349823
+[drivers involved in fatal crashes]: crash --[HAS_FACTOR]-> alcohol 0.8305323123931885
+[drivers involved in fatal crashes]: crash --[HAS_FACTOR]-> multiple factors 0.805869996547699
+[drivers involved in fatal crashes]: crash --[HAS_FACTOR]-> drug 0.8566266298294067
+[drivers involved in fatal crashes]: crash --[HAS]-> multiple factors 0.8270153999328613
+[drivers involved in fatal crashes]: drivers --[IMPAIRED]-> drugs 0.8323623538017273
+[drivers involved in fatal crashes]: drugs --[ASSOCIATED_WITH]-> Bay of Plenty 0.8146273493766785
+[drivers involved in fatal crashes]: road accident data --[ATTRIBUTED_TO]-> drugs 0.8659140467643738
+[drivers involved in fatal crashes]: contributing factor codes --[RELATING_TO]-> drugs 0.8182042837142944
+[drivers involved in fatal crashes]: drugs --[AFFECTS]-> road safety 0.862490177154541
+[drivers involved in fatal crashes]: drugs --[PRESENT]-> drivers 0.8352088332176208
+[drivers involved in fatal crashes]: drugs --[FREQUENCY]-> frequency 0.7909358739852905
+[drivers involved in fatal crashes]: drug test results --[IDENTIFY]-> drugs 0.7947311997413635
+[drivers involved in fatal crashes]: drugs --[SUSPECTED]-> impaired driving 0.8379108905792236
+[drivers involved in fatal crashes]: drivers --[INVOLVED_IN]-> fatal crashes 0.8430479764938354
+[drivers involved in fatal crashes]: fatal crashes --[RECORDED]-> CAS 0.8134827613830566

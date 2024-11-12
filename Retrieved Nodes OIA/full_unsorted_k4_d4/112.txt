@@ -1,0 +1,36 @@
+Where can formal advice on the second Ashburton Bridge be found?
+None
+Seed: Ashburton Bridge
+Seed: proposed second bridge
+Seed: Ashburton District Councillors
+Seed: Ashburton-Tin wald Connectivity Business Case
+[Ashburton Bridge]: Information in Scope --[RELATES_TO]-> Ashburton Bridge 0.8550906181335449
+[Ashburton Bridge]: Information in Scope --[RELATES_TO]-> proposed second bridge 0.8577600121498108
+[Ashburton Bridge]: Information --[RELATES_TO]-> proposed second bridge 0.866146445274353
+[Ashburton Bridge]: New Zealand Transport Agency --[WITHHOLDS]-> Information 0.7682375907897949
+[Ashburton Bridge]: Information --[RELATES_TO]-> Ashburton Bridge 0.8809502720832825
+[Ashburton Bridge]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7915164232254028
+[Ashburton Bridge]: New Zealand Transport Agency --[BASED]-> Wellington 0.7800174355506897
+[Ashburton Bridge]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.777525007724762
+[Ashburton Bridge]: Golden Mile --[LOCATED]-> Wellington 0.7584421038627625
+[Ashburton Bridge]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7740726470947266
+[Ashburton Bridge]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7887657284736633
+[Ashburton Bridge]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7722780704498291
+[Ashburton Bridge]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7596927881240845
+[Ashburton Bridge]: Wellington --[PART_OF]-> Wellington Region 0.7747632265090942
+[Ashburton Bridge]: New Zealand --[HAS_CAPITAL]-> Wellington 0.779593825340271
+[Ashburton Bridge]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.8096067905426025
+[Ashburton Bridge]: Wellington --[HAS]-> tunnel 0.7949665784835815
+[Ashburton Bridge]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7589618563652039
+[Ashburton Bridge]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7733398675918579
+[Ashburton Bridge]: Wellington --[POSTCODE]-> 6141 0.7510400414466858
+[Ashburton Bridge]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7808640599250793
+[Ashburton Bridge]: Wellington --[IS_PART_OF]-> New Zealand 0.7731274366378784
+[Ashburton Bridge]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.8164620399475098
+[Ashburton Bridge]: 50 Victoria Street --[IN]-> Wellington 0.7530094981193542
+[Ashburton Bridge]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7843801975250244
+[Ashburton Bridge]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7704759240150452
+[Ashburton Bridge]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7623441219329834
+[Ashburton Bridge]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7652011513710022
+[Ashburton Bridge]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7696971893310547
+[Ashburton Bridge]: NZ Transport Agency --[LOCATED]-> Wellington 0.7840263843536377

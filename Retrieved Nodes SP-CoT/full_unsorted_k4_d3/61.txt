@@ -1,0 +1,36 @@
+What region does the Metlink bus service connect to besides Porirua, the city in the country known for its Metlink services, which focus on providing comprehensive coverage across the region and allocates financial resources for the development, maintenance, and upgrading of transport infrastructure, including roads, railways, airports, and public transport systems?
+None
+Seed: Regional transport initiatives
+Seed: Significant investment in public transport infrastructure
+Seed: Importance of well-planned transport systems in both countries
+Seed: Transport link between wellington and northern regions of north island
+[Regional transport initiatives]: Local councils --[Contribute to]-> Regional transport initiatives 0.7873156070709229
+[Regional transport initiatives]: Road safety authority --[Collaborates with]-> Local councils 0.7453605532646179
+[Regional transport initiatives]: Road safety authority --[Collaborates with]-> Law enforcement agencies 0.7342172861099243
+[Regional transport initiatives]: Road safety authority --[Operates under]-> Ministry of transport 0.7623621225357056
+[Regional transport initiatives]: Road safety authority --[Advocates for]-> Infrastructure improvements 0.7573173642158508
+[Regional transport initiatives]: Road safety authority --[Emphasizes]-> Need for holistic view of road safety 0.7254027724266052
+[Regional transport initiatives]: Road safety authority --[Is]-> Government agency 0.7345733046531677
+[Regional transport initiatives]: Road safety authority --[Employs]-> Data-driven approach 0.7280864715576172
+[Regional transport initiatives]: Road safety authority --[Collaborates with]-> Community organizations 0.7467989325523376
+[Regional transport initiatives]: Road safety authority --[Aims to]-> Educate the public 0.7272435426712036
+[Regional transport initiatives]: Road safety authority --[Works towards]-> Vision of safer new zealand 0.7465578317642212
+[Regional transport initiatives]: Road safety authority --[Encourages]-> Community engagement 0.730176568031311
+[Regional transport initiatives]: Road safety authority --[Publishes]-> Reports and statistics 0.7404270768165588
+[Regional transport initiatives]: Road safety authority --[Focuses on]-> Education 0.7384108304977417
+[Regional transport initiatives]: Road safety authority --[Fosters]-> Culture of safety and responsibility 0.7189834117889404
+[Regional transport initiatives]: Road safety authority --[Responsible for]-> Promoting road safety 0.7368170022964478
+[Regional transport initiatives]: Road safety authority --[Focuses on]-> Enforcement 0.7242563366889954
+[Regional transport initiatives]: Road safety authority --[Focuses on]-> Engineering 0.7402346134185791
+[Regional transport initiatives]: Road safety authority --[Promotes]-> Safe road practices 0.7298250198364258
+[Regional transport initiatives]: Road safety authority --[Works closely with]-> Police 0.7348604202270508
+[Regional transport initiatives]: Road safety authority --[Works closely with]-> Local authorities 0.7522633075714111
+[Regional transport initiatives]: Waka kotahi --[Works with]-> Local councils 0.7451497316360474
+[Regional transport initiatives]: Waka kotahi --[Has]-> Road to zero  strategy 0.7033440470695496
+[Regional transport initiatives]: Waka kotahi --[Is]-> Primary agency 0.725827157497406
+[Regional transport initiatives]: Waka kotahi --[Is]-> Government agency 0.7314987182617188
+[Regional transport initiatives]: Waka kotahi --[Responsible for]-> Funding 0.7449798583984375
+[Regional transport initiatives]: Waka kotahi --[Responsible for]-> Management 0.7269980907440186
+[Regional transport initiatives]: Waka kotahi --[Responsible for]-> Planning 0.7400510311126709
+[Regional transport initiatives]: Waka kotahi --[Ensures]-> Investments 0.7379160523414612
+[Regional transport initiatives]: Waka kotahi --[Ensures]-> Transport system is effective and efficient 0.7673130035400391

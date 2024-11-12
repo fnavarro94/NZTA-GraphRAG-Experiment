@@ -1,0 +1,36 @@
+What was included in the legal costs from Meredith Connell during this period?
+None
+Seed: Summary of legal and other costs
+Seed: Meredith Connell
+Seed: transaction costs
+Seed: Costs
+[Summary of legal and other costs]: Robert Pines --[REQUESTED]-> Summary of legal and other costs 0.8374570608139038
+[Meredith Connell]: Meredith Connell --[ASSOCIATED]-> Enforcement of regulatory role 0.8630585074424744
+[Meredith Connell]: New Zealand Transport Agency --[ASSOCIATED]-> Enforcement of regulatory role 0.7582228183746338
+[Meredith Connell]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7109242081642151
+[Meredith Connell]: New Zealand Transport Agency --[BASED]-> Wellington 0.7178975343704224
+[Meredith Connell]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.728206992149353
+[Meredith Connell]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.723544180393219
+[Meredith Connell]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7416396141052246
+[Meredith Connell]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.7336916923522949
+[Meredith Connell]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7372634410858154
+[Meredith Connell]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.724822998046875
+[Meredith Connell]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.7272904515266418
+[Meredith Connell]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7349646687507629
+[Meredith Connell]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7056686282157898
+[Meredith Connell]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7549261450767517
+[Meredith Connell]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.742591142654419
+[Meredith Connell]: Wellington --[CONTAINS]-> Private Bag 6995 0.7562500834465027
+[Meredith Connell]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.755652666091919
+[Meredith Connell]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7162514925003052
+[Meredith Connell]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.7121811509132385
+[Meredith Connell]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.704253613948822
+[Meredith Connell]: 50 Victoria Street --[IN]-> Wellington 0.7211228609085083
+[Meredith Connell]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.7130422592163086
+[Meredith Connell]: New Zealand Transport Agency --[LOCATED]-> 50 Victoria Street 0.7137191891670227
+[Meredith Connell]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7084653377532959
+[Meredith Connell]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.6967843770980835
+[Meredith Connell]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7290421724319458
+[Meredith Connell]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.718573808670044
+[Meredith Connell]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.6988962292671204
+[Meredith Connell]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7168864011764526

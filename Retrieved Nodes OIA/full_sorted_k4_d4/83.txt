@@ -1,0 +1,31 @@
+How many driver licenses have been granted annually over the last ten years?
+None
+Seed: driver licenses
+Seed: Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019
+Seed: information related to criminal convictions of driving instructor (I) endorsement holders
+Seed: information on vehicle and driver registration and licensing
+[driver licenses]: driver licenses --[CONTAINS]-> annual data 0.874234139919281
+[driver licenses]: learners, restricted, full licenses and vehicle classes --[TREND]-> increase/decrease 0.8389438986778259
+[driver licenses]: age categories --[BREAKDOWN]-> learners, restricted, full licenses and vehicle classes 0.8205157518386841
+[driver licenses]: annual data --[BREAKDOWN]-> age categories 0.7751296162605286
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: seven non-injury crashes --[OCCURRED]-> past 10 years 0.8380675315856934
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Data --[IS]-> Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019 0.8293493986129761
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: per year --[FOR]-> road accident data 0.8259456753730774
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Driver Licence Register --[PROVIDES]-> Data 0.8075400590896606
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Alcohol and Drugs --[TESTED]-> Drivers 0.8060407638549805
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: New Zealand Transport Agency --[CONTRACTS]-> NZ Driver Licensing (1998) Limited 0.8032815456390381
+[Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019]: Drivers --[TESTED_FOR]-> Alcohol and Drugs 0.796421468257904
+[information related to criminal convictions of driving instructor (I) endorsement holders]: Michael Morrah --[REQUESTS]-> information related to criminal convictions of driving instructor (I) endorsement holders 0.8088971972465515
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[CONTRACTS]-> NZ Driver Licensing (1998) Limited 0.8032815456390381
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[ASSOCIATED]-> Review of 850 open compliance files 0.7957948446273804
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[PROVIDES]-> information on vehicle and driver registration and licensing 0.793445348739624
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[POLICY]-> publishing responses on website 0.7922572493553162
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[PROVIDES]-> response available at www.nzta.govt.nz/assets/About-us/docs/oia-2016/OIA-2621-Sharpe2.pdf 0.7906982898712158
+[information related to criminal convictions of driving instructor (I) endorsement holders]: New Zealand Transport Agency --[PROVIDES]-> vehicle kilometres travelled estimates each year for the past five years for each of the 14 NLTP areas 0.7862696051597595
+[information on vehicle and driver registration and licensing]: seven non-injury crashes --[OCCURRED]-> past 10 years 0.8380675315856934
+[information on vehicle and driver registration and licensing]: tolls --[PAID]-> each year 0.8296492099761963
+[information on vehicle and driver registration and licensing]: Data --[IS]-> Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019 0.8293493986129761
+[information on vehicle and driver registration and licensing]: Transport Service Licences --[ACTIVE_FOR]-> 5 years 0.8283382654190063
+[information on vehicle and driver registration and licensing]: per year --[FOR]-> road accident data 0.8259456753730774
+[information on vehicle and driver registration and licensing]: tolls --[SPENT]-> on various roads 0.8143150806427002
+[information on vehicle and driver registration and licensing]: tolls --[COLLECTED]-> drivers 0.8127753734588623

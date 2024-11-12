@@ -1,0 +1,11 @@
+How many potential mobile phone use offenses were detected during the hidden texting camera trial?
+None
+Seed: criminal history
+Seed: Attempted Burglary
+Seed: no notifications of offences detected by speed cameras
+Seed: one infringement for failing to comply with the instructions given by a steady red-light signal
+[criminal history]: criminal history --[PART_OF]-> fitness and propriety factors 0.7947542667388916
+[criminal history]: fit and proper person assessments --[FORM]-> criminal history 0.7980396747589111
+[Attempted Burglary]: Applicant 4 --[CONVICTED]-> Attempted Burglary 0.7914906144142151
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[RECEIVED]-> no notifications of offences detected by speed cameras 0.7633392810821533
+[one infringement for failing to comply with the instructions given by a steady red-light signal]: Waka Kotahi --[RECORDED]-> one infringement for failing to comply with the instructions given by a steady red-light signal 0.7816469073295593

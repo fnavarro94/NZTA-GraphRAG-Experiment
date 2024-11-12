@@ -1,0 +1,34 @@
+What is the abbreviation commonly used for the entity that plays a pivotal role in facilitating collaboration and providing guidance for the development and implementation of Transport Emergency Response Plans in New Zealand?
+None
+Seed: Collaboration between civil defence organizations and transport agencies
+Seed: Vital role in broader transport network of new zealand
+Seed: Primary provider of ambulance services
+Seed: Collaboration with new zealand ministry of health and local health authorities
+[Collaboration between civil defence organizations and transport agencies]: New zealand --[Has]-> Emergency transport services 0.8562363982200623
+[Collaboration between civil defence organizations and transport agencies]: New zealand --[Has]-> Transport emergency response plans 0.8553268909454346
+[Collaboration between civil defence organizations and transport agencies]: Transport agency collaboration in new zealand --[Aimed at]-> Enhancing efficiency 0.8539922833442688
+[Collaboration between civil defence organizations and transport agencies]: New zealand --[Has]-> New zealand transport agency 0.8482052683830261
+[Collaboration between civil defence organizations and transport agencies]: Waka kotahi nz transport agency --[Works collaboratively with]-> Other stakeholders 0.8441349267959595
+[Collaboration between civil defence organizations and transport agencies]: New zealand --[Has]-> Transport planning 0.8440779447555542
+[Collaboration between civil defence organizations and transport agencies]: New zealand --[Has]-> Public transport network planning 0.8386204242706299
+[Vital role in broader transport network of new zealand]: New zealand air ambulance service --[Plays]-> Vital role in broader transport network of new zealand 0.8492995500564575
+[Vital role in broader transport network of new zealand]: New zealand air ambulance service --[Is]-> Critical component of emergency medical transport system 0.8395395278930664
+[Vital role in broader transport network of new zealand]: Auckland transport --[Plays]-> Crucial role 0.8340940475463867
+[Vital role in broader transport network of new zealand]: Waka kotahi nz transport agency --[Plays]-> Crucial role 0.8326225876808167
+[Vital role in broader transport network of new zealand]: Kiwirail --[Plays]-> Crucial role 0.8298720121383667
+[Vital role in broader transport network of new zealand]: New zealand air ambulance service --[Works]-> Collaboration with new zealand ministry of health and local health authorities 0.824052631855011
+[Vital role in broader transport network of new zealand]: New zealand road safety strategy --[Designed to]-> Create safer transport environment for all road users 0.8171107769012451
+[Primary provider of ambulance services]: Wellington free ambulance --[Plays]-> Crucial role in broader transport network 0.8410199284553528
+[Primary provider of ambulance services]: Wellington free ambulance --[Collaborates with]-> Other emergency services 0.8311914205551147
+[Primary provider of ambulance services]: Wellington free ambulance --[Collaborates with]-> Healthcare providers 0.8238909244537354
+[Primary provider of ambulance services]: Wellington free ambulance --[Contributes to]-> Transport and healthcare systems 0.8198691010475159
+[Primary provider of ambulance services]: Wellington free ambulance --[Dedicated to]-> Transport to individuals experiencing medical emergencies 0.8171883225440979
+[Primary provider of ambulance services]: Wellington free ambulance --[Contributes to]-> Overall resilience 0.8137776851654053
+[Primary provider of ambulance services]: St john --[Plays role in]-> Transport and emergency medical services 0.8089572787284851
+[Collaboration with new zealand ministry of health and local health authorities]: New zealand air ambulance service --[Plays]-> Vital role in broader transport network of new zealand 0.8492995500564575
+[Collaboration with new zealand ministry of health and local health authorities]: New zealand air ambulance service --[Is]-> Critical component of emergency medical transport system 0.8395395278930664
+[Collaboration with new zealand ministry of health and local health authorities]: Auckland transport --[Plays]-> Crucial role 0.8340940475463867
+[Collaboration with new zealand ministry of health and local health authorities]: Waka kotahi nz transport agency --[Plays]-> Crucial role 0.8326225876808167
+[Collaboration with new zealand ministry of health and local health authorities]: Kiwirail --[Plays]-> Crucial role 0.8298720121383667
+[Collaboration with new zealand ministry of health and local health authorities]: New zealand air ambulance service --[Works]-> Collaboration with new zealand ministry of health and local health authorities 0.824052631855011
+[Collaboration with new zealand ministry of health and local health authorities]: New zealand road safety strategy --[Designed to]-> Create safer transport environment for all road users 0.8171107769012451

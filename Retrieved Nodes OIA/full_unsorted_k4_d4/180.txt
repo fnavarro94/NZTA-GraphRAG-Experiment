@@ -1,0 +1,36 @@
+Why will it take until 2041 to fully recover the costs of the Tākitimu Drive Toll Road?
+None
+Seed: Takitimu Drive Toll Road
+Seed: transaction costs won’t be recovered until 2041
+Seed: information on tolls and road maintenance
+Seed: 2023-24 State Highway Investment Proposal
+[Takitimu Drive Toll Road]: Takitimu Drive Toll Road --[PROVIDES]-> Toll Revenue 0.8785049915313721
+[Takitimu Drive Toll Road]: Tauranga Eastern Link Toll Road --[PROVIDES]-> Toll Revenue 0.8250727653503418
+[Takitimu Drive Toll Road]: Northern Gateway Toll Road --[PROVIDES]-> Toll Revenue 0.8073102235794067
+[Takitimu Drive Toll Road]: Northern Gateway Toll Road --[DEBT_REPAYMENT]-> 35 years 0.8416087031364441
+[Takitimu Drive Toll Road]: Northern Gateway Toll Road --[ESTIMATED_END_DATE]-> 2045 0.8710928559303284
+[transaction costs won’t be recovered until 2041]: NZTA --[PREDICTS]-> transaction costs won’t be recovered until 2041 0.8673965930938721
+[transaction costs won’t be recovered until 2041]: NZTA --[SETS]-> quality standards 0.7035126686096191
+[transaction costs won’t be recovered until 2041]: quality standards --[THROUGH]-> Maintenance Management Plan 0.7441526055335999
+[transaction costs won’t be recovered until 2041]: Maintenance Management Plan --[REPORT]-> quarterly reports 0.7584216594696045
+[transaction costs won’t be recovered until 2041]: NZTA --[PROVIDES]-> maintenance specifications 0.7443346381187439
+[transaction costs won’t be recovered until 2041]: maintenance specifications --[AVAILABLE]-> website 0.7373347878456116
+[transaction costs won’t be recovered until 2041]: scheduled tasks --[IS_REMOVED]-> website 0.736944317817688
+[transaction costs won’t be recovered until 2041]: website --[LOCATED_AT]-> www.ombudsman.parliament.nz 0.7401783466339111
+[transaction costs won’t be recovered until 2041]: personal information removed --[IS_REMOVED]-> website 0.691534698009491
+[transaction costs won’t be recovered until 2041]: responses --[PUBLISHED_ON]-> website 0.7112355828285217
+[transaction costs won’t be recovered until 2041]: website --[LINKS]-> https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf 0.7712404727935791
+[transaction costs won’t be recovered until 2041]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7448641061782837
+[transaction costs won’t be recovered until 2041]: Waka Kotahi --[FOLLOW]-> website 0.7439432144165039
+[transaction costs won’t be recovered until 2041]: personal information removed --[RELATES_TO]-> website 0.677578330039978
+[transaction costs won’t be recovered until 2041]: website --[RELATES_TO]-> Waka Kotahi 0.7280898094177246
+[transaction costs won’t be recovered until 2041]: Waka Kotahi policy --[PUBLISHED]-> website 0.7596370577812195
+[transaction costs won’t be recovered until 2041]: Waka Kotahi --[PUBLISHES]-> website 0.7162620425224304
+[transaction costs won’t be recovered until 2041]: website --[BELONGS_TO]-> Waka Kotahi 0.7329314947128296
+[transaction costs won’t be recovered until 2041]: response --[IS_PUBLISHED_ON]-> website 0.7011865973472595
+[transaction costs won’t be recovered until 2041]: response letter --[IS_PUBLISHED_ON]-> website 0.7031294703483582
+[transaction costs won’t be recovered until 2041]: policy --[APPLIES_TO]-> website 0.6856733560562134
+[transaction costs won’t be recovered until 2041]: website --[PUBLISHES]-> response 0.7031994462013245
+[transaction costs won’t be recovered until 2041]: pothole repair specifications --[FROM]-> NZTA 0.7549789547920227
+[transaction costs won’t be recovered until 2041]: https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf --[ACCESS]-> pothole repair specifications 0.7674214243888855
+[transaction costs won’t be recovered until 2041]: NZTA --[PROVIDES]-> third-party web pages 0.7184553146362305

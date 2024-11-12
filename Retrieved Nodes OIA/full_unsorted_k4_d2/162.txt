@@ -1,0 +1,36 @@
+How does NZTA handle reports of threats or attacks against driving test examiners?
+None
+Seed: Speed and Drunk Driving Enforcement
+Seed: national, regional and local road safety promotion and education campaigns
+Seed: Road Policing Activities
+Seed: breaches of rules or regulations
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[DOUBLES]-> Speed and Drunk Driving Enforcement 0.7971984148025513
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[FOCUSES_ON]-> Restraints, Impairment, Distraction, Speed 0.7951189279556274
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[PROVIDES]-> Road Policing Activities 0.8016133308410645
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[PROVIDES]-> https://www.nzta.govt.nz/assets/resources/road-policing-programme/docs/rpp-2021-24.pdf 0.8472787737846375
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[ALLOCATES]-> $1.24 billion 0.7636899352073669
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.820286750793457
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7825778722763062
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.8224998116493225
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.7875978350639343
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> list of LGWM construction contracts 0.7549930810928345
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> public transport fare policy review 0.817491352558136
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.8231441974639893
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8261119723320007
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.8084626793861389
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.8108175992965698
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[FAX]-> F 64 4 894 6100 0.7724817991256714
+[national, regional and local road safety promotion and education campaigns]: Andrew Knackstedt --[CONTACT]-> Waka Kotahi NZ Transport Agency 0.7860774993896484
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[CONTACT]-> T 64 4 894 5400 0.7729104161262512
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7832634449005127
+[national, regional and local road safety promotion and education campaigns]: Chris Marshall --[REQUESTS]-> Waka Kotahi NZ Transport Agency 0.7715561389923096
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.825971245765686
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.8255077600479126
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.8184157013893127
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[ANNOUNCED]-> Road to Zero 0.7911089062690735
+[national, regional and local road safety promotion and education campaigns]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8349337577819824
+[national, regional and local road safety promotion and education campaigns]: Road to Zero --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8023785352706909
+[national, regional and local road safety promotion and education campaigns]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7771002054214478
+[national, regional and local road safety promotion and education campaigns]: New Zealand --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7908927202224731
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.8011073470115662
+[national, regional and local road safety promotion and education campaigns]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7593606114387512

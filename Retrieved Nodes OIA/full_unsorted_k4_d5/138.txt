@@ -1,0 +1,36 @@
+Why were the amounts of the payments made to WGP withheld?
+None
+Seed: reason for withholding
+Seed: amounts of payments
+Seed: Some information has been withheld under section 9(2)(f)(iv)
+Seed: Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)
+[reason for withholding]: New Zealand Transport Agency --[PROVIDES]-> reason for withholding 0.8481088876724243
+[reason for withholding]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7539439797401428
+[reason for withholding]: New Zealand Transport Agency --[BASED]-> Wellington 0.7615920305252075
+[reason for withholding]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7584842443466187
+[reason for withholding]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.7543155550956726
+[reason for withholding]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7430774569511414
+[reason for withholding]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.7458049058914185
+[reason for withholding]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7544094324111938
+[reason for withholding]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7544240355491638
+[reason for withholding]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.7563273310661316
+[reason for withholding]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7482771277427673
+[reason for withholding]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7384375333786011
+[reason for withholding]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7460493445396423
+[reason for withholding]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7423951625823975
+[reason for withholding]: Wellington --[CONTAINS]-> Private Bag 6995 0.7629656791687012
+[reason for withholding]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7738785743713379
+[reason for withholding]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7556266188621521
+[reason for withholding]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.755118727684021
+[reason for withholding]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7461203336715698
+[reason for withholding]: 50 Victoria Street --[IN]-> Wellington 0.731224775314331
+[reason for withholding]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.7545068264007568
+[reason for withholding]: New Zealand Transport Agency --[LOCATED]-> 50 Victoria Street 0.75555419921875
+[reason for withholding]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7355071306228638
+[reason for withholding]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7294992208480835
+[reason for withholding]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7442734241485596
+[reason for withholding]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7256549596786499
+[reason for withholding]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7368078827857971
+[reason for withholding]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7445993423461914
+[reason for withholding]: New Zealand Transport Agency --[CONTACT]-> Wellington 6141 0.7474994659423828
+[reason for withholding]: Wellington 6141 --[POSTAL_ADDRESS]-> New Zealand 0.7281348705291748

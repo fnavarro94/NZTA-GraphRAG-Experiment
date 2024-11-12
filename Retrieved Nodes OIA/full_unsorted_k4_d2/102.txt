@@ -1,0 +1,36 @@
+Who is the acting National Manager responsible for the reply on Automatic Number Plate Recognition cameras?
+None
+Seed: Acting Senior Manager, Media
+Seed: no notifications of offences detected by speed cameras
+Seed: National Manager, Education and Marketing
+Seed: National correspondent
+[Acting Senior Manager, Media]: Jasmine Higginson --[IS]-> Acting Senior Manager, Media 0.7676956653594971
+[Acting Senior Manager, Media]: New Zealand Transport Agency --[EMPLOYS]-> Jasmine Higginson 0.7619385719299316
+[Acting Senior Manager, Media]: Jasmine Higginson --[CONTACT]-> jasmine.higginson@nzta.govt.nz 0.7672431468963623
+[Acting Senior Manager, Media]: Jasmine Higginson --[PHONE]-> 04 903 2315 0.7421362996101379
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[RECEIVED]-> no notifications of offences detected by speed cameras 0.7788748145103455
+[no notifications of offences detected by speed cameras]: Response --[CONTAINS]-> Waka Kotahi 0.7530713677406311
+[no notifications of offences detected by speed cameras]: response --[CONTAINS]-> Waka Kotahi 0.7624809741973877
+[no notifications of offences detected by speed cameras]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.7602119445800781
+[no notifications of offences detected by speed cameras]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.7586346864700317
+[no notifications of offences detected by speed cameras]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7417518496513367
+[no notifications of offences detected by speed cameras]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7713786959648132
+[no notifications of offences detected by speed cameras]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.7461261749267578
+[no notifications of offences detected by speed cameras]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7546575665473938
+[no notifications of offences detected by speed cameras]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.7666218280792236
+[no notifications of offences detected by speed cameras]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.7669190764427185
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7688479423522949
+[no notifications of offences detected by speed cameras]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.7640026211738586
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.7471494674682617
+[no notifications of offences detected by speed cameras]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.7549313902854919
+[no notifications of offences detected by speed cameras]: Leisa Coley --[EMPLOYED_BY]-> Waka Kotahi 0.7586393356323242
+[no notifications of offences detected by speed cameras]: Lizette Marais --[EMPLOYED_BY]-> Waka Kotahi 0.7384347915649414
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[EMPLOYS]-> Andy Knackstedt 0.7564096450805664
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[EMPLOYS]-> Qualified Staff 0.7672780752182007
+[no notifications of offences detected by speed cameras]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.7475282549858093
+[no notifications of offences detected by speed cameras]: website --[RELATES_TO]-> Waka Kotahi 0.7423912286758423
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[RESPONDS_TO]-> OIA request 0.7774762511253357
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[RESPONDS_TO]-> request 0.7659119963645935
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[PROVIDES]-> OIA-10601-response-georgina-campbell.pdf 0.7803069949150085
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[PROVIDES]-> outcome of suspension 0.7607792615890503
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[PROVIDES]-> outcome of surrendered 0.7405173778533936

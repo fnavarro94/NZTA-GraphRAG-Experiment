@@ -1,0 +1,28 @@
+What is the capital city of New Zealand, which is connected to the city home to the Te Ara I Whiti (Lightpath) project, which has transformed underutilized spaces into vibrant cycling and pedestrian pathways, by the specific rail line in New Zealand that has been enhanced as part of the government's investment in upgrading rail infrastructure to support sustainable freight solutions?
+None
+Seed: Ongoing investments in rail infrastructure
+Seed: New zealand's transport network
+Seed: Addressing transport challenges in auckland
+Seed: Significant infrastructure project
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> City rail link project 0.8859394788742065
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> City rail link 0.8798591494560242
+[Ongoing investments in rail infrastructure]: New zealand --[Has]-> Transport projects 0.8789060711860657
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Transport projects 0.8755506277084351
+[Ongoing investments in rail infrastructure]: New zealand --[Has]-> Light rail 0.8751400113105774
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Rail network 0.874698281288147
+[Ongoing investments in rail infrastructure]: New zealand --[Has]-> Developing rail network 0.8728399276733398
+[New zealand's transport network]: Road infrastructure projects --[Play crucial role in]-> New zealand's transport network 0.8651019930839539
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On enhancing road infrastructure 0.8551466464996338
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Is]-> Strategic initiative 0.8505557775497437
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Encompasses]-> Range of projects 0.8500568270683289
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Aligning transport investments 0.8463909029960632
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Development of comprehensive transport network 0.8457666039466858
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Promote sustainable transport options 0.845455527305603
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On promoting sustainable transport solutions 0.8447394371032715
+[Significant infrastructure project]: Auckland city rail link --[Is]-> Significant infrastructure project 0.8868386745452881
+[Significant infrastructure project]: Auckland city rail link --[Funded by]-> Government investment 0.876892626285553
+[Significant infrastructure project]: Auckland city rail link --[Designed to]-> Enhance rail network 0.8710666298866272
+[Significant infrastructure project]: Auckland city rail link --[Funded by]-> Public-private partnerships 0.8665469884872437
+[Significant infrastructure project]: Auckland city rail link --[Funded by]-> Local council contributions 0.8571217060089111
+[Significant infrastructure project]: Auckland city rail link --[Aims to]-> Enhance connectivity and reduce travel times 0.8567837476730347
+[Significant infrastructure project]: Auckland city rail link --[Expected to]-> Encourage use of public transport 0.851136326789856

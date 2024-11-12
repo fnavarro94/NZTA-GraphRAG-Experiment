@@ -1,0 +1,36 @@
+What region does the Northern Motorway from the country known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, provide access to?
+None
+Seed: Critical component of new zealand's transport strategy
+Seed: Socio-economic indicators
+Seed: Critical aspect of transportation planning
+Seed: Critical aspect of transport management in new zealand
+[Critical component of new zealand's transport strategy]: Road safety education --[Is]-> Critical component of new zealand's transport strategy 0.8235154747962952
+[Critical component of new zealand's transport strategy]: Nzta --[Promotes]-> Road safety education 0.7912883758544922
+[Critical component of new zealand's transport strategy]: Nzta --[Plays a pivotal role in]-> The development and implementation of these systems 0.7832670211791992
+[Critical component of new zealand's transport strategy]: Nzta --[Actively exploring]-> Connected and autonomous vehicles 0.7958652377128601
+[Critical component of new zealand's transport strategy]: Nzta --[Actively exploring]-> The potential of emerging technologies 0.7851029634475708
+[Critical component of new zealand's transport strategy]: Nzta --[Actively exploring]-> Improving road safety 0.8196865916252136
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Influenced by]-> Improving road safety 0.7613917589187622
+[Critical component of new zealand's transport strategy]: New zealand transport agency --[Primary objectives include]-> Improving road safety 0.7953939437866211
+[Critical component of new zealand's transport strategy]: Waka kotahi --[Focuses on]-> Improving road safety 0.7703138589859009
+[Critical component of new zealand's transport strategy]: New zealand --[Made strides]-> Improving road safety 0.7687219977378845
+[Critical component of new zealand's transport strategy]: Nzta --[Actively exploring]-> Enhancing traffic management capabilities 0.8327263593673706
+[Critical component of new zealand's transport strategy]: Nzta --[Works in collaboration with]-> Local councils and other stakeholders 0.7563205361366272
+[Critical component of new zealand's transport strategy]: Nzta --[Responsible for]-> Administering nltf and prioritizing projects 0.7673690319061279
+[Critical component of new zealand's transport strategy]: Nzta --[Collaborates with]-> Stakeholders 0.7549947500228882
+[Critical component of new zealand's transport strategy]: Waka kotahi --[Works with]-> Stakeholders 0.7210617065429688
+[Critical component of new zealand's transport strategy]: Nzta --[Encourages]-> Safe driving practices 0.7934630513191223
+[Critical component of new zealand's transport strategy]: New zealand police --[Promoting]-> Safe driving practices 0.7614439129829407
+[Critical component of new zealand's transport strategy]: Vienna convention on road traffic --[Promotes]-> Safe driving practices 0.761023998260498
+[Critical component of new zealand's transport strategy]: Theory test --[Assesses]-> Safe driving practices 0.7695433497428894
+[Critical component of new zealand's transport strategy]: Road safety education --[Covers]-> Safe driving practices 0.7845600247383118
+[Critical component of new zealand's transport strategy]: Diverse terrain and weather conditions --[Can complicate]-> Safe driving practices 0.7920413017272949
+[Critical component of new zealand's transport strategy]: Nzta --[Collaborates with]-> Local councils and community organizations 0.7569020986557007
+[Critical component of new zealand's transport strategy]: Road safety education --[Includes]-> Local councils and community organizations 0.7787361741065979
+[Critical component of new zealand's transport strategy]: Nzta --[Collaborates]-> With local councils and private contractors 0.7379119396209717
+[Critical component of new zealand's transport strategy]: Nzta --[Plays]-> Pivotal role in overseeing road condition monitoring activities 0.8094112873077393
+[Critical component of new zealand's transport strategy]: Nzta --[Focus on]-> Integration of technology 0.7724765539169312
+[Critical component of new zealand's transport strategy]: Nzta --[Focus on]-> Operational efficiency 0.7811474800109863
+[Critical component of new zealand's transport strategy]: Pre-audit preparation --[Improves]-> Operational efficiency 0.7351328730583191
+[Critical component of new zealand's transport strategy]: Tms --[Leads to]-> Operational efficiency 0.7479455471038818
+[Critical component of new zealand's transport strategy]: Nzta --[Play]-> Pivotal role 0.7482283115386963

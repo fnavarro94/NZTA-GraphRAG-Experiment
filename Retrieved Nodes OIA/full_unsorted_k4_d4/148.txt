@@ -1,0 +1,36 @@
+Where can data about daily traffic volumes on Hewletts Road be found?
+None
+Seed: Open Data portal for information about daily traffic volumes on Hewletts Road
+Seed: traffic counter sites on Hewletts Road
+Seed: Road Traffic Volumes
+Seed: traffic on the roads
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.908386766910553
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7891364097595215
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand Transport Agency --[BASED]-> Wellington 0.8047282099723816
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8087242841720581
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8091233968734741
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8109530806541443
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7861474752426147
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.8044382333755493
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.8087455034255981
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7929205894470215
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7946771383285522
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8003132939338684
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7914494276046753
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7842426300048828
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8120050430297852
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8145136833190918
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7974433302879333
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7795127034187317
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7897435426712036
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7690774202346802
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7903051972389221
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8068175315856934
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7563862800598145
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7882940769195557
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7813757061958313
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7895694971084595
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7674566507339478
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7856152653694153
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7892841100692749
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7847570776939392

@@ -1,0 +1,28 @@
+How has the COVID-19 pandemic affected the reporting of road crashes in 2020?
+None
+Seed: Covid-19 pandemic
+Seed: Covid-19 Pandemic
+Seed: additional costs caused by the Covid-19 pandemic
+Seed: COVID-19
+[Covid-19 pandemic]: Covid-19 pandemic --[AFFECTS]-> road crashes 0.9506544470787048
+[Covid-19 pandemic]: Covid-19 pandemic --[AFFECTS]-> traffic on the roads 0.9279564619064331
+[Covid-19 pandemic]: Covid-19 pandemic --[AFFECTS]-> road traffic 0.9233832955360413
+[Covid-19 pandemic]: Covid-19 lockdowns --[AFFECTS]-> road traffic 0.8982523679733276
+[Covid-19 pandemic]: Red level --[AFFECTS]-> traffic on the roads 0.8174712657928467
+[Covid-19 pandemic]: Orange level --[AFFECTS]-> traffic on the roads 0.8044878244400024
+[Covid-19 Pandemic]: Reporting Time Frame --[AFFECTED_BY]-> Covid-19 Pandemic 0.8924978375434875
+[Covid-19 Pandemic]: Covid-19 Pandemic --[HAS]-> 4-level Alert System 0.8560466170310974
+[Covid-19 Pandemic]: 4-level Alert System --[APPLIED]-> 21 March 2020 0.8167895674705505
+[Covid-19 Pandemic]: 4-level Alert System --[ENDED]-> 27 April 2020 0.8126268982887268
+[Covid-19 Pandemic]: Data Processing --[LAG]-> Reporting Time Frame 0.7637826204299927
+[additional costs caused by the Covid-19 pandemic]: Periodic Payments --[FOR]-> additional costs caused by the Covid-19 pandemic 0.8484885096549988
+[additional costs caused by the Covid-19 pandemic]: New Zealand Transport Agency --[PROVIDES]-> Periodic Payments 0.750546932220459
+[additional costs caused by the Covid-19 pandemic]: Out of Scope --[RELATES]-> Periodic Payments 0.7479459047317505
+[additional costs caused by the Covid-19 pandemic]: Wellington Gateway Partnership --[RECEIVES]-> Periodic Payments 0.7411018013954163
+[COVID-19]: COVID-19 --[AFFECTS]-> Road Traffic 0.8908217549324036
+[COVID-19]: COVID-19 --[CHANGED]-> Traffic Light System 0.8676449656486511
+[COVID-19]: New Zealand --[HAS_PANDEMIC]-> COVID-19 0.8639351725578308
+[COVID-19]: Road Crashes --[DECREASED]-> Lockdowns 0.8517574071884155
+[COVID-19]: Lockdowns --[CAUSED_BY]-> COVID-19 0.8320618867874146
+[COVID-19]: Road Traffic --[DECREASED]-> Lockdowns 0.8301844596862793
+[COVID-19]: Road Traffic --[AFFECTED_BY]-> Alcohol Consumption 0.8261457085609436

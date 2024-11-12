@@ -1,0 +1,34 @@
+How does Waka Kotahi manage its travel expenditure?
+None
+Seed: Waka Kotahi N Z Transport Agency
+Seed: Waka Kotahi NZ Transport Agency
+Seed: Waka Kotahi policy
+Seed: NZ Transport Agency Waka Kotahi
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi --[PROVIDES]-> flights - air travel 0.9105367064476013
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi --[LOOKING]-> to continue reducing business travel 0.9063594341278076
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi --[ENSURES]-> efficient use of public money 0.8998505473136902
+[Waka Kotahi N Z Transport Agency]: transport infrastructure --[SERVED_BY]-> Waka Kotahi 0.8988725543022156
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi --[PROVIDES]-> Transport Data 0.8946208953857422
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi --[PROVIDES]-> claimed mileage 0.8929251432418823
+[Waka Kotahi N Z Transport Agency]: Waka Kotahi --[PROTECTS]-> efficient use of public money 0.8918015956878662
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[PROVIDES]-> flights - air travel 0.9105367064476013
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[LOOKING]-> to continue reducing business travel 0.9063594341278076
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[ENSURES]-> efficient use of public money 0.8998505473136902
+[Waka Kotahi NZ Transport Agency]: transport infrastructure --[SERVED_BY]-> Waka Kotahi 0.8988725543022156
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[PROVIDES]-> Transport Data 0.8946208953857422
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[PROVIDES]-> claimed mileage 0.8929251432418823
+[Waka Kotahi NZ Transport Agency]: Waka Kotahi --[PROTECTS]-> efficient use of public money 0.8918015956878662
+[Waka Kotahi policy]: Waka Kotahi --[PROVIDES]-> flights - air travel 0.9105367064476013
+[Waka Kotahi policy]: Waka Kotahi --[LOOKING]-> to continue reducing business travel 0.9063594341278076
+[Waka Kotahi policy]: Waka Kotahi --[ENSURES]-> efficient use of public money 0.8998505473136902
+[Waka Kotahi policy]: transport infrastructure --[SERVED_BY]-> Waka Kotahi 0.8988725543022156
+[Waka Kotahi policy]: Waka Kotahi --[PROVIDES]-> Transport Data 0.8946208953857422
+[Waka Kotahi policy]: Waka Kotahi --[PROVIDES]-> claimed mileage 0.8929251432418823
+[Waka Kotahi policy]: Waka Kotahi --[PROTECTS]-> efficient use of public money 0.8918015956878662
+[NZ Transport Agency Waka Kotahi]: Waka Kotahi --[PROVIDES]-> flights - air travel 0.9105367064476013
+[NZ Transport Agency Waka Kotahi]: Waka Kotahi --[LOOKING]-> to continue reducing business travel 0.9063594341278076
+[NZ Transport Agency Waka Kotahi]: Waka Kotahi --[ENSURES]-> efficient use of public money 0.8998505473136902
+[NZ Transport Agency Waka Kotahi]: transport infrastructure --[SERVED_BY]-> Waka Kotahi 0.8988725543022156
+[NZ Transport Agency Waka Kotahi]: Waka Kotahi --[PROVIDES]-> Transport Data 0.8946208953857422
+[NZ Transport Agency Waka Kotahi]: Waka Kotahi --[PROVIDES]-> claimed mileage 0.8929251432418823
+[NZ Transport Agency Waka Kotahi]: Waka Kotahi --[PROTECTS]-> efficient use of public money 0.8918015956878662

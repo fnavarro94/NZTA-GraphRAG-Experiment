@@ -1,0 +1,36 @@
+Does Waka Kotahi NZTA have information on the weight or amount of rubbish collected along state highways?
+None
+Seed: information regarding amount of litter collected and disposed
+Seed: request for weight/amount of rubbish cleaned up
+Seed: Waka Kotahi N Z Transport Agency
+Seed: Waka Kotahi NZ Transport Agency
+[information regarding amount of litter collected and disposed]: Waka Kotahi NZ Transport Agency --[DOES_NOT_HOLD]-> information regarding amount of litter collected and disposed 0.8885825276374817
+[information regarding amount of litter collected and disposed]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.8535301685333252
+[information regarding amount of litter collected and disposed]: New Zealand Transport Agency --[BASED]-> Wellington 0.8105286359786987
+[information regarding amount of litter collected and disposed]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8111256957054138
+[information regarding amount of litter collected and disposed]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7953232526779175
+[information regarding amount of litter collected and disposed]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.8264607191085815
+[information regarding amount of litter collected and disposed]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.8025563955307007
+[information regarding amount of litter collected and disposed]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.8013490438461304
+[information regarding amount of litter collected and disposed]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8232952356338501
+[information regarding amount of litter collected and disposed]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.8253496885299683
+[information regarding amount of litter collected and disposed]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.8244002461433411
+[information regarding amount of litter collected and disposed]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.8497380018234253
+[information regarding amount of litter collected and disposed]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.8547404408454895
+[information regarding amount of litter collected and disposed]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7943528890609741
+[information regarding amount of litter collected and disposed]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7600829005241394
+[information regarding amount of litter collected and disposed]: Wellington --[CONTAINS]-> Private Bag 6995 0.7977728843688965
+[information regarding amount of litter collected and disposed]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8316758871078491
+[information regarding amount of litter collected and disposed]: Golden Mile --[LOCATED]-> Wellington 0.7840376496315002
+[information regarding amount of litter collected and disposed]: State Highway 1 --[LOCATED_IN]-> Wellington 0.8152933120727539
+[information regarding amount of litter collected and disposed]: road safety --[ENHANCED_BY]-> State Highway 1 0.7837681174278259
+[information regarding amount of litter collected and disposed]: State Highway 1 --[REPAIRS]-> potholes 0.7831217050552368
+[information regarding amount of litter collected and disposed]: Road Safety Initiatives --[IMPROVES]-> State Highway 1 0.7766404151916504
+[information regarding amount of litter collected and disposed]: road maintenance --[OVERDUE]-> State Highway 1 0.8035047054290771
+[information regarding amount of litter collected and disposed]: State Highway 1 --[OVERDUE]-> road maintenance 0.8053230047225952
+[information regarding amount of litter collected and disposed]: State Highway 1 --[IN]-> Bay of Plenty 0.8021885752677917
+[information regarding amount of litter collected and disposed]: State Highway 1 --[IMPROVES]-> safety 0.7720264196395874
+[information regarding amount of litter collected and disposed]: 100M --[ALLOCATED_FOR]-> State Highway 1 0.8008601069450378
+[information regarding amount of litter collected and disposed]: State Highway 1 --[IS_PART_OF]-> New Zealand 0.8237822651863098
+[information regarding amount of litter collected and disposed]: road maintenance --[ASSOCIATED_WITH]-> State Highway 1 0.7994911074638367
+[information regarding amount of litter collected and disposed]: funding for road maintenance --[FOR]-> State Highway 1 0.8076574802398682

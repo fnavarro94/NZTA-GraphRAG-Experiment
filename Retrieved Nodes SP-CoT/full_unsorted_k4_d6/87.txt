@@ -1,0 +1,36 @@
+I'm sorry, but the raw question you provided is incomplete. Could you please provide the missing information so I can form a complete and accurate natural question for you?
+None
+Seed: Paramount importance
+Seed: Cultural factors
+Seed: Ecological factors
+Seed: Environmental concerns
+[Paramount importance]: Road infrastructure resilience --[Is]-> Paramount importance 0.7861039042472839
+[Paramount importance]: Road infrastructure resilience --[Encompasses]-> Technological innovation 0.7580190300941467
+[Paramount importance]: Road infrastructure resilience --[Refers to]-> Capacity of road networks 0.7579627633094788
+[Paramount importance]: Road infrastructure resilience --[Emphasizes]-> Community engagement 0.7673280239105225
+[Paramount importance]: Auckland cycling network plan --[Primary objectives]-> Community engagement 0.7594065070152283
+[Paramount importance]: Auckland cycling network plan --[Seeks to]-> Create cycling network 0.7352834939956665
+[Paramount importance]: Auckland cycling network plan --[Developed by]-> Auckland transport 0.7315731048583984
+[Paramount importance]: Auckland transport --[Has]-> Vision to support growth 0.712700605392456
+[Paramount importance]: Auckland transport --[Has]-> Vision to minimize environmental impact 0.7241554260253906
+[Paramount importance]: Auckland transport --[Has]-> Vision to create efficient transport system 0.727719783782959
+[Paramount importance]: Auckland transport --[Has]-> Vision to create integrated transport system 0.7225135564804077
+[Paramount importance]: Auckland transport --[Has]-> Long-term vision 0.7409348487854004
+[Paramount importance]: New zealand transport strategy --[Outlines]-> Long-term vision 0.7314188480377197
+[Paramount importance]: Auckland transport --[Has]-> Vision to create safe transport system 0.7164162397384644
+[Paramount importance]: Auckland transport --[Focused on]-> Promoting active transport modes 0.7471237778663635
+[Paramount importance]: Auckland transport --[Focused on]-> Promoting cycling 0.7289342880249023
+[Paramount importance]: Auckland transport --[Focused on]-> Promoting walking 0.7293745875358582
+[Paramount importance]: Auckland transport --[Is]-> Primary agency 0.7355473041534424
+[Paramount importance]: Waka kotahi --[Is]-> Primary agency 0.7551668882369995
+[Paramount importance]: Auckland transport --[Implemented]-> Cycling infrastructure projects 0.745307981967926
+[Paramount importance]: Auckland transport --[Implemented]-> Dedicated bike lanes 0.7434806227684021
+[Paramount importance]: Sustainable urban transport --[Key component]-> Dedicated bike lanes 0.7652208805084229
+[Paramount importance]: Auckland transport --[Implemented]-> Cycleways 0.7368077039718628
+[Paramount importance]: Christchurch --[Served by]-> Cycleways 0.7358917593955994
+[Paramount importance]: Auckland transport --[Introduced]-> Auckland integrated ticketing system 0.7222164869308472
+[Paramount importance]: Auckland transport --[Responsible for]-> Managing public transport services 0.7272199392318726
+[Paramount importance]: Greater wellington regional council --[Responsible for]-> Managing public transport services 0.7248557806015015
+[Paramount importance]: Auckland transport --[Responsible for]-> Development 0.7507584095001221
+[Paramount importance]: Waka kotahi --[Plays crucial role in]-> Development 0.7609972953796387
+[Paramount importance]: Kiwirail --[Involved in]-> Development 0.7675031423568726

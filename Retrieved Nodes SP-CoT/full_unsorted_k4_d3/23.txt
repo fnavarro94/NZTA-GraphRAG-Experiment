@@ -1,0 +1,36 @@
+What city does State Highway 3 (SH3) connect to the western regions from, which is located at the southern end of the Waikato Expressway, improving travel times and safety to Auckland?
+None
+Seed: Waikato expressway
+Seed: State highway 3
+Seed: Significant transport corridor
+Seed: City to waikato region
+[Waikato expressway]: Waikato expressway --[Is part of]-> National land transport programme 0.8589686155319214
+[Waikato expressway]: National land transport programme --[Is]-> Key component of new zealand's transport planning framework 0.801365077495575
+[Waikato expressway]: National land transport programme --[Updated]-> Every three years 0.7662650346755981
+[Waikato expressway]: National land transport programme --[Promotes]-> Environmental sustainability 0.7289568185806274
+[Waikato expressway]: Government objectives --[Include]-> Environmental sustainability 0.7019863724708557
+[Waikato expressway]: Waka kotahi --[Contributes to]-> Environmental sustainability 0.753402829170227
+[Waikato expressway]: Sustainable urban transport --[Key component]-> Environmental sustainability 0.7375513911247253
+[Waikato expressway]: Vehicle technology advancements --[Enhanced]-> Environmental sustainability 0.7244423627853394
+[Waikato expressway]: Environmental sustainability --[Has become]-> Key consideration in road infrastructure development 0.7489607334136963
+[Waikato expressway]: Smart mobility solutions --[Address]-> Environmental sustainability 0.7242863178253174
+[Waikato expressway]: New zealand --[Address]-> Environmental sustainability 0.783110499382019
+[Waikato expressway]: National land transport programme --[Supports]-> Economic growth 0.7384175062179565
+[Waikato expressway]: Government objectives --[Include]-> Economic growth 0.7099764943122864
+[Waikato expressway]: Kiwirail group --[Promotes]-> Economic growth 0.7555652856826782
+[Waikato expressway]: Waka kotahi --[Contributes to]-> Economic growth 0.7617743015289307
+[Waikato expressway]: Auckland western ring route --[Supports]-> Economic growth 0.8403171300888062
+[Waikato expressway]: Transport infrastructure development --[Is crucial for]-> Economic growth 0.7546868920326233
+[Waikato expressway]: Freight transport --[Essential for]-> Economic growth 0.7265280485153198
+[Waikato expressway]: Road infrastructure --[Is vital for]-> Economic growth 0.7661481499671936
+[Waikato expressway]: National land transport programme --[Is]-> Key framework 0.7429618835449219
+[Waikato expressway]: National land transport programme --[Aims to]-> Enhance sustainability 0.7386755347251892
+[Waikato expressway]: National land transport programme --[Aims to]-> Enhance efficiency 0.7416977286338806
+[Waikato expressway]: National land transport programme --[Developed by]-> Waka kotahi nz transport agency 0.8091636896133423
+[Waikato expressway]: Waka kotahi nz transport agency --[Responsible for]-> Managing national land transport system 0.8044674396514893
+[Waikato expressway]: New zealand traffic control devices manual --[Published by]-> Waka kotahi nz transport agency 0.8131225109100342
+[Waikato expressway]: Waka kotahi nz transport agency --[Established under]-> Land transport management act 2003 0.8144698143005371
+[Waikato expressway]: Waka kotahi nz transport agency --[Aims to create]-> Safe transport system 0.8062549829483032
+[Waikato expressway]: Waka kotahi nz transport agency --[Ensures]-> Transport network is efficient 0.8095428943634033
+[Waikato expressway]: Waka kotahi nz transport agency --[Involved in]-> Developing innovative transport solutions 0.8174552321434021
+[Waikato expressway]: Waka kotahi nz transport agency --[Focused on]-> Climate change 0.8029302358627319

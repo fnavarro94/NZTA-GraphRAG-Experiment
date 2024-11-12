@@ -1,0 +1,36 @@
+Who is responsible for enforcing the Health and Safety at Work Act in the country that has a comprehensive framework of transport safety regulations covering road, rail, maritime, and aviation?
+None
+Seed: Health and safety at work act 2015
+Seed: Health and safety at work act
+Seed: Legislative framework for road safety initiatives
+Seed: Enforcement of road safety regulations
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Emphasizes]-> Importance of proactive risk management 0.8449850082397461
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Introduced]-> Robust approach to workplace safety 0.84010910987854
+[Health and safety at work act 2015]: Health and safety at work act 2015 --[Applies to]-> Road transport 0.8774207830429077
+[Health and safety at work act 2015]: Road transport --[Uses]-> Gps for navigation and route optimization 0.7602869272232056
+[Health and safety at work act 2015]: Kiwirail group --[Committed to]-> Road transport 0.7907572984695435
+[Health and safety at work act 2015]: Kiwirail group --[Is]-> State-owned enterprise 0.7715532183647156
+[Health and safety at work act 2015]: Kiwirail --[Is]-> State-owned enterprise 0.7805757522583008
+[Health and safety at work act 2015]: Kiwirail --[Operates]-> Great journeys of new zealand 0.7693213224411011
+[Health and safety at work act 2015]: Kiwirail --[Operates]-> Freight route 0.7988718748092651
+[Health and safety at work act 2015]: Kiwirail --[Transports]-> Manufactured items 0.7719059586524963
+[Health and safety at work act 2015]: North island main trunk line --[Supports]-> Manufactured items 0.7513316869735718
+[Health and safety at work act 2015]: Kiwirail --[Operates]-> Northern explorer 0.7654955387115479
+[Health and safety at work act 2015]: Northern explorer --[Runs]-> Wellington 0.7201083302497864
+[Health and safety at work act 2015]: Northern explorer --[Offers]-> North island's landscapes 0.702915608882904
+[Health and safety at work act 2015]: Northern explorer --[Offers]-> Stunning views 0.6953530311584473
+[Health and safety at work act 2015]: Northern explorer --[Runs]-> Auckland 0.7242534756660461
+[Health and safety at work act 2015]: North island main trunk line --[Supports]-> Northern explorer 0.7514302730560303
+[Health and safety at work act 2015]: Kiwirail group --[Known for]-> Northern explorer 0.743086576461792
+[Health and safety at work act 2015]: Northern explorer --[Is]-> Scenic train 0.730955958366394
+[Health and safety at work act 2015]: North island main trunk line --[Operated by]-> Kiwirail 0.7589699029922485
+[Health and safety at work act 2015]: North island main trunk line --[Focus]-> Improve efficiency 0.7411240935325623
+[Health and safety at work act 2015]: North island main trunk line --[Enhances]-> Regional development 0.7371145486831665
+[Health and safety at work act 2015]: North island main trunk line --[Plays]-> Significant role 0.7724171876907349
+[Health and safety at work act 2015]: North island main trunk line --[Serves]-> Freight services 0.7578917145729065
+[Health and safety at work act 2015]: North island main trunk line --[Enhances]-> Connectivity 0.7271108627319336
+[Health and safety at work act 2015]: North island main trunk line --[Construction began]-> 1880s 0.7411531209945679
+[Health and safety at work act 2015]: North island main trunk line --[Supports]-> Freight services 0.7603055834770203
+[Health and safety at work act 2015]: North island main trunk line --[Enhances]-> Sustainability 0.751860499382019
+[Health and safety at work act 2015]: North island main trunk line --[Focus]-> Investment 0.7365502119064331
+[Health and safety at work act 2015]: North island main trunk line --[Facilitates]-> Economic activity 0.7623000144958496

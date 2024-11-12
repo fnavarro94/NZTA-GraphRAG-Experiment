@@ -1,0 +1,36 @@
+How can someone challenge a decision made under the Official Information Act?
+None
+Seed: I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.
+Seed: decision making
+Seed: public interest in seeking and receiving confidential legal advice
+Seed: seeking and receiving confidential legal advice
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. --[OFFICIAL_INFORMATION]-> I am refusing this part of your request under section 18(d) of the Act as the information is publicly available. 0.8088490962982178
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: I will respond to each of your questions in turn. --[OFFICIAL_INFORMATION]-> 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. 0.8029297590255737
+[decision making]: feedback --[CONTRIBUTES_TO]-> decision making 0.7780090570449829
+[decision making]: feedback --[IS_RESOLVED]-> issues 0.736014187335968
+[decision making]: communities --[PROVIDES]-> feedback 0.7345631122589111
+[decision making]: Waka Kotahi --[PROVIDES]-> feedback 0.740167498588562
+[decision making]: consultation --[SEEKS]-> feedback 0.7932559251785278
+[decision making]: feedback --[FROM]-> community 0.7353999018669128
+[decision making]: decision making --[PART_OF]-> speed review process 0.8000133037567139
+[decision making]: speed review process --[INVOLVES]-> stakeholders 0.7823472023010254
+[decision making]: consultation --[PART_OF]-> speed review process 0.7830037474632263
+[decision making]: Waka Kotahi --[CONDUCTS]-> speed review process 0.7504358887672424
+[decision making]: Setting of Speed Limits Rule 2017 --[APPLIES_TO]-> speed review process 0.779230535030365
+[decision making]: speed review process --[AFFECTS]-> communities 0.7604556083679199
+[decision making]: speed review process --[AFFECTS]-> road safety 0.7738363146781921
+[decision making]: speed review process --[REQUIRES]-> consultation 0.799062967300415
+[public interest in seeking and receiving confidential legal advice]: Waka Kotahi --[ACKNOWLEDGES]-> public interest in seeking and receiving confidential legal advice 0.7796735763549805
+[public interest in seeking and receiving confidential legal advice]: Response --[CONTAINS]-> Waka Kotahi 0.7946222424507141
+[public interest in seeking and receiving confidential legal advice]: response --[CONTAINS]-> Waka Kotahi 0.7671080827713013
+[public interest in seeking and receiving confidential legal advice]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.782163143157959
+[public interest in seeking and receiving confidential legal advice]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.752490758895874
+[public interest in seeking and receiving confidential legal advice]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7386053800582886
+[public interest in seeking and receiving confidential legal advice]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7419291138648987
+[public interest in seeking and receiving confidential legal advice]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.7225188612937927
+[public interest in seeking and receiving confidential legal advice]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7116789817810059
+[public interest in seeking and receiving confidential legal advice]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.7724026441574097
+[public interest in seeking and receiving confidential legal advice]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.7589483261108398
+[public interest in seeking and receiving confidential legal advice]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7533487677574158
+[public interest in seeking and receiving confidential legal advice]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.7679954171180725
+[public interest in seeking and receiving confidential legal advice]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.7222620844841003

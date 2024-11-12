@@ -1,0 +1,36 @@
+How many sick days were taken by permanent staff since March 2015?
+None
+Seed: sick days taken by full-time permanent staff
+Seed: sick leave data
+Seed: 2015
+Seed: Employee Assistance Programme
+[sick days taken by full-time permanent staff]: New Zealand Transport Agency --[PROVIDES]-> sick days taken by full-time permanent staff 0.8707587718963623
+[sick days taken by full-time permanent staff]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7374218106269836
+[sick days taken by full-time permanent staff]: New Zealand Transport Agency --[BASED]-> Wellington 0.7406212687492371
+[sick days taken by full-time permanent staff]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7621355056762695
+[sick days taken by full-time permanent staff]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.7647665143013
+[sick days taken by full-time permanent staff]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7453796863555908
+[sick days taken by full-time permanent staff]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.7577944993972778
+[sick days taken by full-time permanent staff]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7547335624694824
+[sick days taken by full-time permanent staff]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7563632726669312
+[sick days taken by full-time permanent staff]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.7555466890335083
+[sick days taken by full-time permanent staff]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7552976608276367
+[sick days taken by full-time permanent staff]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.753105103969574
+[sick days taken by full-time permanent staff]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7480096817016602
+[sick days taken by full-time permanent staff]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7533369064331055
+[sick days taken by full-time permanent staff]: Wellington --[CONTAINS]-> Private Bag 6995 0.7547395825386047
+[sick days taken by full-time permanent staff]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7642467021942139
+[sick days taken by full-time permanent staff]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7487810850143433
+[sick days taken by full-time permanent staff]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.7523684501647949
+[sick days taken by full-time permanent staff]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7344779968261719
+[sick days taken by full-time permanent staff]: 50 Victoria Street --[IN]-> Wellington 0.7256636023521423
+[sick days taken by full-time permanent staff]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.752151370048523
+[sick days taken by full-time permanent staff]: New Zealand Transport Agency --[LOCATED]-> 50 Victoria Street 0.7460054159164429
+[sick days taken by full-time permanent staff]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7408896684646606
+[sick days taken by full-time permanent staff]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7367053627967834
+[sick days taken by full-time permanent staff]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7321082949638367
+[sick days taken by full-time permanent staff]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.719476580619812
+[sick days taken by full-time permanent staff]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7321336269378662
+[sick days taken by full-time permanent staff]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7383713722229004
+[sick days taken by full-time permanent staff]: New Zealand Transport Agency --[CONTACT]-> Wellington 6141 0.7442697286605835
+[sick days taken by full-time permanent staff]: Wellington 6141 --[POSTAL_ADDRESS]-> New Zealand 0.7245560884475708

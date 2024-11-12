@@ -1,0 +1,36 @@
+In what year did the legislation overseen by the Transport and Infrastructure Committee in relation to road safety come into effect in New Zealand?
+None
+Seed: Legislative framework for road safety initiatives
+Seed: Significant shift in new zealand's approach to road safety
+Seed: Road safety legislation
+Seed: New zealand's road safety initiatives
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Provides]-> Legislative framework for road safety initiatives 0.8685125708580017
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Reflected in]-> Land transport act 1998 0.8495038151741028
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Aiming to]-> Reduce road traffic accidents and fatalities 0.8280630707740784
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Emphasis on]-> Standardized road signs and signals 0.7914724946022034
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Aimed at]-> Facilitating international road traffic 0.8165378570556641
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Integrated into]-> New zealand's national road traffic laws 0.8745287656784058
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Ratified by]-> Numerous countries 0.8024494647979736
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Aimed at]-> Promoting road safety 0.833633303642273
+[Legislative framework for road safety initiatives]: Road safety authority --[Responsible for]-> Promoting road safety 0.8504292964935303
+[Legislative framework for road safety initiatives]: Road safety authority --[Collaborates with]-> Law enforcement agencies 0.8165005445480347
+[Legislative framework for road safety initiatives]: Road safety authority --[Operates under]-> Ministry of transport 0.8531855344772339
+[Legislative framework for road safety initiatives]: Ministry of transport --[Develops]-> National transport policies 0.7978034615516663
+[Legislative framework for road safety initiatives]: Ministry of transport --[Oversees]-> Rail 0.7977536916732788
+[Legislative framework for road safety initiatives]: Ministry of transport --[Works with]-> New zealand transport agency 0.8310365676879883
+[Legislative framework for road safety initiatives]: Ministry of transport --[Oversees]-> Maritime 0.7929034233093262
+[Legislative framework for road safety initiatives]: Ministry of transport --[Oversees]-> Road 0.8309926986694336
+[Legislative framework for road safety initiatives]: New zealand transport agency --[Operates under]-> Ministry of transport 0.8549250960350037
+[Legislative framework for road safety initiatives]: Ministry of transport --[Collaborates with]-> Community groups 0.7852728962898254
+[Legislative framework for road safety initiatives]: Ministry of transport --[Collaborates with]-> Local government 0.780744194984436
+[Legislative framework for road safety initiatives]: Ministry of transport --[Oversees]-> Maritime transport 0.8006919026374817
+[Legislative framework for road safety initiatives]: Ministry of transport --[Oversees]-> Road transport 0.8402748107910156
+[Legislative framework for road safety initiatives]: Ministry of transport --[Established in]-> 1962 0.8057058453559875
+[Legislative framework for road safety initiatives]: Ministry of transport --[Responsible for]-> Transport policy 0.8125847578048706
+[Legislative framework for road safety initiatives]: Ministry of transport --[Manages]-> Transport system 0.7994577884674072
+[Legislative framework for road safety initiatives]: Ministry of transport --[Oversees]-> Aviation 0.7941164374351501
+[Legislative framework for road safety initiatives]: Ministry of transport --[Collaborates with]-> Industry representatives 0.7847645282745361
+[Legislative framework for road safety initiatives]: Ministry of transport --[Collaborates with]-> Transport agencies 0.781208336353302
+[Legislative framework for road safety initiatives]: Ministry of transport --[Is]-> Government agency 0.7911244630813599
+[Legislative framework for road safety initiatives]: Ministry of transport --[Oversees]-> Public transport 0.8160321712493896
+[Legislative framework for road safety initiatives]: Ministry of transport --[Oversees]-> Transport sector 0.8169773817062378

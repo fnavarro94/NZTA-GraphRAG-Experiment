@@ -1,0 +1,36 @@
+What is the reason for the toll on the Northern Gateway Toll Road?
+None
+Seed: Northern Gateway Toll Road
+Seed: information on tolls and road maintenance
+Seed: toll roads
+Seed: toll tariffs
+[Northern Gateway Toll Road]: Northern Gateway Toll Road --[PROVIDES]-> Toll Revenue 0.9063264727592468
+[Northern Gateway Toll Road]: Tauranga Eastern Link Toll Road --[PROVIDES]-> Toll Revenue 0.8330012559890747
+[Northern Gateway Toll Road]: Takitimu Drive Toll Road --[PROVIDES]-> Toll Revenue 0.8257232904434204
+[Northern Gateway Toll Road]: Northern Gateway Toll Road --[DEBT_REPAYMENT]-> 35 years 0.8850504159927368
+[Northern Gateway Toll Road]: Northern Gateway Toll Road --[ESTIMATED_END_DATE]-> 2045 0.9006482362747192
+[information on tolls and road maintenance]: response from New Zealand Transport Agency --[CONTAINS]-> information on tolls and road maintenance 0.8385605216026306
+[information on tolls and road maintenance]: Sam Kelway --[RECEIVES]-> response from New Zealand Transport Agency 0.8042090535163879
+[information on tolls and road maintenance]: New Zealand Transport Agency --[RESPONDS]-> Sam Kelway 0.8139613270759583
+[information on tolls and road maintenance]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8004127740859985
+[information on tolls and road maintenance]: New Zealand Transport Agency --[BASED]-> Wellington 0.797516942024231
+[information on tolls and road maintenance]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7757678627967834
+[information on tolls and road maintenance]: Golden Mile --[LOCATED]-> Wellington 0.7557749152183533
+[information on tolls and road maintenance]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7908410429954529
+[information on tolls and road maintenance]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7396441102027893
+[information on tolls and road maintenance]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7455534934997559
+[information on tolls and road maintenance]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7601174712181091
+[information on tolls and road maintenance]: Wellington --[PART_OF]-> Wellington Region 0.7610639333724976
+[information on tolls and road maintenance]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7824492454528809
+[information on tolls and road maintenance]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.8072512149810791
+[information on tolls and road maintenance]: Wellington --[HAS]-> tunnel 0.7994413375854492
+[information on tolls and road maintenance]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7651275396347046
+[information on tolls and road maintenance]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7696807384490967
+[information on tolls and road maintenance]: Wellington --[POSTCODE]-> 6141 0.7579209208488464
+[information on tolls and road maintenance]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7942721843719482
+[information on tolls and road maintenance]: Wellington --[IS_PART_OF]-> New Zealand 0.762071430683136
+[information on tolls and road maintenance]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7831283211708069
+[information on tolls and road maintenance]: 50 Victoria Street --[IN]-> Wellington 0.7556655406951904
+[information on tolls and road maintenance]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7412405610084534
+[information on tolls and road maintenance]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7630941867828369
+[information on tolls and road maintenance]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7681484222412109

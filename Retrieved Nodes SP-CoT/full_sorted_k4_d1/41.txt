@@ -1,0 +1,10 @@
+What is the abbreviation for the national law enforcement agency responsible for maintaining public safety and order in New Zealand, who is primarily responsible for the enforcement of road traffic laws in New Zealand?
+None
+Seed: Enforcement of road traffic laws
+Seed: National law enforcement agency
+Seed: Legal framework for enforcement of road rules
+Seed: Enforcement of road safety regulations
+[Enforcement of road traffic laws]: New zealand police --[Responsible for]-> Enforcement of road traffic laws 0.9140580296516418
+[National law enforcement agency]: New zealand police --[Is]-> National law enforcement agency 0.9138756990432739
+[Legal framework for enforcement of road rules]: Land transport act 1998 --[Establishes]-> Legal framework for enforcement of road rules 0.8242971897125244
+[Enforcement of road safety regulations]: Vehicle registration --[Helps]-> Enforcement of road safety regulations 0.8219455480575562

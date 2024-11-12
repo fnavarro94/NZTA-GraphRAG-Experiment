@@ -1,0 +1,36 @@
+Does Waka Kotahi NZTA have information on the weight or amount of rubbish collected along state highways?
+None
+Seed: information regarding amount of litter collected and disposed
+Seed: request for weight/amount of rubbish cleaned up
+Seed: Waka Kotahi N Z Transport Agency
+Seed: Waka Kotahi NZ Transport Agency
+[information regarding amount of litter collected and disposed]: Waka Kotahi NZ Transport Agency --[DOES_NOT_HOLD]-> information regarding amount of litter collected and disposed 0.8885825276374817
+[information regarding amount of litter collected and disposed]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.8535301685333252
+[information regarding amount of litter collected and disposed]: New Zealand Transport Agency --[BASED]-> Wellington 0.8105286359786987
+[information regarding amount of litter collected and disposed]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8111256957054138
+[information regarding amount of litter collected and disposed]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7953232526779175
+[information regarding amount of litter collected and disposed]: Golden Mile --[LOCATED]-> Wellington 0.7840376496315002
+[information regarding amount of litter collected and disposed]: State Highway 1 --[LOCATED_IN]-> Wellington 0.8152933120727539
+[information regarding amount of litter collected and disposed]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7762671113014221
+[information regarding amount of litter collected and disposed]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.8035964369773865
+[information regarding amount of litter collected and disposed]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7823758125305176
+[information regarding amount of litter collected and disposed]: Wellington --[PART_OF]-> Wellington Region 0.7848539352416992
+[information regarding amount of litter collected and disposed]: New Zealand --[HAS_CAPITAL]-> Wellington 0.8081735372543335
+[information regarding amount of litter collected and disposed]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7723355889320374
+[information regarding amount of litter collected and disposed]: Wellington --[HAS]-> tunnel 0.7966222167015076
+[information regarding amount of litter collected and disposed]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.8537635803222656
+[information regarding amount of litter collected and disposed]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.8013490438461304
+[information regarding amount of litter collected and disposed]: Wellington --[POSTCODE]-> 6141 0.766003429889679
+[information regarding amount of litter collected and disposed]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.8102293014526367
+[information regarding amount of litter collected and disposed]: Wellington --[IS_PART_OF]-> New Zealand 0.788873016834259
+[information regarding amount of litter collected and disposed]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7691939473152161
+[information regarding amount of litter collected and disposed]: 50 Victoria Street --[IN]-> Wellington 0.7754330635070801
+[information regarding amount of litter collected and disposed]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7791422009468079
+[information regarding amount of litter collected and disposed]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.762407124042511
+[information regarding amount of litter collected and disposed]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7763326168060303
+[information regarding amount of litter collected and disposed]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.8452163934707642
+[information regarding amount of litter collected and disposed]: NZ Transport Agency --[LOCATED]-> Wellington 0.812321126461029
+[information regarding amount of litter collected and disposed]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7902929782867432
+[information regarding amount of litter collected and disposed]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7735506892204285
+[information regarding amount of litter collected and disposed]: New Zealand --[CONTAINS]-> Wellington 0.8015825152397156
+[information regarding amount of litter collected and disposed]: Wellington --[PART_OF]-> New Zealand 0.7932449579238892

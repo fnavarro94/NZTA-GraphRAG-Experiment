@@ -1,0 +1,11 @@
+What is the purpose of the Road Policing fiscally neutral adjustment request made in April 2024?
+None
+Seed: Request for road policing fiscally neutral adjustment
+Seed: road traffic control purposes
+Seed: Road Policing Activities
+Seed: https://www.nzta.govt.nz/assets/resources/road-policing-programme/docs/rpp-2021-24.pdf
+[Request for road policing fiscally neutral adjustment]: BRI-3024 --[RELATES_TO]-> Request for road policing fiscally neutral adjustment 0.9048925638198853
+[road traffic control purposes]: retroreflective sheeting --[USED]-> road traffic control purposes 0.8157439231872559
+[road traffic control purposes]: road traffic control purposes --[RELATES]-> retroreflective sheeting 0.8114643096923828
+[Road Policing Activities]: Road Safety Partnership Programme --[PROVIDES]-> Road Policing Activities 0.8223717212677002
+[https://www.nzta.govt.nz/assets/resources/road-policing-programme/docs/rpp-2021-24.pdf]: Road Safety Partnership Programme --[PROVIDES]-> https://www.nzta.govt.nz/assets/resources/road-policing-programme/docs/rpp-2021-24.pdf 0.8226243257522583

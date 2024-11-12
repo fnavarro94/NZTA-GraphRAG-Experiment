@@ -1,0 +1,34 @@
+How does the NZ Transport Agency handle privacy concerns when sharing information about driver tests?
+None
+Seed: individual privacy
+Seed: Place to which the public have access with a motor vehicle
+Seed: why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’
+Seed: information on visiting drivers survey
+[individual privacy]: driver's licence test statistics --[PROTECTED]-> individual privacy 0.8989565372467041
+[individual privacy]: individual privacy --[APPLIED]-> driver's licence test statistics 0.8852270841598511
+[individual privacy]: NZ Driver Licensing (1998) Limited --[PROVIDES]-> spreadsheet 0.8700799942016602
+[individual privacy]: driver's licence test data --[PROVIDED]-> spreadsheet 0.8424962759017944
+[individual privacy]: Driving Tests Data.xlsx --[PROVIDES]-> driver's licence test statistics 0.8310308456420898
+[individual privacy]: spreadsheet --[CONTAINS]-> Driving Tests Data.xlsx 0.797585666179657
+[individual privacy]: spreadsheet --[CONTAINS]-> incident reports 0.7547789812088013
+[Place to which the public have access with a motor vehicle]: Transport Agency --[FOCUSED_ON]-> commerical operators privacy 0.8980041742324829
+[Place to which the public have access with a motor vehicle]: information --[PROVIDES]-> New Zealand Transport Agency 0.8950907588005066
+[Place to which the public have access with a motor vehicle]: New Zealand Transport Agency --[PROVIDES]-> information 0.8883489966392517
+[Place to which the public have access with a motor vehicle]: Transport Agency --[PROVIDES_ACCESS]-> information 0.8703738451004028
+[Place to which the public have access with a motor vehicle]: www.ombudsman.parliament.nz --[PROVIDES]-> Transport Agency 0.8672676086425781
+[Place to which the public have access with a motor vehicle]: Transport Agency --[WITHHOLDS]-> information 0.8670302629470825
+[Place to which the public have access with a motor vehicle]: RideMate --[TESTED]-> Transport Agency 0.8639757633209229
+[why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’]: Transport Agency --[FOCUSED_ON]-> commerical operators privacy 0.8980041742324829
+[why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’]: information --[PROVIDES]-> New Zealand Transport Agency 0.8950907588005066
+[why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’]: New Zealand Transport Agency --[PROVIDES]-> information 0.8883489966392517
+[why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’]: enquiry --[ASKS]-> why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’ 0.8794654011726379
+[why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’]: New Zealand Transport Agency --[PROVIDES]-> contact details 0.8793557286262512
+[why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’]: New Zealand Transport Agency --[PROVIDES]-> www.ombudsman.parliament.nz 0.8731783628463745
+[why private hire services such as Uber can operate when New Zealand taxis are ‘rigorously regulated’]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8708646893501282
+[information on visiting drivers survey]: New Zealand Transport Agency --[PROTECTS]-> privacy of natural persons 0.917756974697113
+[information on visiting drivers survey]: New Zealand Transport Agency --[PROVIDES]-> information on visiting drivers survey 0.9066222906112671
+[information on visiting drivers survey]: New Zealand Transport Agency --[PROTECTS]-> privacy of deceased natural persons 0.9065895676612854
+[information on visiting drivers survey]: questions and responses --[FROM]-> NZ Transport Agency 0.9035854339599609
+[information on visiting drivers survey]: New Zealand Transport Agency --[PROVIDES]-> information on vehicle and driver registration and licensing 0.8991758823394775
+[information on visiting drivers survey]: Transport Agency --[FOCUSED_ON]-> commerical operators privacy 0.8980041742324829
+[information on visiting drivers survey]: information --[PROVIDES]-> New Zealand Transport Agency 0.8950907588005066

@@ -1,0 +1,36 @@
+What action can an individual take if they wish to contest the decision to refuse their request?
+None
+Seed: decision to refuse request
+Seed: refusal of request
+Seed: I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.
+Seed: public interest in seeking and receiving confidential legal advice
+[decision to refuse request]: request --[REFUSED]-> decision to refuse request 0.8788845539093018
+[decision to refuse request]: request --[RELATES_TO]-> section 18(e) of the Act 0.8113937377929688
+[decision to refuse request]: section 18(e) of the Act --[EXEMPTS]-> information requested 0.8007302284240723
+[decision to refuse request]: information requested --[DOES_NOT_EXIST]-> scheduled tasks 0.763297975063324
+[decision to refuse request]: scheduled tasks --[IS_REMOVED]-> website 0.7321560382843018
+[decision to refuse request]: information requested --[REQUESTED_BY]-> requester name 0.7717471122741699
+[decision to refuse request]: requester name --[SUBMITTED]-> submission date 0.7499260902404785
+[decision to refuse request]: response to OIA request --[PROVIDES]-> information requested 0.7738621830940247
+[decision to refuse request]: oia-9194-response.pdf --[CONTAINS]-> response to OIA request 0.7545503377914429
+[decision to refuse request]: New Zealand Transport Agency --[PROVIDES]-> response to OIA request 0.758662223815918
+[decision to refuse request]: request --[REFUSED]-> section 18(e) of the Act 0.8439611196517944
+[decision to refuse request]: request --[RELATES_TO]-> section 28 of the Act 0.8031849265098572
+[decision to refuse request]: section 28 of the Act --[GRANTS]-> right to ask the Ombudsman to review 0.7946593761444092
+[decision to refuse request]: decision to refuse request --[BASED_ON]-> section 28 of the Act 0.8774951696395874
+[decision to refuse request]: decision --[REFUSES]-> request 0.8516695499420166
+[decision to refuse request]: Ombudsman --[REVIEW_REQUEST]-> decision 0.823549747467041
+[decision to refuse request]: request --[REFUSE]-> decision 0.899573802947998
+[decision to refuse request]: decision --[REVIEW]-> Ombudsman 0.80431067943573
+[decision to refuse request]: decision --[REFUSE]-> request 0.8785701394081116
+[decision to refuse request]: decision --[WITHHOLD]-> information 0.7889819741249084
+[decision to refuse request]: Kevin Reid --[REVIEW]-> decision 0.7821532487869263
+[decision to refuse request]: Ombudsman --[REVIEW]-> decision 0.8035749793052673
+[decision to refuse request]: Waka Kotahi --[MAKES]-> decision 0.777378261089325
+[decision to refuse request]: Waka Kotahi NZ Transport Agency --[REFUSES]-> request 0.7909045815467834
+[decision to refuse request]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7174396514892578
+[decision to refuse request]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.7200677990913391
+[decision to refuse request]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.7076904773712158
+[decision to refuse request]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> list of LGWM construction contracts 0.6787115335464478
+[decision to refuse request]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> public transport fare policy review 0.7300913333892822
+[decision to refuse request]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.6994240880012512

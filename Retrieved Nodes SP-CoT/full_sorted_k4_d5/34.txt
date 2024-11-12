@@ -1,0 +1,34 @@
+In what year did the airline that provides domestic air travel services between the North and South Islands of New Zealand and is crucial for the tourism sector become established?
+None
+Seed: Flagship airline of new zealand
+Seed: Airline's responsibility as a key player in the transport sector
+Seed: Flights within new zealand
+Seed: Local economy and tourism industry
+[Flagship airline of new zealand]: Air new zealand --[Expanded]-> Domestic air services 0.8726975321769714
+[Flagship airline of new zealand]: Air new zealand --[Is]-> Flagship airline of new zealand 0.8666887283325195
+[Flagship airline of new zealand]: Air new zealand --[Established in]-> 1940 0.8644154071807861
+[Flagship airline of new zealand]: New zealand --[Has]-> Significant air and maritime transport services 0.8607854247093201
+[Flagship airline of new zealand]: Air new zealand --[Plays crucial role in]-> Connecting new zealand's remote regions with major urban centers 0.8587659597396851
+[Flagship airline of new zealand]: Air new zealand --[Known for]-> Innovative approach to customer service and safety 0.8569130897521973
+[Flagship airline of new zealand]: Auckland --[Has]-> International and domestic flights 0.8546205759048462
+[Airline's responsibility as a key player in the transport sector]: Air new zealand --[Expanded]-> Domestic air services 0.8726975321769714
+[Airline's responsibility as a key player in the transport sector]: Air new zealand --[Is]-> Flagship airline of new zealand 0.8666887283325195
+[Airline's responsibility as a key player in the transport sector]: Air new zealand --[Established in]-> 1940 0.8644154071807861
+[Airline's responsibility as a key player in the transport sector]: New zealand --[Has]-> Significant air and maritime transport services 0.8607854247093201
+[Airline's responsibility as a key player in the transport sector]: Air new zealand --[Plays crucial role in]-> Connecting new zealand's remote regions with major urban centers 0.8587659597396851
+[Airline's responsibility as a key player in the transport sector]: Air new zealand --[Known for]-> Innovative approach to customer service and safety 0.8569130897521973
+[Airline's responsibility as a key player in the transport sector]: Auckland --[Has]-> International and domestic flights 0.8546205759048462
+[Flights within new zealand]: Air new zealand --[Expanded]-> Domestic air services 0.8726975321769714
+[Flights within new zealand]: Air new zealand --[Is]-> Flagship airline of new zealand 0.8666887283325195
+[Flights within new zealand]: Air new zealand --[Established in]-> 1940 0.8644154071807861
+[Flights within new zealand]: New zealand --[Has]-> Significant air and maritime transport services 0.8607854247093201
+[Flights within new zealand]: Air new zealand --[Plays crucial role in]-> Connecting new zealand's remote regions with major urban centers 0.8587659597396851
+[Flights within new zealand]: Air new zealand --[Known for]-> Innovative approach to customer service and safety 0.8569130897521973
+[Flights within new zealand]: Auckland --[Has]-> International and domestic flights 0.8546205759048462
+[Local economy and tourism industry]: Air new zealand --[Expanded]-> Domestic air services 0.8726975321769714
+[Local economy and tourism industry]: Air new zealand --[Is]-> Flagship airline of new zealand 0.8666887283325195
+[Local economy and tourism industry]: Air new zealand --[Established in]-> 1940 0.8644154071807861
+[Local economy and tourism industry]: New zealand --[Has]-> Significant air and maritime transport services 0.8607854247093201
+[Local economy and tourism industry]: Air new zealand --[Plays crucial role in]-> Connecting new zealand's remote regions with major urban centers 0.8587659597396851
+[Local economy and tourism industry]: Air new zealand --[Known for]-> Innovative approach to customer service and safety 0.8569130897521973
+[Local economy and tourism industry]: Auckland --[Has]-> International and domestic flights 0.8546205759048462

@@ -1,0 +1,34 @@
+What was the objective of the Safe Limits campaign regarding speed limits?
+None
+Seed: comparing the number of accidents under the 100km speed limit versus the current 80km speed rate
+Seed: wider objectives in Regional Public Transport Plans
+Seed: Setting of Speed Limits Rule 2017
+Seed: speed limit zones
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: road safety --[IMPROVED_BY]-> reduced speed limits 0.858251690864563
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: reduced speed limits --[APPLIES_TO]-> roads 0.8524423837661743
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Setting of Speed Limits Rule 2017 --[APPLIES_TO]-> speed review process 0.8445148468017578
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Road Safety Campaigns --[USES]-> Online Platforms 0.8444514274597168
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Road Safety Campaigns --[USES]-> Traditional Media 0.8437235951423645
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Road To Zero campaign --[TARGET]-> zero accidents 0.8433899879455566
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Road Safety Campaigns --[USES]-> Radio 0.8395731449127197
+[wider objectives in Regional Public Transport Plans]: underlying principles of the current policy --[CONTRIBUTES]-> wider objectives in Regional Public Transport Plans 0.8214088082313538
+[wider objectives in Regional Public Transport Plans]: wider objectives in Regional Public Transport Plans --[CONTRIBUTES]-> government's transport priorities 0.8207579851150513
+[wider objectives in Regional Public Transport Plans]: public transport affordability --[RELATES_TO]-> wider impacts of fare policy on people and cities 0.7943885326385498
+[wider objectives in Regional Public Transport Plans]: wider impacts of fare policy on people and cities --[INCLUCES]-> national farebox recovery target 0.7886295914649963
+[wider objectives in Regional Public Transport Plans]: councils with greater flexibility --[ADDRESS]-> public transport affordability 0.7868819832801819
+[wider objectives in Regional Public Transport Plans]: national farebox recovery target --[REPLACED_BY]-> underlying principles of the current policy 0.7866144776344299
+[wider objectives in Regional Public Transport Plans]: government's transport priorities --[INCLUDES]-> fares play an important role in helping cover the cost of public transport within available budgets 0.774955153465271
+[Setting of Speed Limits Rule 2017]: road safety --[IMPROVED_BY]-> reduced speed limits 0.858251690864563
+[Setting of Speed Limits Rule 2017]: reduced speed limits --[APPLIES_TO]-> roads 0.8524423837661743
+[Setting of Speed Limits Rule 2017]: Setting of Speed Limits Rule 2017 --[APPLIES_TO]-> speed review process 0.8445148468017578
+[Setting of Speed Limits Rule 2017]: Road Safety Campaigns --[USES]-> Online Platforms 0.8444514274597168
+[Setting of Speed Limits Rule 2017]: Road Safety Campaigns --[USES]-> Traditional Media 0.8437235951423645
+[Setting of Speed Limits Rule 2017]: Road To Zero campaign --[TARGET]-> zero accidents 0.8433899879455566
+[Setting of Speed Limits Rule 2017]: Road Safety Campaigns --[USES]-> Radio 0.8395731449127197
+[speed limit zones]: road safety --[IMPROVED_BY]-> reduced speed limits 0.858251690864563
+[speed limit zones]: reduced speed limits --[APPLIES_TO]-> roads 0.8524423837661743
+[speed limit zones]: Setting of Speed Limits Rule 2017 --[APPLIES_TO]-> speed review process 0.8445148468017578
+[speed limit zones]: Road To Zero campaign --[TARGET]-> zero accidents 0.8433899879455566
+[speed limit zones]: Pedestrian Safer speeds --[ASSOCIATED_WITH]-> State Highway 1 0.8372128009796143
+[speed limit zones]: speed review process --[AFFECTS]-> road safety 0.8354967832565308
+[speed limit zones]: New Zealand Transport Agency --[ASSOCIATED]-> Road safety initiatives 0.8318181037902832

@@ -1,0 +1,34 @@
+How many staff does NZTA currently hire to oversee Fuel Excise Duty Refunds, and what are their roles?
+None
+Seed: fuel excise refunds
+Seed: information on fuel excise duty
+Seed: transportation services
+Seed: Qualified Staff
+[fuel excise refunds]: New Zealand Transport Agency --[PROVIDES]-> information on fuel excise duty 0.8857650756835938
+[fuel excise refunds]: New Zealand Customs --[COLLECTS]-> fuel excise duty 0.8660876750946045
+[fuel excise refunds]: New Zealand Transport Agency --[HAS_VACANCIES]-> 259 0.8555623292922974
+[fuel excise refunds]: New Zealand Transport Agency --[EMPLOYEE_COUNT]-> 1343 0.8534956574440002
+[fuel excise refunds]: fuel excise refunds --[RELATED_TO]-> transportation 0.8510607481002808
+[fuel excise refunds]: customers --[PAY]-> fuel excise duty 0.8504486680030823
+[fuel excise refunds]: New Zealand Transport Agency --[EMPLOYS]-> Andy Knackstedt 0.8499175310134888
+[information on fuel excise duty]: New Zealand Transport Agency --[PROVIDES]-> information on fuel excise duty 0.8857650756835938
+[information on fuel excise duty]: New Zealand Customs --[COLLECTS]-> fuel excise duty 0.8660876750946045
+[information on fuel excise duty]: New Zealand Transport Agency --[HAS_VACANCIES]-> 259 0.8555623292922974
+[information on fuel excise duty]: New Zealand Transport Agency --[EMPLOYEE_COUNT]-> 1343 0.8534956574440002
+[information on fuel excise duty]: fuel excise refunds --[RELATED_TO]-> transportation 0.8510607481002808
+[information on fuel excise duty]: customers --[PAY]-> fuel excise duty 0.8504486680030823
+[information on fuel excise duty]: New Zealand Transport Agency --[EMPLOYS]-> Andy Knackstedt 0.8499175310134888
+[transportation services]: New Zealand Transport Agency --[PROVIDES]-> information on fuel excise duty 0.8857650756835938
+[transportation services]: New Zealand Customs --[COLLECTS]-> fuel excise duty 0.8660876750946045
+[transportation services]: New Zealand Transport Agency --[HAS_VACANCIES]-> 259 0.8555623292922974
+[transportation services]: New Zealand Transport Agency --[EMPLOYEE_COUNT]-> 1343 0.8534956574440002
+[transportation services]: fuel excise refunds --[RELATED_TO]-> transportation 0.8510607481002808
+[transportation services]: customers --[PAY]-> fuel excise duty 0.8504486680030823
+[transportation services]: New Zealand Transport Agency --[EMPLOYS]-> Andy Knackstedt 0.8499175310134888
+[Qualified Staff]: New Zealand Transport Agency --[PROVIDES]-> information on fuel excise duty 0.8857650756835938
+[Qualified Staff]: New Zealand Customs --[COLLECTS]-> fuel excise duty 0.8660876750946045
+[Qualified Staff]: New Zealand Transport Agency --[HAS_VACANCIES]-> 259 0.8555623292922974
+[Qualified Staff]: New Zealand Transport Agency --[EMPLOYEE_COUNT]-> 1343 0.8534956574440002
+[Qualified Staff]: fuel excise refunds --[RELATED_TO]-> transportation 0.8510607481002808
+[Qualified Staff]: customers --[PAY]-> fuel excise duty 0.8504486680030823
+[Qualified Staff]: Police --[DISCUSSION]-> NZTA staff 0.8499953746795654

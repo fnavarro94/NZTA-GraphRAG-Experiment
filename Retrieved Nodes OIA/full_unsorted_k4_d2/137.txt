@@ -1,0 +1,36 @@
+What payments have been made to the Wellington Gateway Partnership (WGP) since the opening of Transmission Gully?
+None
+Seed: https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/
+Seed: Wellington Gateway Partnership
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: record $3.9 billion in public transport during this NLTP
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Project Agreement --[AVAILABLE]-> https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/ 0.8430780172348022
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Project Agreement --[GOVERNED_BY]-> Public Private Partnership 0.7543587684631348
+[https://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully-motorway/about-the-project/public-private-partnership/ppp-contract-development/]: Out of Scope --[RELATES]-> Project Agreement 0.7442601919174194
+[Wellington Gateway Partnership]: Wellington Gateway Partnership --[PART_OF]-> New Zealand 0.8793873190879822
+[Wellington Gateway Partnership]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.811150848865509
+[Wellington Gateway Partnership]: New Zealand Media and Entertainment --[LOCATED_IN]-> New Zealand 0.7826752066612244
+[Wellington Gateway Partnership]: State Highway 1 --[LOCATED_IN]-> New Zealand 0.7840701341629028
+[Wellington Gateway Partnership]: Ombudsman --[LOCATED_IN]-> New Zealand 0.7730640769004822
+[Wellington Gateway Partnership]: Queenstown Lakes --[LOCATED_IN]-> New Zealand 0.7769572734832764
+[Wellington Gateway Partnership]: Central Otago --[LOCATED_IN]-> New Zealand 0.7820115685462952
+[Wellington Gateway Partnership]: Wellington 6141 --[CONTAINS]-> New Zealand 0.8015986680984497
+[Wellington Gateway Partnership]: Auckland --[CONTAINS]-> New Zealand 0.7873175740242004
+[Wellington Gateway Partnership]: New Zealand --[CONTAINS]-> Wellington 0.8068521022796631
+[Wellington Gateway Partnership]: New Zealand --[CONTAINS]-> nzta.govt.nz 0.7989734411239624
+[Wellington Gateway Partnership]: New Zealand --[CONTAINS]-> Auckland 0.7925736904144287
+[Wellington Gateway Partnership]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.8127157688140869
+[Wellington Gateway Partnership]: New Zealand --[CONTAINS]-> nzta_dev 0.7778298258781433
+[Wellington Gateway Partnership]: Auckland --[ASSOCIATED_WITH]-> New Zealand 0.7781391739845276
+[Wellington Gateway Partnership]: New Zealand --[ASSOCIATED_WITH]-> transport 0.8002587556838989
+[Wellington Gateway Partnership]: New Zealand --[ASSOCIATED_WITH]-> NZTRANSPORT AGENCY 0.8046061396598816
+[Wellington Gateway Partnership]: New Zealand --[ASSOCIATED_WITH]-> oia-4543-Phil-Pennington.pdf 0.7839066386222839
+[Wellington Gateway Partnership]: Wellington --[PART_OF]-> New Zealand 0.8086788654327393
+[Wellington Gateway Partnership]: Featherston --[PART_OF]-> New Zealand 0.7830397486686707
+[Wellington Gateway Partnership]: Auckland --[PART_OF]-> New Zealand 0.7834969758987427
+[Wellington Gateway Partnership]: Tauranga --[PART_OF]-> New Zealand 0.7777217030525208
+[Wellington Gateway Partnership]: New Zealand Transport Agency --[PART_OF]-> New Zealand 0.8119248747825623
+[Wellington Gateway Partnership]: Queenstown Lakes and Central Otago --[PART_OF]-> New Zealand 0.7925655245780945
+[Wellington Gateway Partnership]: Official Information Act 1982 --[APPLIES_TO]-> New Zealand 0.7704570889472961
+[Wellington Gateway Partnership]: New Zealand Transport Agency --[CONTACT]-> New Zealand 0.8112902641296387
+[Wellington Gateway Partnership]: New Zealand Transport Agency --[LOCATED]-> New Zealand 0.8202841281890869

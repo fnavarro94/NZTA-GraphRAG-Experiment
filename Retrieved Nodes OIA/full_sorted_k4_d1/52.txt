@@ -1,0 +1,10 @@
+When will the full report from the hidden texting camera trial be made publicly available?
+None
+Seed: WK Exec summary of the TG claim for review
+Seed: public awareness campaign
+Seed: public interest in seeking and receiving confidential legal advice
+Seed: trial
+[WK Exec summary of the TG claim for review]: New Zealand Transport Agency --[FALLS_IN_SCOPE]-> WK Exec summary of the TG claim for review 0.7586785554885864
+[public awareness campaign]: Road to Zero --[CAMPAIGN]-> public awareness campaign 0.800040066242218
+[public interest in seeking and receiving confidential legal advice]: Waka Kotahi --[ACKNOWLEDGES]-> public interest in seeking and receiving confidential legal advice 0.7635639309883118
+[trial]: Waka Kotahi --[CONDUCTS]-> trial 0.7813769578933716

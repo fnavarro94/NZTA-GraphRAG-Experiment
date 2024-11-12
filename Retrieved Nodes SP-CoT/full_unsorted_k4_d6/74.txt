@@ -1,0 +1,36 @@
+What is the abbreviation for The program that includes the expressway project aimed at improving freight transport efficiency in the region in the country known for its transport system innovation aimed at improving efficiency, sustainability, and accessibility in response to unique geographical challenges?
+None
+Seed: Efficiency of freight transport in region
+Seed: Driving innovation in freight transport sector
+Seed: Regional transport initiatives
+Seed: Enhancing safety and efficiency of transportation systems in new zealand
+[Efficiency of freight transport in region]: Waikato expressway --[Significantly enhances]-> Efficiency of freight transport in region 0.8661929965019226
+[Efficiency of freight transport in region]: Waikato expressway --[Is part of]-> National land transport programme 0.8318911790847778
+[Efficiency of freight transport in region]: National land transport programme --[Is]-> Key component of new zealand's transport planning framework 0.8095321655273438
+[Efficiency of freight transport in region]: National land transport programme --[Updated]-> Every three years 0.8058054447174072
+[Efficiency of freight transport in region]: National land transport programme --[Promotes]-> Environmental sustainability 0.812761127948761
+[Efficiency of freight transport in region]: Government objectives --[Include]-> Environmental sustainability 0.7768642902374268
+[Efficiency of freight transport in region]: Government objectives --[Include]-> Social equity 0.7688469886779785
+[Efficiency of freight transport in region]: New zealand transport strategy --[Aligned with]-> Government objectives 0.8057734966278076
+[Efficiency of freight transport in region]: New zealand transport strategy --[Emphasizes]-> Multimodal approach 0.7996155023574829
+[Efficiency of freight transport in region]: New zealand transport strategy --[Promotes]-> Public transport 0.7847166657447815
+[Efficiency of freight transport in region]: New zealand transport strategy --[Aims]-> Sustainable transport network 0.7978168725967407
+[Efficiency of freight transport in region]: New zealand transport strategy --[Is]-> Comprehensive framework 0.8090657591819763
+[Efficiency of freight transport in region]: New zealand transport strategy --[Established]-> 2008 0.8009807467460632
+[Efficiency of freight transport in region]: New zealand transport strategy --[Promotes]-> Active transport options 0.7987121939659119
+[Efficiency of freight transport in region]: New zealand transport strategy --[Outlines]-> Long-term vision 0.7870379090309143
+[Efficiency of freight transport in region]: New zealand transport strategy --[Emphasizes]-> Integrating transport planning with land use and environmental considerations 0.8027812242507935
+[Efficiency of freight transport in region]: New zealand transport strategy --[Outlines]-> Priorities for transport investment 0.7787014245986938
+[Efficiency of freight transport in region]: New zealand transport strategy --[Emphasizes]-> Need for more integrated and sustainable transport system 0.7962755560874939
+[Efficiency of freight transport in region]: New zealand transport strategy --[Emphasizes]-> Importance of community engagement 0.8031361103057861
+[Efficiency of freight transport in region]: Government objectives --[Include]-> Economic growth 0.7715517282485962
+[Efficiency of freight transport in region]: National land transport programme --[Supports]-> Economic growth 0.801021933555603
+[Efficiency of freight transport in region]: Kiwirail group --[Promotes]-> Economic growth 0.7557560205459595
+[Efficiency of freight transport in region]: Waka kotahi --[Contributes to]-> Economic growth 0.7418515086174011
+[Efficiency of freight transport in region]: Auckland western ring route --[Supports]-> Economic growth 0.7602348923683167
+[Efficiency of freight transport in region]: Transport infrastructure development --[Is crucial for]-> Economic growth 0.8208541870117188
+[Efficiency of freight transport in region]: Freight transport --[Essential for]-> Economic growth 0.8202558159828186
+[Efficiency of freight transport in region]: Road infrastructure --[Is vital for]-> Economic growth 0.8135319948196411
+[Efficiency of freight transport in region]: Waka kotahi --[Contributes to]-> Environmental sustainability 0.7553657293319702
+[Efficiency of freight transport in region]: Waka kotahi --[Has]-> Road to zero  strategy 0.7327102422714233
+[Efficiency of freight transport in region]: Waka kotahi --[Is]-> Primary agency 0.7214490175247192

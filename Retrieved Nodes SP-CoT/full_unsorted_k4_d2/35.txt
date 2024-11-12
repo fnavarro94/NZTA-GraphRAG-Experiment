@@ -1,0 +1,36 @@
+In which decade did the construction of the major railway line in New Zealand that is being upgraded to enhance its capacity and efficiency for sustainable transport begin?
+None
+Seed: New zealand's commitment to promoting sustainable transport solutions
+Seed: Growing emphasis on sustainable transport solutions
+Seed: New zealand's commitment to sustainable transport
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+[New zealand's commitment to promoting sustainable transport solutions]: Vissim --[Aligns with]-> New zealand's commitment to promoting sustainable transport solutions 0.834850549697876
+[New zealand's commitment to promoting sustainable transport solutions]: Auckland transport --[Utilized]-> Vissim 0.8309662938117981
+[New zealand's commitment to promoting sustainable transport solutions]: Vissim --[Incorporates features for]-> Modeling active transport modes 0.7348140478134155
+[New zealand's commitment to promoting sustainable transport solutions]: Vissim --[Simulates]-> Mixed traffic conditions 0.7258057594299316
+[New zealand's commitment to promoting sustainable transport solutions]: Vissim --[Used in]-> Cities like auckland 0.7676251530647278
+[New zealand's commitment to promoting sustainable transport solutions]: Vissim --[Application in various projects]-> Shaping the future of transport in new zealand 0.8388665914535522
+[New zealand's commitment to promoting sustainable transport solutions]: Vissim --[Used in]-> Cities like christchurch 0.7555514574050903
+[New zealand's commitment to promoting sustainable transport solutions]: Wellington city council --[Used]-> Vissim 0.7617350816726685
+[New zealand's commitment to promoting sustainable transport solutions]: Vissim --[Often integrated with]-> Geographic information systems (gis 0.7244559526443481
+[New zealand's commitment to promoting sustainable transport solutions]: Vissim --[Used in]-> Cities like wellington 0.752143383026123
+[New zealand's commitment to promoting sustainable transport solutions]: Vissim --[Aids in]-> Design and evaluation of transport systems 0.7713495492935181
+[New zealand's commitment to promoting sustainable transport solutions]: Vissim --[Often integrated with]-> Other transport modeling tools 0.7420437932014465
+[New zealand's commitment to promoting sustainable transport solutions]: Vissim --[Allows]-> Simulate pedestrian interactions 0.6886508464813232
+[New zealand's commitment to promoting sustainable transport solutions]: Vissim --[Widely utilized in]-> Transport planning 0.7676605582237244
+[New zealand's commitment to promoting sustainable transport solutions]: Vissim --[Application in various projects]-> Ensuring that infrastructure developments are both efficient and responsive to the needs of the community 0.7630308866500854
+[New zealand's commitment to promoting sustainable transport solutions]: Vissim --[Allows]-> Simulate vehicle movements 0.7108848690986633
+[New zealand's commitment to promoting sustainable transport solutions]: Vissim --[Facilitates]-> Better decision-making and resource allocation 0.7107293605804443
+[New zealand's commitment to promoting sustainable transport solutions]: Vissim --[Replicates]-> Real-world traffic conditions 0.7337939143180847
+[New zealand's commitment to promoting sustainable transport solutions]: Vissim --[Is]-> Microscopic traffic simulation software 0.7106299996376038
+[New zealand's commitment to promoting sustainable transport solutions]: Vissim --[Widely utilized in]-> Traffic engineering 0.7436193823814392
+[New zealand's commitment to promoting sustainable transport solutions]: Vissim --[Facilitates]-> Comprehensive analysis of transport networks 0.737851619720459
+[New zealand's commitment to promoting sustainable transport solutions]: Vissim --[Allows]-> Simulate public transport operations 0.7464078664779663
+[New zealand's commitment to promoting sustainable transport solutions]: Vissim --[Enables]-> Assess the impact of various transport interventions 0.7524449229240417
+[New zealand's commitment to promoting sustainable transport solutions]: Vissim --[Developed by]-> Ptv group 0.7167412042617798
+[New zealand's commitment to promoting sustainable transport solutions]: Vissim --[Application in various projects]-> Underscores the importance of advanced simulation tools 0.7263504862785339
+[New zealand's commitment to promoting sustainable transport solutions]: Vissim --[Essential tool for]-> Modeling and analyzing complex traffic scenarios 0.7260406613349915
+[New zealand's commitment to promoting sustainable transport solutions]: Vissim --[Vital resource for]-> Transport professionals 0.7640377283096313
+[New zealand's commitment to promoting sustainable transport solutions]: Vissim --[Is]-> Traffic simulation model 0.7191712260246277
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Growing emphasis on sustainable transport solutions 0.8931872844696045
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Transport projects 0.8742882013320923

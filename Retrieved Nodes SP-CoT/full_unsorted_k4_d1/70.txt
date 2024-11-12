@@ -1,0 +1,10 @@
+Which notable transport project in New Zealand, alongside the City Rail Link, has undergone the process with the acronym used in New Zealand to assess the environmental impacts of transport projects, and what city is home to the Te Ara I Whiti (Lightpath) project, which has transformed underutilized spaces into vibrant cycling and pedestrian pathways?
+None
+Seed: Addressing transport challenges in auckland
+Seed: Cycling infrastructure and public transport initiatives
+Seed: Transport link between wellington and northern regions of north island
+Seed: New zealand's transport network
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Addressing transport challenges in auckland 0.8395455479621887
+[Cycling infrastructure and public transport initiatives]: North island --[Features]-> Cycling infrastructure and public transport initiatives 0.8152492046356201
+[Transport link between wellington and northern regions of north island]: Wellington northern corridor --[Aims to improve]-> Transport link between wellington and northern regions of north island 0.8133206367492676
+[New zealand's transport network]: Road infrastructure projects --[Play crucial role in]-> New zealand's transport network 0.8579111695289612

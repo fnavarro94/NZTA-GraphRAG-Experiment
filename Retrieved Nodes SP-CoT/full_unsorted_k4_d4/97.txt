@@ -1,0 +1,36 @@
+Which organization has utilized one of the commonly used traffic simulation models in a specific field for visualizing traffic patterns and assessing the impact of new developments to assess the performance of its public transport system in response to the needs of a growing population?
+None
+Seed: Adopting integrated transport planning approaches that consider active transport modes
+Seed: Innovative traffic management strategies
+Seed: Adopting integrated transport planning approaches that consider public transport
+Seed: Impact of technologies on traffic congestion
+[Adopting integrated transport planning approaches that consider active transport modes]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider active transport modes 0.8208843469619751
+[Adopting integrated transport planning approaches that consider active transport modes]: Integrated transport planning --[Aims to]-> Create more efficient transport networks 0.8279178738594055
+[Adopting integrated transport planning approaches that consider active transport modes]: Integrated transport planning --[Aims to]-> Create more sustainable transport networks 0.8273147940635681
+[Adopting integrated transport planning approaches that consider active transport modes]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider public transport 0.8247180581092834
+[Adopting integrated transport planning approaches that consider active transport modes]: Integrated transport planning --[Is]-> Adopting 0.8049643039703369
+[Adopting integrated transport planning approaches that consider active transport modes]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches that consider land use 0.8189874291419983
+[Adopting integrated transport planning approaches that consider active transport modes]: Integrated transport planning --[Is]-> Adopting integrated transport planning approaches 0.8215631246566772
+[Innovative traffic management strategies]: New zealand --[Has]-> Innovative traffic management strategies 0.8402736186981201
+[Innovative traffic management strategies]: New zealand --[Has]-> Transport projects 0.7893404960632324
+[Innovative traffic management strategies]: New zealand transport agency --[Oversees]-> Transport projects 0.7759292125701904
+[Innovative traffic management strategies]: New zealand --[Has]-> New zealand transport agency 0.7841988205909729
+[Innovative traffic management strategies]: New zealand transport agency --[Is]-> Forefront of promoting active transport 0.8030434846878052
+[Innovative traffic management strategies]: New zealand transport agency --[Is]-> Government agency 0.7712939977645874
+[Innovative traffic management strategies]: New zealand transport agency --[Is]-> Key stakeholder 0.783536434173584
+[Innovative traffic management strategies]: New zealand transport agency --[Is]-> Primary authority 0.7725573182106018
+[Innovative traffic management strategies]: New zealand transport agency --[Is]-> Developing integrated transport solutions 0.808444619178772
+[Innovative traffic management strategies]: New zealand transport agency --[Is]-> Collaborating with technology providers 0.7969099283218384
+[Innovative traffic management strategies]: New zealand transport agency --[Implemented]-> Initiatives 0.8151280879974365
+[Innovative traffic management strategies]: New zealand transport agency --[Responsible for]-> Management and regulation of transport systems 0.7867695093154907
+[Innovative traffic management strategies]: New zealand transport agency --[Responsible for]-> Management and regulation of the transport system in new zealand 0.7838651537895203
+[Innovative traffic management strategies]: New zealand transport agency --[Ensures]-> Policies align with national transport objectives 0.76102215051651
+[Innovative traffic management strategies]: New zealand transport agency --[Ensures]-> Voices of all road users are considered in decision-making processes 0.7680349349975586
+[Innovative traffic management strategies]: New zealand transport agency --[Mandates]-> Regular audits 0.7532703876495361
+[Innovative traffic management strategies]: New zealand transport agency --[Promotes]-> Road safety 0.770799994468689
+[Innovative traffic management strategies]: New zealand transport agency --[Aims]-> Reduce greenhouse gas emissions 0.7686837911605835
+[Innovative traffic management strategies]: New zealand transport agency --[Plays]-> A crucial role in funding and promoting cycling infrastructure projects 0.7885803580284119
+[Innovative traffic management strategies]: New zealand transport agency --[Plays]-> Pivotal role in conducting forecasts 0.8065224885940552
+[Innovative traffic management strategies]: New zealand transport agency --[Plays]-> Pivotal role in facilitating road user engagement 0.8193094730377197
+[Innovative traffic management strategies]: New zealand transport agency --[Plays]-> Crucial role in developing guidelines 0.8047390580177307
+[Innovative traffic management strategies]: New zealand transport agency --[Plays]-> Crucial role in developing standards 0.7944814562797546

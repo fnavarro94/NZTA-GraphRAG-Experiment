@@ -1,0 +1,36 @@
+How many crashes occurred at the Kiddle Drive/Arrowsmith Avenue intersection in Taupō after October 2019?
+None
+Seed: intersection of Kiddle Drive/Arrowsmith Ave
+Seed: Kiddle Drive/Arrowsmith Ave Taupō
+Seed: Road Traffic Crashes
+Seed: Traffic Crash Report
+[intersection of Kiddle Drive/Arrowsmith Ave]: Data --[LIMITED]-> intersection of Kiddle Drive/Arrowsmith Ave 0.8450238108634949
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[PROVIDES]-> Data 0.7695342898368835
+[intersection of Kiddle Drive/Arrowsmith Ave]: Data --[LIMITED_TO]-> Fatal Crashes 0.7533919811248779
+[intersection of Kiddle Drive/Arrowsmith Ave]: Data --[IS]-> Only where a zero-alcohol condition has been applied to a licence above the standard conditions for the licence 0.7247252464294434
+[intersection of Kiddle Drive/Arrowsmith Ave]: Data --[IS]-> Limited to drivers who held a current licence as at 1 July 2018 or 1 July 2019 0.8015788793563843
+[intersection of Kiddle Drive/Arrowsmith Ave]: Data --[IS]-> Standard condition of drivers under 20 subject to zero alcohol level are not included 0.7676230669021606
+[intersection of Kiddle Drive/Arrowsmith Ave]: Driver Licence Register --[PROVIDES]-> Data 0.7322261929512024
+[intersection of Kiddle Drive/Arrowsmith Ave]: Data --[IS]-> Current at 18 September 2019 0.7762696146965027
+[intersection of Kiddle Drive/Arrowsmith Ave]: Cyclists --[EXCLUDED]-> Data 0.7377032041549683
+[intersection of Kiddle Drive/Arrowsmith Ave]: Tractor drivers --[EXCLUDED]-> Data 0.7517334222793579
+[intersection of Kiddle Drive/Arrowsmith Ave]: Bus occupants --[EXCLUDED]-> Data 0.7516885995864868
+[intersection of Kiddle Drive/Arrowsmith Ave]: Drivers of motorbikes --[EXCLUDED]-> Data 0.7652391195297241
+[intersection of Kiddle Drive/Arrowsmith Ave]: Data --[FOR]-> period 1/10/2017 to 26/05/2021 0.7604823112487793
+[intersection of Kiddle Drive/Arrowsmith Ave]: Data --[PROVIDED]-> Waka Kotahi N Z Transport Agency 0.777433454990387
+[intersection of Kiddle Drive/Arrowsmith Ave]: Crash Analysis System --[UPDATES]-> Data 0.7527507543563843
+[intersection of Kiddle Drive/Arrowsmith Ave]: Data --[RELATES_TO]-> Pedestrian and Cyclist Crashes 0.7953357100486755
+[intersection of Kiddle Drive/Arrowsmith Ave]: vehicle accidents --[LOCATED]-> intersection of Kiddle Drive/Arrowsmith Ave 0.909781813621521
+[intersection of Kiddle Drive/Arrowsmith Ave]: intersection of Kiddle Drive/Arrowsmith Ave --[CROSSES]-> Napier Road 0.8553223609924316
+[intersection of Kiddle Drive/Arrowsmith Ave]: Napier Road --[IN]-> Taupo 0.8495903015136719
+[Kiddle Drive/Arrowsmith Ave Taupō]: Kiddle Drive/Arrowsmith Ave Taupō --[HAS_INTERSECTION]-> intersection 0.8774054646492004
+[Road Traffic Crashes]: Road Traffic Crashes --[ANALYZED_BY]-> Crash Analysis 0.8118613362312317
+[Road Traffic Crashes]: Crash Analysis --[PERFORMED_BY]-> Waka Kotahi NZ Transport Agency 0.8107889890670776
+[Road Traffic Crashes]: Factor 103 --[CONTRIBUTES_TO]-> Crash Analysis 0.7768805027008057
+[Road Traffic Crashes]: Alcohol Consumption --[CONTRIBUTES_TO]-> Road Traffic Crashes 0.780990481376648
+[Road Traffic Crashes]: Road Traffic --[AFFECTED_BY]-> Alcohol Consumption 0.7752116322517395
+[Traffic Crash Report]: Crash Analysis System --[UPDATED]-> Traffic Crash Report 0.8113682866096497
+[Traffic Crash Report]: Deceased Drivers --[ASSOCIATED_WITH]-> Crash Analysis System 0.7872285842895508
+[Traffic Crash Report]: Crash Analysis System --[PROVIDES]-> Traffic Crash Report 0.7930148839950562
+[Traffic Crash Report]: Crash Analysis System --[ASSOCIATED_WITH]-> Deceased Drivers 0.789466917514801
+[Traffic Crash Report]: Crash Analysis System --[ASSOCIATED_WITH]-> Traffic Crash Report 0.7891193628311157

@@ -1,0 +1,36 @@
+What transport route was NZTA planning from Auckland CBD to West Auckland?
+None
+Seed: work done on a light rail route from the Auckland CBD to West Auckland
+Seed: Rapid Transit in Auckland
+Seed: Regional Land Transport Plan
+Seed: Regional Public Transport Plans
+[work done on a light rail route from the Auckland CBD to West Auckland]: New Zealand Transport Agency --[PROVIDES]-> work done on a light rail route from the Auckland CBD to West Auckland 0.8849544525146484
+[work done on a light rail route from the Auckland CBD to West Auckland]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8555644750595093
+[work done on a light rail route from the Auckland CBD to West Auckland]: New Zealand Transport Agency --[BASED]-> Wellington 0.8531922101974487
+[work done on a light rail route from the Auckland CBD to West Auckland]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8514618873596191
+[work done on a light rail route from the Auckland CBD to West Auckland]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.8394098877906799
+[work done on a light rail route from the Auckland CBD to West Auckland]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.8054354190826416
+[work done on a light rail route from the Auckland CBD to West Auckland]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.7879140973091125
+[work done on a light rail route from the Auckland CBD to West Auckland]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7957943677902222
+[work done on a light rail route from the Auckland CBD to West Auckland]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.8363028168678284
+[work done on a light rail route from the Auckland CBD to West Auckland]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.8465970754623413
+[work done on a light rail route from the Auckland CBD to West Auckland]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.8130279779434204
+[work done on a light rail route from the Auckland CBD to West Auckland]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.8093045949935913
+[work done on a light rail route from the Auckland CBD to West Auckland]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7805875539779663
+[work done on a light rail route from the Auckland CBD to West Auckland]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7398594617843628
+[work done on a light rail route from the Auckland CBD to West Auckland]: Wellington --[CONTAINS]-> Private Bag 6995 0.8017551302909851
+[work done on a light rail route from the Auckland CBD to West Auckland]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8412913680076599
+[work done on a light rail route from the Auckland CBD to West Auckland]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8422309756278992
+[work done on a light rail route from the Auckland CBD to West Auckland]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.822001576423645
+[work done on a light rail route from the Auckland CBD to West Auckland]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.8157782554626465
+[work done on a light rail route from the Auckland CBD to West Auckland]: 50 Victoria Street --[IN]-> Wellington 0.7709744572639465
+[work done on a light rail route from the Auckland CBD to West Auckland]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.8195844888687134
+[work done on a light rail route from the Auckland CBD to West Auckland]: New Zealand Transport Agency --[LOCATED]-> 50 Victoria Street 0.8388646841049194
+[work done on a light rail route from the Auckland CBD to West Auckland]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.8038543462753296
+[work done on a light rail route from the Auckland CBD to West Auckland]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7989743947982788
+[work done on a light rail route from the Auckland CBD to West Auckland]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7894463539123535
+[work done on a light rail route from the Auckland CBD to West Auckland]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7717441916465759
+[work done on a light rail route from the Auckland CBD to West Auckland]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.8402954339981079
+[work done on a light rail route from the Auckland CBD to West Auckland]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.8469066023826599
+[work done on a light rail route from the Auckland CBD to West Auckland]: New Zealand Transport Agency --[CONTACT]-> Wellington 6141 0.8278060555458069
+[work done on a light rail route from the Auckland CBD to West Auckland]: Wellington 6141 --[POSTAL_ADDRESS]-> New Zealand 0.7821947932243347

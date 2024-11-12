@@ -1,0 +1,10 @@
+How many speeding offences were detected by speed cameras for NZTA vehicles in 2021?
+None
+Seed: information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021
+Seed: no notifications of offences detected by speed cameras
+Seed: information on traffic light cameras and speed cameras
+Seed: information on speed cameras
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.8546799421310425
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[RECEIVED]-> no notifications of offences detected by speed cameras 0.8183416724205017
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.8197308778762817
+[information on speed cameras]: Waka Kotahi --[PROVIDES]-> information on speed cameras 0.8309118747711182

@@ -1,0 +1,36 @@
+How much has the NZ Transport Agency spent on software/app development through Connected Journey Solutions (CJS)?
+None
+Seed: information about the NZ Transport Agency's Information Technology (IT) projects
+Seed: names of companies and individuals paid $6.63m to develop software/apps
+Seed: costing information for Greater Christchurch Mass Rapid Transit
+Seed: cost breakdown for Greater Christchurch Mass Rapid Transit
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[PROVIDES]-> information about the NZ Transport Agency's Information Technology (IT) projects 0.8514043092727661
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8507648706436157
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[BASED]-> Wellington 0.8573113679885864
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7772884964942932
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Golden Mile --[LOCATED]-> Wellington 0.7622336745262146
+[information about the NZ Transport Agency's Information Technology (IT) projects]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7668646574020386
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7534980177879333
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7407715320587158
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7768248319625854
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Wellington --[PART_OF]-> Wellington Region 0.7721476554870605
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand --[HAS_CAPITAL]-> Wellington 0.8036635518074036
+[information about the NZ Transport Agency's Information Technology (IT) projects]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7947821021080017
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Wellington --[HAS]-> tunnel 0.8044679164886475
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.8329533338546753
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7818368077278137
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Wellington --[POSTCODE]-> 6141 0.7599920034408569
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.8516997694969177
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Wellington --[IS_PART_OF]-> New Zealand 0.7758536338806152
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7839514017105103
+[information about the NZ Transport Agency's Information Technology (IT) projects]: 50 Victoria Street --[IN]-> Wellington 0.7510381937026978
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7579828500747681
+[information about the NZ Transport Agency's Information Technology (IT) projects]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7570680975914001
+[information about the NZ Transport Agency's Information Technology (IT) projects]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7833694219589233
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.836251974105835
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.8259761929512024
+[information about the NZ Transport Agency's Information Technology (IT) projects]: NZ Transport Agency --[LOCATED]-> Wellington 0.8582450151443481
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7675369381904602
+[information about the NZ Transport Agency's Information Technology (IT) projects]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7503565549850464
+[information about the NZ Transport Agency's Information Technology (IT) projects]: New Zealand --[CONTAINS]-> Wellington 0.7814080715179443
+[information about the NZ Transport Agency's Information Technology (IT) projects]: Wellington --[PART_OF]-> New Zealand 0.7759523391723633

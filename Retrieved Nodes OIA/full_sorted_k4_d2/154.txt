@@ -1,0 +1,29 @@
+What specific type of endorsement is mentioned in the OIA-2127 document?
+None
+Seed: applications for I endorsements
+Seed: standards for all licence endorsement holders
+Seed: I endorsement holders
+Seed: renewals of existing endorsement holders
+[applications for I endorsements]: Transport Agency --[ASSESS]-> applications for I endorsements 0.8482099175453186
+[applications for I endorsements]: Transport Agency --[GRANT]-> I endorsements 0.8473284244537354
+[applications for I endorsements]: applications for I endorsements --[INCLUDE]-> renewals of existing endorsement holders 0.8447509407997131
+[applications for I endorsements]: www.ombudsman.parliament.nz --[PROVIDES]-> Transport Agency 0.8039979934692383
+[applications for I endorsements]: Transport Agency --[CROSS_REFERENCES]-> CAS 0.7931753396987915
+[applications for I endorsements]: Transport Agency --[REQUIRE]-> fit and proper person assessments 0.7924772500991821
+[applications for I endorsements]: Transport Agency --[PUBLISHES]-> response to this request on our website 0.7884855270385742
+[standards for all licence endorsement holders]: New Zealand Transport Agency --[MONITORS]-> I endorsement holders 0.8374952077865601
+[standards for all licence endorsement holders]: oia-15834-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.833626925945282
+[standards for all licence endorsement holders]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8320310115814209
+[standards for all licence endorsement holders]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8316677808761597
+[standards for all licence endorsement holders]: oia-9157-response.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8305320739746094
+[standards for all licence endorsement holders]: standards for all licence endorsement holders --[PART_OF]-> broader work to strengthen regulatory compliance 0.8302267789840698
+[standards for all licence endorsement holders]: New Zealand Transport Agency --[ASSOCIATED]-> Business-as-usual legal advice 0.8301135897636414
+[I endorsement holders]: I endorsement holders --[SUBJECT_TO]-> monitoring process 0.844489574432373
+[I endorsement holders]: New Zealand Transport Agency --[MONITORS]-> I endorsement holders 0.8374952077865601
+[I endorsement holders]: oia-15834-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.833626925945282
+[I endorsement holders]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8320310115814209
+[I endorsement holders]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8316677808761597
+[I endorsement holders]: oia-9157-response.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8305320739746094
+[I endorsement holders]: New Zealand Transport Agency --[ASSOCIATED]-> Business-as-usual legal advice 0.8301135897636414
+[renewals of existing endorsement holders]: Transport Agency --[ASSESS]-> applications for I endorsements 0.8482099175453186
+[renewals of existing endorsement holders]: applications for I endorsements --[INCLUDE]-> renewals of existing endorsement holders 0.8447509407997131

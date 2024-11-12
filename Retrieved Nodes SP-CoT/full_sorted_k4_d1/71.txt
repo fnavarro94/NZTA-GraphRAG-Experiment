@@ -1,0 +1,10 @@
+What is the capital city of New Zealand, which is connected to the city home to the Te Ara I Whiti (Lightpath) project, which has transformed underutilized spaces into vibrant cycling and pedestrian pathways, by the specific rail line in New Zealand that has been enhanced as part of the government's investment in upgrading rail infrastructure to support sustainable freight solutions?
+None
+Seed: Ongoing investments in rail infrastructure
+Seed: New zealand's transport network
+Seed: Addressing transport challenges in auckland
+Seed: Significant infrastructure project
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Ongoing investments in rail infrastructure 0.8649382591247559
+[New zealand's transport network]: Road infrastructure projects --[Play crucial role in]-> New zealand's transport network 0.8651019930839539
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Addressing transport challenges in auckland 0.8425805568695068
+[Significant infrastructure project]: Auckland city rail link --[Is]-> Significant infrastructure project 0.8868386745452881

@@ -1,0 +1,28 @@
+What was the highest invoice issued to an at-fault driver for road damage in the past three years?
+None
+Seed: information on tolls and road maintenance
+Seed: highest single amount invoiced was $93,114.27
+Seed: longest overdue road
+Seed: figures on drivers involved in fatal crashes
+[information on tolls and road maintenance]: longest overdue road --[OVERDUE]-> road renewal 0.8447697758674622
+[information on tolls and road maintenance]: New Zealand Transport Agency --[INVOICES]-> highest single amount invoiced was $93,114.27 0.838139533996582
+[information on tolls and road maintenance]: tolls --[COLLECTED]-> drivers 0.8351504802703857
+[information on tolls and road maintenance]: Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act). --[OFFICIAL_INFORMATION]-> I will respond to each of your questions in turn. 0.828994870185852
+[information on tolls and road maintenance]: email of 12 May 2023 --[REQUESTS]-> accident or crash history 0.8272026181221008
+[information on tolls and road maintenance]: tolls --[SPENT]-> on various roads 0.8263449668884277
+[information on tolls and road maintenance]: drivers --[PAY]-> tolls 0.8240974545478821
+[highest single amount invoiced was $93,114.27]: longest overdue road --[OVERDUE]-> road renewal 0.8447697758674622
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[INVOICES]-> highest single amount invoiced was $93,114.27 0.838139533996582
+[highest single amount invoiced was $93,114.27]: tolls --[COLLECTED]-> drivers 0.8351504802703857
+[highest single amount invoiced was $93,114.27]: Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act). --[OFFICIAL_INFORMATION]-> I will respond to each of your questions in turn. 0.828994870185852
+[highest single amount invoiced was $93,114.27]: email of 12 May 2023 --[REQUESTS]-> accident or crash history 0.8272026181221008
+[highest single amount invoiced was $93,114.27]: tolls --[SPENT]-> on various roads 0.8263449668884277
+[highest single amount invoiced was $93,114.27]: drivers --[PAY]-> tolls 0.8240974545478821
+[longest overdue road]: longest overdue road --[OVERDUE]-> road renewal 0.8447697758674622
+[longest overdue road]: New Zealand Transport Agency --[INVOICES]-> highest single amount invoiced was $93,114.27 0.838139533996582
+[longest overdue road]: tolls --[COLLECTED]-> drivers 0.8351504802703857
+[longest overdue road]: tolls --[SPENT]-> on various roads 0.8263449668884277
+[longest overdue road]: drivers --[PAY]-> tolls 0.8240974545478821
+[longest overdue road]: driver safety --[IMPROVED_BY]-> road maintenance 0.8229676485061646
+[longest overdue road]: design life --[OVERDUE]-> longest overdue road 0.8228283524513245
+[figures on drivers involved in fatal crashes]: AA --[PROVIDES]-> figures on drivers involved in fatal crashes 0.8060863018035889

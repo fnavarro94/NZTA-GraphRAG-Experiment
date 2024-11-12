@@ -1,0 +1,34 @@
+Which island does the city in New Zealand known for its Metlink services, which focus on providing comprehensive coverage across the region, the capital city of New Zealand, belong to?
+None
+Seed: Largest city in south island
+Seed: Largest city in new zealand
+Seed: Transport link between wellington and northern regions of north island
+Seed: Connecting new zealand's remote regions with major urban centers
+[Largest city in south island]: Metlink --[Provides services to]-> Greater wellington region 0.8607345819473267
+[Largest city in south island]: Wellington regional council --[Operates]-> Metlink brand 0.8600178956985474
+[Largest city in south island]: Wellington --[Has]-> Metlink 0.8530012369155884
+[Largest city in south island]: Wellington --[Has]-> Metlink brand 0.8522277474403381
+[Largest city in south island]: Wellington --[Is]-> Capital city of new zealand 0.8464573621749878
+[Largest city in south island]: Metlink --[Includes]-> Hutt valley and porirua 0.8463925719261169
+[Largest city in south island]: New zealand --[Has]-> Cities 0.8396409749984741
+[Largest city in new zealand]: Metlink --[Provides services to]-> Greater wellington region 0.8607345819473267
+[Largest city in new zealand]: Wellington regional council --[Operates]-> Metlink brand 0.8600178956985474
+[Largest city in new zealand]: Wellington --[Has]-> Metlink 0.8530012369155884
+[Largest city in new zealand]: Wellington --[Has]-> Metlink brand 0.8522277474403381
+[Largest city in new zealand]: Wellington --[Is]-> Capital city of new zealand 0.8464573621749878
+[Largest city in new zealand]: Metlink --[Includes]-> Hutt valley and porirua 0.8463925719261169
+[Largest city in new zealand]: New zealand --[Has]-> Cities 0.8396409749984741
+[Transport link between wellington and northern regions of north island]: Metlink --[Provides services to]-> Greater wellington region 0.8607345819473267
+[Transport link between wellington and northern regions of north island]: Wellington regional council --[Operates]-> Metlink brand 0.8600178956985474
+[Transport link between wellington and northern regions of north island]: Wellington --[Has]-> Metlink 0.8530012369155884
+[Transport link between wellington and northern regions of north island]: Wellington --[Has]-> Metlink brand 0.8522277474403381
+[Transport link between wellington and northern regions of north island]: Wellington --[Is]-> Capital city of new zealand 0.8464573621749878
+[Transport link between wellington and northern regions of north island]: Metlink --[Includes]-> Hutt valley and porirua 0.8463925719261169
+[Transport link between wellington and northern regions of north island]: New zealand --[Has]-> Cities 0.8396409749984741
+[Connecting new zealand's remote regions with major urban centers]: Metlink --[Provides services to]-> Greater wellington region 0.8607345819473267
+[Connecting new zealand's remote regions with major urban centers]: Wellington regional council --[Operates]-> Metlink brand 0.8600178956985474
+[Connecting new zealand's remote regions with major urban centers]: Wellington --[Has]-> Metlink 0.8530012369155884
+[Connecting new zealand's remote regions with major urban centers]: Wellington --[Has]-> Metlink brand 0.8522277474403381
+[Connecting new zealand's remote regions with major urban centers]: Wellington --[Is]-> Capital city of new zealand 0.8464573621749878
+[Connecting new zealand's remote regions with major urban centers]: Metlink --[Includes]-> Hutt valley and porirua 0.8463925719261169
+[Connecting new zealand's remote regions with major urban centers]: New zealand --[Has]-> Cities 0.8396409749984741

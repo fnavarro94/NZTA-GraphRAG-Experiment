@@ -1,0 +1,30 @@
+How does NZTA handle reports of threats or attacks against driving test examiners?
+None
+Seed: Speed and Drunk Driving Enforcement
+Seed: national, regional and local road safety promotion and education campaigns
+Seed: Road Policing Activities
+Seed: breaches of rules or regulations
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[PROVIDES]-> https://www.nzta.govt.nz/assets/resources/road-policing-programme/docs/rpp-2021-24.pdf 0.8472787737846375
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[PROVIDES]-> Road Policing Activities 0.8016133308410645
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[DOUBLES]-> Speed and Drunk Driving Enforcement 0.7971984148025513
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[FOCUSES_ON]-> Restraints, Impairment, Distraction, Speed 0.7951189279556274
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[ALLOCATES]-> $1.24 billion 0.7636899352073669
+[national, regional and local road safety promotion and education campaigns]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8349337577819824
+[national, regional and local road safety promotion and education campaigns]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.8329094052314758
+[national, regional and local road safety promotion and education campaigns]: Crash Analysis --[PERFORMED_BY]-> Waka Kotahi NZ Transport Agency 0.8323148488998413
+[national, regional and local road safety promotion and education campaigns]: public transport fare policy review --[CONDUCTED_BY]-> Waka Kotahi NZ Transport Agency 0.8287869095802307
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8261119723320007
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.825971245765686
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.8255077600479126
+[Road Policing Activities]: Road Safety Partnership Programme --[PROVIDES]-> https://www.nzta.govt.nz/assets/resources/road-policing-programme/docs/rpp-2021-24.pdf 0.8472787737846375
+[Road Policing Activities]: Road Safety Partnership Programme --[PROVIDES]-> Road Policing Activities 0.8016133308410645
+[Road Policing Activities]: Road Safety Partnership Programme --[DOUBLES]-> Speed and Drunk Driving Enforcement 0.7971984148025513
+[Road Policing Activities]: Road Safety Partnership Programme --[FOCUSES_ON]-> Restraints, Impairment, Distraction, Speed 0.7951189279556274
+[Road Policing Activities]: Road Safety Partnership Programme --[ALLOCATES]-> $1.24 billion 0.7636899352073669
+[breaches of rules or regulations]: tests --[CONDUCTED_BY]-> Waka Kotahi 0.8188164830207825
+[breaches of rules or regulations]: Waka Kotahi --[INVESTIGATES]-> breaches of rules or regulations 0.8159617185592651
+[breaches of rules or regulations]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.8081533908843994
+[breaches of rules or regulations]: New Zealand Transport Agency --[IS]-> Waka Kotahi 0.8032714128494263
+[breaches of rules or regulations]: New Zealand Transport Agency --[DISCUSS]-> Waka Kotahi 0.8029387593269348
+[breaches of rules or regulations]: Waka Kotahi --[COLLABORATES_WITH]-> NZ Police 0.8014706969261169
+[breaches of rules or regulations]: Waka Kotahi --[INVESTIGATES]-> ride share operator complaints 0.8014683723449707

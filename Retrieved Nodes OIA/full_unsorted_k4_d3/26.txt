@@ -1,0 +1,36 @@
+Where can information about the average length of time taken to respond to OIA requests be found?
+None
+Seed: deadline for responding to request
+Seed: response to OIA request
+Seed: Request made under the Official Information Act 1982
+Seed: Request for Information
+[deadline for responding to request]: New Zealand Transport Agency --[EXTENDS]-> deadline for responding to request 0.8230007886886597
+[deadline for responding to request]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7743121385574341
+[deadline for responding to request]: New Zealand Transport Agency --[BASED]-> Wellington 0.7708762884140015
+[deadline for responding to request]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7579746246337891
+[deadline for responding to request]: Golden Mile --[LOCATED]-> Wellington 0.7284982204437256
+[deadline for responding to request]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7421029806137085
+[deadline for responding to request]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.780099630355835
+[deadline for responding to request]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7412952184677124
+[deadline for responding to request]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7467964291572571
+[deadline for responding to request]: Wellington --[PART_OF]-> Wellington Region 0.7651724219322205
+[deadline for responding to request]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7635307908058167
+[deadline for responding to request]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.766301155090332
+[deadline for responding to request]: Wellington --[HAS]-> tunnel 0.7535282373428345
+[deadline for responding to request]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7443917989730835
+[deadline for responding to request]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7608205080032349
+[deadline for responding to request]: Wellington --[POSTCODE]-> 6141 0.740111231803894
+[deadline for responding to request]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7650109529495239
+[deadline for responding to request]: Wellington --[IS_PART_OF]-> New Zealand 0.7482070922851562
+[deadline for responding to request]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7546182870864868
+[deadline for responding to request]: 50 Victoria Street --[IN]-> Wellington 0.7311301231384277
+[deadline for responding to request]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7765927910804749
+[deadline for responding to request]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.722745954990387
+[deadline for responding to request]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7672551274299622
+[deadline for responding to request]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7516195774078369
+[deadline for responding to request]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7481927871704102
+[deadline for responding to request]: NZ Transport Agency --[LOCATED]-> Wellington 0.7682809829711914
+[deadline for responding to request]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7377662658691406
+[deadline for responding to request]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7356648445129395
+[deadline for responding to request]: New Zealand --[CONTAINS]-> Wellington 0.7508755922317505
+[deadline for responding to request]: Wellington --[PART_OF]-> New Zealand 0.7566726207733154

@@ -1,0 +1,29 @@
+In what year did the establishment become established?
+None
+Seed: Commenced in 1840
+Seed: Early european settlement in 19th century
+Seed: Establishment of national land transport fund
+Seed: In early european settlement
+[Commenced in 1840]: Auckland ferry network --[Origins]-> Date back to 19th century 0.7783321142196655
+[Commenced in 1840]: Auckland ferry network --[First regular ferry service]-> Commenced in 1840 0.7781304121017456
+[Commenced in 1840]: Auckland ferry network --[Evolved]-> Over years 0.7771065831184387
+[Commenced in 1840]: Auckland ferry network --[Significant expansions and upgrades]-> Accommodate growing population and increasing demand 0.758752703666687
+[Commenced in 1840]: Auckland ferry network --[Facilitating]-> Trade and communication between settlements 0.7542312145233154
+[Commenced in 1840]: Auckland ferry network --[Part of]-> Auckland transport's broader strategy 0.753150224685669
+[Commenced in 1840]: Auckland ferry network --[Commitment to]-> Sustainability 0.7472070455551147
+[Early european settlement in 19th century]: New zealand --[Had]-> Early european settlement in 19th century 0.7815529704093933
+[Early european settlement in 19th century]: Public transport --[Underwent]-> Significant evolution 0.7739853262901306
+[Early european settlement in 19th century]: Vienna convention on road traffic --[Ratified by]-> Numerous countries 0.7708589434623718
+[Early european settlement in 19th century]: Vienna convention on road traffic --[Adopted]-> Graduated licensing system 0.7698907852172852
+[Early european settlement in 19th century]: New zealand --[Has adopted]-> Progressive approach 0.7660138607025146
+[Early european settlement in 19th century]: New zealand --[Had]-> First railway line between auckland and onehunga in 1873 0.7625345587730408
+[Early european settlement in 19th century]: New zealand transport agency --[Established in]-> 2008 0.7618445158004761
+[Establishment of national land transport fund]: New zealand --[Had]-> Early european settlement in 19th century 0.7815529704093933
+[Establishment of national land transport fund]: New zealand --[Has adopted]-> Progressive approach 0.7660138607025146
+[Establishment of national land transport fund]: Waka kotahi --[Established in]-> 2008 0.7636824250221252
+[Establishment of national land transport fund]: New zealand --[Had]-> First railway line between auckland and onehunga in 1873 0.7625345587730408
+[Establishment of national land transport fund]: Walking school bus --[Originated in]-> New zealand 0.7614378333091736
+[Establishment of national land transport fund]: New zealand --[Invested in]-> Expansion and improvement of national road network 0.7607514262199402
+[Establishment of national land transport fund]: New zealand --[Has]-> Evolved from top-down approach 0.7572593688964844
+[In early european settlement]: Road construction --[Was often rudimentary]-> In early european settlement 0.7652190923690796
+[In early european settlement]: Road construction --[Focused on]-> Connecting settlements and facilitating the transport of agricultural products 0.7438493967056274

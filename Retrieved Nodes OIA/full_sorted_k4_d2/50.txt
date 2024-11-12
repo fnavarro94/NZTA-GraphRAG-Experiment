@@ -1,0 +1,26 @@
+How is the NZTA engaging with regional councils regarding the Choice application?
+None
+Seed: Regional Investment Opportunities
+Seed: wider objectives in Regional Public Transport Plans
+Seed: does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?
+Seed: regional council readiness
+[Regional Investment Opportunities]: Ministry of Business, Innovation and Employment --[ADMINISTERS]-> Regional Investment Opportunities 0.8345450758934021
+[Regional Investment Opportunities]: Kānoa --[ADMINISTERS]-> Regional Investment Opportunities 0.8156194090843201
+[Regional Investment Opportunities]: project artworks --[PART_OF]-> Regional Investment Opportunities 0.8083450794219971
+[Regional Investment Opportunities]: Regional Investment Opportunities --[FUNDED]-> project artworks 0.8042013049125671
+[wider objectives in Regional Public Transport Plans]: wider objectives in Regional Public Transport Plans --[CONTRIBUTES]-> government's transport priorities 0.8225748538970947
+[wider objectives in Regional Public Transport Plans]: underlying principles of the current policy --[CONTRIBUTES]-> wider objectives in Regional Public Transport Plans 0.8158113956451416
+[wider objectives in Regional Public Transport Plans]: government's transport priorities --[INCLUDES]-> fares play an important role in helping cover the cost of public transport within available budgets 0.7853552103042603
+[wider objectives in Regional Public Transport Plans]: national farebox recovery target --[REPLACED_BY]-> underlying principles of the current policy 0.7819162011146545
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: Amanda Cropp --[REQUESTED]-> does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it? 0.9094824194908142
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: Amanda Cropp --[REQUESTED]-> is this just for Otago, other individual regions, or is there going to be a national version? 0.8557858467102051
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: Amanda Cropp --[ASSOCIATED_WITH]-> Users/felipenavarro/Documents/Auckland/nzta/nzta_dev/NZTA-GraphRAG/transport_data/sample_files/nzta/temp_files/oia-4813-Amanda-Cropp.pdf 0.8019232749938965
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: nzta_dev --[CONTAINS]-> Amanda Cropp 0.7994587421417236
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: Users/felipenavarro/Documents/Auckland/nzta/nzta_dev/NZTA-GraphRAG/transport_data/sample_files/nzta/temp_files/oia-4813-Amanda-Cropp.pdf --[CONTAINS]-> Amanda Cropp 0.7972105741500854
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: NZTA-GraphRAG --[CONTAINS]-> Amanda Cropp 0.7950424551963806
+[does this mean NZTA tested Choice and is now leaving it up to individual local authorities to set up their own versions of it?]: Amanda Cropp --[ASSOCIATED_WITH]-> nzta_dev 0.7880477905273438
+[regional council readiness]: payment option --[DEPENDENT_ON]-> regional council readiness 0.8448729515075684
+[regional council readiness]: regional council readiness --[READY_FOR]-> integration of payments 0.8217708468437195
+[regional council readiness]: payment option --[DEPENDENT_ON]-> current programmes 0.7938295602798462
+[regional council readiness]: integration of payments --[INTO]-> transport marketplaces 0.7680323123931885
+[regional council readiness]: payment option --[BEGIN]-> 2019 0.7636877298355103

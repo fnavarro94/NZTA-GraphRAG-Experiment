@@ -1,0 +1,26 @@
+What is the official designation of the scenic route in New Zealand that is known for attracting both domestic and international tourists?
+None
+Seed: Scenic routes such as the tranzalpine and the northern explorer
+Seed: Domestic and international tourists
+Seed: Renowned scenic roadway
+Seed: Scenic routes
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Showcase]-> New zealand's stunning landscapes 0.8293941617012024
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Include]-> Scenic routes such as the tranzalpine and the northern explorer 0.8044208884239197
+[Domestic and international tourists]: New zealand --[Has]-> Road transport 0.8530206084251404
+[Domestic and international tourists]: Road transport --[Attracts]-> Domestic and international tourists 0.8422207832336426
+[Domestic and international tourists]: Road transport --[Is]-> Most widely used mode of transport in new zealand 0.8421071171760559
+[Domestic and international tourists]: Road transport --[Predominant mode of]-> Land transport in new zealand 0.8365641832351685
+[Domestic and international tourists]: Road transport --[Characterized by]-> Scenic routes 0.834131121635437
+[Domestic and international tourists]: Wellington --[Has]-> Road transport 0.8327131271362305
+[Domestic and international tourists]: Kiwirail --[Collaborates with]-> Road transport 0.8064804077148438
+[Renowned scenic roadway]: Pacific coast highway --[Is]-> Scenic route 0.829089879989624
+[Renowned scenic roadway]: Pacific coast highway --[Is]-> Renowned scenic roadway 0.8269210457801819
+[Renowned scenic roadway]: Pacific coast highway --[Also known as]-> State route 1 0.793804407119751
+[Renowned scenic roadway]: Pacific coast highway --[Stretches along]-> Western coastline of the united states 0.777596116065979
+[Scenic routes]: New zealand --[Includes]-> Scenic routes 0.9051235914230347
+[Scenic routes]: New zealand --[Relies]-> Heavily on road transport for trade and tourism 0.8583072423934937
+[Scenic routes]: New zealand --[Has]-> Extensive road system 0.8566461205482483
+[Scenic routes]: New zealand --[Have]-> Unique geographical landscape 0.8540148138999939
+[Scenic routes]: New zealand --[Has]-> Road transport 0.8530206084251404
+[Scenic routes]: New zealand --[Has]-> Diverse range of transport modes 0.8523522615432739
+[Scenic routes]: New zealand --[Has]-> Unique geographical features 0.8511933088302612

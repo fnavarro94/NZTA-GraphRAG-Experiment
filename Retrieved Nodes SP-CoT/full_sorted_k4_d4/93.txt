@@ -1,0 +1,23 @@
+In which decade did the construction of the major railway line that is being upgraded to enhance its capacity and efficiency for sustainable transport begin?
+None
+Seed: Growing emphasis on sustainable transport solutions
+Seed: Vision for sustainable transport system
+Seed: Growing emphasis on sustainable transport options
+Seed: Sustainable and efficient transportation solutions
+[Growing emphasis on sustainable transport solutions]: Sustainable transport solutions --[Invested in]-> Expanding public transport networks 0.8654754161834717
+[Growing emphasis on sustainable transport solutions]: Sustainable transport solutions --[Focuses on]-> Public transport enhancements 0.858038067817688
+[Growing emphasis on sustainable transport solutions]: North island main trunk railway --[Upgraded]-> Improve efficiency 0.8566446900367737
+[Growing emphasis on sustainable transport solutions]: Wellington regional rail plan --[Developed in response to]-> Need for sustainable transport solutions 0.8535805344581604
+[Growing emphasis on sustainable transport solutions]: Public transport --[Underwent]-> Significant evolution 0.8532758355140686
+[Growing emphasis on sustainable transport solutions]: Kiwirail group --[Provides]-> Sustainable transport 0.8529066443443298
+[Growing emphasis on sustainable transport solutions]: Sustainable transport solutions --[Invested in]-> Light rail systems 0.8511062264442444
+[Vision for sustainable transport system]: New zealand transport strategy 2021 --[Outlines]-> Vision for sustainable transport system 0.8268712162971497
+[Growing emphasis on sustainable transport options]: North island --[Has]-> Growing emphasis on sustainable transport options 0.834995687007904
+[Growing emphasis on sustainable transport options]: North island --[Features]-> Cycling infrastructure and public transport initiatives 0.7911696434020996
+[Sustainable and efficient transportation solutions]: North island main trunk railway --[Upgraded]-> Improve efficiency 0.8566446900367737
+[Sustainable and efficient transportation solutions]: Wellington regional rail plan --[Developed in response to]-> Need for sustainable transport solutions 0.8535805344581604
+[Sustainable and efficient transportation solutions]: Public transport --[Underwent]-> Significant evolution 0.8532758355140686
+[Sustainable and efficient transportation solutions]: North island main trunk railway --[Holds]-> Sustainability 0.8490761518478394
+[Sustainable and efficient transportation solutions]: National land transport programme --[Aims to]-> Enhance sustainability 0.8462019562721252
+[Sustainable and efficient transportation solutions]: Transport infrastructure --[Ongoing development]-> Enhancing connectivity and supporting growing populations 0.8454719185829163
+[Sustainable and efficient transportation solutions]: Sustainable urban transport --[Key component]-> Comprehensive bus and train services 0.8448463678359985

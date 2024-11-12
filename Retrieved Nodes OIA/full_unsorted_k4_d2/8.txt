@@ -1,0 +1,36 @@
+Under which sections of the Official Information Act was certain information withheld in the OIA-15599 response?
+None
+Seed: Some information has been withheld under section 9(2)(f)(iv)
+Seed: Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)
+Seed: Request made under the Official Information Act 1982
+Seed: section 9(2)(j) of the Act
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[IS]-> Some information has been withheld under section 9(2)(f)(iv) 0.843669056892395
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[DATE]-> 24 April 2024 0.7288557887077332
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[IS]-> NTS rollout timeline 0.7368964552879333
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[IS]-> Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv) 0.8366753458976746
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[IS]-> Transport stakeholders meeting 0.7502071857452393
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[DATE]-> 17 April 2024 0.7410187125205994
+[Request made under the Official Information Act 1982]: Joel MacManus --[REQUEST]-> Request made under the Official Information Act 1982 0.8457763195037842
+[Request made under the Official Information Act 1982]: Joel MacManus --[EMAIL]-> joel.macmanus@stuff.co.nz 0.742405891418457
+[Request made under the Official Information Act 1982]: Joel MacManus --[REQUESTED]-> information under the Official Information Act 1982 0.8520205020904541
+[Request made under the Official Information Act 1982]: Joel MacManus --[DATE]-> 4 September 2020 0.6886046528816223
+[Request made under the Official Information Act 1982]: Joel MacManus --[EMAIL]-> 28 July 2020 0.7282596230506897
+[Request made under the Official Information Act 1982]: Joel MacManus --[REF]-> REF: OIA -6939 0.7583719491958618
+[Request made under the Official Information Act 1982]: Joel MacManus --[ITEMISED]-> itemised list of all Let’s Get Wellington Moving spending in 2020 to date 0.7224353551864624
+[Request made under the Official Information Act 1982]: Joel MacManus --[DEAR]-> Dear Joel 0.718061089515686
+[Request made under the Official Information Act 1982]: Joel MacManus --[ITEMISED]-> itemised breakdown of all spending on public consultation for Golden Mile upgrades 0.7502849102020264
+[Request made under the Official Information Act 1982]: Request made under the Official Information Act 1982 --[REQUEST_DATE]-> 30 October 2018 0.849858283996582
+[Request made under the Official Information Act 1982]: Request made under the Official Information Act 1982 --[REQUESTED_BY]-> Thomas Coughlan 0.8478659391403198
+[Request made under the Official Information Act 1982]: Thomas Coughlan --[REQUESTS]-> information under the Official Information Act 1982 0.8565431833267212
+[Request made under the Official Information Act 1982]: Newsroom --[EMPLOYS]-> Thomas Coughlan 0.7273833155632019
+[Request made under the Official Information Act 1982]: Thomas Coughlan --[EMPLOYER]-> Newsroom Pro 0.7299901843070984
+[Request made under the Official Information Act 1982]: Thomas Coughlan --[EMAIL]-> Thomas.Coughlan@newsroom.co.nz 0.7639712691307068
+[Request made under the Official Information Act 1982]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.8678512573242188
+[Request made under the Official Information Act 1982]: Request made under the Official Information Act 1982 --[REQUESTS]-> New Zealand Transport Agency 0.8342620134353638
+[Request made under the Official Information Act 1982]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7348044514656067
+[Request made under the Official Information Act 1982]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7512767314910889
+[Request made under the Official Information Act 1982]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7402448654174805
+[Request made under the Official Information Act 1982]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7262486219406128
+[Request made under the Official Information Act 1982]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7301009893417358
+[Request made under the Official Information Act 1982]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7460342645645142
+[Request made under the Official Information Act 1982]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7630825042724609

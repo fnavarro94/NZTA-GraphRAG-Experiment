@@ -1,0 +1,36 @@
+What international agreement does the program, established in 2010, which requires periodic testing of older vehicles to ensure they meet emissions standards throughout their operational life, align with to help limit global warming and reduce carbon emissions?
+None
+Seed: Vehicles meet specific emissions standards
+Seed: International agreements
+Seed: Paris agreement
+Seed: Commitment to reducing carbon emissions
+[Vehicles meet specific emissions standards]: Nzta --[Ensures]-> Vehicles meet specific emissions standards 0.8418089151382446
+[Vehicles meet specific emissions standards]: Nzta --[Plays a pivotal role in]-> The development and implementation of these systems 0.7434272766113281
+[Vehicles meet specific emissions standards]: Nzta --[Actively exploring]-> Connected and autonomous vehicles 0.7741276621818542
+[Vehicles meet specific emissions standards]: Nzta --[Actively exploring]-> The potential of emerging technologies 0.7467508912086487
+[Vehicles meet specific emissions standards]: Nzta --[Actively exploring]-> Improving road safety 0.7577587366104126
+[Vehicles meet specific emissions standards]: Nzta --[Actively exploring]-> Enhancing traffic management capabilities 0.7719435095787048
+[Vehicles meet specific emissions standards]: Nzta --[Works in collaboration with]-> Local councils and other stakeholders 0.7437331080436707
+[Vehicles meet specific emissions standards]: Nzta --[Responsible for]-> Administering nltf and prioritizing projects 0.7445530891418457
+[Vehicles meet specific emissions standards]: Nzta --[Collaborates with]-> Stakeholders 0.7509450912475586
+[Vehicles meet specific emissions standards]: Nzta --[Encourages]-> Safe driving practices 0.7605822086334229
+[Vehicles meet specific emissions standards]: Nzta --[Promotes]-> Road safety education 0.7463271617889404
+[Vehicles meet specific emissions standards]: Nzta --[Collaborates with]-> Local councils and community organizations 0.7463193535804749
+[Vehicles meet specific emissions standards]: Nzta --[Collaborates]-> With local councils and private contractors 0.7379547357559204
+[Vehicles meet specific emissions standards]: Nzta --[Plays]-> Pivotal role in overseeing road condition monitoring activities 0.7660689353942871
+[Vehicles meet specific emissions standards]: Nzta --[Focus on]-> Integration of technology 0.7670049071311951
+[Vehicles meet specific emissions standards]: Nzta --[Focus on]-> Operational efficiency 0.755993664264679
+[Vehicles meet specific emissions standards]: Nzta --[Play]-> Pivotal role 0.7047082185745239
+[Vehicles meet specific emissions standards]: Nzta --[Focus on]-> Improving user experience 0.7243281602859497
+[Vehicles meet specific emissions standards]: Nzta --[Plays]-> Pivotal role in administering laws 0.7252277135848999
+[Vehicles meet specific emissions standards]: Nzta --[Oversees]-> Licensing of drivers and vehicles 0.7722132205963135
+[Vehicles meet specific emissions standards]: Nzta --[Enforces]-> Regular vehicle inspections and maintenance checks to ensure compliance with safety standards 0.7824928760528564
+[Vehicles meet specific emissions standards]: Nzta --[Implements]-> Range of regulations and standards aimed at ensuring that heavy vehicles are safe to operate 0.7694395780563354
+[Vehicles meet specific emissions standards]: Nzta --[Collaborates with]-> Various training organizations to provide comprehensive education programs for heavy vehicle operators 0.7724617719650269
+[Vehicles meet specific emissions standards]: Nzta --[Is]-> Primary body responsible for overseeing heavy vehicle safety 0.7586550712585449
+[Vehicles meet specific emissions standards]: Nzta --[Ensures]-> Vehicles registered for use on public roads 0.7788289785385132
+[Vehicles meet specific emissions standards]: Nzta --[Promotes]-> Use of low-emission vehicles 0.8100212812423706
+[Vehicles meet specific emissions standards]: Nzta --[Responsible for]-> Implementing vehicle emissions regulations 0.8235540986061096
+[Vehicles meet specific emissions standards]: Nzta --[Promotes]-> Use of low-emission vehicles through various initiatives 0.8083788752555847
+[International agreements]: Vehicle safety standards --[Are governed by]-> International agreements 0.8289635181427002
+[International agreements]: Vehicle safety standards --[Encompass]-> Construction 0.7815912961959839

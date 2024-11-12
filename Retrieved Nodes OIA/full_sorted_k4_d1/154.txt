@@ -1,0 +1,13 @@
+What specific type of endorsement is mentioned in the OIA-2127 document?
+None
+Seed: applications for I endorsements
+Seed: standards for all licence endorsement holders
+Seed: I endorsement holders
+Seed: renewals of existing endorsement holders
+[applications for I endorsements]: Transport Agency --[ASSESS]-> applications for I endorsements 0.8482099175453186
+[applications for I endorsements]: applications for I endorsements --[INCLUDE]-> renewals of existing endorsement holders 0.8447509407997131
+[standards for all licence endorsement holders]: standards for all licence endorsement holders --[PART_OF]-> broader work to strengthen regulatory compliance 0.8302267789840698
+[standards for all licence endorsement holders]: New Zealand Transport Agency --[REVIEWING]-> standards for all licence endorsement holders 0.817961573600769
+[I endorsement holders]: I endorsement holders --[SUBJECT_TO]-> monitoring process 0.844489574432373
+[I endorsement holders]: New Zealand Transport Agency --[MONITORS]-> I endorsement holders 0.8374952077865601
+[renewals of existing endorsement holders]: applications for I endorsements --[INCLUDE]-> renewals of existing endorsement holders 0.8447509407997131

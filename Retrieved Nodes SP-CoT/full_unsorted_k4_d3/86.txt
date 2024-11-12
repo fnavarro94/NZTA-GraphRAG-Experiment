@@ -1,0 +1,36 @@
+What entity is responsible for identifying and mapping walking access routes under the legislation that aims to enhance the safety and accessibility of walking routes for pedestrians?
+None
+Seed: Legislative framework for road safety initiatives
+Seed: Developing pedestrian crossings
+Seed: Framework for implementing road safety campaigns and initiatives
+Seed: Advocacy groups
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Provides]-> Legislative framework for road safety initiatives 0.8409216403961182
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Reflected in]-> Land transport act 1998 0.8230408430099487
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Aiming to]-> Reduce road traffic accidents and fatalities 0.8098651170730591
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Emphasis on]-> Standardized road signs and signals 0.810148298740387
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Aimed at]-> Facilitating international road traffic 0.8179150223731995
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Integrated into]-> New zealand's national road traffic laws 0.82139652967453
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Ratified by]-> Numerous countries 0.7964857816696167
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Aimed at]-> Promoting road safety 0.8225834965705872
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Adopted]-> Graduated licensing system 0.802574098110199
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Reflected in]-> Road user rule 2004 0.817955493927002
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Reflects]-> New zealand's commitment to international standards in road safety and traffic management 0.7770481109619141
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Establishes]-> Uniform rules for road users 0.7982157468795776
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Promotes]-> Responsible use of vehicles 0.8007437586784363
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Aiming to]-> Novice drivers 0.7949013710021973
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Promotes]-> Safe driving practices 0.7968618273735046
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Instrumental in]-> Shaping new zealand's transport policies 0.791327953338623
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Provisions on]-> Driver licensing and vehicle registration 0.8040406703948975
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Implemented by]-> New zealand transport agency 0.8156033158302307
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Is]-> International treaty 0.8029624223709106
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Foundational element in]-> Promoting safe and efficient road use 0.8366938829421997
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Influenced]-> New zealand's road safety initiatives 0.8203132152557373
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Contributes to]-> Cohesive framework for road traffic regulations 0.808502733707428
+[Legislative framework for road safety initiatives]: New zealand --[Signatory to]-> Vienna convention on road traffic 0.7889778017997742
+[Legislative framework for road safety initiatives]: Road transport safety --[Governed by]-> Land transport act 1998 0.8418771028518677
+[Legislative framework for road safety initiatives]: Road transport safety --[Focus on]-> Safer roads 0.8341687321662903
+[Legislative framework for road safety initiatives]: Road transport safety --[Focus on]-> Safer road users 0.8335157036781311
+[Legislative framework for road safety initiatives]: Road transport safety --[Focus on]-> Safer vehicles 0.8188731670379639
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Establishes]-> Legal framework for enforcement of road rules 0.8228250741958618
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Establishes]-> Legal framework for registration of vehicles 0.8126072287559509
+[Legislative framework for road safety initiatives]: Road safety legislation --[Governed by]-> Land transport act 1998 0.8426333069801331

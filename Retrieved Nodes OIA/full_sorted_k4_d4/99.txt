@@ -1,0 +1,28 @@
+How many crashes occurred at the Kiddle Drive/Arrowsmith Avenue intersection in Taupō before October 2019?
+None
+Seed: Kiddle Drive/Arrowsmith Ave Taupō
+Seed: intersection of Kiddle Drive/Arrowsmith Ave
+Seed: Road Traffic Crashes
+Seed: traffic crash data
+[Kiddle Drive/Arrowsmith Ave Taupō]: Kiddle Drive/Arrowsmith Ave Taupō --[HAS_INTERSECTION]-> intersection 0.8762183785438538
+[intersection of Kiddle Drive/Arrowsmith Ave]: vehicle accidents --[LOCATED]-> intersection of Kiddle Drive/Arrowsmith Ave 0.9081364274024963
+[intersection of Kiddle Drive/Arrowsmith Ave]: intersection of Kiddle Drive/Arrowsmith Ave --[CROSSES]-> Napier Road 0.8535614609718323
+[intersection of Kiddle Drive/Arrowsmith Ave]: Napier Road --[IN]-> Taupo 0.8493763208389282
+[intersection of Kiddle Drive/Arrowsmith Ave]: Data --[LIMITED]-> intersection of Kiddle Drive/Arrowsmith Ave 0.8449587225914001
+[intersection of Kiddle Drive/Arrowsmith Ave]: Pedestrian and Cyclist Crashes --[ASSOCIATED_WITH]-> Road Safety Initiatives 0.8156737089157104
+[intersection of Kiddle Drive/Arrowsmith Ave]: per year --[FOR]-> road accident data 0.8129912614822388
+[intersection of Kiddle Drive/Arrowsmith Ave]: Traffic Crash Report --[PROVIDED_BY]-> NZ Police 0.8119720220565796
+[Road Traffic Crashes]: Road Traffic Crash Data --[RELATES_TO]-> Christchurch Region 0.8192196488380432
+[Road Traffic Crashes]: Road Traffic Crashes --[ANALYZED_BY]-> Crash Analysis 0.812159538269043
+[Road Traffic Crashes]: Traffic Crash Report --[PROVIDED_BY]-> NZ Police 0.8119720220565796
+[Road Traffic Crashes]: Crash Analysis --[PERFORMED_BY]-> Waka Kotahi NZ Transport Agency 0.8107101321220398
+[Road Traffic Crashes]: NZ Police --[INVESTIGATES]-> road traffic crashes 0.8099385499954224
+[Road Traffic Crashes]: Crash Analysis System --[UPDATED]-> Traffic Crash Report 0.8096208572387695
+[Road Traffic Crashes]: Road Crashes --[DECREASED]-> Lockdowns 0.806286633014679
+[traffic crash data]: vehicle accidents --[LOCATED]-> intersection of Kiddle Drive/Arrowsmith Ave 0.9081364274024963
+[traffic crash data]: intersection of Kiddle Drive/Arrowsmith Ave --[CROSSES]-> Napier Road 0.8535614609718323
+[traffic crash data]: Data --[LIMITED]-> intersection of Kiddle Drive/Arrowsmith Ave 0.8449587225914001
+[traffic crash data]: email of 12 May 2023 --[REQUESTS]-> accident or crash history 0.8256372213363647
+[traffic crash data]: Road Traffic Crash Data --[RELATES_TO]-> Christchurch Region 0.8192196488380432
+[traffic crash data]: Pedestrian and Cyclist Crashes --[ASSOCIATED_WITH]-> Road Safety Initiatives 0.8156737089157104
+[traffic crash data]: no records of fatal, serious or minor injury crashes --[OCCURRED]-> past 10 years 0.8142030835151672

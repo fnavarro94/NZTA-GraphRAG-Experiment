@@ -1,0 +1,34 @@
+What entity is responsible for identifying and mapping walking access routes under the legislation that aims to enhance the safety and accessibility of walking routes for pedestrians?
+None
+Seed: Legislative framework for road safety initiatives
+Seed: Developing pedestrian crossings
+Seed: Framework for implementing road safety campaigns and initiatives
+Seed: Advocacy groups
+[Legislative framework for road safety initiatives]: Road design guidelines --[Encompass]-> Road safety 0.8484141230583191
+[Legislative framework for road safety initiatives]: Road safety legislation --[Governed by]-> Land transport act 1998 0.8426333069801331
+[Legislative framework for road safety initiatives]: Road transport safety --[Governed by]-> Land transport act 1998 0.8418771028518677
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Provides]-> Legislative framework for road safety initiatives 0.8409216403961182
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Foundational element in]-> Promoting safe and efficient road use 0.8366938829421997
+[Legislative framework for road safety initiatives]: Road safety legislation --[Is]-> New zealand 0.8355472087860107
+[Legislative framework for road safety initiatives]: Road transport safety --[Focus on]-> Safer roads 0.8341687321662903
+[Developing pedestrian crossings]: Walking access act --[Promotes]-> Sustainable transport options 0.8654268383979797
+[Developing pedestrian crossings]: Land transport management act 2003 --[Supports]-> Transport accessibility 0.8589614629745483
+[Developing pedestrian crossings]: Road design guidelines --[Promote]-> Accessibility and inclusivity 0.8499302864074707
+[Developing pedestrian crossings]: Road design guidelines --[Encompass]-> Road safety 0.8484141230583191
+[Developing pedestrian crossings]: Road safety legislation --[Governed by]-> Land transport act 1998 0.8426333069801331
+[Developing pedestrian crossings]: Road design guidelines --[Encompass]-> Traffic control devices 0.8426151275634766
+[Developing pedestrian crossings]: Road transport safety --[Governed by]-> Land transport act 1998 0.8418771028518677
+[Framework for implementing road safety campaigns and initiatives]: Land transport act --[Provides]-> Framework for implementing road safety campaigns and initiatives 0.8417495489120483
+[Framework for implementing road safety campaigns and initiatives]: Land transport act --[Aims to create]-> Comprehensive framework for safe and efficient movement of people and goods 0.8230206966400146
+[Framework for implementing road safety campaigns and initiatives]: Land transport management act 2003 --[Is]-> Key piece of legislation 0.8191001415252686
+[Framework for implementing road safety campaigns and initiatives]: Land transport act --[Is]-> Key piece of legislation 0.8178098797798157
+[Framework for implementing road safety campaigns and initiatives]: Land transport act --[Complemented by]-> Regulations and codes 0.8151695728302002
+[Framework for implementing road safety campaigns and initiatives]: Health and safety at work act 2015 --[Is]-> Key piece of legislation 0.8079138994216919
+[Framework for implementing road safety campaigns and initiatives]: Land transport act --[Sets]-> Safety and emissions standards 0.8065180778503418
+[Advocacy groups]: Road design guidelines --[Promote]-> Accessibility and inclusivity 0.8499302864074707
+[Advocacy groups]: Road design guidelines --[Encompass]-> Road safety 0.8484141230583191
+[Advocacy groups]: Road traffic monitoring --[Aimed at]-> Informing transport policy 0.8428089022636414
+[Advocacy groups]: Road design guidelines --[Encompass]-> Traffic control devices 0.8426151275634766
+[Advocacy groups]: Road safety authority --[Is]-> Government agency 0.8420405983924866
+[Advocacy groups]: Road safety authority --[Operates under]-> Ministry of transport 0.8379744291305542
+[Advocacy groups]: Road safety authority --[Works closely with]-> Local authorities 0.8371890187263489

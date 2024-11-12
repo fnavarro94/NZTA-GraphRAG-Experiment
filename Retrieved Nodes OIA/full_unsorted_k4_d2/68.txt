@@ -1,0 +1,36 @@
+How much has been spent on heavy vehicle certification reviews and inspections as of February 2020?
+None
+Seed: 7,162 Clean Car fees
+Seed: audits under s198 of the Land Transport Act
+Seed: Audits under s198 of the Land Transport Act
+Seed: paid toll revenues
+[7,162 Clean Car fees]: Waka Kotahi --[RECEIVED]-> 7,162 Clean Car fees 0.8075287342071533
+[7,162 Clean Car fees]: Response --[CONTAINS]-> Waka Kotahi 0.7551038861274719
+[7,162 Clean Car fees]: response --[CONTAINS]-> Waka Kotahi 0.7352060079574585
+[7,162 Clean Car fees]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.7460430860519409
+[7,162 Clean Car fees]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.7273677587509155
+[7,162 Clean Car fees]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7361662983894348
+[7,162 Clean Car fees]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7502555847167969
+[7,162 Clean Car fees]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.7050736546516418
+[7,162 Clean Car fees]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7108621001243591
+[7,162 Clean Car fees]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.7315662503242493
+[7,162 Clean Car fees]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.7637548446655273
+[7,162 Clean Car fees]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7540702223777771
+[7,162 Clean Car fees]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.73663729429245
+[7,162 Clean Car fees]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.7530418038368225
+[7,162 Clean Car fees]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.7410602569580078
+[7,162 Clean Car fees]: Leisa Coley --[EMPLOYED_BY]-> Waka Kotahi 0.7172248363494873
+[7,162 Clean Car fees]: Lizette Marais --[EMPLOYED_BY]-> Waka Kotahi 0.7036337852478027
+[7,162 Clean Car fees]: Waka Kotahi --[EMPLOYS]-> Andy Knackstedt 0.7184697389602661
+[7,162 Clean Car fees]: Waka Kotahi --[EMPLOYS]-> Qualified Staff 0.7214483618736267
+[7,162 Clean Car fees]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.7561072707176208
+[7,162 Clean Car fees]: website --[RELATES_TO]-> Waka Kotahi 0.7355004549026489
+[7,162 Clean Car fees]: Waka Kotahi --[RESPONDS_TO]-> OIA request 0.7439088821411133
+[7,162 Clean Car fees]: Waka Kotahi --[RESPONDS_TO]-> request 0.7449756860733032
+[7,162 Clean Car fees]: Waka Kotahi --[PROVIDES]-> OIA-10601-response-georgina-campbell.pdf 0.7535966038703918
+[7,162 Clean Car fees]: Waka Kotahi --[PROVIDES]-> outcome of suspension 0.7420485019683838
+[7,162 Clean Car fees]: Waka Kotahi --[PROVIDES]-> outcome of surrendered 0.7094845771789551
+[7,162 Clean Car fees]: Waka Kotahi --[PROVIDES]-> information on website 0.749977707862854
+[7,162 Clean Car fees]: Waka Kotahi --[PROVIDES]-> outcome of revoke 0.7276996374130249
+[7,162 Clean Car fees]: Waka Kotahi --[PROVIDES]-> warnings to individuals 0.7371463775634766
+[7,162 Clean Car fees]: Waka Kotahi --[PROVIDES]-> Transport Data 0.7814922332763672

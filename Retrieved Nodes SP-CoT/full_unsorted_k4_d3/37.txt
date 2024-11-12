@@ -1,0 +1,36 @@
+Who developed the initiative that focuses on improving public transport services and infrastructure in Wellington to enhance the travel experience for users?
+None
+Seed: Enhance and optimize public transport services
+Seed: Improving public transport services
+Seed: Promoting public transport initiatives
+Seed: Enhancing public transport infrastructure
+[Enhance and optimize public transport services]: Wellington regional public transport plan --[Aims to]-> Enhance and optimize public transport services 0.8979427218437195
+[Enhance and optimize public transport services]: Wellington regional public transport plan --[Key components]-> Community engagement 0.8676769137382507
+[Enhance and optimize public transport services]: Auckland cycling network plan --[Primary objectives]-> Community engagement 0.8262925744056702
+[Enhance and optimize public transport services]: Road safety authority --[Encourages]-> Community engagement 0.7917953729629517
+[Enhance and optimize public transport services]: Wellington public transport plan --[Objectives include]-> Community engagement 0.8774093985557556
+[Enhance and optimize public transport services]: Wellington regional rail plan --[Involved]-> Community engagement 0.8537938594818115
+[Enhance and optimize public transport services]: Auckland transport --[Actively involved in]-> Community engagement 0.8513437509536743
+[Enhance and optimize public transport services]: Walking school bus --[Fosters]-> Community engagement 0.7865282297134399
+[Enhance and optimize public transport services]: Wellington public transport spine study --[Involves]-> Community engagement 0.8654040098190308
+[Enhance and optimize public transport services]: Road infrastructure resilience --[Emphasizes]-> Community engagement 0.8057013154029846
+[Enhance and optimize public transport services]: Road infrastructure resilience --[Encompasses]-> Community engagement 0.8078293800354004
+[Enhance and optimize public transport services]: Road safety education --[Includes]-> Community engagement 0.7723720073699951
+[Enhance and optimize public transport services]: Community engagement --[Is]-> Critical aspect of transport planning 0.8323424458503723
+[Enhance and optimize public transport services]: Community engagement --[Employs]-> Various methods 0.7695443034172058
+[Enhance and optimize public transport services]: Local government --[Manages]-> Community engagement 0.7772197723388672
+[Enhance and optimize public transport services]: Community engagement --[Enhances]-> Overall effectiveness of resilience initiatives 0.7891814112663269
+[Enhance and optimize public transport services]: Community engagement --[Plays a vital role in]-> Building road network resilience 0.8017258644104004
+[Enhance and optimize public transport services]: Community engagement --[Fosters]-> Sense of ownership and preparedness among residents 0.7560111880302429
+[Enhance and optimize public transport services]: Wellington regional public transport plan --[Key components]-> Sustainability initiatives 0.8622811436653137
+[Enhance and optimize public transport services]: Kiwirail --[Focuses on]-> Sustainability initiatives 0.8193351030349731
+[Enhance and optimize public transport services]: Wellington regional public transport plan --[Primary objectives]-> Promote use of public transport as alternative to private vehicle use 0.873751163482666
+[Enhance and optimize public transport services]: Wellington regional public transport plan --[Established under]-> Land transport management act 2003 0.8583613634109497
+[Enhance and optimize public transport services]: Land transport management act 2003 --[Aims to]-> Provide framework for sustainable development 0.7710769176483154
+[Enhance and optimize public transport services]: Land transport management act 2003 --[Provides for]-> Establishment of national land transport fund 0.7628150582313538
+[Enhance and optimize public transport services]: Land transport management act 2003 --[Enacted on]-> 1 july 2004 0.7702903151512146
+[Enhance and optimize public transport services]: Land transport management act 2003 --[Is]-> Key piece of legislation 0.7621524333953857
+[Enhance and optimize public transport services]: Land transport management act 2003 --[Has been updated]-> To incorporate principles of sustainability 0.7524850964546204
+[Enhance and optimize public transport services]: Land transport management act 2003 --[Has undergone]-> Several amendments to address emerging transport challenges 0.7834934592247009
+[Enhance and optimize public transport services]: Land transport management act 2003 --[Mandates]-> Involvement of various stakeholders in planning and decision-making processes 0.7791920900344849
+[Enhance and optimize public transport services]: Land transport management act 2003 --[Establishes]-> Framework for development of regional land transport plans 0.789344072341919

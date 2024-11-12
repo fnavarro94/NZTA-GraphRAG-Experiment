@@ -1,0 +1,36 @@
+Are there exemptions for wearing motorcycle helmets on religious grounds in New Zealand?
+None
+Seed: an adherent of the Sikh religion to be excused from wearing a motorcycle helmet, providing they will not be travelling at a speed exceeding 50kmph
+Seed: exemptions
+Seed: grant formal exemptions
+Seed: instances where a driver and/or passenger may automatically be excused from the requirement to utilise a child restrain and seatbelt
+[an adherent of the Sikh religion to be excused from wearing a motorcycle helmet, providing they will not be travelling at a speed exceeding 50kmph]: Land Transport (Road User) Rule 2004 --[ALLOWS]-> an adherent of the Sikh religion to be excused from wearing a motorcycle helmet, providing they will not be travelling at a speed exceeding 50kmph 0.8580515384674072
+[an adherent of the Sikh religion to be excused from wearing a motorcycle helmet, providing they will not be travelling at a speed exceeding 50kmph]: Land Transport (Road User) Rule 2004 --[SPECIFIES]-> instances where a driver and/or passenger may automatically be excused from the requirement to utilise a child restrain and seatbelt 0.8046164512634277
+[exemptions]: New Zealand Transport Agency --[GRANTS]-> exemptions 0.8451533317565918
+[exemptions]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7874782085418701
+[exemptions]: New Zealand Transport Agency --[BASED]-> Wellington 0.7930495738983154
+[exemptions]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7660152316093445
+[exemptions]: Golden Mile --[LOCATED]-> Wellington 0.7516478896141052
+[exemptions]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7862601280212402
+[exemptions]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.785707414150238
+[exemptions]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7514686584472656
+[exemptions]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7556596994400024
+[exemptions]: Wellington --[PART_OF]-> Wellington Region 0.7753291726112366
+[exemptions]: New Zealand --[HAS_CAPITAL]-> Wellington 0.806309163570404
+[exemptions]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7742155194282532
+[exemptions]: Wellington --[HAS]-> tunnel 0.7912555932998657
+[exemptions]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7661526203155518
+[exemptions]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7565564513206482
+[exemptions]: Wellington --[POSTCODE]-> 6141 0.7384390830993652
+[exemptions]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7835390567779541
+[exemptions]: Wellington --[IS_PART_OF]-> New Zealand 0.7925800681114197
+[exemptions]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.796272337436676
+[exemptions]: 50 Victoria Street --[IN]-> Wellington 0.7523966431617737
+[exemptions]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7845470309257507
+[exemptions]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7597528696060181
+[exemptions]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7553051114082336
+[exemptions]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7675764560699463
+[exemptions]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7690266370773315
+[exemptions]: NZ Transport Agency --[LOCATED]-> Wellington 0.7873587012290955
+[exemptions]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7717278599739075
+[exemptions]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7478090524673462

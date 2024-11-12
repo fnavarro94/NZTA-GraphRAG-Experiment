@@ -1,0 +1,34 @@
+What is the definition of a road used by the Crash Analysis System (CAS)?
+None
+Seed: Guide for the interpretation of coded crash reports
+Seed: Road Safety Analysis
+Seed: Crash Analysis System
+Seed: Road Traffic Crash Data
+[Guide for the interpretation of coded crash reports]: Transport Agency --[PROVIDES]-> Guide for the interpretation of coded crash reports 0.8414613604545593
+[Guide for the interpretation of coded crash reports]: Transport Agency --[CROSS_REFERENCES]-> CAS 0.8343848586082458
+[Guide for the interpretation of coded crash reports]: Guide for the interpretation of coded crash reports --[AVAILABLE_AT]-> https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf 0.8188116550445557
+[Guide for the interpretation of coded crash reports]: analysis --[PERFORMED_BY]-> Transport Agency 0.8186324238777161
+[Guide for the interpretation of coded crash reports]: https://www.nzta.govt.nz/assets/resources/guide-to-coded-crash-reports/docs/guide-to-coded-crash-reports.pdf --[ACCESSIBLE]-> online 0.8101710677146912
+[Guide for the interpretation of coded crash reports]: Transport Agency --[GETS_INFORMATION]-> Traffic Crash Reports 0.808015763759613
+[Guide for the interpretation of coded crash reports]: frequency --[ANALYZED]-> Transport Agency 0.7999269962310791
+[Road Safety Analysis]: Galina Mitchelhill --[RESPONSIBLE_FOR]-> Traffic Flow Analysis 0.8048858642578125
+[Road Safety Analysis]: Galina Mitchelhill --[RESPONSIBLE_FOR]-> Road Safety Analysis 0.8029646873474121
+[Road Safety Analysis]: Galina Mitchelhill --[RESPONSIBLE_FOR]-> Traffic Management Analysis 0.7988894581794739
+[Road Safety Analysis]: Galina Mitchelhill --[RESPONSIBLE_FOR]-> Transport Infrastructure Analysis 0.7975506782531738
+[Road Safety Analysis]: Galina Mitchelhill --[RESPONSIBLE_FOR]-> Transport Planning Analysis 0.7935892343521118
+[Road Safety Analysis]: Galina Mitchelhill --[RESPONSIBLE_FOR]-> Transport Strategy Analysis 0.7928365468978882
+[Road Safety Analysis]: Galina Mitchelhill --[RESPONSIBLE_FOR]-> Transport Technology Analysis 0.787834107875824
+[Crash Analysis System]: Crash Analysis System --[PROVIDES]-> road accident data 0.8840524554252625
+[Crash Analysis System]: Crash Analysis System --[PROVIDES]-> data on road traffic crashes 0.8805290460586548
+[Crash Analysis System]: Crash Analysis System --[PROVIDES]-> Traffic Crash Report 0.8751748204231262
+[Crash Analysis System]: Crash Analysis System --[PROVIDES]-> traffic crash data 0.8734886050224304
+[Crash Analysis System]: Crash Analysis System --[CONTAINS]-> Traffic Crash Report 0.8718676567077637
+[Crash Analysis System]: Crash Analysis System --[ASSOCIATED_WITH]-> Traffic Crash Report 0.8716850876808167
+[Crash Analysis System]: Traffic Crash Report --[ASSOCIATED_WITH]-> Crash Analysis System 0.8653901815414429
+[Road Traffic Crash Data]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.8516104221343994
+[Road Traffic Crash Data]: Road Traffic Crash Data --[RELATES_TO]-> Christchurch Region 0.8450146913528442
+[Road Traffic Crash Data]: Crash Analysis --[PERFORMED_BY]-> Waka Kotahi NZ Transport Agency 0.8315655589103699
+[Road Traffic Crash Data]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.8200898766517639
+[Road Traffic Crash Data]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.8091425895690918
+[Road Traffic Crash Data]: Christchurch Region --[HAS]-> Roads 0.797631025314331
+[Road Traffic Crash Data]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.7821125388145447

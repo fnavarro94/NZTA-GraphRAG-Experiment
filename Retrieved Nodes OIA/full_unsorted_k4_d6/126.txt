@@ -1,0 +1,36 @@
+Were any details about the crash that caused the $93,114.27 repair withheld?
+None
+Seed: figures on drivers involved in fatal crashes
+Seed: report on the impacts of the Fare Recovery Ratio
+Seed: Traffic Crash Reports
+Seed: Operated A Motor Vehicle Recklessly
+[figures on drivers involved in fatal crashes]: AA --[PROVIDES]-> figures on drivers involved in fatal crashes 0.8103829622268677
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[PRODUCES]-> report on the impacts of the Fare Recovery Ratio 0.7906550168991089
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.761494517326355
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[BASED]-> Wellington 0.7631581425666809
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7614278197288513
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.7628685832023621
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7590530514717102
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.757175862789154
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7628323435783386
+[report on the impacts of the Fare Recovery Ratio]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.75267493724823
+[report on the impacts of the Fare Recovery Ratio]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7481288909912109
+[report on the impacts of the Fare Recovery Ratio]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7522875070571899
+[report on the impacts of the Fare Recovery Ratio]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7742292881011963
+[report on the impacts of the Fare Recovery Ratio]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7725215554237366
+[report on the impacts of the Fare Recovery Ratio]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7708578705787659
+[report on the impacts of the Fare Recovery Ratio]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7710942029953003
+[report on the impacts of the Fare Recovery Ratio]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7683079838752747
+[report on the impacts of the Fare Recovery Ratio]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7520164847373962
+[report on the impacts of the Fare Recovery Ratio]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7746695876121521
+[report on the impacts of the Fare Recovery Ratio]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7911807894706726
+[report on the impacts of the Fare Recovery Ratio]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7590700387954712
+[report on the impacts of the Fare Recovery Ratio]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.763498842716217
+[report on the impacts of the Fare Recovery Ratio]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7974143028259277
+[report on the impacts of the Fare Recovery Ratio]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7531124353408813
+[report on the impacts of the Fare Recovery Ratio]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7907363176345825
+[report on the impacts of the Fare Recovery Ratio]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7790660262107849
+[report on the impacts of the Fare Recovery Ratio]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7922581434249878
+[report on the impacts of the Fare Recovery Ratio]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7604070901870728
+[report on the impacts of the Fare Recovery Ratio]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7821000814437866
+[report on the impacts of the Fare Recovery Ratio]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7921071648597717

@@ -1,0 +1,33 @@
+Where can data about daily traffic volumes on Hewletts Road be found?
+None
+Seed: Open Data portal for information about daily traffic volumes on Hewletts Road
+Seed: traffic counter sites on Hewletts Road
+Seed: Road Traffic Volumes
+Seed: traffic on the roads
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Open Data portal for information about daily traffic volumes on Hewletts Road --[LINKED_TO]-> https://maphub.nzta.govt.nz/public/?appid=31305d4c1c794c1188a87da0d3e85d04 0.9535813331604004
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.908386766910553
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: traffic counter sites on Hewletts Road --[DOES_NOT]-> separate heavy or light vehicles 0.8952828049659729
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.8663623332977295
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Road Traffic Crash Data --[RELATES_TO]-> Christchurch Region 0.8649009466171265
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: street lights data --[CONTAINS]-> Motorway 0.851727306842804
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: transport data --[LOCATED_IN]-> /Users/felipenavarro/Documents/Auckland/nzta/nzta_dev/NZTA-GraphRAG/transport_data/sample_files/nzta/temp_files/oia-12201-response-letter.pdf 0.8517102003097534
+[traffic counter sites on Hewletts Road]: Open Data portal for information about daily traffic volumes on Hewletts Road --[LINKED_TO]-> https://maphub.nzta.govt.nz/public/?appid=31305d4c1c794c1188a87da0d3e85d04 0.9535813331604004
+[traffic counter sites on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.908386766910553
+[traffic counter sites on Hewletts Road]: traffic counter sites on Hewletts Road --[DOES_NOT]-> separate heavy or light vehicles 0.8952828049659729
+[traffic counter sites on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.8663623332977295
+[traffic counter sites on Hewletts Road]: Road Traffic Crash Data --[RELATES_TO]-> Christchurch Region 0.8649009466171265
+[traffic counter sites on Hewletts Road]: street lights data --[CONTAINS]-> Motorway 0.851727306842804
+[traffic counter sites on Hewletts Road]: transport data --[LOCATED_IN]-> /Users/felipenavarro/Documents/Auckland/nzta/nzta_dev/NZTA-GraphRAG/transport_data/sample_files/nzta/temp_files/oia-12201-response-letter.pdf 0.8517102003097534
+[Road Traffic Volumes]: street lights data --[CONTAINS]-> Motorway 0.851727306842804
+[Road Traffic Volumes]: transport data --[LOCATED_IN]-> /Users/felipenavarro/Documents/Auckland/nzta/nzta_dev/NZTA-GraphRAG/transport_data/sample_files/nzta/temp_files/oia-12201-response-letter.pdf 0.8517102003097534
+[Road Traffic Volumes]: NZ Transport Agency --[PROVIDES]-> transport data 0.8515135049819946
+[Road Traffic Volumes]: New Zealand Transport Agency --[PROVIDES]-> Transport Data 0.8512804508209229
+[Road Traffic Volumes]: New Zealand Transport Agency --[PROVIDES]-> transport data 0.8512804508209229
+[Road Traffic Volumes]: Transport Data --[PROVIDED_BY]-> New Zealand Transport Agency 0.8504289388656616
+[Road Traffic Volumes]: Transport Data --[AVAILABLE_AT]-> https://vehicleinspection.nzta.govt.nz/virms/hvsc/tb/modifications-to-trucks-cabs#heading4-for-tab1 0.8486259579658508
+[traffic on the roads]: Red level --[AFFECTS]-> traffic on the roads 0.8270233869552612
+[traffic on the roads]: Orange level --[AFFECTS]-> traffic on the roads 0.8193462491035461
+[traffic on the roads]: Covid-19 lockdowns --[AFFECTS]-> road traffic 0.8135499358177185
+[traffic on the roads]: Covid-19 pandemic --[AFFECTS]-> road traffic 0.7994634509086609
+[traffic on the roads]: Covid-19 pandemic --[AFFECTS]-> traffic on the roads 0.7988927364349365
+[traffic on the roads]: Covid-19 pandemic --[AFFECTS]-> road crashes 0.7789002656936646

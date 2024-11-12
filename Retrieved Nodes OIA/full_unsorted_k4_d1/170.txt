@@ -1,0 +1,11 @@
+How does NZTA handle conflicts of interest when investigating contractors?
+None
+Seed: conflicts of interest by senior staff
+Seed: Conflict of interest
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: conflict of interest
+[conflicts of interest by senior staff]: New Zealand Transport Agency --[NOTIFIES]-> conflicts of interest by senior staff 0.87937992811203
+[Conflict of interest]: New Zealand Transport Agency --[MANAGES]-> Conflict of interest 0.9016110301017761
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUESTS]-> detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) 0.8450839519500732
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) --[CONTRACTS]-> consultants 0.8618881106376648
+[conflict of interest]: New Zealand Transport Agency --[MANAGES]-> conflict of interest 0.9016110301017761

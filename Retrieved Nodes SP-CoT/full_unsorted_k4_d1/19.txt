@@ -1,0 +1,10 @@
+When were the stages of the major project in Auckland designed to provide alternative routes and reduce bottlenecks in the transport network officially opened?
+None
+Seed: Addressing transport challenges in auckland
+Seed: Development of comprehensive transport network
+Seed: New zealand's broader transport goals
+Seed: New zealand's national transport objectives
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Addressing transport challenges in auckland 0.8803460597991943
+[Development of comprehensive transport network]: Auckland transport alignment project --[Focuses on]-> Development of comprehensive transport network 0.8963353633880615
+[New zealand's broader transport goals]: Wellington cycle network --[Aligned with]-> New zealand's broader transport goals 0.8817731142044067
+[New zealand's national transport objectives]: Auckland cycling network plan --[Aligns with]-> New zealand's national transport objectives 0.8730311989784241

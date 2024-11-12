@@ -1,0 +1,36 @@
+Where can data about daily traffic volumes on Hewletts Road be found?
+None
+Seed: Open Data portal for information about daily traffic volumes on Hewletts Road
+Seed: traffic counter sites on Hewletts Road
+Seed: Road Traffic Volumes
+Seed: traffic on the roads
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.908386766910553
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7891364097595215
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.7998998165130615
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.7920652627944946
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> list of LGWM construction contracts 0.7633910179138184
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> public transport fare policy review 0.7712498903274536
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.8379228711128235
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8159463405609131
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.8663623332977295
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[FAX]-> F 64 4 894 6100 0.7815110683441162
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Andrew Knackstedt --[CONTACT]-> Waka Kotahi NZ Transport Agency 0.7921586036682129
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[CONTACT]-> T 64 4 894 5400 0.784521222114563
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7858552932739258
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Chris Marshall --[REQUESTS]-> Waka Kotahi NZ Transport Agency 0.7728930115699768
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.7976044416427612
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.7961682677268982
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.793083131313324
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[ANNOUNCED]-> Road to Zero 0.7887227535247803
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.7889552116394043
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Road to Zero --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8045958280563354
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.7708176970481873
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7906135320663452
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: New Zealand --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7852709889411926
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.7933298945426941
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7881284952163696
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: www.nzta.govt.nz --[OF]-> Waka Kotahi NZ Transport Agency 0.8108065128326416
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7850542664527893
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7819740176200867
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7763092517852783
+[Open Data portal for information about daily traffic volumes on Hewletts Road]: Waka Kotahi NZ Transport Agency --[COUNTRY]-> New Zealand 0.7719365954399109

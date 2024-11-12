@@ -1,0 +1,16 @@
+What repair options are being considered for Kōpū Hill Road, SH25A?
+None
+Seed: committee managing the Kopa Hill Road repair process
+Seed: State Highway 25A Rebuild Project
+Seed: request for pothole repair cost information
+Seed: information on state highway maintenance
+[committee managing the Kopa Hill Road repair process]: committee managing the Kopa Hill Road repair process --[MANAGES]-> New Zealand Transport Agency 0.8485589027404785
+[committee managing the Kopa Hill Road repair process]: New Zealand Transport Agency --[MANAGES]-> committee managing the Kopa Hill Road repair process 0.8449010252952576
+[State Highway 25A Rebuild Project]: Waka Kotahi Senior Project Manager --[MANAGES]-> State Highway 25A Rebuild Project 0.8524951934814453
+[request for pothole repair cost information]: New Zealand Transport Agency --[CONSIDERS]-> request for pothole repair cost information 0.8356320858001709
+[request for pothole repair cost information]: request for pothole repair cost information --[SUBJECT_TO]-> sections 18A and 18B of the Act 0.8211295008659363
+[request for pothole repair cost information]: request for pothole repair cost information --[SUBJECT_TO]-> section 18(f) of the Act 0.8178248405456543
+[request for pothole repair cost information]: section 18(f) of the Act --[APPLIES_TO]-> request for pothole repair cost information 0.8072319030761719
+[request for pothole repair cost information]: sections 18A and 18B of the Act --[APPLIES_TO]-> request for pothole repair cost information 0.8069159388542175
+[request for pothole repair cost information]: New Zealand Transport Agency --[REFUSES]-> request for pothole repair cost information 0.8037606477737427
+[information on state highway maintenance]: New Zealand Transport Agency --[PROVIDES]-> information on state highway maintenance 0.8182952404022217

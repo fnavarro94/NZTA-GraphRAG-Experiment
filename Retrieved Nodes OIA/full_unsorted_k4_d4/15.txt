@@ -1,0 +1,36 @@
+What were the safety failures identified in Go Wellington buses during the inspections in April and May 2013?
+None
+Seed: Safety Incidents
+Seed: rail operational safety
+Seed: Senior Manager Road Safety
+Seed: Vehicle Safety
+[Safety Incidents]: Health, Safety & Quality Report --[CONTAINS]-> Safety Incidents 0.8126248717308044
+[Safety Incidents]: Stephen Bell --[SUBMITS_REPORT]-> Health, Safety & Quality Report 0.7792056202888489
+[Safety Incidents]: Board --[RECEIVES_REPORT]-> Health, Safety & Quality Report 0.7784532904624939
+[Safety Incidents]: Safety Incidents --[INVESTIGATED]-> Board 0.829444169998169
+[rail operational safety]: awareness --[increased]-> rail operational safety 0.7968844175338745
+[rail operational safety]: tool box talks --[given]-> awareness 0.7300440073013306
+[rail operational safety]: State Highway 1 --[identified]-> tool box talks 0.770982027053833
+[rail operational safety]: road safety --[ENHANCED_BY]-> State Highway 1 0.7812713980674744
+[rail operational safety]: State Highway 1 --[REPAIRS]-> potholes 0.7647852301597595
+[rail operational safety]: Road Safety Initiatives --[IMPROVES]-> State Highway 1 0.7692365646362305
+[rail operational safety]: State Highway 1 --[LOCATED_IN]-> Wellington 0.8161636590957642
+[rail operational safety]: road maintenance --[OVERDUE]-> State Highway 1 0.7875800132751465
+[rail operational safety]: State Highway 1 --[OVERDUE]-> road maintenance 0.7975953221321106
+[rail operational safety]: State Highway 1 --[IN]-> Bay of Plenty 0.7368404269218445
+[rail operational safety]: State Highway 1 --[IMPROVES]-> safety 0.7643561363220215
+[rail operational safety]: 100M --[ALLOCATED_FOR]-> State Highway 1 0.7505301833152771
+[rail operational safety]: State Highway 1 --[IS_PART_OF]-> New Zealand 0.7783889770507812
+[rail operational safety]: road maintenance --[ASSOCIATED_WITH]-> State Highway 1 0.7814594507217407
+[rail operational safety]: funding for road maintenance --[FOR]-> State Highway 1 0.7710762619972229
+[rail operational safety]: State Highway 1 --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.7847816348075867
+[rail operational safety]: road safety initiatives --[TARGETS]-> State Highway 1 0.775057852268219
+[rail operational safety]: public transport fare policy review --[AFFECTS]-> State Highway 1 0.7835396528244019
+[rail operational safety]: Waka Kotahi NZ Transport Agency --[MANAGES]-> State Highway 1 0.7865968346595764
+[rail operational safety]: State Highway 1 --[MAINTAINED_BY]-> New Zealand Transport Agency 0.7879593968391418
+[rail operational safety]: New Zealand --[HAS_HIGHWAY]-> State Highway 1 0.789160430431366
+[rail operational safety]: Road Maintenance --[IMPROVES]-> State Highway 1 0.7547898292541504
+[rail operational safety]: Road Safety --[RELATES_TO]-> State Highway 1 0.7868897318840027
+[rail operational safety]: State Highway 1 --[LOCATED_IN]-> New Zealand 0.7812052965164185
+[rail operational safety]: State Highway 1 --[LOCATED_IN]-> Auckland 0.7797321081161499
+[rail operational safety]: New Zealand Transport Agency --[MANAGES]-> State Highway 1 0.7957586646080017

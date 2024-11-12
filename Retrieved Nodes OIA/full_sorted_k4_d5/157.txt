@@ -1,0 +1,28 @@
+How much has been spent on consultants for the long tunnel option investigation in Wellington?
+None
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: proposed long tunnel option for Wellington
+Seed: $130,675
+Seed: $6.185 million
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) --[CONTRACTS]-> consultants 0.9122844934463501
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: technical feasibility and cost --[FOR]-> proposed long tunnel option for Wellington 0.8984545469284058
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUESTS]-> detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) 0.8784940242767334
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.8709438443183899
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Wellington --[HAS]-> tunnel 0.8476678133010864
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: consultation --[COST]-> $417,164 0.8467532396316528
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Wellington Gateway Partnership --[RECEIVES]-> Prolongation Costs 0.8459826707839966
+[proposed long tunnel option for Wellington]: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) --[CONTRACTS]-> consultants 0.9122844934463501
+[proposed long tunnel option for Wellington]: technical feasibility and cost --[FOR]-> proposed long tunnel option for Wellington 0.8984545469284058
+[proposed long tunnel option for Wellington]: Request made under the Official Information Act 1982 --[REQUESTS]-> detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) 0.8784940242767334
+[proposed long tunnel option for Wellington]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.8709438443183899
+[proposed long tunnel option for Wellington]: Wellington --[HAS]-> tunnel 0.8476678133010864
+[proposed long tunnel option for Wellington]: consultation --[COST]-> $417,164 0.8467532396316528
+[proposed long tunnel option for Wellington]: Wellington Gateway Partnership --[RECEIVES]-> Prolongation Costs 0.8459826707839966
+[$130,675]: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) --[CONTRACTS]-> consultants 0.9122844934463501
+[$130,675]: Request made under the Official Information Act 1982 --[REQUESTS]-> detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) 0.8784940242767334
+[$130,675]: long tunnel option --[BY]-> New Zealand Transport Agency Waka Kotahi 0.8398381471633911
+[$130,675]: New Zealand Transport Agency --[SPENT]-> $6,692,081.51 0.8321102261543274
+[$130,675]: New Zealand Transport Agency --[SPENT]-> $6,639,308.51 0.8316248059272766
+[$130,675]: New Zealand Transport Agency --[INVESTIGATES]-> Higgins Wellington 0.82948899269104
+[$130,675]: New Zealand Transport Agency --[PLANS_TO_SPEND]-> total amount of money 0.8291842341423035
+[$6.185 million]: Road to Zero advertising campaign --[COST]-> $6.185 million 0.7638944387435913

@@ -1,0 +1,36 @@
+What is the capital city of New Zealand, which is connected to the city home to the Te Ara I Whiti (Lightpath) project, which has transformed underutilized spaces into vibrant cycling and pedestrian pathways, by the specific rail line in New Zealand that has been enhanced as part of the government's investment in upgrading rail infrastructure to support sustainable freight solutions?
+None
+Seed: Ongoing investments in rail infrastructure
+Seed: New zealand's transport network
+Seed: Addressing transport challenges in auckland
+Seed: Significant infrastructure project
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Ongoing investments in rail infrastructure 0.8649382591247559
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Public transport system 0.8498795628547668
+[Ongoing investments in rail infrastructure]: Christchurch --[Has]-> Public transport system 0.840570330619812
+[Ongoing investments in rail infrastructure]: Christchurch --[Has]-> Cycling initiatives 0.834406316280365
+[Ongoing investments in rail infrastructure]: Christchurch --[Has]-> Metro system 0.8421910405158997
+[Ongoing investments in rail infrastructure]: Christchurch --[Linked to]-> Dunedin 0.8347262144088745
+[Ongoing investments in rail infrastructure]: Christchurch --[Connected to]-> Dunedin 0.835690438747406
+[Ongoing investments in rail infrastructure]: Christchurch --[Has]-> Potential development of light rail system 0.8523451685905457
+[Ongoing investments in rail infrastructure]: Christchurch --[Served by]-> Tranzalpine train service 0.8070695400238037
+[Ongoing investments in rail infrastructure]: Christchurch --[Has]-> Walking initiatives 0.8370741605758667
+[Ongoing investments in rail infrastructure]: Christchurch --[Served by]-> Main south line 0.7969300150871277
+[Ongoing investments in rail infrastructure]: Christchurch --[Has]-> Road infrastructure 0.8504951596260071
+[Ongoing investments in rail infrastructure]: Christchurch --[Linked to]-> Picton 0.8266881704330444
+[Ongoing investments in rail infrastructure]: Christchurch --[Connected by]-> State highways 0.8338951468467712
+[Ongoing investments in rail infrastructure]: Christchurch --[Has]-> Focus on enhancing bus services 0.8019729852676392
+[Ongoing investments in rail infrastructure]: Christchurch --[Has]-> New bus network 0.8124552965164185
+[Ongoing investments in rail infrastructure]: Christchurch --[Has]-> Second-busiest airport in new zealand 0.7740830779075623
+[Ongoing investments in rail infrastructure]: Christchurch --[Has]-> Shuttles 0.8123131990432739
+[Ongoing investments in rail infrastructure]: Christchurch --[Has]-> Focus on promoting active transport options 0.828930675983429
+[Ongoing investments in rail infrastructure]: Christchurch --[Has]-> Focus on expanding public transport networks 0.831041693687439
+[Ongoing investments in rail infrastructure]: Christchurch --[Has]-> International travelers 0.803906261920929
+[Ongoing investments in rail infrastructure]: Christchurch --[Is]-> Largest city in south island 0.8194617033004761
+[Ongoing investments in rail infrastructure]: Christchurch --[Has]-> Public transport 0.8429932594299316
+[Ongoing investments in rail infrastructure]: Christchurch --[Has]-> Plans for future enhancements 0.8100875616073608
+[Ongoing investments in rail infrastructure]: Christchurch --[Has]-> Focus on improving road infrastructure 0.833804190158844
+[Ongoing investments in rail infrastructure]: Christchurch --[Has]-> Upgrades 0.8248997926712036
+[Ongoing investments in rail infrastructure]: Christchurch --[Has]-> Airport 0.8111432194709778
+[Ongoing investments in rail infrastructure]: Christchurch --[Has]-> Buses 0.8239109516143799
+[Ongoing investments in rail infrastructure]: Christchurch --[Has]-> Christchurch international airport 0.7977985739707947
+[Ongoing investments in rail infrastructure]: Christchurch --[Has]-> Taxis 0.8138325214385986

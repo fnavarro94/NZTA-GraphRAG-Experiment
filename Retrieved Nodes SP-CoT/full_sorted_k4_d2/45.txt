@@ -1,0 +1,34 @@
+In what year did the organization that has focused on enhancing its bus rapid transit system to provide faster and more reliable public transport services become established?
+None
+Seed: Enhancing public transport systems
+Seed: Promoting public transport initiatives
+Seed: Renewed focus on public transport in recent decades
+Seed: Broader strategy to promote public transport as a viable alternative to private vehicle use
+[Enhancing public transport systems]: New zealand --[Prioritizes]-> Enhancing public transport systems 0.8289991617202759
+[Enhancing public transport systems]: New zealand --[Saw]-> Rise of bus services 0.8286355137825012
+[Enhancing public transport systems]: New zealand --[Has]-> Transport system innovation 0.8240500688552856
+[Enhancing public transport systems]: New zealand --[Has]-> Public transport enhancement 0.8221850991249084
+[Enhancing public transport systems]: New zealand --[Has]-> Transport equity initiatives 0.8208580017089844
+[Enhancing public transport systems]: New zealand --[Has]-> Well-established public transport network 0.8205758333206177
+[Enhancing public transport systems]: Walking school bus --[Originated in]-> New zealand 0.8181788921356201
+[Promoting public transport initiatives]: New zealand transport agency --[Is responsible for]-> Promoting public transport initiatives 0.8374068737030029
+[Promoting public transport initiatives]: New zealand transport agency --[Established in]-> 2008 0.8348211050033569
+[Promoting public transport initiatives]: New zealand transport agency --[Is]-> Forefront of promoting active transport 0.8312327265739441
+[Promoting public transport initiatives]: New zealand transport agency --[Initiated]-> Programs aimed at improving transport access 0.8263587951660156
+[Promoting public transport initiatives]: New zealand transport agency --[Implemented]-> Initiatives 0.8242318630218506
+[Promoting public transport initiatives]: New zealand transport agency --[Is]-> Developing integrated transport solutions 0.8220282196998596
+[Promoting public transport initiatives]: New zealand transport agency --[Encouraged]-> Adoption of adas 0.811958909034729
+[Renewed focus on public transport in recent decades]: Public transport systems --[Prompted]-> Renewed focus on public transport in recent decades 0.8662749528884888
+[Renewed focus on public transport in recent decades]: Public transport systems --[Evolved]-> Since the late 19th century 0.8381059169769287
+[Renewed focus on public transport in recent decades]: Public transport systems --[Include]-> Buses and trains 0.8358457088470459
+[Renewed focus on public transport in recent decades]: Waka kotahi --[Plays crucial role in]-> Public transport systems 0.8219509720802307
+[Renewed focus on public transport in recent decades]: Waka kotahi --[Manages]-> Public transport systems 0.8199000358581543
+[Renewed focus on public transport in recent decades]: Urban areas --[Use]-> Public transport systems 0.8167919516563416
+[Renewed focus on public transport in recent decades]: Wellington cycle network --[Integrates with]-> Public transport systems 0.8129035234451294
+[Broader strategy to promote public transport as a viable alternative to private vehicle use]: Integrated ticketing system --[Part of]-> Broader strategy to promote public transport as a viable alternative to private vehicle use 0.8492244482040405
+[Broader strategy to promote public transport as a viable alternative to private vehicle use]: Integrated ticketing system --[Aims to]-> Enhance convenience and efficiency of public transport services 0.8479800820350647
+[Broader strategy to promote public transport as a viable alternative to private vehicle use]: Integrated ticketing system --[Driven by]-> Need to encourage greater use of sustainable transport options 0.8407860398292542
+[Broader strategy to promote public transport as a viable alternative to private vehicle use]: Integrated ticketing system --[Driven by]-> Need to improve public transport accessibility 0.8321698307991028
+[Broader strategy to promote public transport as a viable alternative to private vehicle use]: Integrated ticketing system --[Is]-> Unified approach to public transport ticketing 0.8237162232398987
+[Broader strategy to promote public transport as a viable alternative to private vehicle use]: Integrated ticketing system --[Part of]-> Broader strategy to reduce traffic congestion 0.8185588121414185
+[Broader strategy to promote public transport as a viable alternative to private vehicle use]: Integrated ticketing system --[Part of]-> Broader strategy to lower carbon emissions 0.8087775707244873

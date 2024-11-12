@@ -1,0 +1,34 @@
+What are the paid administration fees for unpaid tolls from 2017 to 2019?
+None
+Seed: unpaid tolls
+Seed: administration fee
+Seed: paid toll revenues
+Seed: toll tariffs
+[unpaid tolls]: toll roads --[INCLUDE]-> administration fee 0.8912104964256287
+[unpaid tolls]: toll payment notice --[CONTAINS]-> unpaid tolls 0.883175253868103
+[unpaid tolls]: administration fee --[APPLIED_TO]-> toll payment notice 0.8823209404945374
+[unpaid tolls]: unpaid tolls --[ASSOCIATED_WITH]-> toll roads 0.8675546050071716
+[unpaid tolls]: toll tariffs --[SPENT_ON]-> road maintenance 0.8564249873161316
+[unpaid tolls]: road maintenance --[FUNDED_BY]-> toll tariffs 0.8511849045753479
+[unpaid tolls]: toll tariffs --[USED_FOR]-> road maintenance 0.8501385450363159
+[administration fee]: toll roads --[INCLUDE]-> administration fee 0.8912104964256287
+[administration fee]: toll payment notice --[CONTAINS]-> unpaid tolls 0.883175253868103
+[administration fee]: administration fee --[APPLIED_TO]-> toll payment notice 0.8823209404945374
+[administration fee]: unpaid tolls --[ASSOCIATED_WITH]-> toll roads 0.8675546050071716
+[administration fee]: toll tariffs --[SPENT_ON]-> road maintenance 0.8564249873161316
+[administration fee]: road maintenance --[FUNDED_BY]-> toll tariffs 0.8511849045753479
+[administration fee]: toll tariffs --[USED_FOR]-> road maintenance 0.8501385450363159
+[paid toll revenues]: paid toll revenues --[AVAILABLE_IN]-> Annual Reports 0.8574235439300537
+[paid toll revenues]: Annual Reports --[CONTAINS]-> paid toll revenues 0.8535614013671875
+[paid toll revenues]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.8227270841598511
+[paid toll revenues]: Waka Kotahi --[RECEIVED]-> 7,162 Clean Car fees 0.8006029725074768
+[paid toll revenues]: Waka Kotahi --[UPDATE]-> fare policy guidance 0.794244647026062
+[paid toll revenues]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.787614107131958
+[paid toll revenues]: Waka Kotahi --[WITHHOLDS]-> amounts of payments 0.7868172526359558
+[toll tariffs]: toll roads --[INCLUDE]-> administration fee 0.8912104964256287
+[toll tariffs]: tolls --[PAID]-> each year 0.8873792290687561
+[toll tariffs]: toll payment notice --[CONTAINS]-> unpaid tolls 0.883175253868103
+[toll tariffs]: administration fee --[APPLIED_TO]-> toll payment notice 0.8823209404945374
+[toll tariffs]: tolls --[SPENT]-> on various roads 0.8681699633598328
+[toll tariffs]: unpaid tolls --[ASSOCIATED_WITH]-> toll roads 0.8675546050071716
+[toll tariffs]: toll tariffs --[SPENT_ON]-> road maintenance 0.8564249873161316

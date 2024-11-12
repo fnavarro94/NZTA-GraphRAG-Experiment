@@ -1,0 +1,12 @@
+How much has been spent on consultants for the long tunnel option investigation in Wellington?
+None
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: proposed long tunnel option for Wellington
+Seed: $130,675
+Seed: $6.185 million
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) --[CONTRACTS]-> consultants 0.9122844934463501
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUESTS]-> detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) 0.8784940242767334
+[proposed long tunnel option for Wellington]: technical feasibility and cost --[FOR]-> proposed long tunnel option for Wellington 0.8984545469284058
+[proposed long tunnel option for Wellington]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.8709438443183899
+[$130,675]: Stantec --[COST]-> $130,675 0.7842550277709961
+[$6.185 million]: Road to Zero advertising campaign --[COST]-> $6.185 million 0.7638944387435913

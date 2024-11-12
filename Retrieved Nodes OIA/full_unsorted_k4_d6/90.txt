@@ -1,0 +1,36 @@
+What is the longest overdue road for renewal in New Zealand?
+None
+Seed: longest overdue road
+Seed: road renewal
+Seed: toll roads
+Seed: information on tolls and road maintenance
+[longest overdue road]: longest overdue road --[OVERDUE]-> road renewal 0.9225471615791321
+[longest overdue road]: road renewal --[OVERDUE]-> road maintenance 0.8822011947631836
+[longest overdue road]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> road maintenance 0.8547061681747437
+[longest overdue road]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8366097807884216
+[longest overdue road]: New Zealand Transport Agency --[BASED]-> Wellington 0.8361520767211914
+[longest overdue road]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8344955444335938
+[longest overdue road]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8314586877822876
+[longest overdue road]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.8154269456863403
+[longest overdue road]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.8379626274108887
+[longest overdue road]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.8472672700881958
+[longest overdue road]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.8460148572921753
+[longest overdue road]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.8485058546066284
+[longest overdue road]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8301494717597961
+[longest overdue road]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8183842897415161
+[longest overdue road]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8113022446632385
+[longest overdue road]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8159367442131042
+[longest overdue road]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8244814276695251
+[longest overdue road]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.818317711353302
+[longest overdue road]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8236062526702881
+[longest overdue road]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8168261647224426
+[longest overdue road]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8138870000839233
+[longest overdue road]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8152506947517395
+[longest overdue road]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8444249629974365
+[longest overdue road]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8035666942596436
+[longest overdue road]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8123946785926819
+[longest overdue road]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8144733309745789
+[longest overdue road]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8133981227874756
+[longest overdue road]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8000913262367249
+[longest overdue road]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8019923567771912
+[longest overdue road]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8299278020858765

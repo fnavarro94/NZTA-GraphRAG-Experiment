@@ -1,0 +1,28 @@
+What percentage of MR1 and MR1B transactions were completed through an agent between 1 October 2022 and 30 September 2023?
+None
+Seed: statistics for MR1/B transactions
+Seed: MR1/B transactions data
+Seed: 1 October 2022 to 30 September 2023
+Seed: MR1/B transactions
+[statistics for MR1/B transactions]: transactions --[OCCURRED]-> 1 October 2022 to 30 September 2023 0.8961426019668579
+[statistics for MR1/B transactions]: MR1/B transactions --[TOTAL]-> 5,496,319 0.8747239112854004
+[statistics for MR1/B transactions]: MR1/B transactions --[COMPLETED]-> agent 0.8706651926040649
+[statistics for MR1/B transactions]: MR1/B transactions --[COMPLETED]-> online 0.8445967435836792
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[PROVIDES]-> statistics for MR1/B transactions 0.8429489135742188
+[statistics for MR1/B transactions]: Data --[IS]-> Current at 18 September 2019 0.8399299383163452
+[statistics for MR1/B transactions]: Request --[CLARIFIED]-> 30 November 2022 0.8364190459251404
+[MR1/B transactions data]: Motor Vehicle Register --[CONTAINS]-> MR1/B transactions data 0.8200357556343079
+[1 October 2022 to 30 September 2023]: transactions --[OCCURRED]-> 1 October 2022 to 30 September 2023 0.8961426019668579
+[1 October 2022 to 30 September 2023]: MR1/B transactions --[COMPLETED]-> online 0.8445967435836792
+[1 October 2022 to 30 September 2023]: New Zealand Transport Agency --[PROVIDES]-> statistics for MR1/B transactions 0.8429489135742188
+[1 October 2022 to 30 September 2023]: Data --[IS]-> Current at 18 September 2019 0.8399299383163452
+[1 October 2022 to 30 September 2023]: Request --[CLARIFIED]-> 30 November 2022 0.8364190459251404
+[1 October 2022 to 30 September 2023]: early October 2019 --[AFTER]-> 2019 0.8297179341316223
+[1 October 2022 to 30 September 2023]: email of 20 October 2023 --[ASSOCIATED_WITH]-> requesting the following information 0.8241991996765137
+[MR1/B transactions]: transactions --[OCCURRED]-> 1 October 2022 to 30 September 2023 0.8961426019668579
+[MR1/B transactions]: MR1/B transactions --[TOTAL]-> 5,496,319 0.8747239112854004
+[MR1/B transactions]: MR1/B transactions --[COMPLETED]-> agent 0.8706651926040649
+[MR1/B transactions]: MR1/B transactions --[COMPLETED]-> online 0.8445967435836792
+[MR1/B transactions]: New Zealand Transport Agency --[PROVIDES]-> statistics for MR1/B transactions 0.8429489135742188
+[MR1/B transactions]: Data --[IS]-> Current at 18 September 2019 0.8399299383163452
+[MR1/B transactions]: Request --[CLARIFIED]-> 30 November 2022 0.8364190459251404

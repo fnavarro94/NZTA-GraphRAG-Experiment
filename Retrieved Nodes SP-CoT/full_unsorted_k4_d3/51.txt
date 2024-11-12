@@ -1,0 +1,36 @@
+What is the abbreviation commonly used for the legislation in New Zealand that focuses on ensuring the health and safety of workers in the transport sector?
+None
+Seed: Health and safety at work act
+Seed: Health and safety at work act 2015
+Seed: Legislative framework for road safety initiatives
+Seed: Critical aspect of transport management in new zealand
+[Health and safety at work act]: Health and safety at work act --[Year]-> 2015 0.8642112612724304
+[Health and safety at work act]: Electronic stability control --[Required in]-> 2015 0.7380945682525635
+[Health and safety at work act]: Electronic stability control --[Designed to]-> Enhance vehicle stability 0.7284045219421387
+[Health and safety at work act]: Electronic stability control --[Is]-> Advanced safety feature 0.7630293965339661
+[Health and safety at work act]: Vehicle safety technologies --[Include]-> Electronic stability control 0.7773323655128479
+[Health and safety at work act]: Electronic stability control --[Utilize]-> Sensors 0.7242106199264526
+[Health and safety at work act]: New zealand --[Has adopted]-> Electronic stability control 0.8129048347473145
+[Health and safety at work act]: Electronic stability control --[Helps]-> Reduce skidding 0.7298167943954468
+[Health and safety at work act]: Electronic stability control --[Helps]-> Reduce rollovers 0.7262996435165405
+[Health and safety at work act]: Electronic stability control --[Helps]-> Maintain control 0.7322872877120972
+[Health and safety at work act]: Electronic stability control --[Mandatory]-> New zealand 0.8339313864707947
+[Health and safety at work act]: Electronic stability control --[Mandatory]-> New vehicles 0.7847808599472046
+[Health and safety at work act]: Electronic stability control --[Contributed to]-> Challenging driving conditions 0.7497792840003967
+[Health and safety at work act]: Electronic stability control --[Contributed to]-> Improved road safety 0.7806144952774048
+[Health and safety at work act]: Electronic stability control --[Contributed to]-> Rural areas 0.7683627605438232
+[Health and safety at work act]: Electronic stability control --[Particularly relevant in]-> New zealand 0.788745105266571
+[Health and safety at work act]: Electronic stability control --[Range from]-> Mountainous terrains 0.7162975072860718
+[Health and safety at work act]: Electronic stability control --[Range from]-> Urban environments 0.7284718751907349
+[Health and safety at work act]: Electronic stability control --[Range from]-> Rural roads 0.7606872916221619
+[Health and safety at work act]: Electronic stability control --[Monitor]-> Vehicle's direction 0.7392157316207886
+[Health and safety at work act]: Electronic stability control --[Monitor]-> Vehicle's speed 0.7505944967269897
+[Health and safety at work act]: Electronic stability control --[Intervene]-> When necessary 0.744134247303009
+[Health and safety at work act]: Electronic stability control --[Prevent]-> Loss of control 0.7203476428985596
+[Health and safety at work act]: Electronic stability control --[Prevent]-> Skidding 0.7275184392929077
+[Health and safety at work act]: Electronic stability control --[Especially during]-> Adverse weather conditions 0.7310631275177002
+[Health and safety at work act]: Electronic stability control --[Especially during]-> Emergency maneuvers 0.7283651232719421
+[Health and safety at work act]: Electronic stability control --[Influenced by]-> New zealand's commitment 0.778968095779419
+[Health and safety at work act]: Electronic stability control --[Influenced by]-> Improving road safety 0.7610297799110413
+[Health and safety at work act]: Electronic stability control --[Recognized by]-> New zealand transport agency 0.8357971906661987
+[Health and safety at work act]: Electronic stability control --[Recognized by]-> Importance in reducing crashes 0.7408068180084229

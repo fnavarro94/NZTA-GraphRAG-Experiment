@@ -1,0 +1,36 @@
+What iconic transport system is managed by the organization that oversees the implementation of one of the key initiatives in New Zealand aimed at improving public transport accessibility, particularly in the Wellington region, in the cities of Auckland and Wellington?
+None
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+Seed: Promoting public transport initiatives
+Seed: Management and regulation of the transport system in new zealand
+Seed: Regional transport initiatives
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Plays]-> Significant role in shaping transport infrastructure and policy in new zealand 0.8699779510498047
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Conducts]-> Extensive research and development projects 0.7650371789932251
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Collaborates with]-> New zealand transport agency (nzta 0.8408818244934082
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Aims to]-> Enhance resilience and adaptability of new zealand's transport network 0.8632708787918091
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Is]-> Collective of australian and new zealand road transport and traffic agencies 0.8333733677864075
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Founded in]-> 1990 0.7469242811203003
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Engages in]-> International collaborations to align initiatives with global best practices 0.7695895433425903
+[Promoting public transport initiatives]: New zealand transport agency --[Is responsible for]-> Promoting public transport initiatives 0.8980589509010315
+[Promoting public transport initiatives]: New zealand --[Has]-> New zealand transport agency 0.8710877299308777
+[Promoting public transport initiatives]: New zealand --[Has]-> Transport projects 0.8716676235198975
+[Promoting public transport initiatives]: New zealand transport agency --[Oversees]-> Transport projects 0.8601423501968384
+[Promoting public transport initiatives]: Auckland --[Has]-> Transport projects 0.8667446970939636
+[Promoting public transport initiatives]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.8647546768188477
+[Promoting public transport initiatives]: New zealand --[Has]-> Diverse transport network 0.8608894944190979
+[Promoting public transport initiatives]: New zealand --[Has]-> Post-incident review 0.7748004198074341
+[Promoting public transport initiatives]: Post-incident review --[Crucial for]-> Improving operational efficiency 0.7399888634681702
+[Promoting public transport initiatives]: Post-incident review --[Crucial for]-> Fostering culture of continuous improvement 0.7284868955612183
+[Promoting public transport initiatives]: Post-incident review --[Aimed at]-> Recommending measures 0.7174513339996338
+[Promoting public transport initiatives]: Post-incident review --[Crucial for]-> Enhancing safety 0.7284266352653503
+[Promoting public transport initiatives]: Post-incident review --[Is]-> Systematic process 0.7246268391609192
+[Promoting public transport initiatives]: Post-incident review --[Conducted]-> Following an incident 0.7221306562423706
+[Promoting public transport initiatives]: Post-incident review --[Aimed at]-> Analyzing circumstances 0.7249300479888916
+[Promoting public transport initiatives]: Post-incident review --[Aimed at]-> Identifying contributing factors 0.7296375036239624
+[Promoting public transport initiatives]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.8044647574424744
+[Promoting public transport initiatives]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.8216385841369629
+[Promoting public transport initiatives]: New zealand --[Has]-> Broader environmental policies 0.8038228154182434
+[Promoting public transport initiatives]: New zealand --[Has]-> Traffic congestion 0.8377767205238342
+[Promoting public transport initiatives]: Auckland --[Faces challenges]-> Traffic congestion 0.8380303382873535
+[Promoting public transport initiatives]: Wellington public transport plan --[Initiated in response to]-> Traffic congestion 0.8588159084320068
+[Promoting public transport initiatives]: Auckland --[Has]-> Traffic congestion 0.8336919546127319

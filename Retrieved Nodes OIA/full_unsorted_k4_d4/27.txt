@@ -1,0 +1,36 @@
+What information does Waka Kotahi NZTA provide regarding the amount of money spent on litter collection?
+None
+Seed: information regarding actual costs of litter collection
+Seed: information regarding amount of litter collected and disposed
+Seed: information to Waka Kotahi
+Seed: Waka Kotahi
+[information regarding actual costs of litter collection]: Waka Kotahi NZ Transport Agency --[DOES_NOT_HOLD]-> information regarding actual costs of litter collection 0.9002106785774231
+[information regarding actual costs of litter collection]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.8399441838264465
+[information regarding actual costs of litter collection]: New Zealand Transport Agency --[BASED]-> Wellington 0.7724236249923706
+[information regarding actual costs of litter collection]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.775239109992981
+[information regarding actual costs of litter collection]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7915146946907043
+[information regarding actual costs of litter collection]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.781944990158081
+[information regarding actual costs of litter collection]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7833086252212524
+[information regarding actual costs of litter collection]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.777410626411438
+[information regarding actual costs of litter collection]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7756239771842957
+[information regarding actual costs of litter collection]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7822927832603455
+[information regarding actual costs of litter collection]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7778070569038391
+[information regarding actual costs of litter collection]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.806656539440155
+[information regarding actual costs of litter collection]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7750822305679321
+[information regarding actual costs of litter collection]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8019242286682129
+[information regarding actual costs of litter collection]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8020090460777283
+[information regarding actual costs of litter collection]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7854160070419312
+[information regarding actual costs of litter collection]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7824982404708862
+[information regarding actual costs of litter collection]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7790248394012451
+[information regarding actual costs of litter collection]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7870935797691345
+[information regarding actual costs of litter collection]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7815564274787903
+[information regarding actual costs of litter collection]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7826433777809143
+[information regarding actual costs of litter collection]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8025652766227722
+[information regarding actual costs of litter collection]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7742569446563721
+[information regarding actual costs of litter collection]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7868505120277405
+[information regarding actual costs of litter collection]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7975200414657593
+[information regarding actual costs of litter collection]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7842792272567749
+[information regarding actual costs of litter collection]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7634367346763611
+[information regarding actual costs of litter collection]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7828972935676575
+[information regarding actual costs of litter collection]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7732110023498535
+[information regarding actual costs of litter collection]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7711317539215088

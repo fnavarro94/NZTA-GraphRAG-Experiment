@@ -1,0 +1,10 @@
+Which notable transport project in New Zealand, alongside the Auckland City Rail Link, has undergone the process that is acronymed for assessing the environmental impacts of transport projects?
+None
+Seed: Addressing transport challenges in auckland
+Seed: Initiatives to promote sustainable transport solutions
+Seed: New zealand's commitment to sustainable transport
+Seed: Promoting environmentally sustainable transport solutions
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Addressing transport challenges in auckland 0.8708935976028442
+[Initiatives to promote sustainable transport solutions]: Climate change response act --[Includes]-> Initiatives to promote sustainable transport solutions 0.8100753426551819
+[New zealand's commitment to sustainable transport]: Vehicle emissions regulations --[Reflect]-> New zealand's commitment to sustainable transport 0.8342205286026001
+[Promoting environmentally sustainable transport solutions]: New zealand transport agency --[Primary objectives include]-> Promoting environmentally sustainable transport solutions 0.8461064100265503

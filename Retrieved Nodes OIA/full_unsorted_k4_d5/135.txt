@@ -1,0 +1,36 @@
+What reports discuss the progress and outcomes of the Road to Zero strategy since it was initiated?
+None
+Seed: Road to Zero Strategy Reports
+Seed: development of the next Road to Zero Action Plan
+Seed: Road to Zero initiatives
+Seed: Road to Zero Strategy Development
+[Road to Zero Strategy Reports]: Road to Zero Strategy Reports --[CONTAINS]-> Basis for Strategy 0.8862780332565308
+[Road to Zero Strategy Reports]: Basis for Strategy --[DISCUSSES]-> Road to Zero Strategy 0.8678669333457947
+[Road to Zero Strategy Reports]: Road to Zero Strategy --[FUNDING]-> Road to Zero Strategy 0.87179034948349
+[Road to Zero Strategy Reports]: New Zealand Transport Agency --[DEVELOPS]-> Road to Zero Strategy 0.8578948974609375
+[Road to Zero Strategy Reports]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7279629111289978
+[Road to Zero Strategy Reports]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7305904626846313
+[Road to Zero Strategy Reports]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.739653468132019
+[Road to Zero Strategy Reports]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7275897264480591
+[Road to Zero Strategy Reports]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7257795333862305
+[Road to Zero Strategy Reports]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7332366704940796
+[Road to Zero Strategy Reports]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7510513067245483
+[Road to Zero Strategy Reports]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7387791872024536
+[Road to Zero Strategy Reports]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.741605818271637
+[Road to Zero Strategy Reports]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7388771772384644
+[Road to Zero Strategy Reports]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7398067116737366
+[Road to Zero Strategy Reports]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7401405572891235
+[Road to Zero Strategy Reports]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7515232563018799
+[Road to Zero Strategy Reports]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.731924831867218
+[Road to Zero Strategy Reports]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7516027092933655
+[Road to Zero Strategy Reports]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.765897810459137
+[Road to Zero Strategy Reports]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7481068968772888
+[Road to Zero Strategy Reports]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7451362609863281
+[Road to Zero Strategy Reports]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.769058346748352
+[Road to Zero Strategy Reports]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7315883636474609
+[Road to Zero Strategy Reports]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7673524618148804
+[Road to Zero Strategy Reports]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7683297991752625
+[Road to Zero Strategy Reports]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.769307553768158
+[Road to Zero Strategy Reports]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7338737845420837
+[Road to Zero Strategy Reports]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7563695311546326
+[Road to Zero Strategy Reports]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7493531703948975

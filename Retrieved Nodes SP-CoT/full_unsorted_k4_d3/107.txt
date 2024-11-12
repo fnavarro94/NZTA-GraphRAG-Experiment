@@ -1,0 +1,36 @@
+Which city in the country where the program, established in 2010, requires periodic testing of older vehicles to ensure they meet emissions standards throughout their operational life, utilizes the Snapper card as part of its initiative that has improved the reliability of public transport services and allowed users to plan their journeys more effectively?
+None
+Seed: Need for more integrated and sustainable transport system
+Seed: Snapper card
+Seed: Growing emphasis on improving transport compliance through technology
+Seed: Solution to promote sustainable transport options in new zealand
+[Need for more integrated and sustainable transport system]: New zealand transport strategy --[Emphasizes]-> Need for more integrated and sustainable transport system 0.7918635606765747
+[Need for more integrated and sustainable transport system]: New zealand transport strategy --[Emphasizes]-> Multimodal approach 0.8018397688865662
+[Need for more integrated and sustainable transport system]: New zealand transport strategy --[Promotes]-> Public transport 0.7975764870643616
+[Need for more integrated and sustainable transport system]: Auckland transport --[Manages]-> Public transport 0.7870655059814453
+[Need for more integrated and sustainable transport system]: Public transport --[Integrates]-> Automated data collection 0.8087805509567261
+[Need for more integrated and sustainable transport system]: Wellington --[Relies heavily on]-> Public transport 0.7810062170028687
+[Need for more integrated and sustainable transport system]: Auckland transport --[Oversees]-> Public transport 0.7799699306488037
+[Need for more integrated and sustainable transport system]: Ministry of transport --[Oversees]-> Public transport 0.797619104385376
+[Need for more integrated and sustainable transport system]: Integrated transport strategies --[Promote]-> Public transport 0.8005683422088623
+[Need for more integrated and sustainable transport system]: Christchurch --[Has]-> Public transport 0.7947971224784851
+[Need for more integrated and sustainable transport system]: Sustainable urban transport --[Key component]-> Public transport 0.822711706161499
+[Need for more integrated and sustainable transport system]: Sustainability and resilience --[Includes]-> Public transport 0.8103851079940796
+[Need for more integrated and sustainable transport system]: New zealand --[Has]-> Public transport 0.8081755042076111
+[Need for more integrated and sustainable transport system]: Public transport innovations --[Transform]-> Public transport 0.7923253774642944
+[Need for more integrated and sustainable transport system]: Public transport --[Varies significantly]-> Between urban and rural areas 0.8046917915344238
+[Need for more integrated and sustainable transport system]: Public transport --[Characterized by]-> Transition 0.7876232266426086
+[Need for more integrated and sustainable transport system]: Public transport --[Underwent]-> Significant evolution 0.804757833480835
+[Need for more integrated and sustainable transport system]: New zealand transport strategy --[Aims]-> Sustainable transport network 0.7984154224395752
+[Need for more integrated and sustainable transport system]: Waka kotahi --[Ensures]-> Sustainable transport network 0.800344705581665
+[Need for more integrated and sustainable transport system]: Auckland western ring route --[Represents]-> Sustainable transport network 0.7856932282447815
+[Need for more integrated and sustainable transport system]: New zealand transport strategy --[Is]-> Comprehensive framework 0.7971847653388977
+[Need for more integrated and sustainable transport system]: New zealand road safety strategy --[Is]-> Comprehensive framework 0.764293909072876
+[Need for more integrated and sustainable transport system]: Transport skills strategy --[Is]-> Comprehensive framework 0.7847316861152649
+[Need for more integrated and sustainable transport system]: Speed management guide --[Is]-> Comprehensive framework 0.7632336616516113
+[Need for more integrated and sustainable transport system]: Road safety strategy --[Is]-> Comprehensive framework 0.7641111612319946
+[Need for more integrated and sustainable transport system]: Road traffic legislation --[Is]-> Comprehensive framework 0.7766901850700378
+[Need for more integrated and sustainable transport system]: New zealand transport strategy --[Established]-> 2008 0.8083291053771973
+[Need for more integrated and sustainable transport system]: Northern busway --[Officially opened]-> 2008 0.7727022767066956
+[Need for more integrated and sustainable transport system]: New zealand transport agency --[Established in]-> 2008 0.8029124736785889
+[Need for more integrated and sustainable transport system]: Kiwirail group --[Established in]-> 2008 0.7780866622924805

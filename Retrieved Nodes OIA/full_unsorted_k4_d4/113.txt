@@ -1,0 +1,36 @@
+How many complaints did NZTA receive about vehicle certifications not being performed correctly since January 1, 2010?
+None
+Seed: ride share operator complaints
+Seed: 196 complaints about Uber drivers
+Seed: Complaint Data
+Seed: vehicle registration and licensing
+[ride share operator complaints]: Waka Kotahi --[INVESTIGATES]-> ride share operator complaints 0.832413375377655
+[ride share operator complaints]: Response --[CONTAINS]-> Waka Kotahi 0.777920663356781
+[ride share operator complaints]: Waka Kotahi --[PUBLISHES]-> Response 0.773133397102356
+[ride share operator complaints]: response --[CONTAINS]-> Waka Kotahi 0.7680301070213318
+[ride share operator complaints]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.7785049676895142
+[ride share operator complaints]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.7655206918716431
+[ride share operator complaints]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7482309341430664
+[ride share operator complaints]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7762188911437988
+[ride share operator complaints]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.7209857702255249
+[ride share operator complaints]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7265427112579346
+[ride share operator complaints]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.7680760622024536
+[ride share operator complaints]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.8329404592514038
+[ride share operator complaints]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8231502771377563
+[ride share operator complaints]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.7557896375656128
+[ride share operator complaints]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.8108668327331543
+[ride share operator complaints]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.7549176216125488
+[ride share operator complaints]: Leisa Coley --[EMPLOYED_BY]-> Waka Kotahi 0.7377336621284485
+[ride share operator complaints]: Lizette Marais --[EMPLOYED_BY]-> Waka Kotahi 0.7393137216567993
+[ride share operator complaints]: Waka Kotahi --[EMPLOYS]-> Andy Knackstedt 0.7282592058181763
+[ride share operator complaints]: Waka Kotahi --[EMPLOYS]-> Qualified Staff 0.7477731704711914
+[ride share operator complaints]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.79920494556427
+[ride share operator complaints]: website --[RELATES_TO]-> Waka Kotahi 0.7578904628753662
+[ride share operator complaints]: Waka Kotahi --[RESPONDS_TO]-> OIA request 0.7782202959060669
+[ride share operator complaints]: Waka Kotahi --[RESPONDS_TO]-> request 0.7677726149559021
+[ride share operator complaints]: Waka Kotahi --[PROVIDES]-> OIA-10601-response-georgina-campbell.pdf 0.7818948030471802
+[ride share operator complaints]: Waka Kotahi --[PROVIDES]-> outcome of suspension 0.768147885799408
+[ride share operator complaints]: Waka Kotahi --[PROVIDES]-> outcome of surrendered 0.7382358908653259
+[ride share operator complaints]: Waka Kotahi --[PROVIDES]-> information on website 0.7583972215652466
+[ride share operator complaints]: Waka Kotahi --[PROVIDES]-> outcome of revoke 0.7638285160064697
+[ride share operator complaints]: Waka Kotahi --[PROVIDES]-> warnings to individuals 0.7685603499412537

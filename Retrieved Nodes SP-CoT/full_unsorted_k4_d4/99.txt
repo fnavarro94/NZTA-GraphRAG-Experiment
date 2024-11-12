@@ -1,0 +1,36 @@
+What organization emerged from the country known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, and is responsible for the term that describes the regular activities performed to keep roads safe and functional, including vegetation control, litter removal, and drainage maintenance, during its establishment in 2008?
+None
+Seed: Crucial role in promoting road safety
+Seed: Critical component of new zealand's transport strategy
+Seed: Growing emphasis on sustainable transport solutions
+Seed: Framework for implementing road safety campaigns and initiatives
+[Crucial role in promoting road safety]: Education and awareness programs --[Play]-> Crucial role in promoting road safety 0.8233276605606079
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about dangers of distracted driving 0.7612120509147644
+[Crucial role in promoting road safety]: Education and awareness programs --[Include]-> Belt up campaign 0.7610414028167725
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about safe driving practices 0.8033130764961243
+[Crucial role in promoting road safety]: Education and awareness programs --[Include]-> Road safety week 0.7931122779846191
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about importance of seatbelt use 0.7619487643241882
+[Critical component of new zealand's transport strategy]: Road safety education --[Is]-> Critical component of new zealand's transport strategy 0.8233523368835449
+[Critical component of new zealand's transport strategy]: Nzta --[Promotes]-> Road safety education 0.789086639881134
+[Critical component of new zealand's transport strategy]: Nzta --[Plays a pivotal role in]-> The development and implementation of these systems 0.7692654728889465
+[Critical component of new zealand's transport strategy]: Nzta --[Actively exploring]-> Connected and autonomous vehicles 0.7643359303474426
+[Critical component of new zealand's transport strategy]: Nzta --[Actively exploring]-> The potential of emerging technologies 0.754266619682312
+[Critical component of new zealand's transport strategy]: Nzta --[Actively exploring]-> Improving road safety 0.807823121547699
+[Critical component of new zealand's transport strategy]: Electronic stability control --[Influenced by]-> Improving road safety 0.7633017301559448
+[Critical component of new zealand's transport strategy]: New zealand transport agency --[Primary objectives include]-> Improving road safety 0.8124797940254211
+[Critical component of new zealand's transport strategy]: Waka kotahi --[Focuses on]-> Improving road safety 0.7889680862426758
+[Critical component of new zealand's transport strategy]: New zealand --[Made strides]-> Improving road safety 0.7829456925392151
+[Critical component of new zealand's transport strategy]: Nzta --[Actively exploring]-> Enhancing traffic management capabilities 0.7959917187690735
+[Critical component of new zealand's transport strategy]: Nzta --[Works in collaboration with]-> Local councils and other stakeholders 0.7577590942382812
+[Critical component of new zealand's transport strategy]: Nzta --[Responsible for]-> Administering nltf and prioritizing projects 0.7720141410827637
+[Critical component of new zealand's transport strategy]: Nzta --[Collaborates with]-> Stakeholders 0.7528164386749268
+[Critical component of new zealand's transport strategy]: Waka kotahi --[Works with]-> Stakeholders 0.749086856842041
+[Critical component of new zealand's transport strategy]: Nzta --[Encourages]-> Safe driving practices 0.780682384967804
+[Critical component of new zealand's transport strategy]: New zealand police --[Promoting]-> Safe driving practices 0.7766660451889038
+[Critical component of new zealand's transport strategy]: Vienna convention on road traffic --[Promotes]-> Safe driving practices 0.7904849648475647
+[Critical component of new zealand's transport strategy]: Theory test --[Assesses]-> Safe driving practices 0.7642971277236938
+[Critical component of new zealand's transport strategy]: Road safety education --[Covers]-> Safe driving practices 0.7954003214836121
+[Critical component of new zealand's transport strategy]: Diverse terrain and weather conditions --[Can complicate]-> Safe driving practices 0.7919734716415405
+[Critical component of new zealand's transport strategy]: Nzta --[Collaborates with]-> Local councils and community organizations 0.7608333826065063
+[Critical component of new zealand's transport strategy]: Road safety education --[Includes]-> Local councils and community organizations 0.8064573407173157
+[Critical component of new zealand's transport strategy]: Nzta --[Collaborates]-> With local councils and private contractors 0.7434664964675903

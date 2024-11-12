@@ -1,0 +1,36 @@
+What entity is responsible for identifying and mapping walking access routes under the legislation that aims to enhance the safety and accessibility of walking routes for pedestrians?
+None
+Seed: Legislative framework for road safety initiatives
+Seed: Developing pedestrian crossings
+Seed: Framework for implementing road safety campaigns and initiatives
+Seed: Advocacy groups
+[Legislative framework for road safety initiatives]: Land transport act 1998 --[Provides]-> Legislative framework for road safety initiatives 0.8409216403961182
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Reflected in]-> Land transport act 1998 0.8230408430099487
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Aiming to]-> Reduce road traffic accidents and fatalities 0.8098651170730591
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Emphasis on]-> Standardized road signs and signals 0.810148298740387
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Aimed at]-> Facilitating international road traffic 0.8179150223731995
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Integrated into]-> New zealand's national road traffic laws 0.82139652967453
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Ratified by]-> Numerous countries 0.7964857816696167
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Aimed at]-> Promoting road safety 0.8225834965705872
+[Legislative framework for road safety initiatives]: Road safety authority --[Responsible for]-> Promoting road safety 0.8466485738754272
+[Legislative framework for road safety initiatives]: Road safety authority --[Collaborates with]-> Law enforcement agencies 0.8231643438339233
+[Legislative framework for road safety initiatives]: Road safety authority --[Operates under]-> Ministry of transport 0.8379744291305542
+[Legislative framework for road safety initiatives]: Road safety authority --[Advocates for]-> Infrastructure improvements 0.8314245343208313
+[Legislative framework for road safety initiatives]: Road safety authority --[Emphasizes]-> Need for holistic view of road safety 0.828589916229248
+[Legislative framework for road safety initiatives]: Road safety authority --[Is]-> Government agency 0.8420405983924866
+[Legislative framework for road safety initiatives]: Road safety authority --[Employs]-> Data-driven approach 0.842584490776062
+[Legislative framework for road safety initiatives]: Road safety authority --[Collaborates with]-> Community organizations 0.8357916474342346
+[Legislative framework for road safety initiatives]: Road safety authority --[Aims to]-> Educate the public 0.830293595790863
+[Legislative framework for road safety initiatives]: Road safety authority --[Works towards]-> Vision of safer new zealand 0.8212950229644775
+[Legislative framework for road safety initiatives]: Road safety authority --[Encourages]-> Community engagement 0.8186384439468384
+[Legislative framework for road safety initiatives]: Road safety authority --[Publishes]-> Reports and statistics 0.8280475735664368
+[Legislative framework for road safety initiatives]: Road safety authority --[Focuses on]-> Education 0.8329591751098633
+[Legislative framework for road safety initiatives]: Road safety authority --[Fosters]-> Culture of safety and responsibility 0.8108408451080322
+[Legislative framework for road safety initiatives]: Road safety authority --[Collaborates with]-> Local councils 0.8337746858596802
+[Legislative framework for road safety initiatives]: Road safety authority --[Focuses on]-> Enforcement 0.8380008339881897
+[Legislative framework for road safety initiatives]: Road safety authority --[Focuses on]-> Engineering 0.8253964781761169
+[Legislative framework for road safety initiatives]: Road safety authority --[Promotes]-> Safe road practices 0.8310977220535278
+[Legislative framework for road safety initiatives]: Road safety authority --[Works closely with]-> Police 0.8201836943626404
+[Legislative framework for road safety initiatives]: Road safety authority --[Works closely with]-> Local authorities 0.8371890187263489
+[Legislative framework for road safety initiatives]: Vienna convention on road traffic --[Adopted]-> Graduated licensing system 0.802574098110199
+[Legislative framework for road safety initiatives]: New zealand --[Has]-> Graduated licensing system 0.757664680480957

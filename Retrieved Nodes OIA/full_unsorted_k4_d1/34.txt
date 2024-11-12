@@ -1,0 +1,10 @@
+Where can information about the latest developments in the high productivity motor vehicles (HPMV) bridge strengthening programme be found?
+None
+Seed: current information on HPMV investment routes
+Seed: information on HPMV investment routes
+Seed: request to Minister of Transport
+Seed: briefings to the Minister of Transport
+[current information on HPMV investment routes]: New Zealand Transport Agency --[PROVIDES]-> current information on HPMV investment routes 0.8669214248657227
+[information on HPMV investment routes]: New Zealand Transport Agency --[PROVIDES]-> information on HPMV investment routes 0.860845685005188
+[request to Minister of Transport]: Jordan Bond --[MADE_REQUEST]-> request to Minister of Transport 0.8224199414253235
+[briefings to the Minister of Transport]: New Zealand Transport Agency --[PROVIDES]-> briefings to the Minister of Transport 0.8027065396308899

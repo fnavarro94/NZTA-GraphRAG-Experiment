@@ -1,0 +1,34 @@
+What are the requirements for commercial buses in New Zealand with regards to Occupancy Safety?
+None
+Seed: 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.
+Seed: rail operational safety
+Seed: Vehicle Safety
+Seed: vehicle safety
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: I will respond to each of your questions in turn. --[OFFICIAL_INFORMATION]-> 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. 0.8816455602645874
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. --[OFFICIAL_INFORMATION]-> I am refusing this part of your request under section 18(d) of the Act as the information is publicly available. 0.8708922266960144
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: Request made under the Official Information Act 1982 --[REQUESTS]-> New Zealand Transport Agency 0.8313925266265869
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: New Zealand Transport Agency --[RESPONDS]-> Request made under the Official Information Act 1982 0.8311018347740173
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: Request made under the Official Information Act 1982 --[OFFICIAL_INFORMATION]-> Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act). 0.8287169933319092
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: New Zealand Transport Agency --[RESPONDS_TO]-> Request made under the Official Information Act 1982 0.8256385922431946
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act). --[OFFICIAL_INFORMATION]-> I will respond to each of your questions in turn. 0.8253079056739807
+[rail operational safety]: State Highway 1 --[MAINTAINED_BY]-> New Zealand Transport Agency 0.8344254493713379
+[rail operational safety]: New Zealand Transport Agency --[MANAGES]-> State Highway 1 0.8311316967010498
+[rail operational safety]: State Highway 1 --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.829861044883728
+[rail operational safety]: State Highway 1 --[LOCATED_IN]-> Auckland 0.8224287033081055
+[rail operational safety]: New Zealand --[HAS_HIGHWAY]-> State Highway 1 0.8196909427642822
+[rail operational safety]: Waka Kotahi NZ Transport Agency --[MANAGES]-> State Highway 1 0.8194735050201416
+[rail operational safety]: State Highway 1 --[LOCATED_IN]-> New Zealand 0.8183895945549011
+[Vehicle Safety]: safe driving conditions --[ENSURED_BY]-> New Zealand Transport Agency 0.8935901522636414
+[Vehicle Safety]: New Zealand Transport Agency --[ASSIGNED]-> safety risk ratings 0.876066267490387
+[Vehicle Safety]: New Zealand Transport Agency --[PROVIDES]-> Transport Safety Data 0.8730127811431885
+[Vehicle Safety]: New Zealand Transport Agency --[ASSOCIATED]-> Road safety initiatives 0.8721163272857666
+[Vehicle Safety]: Standard Safety Intervention Toolkit --[PUBLISHED_BY]-> New Zealand Transport Agency 0.8695336580276489
+[Vehicle Safety]: New Zealand Transport Agency --[PROVIDES]-> Road Safety Initiatives 0.8693553805351257
+[Vehicle Safety]: transportation laws --[ENFORCED_BY]-> New Zealand Transport Agency 0.8692739605903625
+[vehicle safety]: questions and responses --[FROM]-> NZ Transport Agency 0.871620774269104
+[vehicle safety]: NZ Transport Agency --[ASSOCIATED]-> oia-4596 0.8708168864250183
+[vehicle safety]: oia-4596 --[ASSOCIATED]-> NZ Transport Agency 0.8642783761024475
+[vehicle safety]: NZ Transport Agency --[REVIEWS]-> risk rating 0.8617298603057861
+[vehicle safety]: NZ Transport Agency --[RESPONSIBLE_FOR]-> risk rating 0.8607990145683289
+[vehicle safety]: New Zealand Transport Agency --[BASED]-> Wellington 0.8582159280776978
+[vehicle safety]: risk rating --[REVIEWED_BY]-> NZ Transport Agency 0.8580917119979858

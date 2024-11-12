@@ -1,0 +1,36 @@
+What is the NZTA planning in terms of road network changes to accommodate the increased traffic from the new Interislander ferries in Marlborough?
+None
+Seed: 2023-24 State Highway Investment Proposal
+Seed: Road Network Changes
+Seed: Strategic Highway Improvements
+Seed: wider objectives in Regional Public Transport Plans
+[2023-24 State Highway Investment Proposal]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.8258973360061646
+[2023-24 State Highway Investment Proposal]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.8242267966270447
+[2023-24 State Highway Investment Proposal]: 2024-27 National Land Transport Programme --[DEVELOPMENT_OF]-> Regional Land Transport Plan 0.8151655197143555
+[2023-24 State Highway Investment Proposal]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Access and Development Programme Business Case 0.8238455057144165
+[2023-24 State Highway Investment Proposal]: Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.8085301518440247
+[2023-24 State Highway Investment Proposal]: Hornby Access and Development Programme Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.7920799255371094
+[2023-24 State Highway Investment Proposal]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Access and Development Programme Business Case 0.8242402672767639
+[2023-24 State Highway Investment Proposal]: Main South Road, Shands Road and Carmen Road intersection --[LOCATED_NEAR]-> Hornby Access and Development Programme Business Case 0.7828530669212341
+[Road Network Changes]: Marlborough Region --[REQUIRES]-> Road Network Changes 0.8848259449005127
+[Road Network Changes]: Road Traffic Volumes --[INCREASES]-> Marlborough Region 0.8545936346054077
+[Road Network Changes]: Larger Ferries --[AFFECTS]-> Road Traffic Volumes 0.8549148440361023
+[Road Network Changes]: Road Network Changes --[PLANNED_BY]-> New Zealand Transport Agency 0.8945071697235107
+[Road Network Changes]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8388723731040955
+[Road Network Changes]: New Zealand Transport Agency --[BASED]-> Wellington 0.8396261930465698
+[Road Network Changes]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.77935791015625
+[Road Network Changes]: Golden Mile --[LOCATED]-> Wellington 0.7717664241790771
+[Road Network Changes]: State Highway 1 --[LOCATED_IN]-> Wellington 0.8157553672790527
+[Road Network Changes]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.75075364112854
+[Road Network Changes]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7770399451255798
+[Road Network Changes]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7781637907028198
+[Road Network Changes]: Wellington --[PART_OF]-> Wellington Region 0.7906947135925293
+[Road Network Changes]: New Zealand --[HAS_CAPITAL]-> Wellington 0.811636745929718
+[Road Network Changes]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.8243420124053955
+[Road Network Changes]: Wellington --[HAS]-> tunnel 0.815371036529541
+[Road Network Changes]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.8052164912223816
+[Road Network Changes]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7721128463745117
+[Road Network Changes]: Wellington --[POSTCODE]-> 6141 0.7590608596801758
+[Road Network Changes]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.8339034914970398
+[Road Network Changes]: Wellington --[IS_PART_OF]-> New Zealand 0.7982358932495117
+[Road Network Changes]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.8164330720901489

@@ -1,0 +1,36 @@
+How many streetlights are there on motorways in New Zealand?
+None
+Seed: street lights information from local councils
+Seed: information on traffic light cameras
+Seed: street lights information
+Seed: information on traffic light cameras and speed cameras
+[street lights information from local councils]: street lights information from local councils --[OBTAINABLE_FROM]-> local councils 0.8449780941009521
+[street lights information from local councils]: New Zealand Transport Agency --[REFUSES]-> street lights information from local councils 0.8319506049156189
+[street lights information from local councils]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.825151801109314
+[street lights information from local councils]: New Zealand Transport Agency --[BASED]-> Wellington 0.8304378986358643
+[street lights information from local councils]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8074659109115601
+[street lights information from local councils]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.8040692806243896
+[street lights information from local councils]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7921456098556519
+[street lights information from local councils]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.7768130898475647
+[street lights information from local councils]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7750160694122314
+[street lights information from local councils]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7953962087631226
+[street lights information from local councils]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.8024282455444336
+[street lights information from local councils]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7833724021911621
+[street lights information from local councils]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7720615267753601
+[street lights information from local councils]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7857484221458435
+[street lights information from local councils]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7383957505226135
+[street lights information from local councils]: Wellington --[CONTAINS]-> Private Bag 6995 0.7902597188949585
+[street lights information from local councils]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8072831630706787
+[street lights information from local councils]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8186220526695251
+[street lights information from local councils]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.810718297958374
+[street lights information from local councils]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.8002967834472656
+[street lights information from local councils]: 50 Victoria Street --[IN]-> Wellington 0.7894656658172607
+[street lights information from local councils]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.8034007549285889
+[street lights information from local councils]: New Zealand Transport Agency --[LOCATED]-> 50 Victoria Street 0.8138195276260376
+[street lights information from local councils]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7923651933670044
+[street lights information from local councils]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7868163585662842
+[street lights information from local councils]: Wellington --[CONTAINS]-> 50 Victoria Street 0.8164013028144836
+[street lights information from local councils]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7879748940467834
+[street lights information from local councils]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.8027231693267822
+[street lights information from local councils]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.8206143379211426
+[street lights information from local councils]: New Zealand Transport Agency --[CONTACT]-> Wellington 6141 0.8163304924964905

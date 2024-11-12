@@ -1,0 +1,34 @@
+Which notable transport project in New Zealand, alongside the Auckland City Rail Link, has undergone the process that is acronymed for assessing the environmental impacts of transport projects?
+None
+Seed: Addressing transport challenges in auckland
+Seed: Initiatives to promote sustainable transport solutions
+Seed: New zealand's commitment to sustainable transport
+Seed: Promoting environmentally sustainable transport solutions
+[Addressing transport challenges in auckland]: Auckland --[Has]-> City rail link project 0.9010982513427734
+[Addressing transport challenges in auckland]: Auckland city rail link --[Is]-> Significant infrastructure project 0.8994468450546265
+[Addressing transport challenges in auckland]: Transport environmental impact assessments --[Are critical tools used in]-> New zealand 0.8990805745124817
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Transport projects 0.897454023361206
+[Addressing transport challenges in auckland]: Auckland --[Has]-> Transport projects 0.8935614824295044
+[Addressing transport challenges in auckland]: New zealand --[Has]-> Sustainable transport initiatives 0.8835241794586182
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Encompasses]-> Range of projects 0.8808261156082153
+[Initiatives to promote sustainable transport solutions]: Climate change response act --[Serves as]-> Foundational framework for new zealand's approach 0.8229761719703674
+[Initiatives to promote sustainable transport solutions]: Climate change response act --[Has]-> Significant implications for transport sector 0.8147302865982056
+[Initiatives to promote sustainable transport solutions]: Climate change response act --[Includes]-> Initiatives to promote sustainable transport solutions 0.8100753426551819
+[Initiatives to promote sustainable transport solutions]: Climate change response act --[Aimed at]-> Addressing challenges posed by climate change 0.7687533497810364
+[Initiatives to promote sustainable transport solutions]: Climate change response act --[Established]-> Framework for government 0.7668392658233643
+[Initiatives to promote sustainable transport solutions]: Climate change response act --[Aims to]-> Significantly reduce greenhouse gas emissions 0.7634791731834412
+[Initiatives to promote sustainable transport solutions]: Climate change response act --[Is]-> Pivotal piece of legislation 0.7582298517227173
+[New zealand's commitment to sustainable transport]: Transport environmental impact assessments --[Are critical tools used in]-> New zealand 0.8990805745124817
+[New zealand's commitment to sustainable transport]: New zealand --[Has]-> Transport projects 0.897454023361206
+[New zealand's commitment to sustainable transport]: Auckland --[Has]-> Transport projects 0.8935614824295044
+[New zealand's commitment to sustainable transport]: New zealand --[Has]-> Sustainable transport initiatives 0.8835241794586182
+[New zealand's commitment to sustainable transport]: Sustainable urban transport --[Is]-> New zealand 0.8801633715629578
+[New zealand's commitment to sustainable transport]: Sustainable urban transport --[Key component]-> New zealand 0.877536952495575
+[New zealand's commitment to sustainable transport]: Sustainable urban transport --[Key component]-> Auckland 0.8766430616378784
+[Promoting environmentally sustainable transport solutions]: Auckland --[Has]-> City rail link project 0.9010982513427734
+[Promoting environmentally sustainable transport solutions]: Auckland city rail link --[Is]-> Significant infrastructure project 0.8994468450546265
+[Promoting environmentally sustainable transport solutions]: Transport environmental impact assessments --[Are critical tools used in]-> New zealand 0.8990805745124817
+[Promoting environmentally sustainable transport solutions]: New zealand --[Has]-> Transport projects 0.897454023361206
+[Promoting environmentally sustainable transport solutions]: Auckland --[Has]-> Transport projects 0.8935614824295044
+[Promoting environmentally sustainable transport solutions]: New zealand --[Has]-> Sustainable transport initiatives 0.8835241794586182
+[Promoting environmentally sustainable transport solutions]: Auckland transport alignment project --[Encompasses]-> Range of projects 0.8808261156082153

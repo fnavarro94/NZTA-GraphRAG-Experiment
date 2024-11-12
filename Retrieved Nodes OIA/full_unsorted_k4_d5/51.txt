@@ -1,0 +1,36 @@
+How many potential mobile phone use offenses were detected during the hidden texting camera trial?
+None
+Seed: criminal history
+Seed: Attempted Burglary
+Seed: no notifications of offences detected by speed cameras
+Seed: one infringement for failing to comply with the instructions given by a steady red-light signal
+[criminal history]: criminal history --[PART_OF]-> fitness and propriety factors 0.7947542667388916
+[criminal history]: fitness and propriety factors --[SET]-> sections 30C and 30D of the Land Transport Act 1998 0.7244278192520142
+[criminal history]: sections 30C and 30D of the Land Transport Act 1998 --[LINK]-> https://www.nzta.govt.nz/driver-licences/getting-an-endorsement/getting-an-endorsement-pvio/fit-and-proper-person-check-vio-endorsements/ 0.755620539188385
+[criminal history]: fit and proper person assessments --[FORM]-> criminal history 0.7980396747589111
+[criminal history]: Transport Agency --[REQUIRE]-> fit and proper person assessments 0.7448262572288513
+[criminal history]: www.ombudsman.parliament.nz --[PROVIDES]-> Transport Agency 0.7533485889434814
+[criminal history]: www.ombudsman.parliament.nz --[LINKS_TO]-> Ombudsman 0.7628060579299927
+[criminal history]: right to ask the Ombudsman to review --[IS_GRANTED_BY]-> Ombudsman 0.7111703157424927
+[criminal history]: Ombudsman --[REVIEW_REQUEST]-> decision 0.7415746450424194
+[criminal history]: Ombudsman --[REVIEW]-> decision to withhold information 0.7549097537994385
+[criminal history]: Ombudsman --[PROVIDES]-> New Zealand Transport Agency 0.7245806455612183
+[criminal history]: New Zealand Transport Agency --[PROVIDES]-> Ombudsman 0.7406877875328064
+[criminal history]: Ombudsman --[REVIEW]-> withheld information 0.761617124080658
+[criminal history]: Ombudsman --[PROVIDES]-> review of decision 0.7480917572975159
+[criminal history]: Ombudsman --[PROVIDES]-> withheld information 0.75913405418396
+[criminal history]: Ombudsman --[LOCATED_AT]-> www.ombudsman.parliament.nz 0.7487882971763611
+[criminal history]: Ombudsman --[PARLIAMENT]-> parliament.nz 0.7547144889831543
+[criminal history]: contact details --[FOR]-> Ombudsman 0.753190279006958
+[criminal history]: decision --[REVIEW]-> Ombudsman 0.7495279312133789
+[criminal history]: Ombudsman --[IS]-> www.ombudsman.parliament.nz 0.7486570477485657
+[criminal history]: Ombudsman --[REVIEW]-> Waka Kotahi 0.7520944476127625
+[criminal history]: review by the Ombudsman --[CONDUCTED_BY]-> Ombudsman 0.7688692212104797
+[criminal history]: Ombudsman --[LOCATED_IN]-> New Zealand 0.7434788942337036
+[criminal history]: Ombudsman --[PROVIDES]-> review 0.7512481212615967
+[criminal history]: review --[CONDUCTED_BY]-> Ombudsman 0.7644064426422119
+[criminal history]: Kevin Reid --[APPEAL]-> Ombudsman 0.7411019206047058
+[criminal history]: Kevin Reid --[ASSIST]-> Ombudsman 0.7437098026275635
+[criminal history]: Ombudsman --[REVIEW]-> decision to refuse request 0.7405542135238647
+[criminal history]: Ombudsman --[LOCATED]-> www.ombudsman.parliament.nz 0.7569878101348877
+[criminal history]: www.ombudsman.parliament.nz --[PROVIDES]-> Ombudsman 0.7572818398475647

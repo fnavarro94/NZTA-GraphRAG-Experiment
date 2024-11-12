@@ -1,0 +1,33 @@
+How many road and street signs were stolen or vandalized in Hamilton over the last three years?
+None
+Seed: road/street signs
+Seed: one crossing near Daniell Street
+Seed: Theft Ex Car (Over $100)
+Seed: one crossing near SH2/Lyon Street/Birdwood Street intersection
+[road/street signs]: road/street signs --[STOLEN]-> last three years 0.918391227722168
+[road/street signs]: road/street signs --[VANDALISED]-> last three years 0.901990532875061
+[road/street signs]: street name signs --[STOLEN]-> last three years 0.8956465125083923
+[road/street signs]: street name signs --[VANDALISED]-> last three years 0.8899542093276978
+[road/street signs]: others --[VANDALISED]-> last three years 0.8568940162658691
+[road/street signs]: others --[STOLEN]-> last three years 0.8566558957099915
+[one crossing near Daniell Street]: Featherston --[RAISED_CROSSINGS]-> one crossing near Daniell Street 0.7939562201499939
+[one crossing near Daniell Street]: New Zealand --[HAS_HIGHWAY]-> State Highway 1 0.7880212664604187
+[one crossing near Daniell Street]: Featherston --[RAISED_CROSSINGS]-> this year 0.7874636650085449
+[one crossing near Daniell Street]: Featherston --[RAISED_CROSSINGS]-> one crossing near SH2/Lyon Street/Birdwood Street intersection 0.7846695780754089
+[one crossing near Daniell Street]: New Zealand --[SERVED_BY]-> Urban Public Transport Services 0.7843894958496094
+[one crossing near Daniell Street]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7819077968597412
+[one crossing near Daniell Street]: New Zealand --[CONTAINS]-> Wellington 0.7801827788352966
+[Theft Ex Car (Over $100)]: Theft Ex Car (Over $100) --[COUNT]-> 1 0.8232280611991882
+[Theft Ex Car (Over $100)]: Theft Ex Dwelling (Under $500) --[COUNT]-> 1 0.8138244152069092
+[Theft Ex Car (Over $100)]: Theft Ex Person (Over $100) --[COUNT]-> 1 0.8031728267669678
+[Theft Ex Car (Over $100)]: Other Burglary (Other Property) --[COUNT]-> 1 0.795778214931488
+[Theft Ex Car (Over $100)]: Obstruct/Hinder Police --[COUNT]-> 1 0.7839246988296509
+[Theft Ex Car (Over $100)]: Shoplifts (Under $500) --[COUNT]-> 1 0.7827451825141907
+[Theft Ex Car (Over $100)]: Drove A Motor Vehicle In A Dangerous Manner --[COUNT]-> 1 0.7825202941894531
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: Featherston --[RAISED_CROSSINGS]-> one crossing near Daniell Street 0.7939562201499939
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: New Zealand --[HAS_HIGHWAY]-> State Highway 1 0.7880212664604187
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: Featherston --[RAISED_CROSSINGS]-> this year 0.7874636650085449
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: Featherston --[RAISED_CROSSINGS]-> one crossing near SH2/Lyon Street/Birdwood Street intersection 0.7846695780754089
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: New Zealand --[SERVED_BY]-> Urban Public Transport Services 0.7843894958496094
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7819077968597412
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: New Zealand --[CONTAINS]-> Wellington 0.7801827788352966

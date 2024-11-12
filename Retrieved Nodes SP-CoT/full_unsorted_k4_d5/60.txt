@@ -1,0 +1,36 @@
+What is the destination of the scenic train operated by the organization that operates the rail network in New Zealand, primarily serving freight and providing passenger services in metropolitan areas, known for its breathtaking views of New Zealand's landscapes, departing from Christchurch?
+None
+Seed: Scenic passenger train service
+Seed: Scenic routes such as the tranzalpine and the northern explorer
+Seed: New zealand's stunning landscapes
+Seed: Both passenger and freight transport across the cook strait
+[Scenic passenger train service]: Tranzalpine --[Is]-> Scenic passenger train service 0.8189067840576172
+[Scenic passenger train service]: Kiwirail group --[Known for]-> Tranzalpine 0.8045026659965515
+[Scenic passenger train service]: Kiwirail group --[Is]-> State-owned enterprise 0.8066404461860657
+[Scenic passenger train service]: Kiwirail --[Is]-> State-owned enterprise 0.810840904712677
+[Scenic passenger train service]: Kiwirail --[Operates]-> Great journeys of new zealand 0.8607702851295471
+[Scenic passenger train service]: Kiwirail --[Operates]-> Freight route 0.8342542052268982
+[Scenic passenger train service]: Kiwirail --[Transports]-> Manufactured items 0.8098050355911255
+[Scenic passenger train service]: Kiwirail --[Operates]-> Northern explorer 0.8083375692367554
+[Scenic passenger train service]: North island main trunk line --[Operated by]-> Kiwirail 0.8082482814788818
+[Scenic passenger train service]: Tranzalpine --[Operated by]-> Kiwirail 0.810579776763916
+[Scenic passenger train service]: Kiwirail --[Operates]-> Rail network 0.820820152759552
+[Scenic passenger train service]: Kiwirail --[Manages]-> Both freight and passenger services 0.8222069144248962
+[Scenic passenger train service]: Kiwirail --[Involved in]-> Development 0.8156030178070068
+[Scenic passenger train service]: Kiwirail --[Contributes to]-> Lower carbon emissions 0.7940916419029236
+[Scenic passenger train service]: Kiwirail --[Collaborates with]-> Maritime services 0.8113165497779846
+[Scenic passenger train service]: Kiwirail --[Collaborates with]-> Road transport 0.8213828802108765
+[Scenic passenger train service]: Kiwirail --[Emerged from]-> New zealand railways corporation 0.8267489671707153
+[Scenic passenger train service]: Kiwirail --[Reduces]-> Road congestion 0.787493884563446
+[Scenic passenger train service]: Kiwirail --[Supports]-> Improving connectivity 0.7830384969711304
+[Scenic passenger train service]: Kiwirail --[Facilitates]-> Movement of people 0.8212500810623169
+[Scenic passenger train service]: Kiwirail --[Supports]-> Fostering economic growth 0.8014025688171387
+[Scenic passenger train service]: Kiwirail --[Provides]-> Passenger services 0.8267210721969604
+[Scenic passenger train service]: Kiwirail --[Involved in]-> Maintenance 0.7972968816757202
+[Scenic passenger train service]: Kiwirail --[Facilitates]-> Movement of goods 0.8279139995574951
+[Scenic passenger train service]: Kiwirail --[Operates]-> Rail services 0.8352533578872681
+[Scenic passenger train service]: Kiwirail --[Established in]-> 2008 0.8197526931762695
+[Scenic passenger train service]: Kiwirail --[Transports]-> Coal 0.8145813345909119
+[Scenic passenger train service]: Kiwirail --[Transports]-> Agricultural products 0.8129096031188965
+[Scenic passenger train service]: Kiwirail --[Supports]-> Reducing environmental impact 0.8049793243408203
+[Scenic passenger train service]: Kiwirail --[Plays]-> Crucial role 0.817283570766449

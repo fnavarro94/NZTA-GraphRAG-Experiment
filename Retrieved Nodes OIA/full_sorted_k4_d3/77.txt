@@ -1,0 +1,34 @@
+How many complaints did NZTA receive regarding Uber and its drivers?
+None
+Seed: 196 complaints about Uber drivers
+Seed: Complaint Data
+Seed: ride share operator complaints
+Seed: Uber drivers
+[196 complaints about Uber drivers]: questions and responses --[FROM]-> NZ Transport Agency 0.896125853061676
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[RESPONDED]-> Uber 0.8954727649688721
+[196 complaints about Uber drivers]: Waka Kotahi --[RECEIVES]-> 196 complaints about Uber drivers 0.8867742419242859
+[196 complaints about Uber drivers]: Uber --[RECEIVED_COMPLAINTS]-> 38 0.8807758092880249
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[RESPONDS]-> queries 0.8802790641784668
+[196 complaints about Uber drivers]: New Zealand Transport Agency --[RESPONDED]-> complaint 0.8798210620880127
+[196 complaints about Uber drivers]: Uber --[RECEIVED_COMPLAINTS]-> 73 0.8783307671546936
+[Complaint Data]: New Zealand Transport Agency --[RESPONDED]-> Uber 0.8954727649688721
+[Complaint Data]: New Zealand Transport Agency --[RESPONDS]-> queries 0.8802790641784668
+[Complaint Data]: New Zealand Transport Agency --[RESPONDED]-> complaint 0.8798210620880127
+[Complaint Data]: New Zealand Transport Agency --[RECEIVED]-> one complaint 0.8754497170448303
+[Complaint Data]: New Zealand Transport Agency --[RESPONSE]-> OIA-8289 0.8728156089782715
+[Complaint Data]: New Zealand Transport Agency --[RESPONDS]-> OIA-10752 0.8720136880874634
+[Complaint Data]: OIA-8452 --[ANSWERED_BY]-> New Zealand Transport Agency 0.8719680309295654
+[ride share operator complaints]: questions and responses --[FROM]-> NZ Transport Agency 0.896125853061676
+[ride share operator complaints]: New Zealand Transport Agency --[RESPONDED]-> Uber 0.8954727649688721
+[ride share operator complaints]: Waka Kotahi --[RECEIVES]-> 196 complaints about Uber drivers 0.8867742419242859
+[ride share operator complaints]: Uber --[RECEIVED_COMPLAINTS]-> 38 0.8807758092880249
+[ride share operator complaints]: New Zealand Transport Agency --[RESPONDS]-> queries 0.8802790641784668
+[ride share operator complaints]: New Zealand Transport Agency --[RESPONDED]-> complaint 0.8798210620880127
+[ride share operator complaints]: Uber --[RECEIVED_COMPLAINTS]-> 73 0.8783307671546936
+[Uber drivers]: questions and responses --[FROM]-> NZ Transport Agency 0.896125853061676
+[Uber drivers]: New Zealand Transport Agency --[RESPONDED]-> Uber 0.8954727649688721
+[Uber drivers]: Waka Kotahi --[RECEIVES]-> 196 complaints about Uber drivers 0.8867742419242859
+[Uber drivers]: Uber --[RECEIVED_COMPLAINTS]-> 38 0.8807758092880249
+[Uber drivers]: New Zealand Transport Agency --[RESPONDS]-> queries 0.8802790641784668
+[Uber drivers]: New Zealand Transport Agency --[RESPONDED]-> complaint 0.8798210620880127
+[Uber drivers]: Uber --[RECEIVED_COMPLAINTS]-> 73 0.8783307671546936

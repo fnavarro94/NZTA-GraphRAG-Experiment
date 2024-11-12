@@ -1,0 +1,34 @@
+What major arterial route enhances accessibility between Auckland and Onehunga, particularly for travel to which location?
+None
+Seed: Strategically located near major arterial routes
+Seed: Suburb located approximately 12 kilometers southwest of auckland's central business district
+Seed: First railway line between auckland and onehunga in 1873
+Seed: Access to auckland airport and other regions of the north island
+[Strategically located near major arterial routes]: Onehunga --[Is]-> Served by the auckland public transport network 0.923829197883606
+[Strategically located near major arterial routes]: Onehunga --[Is]-> Suburb located approximately 12 kilometers southwest of auckland's central business district 0.9074467420578003
+[Strategically located near major arterial routes]: Onehunga --[Has]-> Multiple routes linking it to surrounding suburbs and the auckland cbd 0.9061099886894226
+[Strategically located near major arterial routes]: Onehunga --[Is]-> Strategically located near major arterial routes 0.9042322635650635
+[Strategically located near major arterial routes]: Onehunga --[Has]-> Dedicated cycle lanes and pedestrian pathways 0.8648659586906433
+[Strategically located near major arterial routes]: New zealand --[Had]-> First railway line between auckland and onehunga in 1873 0.8637838363647461
+[Strategically located near major arterial routes]: Onehunga --[Has]-> Integration of bus and rail services 0.8632063865661621
+[Suburb located approximately 12 kilometers southwest of auckland's central business district]: Onehunga --[Is]-> Served by the auckland public transport network 0.923829197883606
+[Suburb located approximately 12 kilometers southwest of auckland's central business district]: Onehunga --[Is]-> Suburb located approximately 12 kilometers southwest of auckland's central business district 0.9074467420578003
+[Suburb located approximately 12 kilometers southwest of auckland's central business district]: Onehunga --[Has]-> Multiple routes linking it to surrounding suburbs and the auckland cbd 0.9061099886894226
+[Suburb located approximately 12 kilometers southwest of auckland's central business district]: Onehunga --[Is]-> Strategically located near major arterial routes 0.9042322635650635
+[Suburb located approximately 12 kilometers southwest of auckland's central business district]: Onehunga --[Has]-> Dedicated cycle lanes and pedestrian pathways 0.8648659586906433
+[Suburb located approximately 12 kilometers southwest of auckland's central business district]: New zealand --[Had]-> First railway line between auckland and onehunga in 1873 0.8637838363647461
+[Suburb located approximately 12 kilometers southwest of auckland's central business district]: Onehunga --[Has]-> Integration of bus and rail services 0.8632063865661621
+[First railway line between auckland and onehunga in 1873]: Onehunga --[Is]-> Served by the auckland public transport network 0.923829197883606
+[First railway line between auckland and onehunga in 1873]: Onehunga --[Is]-> Suburb located approximately 12 kilometers southwest of auckland's central business district 0.9074467420578003
+[First railway line between auckland and onehunga in 1873]: Onehunga --[Has]-> Multiple routes linking it to surrounding suburbs and the auckland cbd 0.9061099886894226
+[First railway line between auckland and onehunga in 1873]: Onehunga --[Is]-> Strategically located near major arterial routes 0.9042322635650635
+[First railway line between auckland and onehunga in 1873]: Onehunga --[Has]-> Dedicated cycle lanes and pedestrian pathways 0.8648659586906433
+[First railway line between auckland and onehunga in 1873]: New zealand --[Had]-> First railway line between auckland and onehunga in 1873 0.8637838363647461
+[First railway line between auckland and onehunga in 1873]: Onehunga --[Has]-> Integration of bus and rail services 0.8632063865661621
+[Access to auckland airport and other regions of the north island]: Auckland western ring route --[Serves as]-> State highway 1 0.8383495807647705
+[Access to auckland airport and other regions of the north island]: Auckland western ring route --[Key component]-> Auckland's broader transport strategy 0.8310846090316772
+[Access to auckland airport and other regions of the north island]: Auckland western ring route --[Is]-> Significant transport corridor 0.8298312425613403
+[Access to auckland airport and other regions of the north island]: Auckland western ring route --[Supports]-> Urban transport 0.8274668455123901
+[Access to auckland airport and other regions of the north island]: Auckland western ring route --[Serves as]-> Critical alternative 0.8267673254013062
+[Access to auckland airport and other regions of the north island]: Auckland western ring route --[Designed to]-> Enhance connectivity 0.826632022857666
+[Access to auckland airport and other regions of the north island]: Auckland western ring route --[Improves]-> Overall traffic conditions 0.8265194296836853

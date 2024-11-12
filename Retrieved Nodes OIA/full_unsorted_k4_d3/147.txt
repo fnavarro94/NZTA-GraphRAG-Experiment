@@ -1,0 +1,36 @@
+Does Waka Kotahi provide data distinguishing private vehicle movements on Hewletts Road?
+None
+Seed: information on daily private vehicle movements
+Seed: traffic counter sites on Hewletts Road
+Seed: Open Data portal for information about daily traffic volumes on Hewletts Road
+Seed: Waka Kotahi N Z Transport Agency
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[REFUSED_REQUEST]-> information on daily private vehicle movements 0.8857535123825073
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.8629688620567322
+[information on daily private vehicle movements]: New Zealand Transport Agency --[BASED]-> Wellington 0.8159834742546082
+[information on daily private vehicle movements]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7866895198822021
+[information on daily private vehicle movements]: Golden Mile --[LOCATED]-> Wellington 0.7863563299179077
+[information on daily private vehicle movements]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7985448837280273
+[information on daily private vehicle movements]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7671507596969604
+[information on daily private vehicle movements]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7886548042297363
+[information on daily private vehicle movements]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7694816589355469
+[information on daily private vehicle movements]: Wellington --[PART_OF]-> Wellington Region 0.7813903093338013
+[information on daily private vehicle movements]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7876734137535095
+[information on daily private vehicle movements]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7705318927764893
+[information on daily private vehicle movements]: Wellington --[HAS]-> tunnel 0.787078857421875
+[information on daily private vehicle movements]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.8601902723312378
+[information on daily private vehicle movements]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7942308783531189
+[information on daily private vehicle movements]: Wellington --[POSTCODE]-> 6141 0.7521350383758545
+[information on daily private vehicle movements]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.8115613460540771
+[information on daily private vehicle movements]: Wellington --[IS_PART_OF]-> New Zealand 0.7776933312416077
+[information on daily private vehicle movements]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7917433977127075
+[information on daily private vehicle movements]: 50 Victoria Street --[IN]-> Wellington 0.790582537651062
+[information on daily private vehicle movements]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7686658501625061
+[information on daily private vehicle movements]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7581939697265625
+[information on daily private vehicle movements]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7807305455207825
+[information on daily private vehicle movements]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.8567948341369629
+[information on daily private vehicle movements]: NZ Transport Agency --[LOCATED]-> Wellington 0.8132143616676331
+[information on daily private vehicle movements]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8162739872932434
+[information on daily private vehicle movements]: Wellington --[CONTAINS]-> 50 Victoria Street 0.8059964776039124
+[information on daily private vehicle movements]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7893352508544922
+[information on daily private vehicle movements]: New Zealand --[CONTAINS]-> Wellington 0.785529613494873
+[information on daily private vehicle movements]: Wellington --[PART_OF]-> New Zealand 0.781080961227417

@@ -1,0 +1,36 @@
+Where can the Request for Proposal (RFP) for the National Ticketing Solution be found?
+None
+Seed: National Ticketing Solution request for proposal
+Seed: RFP for National Ticket System
+Seed: Request for National Ticketing System Documentation
+Seed: opportunities to make an announcement regarding changes to the national farebox recovery policy
+[National Ticketing Solution request for proposal]: www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ --[CONTAINS]-> National Ticketing Solution request for proposal 0.8974595665931702
+[National Ticketing Solution request for proposal]: RFP for National Ticket System --[AVAILABLE]-> www.nzta.govt.nz/about-us/official-information-act/non-media-official-information-act-oia-responses/ 0.9003691077232361
+[National Ticketing Solution request for proposal]: New Zealand Transport Agency --[REFUSES]-> RFP for National Ticket System 0.8359271883964539
+[RFP for National Ticket System]: New Zealand Transport Agency --[REFUSES]-> RFP for National Ticket System 0.8359271883964539
+[RFP for National Ticket System]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7916970252990723
+[RFP for National Ticket System]: New Zealand Transport Agency --[BASED]-> Wellington 0.7810735106468201
+[RFP for National Ticket System]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7690570950508118
+[RFP for National Ticket System]: Golden Mile --[LOCATED]-> Wellington 0.7456523776054382
+[RFP for National Ticket System]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7500688433647156
+[RFP for National Ticket System]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7519123554229736
+[RFP for National Ticket System]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7416957020759583
+[RFP for National Ticket System]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7706879377365112
+[RFP for National Ticket System]: Wellington --[PART_OF]-> Wellington Region 0.7643269896507263
+[RFP for National Ticket System]: New Zealand --[HAS_CAPITAL]-> Wellington 0.7785516977310181
+[RFP for National Ticket System]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7944614887237549
+[RFP for National Ticket System]: Wellington --[HAS]-> tunnel 0.7477903962135315
+[RFP for National Ticket System]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.759363055229187
+[RFP for National Ticket System]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7752102017402649
+[RFP for National Ticket System]: Wellington --[POSTCODE]-> 6141 0.7358423471450806
+[RFP for National Ticket System]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.776789128780365
+[RFP for National Ticket System]: Wellington --[IS_PART_OF]-> New Zealand 0.7581143379211426
+[RFP for National Ticket System]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.8125327825546265
+[RFP for National Ticket System]: 50 Victoria Street --[IN]-> Wellington 0.7365283966064453
+[RFP for National Ticket System]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7487775087356567
+[RFP for National Ticket System]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7488588094711304
+[RFP for National Ticket System]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7736842632293701
+[RFP for National Ticket System]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7682759761810303
+[RFP for National Ticket System]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7628669738769531
+[RFP for National Ticket System]: NZ Transport Agency --[LOCATED]-> Wellington 0.7800036668777466
+[RFP for National Ticket System]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7398648262023926

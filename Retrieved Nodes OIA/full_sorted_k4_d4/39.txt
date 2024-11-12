@@ -1,0 +1,29 @@
+What does the term "Road Widening Works" mean in the context of SH1 Brynderwyn repairs?
+None
+Seed: Road Widening Works
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: one crossing near SH2/Lyon Street/Birdwood Street intersection
+Seed: information on LGWM construction contracts
+[Road Widening Works]: Road Widening Works --[MEANS]-> creating space or a shoulder to repair future damage caused by weather events 0.8930172324180603
+[Road Widening Works]: Attachment 3 --[TITLE]-> Road Widening Works 0.873195469379425
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: road renewal --[OVERDUE]-> road maintenance 0.8546810746192932
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: funding for road maintenance --[ASSOCIATED_WITH]-> State Highway 1 0.8496009111404419
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: State Highway 1 --[REPAIRS]-> potholes 0.8476794958114624
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: road maintenance --[ASSOCIATED_WITH]-> State Highway 1 0.8468190431594849
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: State Highway 1 --[OVERDUE]-> road maintenance 0.8460789918899536
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: road maintenance --[OVERDUE]-> State Highway 1 0.842647910118103
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: funding for road maintenance --[FOR]-> State Highway 1 0.8425437211990356
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: funding for road maintenance --[ASSOCIATED_WITH]-> State Highway 1 0.8496009111404419
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: State Highway 1 --[REPAIRS]-> potholes 0.8476794958114624
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: road maintenance --[ASSOCIATED_WITH]-> State Highway 1 0.8468190431594849
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: State Highway 1 --[OVERDUE]-> road maintenance 0.8460789918899536
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: road maintenance --[OVERDUE]-> State Highway 1 0.842647910118103
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: funding for road maintenance --[FOR]-> State Highway 1 0.8425437211990356
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: State Highway 1 --[ASSOCIATED_WITH]-> road maintenance 0.8399753570556641
+[information on LGWM construction contracts]: road renewal --[OVERDUE]-> road maintenance 0.8546810746192932
+[information on LGWM construction contracts]: funding for road maintenance --[ASSOCIATED_WITH]-> State Highway 1 0.8496009111404419
+[information on LGWM construction contracts]: State Highway 1 --[REPAIRS]-> potholes 0.8476794958114624
+[information on LGWM construction contracts]: road maintenance --[ASSOCIATED_WITH]-> State Highway 1 0.8468190431594849
+[information on LGWM construction contracts]: State Highway 1 --[OVERDUE]-> road maintenance 0.8460789918899536
+[information on LGWM construction contracts]: road maintenance --[OVERDUE]-> State Highway 1 0.842647910118103
+[information on LGWM construction contracts]: funding for road maintenance --[FOR]-> State Highway 1 0.8425437211990356

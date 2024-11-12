@@ -1,0 +1,36 @@
+Have any environmental, economic, or carbon impact studies been conducted for the North Auckland Rapid Transit Corridor?
+None
+Seed: Environmental Impact Study
+Seed: carbon impact study
+Seed: North Auckland Rapid Transit Corridor
+Seed: carbon emission data for business related travel and fleet vehicles emissions
+[Environmental Impact Study]: North Auckland Rapid Transit Corridor --[ENVIRONMENTAL_IMPACT]-> Environmental Impact Study 0.9593483209609985
+[Environmental Impact Study]: North Auckland Rapid Transit Corridor --[LOCATED]-> Auckland 0.8856133222579956
+[Environmental Impact Study]: State Highway 1 --[LOCATED_IN]-> Auckland 0.8139004707336426
+[Environmental Impact Study]: road safety --[ENHANCED_BY]-> State Highway 1 0.7695770263671875
+[Environmental Impact Study]: State Highway 1 --[REPAIRS]-> potholes 0.7553609013557434
+[Environmental Impact Study]: Road Safety Initiatives --[IMPROVES]-> State Highway 1 0.7725339531898499
+[Environmental Impact Study]: State Highway 1 --[LOCATED_IN]-> Wellington 0.78790283203125
+[Environmental Impact Study]: road maintenance --[OVERDUE]-> State Highway 1 0.7594505548477173
+[Environmental Impact Study]: State Highway 1 --[OVERDUE]-> road maintenance 0.7646530866622925
+[Environmental Impact Study]: State Highway 1 --[IN]-> Bay of Plenty 0.756137490272522
+[Environmental Impact Study]: State Highway 1 --[IMPROVES]-> safety 0.7641834020614624
+[Environmental Impact Study]: 100M --[ALLOCATED_FOR]-> State Highway 1 0.7700177431106567
+[Environmental Impact Study]: State Highway 1 --[IS_PART_OF]-> New Zealand 0.8040118217468262
+[Environmental Impact Study]: road maintenance --[ASSOCIATED_WITH]-> State Highway 1 0.7649140357971191
+[Environmental Impact Study]: funding for road maintenance --[FOR]-> State Highway 1 0.7974762916564941
+[Environmental Impact Study]: State Highway 1 --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.7896199822425842
+[Environmental Impact Study]: road safety initiatives --[TARGETS]-> State Highway 1 0.7742248773574829
+[Environmental Impact Study]: public transport fare policy review --[AFFECTS]-> State Highway 1 0.8149097561836243
+[Environmental Impact Study]: Waka Kotahi NZ Transport Agency --[MANAGES]-> State Highway 1 0.7942492961883545
+[Environmental Impact Study]: State Highway 1 --[MAINTAINED_BY]-> New Zealand Transport Agency 0.793816328048706
+[Environmental Impact Study]: New Zealand --[HAS_HIGHWAY]-> State Highway 1 0.8040573596954346
+[Environmental Impact Study]: Road Maintenance --[IMPROVES]-> State Highway 1 0.7724195718765259
+[Environmental Impact Study]: Road Safety --[RELATES_TO]-> State Highway 1 0.7542201280593872
+[Environmental Impact Study]: State Highway 1 --[LOCATED_IN]-> New Zealand 0.8005691766738892
+[Environmental Impact Study]: New Zealand Transport Agency --[MANAGES]-> State Highway 1 0.800940990447998
+[Environmental Impact Study]: road safety initiatives --[improving]-> State Highway 1 0.7900383472442627
+[Environmental Impact Study]: State Highway 1 --[identified]-> tool box talks 0.7689017057418823
+[Environmental Impact Study]: State Highway 1 --[ASSOCIATED_WITH]-> LGWM construction contracts 0.7703076601028442
+[Environmental Impact Study]: funding for road maintenance --[ASSOCIATED_WITH]-> State Highway 1 0.7861015200614929
+[Environmental Impact Study]: road maintenance --[IMPROVES]-> State Highway 1 0.7724195718765259

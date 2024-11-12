@@ -1,0 +1,36 @@
+What region does the Northern Motorway from the country where an initiative aiming to achieve a significant reduction in road deaths and serious injuries by promoting a "Safe System" approach to road safety is implemented to reduce road traffic injuries and fatalities provide access to?
+None
+Seed: Crucial role in promoting road safety
+Seed: Significant shift in new zealand's approach to road safety
+Seed: Commitment to reducing road traffic injuries and fatalities
+Seed: Achieve significant reduction in road deaths and serious injuries
+[Crucial role in promoting road safety]: Education and awareness programs --[Play]-> Crucial role in promoting road safety 0.8559138774871826
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about dangers of distracted driving 0.806066632270813
+[Crucial role in promoting road safety]: Education and awareness programs --[Include]-> Belt up campaign 0.7600776553153992
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about safe driving practices 0.8355350494384766
+[Crucial role in promoting road safety]: Education and awareness programs --[Include]-> Road safety week 0.8373737931251526
+[Crucial role in promoting road safety]: Education and awareness programs --[Aim]-> Raise awareness about importance of seatbelt use 0.8005192279815674
+[Significant shift in new zealand's approach to road safety]: Safer journeys strategy --[Marked]-> Significant shift in new zealand's approach to road safety 0.8583922982215881
+[Significant shift in new zealand's approach to road safety]: Safer journeys strategy --[Focused on]-> Safer vehicles 0.8518428802490234
+[Significant shift in new zealand's approach to road safety]: Road transport safety --[Focus on]-> Safer vehicles 0.854875385761261
+[Significant shift in new zealand's approach to road safety]: Road transport safety --[Focus on]-> Safer roads 0.8684189319610596
+[Significant shift in new zealand's approach to road safety]: Road transport safety --[Focus on]-> Safer road users 0.8595327734947205
+[Significant shift in new zealand's approach to road safety]: Road transport safety --[Governed by]-> Land transport act 1998 0.8456780314445496
+[Significant shift in new zealand's approach to road safety]: Vienna convention on road traffic --[Reflected in]-> Land transport act 1998 0.8062195777893066
+[Significant shift in new zealand's approach to road safety]: Vienna convention on road traffic --[Aiming to]-> Reduce road traffic accidents and fatalities 0.8501331806182861
+[Significant shift in new zealand's approach to road safety]: Vienna convention on road traffic --[Emphasis on]-> Standardized road signs and signals 0.7893008589744568
+[Significant shift in new zealand's approach to road safety]: Vienna convention on road traffic --[Aimed at]-> Facilitating international road traffic 0.8230648040771484
+[Significant shift in new zealand's approach to road safety]: Vienna convention on road traffic --[Integrated into]-> New zealand's national road traffic laws 0.8281354904174805
+[Significant shift in new zealand's approach to road safety]: Vienna convention on road traffic --[Ratified by]-> Numerous countries 0.8043092489242554
+[Significant shift in new zealand's approach to road safety]: Vienna convention on road traffic --[Aimed at]-> Promoting road safety 0.8403686881065369
+[Significant shift in new zealand's approach to road safety]: Vienna convention on road traffic --[Adopted]-> Graduated licensing system 0.7855275869369507
+[Significant shift in new zealand's approach to road safety]: Vienna convention on road traffic --[Reflected in]-> Road user rule 2004 0.7991123795509338
+[Significant shift in new zealand's approach to road safety]: Vienna convention on road traffic --[Reflects]-> New zealand's commitment to international standards in road safety and traffic management 0.8067654371261597
+[Significant shift in new zealand's approach to road safety]: Vienna convention on road traffic --[Establishes]-> Uniform rules for road users 0.7712148427963257
+[Significant shift in new zealand's approach to road safety]: Vienna convention on road traffic --[Promotes]-> Responsible use of vehicles 0.8027474880218506
+[Significant shift in new zealand's approach to road safety]: Vienna convention on road traffic --[Aiming to]-> Novice drivers 0.8019892573356628
+[Significant shift in new zealand's approach to road safety]: Vienna convention on road traffic --[Promotes]-> Safe driving practices 0.8185838460922241
+[Significant shift in new zealand's approach to road safety]: Vienna convention on road traffic --[Instrumental in]-> Shaping new zealand's transport policies 0.805818498134613
+[Significant shift in new zealand's approach to road safety]: Vienna convention on road traffic --[Provisions on]-> Driver licensing and vehicle registration 0.7756025195121765
+[Significant shift in new zealand's approach to road safety]: Vienna convention on road traffic --[Implemented by]-> New zealand transport agency 0.8147811889648438
+[Significant shift in new zealand's approach to road safety]: Vienna convention on road traffic --[Is]-> International treaty 0.7988429069519043

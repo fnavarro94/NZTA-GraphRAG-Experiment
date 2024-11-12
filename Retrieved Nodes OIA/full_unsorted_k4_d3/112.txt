@@ -1,0 +1,36 @@
+Where can formal advice on the second Ashburton Bridge be found?
+None
+Seed: Ashburton Bridge
+Seed: proposed second bridge
+Seed: Ashburton District Councillors
+Seed: Ashburton-Tin wald Connectivity Business Case
+[Ashburton Bridge]: Information in Scope --[RELATES_TO]-> Ashburton Bridge 0.8550906181335449
+[Ashburton Bridge]: Information in Scope --[RELATES_TO]-> proposed second bridge 0.8577600121498108
+[Ashburton Bridge]: Information --[RELATES_TO]-> proposed second bridge 0.866146445274353
+[Ashburton Bridge]: Information --[RELATES_TO]-> Ashburton Bridge 0.8809502720832825
+[Ashburton Bridge]: New Zealand Transport Agency --[WITHHOLDS]-> Information 0.7682375907897949
+[Ashburton Bridge]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7915164232254028
+[Ashburton Bridge]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7853978872299194
+[Ashburton Bridge]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7736124992370605
+[Ashburton Bridge]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7678319811820984
+[Ashburton Bridge]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7769200205802917
+[Ashburton Bridge]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7892346382141113
+[Ashburton Bridge]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7732775211334229
+[Ashburton Bridge]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.772445559501648
+[Ashburton Bridge]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7705987691879272
+[Ashburton Bridge]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7801536321640015
+[Ashburton Bridge]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7823529243469238
+[Ashburton Bridge]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7918097972869873
+[Ashburton Bridge]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7964475154876709
+[Ashburton Bridge]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7776773571968079
+[Ashburton Bridge]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7756166458129883
+[Ashburton Bridge]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7745296955108643
+[Ashburton Bridge]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7671645879745483
+[Ashburton Bridge]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7907634973526001
+[Ashburton Bridge]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7876197099685669
+[Ashburton Bridge]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7439531683921814
+[Ashburton Bridge]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7785187363624573
+[Ashburton Bridge]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7843714952468872
+[Ashburton Bridge]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7742877006530762
+[Ashburton Bridge]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7711330652236938
+[Ashburton Bridge]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7691989541053772

@@ -1,0 +1,28 @@
+What is the largest city in the country where individuals must be at least 16 years old to apply for a learner's permit, which is the first stage of the driver licensing process that can be obtained at the age of 16, served by the key transport corridor critical for freight and passenger movement and runs through the North Island?
+None
+Seed: Age of 16
+Seed: Drivers to obtain specific licenses that demonstrate their competency in handling large vehicles
+Seed: Licensing of drivers and vehicles
+Seed: Legal framework for licensing of drivers
+[Age of 16]: Learner license --[Obtained at]-> Age of 16 0.8489243984222412
+[Age of 16]: Learner license --[Eligibility]-> At least 16 years old 0.8463476896286011
+[Age of 16]: Learner license --[Stepping stone]-> New drivers 0.8317362666130066
+[Age of 16]: Learner license --[Issued in]-> New zealand 0.8260117173194885
+[Age of 16]: New zealand --[Has]-> Transport infrastructure 0.8242868185043335
+[Age of 16]: New zealand --[Has]-> Road transport 0.8241845965385437
+[Age of 16]: New zealand --[Has]-> Transport system 0.8231163620948792
+[Drivers to obtain specific licenses that demonstrate their competency in handling large vehicles]: Heavy vehicle licensing system --[Requires]-> Drivers to obtain specific licenses that demonstrate their competency in handling large vehicles 0.8096355199813843
+[Licensing of drivers and vehicles]: Road safety education --[Is]-> Critical component of new zealand's transport strategy 0.8180217146873474
+[Licensing of drivers and vehicles]: New zealand transport agency --[Plays]-> Pivotal role 0.8100360035896301
+[Licensing of drivers and vehicles]: Nzta --[Oversees]-> Licensing of drivers and vehicles 0.8058427572250366
+[Licensing of drivers and vehicles]: Road safety education --[Faces challenges]-> High rates of road fatalities among young drivers 0.7991166114807129
+[Licensing of drivers and vehicles]: Road safety education --[Implemented by]-> New zealand government 0.7989582419395447
+[Licensing of drivers and vehicles]: Road safety education --[Targets]-> Children and young adults 0.7955044507980347
+[Licensing of drivers and vehicles]: Road safety education --[Covers]-> Safe driving practices 0.7867271900177002
+[Legal framework for licensing of drivers]: Learner license --[Issued in]-> New zealand 0.8260117173194885
+[Legal framework for licensing of drivers]: New zealand --[Has]-> Transport infrastructure 0.8242868185043335
+[Legal framework for licensing of drivers]: New zealand --[Has]-> Road transport 0.8241845965385437
+[Legal framework for licensing of drivers]: New zealand --[Has]-> Transport system 0.8231163620948792
+[Legal framework for licensing of drivers]: New zealand --[Is]-> Critical aspect of transport policy 0.8228121995925903
+[Legal framework for licensing of drivers]: New zealand --[Has]-> Transport planning 0.8223419785499573
+[Legal framework for licensing of drivers]: New zealand --[Has]-> Transport policy 0.8219687342643738

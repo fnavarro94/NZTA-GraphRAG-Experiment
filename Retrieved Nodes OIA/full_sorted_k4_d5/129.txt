@@ -1,0 +1,34 @@
+How much did Meredith Connell invoice NZTA for legal services from November 2018 to June 2019?
+None
+Seed: highest single amount invoiced was $93,114.27
+Seed: administration fee
+Seed: $130,675
+Seed: $949,349
+[highest single amount invoiced was $93,114.27]: Meredith Connell --[INVOICED]-> New Zealand Transport Agency 0.8989838361740112
+[highest single amount invoiced was $93,114.27]: Meredith Connell --[ASSOCIATED]-> Legal services 0.8752858638763428
+[highest single amount invoiced was $93,114.27]: Meredith Connell --[PROVIDED]-> Legal advice and regulatory work 0.8553038835525513
+[highest single amount invoiced was $93,114.27]: Meredith Connell --[ASSOCIATED]-> Business-as-usual legal advice 0.8538419008255005
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[COLLABORATES_WITH]-> Meredith Connell 0.8403952121734619
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[INVOICES]-> highest single amount invoiced was $93,114.27 0.8336039781570435
+[highest single amount invoiced was $93,114.27]: NZTA --[PAID]-> $65 million 0.8334935903549194
+[administration fee]: Meredith Connell --[INVOICED]-> New Zealand Transport Agency 0.8989838361740112
+[administration fee]: Meredith Connell --[ASSOCIATED]-> Legal services 0.8752858638763428
+[administration fee]: Meredith Connell --[PROVIDED]-> Legal advice and regulatory work 0.8553038835525513
+[administration fee]: Meredith Connell --[ASSOCIATED]-> Business-as-usual legal advice 0.8538419008255005
+[administration fee]: New Zealand Transport Agency --[COLLABORATES_WITH]-> Meredith Connell 0.8403952121734619
+[administration fee]: New Zealand Transport Agency --[INVOICES]-> highest single amount invoiced was $93,114.27 0.8336039781570435
+[administration fee]: NZTA --[PAID]-> $65 million 0.8334935903549194
+[$130,675]: Meredith Connell --[INVOICED]-> New Zealand Transport Agency 0.8989838361740112
+[$130,675]: New Zealand Transport Agency --[COLLABORATES_WITH]-> Meredith Connell 0.8403952121734619
+[$130,675]: New Zealand Transport Agency --[INVOICES]-> highest single amount invoiced was $93,114.27 0.8336039781570435
+[$130,675]: New Zealand Transport Agency --[CONTACT]-> 04 894 6285 0.8124969005584717
+[$130,675]: New Zealand Transport Agency --[CONTACT]-> kerry.greig@nzta.govt.nz 0.8120984435081482
+[$130,675]: New Zealand Transport Agency --[CONTACT]-> 64 4 894 5400 0.8111615180969238
+[$130,675]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.81058269739151
+[$949,349]: Meredith Connell --[INVOICED]-> New Zealand Transport Agency 0.8989838361740112
+[$949,349]: Meredith Connell --[ASSOCIATED]-> Legal services 0.8752858638763428
+[$949,349]: Meredith Connell --[PROVIDED]-> Legal advice and regulatory work 0.8553038835525513
+[$949,349]: Meredith Connell --[ASSOCIATED]-> Business-as-usual legal advice 0.8538419008255005
+[$949,349]: New Zealand Transport Agency --[COLLABORATES_WITH]-> Meredith Connell 0.8403952121734619
+[$949,349]: New Zealand Transport Agency --[INVOICES]-> highest single amount invoiced was $93,114.27 0.8336039781570435
+[$949,349]: Meredith Connell --[ASSOCIATED]-> Review of 850 open compliance files 0.8327933549880981

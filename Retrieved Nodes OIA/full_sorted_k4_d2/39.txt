@@ -1,0 +1,29 @@
+What does the term "Road Widening Works" mean in the context of SH1 Brynderwyn repairs?
+None
+Seed: Road Widening Works
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: one crossing near SH2/Lyon Street/Birdwood Street intersection
+Seed: information on LGWM construction contracts
+[Road Widening Works]: Road Widening Works --[MEANS]-> creating space or a shoulder to repair future damage caused by weather events 0.8930172324180603
+[Road Widening Works]: Attachment 3 --[TITLE]-> Road Widening Works 0.873195469379425
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) --[CONTRACTS]-> consultants 0.8070048093795776
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUESTS]-> detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) 0.7940411567687988
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[RESPONDS]-> Request made under the Official Information Act 1982 0.7817795872688293
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[RESPONDS_TO]-> Request made under the Official Information Act 1982 0.7804194688796997
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[OFFICIAL_INFORMATION]-> Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act). 0.7761327028274536
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUESTS]-> New Zealand Transport Agency 0.7745711803436279
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUESTS]-> information about Road To Zero campaign 0.7735030651092529
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: Featherston --[RAISED_CROSSINGS]-> one crossing near SH2/Lyon Street/Birdwood Street intersection 0.8211454153060913
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: Featherston --[RAISED_CROSSINGS]-> one crossing near Daniell Street 0.8203826546669006
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: Featherston --[RAISED_CROSSINGS]-> two new crossings 0.8168144226074219
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: Featherston --[RAISED_CROSSINGS]-> three improvements to existing crossings 0.8126673102378845
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: Featherston --[RAISED_CROSSINGS]-> this year 0.8053005933761597
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: Featherston --[RAISED_CROSSINGS]-> staged way over time 0.7932257652282715
+[one crossing near SH2/Lyon Street/Birdwood Street intersection]: Featherston --[RAISED_CROSSINGS]-> no other intersection safety improvements planned 0.7909834384918213
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[APPROVES]-> funding for road maintenance 0.7971015572547913
+[information on LGWM construction contracts]: State Highway 1 --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.7959433794021606
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[MANAGES]-> road maintenance 0.7898173332214355
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.7888949513435364
+[information on LGWM construction contracts]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.7828017473220825
+[information on LGWM construction contracts]: Road to Zero --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.7813469171524048
+[information on LGWM construction contracts]: Crash Analysis --[PERFORMED_BY]-> Waka Kotahi NZ Transport Agency 0.7806445360183716

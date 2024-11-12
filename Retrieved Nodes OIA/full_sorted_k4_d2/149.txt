@@ -1,0 +1,32 @@
+When is the anticipated end date for tolling on the Northern Gateway Toll Road?
+None
+Seed: Northern Gateway Toll Road
+Seed: information on tolls and road maintenance
+Seed: toll roads
+Seed: toll tariffs
+[Northern Gateway Toll Road]: Northern Gateway Toll Road --[ESTIMATED_END_DATE]-> 2045 0.9263951778411865
+[Northern Gateway Toll Road]: Northern Gateway Toll Road --[PROVIDES]-> Toll Revenue 0.8952725529670715
+[Northern Gateway Toll Road]: Northern Gateway Toll Road --[DEBT_REPAYMENT]-> 35 years 0.8729838132858276
+[Northern Gateway Toll Road]: Tauranga Eastern Link Toll Road --[PROVIDES]-> Toll Revenue 0.8249249458312988
+[Northern Gateway Toll Road]: Takitimu Drive Toll Road --[PROVIDES]-> Toll Revenue 0.8156133890151978
+[information on tolls and road maintenance]: response from New Zealand Transport Agency --[CONTAINS]-> information on tolls and road maintenance 0.8293752074241638
+[information on tolls and road maintenance]: information on tolls and road maintenance --[RELATES]-> New Zealand Transport Agency 0.8285478949546814
+[information on tolls and road maintenance]: New Zealand Transport Agency --[PROVIDES]-> response date 0.8236392736434937
+[information on tolls and road maintenance]: New Zealand Transport Agency --[MANAGES]-> toll roads 0.8209012746810913
+[information on tolls and road maintenance]: Request for information on Hornby Intersection improvements --[REQUESTS]-> New Zealand Transport Agency 0.8189569711685181
+[information on tolls and road maintenance]: New Zealand Transport Agency --[RESPONDED]-> 17 March 2015 0.818767786026001
+[information on tolls and road maintenance]: New Zealand Transport Agency --[OFFICE]-> Palmerston North Office 0.8183268308639526
+[toll roads]: road maintenance --[FUNDED_BY]-> toll tariffs 0.8331446647644043
+[toll roads]: toll tariffs --[SPENT_ON]-> road maintenance 0.8323947191238403
+[toll roads]: information on tolls and road maintenance --[RELATES]-> New Zealand Transport Agency 0.8285478949546814
+[toll roads]: toll tariffs --[USED_FOR]-> road maintenance 0.8283460736274719
+[toll roads]: New Zealand Transport Agency --[PROVIDES]-> response date 0.8236392736434937
+[toll roads]: toll roads --[COLLECTS]-> toll tariffs 0.8209936618804932
+[toll roads]: New Zealand Transport Agency --[MANAGES]-> toll roads 0.8209012746810913
+[toll tariffs]: road maintenance --[FUNDED_BY]-> toll tariffs 0.8331446647644043
+[toll tariffs]: toll tariffs --[SPENT_ON]-> road maintenance 0.8323947191238403
+[toll tariffs]: toll tariffs --[USED_FOR]-> road maintenance 0.8283460736274719
+[toll tariffs]: road renewal --[OVERDUE]-> road maintenance 0.825435221195221
+[toll tariffs]: road maintenance --[AFFECTS]-> public transport fare policy review 0.8242225646972656
+[toll tariffs]: tolls --[USED_FOR]-> road maintenance 0.8234005570411682
+[toll tariffs]: road maintenance --[SUPPORTED_BY]-> tolls 0.8230618834495544

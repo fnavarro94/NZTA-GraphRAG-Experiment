@@ -1,0 +1,36 @@
+How many road deaths in Christchurch between 2017 and 2019 were attributed to alcohol being a contributing factor?
+None
+Seed: information on Christchurch road deaths
+Seed: Road Traffic Crashes
+Seed: Alcohol Consumption
+Seed: 45-60 fatalities
+[information on Christchurch road deaths]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.8587267398834229
+[information on Christchurch road deaths]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7581126093864441
+[information on Christchurch road deaths]: New Zealand Transport Agency --[BASED]-> Wellington 0.7924361824989319
+[information on Christchurch road deaths]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7889584302902222
+[information on Christchurch road deaths]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7790272831916809
+[information on Christchurch road deaths]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7973343729972839
+[information on Christchurch road deaths]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.780644416809082
+[information on Christchurch road deaths]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7919209003448486
+[information on Christchurch road deaths]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7947702407836914
+[information on Christchurch road deaths]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.8114084005355835
+[information on Christchurch road deaths]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.8042696714401245
+[information on Christchurch road deaths]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7909322381019592
+[information on Christchurch road deaths]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7795934677124023
+[information on Christchurch road deaths]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.788184404373169
+[information on Christchurch road deaths]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7909150719642639
+[information on Christchurch road deaths]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8027520775794983
+[information on Christchurch road deaths]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7849552631378174
+[information on Christchurch road deaths]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7928209900856018
+[information on Christchurch road deaths]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8046801090240479
+[information on Christchurch road deaths]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7875502109527588
+[information on Christchurch road deaths]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8134981393814087
+[information on Christchurch road deaths]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.804332435131073
+[information on Christchurch road deaths]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7899003028869629
+[information on Christchurch road deaths]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8057253956794739
+[information on Christchurch road deaths]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8043286204338074
+[information on Christchurch road deaths]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8084390163421631
+[information on Christchurch road deaths]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7995978593826294
+[information on Christchurch road deaths]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7893270254135132
+[information on Christchurch road deaths]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8093570470809937
+[information on Christchurch road deaths]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7897087335586548

@@ -1,0 +1,36 @@
+In which decade did the construction of the major railway line that is being upgraded to enhance its capacity and efficiency for sustainable transport begin?
+None
+Seed: Growing emphasis on sustainable transport solutions
+Seed: Vision for sustainable transport system
+Seed: Growing emphasis on sustainable transport options
+Seed: Sustainable and efficient transportation solutions
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Growing emphasis on sustainable transport solutions 0.8435629606246948
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> Transport projects 0.814051628112793
+[Growing emphasis on sustainable transport solutions]: New zealand transport agency --[Oversees]-> Transport projects 0.7713162899017334
+[Growing emphasis on sustainable transport solutions]: New zealand --[Has]-> New zealand transport agency 0.7792958617210388
+[Growing emphasis on sustainable transport solutions]: New zealand transport agency --[Is]-> Forefront of promoting active transport 0.8003242015838623
+[Growing emphasis on sustainable transport solutions]: New zealand transport agency --[Is]-> Government agency 0.7570986151695251
+[Growing emphasis on sustainable transport solutions]: New zealand transport agency --[Is]-> Key stakeholder 0.7883275747299194
+[Growing emphasis on sustainable transport solutions]: New zealand transport agency --[Is]-> Primary authority 0.767156720161438
+[Growing emphasis on sustainable transport solutions]: New zealand transport agency --[Is]-> Developing integrated transport solutions 0.7925843000411987
+[Growing emphasis on sustainable transport solutions]: New zealand transport agency --[Is]-> Collaborating with technology providers 0.7743062376976013
+[Growing emphasis on sustainable transport solutions]: New zealand transport agency --[Implemented]-> Initiatives 0.8120070695877075
+[Growing emphasis on sustainable transport solutions]: New zealand transport agency --[Responsible for]-> Management and regulation of transport systems 0.7753371000289917
+[Growing emphasis on sustainable transport solutions]: New zealand transport agency --[Responsible for]-> Management and regulation of the transport system in new zealand 0.765235185623169
+[Growing emphasis on sustainable transport solutions]: New zealand transport agency --[Ensures]-> Policies align with national transport objectives 0.7681272029876709
+[Growing emphasis on sustainable transport solutions]: New zealand transport agency --[Ensures]-> Voices of all road users are considered in decision-making processes 0.748697817325592
+[Growing emphasis on sustainable transport solutions]: New zealand transport agency --[Mandates]-> Regular audits 0.7574091553688049
+[Growing emphasis on sustainable transport solutions]: New zealand transport agency --[Promotes]-> Road safety 0.7617343664169312
+[Growing emphasis on sustainable transport solutions]: New zealand transport agency --[Aims]-> Reduce greenhouse gas emissions 0.7867224812507629
+[Growing emphasis on sustainable transport solutions]: New zealand transport agency --[Plays]-> A crucial role in funding and promoting cycling infrastructure projects 0.7960145473480225
+[Growing emphasis on sustainable transport solutions]: New zealand transport agency --[Plays]-> Pivotal role in conducting forecasts 0.7849323153495789
+[Growing emphasis on sustainable transport solutions]: New zealand transport agency --[Plays]-> Pivotal role in facilitating road user engagement 0.7783907651901245
+[Growing emphasis on sustainable transport solutions]: New zealand transport agency --[Plays]-> Crucial role in developing guidelines 0.7875081300735474
+[Growing emphasis on sustainable transport solutions]: New zealand transport agency --[Plays]-> Crucial role in developing standards 0.7884830236434937
+[Growing emphasis on sustainable transport solutions]: New zealand transport agency --[Plays]-> Pivotal role 0.7889081239700317
+[Growing emphasis on sustainable transport solutions]: New zealand transport agency --[Is responsible for]-> Promoting public transport initiatives 0.788627028465271
+[Growing emphasis on sustainable transport solutions]: New zealand transport agency --[Is responsible for]-> State highway network 0.7783433198928833
+[Growing emphasis on sustainable transport solutions]: New zealand transport agency --[Is responsible for]-> Managing state highway network 0.7780185341835022
+[Growing emphasis on sustainable transport solutions]: New zealand transport agency --[Is responsible for]-> Funding local road projects 0.7727618217468262
+[Growing emphasis on sustainable transport solutions]: New zealand transport agency --[Is responsible for]-> Road networks 0.7875932455062866
+[Growing emphasis on sustainable transport solutions]: New zealand transport agency --[Manages]-> National land transport fund 0.7681492567062378

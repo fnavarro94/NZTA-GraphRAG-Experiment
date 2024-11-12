@@ -1,0 +1,36 @@
+Why was the information related to the RFP submissions and preferred supplier selection withheld?
+None
+Seed: Some information has been withheld under section 9(2)(f)(iv)
+Seed: Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)
+Seed: decision to withhold information
+Seed: withheld
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[IS]-> Some information has been withheld under section 9(2)(f)(iv) 0.8323378562927246
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[DATE]-> 24 April 2024 0.7577831745147705
+[Some information has been withheld under section 9(2)(f)(iv)]: MIN-4465 --[IS]-> NTS rollout timeline 0.7705423831939697
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[IS]-> Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv) 0.8329633474349976
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[IS]-> Transport stakeholders meeting 0.793108344078064
+[Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv)]: MIN-4452 --[DATE]-> 17 April 2024 0.7672479152679443
+[decision to withhold information]: Ombudsman --[REVIEW]-> decision to withhold information 0.8423203229904175
+[decision to withhold information]: www.ombudsman.parliament.nz --[LINKS_TO]-> Ombudsman 0.7837426066398621
+[decision to withhold information]: right to ask the Ombudsman to review --[IS_GRANTED_BY]-> Ombudsman 0.775979220867157
+[decision to withhold information]: Ombudsman --[REVIEW_REQUEST]-> decision 0.7934644818305969
+[decision to withhold information]: Ombudsman --[PROVIDES]-> New Zealand Transport Agency 0.7529257535934448
+[decision to withhold information]: New Zealand Transport Agency --[PROVIDES]-> Ombudsman 0.7634677886962891
+[decision to withhold information]: Ombudsman --[REVIEW]-> withheld information 0.854758620262146
+[decision to withhold information]: Ombudsman --[PROVIDES]-> review of decision 0.7846088409423828
+[decision to withhold information]: Ombudsman --[PROVIDES]-> withheld information 0.8261054754257202
+[decision to withhold information]: Ombudsman --[LOCATED_AT]-> www.ombudsman.parliament.nz 0.7629074454307556
+[decision to withhold information]: Ombudsman --[PARLIAMENT]-> parliament.nz 0.7632551789283752
+[decision to withhold information]: contact details --[FOR]-> Ombudsman 0.7730023860931396
+[decision to withhold information]: decision --[REVIEW]-> Ombudsman 0.7946153879165649
+[decision to withhold information]: Ombudsman --[IS]-> www.ombudsman.parliament.nz 0.7703516483306885
+[decision to withhold information]: Ombudsman --[REVIEW]-> Waka Kotahi 0.751718282699585
+[decision to withhold information]: review by the Ombudsman --[CONDUCTED_BY]-> Ombudsman 0.7828249931335449
+[decision to withhold information]: Ombudsman --[LOCATED_IN]-> New Zealand 0.7645611763000488
+[decision to withhold information]: Ombudsman --[PROVIDES]-> review 0.7775654196739197
+[decision to withhold information]: review --[CONDUCTED_BY]-> Ombudsman 0.7978335618972778
+[decision to withhold information]: Kevin Reid --[APPEAL]-> Ombudsman 0.7641875147819519
+[decision to withhold information]: Kevin Reid --[ASSIST]-> Ombudsman 0.7693756818771362
+[decision to withhold information]: Ombudsman --[REVIEW]-> decision to refuse request 0.7990913987159729
+[decision to withhold information]: Ombudsman --[LOCATED]-> www.ombudsman.parliament.nz 0.767619252204895
+[decision to withhold information]: www.ombudsman.parliament.nz --[PROVIDES]-> Ombudsman 0.7737864255905151

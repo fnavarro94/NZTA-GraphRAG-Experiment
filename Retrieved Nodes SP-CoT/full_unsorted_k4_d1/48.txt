@@ -1,0 +1,10 @@
+What type of fixed-wing aircraft is used by the organization in New Zealand that operates a fleet of helicopters and fixed-wing aircraft to provide rapid transport for critically ill patients to specialized care facilities?
+None
+Seed: Fleet of helicopters and fixed-wing aircraft
+Seed: Diverse fleet of aircraft
+Seed: Modern fleet of aircraft
+Seed: Rapid response and advanced medical care
+[Fleet of helicopters and fixed-wing aircraft]: New zealand air ambulance service --[Operates]-> Fleet of helicopters and fixed-wing aircraft 0.9247332811355591
+[Diverse fleet of aircraft]: New zealand air ambulance service --[Utilizes]-> Diverse fleet of aircraft 0.8999338150024414
+[Modern fleet of aircraft]: Air new zealand --[Operates]-> Modern fleet of aircraft 0.8795093297958374
+[Rapid response and advanced medical care]: New zealand air ambulance service --[Provides]-> Rapid response and advanced medical care 0.8751427531242371

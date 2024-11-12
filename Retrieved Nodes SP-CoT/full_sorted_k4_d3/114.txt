@@ -1,0 +1,34 @@
+What is the second-busiest airport in New Zealand, serving as a key entry point for international travelers to the region known for its rugged terrain and stunning landscapes, particularly in the context of the two main islands of New Zealand where the transport system facilitates the movement of people and goods, in the context of Auckland and which city in New Zealand is mentioned as facing significant traffic congestion issues alongside Auckland and Wellington?
+None
+Seed: Crucial role in new zealand's transport infrastructure
+Seed: Busiest airport in new zealand
+Seed: Local economy and tourism industry
+Seed: Second-busiest airport in new zealand
+[Crucial role in new zealand's transport infrastructure]: Auckland airport --[Plays]-> Crucial role in new zealand's transport infrastructure 0.8937344551086426
+[Crucial role in new zealand's transport infrastructure]: Auckland --[Has]-> Busiest airport in new zealand 0.8933608531951904
+[Crucial role in new zealand's transport infrastructure]: Auckland airport --[Is]-> Busiest airport in new zealand 0.8899551630020142
+[Crucial role in new zealand's transport infrastructure]: Auckland airport --[Connects]-> Auckland to major cities around the world 0.8836584687232971
+[Crucial role in new zealand's transport infrastructure]: Auckland airport --[Is]-> Main international gateway to new zealand 0.8791529536247253
+[Crucial role in new zealand's transport infrastructure]: Auckland --[Has]-> International airport 0.8778126239776611
+[Crucial role in new zealand's transport infrastructure]: Auckland airport --[Serves as]-> Primary international gateway for new zealand 0.8752033710479736
+[Busiest airport in new zealand]: Auckland airport --[Plays]-> Crucial role in new zealand's transport infrastructure 0.8937344551086426
+[Busiest airport in new zealand]: Auckland --[Has]-> Busiest airport in new zealand 0.8933608531951904
+[Busiest airport in new zealand]: Auckland airport --[Is]-> Busiest airport in new zealand 0.8899551630020142
+[Busiest airport in new zealand]: Auckland --[Has]-> Significant issue with traffic congestion 0.8874907493591309
+[Busiest airport in new zealand]: Auckland --[Has]-> Traffic congestion 0.8866406679153442
+[Busiest airport in new zealand]: Auckland --[Has]-> Significant transport hub 0.8862191438674927
+[Busiest airport in new zealand]: Auckland --[Faces challenges]-> Traffic congestion 0.8858122229576111
+[Local economy and tourism industry]: Auckland airport --[Plays]-> Crucial role in new zealand's transport infrastructure 0.8937344551086426
+[Local economy and tourism industry]: Auckland --[Has]-> Busiest airport in new zealand 0.8933608531951904
+[Local economy and tourism industry]: Auckland airport --[Is]-> Busiest airport in new zealand 0.8899551630020142
+[Local economy and tourism industry]: Auckland airport --[Connects]-> Auckland to major cities around the world 0.8836584687232971
+[Local economy and tourism industry]: Auckland airport --[Is]-> Main international gateway to new zealand 0.8791529536247253
+[Local economy and tourism industry]: Auckland --[Has]-> International airport 0.8778126239776611
+[Local economy and tourism industry]: Auckland airport --[Serves as]-> Primary international gateway for new zealand 0.8752033710479736
+[Second-busiest airport in new zealand]: Christchurch international airport --[Is]-> Second-busiest airport in new zealand 0.8753463625907898
+[Second-busiest airport in new zealand]: Christchurch --[Has]-> Second-busiest airport in new zealand 0.872168779373169
+[Second-busiest airport in new zealand]: Auckland --[Has]-> Public transport system 0.8715581893920898
+[Second-busiest airport in new zealand]: Auckland --[Has]-> Comprehensive public transport networks 0.8670401573181152
+[Second-busiest airport in new zealand]: Christchurch international airport --[Is]-> Second-busiest airport 0.864715576171875
+[Second-busiest airport in new zealand]: Auckland --[Has]-> Buses 0.8631771802902222
+[Second-busiest airport in new zealand]: New zealand --[Has]-> Public transport 0.855236291885376

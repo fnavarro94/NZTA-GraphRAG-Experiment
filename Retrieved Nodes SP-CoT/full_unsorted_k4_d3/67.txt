@@ -1,0 +1,36 @@
+Who operates the rail network in the country known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, and is responsible for the term that describes the regular activities performed to keep roads safe and functional, including vegetation control, litter removal, and drainage maintenance?
+None
+Seed: Significant role in planning and management of transport infrastructure and services
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+Seed: Critical for freight and passenger movement
+Seed: Critical component of new zealand's transport strategy
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Plays]-> Significant role in planning and management of transport infrastructure and services 0.8216127753257751
+[Significant role in planning and management of transport infrastructure and services]: Teia --[Governed by]-> Resource management act 1991 0.7674981355667114
+[Significant role in planning and management of transport infrastructure and services]: Teia --[Evaluates]-> Potential effects of transport projects 0.7984905242919922
+[Significant role in planning and management of transport infrastructure and services]: Teia --[Includes]-> Economic factors 0.7337576746940613
+[Significant role in planning and management of transport infrastructure and services]: Teia --[Includes]-> Ecological factors 0.7415976524353027
+[Significant role in planning and management of transport infrastructure and services]: Teia --[Used in]-> New zealand 0.7130898833274841
+[Significant role in planning and management of transport infrastructure and services]: Teia --[Includes]-> Cultural factors 0.7207704782485962
+[Significant role in planning and management of transport infrastructure and services]: Teia --[Includes]-> Social factors 0.7356853485107422
+[Significant role in planning and management of transport infrastructure and services]: Teia --[Supports]-> Reducing carbon emissions 0.7567312717437744
+[Significant role in planning and management of transport infrastructure and services]: Teia --[Is]-> Critical framework 0.7439355254173279
+[Significant role in planning and management of transport infrastructure and services]: Teia --[Promotes]-> Sustainable development 0.7556421160697937
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Subject to]-> Criticism for complexity 0.7578853368759155
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Has]-> Challenges balancing development with environmental protection 0.7636265754699707
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Praised for]-> Promoting integrated approach to transport planning 0.7970174551010132
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Requires]-> Thorough assessment processes 0.7567435503005981
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Recognizes]-> Transport as critical component 0.819398820400238
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Led to]-> Discussions about potential amendments 0.7365148067474365
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Facilitates]-> Public participation in planning process 0.7695037722587585
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Plays]-> Significant role in shaping transport infrastructure 0.8169958591461182
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Enacted to]-> Promote sustainable development 0.7671798467636108
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Enacted]-> Promote sustainable development 0.7649918794631958
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Subject]-> Debate regarding effectiveness in addressing challenges of modern transport needs 0.812242865562439
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Cornerstone]-> New zealand's approach to managing transport 0.799534797668457
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Requires]-> Local authorities to consider effects of transport activities on environment 0.7960633635520935
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Recognizes]-> Transport as critical component of nation's infrastructure 0.8194189071655273
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Provides]-> Framework for assessment of resource consents 0.7449530959129333
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Encourages]-> Public participation in decision-making process 0.752777636051178
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Aims]-> Balance need for efficient transport systems with preservation of new zealand's unique landscapes and ecosystems 0.7970107197761536
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Is]-> Key piece of legislation 0.7661189436912537
+[Significant role in planning and management of transport infrastructure and services]: Health and safety at work act 2015 --[Is]-> Key piece of legislation 0.7565486431121826

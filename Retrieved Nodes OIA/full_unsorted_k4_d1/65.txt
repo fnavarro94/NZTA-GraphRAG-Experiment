@@ -1,0 +1,14 @@
+What are the requirements for commercial buses in New Zealand with regards to Occupancy Safety?
+None
+Seed: 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.
+Seed: rail operational safety
+Seed: Vehicle Safety
+Seed: vehicle safety
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. --[OFFICIAL_INFORMATION]-> I am refusing this part of your request under section 18(d) of the Act as the information is publicly available. 0.8708922266960144
+[1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.]: I will respond to each of your questions in turn. --[OFFICIAL_INFORMATION]-> 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. 0.8816455602645874
+[rail operational safety]: awareness --[increased]-> rail operational safety 0.8038848638534546
+[rail operational safety]: rail operational safety --[improved]-> emergency plan 0.816240131855011
+[Vehicle Safety]: Safety Tolerance --[Ensures]-> Vehicle Safety 0.8212884068489075
+[Vehicle Safety]: Vehicle Safety --[Is]-> Critical 0.8405473828315735
+[vehicle safety]: risk rating --[IMPORTANT_FOR]-> vehicle safety 0.8302152752876282
+[vehicle safety]: vehicle safety --[ENHANCED_BY]-> risk rating 0.8060369491577148

@@ -1,0 +1,34 @@
+What iconic transport system is managed by the organization that oversees the implementation of one of the key initiatives in New Zealand aimed at improving public transport accessibility, particularly in the Wellington region, in the cities of Auckland and Wellington?
+None
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+Seed: Promoting public transport initiatives
+Seed: Management and regulation of the transport system in new zealand
+Seed: Regional transport initiatives
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Plays]-> Significant role in shaping transport infrastructure and policy in new zealand 0.8699779510498047
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Aims to]-> Enhance resilience and adaptability of new zealand's transport network 0.8632708787918091
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Collaborates with]-> New zealand transport agency (nzta 0.8408818244934082
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Is]-> Collective of australian and new zealand road transport and traffic agencies 0.8333733677864075
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Engages in]-> International collaborations to align initiatives with global best practices 0.7695895433425903
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Conducts]-> Extensive research and development projects 0.7650371789932251
+[Significant role in shaping transport infrastructure and policy in new zealand]: Austroads --[Founded in]-> 1990 0.7469242811203003
+[Promoting public transport initiatives]: New zealand transport agency --[Is responsible for]-> Promoting public transport initiatives 0.8980589509010315
+[Promoting public transport initiatives]: Auckland transport --[Actively involved in]-> Promoting public transport use 0.8971450924873352
+[Promoting public transport initiatives]: Auckland transport --[Manages]-> Public transport 0.8929159641265869
+[Promoting public transport initiatives]: Auckland transport --[Oversees]-> Public transport 0.8920416235923767
+[Promoting public transport initiatives]: Auckland transport --[Responsible for]-> Managing public transport services 0.8902580738067627
+[Promoting public transport initiatives]: New zealand --[Has]-> Public transport integration 0.8899402618408203
+[Promoting public transport initiatives]: New zealand --[Has]-> Transport equity initiatives 0.8878033757209778
+[Management and regulation of the transport system in new zealand]: New zealand transport agency --[Is responsible for]-> Promoting public transport initiatives 0.8980589509010315
+[Management and regulation of the transport system in new zealand]: Auckland transport --[Actively involved in]-> Promoting public transport use 0.8971450924873352
+[Management and regulation of the transport system in new zealand]: Auckland transport --[Manages]-> Public transport 0.8929159641265869
+[Management and regulation of the transport system in new zealand]: Auckland transport --[Oversees]-> Public transport 0.8920416235923767
+[Management and regulation of the transport system in new zealand]: Auckland transport --[Responsible for]-> Managing public transport services 0.8902580738067627
+[Management and regulation of the transport system in new zealand]: New zealand --[Has]-> Public transport integration 0.8899402618408203
+[Management and regulation of the transport system in new zealand]: New zealand --[Has]-> Transport equity initiatives 0.8878033757209778
+[Regional transport initiatives]: New zealand transport agency --[Is responsible for]-> Promoting public transport initiatives 0.8980589509010315
+[Regional transport initiatives]: New zealand transport agency --[Implemented]-> Initiatives 0.8842524290084839
+[Regional transport initiatives]: New zealand transport agency --[Responsible for]-> Management and regulation of the transport system in new zealand 0.8792058229446411
+[Regional transport initiatives]: New zealand transport agency --[Responsible for]-> Management and regulation of transport systems 0.8782531023025513
+[Regional transport initiatives]: New zealand transport agency --[Is]-> Forefront of promoting active transport 0.8764685988426208
+[Regional transport initiatives]: New zealand --[Has]-> New zealand transport agency 0.8710877299308777
+[Regional transport initiatives]: New zealand transport agency --[Plays]-> Pivotal role 0.8705176711082458

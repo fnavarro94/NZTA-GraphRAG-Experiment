@@ -1,0 +1,36 @@
+Which notable transport project in New Zealand, alongside the Auckland rail project, has undergone TEIA?
+None
+Seed: Addressing transport challenges in auckland
+Seed: New zealand's transport network
+Seed: Rail networks
+Seed: New zealand's transport system
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Addressing transport challenges in auckland 0.8500837087631226
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On enhancing road infrastructure 0.8384517431259155
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Outlines]-> Strategic approach to address challenges 0.8375911712646484
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On improving public transport 0.8398727178573608
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses]-> On promoting sustainable transport solutions 0.8479703068733215
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Promote sustainable transport options 0.8431922197341919
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Reduce congestion 0.8307660222053528
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Is]-> Strategic initiative 0.8597613573074341
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Improve efficiency and effectiveness of transport system 0.8432909846305847
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Launched in]-> 2016 0.8420203924179077
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Development of comprehensive transport network 0.8546764850616455
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Is]-> Collaborative effort 0.84417724609375
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Aligning transport investments 0.8497312068939209
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Aims to]-> Create unified transport network 0.8455864191055298
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Encompasses]-> Range of projects 0.8646461963653564
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Emphasizes]-> Need for balanced transport system 0.8395771384239197
+[New zealand's transport network]: Road infrastructure projects --[Play crucial role in]-> New zealand's transport network 0.8425232172012329
+[Rail networks]: New zealand --[Composed of]-> Rail networks 0.8462285995483398
+[Rail networks]: New zealand --[Has]-> Transport projects 0.8840452432632446
+[Rail networks]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.833206295967102
+[Rail networks]: New zealand --[Has]-> Diverse transport network 0.8426229953765869
+[Rail networks]: New zealand --[Has]-> Post-incident review 0.7834587097167969
+[Rail networks]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.8066114187240601
+[Rail networks]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.8050873279571533
+[Rail networks]: New zealand --[Has]-> Broader environmental policies 0.7897960543632507
+[Rail networks]: New zealand --[Has]-> Traffic congestion 0.7989588379859924
+[Rail networks]: New zealand --[Has]-> Increasing urbanization 0.79122394323349
+[Rail networks]: New zealand --[Has]-> Graduated licensing system 0.7774910926818848
+[Rail networks]: New zealand --[Has]-> Extensive coastline supporting a thriving fishing industry and recreational boating activities 0.7880548238754272
+[Rail networks]: New zealand --[Has]-> Trend towards more integrated and environmentally friendly transport solutions 0.8300714492797852

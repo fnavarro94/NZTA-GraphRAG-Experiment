@@ -1,0 +1,25 @@
+How many potential mobile phone use offenses were detected during the hidden texting camera trial?
+None
+Seed: criminal history
+Seed: Attempted Burglary
+Seed: no notifications of offences detected by speed cameras
+Seed: one infringement for failing to comply with the instructions given by a steady red-light signal
+[criminal history]: fit and proper person assessments --[FORM]-> criminal history 0.7980396747589111
+[criminal history]: criminal history --[PART_OF]-> fitness and propriety factors 0.7947542667388916
+[criminal history]: Transport Agency --[REQUIRE]-> fit and proper person assessments 0.7448262572288513
+[criminal history]: fitness and propriety factors --[SET]-> sections 30C and 30D of the Land Transport Act 1998 0.7244278192520142
+[Attempted Burglary]: Applicant 4 --[CONVICTED]-> Attempted Burglary 0.7914906144142151
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.7902252674102783
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[INVESTIGATES]-> breaches of rules or regulations 0.7864698171615601
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[RECORDED]-> one infringement for failing to comply with the instructions given by a steady red-light signal 0.7816469073295593
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.7750486135482788
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[PROVIDES]-> information on speed cameras 0.7746421694755554
+[no notifications of offences detected by speed cameras]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.7722959518432617
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[INVESTIGATES]-> complaint 0.7710316777229309
+[one infringement for failing to comply with the instructions given by a steady red-light signal]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.7902252674102783
+[one infringement for failing to comply with the instructions given by a steady red-light signal]: Waka Kotahi --[INVESTIGATES]-> breaches of rules or regulations 0.7864698171615601
+[one infringement for failing to comply with the instructions given by a steady red-light signal]: Waka Kotahi --[RECORDED]-> one infringement for failing to comply with the instructions given by a steady red-light signal 0.7816469073295593
+[one infringement for failing to comply with the instructions given by a steady red-light signal]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.7750486135482788
+[one infringement for failing to comply with the instructions given by a steady red-light signal]: Waka Kotahi --[PROVIDES]-> information on speed cameras 0.7746421694755554
+[one infringement for failing to comply with the instructions given by a steady red-light signal]: Road User Charges --[UNDERTAKEN_BY]-> Waka Kotahi 0.7722959518432617
+[one infringement for failing to comply with the instructions given by a steady red-light signal]: Waka Kotahi --[INVESTIGATES]-> complaint 0.7710316777229309

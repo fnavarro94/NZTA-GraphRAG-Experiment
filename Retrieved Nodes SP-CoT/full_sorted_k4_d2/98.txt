@@ -1,0 +1,32 @@
+I'm sorry, but the questions provided are too complex and convoluted for me to provide accurate answers. If you could simplify the questions or provide more context, I would be happy to help answer them.
+None
+Seed: Criticism for complexity
+Seed: Surveys
+Seed: Cultural influences
+Seed: Cultural factors
+[Criticism for complexity]: Resource management act 1991 --[Subject to]-> Criticism for complexity 0.8291789889335632
+[Criticism for complexity]: Resource management act 1991 --[Cornerstone]-> New zealand's approach to managing transport 0.7860068082809448
+[Criticism for complexity]: Resource management act 1991 --[Led to]-> Discussions about potential amendments 0.7847718000411987
+[Criticism for complexity]: Resource management act 1991 --[Subject]-> Debate regarding effectiveness in addressing challenges of modern transport needs 0.7841883897781372
+[Criticism for complexity]: Resource management act 1991 --[Requires]-> Thorough assessment processes 0.7767942547798157
+[Criticism for complexity]: Resource management act 1991 --[Has]-> Challenges balancing development with environmental protection 0.775716245174408
+[Criticism for complexity]: Resource management act 1991 --[Is]-> Key piece of legislation 0.771569013595581
+[Surveys]: Road user engagement --[Employs]-> Variety of methods 0.7742578983306885
+[Surveys]: Road user engagement --[Includes]-> Surveys 0.7730333805084229
+[Surveys]: Road user engagement --[Is]-> New zealand 0.7673357725143433
+[Surveys]: Driver behavior and safety --[Utilize]-> Surveys 0.7656833529472351
+[Surveys]: Driver behavior and safety --[Focus on]-> Speed 0.7625808715820312
+[Surveys]: Driver behavior and safety --[Focus on]-> Distraction 0.7616814374923706
+[Surveys]: Wellington public transport spine study --[Initiated in response to]-> Traffic congestion 0.7583425045013428
+[Cultural influences]: Cultural influences --[Explore]-> How cultural factors influence road user behavior 0.7759347558021545
+[Cultural influences]: Cultural influences --[Explore]-> How cultural attitudes towards transport modes affect compliance 0.7664688229560852
+[Cultural influences]: Cultural influences --[Explore]-> How cultural attitudes towards transport modes affect overall road safety outcomes 0.7655812501907349
+[Cultural influences]: Cultural influences --[Explore]-> How cultural attitudes towards road safety affect overall road safety outcomes 0.7633956074714661
+[Cultural influences]: Cultural influences --[Explore]-> How cultural attitudes towards road safety affect compliance 0.762710690498352
+[Cultural factors]: Teia --[Includes]-> Social factors 0.807754397392273
+[Cultural factors]: Teia --[Includes]-> Cultural factors 0.8069573044776917
+[Cultural factors]: Teia --[Includes]-> Economic factors 0.8027251958847046
+[Cultural factors]: Teia --[Includes]-> Ecological factors 0.7909159660339355
+[Cultural factors]: Teia --[Is]-> Critical framework 0.7837134003639221
+[Cultural factors]: Teia --[Evaluates]-> Potential effects of transport projects 0.7700625658035278
+[Cultural factors]: Teia --[Used in]-> New zealand 0.7673000693321228

@@ -1,0 +1,36 @@
+What region does the Metlink bus service connect to besides Porirua, the city in the country known for its Metlink services, which focus on providing comprehensive coverage across the region and allocates financial resources for the development, maintenance, and upgrading of transport infrastructure, including roads, railways, airports, and public transport systems?
+None
+Seed: Regional transport initiatives
+Seed: Significant investment in public transport infrastructure
+Seed: Importance of well-planned transport systems in both countries
+Seed: Transport link between wellington and northern regions of north island
+[Regional transport initiatives]: Local councils --[Contribute to]-> Regional transport initiatives 0.7873156070709229
+[Regional transport initiatives]: Road safety authority --[Collaborates with]-> Local councils 0.7453605532646179
+[Regional transport initiatives]: Road safety authority --[Collaborates with]-> Law enforcement agencies 0.7342172861099243
+[Regional transport initiatives]: Road safety authority --[Operates under]-> Ministry of transport 0.7623621225357056
+[Regional transport initiatives]: Ministry of transport --[Develops]-> National transport policies 0.7795248627662659
+[Regional transport initiatives]: Ministry of transport --[Oversees]-> Rail 0.777276873588562
+[Regional transport initiatives]: Ministry of transport --[Works with]-> New zealand transport agency 0.7814310193061829
+[Regional transport initiatives]: Ministry of transport --[Oversees]-> Maritime 0.7641789317131042
+[Regional transport initiatives]: Ministry of transport --[Oversees]-> Road 0.7636395692825317
+[Regional transport initiatives]: New zealand transport agency --[Operates under]-> Ministry of transport 0.7867482900619507
+[Regional transport initiatives]: Ministry of transport --[Collaborates with]-> Community groups 0.7962228059768677
+[Regional transport initiatives]: Ministry of transport --[Collaborates with]-> Local government 0.7958709597587585
+[Regional transport initiatives]: Ministry of transport --[Oversees]-> Maritime transport 0.7698295712471008
+[Regional transport initiatives]: Ministry of transport --[Oversees]-> Road transport 0.7701495885848999
+[Regional transport initiatives]: Ministry of transport --[Established in]-> 1962 0.7758320569992065
+[Regional transport initiatives]: Ministry of transport --[Responsible for]-> Transport policy 0.7834614515304565
+[Regional transport initiatives]: Ministry of transport --[Manages]-> Transport system 0.7899155616760254
+[Regional transport initiatives]: Ministry of transport --[Oversees]-> Aviation 0.76703280210495
+[Regional transport initiatives]: Ministry of transport --[Collaborates with]-> Industry representatives 0.7959338426589966
+[Regional transport initiatives]: Ministry of transport --[Collaborates with]-> Transport agencies 0.7998087406158447
+[Regional transport initiatives]: Ministry of transport --[Is]-> Government agency 0.775463342666626
+[Regional transport initiatives]: Ministry of transport --[Oversees]-> Public transport 0.7847833037376404
+[Regional transport initiatives]: Ministry of transport --[Oversees]-> Transport sector 0.7836998701095581
+[Regional transport initiatives]: Ministry of transport --[Provides]-> Policy advice 0.7850317358970642
+[Regional transport initiatives]: Vehicle maintenance standards --[Are promoted by]-> Ministry of transport 0.7585906982421875
+[Regional transport initiatives]: Vehicle import regulations --[Governed by]-> Ministry of transport 0.7651008367538452
+[Regional transport initiatives]: Vehicle safety standards --[Are overseen by]-> Ministry of transport 0.7529650926589966
+[Regional transport initiatives]: Road safety authority --[Advocates for]-> Infrastructure improvements 0.7573173642158508
+[Regional transport initiatives]: Infrastructure improvements --[Include]-> Addition of pedestrian crossings 0.7834311723709106
+[Regional transport initiatives]: Infrastructure improvements --[Include]-> Improved signage 0.7744659781455994

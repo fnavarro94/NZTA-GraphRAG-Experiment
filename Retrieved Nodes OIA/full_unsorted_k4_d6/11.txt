@@ -1,0 +1,36 @@
+When were the safety cameras in the Waterview Tunnel last calibrated for accuracy?
+None
+Seed: MINO -1042 Waterview Tunnel
+Seed: information on traffic light cameras and speed cameras
+Seed: information on traffic light cameras
+Seed: Lyttelton tunnel
+[MINO -1042 Waterview Tunnel]: MINO -1042 Waterview Tunnel --[WARNING]-> 19 April 2024 0.8536930680274963
+[MINO -1042 Waterview Tunnel]: 19 April 2024 --[RELEASED]-> Released in full 0.7138846516609192
+[MINO -1042 Waterview Tunnel]: 29 April 2024 --[RELEASED]-> Released in full 0.7134437561035156
+[MINO -1042 Waterview Tunnel]: MINO -1047 Driver instructors --[TESTING]-> 29 April 2024 0.767119288444519
+[MINO -1042 Waterview Tunnel]: 30 April 2024 --[RELEASED]-> Released in full 0.7116948366165161
+[MINO -1042 Waterview Tunnel]: MINO -1051 Supporting information --[DEBATE]-> 30 April 2024 0.7479780912399292
+[MINO -1042 Waterview Tunnel]: Ministers Report --[IS]-> Released in full 0.7265564799308777
+[MINO -1042 Waterview Tunnel]: Ministers Report --[DATE]-> 8 April 2024 0.7383515238761902
+[MINO -1042 Waterview Tunnel]: MINO -1029 Minister Office's --[QUERY]-> 8 April 2024 0.7443828582763672
+[MINO -1042 Waterview Tunnel]: 8 April 2024 --[RELEASED]-> Released in full 0.7217720150947571
+[MINO -1042 Waterview Tunnel]: MIN-4449 --[IS]-> Released in full 0.7420194149017334
+[MINO -1042 Waterview Tunnel]: 22 April 2024 --[RELEASED]-> Released in full 0.7178851962089539
+[MINO -1042 Waterview Tunnel]: Ministers Report --[IS]-> Ministers Report 0.7149537801742554
+[MINO -1042 Waterview Tunnel]: MIN-4449 --[DATE]-> 17 April 2024 0.7400461435317993
+[MINO -1042 Waterview Tunnel]: MIN-4452 --[DATE]-> 17 April 2024 0.7252531051635742
+[MINO -1042 Waterview Tunnel]: MIN-4452 --[IS]-> Some information has been withheld under section 9(2)(ba)(i) and section 9(2)(f)(iv) 0.7424642443656921
+[MINO -1042 Waterview Tunnel]: MIN-4452 --[IS]-> Transport stakeholders meeting 0.7344366312026978
+[MINO -1042 Waterview Tunnel]: MIN-4449 --[IS]-> Average cost of resurfacing and rehabilitation 0.7350986003875732
+[MINO -1042 Waterview Tunnel]: MINO -1039 Road User Charges --[REVENUE]-> 22 April 2024 0.7273976802825928
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.7930383682250977
+[information on traffic light cameras and speed cameras]: Response --[CONTAINS]-> Waka Kotahi 0.719293475151062
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PUBLISHES]-> Response 0.7068082690238953
+[information on traffic light cameras and speed cameras]: response --[CONTAINS]-> Waka Kotahi 0.7053399085998535
+[information on traffic light cameras and speed cameras]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.7370045185089111
+[information on traffic light cameras and speed cameras]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7337919473648071
+[information on traffic light cameras and speed cameras]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.753112256526947
+[information on traffic light cameras and speed cameras]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.7472201585769653
+[information on traffic light cameras and speed cameras]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> list of LGWM construction contracts 0.7255929708480835
+[information on traffic light cameras and speed cameras]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> public transport fare policy review 0.7318763732910156
+[information on traffic light cameras and speed cameras]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.7670995593070984

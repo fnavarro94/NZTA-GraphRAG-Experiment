@@ -1,0 +1,12 @@
+What international agreement does the program, established in 2010, which requires periodic testing of older vehicles to ensure they meet emissions standards throughout their operational life, align with to help limit global warming and reduce carbon emissions?
+None
+Seed: Vehicles meet specific emissions standards
+Seed: International agreements
+Seed: Paris agreement
+Seed: Commitment to reducing carbon emissions
+[Vehicles meet specific emissions standards]: Nzta --[Ensures]-> Vehicles meet specific emissions standards 0.8418089151382446
+[International agreements]: Vehicle safety standards --[Are governed by]-> International agreements 0.8289635181427002
+[International agreements]: Vehicle emissions regulations --[Shaped by]-> International agreements 0.8741125464439392
+[Paris agreement]: Vehicle exhaust emissions testing programme --[Aligns with]-> Paris agreement 0.8780202865600586
+[Commitment to reducing carbon emissions]: Electric scooters --[Align with]-> Commitment to reducing carbon emissions 0.8330255150794983
+[Commitment to reducing carbon emissions]: New zealand --[Has]-> Commitment to reducing carbon emissions 0.8062419891357422

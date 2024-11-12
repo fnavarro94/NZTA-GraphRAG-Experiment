@@ -1,0 +1,36 @@
+What is the abbreviation for the initiative in New Zealand that aims to increase the number of electric trucks and vans on the roads in the freight sector?
+None
+Seed: Growing number of initiatives
+Seed: Increasing the number of electric vehicles on new zealand roads
+Seed: Increase number of electric vehicles on the road
+Seed: Driving innovation in freight transport sector
+[Growing number of initiatives]: New zealand --[Has]-> Growing number of initiatives 0.8601331114768982
+[Growing number of initiatives]: New zealand --[Has]-> Transport projects 0.8584679365158081
+[Growing number of initiatives]: New zealand transport agency --[Oversees]-> Transport projects 0.8249704241752625
+[Growing number of initiatives]: New zealand --[Has]-> New zealand transport agency 0.8500000238418579
+[Growing number of initiatives]: New zealand --[Has]-> Transport industry governed by regulatory bodies 0.8292374014854431
+[Growing number of initiatives]: New zealand --[Has]-> Diverse transport network 0.8367519378662109
+[Growing number of initiatives]: New zealand --[Has]-> Post-incident review 0.7653460502624512
+[Growing number of initiatives]: New zealand --[Has]-> Stringent building codes and retrofitting programs 0.7959266304969788
+[Growing number of initiatives]: New zealand --[Has]-> Contingency plans to reroute traffic and manage air travel disruptions 0.7959723472595215
+[Growing number of initiatives]: New zealand --[Has]-> Broader environmental policies 0.7935101389884949
+[Growing number of initiatives]: New zealand --[Has]-> Traffic congestion 0.8179644346237183
+[Growing number of initiatives]: New zealand --[Has]-> Increasing urbanization 0.8152601718902588
+[Growing number of initiatives]: New zealand --[Has]-> Graduated licensing system 0.806172251701355
+[Growing number of initiatives]: New zealand --[Has]-> Extensive coastline supporting a thriving fishing industry and recreational boating activities 0.7836224436759949
+[Growing number of initiatives]: New zealand --[Has]-> Trend towards more integrated and environmentally friendly transport solutions 0.8402837514877319
+[Growing number of initiatives]: New zealand --[Has]-> Extensive network of roads 0.835674524307251
+[Growing number of initiatives]: New zealand --[Has]-> Public transport network planning 0.8470733165740967
+[Growing number of initiatives]: New zealand --[Has]-> Public transit 0.8226212859153748
+[Growing number of initiatives]: New zealand --[Has]-> Goal 0.805935800075531
+[Growing number of initiatives]: New zealand --[Has]-> Transport system sustainability 0.8328566551208496
+[Growing number of initiatives]: New zealand --[Has]-> Walking 0.7992732524871826
+[Growing number of initiatives]: New zealand --[Has]-> Cycling 0.802776038646698
+[Growing number of initiatives]: New zealand --[Has]-> Biodiversity 0.782599687576294
+[Growing number of initiatives]: New zealand --[Has]-> Urban-rural dynamics 0.8122942447662354
+[Growing number of initiatives]: New zealand --[Has]-> Unique geographical features 0.801236093044281
+[Growing number of initiatives]: New zealand --[Has]-> Growing emphasis on sustainable transport solutions 0.8370880484580994
+[Growing number of initiatives]: New zealand --[Has]-> Transport funding strategies 0.854655385017395
+[Growing number of initiatives]: New zealand --[Has]-> Growing population 0.8014264702796936
+[Growing number of initiatives]: New zealand --[Has]-> Light rail 0.825732409954071
+[Growing number of initiatives]: New zealand --[Has]-> Buses 0.8243244290351868

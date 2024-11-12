@@ -1,0 +1,36 @@
+How many MR1 and MR1B transactions were completed online between 1 October 2022 and 30 September 2023?
+None
+Seed: MR1/B transactions data
+Seed: statistics for MR1/B transactions
+Seed: 1 October 2022 to 30 September 2023
+Seed: MR1/B transactions
+[MR1/B transactions data]: Motor Vehicle Register --[CONTAINS]-> MR1/B transactions data 0.8250961303710938
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[PROVIDES]-> statistics for MR1/B transactions 0.8297469615936279
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7211185693740845
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[BASED]-> Wellington 0.7275340557098389
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7484879493713379
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.7591743469238281
+[statistics for MR1/B transactions]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7477810382843018
+[statistics for MR1/B transactions]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.7491947412490845
+[statistics for MR1/B transactions]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.747015118598938
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7481445670127869
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.7482521533966064
+[statistics for MR1/B transactions]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7398688793182373
+[statistics for MR1/B transactions]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7241393327713013
+[statistics for MR1/B transactions]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7505345940589905
+[statistics for MR1/B transactions]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7410027384757996
+[statistics for MR1/B transactions]: Wellington --[CONTAINS]-> Private Bag 6995 0.7426818609237671
+[statistics for MR1/B transactions]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7703858017921448
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7400668263435364
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.7514897584915161
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7287584543228149
+[statistics for MR1/B transactions]: 50 Victoria Street --[IN]-> Wellington 0.7087622284889221
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.7369245886802673
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[LOCATED]-> 50 Victoria Street 0.7375956773757935
+[statistics for MR1/B transactions]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7123355269432068
+[statistics for MR1/B transactions]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7120969295501709
+[statistics for MR1/B transactions]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7208945751190186
+[statistics for MR1/B transactions]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7118972539901733
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7354580163955688
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7257754802703857
+[statistics for MR1/B transactions]: New Zealand Transport Agency --[CONTACT]-> Wellington 6141 0.7422724366188049

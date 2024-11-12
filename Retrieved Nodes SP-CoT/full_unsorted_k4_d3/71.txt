@@ -1,0 +1,36 @@
+What is the capital city of New Zealand, which is connected to the city home to the Te Ara I Whiti (Lightpath) project, which has transformed underutilized spaces into vibrant cycling and pedestrian pathways, by the specific rail line in New Zealand that has been enhanced as part of the government's investment in upgrading rail infrastructure to support sustainable freight solutions?
+None
+Seed: Ongoing investments in rail infrastructure
+Seed: New zealand's transport network
+Seed: Addressing transport challenges in auckland
+Seed: Significant infrastructure project
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Ongoing investments in rail infrastructure 0.8649382591247559
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Public transport system 0.8498795628547668
+[Ongoing investments in rail infrastructure]: Christchurch --[Has]-> Public transport system 0.840570330619812
+[Ongoing investments in rail infrastructure]: New zealand --[Has]-> Public transport system 0.8430089950561523
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Pedestrian-friendly projects 0.8529870510101318
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Network of cycle lanes and shared paths 0.8447055220603943
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Bus network with extensive coverage 0.8136120438575745
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Rail network with several lines 0.866888165473938
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Growing population 0.8132790923118591
+[Ongoing investments in rail infrastructure]: New zealand --[Has]-> Growing population 0.8041921854019165
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Transport infrastructure 0.8704708814620972
+[Ongoing investments in rail infrastructure]: Transport infrastructure --[Ongoing development]-> Enhancing connectivity and supporting growing populations 0.8059384226799011
+[Ongoing investments in rail infrastructure]: New zealand --[Has]-> Transport infrastructure 0.8683779239654541
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Public transport services 0.8479905128479004
+[Ongoing investments in rail infrastructure]: Wellington regional council --[Oversees]-> Public transport services 0.7911397218704224
+[Ongoing investments in rail infrastructure]: Wellington --[Has]-> Public transport services 0.827797532081604
+[Ongoing investments in rail infrastructure]: Land transport management act 2003 --[Governs]-> Public transport services 0.7652100324630737
+[Ongoing investments in rail infrastructure]: Local government --[Manages]-> Public transport services 0.7844252586364746
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> Rail network 0.874698281288147
+[Ongoing investments in rail infrastructure]: Wellington region --[Has]-> Rail network 0.8421233296394348
+[Ongoing investments in rail infrastructure]: Kiwirail group --[Manages]-> Rail network 0.8097480535507202
+[Ongoing investments in rail infrastructure]: Kiwirail --[Operates]-> Rail network 0.8367709517478943
+[Ongoing investments in rail infrastructure]: Rail network --[Requires]-> Ongoing maintenance 0.7704639434814453
+[Ongoing investments in rail infrastructure]: Wellington --[Has]-> Rail network 0.8551916480064392
+[Ongoing investments in rail infrastructure]: Rail network --[Is]-> Integral for freight transport 0.7937719821929932
+[Ongoing investments in rail infrastructure]: Rail network --[Facilitates]-> Movement of goods to and from the port of wellington 0.8410080671310425
+[Ongoing investments in rail infrastructure]: Rail network --[Plays]-> Crucial role in freight transport 0.7925615310668945
+[Ongoing investments in rail infrastructure]: Rail network --[Connects]-> Major cities and industrial hubs 0.8071141242980957
+[Ongoing investments in rail infrastructure]: Auckland --[Has]-> International airport 0.8161473274230957
+[Ongoing investments in rail infrastructure]: Auckland airport --[Is]-> International airport 0.7998839020729065

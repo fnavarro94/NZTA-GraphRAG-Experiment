@@ -1,0 +1,36 @@
+Has Waka Kotahi carried out tests comparing steel reinforcement versus fiberglass or wood in cab cut-outs?
+None
+Seed: fibreglass or wood
+Seed: 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk.
+Seed: steel is present reinforcing the ca b cut-out
+Seed: information to Waka Kotahi
+[fibreglass or wood]: fibreglass or wood --[TESTED]-> tests 0.8713247776031494
+[fibreglass or wood]: tests --[CONDUCTED]-> Waka Kotahi 0.8833456635475159
+[fibreglass or wood]: Response --[CONTAINS]-> Waka Kotahi 0.8092899322509766
+[fibreglass or wood]: Waka Kotahi --[PUBLISHES]-> Response 0.820046067237854
+[fibreglass or wood]: response --[CONTAINS]-> Waka Kotahi 0.8248245716094971
+[fibreglass or wood]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.7920284271240234
+[fibreglass or wood]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.8150997757911682
+[fibreglass or wood]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7782160043716431
+[fibreglass or wood]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7838481068611145
+[fibreglass or wood]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.7813297510147095
+[fibreglass or wood]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7827363610267639
+[fibreglass or wood]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.7923102378845215
+[fibreglass or wood]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.8055750131607056
+[fibreglass or wood]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8109984993934631
+[fibreglass or wood]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.8441939353942871
+[fibreglass or wood]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.8075096607208252
+[fibreglass or wood]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.8073559403419495
+[fibreglass or wood]: Leisa Coley --[EMPLOYED_BY]-> Waka Kotahi 0.8081587553024292
+[fibreglass or wood]: Lizette Marais --[EMPLOYED_BY]-> Waka Kotahi 0.7735055685043335
+[fibreglass or wood]: Waka Kotahi --[EMPLOYS]-> Andy Knackstedt 0.809639573097229
+[fibreglass or wood]: Waka Kotahi --[EMPLOYS]-> Qualified Staff 0.8112173676490784
+[fibreglass or wood]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.8221562504768372
+[fibreglass or wood]: website --[RELATES_TO]-> Waka Kotahi 0.8133721351623535
+[fibreglass or wood]: Waka Kotahi --[RESPONDS_TO]-> OIA request 0.7806059122085571
+[fibreglass or wood]: Waka Kotahi --[RESPONDS_TO]-> request 0.7834924459457397
+[fibreglass or wood]: Waka Kotahi --[PROVIDES]-> OIA-10601-response-georgina-campbell.pdf 0.8032941818237305
+[fibreglass or wood]: Waka Kotahi --[PROVIDES]-> outcome of suspension 0.8318579196929932
+[fibreglass or wood]: Waka Kotahi --[PROVIDES]-> outcome of surrendered 0.794272780418396
+[fibreglass or wood]: Waka Kotahi --[PROVIDES]-> information on website 0.8141074180603027
+[fibreglass or wood]: Waka Kotahi --[PROVIDES]-> outcome of revoke 0.807516872882843

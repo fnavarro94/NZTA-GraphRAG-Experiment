@@ -1,0 +1,32 @@
+Under what inspecting organization (IO) authority did VINZ operate prior to and after March 2015?
+None
+Seed: Sale of VINZ
+Seed: own inspecting authority number
+Seed: Enforcement of regulatory role
+Seed: Review of regulatory role
+[Sale of VINZ]: VINZ --[OPERATED_UNDER]-> IO authority 0.8925390243530273
+[Sale of VINZ]: VINZ --[INSPECTING_ORGANISATION]-> RNZ 0.8635749816894531
+[Sale of VINZ]: RNZ --[INSPECTING_ORGANISATION]-> VINZ 0.8619085550308228
+[Sale of VINZ]: VINZ --[ASSOCIATED_WITH]-> IO authority 0.855731725692749
+[Sale of VINZ]: VINZ --[SOLD]-> March 2015 0.8535348773002625
+[Sale of VINZ]: IO authority --[ASSOCIATED_WITH]-> VINZ 0.852569043636322
+[Sale of VINZ]: VINZ --[ASSOCIATED_WITH]-> March 2015 0.8483397364616394
+[own inspecting authority number]: authorised IO --[REQUIRES]-> appointment as an inspecting organisation 0.8318110704421997
+[own inspecting authority number]: own inspecting authority number --[ENABLES]-> inspect vehicles 0.8223989009857178
+[own inspecting authority number]: appointment as an inspecting organisation --[LEADS_TO]-> own inspecting authority number 0.8217447996139526
+[own inspecting authority number]: mandatory requirements --[RELATES_TO]-> authorised IO 0.7749292850494385
+[own inspecting authority number]: Optimus --[RECEIVES_ADVICE]-> mandatory requirements 0.7396019697189331
+[Enforcement of regulatory role]: Transport Agency --[ADVISED_OF]-> Sale of VINZ 0.8480316400527954
+[Enforcement of regulatory role]: Sale of VINZ --[DATE]-> March 2015 0.845698893070221
+[Enforcement of regulatory role]: vehicle inspection --[CONDUCTED_BY]-> NZ Transport Agency 0.8223601579666138
+[Enforcement of regulatory role]: Vehicle Inspection --[CONDUCTED_BY]-> New Zealand Transport Agency 0.8214547038078308
+[Enforcement of regulatory role]: NZ Transport Agency --[CONDUCTS]-> vehicle inspection 0.8185844421386719
+[Enforcement of regulatory role]: various organizations --[INCLUDE]-> Arc Advisory 0.8159032464027405
+[Enforcement of regulatory role]: various organizations --[INCLUDE]-> Alta 0.8140369653701782
+[Review of regulatory role]: Transport Agency --[ADVISED_OF]-> Sale of VINZ 0.8480316400527954
+[Review of regulatory role]: Sale of VINZ --[DATE]-> March 2015 0.845698893070221
+[Review of regulatory role]: vehicle inspection --[CONDUCTED_BY]-> NZ Transport Agency 0.8223601579666138
+[Review of regulatory role]: Vehicle Inspection --[CONDUCTED_BY]-> New Zealand Transport Agency 0.8214547038078308
+[Review of regulatory role]: NZ Transport Agency --[CONDUCTS]-> vehicle inspection 0.8185844421386719
+[Review of regulatory role]: various organizations --[INCLUDE]-> Arc Advisory 0.8159032464027405
+[Review of regulatory role]: various organizations --[INCLUDE]-> Alta 0.8140369653701782

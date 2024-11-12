@@ -1,0 +1,36 @@
+How many potential mobile phone use offenses were detected during the hidden texting camera trial?
+None
+Seed: criminal history
+Seed: Attempted Burglary
+Seed: no notifications of offences detected by speed cameras
+Seed: one infringement for failing to comply with the instructions given by a steady red-light signal
+[criminal history]: criminal history --[PART_OF]-> fitness and propriety factors 0.7947542667388916
+[criminal history]: fitness and propriety factors --[SET]-> sections 30C and 30D of the Land Transport Act 1998 0.7244278192520142
+[criminal history]: fit and proper person assessments --[FORM]-> criminal history 0.7980396747589111
+[criminal history]: Transport Agency --[REQUIRE]-> fit and proper person assessments 0.7448262572288513
+[Attempted Burglary]: Applicant 4 --[CONVICTED]-> Attempted Burglary 0.7914906144142151
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[RECEIVED]-> no notifications of offences detected by speed cameras 0.7633392810821533
+[no notifications of offences detected by speed cameras]: Response --[CONTAINS]-> Waka Kotahi 0.7323318123817444
+[no notifications of offences detected by speed cameras]: response --[CONTAINS]-> Waka Kotahi 0.7312430143356323
+[no notifications of offences detected by speed cameras]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.7371564507484436
+[no notifications of offences detected by speed cameras]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.7340000867843628
+[no notifications of offences detected by speed cameras]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7279362678527832
+[no notifications of offences detected by speed cameras]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7573399543762207
+[no notifications of offences detected by speed cameras]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.7092152237892151
+[no notifications of offences detected by speed cameras]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7230876684188843
+[no notifications of offences detected by speed cameras]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.7270434498786926
+[no notifications of offences detected by speed cameras]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.7284320592880249
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7246612906455994
+[no notifications of offences detected by speed cameras]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.7167541980743408
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.7036885023117065
+[no notifications of offences detected by speed cameras]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.7212632894515991
+[no notifications of offences detected by speed cameras]: Leisa Coley --[EMPLOYED_BY]-> Waka Kotahi 0.7205121517181396
+[no notifications of offences detected by speed cameras]: Lizette Marais --[EMPLOYED_BY]-> Waka Kotahi 0.6930755972862244
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[EMPLOYS]-> Andy Knackstedt 0.7049643397331238
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[EMPLOYS]-> Qualified Staff 0.6910455822944641
+[no notifications of offences detected by speed cameras]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.7223595380783081
+[no notifications of offences detected by speed cameras]: website --[RELATES_TO]-> Waka Kotahi 0.7309756278991699
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[RESPONDS_TO]-> OIA request 0.7264392971992493
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[RESPONDS_TO]-> request 0.7229548692703247
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[PROVIDES]-> OIA-10601-response-georgina-campbell.pdf 0.7352885007858276
+[no notifications of offences detected by speed cameras]: Waka Kotahi --[PROVIDES]-> outcome of suspension 0.7296038866043091

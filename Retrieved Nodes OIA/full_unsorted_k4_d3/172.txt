@@ -1,0 +1,36 @@
+How can someone challenge a decision made under the Official Information Act?
+None
+Seed: I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.
+Seed: decision making
+Seed: public interest in seeking and receiving confidential legal advice
+Seed: seeking and receiving confidential legal advice
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. --[OFFICIAL_INFORMATION]-> I am refusing this part of your request under section 18(d) of the Act as the information is publicly available. 0.8088490962982178
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: I will respond to each of your questions in turn. --[OFFICIAL_INFORMATION]-> 1. NZTA has stated that a risk to Occupancy Protection has been identified where a cab cut-out is present. Please provide evidence of such risk and how a cab-cut is shown to directly increase that risk. 0.8029297590255737
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act). --[OFFICIAL_INFORMATION]-> I will respond to each of your questions in turn. 0.8180079460144043
+[decision making]: feedback --[CONTRIBUTES_TO]-> decision making 0.7780090570449829
+[decision making]: feedback --[IS_RESOLVED]-> issues 0.736014187335968
+[decision making]: issues --[RAISED]-> public 0.7857451438903809
+[decision making]: communities --[PROVIDES]-> feedback 0.7345631122589111
+[decision making]: community engagement --[INFORMS]-> communities 0.7337962985038757
+[decision making]: speed review process --[AFFECTS]-> communities 0.7604556083679199
+[decision making]: Waka Kotahi --[PROVIDES]-> feedback 0.740167498588562
+[decision making]: Response --[CONTAINS]-> Waka Kotahi 0.7946222424507141
+[decision making]: response --[CONTAINS]-> Waka Kotahi 0.7671080827713013
+[decision making]: OIA-8555-response.pdf --[CONTAINS]-> Waka Kotahi 0.782163143157959
+[decision making]: OIA-12662 --[ASSOCIATED_WITH]-> Waka Kotahi 0.752490758895874
+[decision making]: Uber --[ASSOCIATED_WITH]-> Waka Kotahi 0.7386053800582886
+[decision making]: Uber drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7419291138648987
+[decision making]: Zoomy --[ASSOCIATED_WITH]-> Waka Kotahi 0.7225188612937927
+[decision making]: Zoomy drivers --[ASSOCIATED_WITH]-> Waka Kotahi 0.7116789817810059
+[decision making]: oia-8620-response.pdf --[ASSOCIATED_WITH]-> Waka Kotahi 0.7724026441574097
+[decision making]: New Zealand Transport Agency --[ASSOCIATED_WITH]-> Waka Kotahi 0.7589483261108398
+[decision making]: Waka Kotahi --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7533487677574158
+[decision making]: Policy and System Planning --[PART_OF]-> Waka Kotahi 0.7679954171180725
+[decision making]: Waka Kotahi --[PART_OF]-> New Zealand Transport Agency 0.7222620844841003
+[decision making]: Andrew Knackstedt --[EMPLOYED_BY]-> Waka Kotahi 0.7254350781440735
+[decision making]: Leisa Coley --[EMPLOYED_BY]-> Waka Kotahi 0.7220271825790405
+[decision making]: Lizette Marais --[EMPLOYED_BY]-> Waka Kotahi 0.7096762657165527
+[decision making]: Waka Kotahi --[EMPLOYS]-> Andy Knackstedt 0.6995483636856079
+[decision making]: Waka Kotahi --[EMPLOYS]-> Qualified Staff 0.7092359662055969
+[decision making]: https://nzta.maps.arcgis.com/apps/dashboards/490776b08a094be5b737db698ad4000c --[RELATES_TO]-> Waka Kotahi 0.7494428157806396
+[decision making]: website --[RELATES_TO]-> Waka Kotahi 0.7554947137832642

@@ -1,0 +1,13 @@
+Are there any future upgrades planned to address crash risks at the SH2/SH53 intersection?
+None
+Seed: Request for information on Hornby Intersection improvements
+Seed: no other intersection safety improvements planned
+Seed: intersection of SH2 and SH53
+Seed: improving the safety performance of the vehicle fleet
+[Request for information on Hornby Intersection improvements]: Request for information on Hornby Intersection improvements --[REQUESTS]-> New Zealand Transport Agency 0.8534157872200012
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[RESPONDS_TO]-> Request for information on Hornby Intersection improvements 0.8424252867698669
+[no other intersection safety improvements planned]: Featherston --[RAISED_CROSSINGS]-> no other intersection safety improvements planned 0.8531813621520996
+[intersection of SH2 and SH53]: no fatal, serious or minor injury crashes --[OCCURRED]-> intersection of SH2 and SH53 0.911615788936615
+[intersection of SH2 and SH53]: accident or crash history --[RELATES_TO]-> intersection of SH2 and SH53 0.893663763999939
+[intersection of SH2 and SH53]: intersection of SH2 and SH53 --[LOCATED_IN]-> Featherston 0.8637247681617737
+[improving the safety performance of the vehicle fleet]: Safe System approach --[INCLUDES]-> improving the safety performance of the vehicle fleet 0.8217959403991699

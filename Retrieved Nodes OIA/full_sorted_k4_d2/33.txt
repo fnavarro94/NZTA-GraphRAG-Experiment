@@ -1,0 +1,25 @@
+What percentage of a project's total budget is typically allocated to communications and public engagement on large roading projects?
+None
+Seed: 32 percent of the roading network
+Seed: wider objectives in Regional Public Transport Plans
+Seed: manage fare revenue and public transport budgets within current funding allocations
+Seed: itemised breakdown of all spending on public consultation for Golden Mile upgrades
+[32 percent of the roading network]: 32 percent of the roading network --[PAST_DESIGN_LIFE]-> design life 0.8453732132911682
+[32 percent of the roading network]: road maintenance data --[OVERDUE]-> 32 percent of the roading network 0.839047908782959
+[32 percent of the roading network]: New Zealand Transport Agency --[PROVIDES]-> road maintenance data 0.776996374130249
+[32 percent of the roading network]: design life --[OVERDUE]-> longest overdue road 0.770848274230957
+[wider objectives in Regional Public Transport Plans]: wider objectives in Regional Public Transport Plans --[CONTRIBUTES]-> government's transport priorities 0.8237691521644592
+[wider objectives in Regional Public Transport Plans]: underlying principles of the current policy --[CONTRIBUTES]-> wider objectives in Regional Public Transport Plans 0.8128712177276611
+[wider objectives in Regional Public Transport Plans]: government's transport priorities --[INCLUDES]-> fares play an important role in helping cover the cost of public transport within available budgets 0.8030875325202942
+[wider objectives in Regional Public Transport Plans]: national farebox recovery target --[REPLACED_BY]-> underlying principles of the current policy 0.7549123167991638
+[manage fare revenue and public transport budgets within current funding allocations]: manage fare revenue and public transport budgets within current funding allocations --[REQUIRES]-> standard cost scope adjustment process 0.8184453845024109
+[manage fare revenue and public transport budgets within current funding allocations]: public transport budgets --[MANAGED_BY]-> councils 0.8173267841339111
+[manage fare revenue and public transport budgets within current funding allocations]: councils --[MUST]-> manage fare revenue and public transport budgets within current funding allocations 0.8148019313812256
+[manage fare revenue and public transport budgets within current funding allocations]: standard cost scope adjustment process --[APPLIES_TO]-> funding requests 0.7833966016769409
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[ITEMISED]-> itemised breakdown of all spending on public consultation for Golden Mile upgrades 0.8118395805358887
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[ITEMISED]-> itemised list of all Let’s Get Wellington Moving spending in 2020 to date 0.7658335566520691
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[REQUEST]-> Request made under the Official Information Act 1982 0.7478146553039551
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[REQUESTED]-> information under the Official Information Act 1982 0.7456477880477905
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[EMAIL]-> joel.macmanus@stuff.co.nz 0.7247170209884644
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[EMAIL]-> 28 July 2020 0.7172122001647949
+[itemised breakdown of all spending on public consultation for Golden Mile upgrades]: Joel MacManus --[REF]-> REF: OIA -6939 0.7159360647201538

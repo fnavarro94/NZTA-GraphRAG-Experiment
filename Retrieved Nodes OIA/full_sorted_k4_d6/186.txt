@@ -1,0 +1,28 @@
+What is the process for proposing improvements to the Hornby Intersection if no improvements are planned?
+None
+Seed: Request for information on Hornby Intersection improvements
+Seed: no other intersection safety improvements planned
+Seed: Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case
+Seed: Hornby Intersection
+[Request for information on Hornby Intersection improvements]: Request for information on Hornby Intersection improvements --[REQUESTS]-> New Zealand Transport Agency 0.9006513357162476
+[Request for information on Hornby Intersection improvements]: New Zealand Transport Agency --[RESPONDS_TO]-> Request for information on Hornby Intersection improvements 0.8891997337341309
+[Request for information on Hornby Intersection improvements]: Let's Get Wellington Moving --[HAS_COMPONENT]-> Strategic Highway Improvements 0.8702057600021362
+[Request for information on Hornby Intersection improvements]: Featherston --[RAISED_CROSSINGS]-> no other intersection safety improvements planned 0.8450115323066711
+[Request for information on Hornby Intersection improvements]: Saddle Road Route --[REQUIRES]-> road maintenance 0.8404077887535095
+[Request for information on Hornby Intersection improvements]: funding for road maintenance --[FOR]-> State Highway 1 0.8386686444282532
+[Request for information on Hornby Intersection improvements]: WCC --[PROPOSAL]-> install non-complying rainbow pedestrian crossing traffic control device 0.8384345769882202
+[no other intersection safety improvements planned]: Request for information on Hornby Intersection improvements --[REQUESTS]-> New Zealand Transport Agency 0.9006513357162476
+[no other intersection safety improvements planned]: New Zealand Transport Agency --[RESPONDS_TO]-> Request for information on Hornby Intersection improvements 0.8891997337341309
+[no other intersection safety improvements planned]: Let's Get Wellington Moving --[HAS_COMPONENT]-> Strategic Highway Improvements 0.8702057600021362
+[no other intersection safety improvements planned]: Featherston --[RAISED_CROSSINGS]-> no other intersection safety improvements planned 0.8450115323066711
+[no other intersection safety improvements planned]: Saddle Road Route --[REQUIRES]-> road maintenance 0.8404077887535095
+[no other intersection safety improvements planned]: funding for road maintenance --[FOR]-> State Highway 1 0.8386686444282532
+[no other intersection safety improvements planned]: WCC --[PROPOSAL]-> install non-complying rainbow pedestrian crossing traffic control device 0.8384345769882202
+[Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Access and Development Programme Business Case 0.8754116296768188
+[Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case]: Regional Land Transport Plan --[ASSESSMENT_OF]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.873885989189148
+[Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case]: Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.8706427216529846
+[Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case]: Hornby Access and Development Programme Business Case --[POTENTIAL_FOR]-> short-term and longer-term improvements 0.861638605594635
+[Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case 0.8597006797790527
+[Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case]: Main South Road, Shands Road and Carmen Road intersection --[LOCATED_NEAR]-> Hornby Access and Development Programme Business Case 0.8556966185569763
+[Hornby Hub and Corridor Safety and Optimisation Single Stage Business Case]: 2023-24 State Highway Investment Proposal --[INCLUDES]-> Hornby Access and Development Programme Business Case 0.8549774885177612
+[Hornby Intersection]: Hornby Intersection --[IMPROVEMENTS_PLANNED]-> next 10 years 0.9156594276428223

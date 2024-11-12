@@ -1,0 +1,36 @@
+How does NZTA handle reports of threats or attacks against driving test examiners?
+None
+Seed: Speed and Drunk Driving Enforcement
+Seed: national, regional and local road safety promotion and education campaigns
+Seed: Road Policing Activities
+Seed: breaches of rules or regulations
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[DOUBLES]-> Speed and Drunk Driving Enforcement 0.7971984148025513
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[FOCUSES_ON]-> Restraints, Impairment, Distraction, Speed 0.7951189279556274
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[PROVIDES]-> Road Policing Activities 0.8016133308410645
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[PROVIDES]-> https://www.nzta.govt.nz/assets/resources/road-policing-programme/docs/rpp-2021-24.pdf 0.8472787737846375
+[Speed and Drunk Driving Enforcement]: Road Safety Partnership Programme --[ALLOCATES]-> $1.24 billion 0.7636899352073669
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.820286750793457
+[national, regional and local road safety promotion and education campaigns]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7825778722763062
+[national, regional and local road safety promotion and education campaigns]: New Zealand Transport Agency --[BASED]-> Wellington 0.8306906223297119
+[national, regional and local road safety promotion and education campaigns]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.8196800947189331
+[national, regional and local road safety promotion and education campaigns]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.8254979848861694
+[national, regional and local road safety promotion and education campaigns]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.8146202564239502
+[national, regional and local road safety promotion and education campaigns]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7966105937957764
+[national, regional and local road safety promotion and education campaigns]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.820611834526062
+[national, regional and local road safety promotion and education campaigns]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.8270212411880493
+[national, regional and local road safety promotion and education campaigns]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.828262448310852
+[national, regional and local road safety promotion and education campaigns]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.8135362863540649
+[national, regional and local road safety promotion and education campaigns]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.828552782535553
+[national, regional and local road safety promotion and education campaigns]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8243001699447632
+[national, regional and local road safety promotion and education campaigns]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8267570734024048
+[national, regional and local road safety promotion and education campaigns]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8340557217597961
+[national, regional and local road safety promotion and education campaigns]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8317863941192627
+[national, regional and local road safety promotion and education campaigns]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.82813560962677
+[national, regional and local road safety promotion and education campaigns]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8286048769950867
+[national, regional and local road safety promotion and education campaigns]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8492443561553955
+[national, regional and local road safety promotion and education campaigns]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8053919076919556
+[national, regional and local road safety promotion and education campaigns]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8148239850997925
+[national, regional and local road safety promotion and education campaigns]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8461697101593018
+[national, regional and local road safety promotion and education campaigns]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.799909770488739
+[national, regional and local road safety promotion and education campaigns]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8458624482154846
+[national, regional and local road safety promotion and education campaigns]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8436298370361328

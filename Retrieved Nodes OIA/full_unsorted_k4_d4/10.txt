@@ -1,0 +1,36 @@
+How many crashes in Christchurch were alcohol-related between 2017 and 2019?
+None
+Seed: Road Traffic Crashes
+Seed: information on Christchurch road deaths
+Seed: Pedestrian and Cyclist Crashes
+Seed: 1 fatal crash, 3 serious crashes, 8 minor crashes, 12 non-injury crashes, 24 total crashes
+[Road Traffic Crashes]: Road Traffic Crashes --[ANALYZED_BY]-> Crash Analysis 0.8155063390731812
+[Road Traffic Crashes]: Crash Analysis --[PERFORMED_BY]-> Waka Kotahi NZ Transport Agency 0.8289096355438232
+[Road Traffic Crashes]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7657929062843323
+[Road Traffic Crashes]: New Zealand Transport Agency --[BASED]-> Wellington 0.790094792842865
+[Road Traffic Crashes]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7635517716407776
+[Road Traffic Crashes]: Golden Mile --[LOCATED]-> Wellington 0.7529628276824951
+[Road Traffic Crashes]: State Highway 1 --[LOCATED_IN]-> Wellington 0.7874279022216797
+[Road Traffic Crashes]: Office of the Ombudsmen --[LOCATED_IN]-> Wellington 0.7702919244766235
+[Road Traffic Crashes]: Parliamentary Press Gallery --[LOCATED_IN]-> Wellington 0.7617431879043579
+[Road Traffic Crashes]: Wellington --[POSTAL_ADDRESS]-> POBoxl0152 0.7589888572692871
+[Road Traffic Crashes]: Wellington --[PART_OF]-> Wellington Region 0.785250723361969
+[Road Traffic Crashes]: New Zealand --[HAS_CAPITAL]-> Wellington 0.798083484172821
+[Road Traffic Crashes]: proposed long tunnel option for Wellington --[IN]-> Wellington 0.7546110153198242
+[Road Traffic Crashes]: Wellington --[HAS]-> tunnel 0.7891155481338501
+[Road Traffic Crashes]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7644072771072388
+[Road Traffic Crashes]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7523802518844604
+[Road Traffic Crashes]: Wellington --[POSTCODE]-> 6141 0.7604523301124573
+[Road Traffic Crashes]: New Zealand Transport Agency --[LOCATED]-> Wellington 0.7833637595176697
+[Road Traffic Crashes]: Wellington --[IS_PART_OF]-> New Zealand 0.7936086058616638
+[Road Traffic Crashes]: Wellington's Rainbow Crossing proposal --[LOCATED_IN]-> Wellington 0.7749418020248413
+[Road Traffic Crashes]: 50 Victoria Street --[IN]-> Wellington 0.7685043811798096
+[Road Traffic Crashes]: Office of the Ombudsmen --[LOCATED]-> Wellington 0.7688340544700623
+[Road Traffic Crashes]: 100 Willis Street --[LOCATED_IN]-> Wellington 0.7675983309745789
+[Road Traffic Crashes]: PO Box 5084 --[LOCATED_IN]-> Wellington 0.7541079521179199
+[Road Traffic Crashes]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7649334669113159
+[Road Traffic Crashes]: NZ Transport Agency --[LOCATED]-> Wellington 0.7876960039138794
+[Road Traffic Crashes]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7870768308639526
+[Road Traffic Crashes]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7872434258460999
+[Road Traffic Crashes]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7649304866790771
+[Road Traffic Crashes]: New Zealand --[CONTAINS]-> Wellington 0.8002223372459412

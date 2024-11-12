@@ -1,0 +1,34 @@
+What is the abbreviation for the project in Auckland that uses real-time data to manage traffic and provide timely information to commuters?
+None
+Seed: Addressing transport challenges in auckland
+Seed: Real-time traffic data collection
+Seed: Real-time traffic management systems
+Seed: Advanced technology and real-time data analytics
+[Addressing transport challenges in auckland]: Auckland transport operations centre --[Utilizes]-> Advanced technology and real-time data analytics 0.9095391035079956
+[Addressing transport challenges in auckland]: Auckland transport operations centre --[Utilizes]-> Advanced traffic monitoring systems 0.9084839820861816
+[Addressing transport challenges in auckland]: Auckland --[Has]-> Transport projects 0.8918423652648926
+[Addressing transport challenges in auckland]: Auckland --[Has]-> Transport infrastructure 0.8899842500686646
+[Addressing transport challenges in auckland]: Auckland transport alignment project --[Focuses on]-> Development of comprehensive transport network 0.8833969831466675
+[Addressing transport challenges in auckland]: Auckland transport --[Implemented]-> Cycling infrastructure projects 0.8823006749153137
+[Addressing transport challenges in auckland]: Auckland --[Has]-> Public transport system 0.8817687630653381
+[Real-time traffic data collection]: Auckland transport operations centre --[Utilizes]-> Advanced technology and real-time data analytics 0.9095391035079956
+[Real-time traffic data collection]: Auckland transport operations centre --[Utilizes]-> Advanced traffic monitoring systems 0.9084839820861816
+[Real-time traffic data collection]: Auckland --[Has]-> Transport projects 0.8918423652648926
+[Real-time traffic data collection]: Auckland --[Has]-> Transport infrastructure 0.8899842500686646
+[Real-time traffic data collection]: Transport in new zealand --[Has]-> Automated data collection 0.8826904892921448
+[Real-time traffic data collection]: Auckland transport --[Implemented]-> Cycling infrastructure projects 0.8823006749153137
+[Real-time traffic data collection]: Auckland --[Has]-> Public transport system 0.8817687630653381
+[Real-time traffic management systems]: Auckland transport operations centre --[Utilizes]-> Advanced technology and real-time data analytics 0.9095391035079956
+[Real-time traffic management systems]: Auckland transport operations centre --[Utilizes]-> Advanced traffic monitoring systems 0.9084839820861816
+[Real-time traffic management systems]: Auckland --[Has]-> Transport projects 0.8918423652648926
+[Real-time traffic management systems]: Auckland --[Has]-> Transport infrastructure 0.8899842500686646
+[Real-time traffic management systems]: Transport in new zealand --[Has]-> Automated data collection 0.8826904892921448
+[Real-time traffic management systems]: Auckland transport --[Implemented]-> Cycling infrastructure projects 0.8823006749153137
+[Real-time traffic management systems]: Auckland --[Has]-> Public transport system 0.8817687630653381
+[Advanced technology and real-time data analytics]: Auckland transport operations centre --[Utilizes]-> Advanced technology and real-time data analytics 0.9095391035079956
+[Advanced technology and real-time data analytics]: Auckland transport operations centre --[Utilizes]-> Advanced traffic monitoring systems 0.9084839820861816
+[Advanced technology and real-time data analytics]: Auckland --[Has]-> Transport projects 0.8918423652648926
+[Advanced technology and real-time data analytics]: Auckland --[Has]-> Transport infrastructure 0.8899842500686646
+[Advanced technology and real-time data analytics]: Auckland transport alignment project --[Focuses on]-> Development of comprehensive transport network 0.8833969831466675
+[Advanced technology and real-time data analytics]: Transport in new zealand --[Has]-> Automated data collection 0.8826904892921448
+[Advanced technology and real-time data analytics]: Auckland transport --[Implemented]-> Cycling infrastructure projects 0.8823006749153137

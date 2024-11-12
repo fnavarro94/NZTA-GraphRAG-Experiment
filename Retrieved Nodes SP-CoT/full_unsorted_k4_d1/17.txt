@@ -1,0 +1,12 @@
+What is the official designation of the scenic route in New Zealand that is known for attracting both domestic and international tourists?
+None
+Seed: Scenic routes such as the tranzalpine and the northern explorer
+Seed: Domestic and international tourists
+Seed: Renowned scenic roadway
+Seed: Scenic routes
+[Scenic routes such as the tranzalpine and the northern explorer]: Passenger rail services --[Include]-> Scenic routes such as the tranzalpine and the northern explorer 0.8044208884239197
+[Domestic and international tourists]: Road transport --[Attracts]-> Domestic and international tourists 0.8422207832336426
+[Renowned scenic roadway]: Pacific coast highway --[Is]-> Renowned scenic roadway 0.8269210457801819
+[Scenic routes]: New zealand --[Includes]-> Scenic routes 0.9051235914230347
+[Scenic routes]: Road system --[Is known for]-> Scenic routes 0.8509834408760071
+[Scenic routes]: Road transport --[Characterized by]-> Scenic routes 0.834131121635437

@@ -1,0 +1,36 @@
+What does the term "Road Widening Works" mean in the context of SH1 Brynderwyn repairs?
+None
+Seed: Road Widening Works
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: one crossing near SH2/Lyon Street/Birdwood Street intersection
+Seed: information on LGWM construction contracts
+[Road Widening Works]: Attachment 3 --[TITLE]-> Road Widening Works 0.873195469379425
+[Road Widening Works]: Road Widening Works --[MEANS]-> creating space or a shoulder to repair future damage caused by weather events 0.8930172324180603
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUESTS]-> detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) 0.7940411567687988
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Joel MacManus --[REQUEST]-> Request made under the Official Information Act 1982 0.7393392324447632
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Joel MacManus --[EMAIL]-> joel.macmanus@stuff.co.nz 0.7003341317176819
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Joel MacManus --[REQUESTED]-> information under the Official Information Act 1982 0.7248579263687134
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Thomas Coughlan --[REQUESTS]-> information under the Official Information Act 1982 0.7476769685745239
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Newsroom --[EMPLOYS]-> Thomas Coughlan 0.710271418094635
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Thomas Coughlan --[EMPLOYER]-> Newsroom Pro 0.7312420606613159
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUESTED_BY]-> Thomas Coughlan 0.7532039880752563
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Thomas Coughlan --[EMAIL]-> Thomas.Coughlan@newsroom.co.nz 0.7301880121231079
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: information under the Official Information Act 1982 --[REGULATED_BY]-> Official Information Act 1982 0.7367753386497498
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Catherine Gaffaney --[REQUESTS]-> Official Information Act 1982 0.727298378944397
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Official Information Act 1982 --[PROTECTS]-> Privacy of Natural Persons 0.6991948485374451
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Official Information Act 1982 --[APPLIES_TO]-> New Zealand 0.7583284378051758
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Nigel Parry --[REQUESTS]-> Official Information Act 1982 0.7447483539581299
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Jordan Bond --[REQUESTS]-> Official Information Act 1982 0.7449925541877747
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Cherie Howie --[REQUESTS]-> information under the Official Information Act 1982 0.726467490196228
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Herald on Sunday --[EMPLOYS]-> Cherie Howie 0.7113727331161499
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: oia-1246-cherie-howie.pdf --[ASSOCIATED_WITH]-> Cherie Howie 0.7210841178894043
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Cherie Howie --[SUBJECT_OF]-> oia-1246-cherie-howie.pdf 0.7181867361068726
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Cherie Howie --[EMAIL]-> cherie.howie@heraldonsunday.co.nz 0.6984071731567383
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Sam Kelway --[REQUESTS]-> information under the Official Information Act 1982 0.7502518892288208
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[RESPONDS]-> Sam Kelway 0.7785487174987793
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Sam Kelway --[RECEIVES]-> response from New Zealand Transport Agency 0.7697224617004395
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Conan Young --[INQUIRES]-> information under the Official Information Act 1982 0.7247496843338013
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Conan Young --[RECEIVES]-> response 0.710840106010437
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[RESPONDS]-> Conan Young 0.7633498907089233
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Conan Young --[EMAILS]-> andy.knackstedt@nzta.govt.nz 0.7299091815948486
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Conan Young --[REQUESTS]-> information under the Official Information Act 1982 0.7343636155128479

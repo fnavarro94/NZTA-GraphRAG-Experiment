@@ -1,0 +1,36 @@
+Who operates the rail network in the country known for its critical approach to transport demand forecasting, utilizing statistical models and socio-economic indicators to predict future travel patterns, and is responsible for the term that describes the regular activities performed to keep roads safe and functional, including vegetation control, litter removal, and drainage maintenance?
+None
+Seed: Significant role in planning and management of transport infrastructure and services
+Seed: Significant role in shaping transport infrastructure and policy in new zealand
+Seed: Critical for freight and passenger movement
+Seed: Critical component of new zealand's transport strategy
+[Significant role in planning and management of transport infrastructure and services]: Resource management act 1991 --[Plays]-> Significant role in planning and management of transport infrastructure and services 0.8216127753257751
+[Significant role in planning and management of transport infrastructure and services]: Teia --[Governed by]-> Resource management act 1991 0.7674981355667114
+[Significant role in planning and management of transport infrastructure and services]: Teia --[Evaluates]-> Potential effects of transport projects 0.7984905242919922
+[Significant role in planning and management of transport infrastructure and services]: Teia --[Includes]-> Economic factors 0.7337576746940613
+[Significant role in planning and management of transport infrastructure and services]: Regional transport planning --[Considers]-> Economic factors 0.8033387660980225
+[Significant role in planning and management of transport infrastructure and services]: Regional transport planning --[Aims to]-> Meet mobility needs of communities 0.8100359439849854
+[Significant role in planning and management of transport infrastructure and services]: Regional transport planning --[Is]-> Critical component 0.8391321897506714
+[Significant role in planning and management of transport infrastructure and services]: Regional transport planning --[Considers]-> Environmental factors 0.8200523257255554
+[Significant role in planning and management of transport infrastructure and services]: Environmental factors --[Explore]-> How weather conditions influence road user behavior 0.7825850248336792
+[Significant role in planning and management of transport infrastructure and services]: Environmental factors --[Explore]-> How road infrastructure quality influences road user behavior 0.7852287888526917
+[Significant role in planning and management of transport infrastructure and services]: Regional transport planning --[Considers]-> Social factors 0.8172659873962402
+[Significant role in planning and management of transport infrastructure and services]: Teia --[Includes]-> Social factors 0.7356853485107422
+[Significant role in planning and management of transport infrastructure and services]: Land transport management act 2003 --[Governs]-> Regional transport planning 0.8076469302177429
+[Significant role in planning and management of transport infrastructure and services]: Land transport management act 2003 --[Aims to]-> Provide framework for sustainable development 0.7969120740890503
+[Significant role in planning and management of transport infrastructure and services]: Land transport management act 2003 --[Provides for]-> Establishment of national land transport fund 0.7674815654754639
+[Significant role in planning and management of transport infrastructure and services]: Land transport management act 2003 --[Enacted on]-> 1 july 2004 0.7836929559707642
+[Significant role in planning and management of transport infrastructure and services]: Land transport management act 2003 --[Is]-> Key piece of legislation 0.7932590246200562
+[Significant role in planning and management of transport infrastructure and services]: Land transport management act 2003 --[Has been updated]-> To incorporate principles of sustainability 0.7917014360427856
+[Significant role in planning and management of transport infrastructure and services]: Land transport management act 2003 --[Has undergone]-> Several amendments to address emerging transport challenges 0.7846980094909668
+[Significant role in planning and management of transport infrastructure and services]: Land transport management act 2003 --[Mandates]-> Involvement of various stakeholders in planning and decision-making processes 0.8016236424446106
+[Significant role in planning and management of transport infrastructure and services]: Land transport management act 2003 --[Establishes]-> Framework for development of regional land transport plans 0.7937415838241577
+[Significant role in planning and management of transport infrastructure and services]: Land transport management act 2003 --[Emphasizes]-> Importance of integrating land transport planning with land use planning 0.791745126247406
+[Significant role in planning and management of transport infrastructure and services]: National land transport programme --[Established under]-> Land transport management act 2003 0.7953553795814514
+[Significant role in planning and management of transport infrastructure and services]: Wellington regional public transport plan --[Established under]-> Land transport management act 2003 0.7834805250167847
+[Significant role in planning and management of transport infrastructure and services]: National land transport fund --[Established under]-> Land transport management act 2003 0.7827499508857727
+[Significant role in planning and management of transport infrastructure and services]: Waka kotahi nz transport agency --[Established under]-> Land transport management act 2003 0.7814255952835083
+[Significant role in planning and management of transport infrastructure and services]: Waka kotahi --[Established under]-> Land transport management act 2003 0.758980393409729
+[Significant role in planning and management of transport infrastructure and services]: New zealand --[Has]-> Land transport management act 2003 0.7826433181762695
+[Significant role in planning and management of transport infrastructure and services]: Land transport management act 2003 --[Marked]-> Shift towards integrated transport planning 0.7979350686073303
+[Significant role in planning and management of transport infrastructure and services]: Land transport management act 2003 --[Governs]-> Public transport services 0.7908611297607422

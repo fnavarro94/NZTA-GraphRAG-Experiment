@@ -1,0 +1,36 @@
+How much did Meredith Connell invoice NZTA for legal services from November 2018 to June 2019?
+None
+Seed: highest single amount invoiced was $93,114.27
+Seed: administration fee
+Seed: $130,675
+Seed: $949,349
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[INVOICES]-> highest single amount invoiced was $93,114.27 0.8336039781570435
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7732927799224854
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[BASED]-> Wellington 0.7662817239761353
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.797673225402832
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[CONTACT]-> Private Bag 6995 0.81058269739151
+[highest single amount invoiced was $93,114.27]: Private Bag 6995 --[LOCATED_IN]-> Wellington 0.7887653112411499
+[highest single amount invoiced was $93,114.27]: Private Bag 6995 --[POSTAL_ADDRESS]-> Wellington 6141 0.7942104339599609
+[highest single amount invoiced was $93,114.27]: Wellington --[POSTAL_ADDRESS]-> Private Bag 6995 0.7967242002487183
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.8028281927108765
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[LOCATED]-> Private Bag 6995 0.8014900088310242
+[highest single amount invoiced was $93,114.27]: Private Bag 6995 --[OF]-> Waka Kotahi NZ Transport Agency 0.7851853966712952
+[highest single amount invoiced was $93,114.27]: Waka Kotahi NZ Transport Agency --[POSTAL_ADDRESS]-> Private Bag 6995 0.7739840745925903
+[highest single amount invoiced was $93,114.27]: Private Bag 6995 --[CONTAINS]-> Wellington 6141 0.7785003185272217
+[highest single amount invoiced was $93,114.27]: 50 Victoria Street --[CONTAINS]-> Private Bag 6995 0.7479249238967896
+[highest single amount invoiced was $93,114.27]: Wellington --[CONTAINS]-> Private Bag 6995 0.7885222434997559
+[highest single amount invoiced was $93,114.27]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8063365817070007
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7884523868560791
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[CONTACT]-> 50 Victoria Street 0.7959945797920227
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7770960330963135
+[highest single amount invoiced was $93,114.27]: 50 Victoria Street --[IN]-> Wellington 0.7528537511825562
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[OFFICE_ADDRESS]-> 50 Victoria Street 0.7894811630249023
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[LOCATED]-> 50 Victoria Street 0.7861559391021729
+[highest single amount invoiced was $93,114.27]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7542200088500977
+[highest single amount invoiced was $93,114.27]: Waka Kotahi NZ Transport Agency --[ADDRESS]-> 50 Victoria Street 0.7607783675193787
+[highest single amount invoiced was $93,114.27]: Wellington --[CONTAINS]-> 50 Victoria Street 0.7482235431671143
+[highest single amount invoiced was $93,114.27]: 50 Victoria Street --[LOCATED_IN]-> Wellington 0.7578002214431763
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.749518871307373
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7794538140296936
+[highest single amount invoiced was $93,114.27]: New Zealand Transport Agency --[CONTACT]-> Wellington 6141 0.7893022298812866
+[highest single amount invoiced was $93,114.27]: Wellington 6141 --[POSTAL_ADDRESS]-> New Zealand 0.7692540884017944

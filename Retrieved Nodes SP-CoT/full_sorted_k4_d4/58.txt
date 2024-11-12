@@ -1,0 +1,34 @@
+What program, established in the year when the Onehunga Line was reintroduced, enhancing the connection between the two locations connected by the first railway line constructed in New Zealand in 1873, requires periodic testing of older vehicles to ensure they meet emissions standards throughout their operational life?
+None
+Seed: First railway line between auckland and onehunga in 1873
+Seed: Vehicles meet specific emissions standards
+Seed: Periodic testing of older vehicles
+Seed: Vehicle exhaust emissions testing programme
+[First railway line between auckland and onehunga in 1873]: New zealand --[Had]-> First railway line between auckland and onehunga in 1873 0.9003486633300781
+[First railway line between auckland and onehunga in 1873]: Onehunga --[Is]-> Served by the auckland public transport network 0.8428301811218262
+[First railway line between auckland and onehunga in 1873]: Onehunga --[Has]-> Integration of bus and rail services 0.8382576704025269
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Developing rail network 0.8347442150115967
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Transport projects 0.8300265073776245
+[First railway line between auckland and onehunga in 1873]: Kiwirail --[Emerged from]-> New zealand railways corporation 0.8299210667610168
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Transport infrastructure development 0.8295619487762451
+[Vehicles meet specific emissions standards]: New zealand --[Had]-> First railway line between auckland and onehunga in 1873 0.9003486633300781
+[Vehicles meet specific emissions standards]: New zealand --[Has]-> Developing rail network 0.8347442150115967
+[Vehicles meet specific emissions standards]: New zealand --[Has]-> Transport projects 0.8300265073776245
+[Vehicles meet specific emissions standards]: New zealand --[Has]-> Transport infrastructure development 0.8295619487762451
+[Vehicles meet specific emissions standards]: New zealand --[Has]-> Transport infrastructure maintenance 0.8278222680091858
+[Vehicles meet specific emissions standards]: New zealand transport agency --[Initiated]-> Programs aimed at improving transport access 0.8270514607429504
+[Vehicles meet specific emissions standards]: New zealand --[Promotes]-> Active transport modes 0.8265178203582764
+[Periodic testing of older vehicles]: Vehicle exhaust emissions testing programme --[Mandates]-> Periodic testing of older vehicles 0.839051365852356
+[Periodic testing of older vehicles]: Vehicle exhaust emissions testing programme --[Has]-> Objectives 0.8230739235877991
+[Periodic testing of older vehicles]: Vehicle exhaust emissions testing programme --[Is]-> Regulatory initiative 0.8204081058502197
+[Periodic testing of older vehicles]: Vehicle exhaust emissions testing programme --[Established]-> 2010 0.8199007511138916
+[Periodic testing of older vehicles]: Vehicle exhaust emissions testing programme --[Ensures]-> Vehicles continue to meet emissions standards 0.8177903890609741
+[Periodic testing of older vehicles]: Vehicle exhaust emissions testing programme --[Future direction]-> Enhance programme 0.8151803612709045
+[Periodic testing of older vehicles]: Vehicle exhaust emissions testing programme --[Focuses on]-> Monitoring and controlling emissions 0.8150977492332458
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Mandates]-> Periodic testing of older vehicles 0.839051365852356
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Has]-> Objectives 0.8230739235877991
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Is]-> Regulatory initiative 0.8204081058502197
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Established]-> 2010 0.8199007511138916
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Ensures]-> Vehicles continue to meet emissions standards 0.8177903890609741
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Future direction]-> Enhance programme 0.8151803612709045
+[Vehicle exhaust emissions testing programme]: Vehicle exhaust emissions testing programme --[Focuses on]-> Monitoring and controlling emissions 0.8150977492332458

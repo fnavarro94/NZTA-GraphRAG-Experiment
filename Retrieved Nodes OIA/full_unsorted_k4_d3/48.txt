@@ -1,0 +1,36 @@
+How has the COVID-19 pandemic affected the reporting of road crashes in 2020?
+None
+Seed: Covid-19 pandemic
+Seed: Covid-19 Pandemic
+Seed: additional costs caused by the Covid-19 pandemic
+Seed: COVID-19
+[Covid-19 pandemic]: Covid-19 pandemic --[AFFECTS]-> road crashes 0.9506544470787048
+[Covid-19 pandemic]: Covid-19 pandemic --[AFFECTS]-> traffic on the roads 0.9279564619064331
+[Covid-19 pandemic]: Red level --[AFFECTS]-> traffic on the roads 0.8174712657928467
+[Covid-19 pandemic]: Orange level --[AFFECTS]-> traffic on the roads 0.8044878244400024
+[Covid-19 pandemic]: Covid-19 pandemic --[AFFECTS]-> road traffic 0.9233832955360413
+[Covid-19 pandemic]: Covid-19 lockdowns --[AFFECTS]-> road traffic 0.8982523679733276
+[Covid-19 Pandemic]: Covid-19 Pandemic --[HAS]-> 4-level Alert System 0.8560466170310974
+[Covid-19 Pandemic]: 4-level Alert System --[ENDED]-> 27 April 2020 0.8126268982887268
+[Covid-19 Pandemic]: 4-level Alert System --[APPLIED]-> 21 March 2020 0.8167895674705505
+[Covid-19 Pandemic]: 4-level Alert system --[IN_PLACE]-> 21 March 2020 0.8171268701553345
+[Covid-19 Pandemic]: Reporting Time Frame --[AFFECTED_BY]-> Covid-19 Pandemic 0.8924978375434875
+[Covid-19 Pandemic]: Data Processing --[LAG]-> Reporting Time Frame 0.7637826204299927
+[Covid-19 Pandemic]: Crash --[PROCESSED_BY]-> Data Processing 0.7496110796928406
+[additional costs caused by the Covid-19 pandemic]: Periodic Payments --[FOR]-> additional costs caused by the Covid-19 pandemic 0.8484885096549988
+[additional costs caused by the Covid-19 pandemic]: New Zealand Transport Agency --[PROVIDES]-> Periodic Payments 0.750546932220459
+[additional costs caused by the Covid-19 pandemic]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7454982399940491
+[additional costs caused by the Covid-19 pandemic]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.743879497051239
+[additional costs caused by the Covid-19 pandemic]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7625399231910706
+[additional costs caused by the Covid-19 pandemic]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7405216097831726
+[additional costs caused by the Covid-19 pandemic]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7420129776000977
+[additional costs caused by the Covid-19 pandemic]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7532320022583008
+[additional costs caused by the Covid-19 pandemic]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7663719058036804
+[additional costs caused by the Covid-19 pandemic]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7572978734970093
+[additional costs caused by the Covid-19 pandemic]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7525513172149658
+[additional costs caused by the Covid-19 pandemic]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7471163272857666
+[additional costs caused by the Covid-19 pandemic]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7516852617263794
+[additional costs caused by the Covid-19 pandemic]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.758673906326294
+[additional costs caused by the Covid-19 pandemic]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7591791152954102
+[additional costs caused by the Covid-19 pandemic]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7465810775756836
+[additional costs caused by the Covid-19 pandemic]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7678267955780029

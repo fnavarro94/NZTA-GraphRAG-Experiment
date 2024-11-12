@@ -1,0 +1,34 @@
+How can someone challenge a decision made under the Official Information Act?
+None
+Seed: I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.
+Seed: decision making
+Seed: public interest in seeking and receiving confidential legal advice
+Seed: seeking and receiving confidential legal advice
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: logic in making this critical decision --[CHALLENGED_BY]-> Request made under the Official Information Act 1982 0.9300686120986938
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: Request made under the Official Information Act 1982 --[CHALLENGES]-> Road To Zero campaign 0.8875606060028076
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.8686705827713013
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: Request made under the Official Information Act 1982 --[REQUESTED]-> information under the Official Information Act 1982 0.8679190874099731
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: Request made under the Official Information Act 1982 --[ASSOCIATED_WITH]-> information under the Official Information Act 1982 0.8668056130409241
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: Dear --[OFFICIAL_INFORMATION]-> Request made under the Official Information Act 1982 0.8662376403808594
+[I am refusing this part of your request under section 18(d) of the Act as the information is publicly available.]: Request made under the Official Information Act 1982 --[REQUESTS]-> information about Road To Zero campaign 0.8638588190078735
+[decision making]: logic in making this critical decision --[CHALLENGED_BY]-> Request made under the Official Information Act 1982 0.9300686120986938
+[decision making]: Request made under the Official Information Act 1982 --[CHALLENGES]-> Road To Zero campaign 0.8875606060028076
+[decision making]: Sam Kelway --[REQUESTS]-> information under the Official Information Act 1982 0.8775503039360046
+[decision making]: Charlie Mitchell --[REQUESTS]-> information under the Official Information Act 1982 0.8730576634407043
+[decision making]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.8686705827713013
+[decision making]: Request made under the Official Information Act 1982 --[REQUESTED]-> information under the Official Information Act 1982 0.8679190874099731
+[decision making]: Request made under the Official Information Act 1982 --[ASSOCIATED_WITH]-> information under the Official Information Act 1982 0.8668056130409241
+[public interest in seeking and receiving confidential legal advice]: logic in making this critical decision --[CHALLENGED_BY]-> Request made under the Official Information Act 1982 0.9300686120986938
+[public interest in seeking and receiving confidential legal advice]: Request made under the Official Information Act 1982 --[CHALLENGES]-> Road To Zero campaign 0.8875606060028076
+[public interest in seeking and receiving confidential legal advice]: Sam Kelway --[REQUESTS]-> information under the Official Information Act 1982 0.8775503039360046
+[public interest in seeking and receiving confidential legal advice]: Charlie Mitchell --[REQUESTS]-> information under the Official Information Act 1982 0.8730576634407043
+[public interest in seeking and receiving confidential legal advice]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.8686705827713013
+[public interest in seeking and receiving confidential legal advice]: Request made under the Official Information Act 1982 --[REQUESTED]-> information under the Official Information Act 1982 0.8679190874099731
+[public interest in seeking and receiving confidential legal advice]: Request made under the Official Information Act 1982 --[ASSOCIATED_WITH]-> information under the Official Information Act 1982 0.8668056130409241
+[seeking and receiving confidential legal advice]: logic in making this critical decision --[CHALLENGED_BY]-> Request made under the Official Information Act 1982 0.9300686120986938
+[seeking and receiving confidential legal advice]: Request made under the Official Information Act 1982 --[CHALLENGES]-> Road To Zero campaign 0.8875606060028076
+[seeking and receiving confidential legal advice]: Sam Kelway --[REQUESTS]-> information under the Official Information Act 1982 0.8775503039360046
+[seeking and receiving confidential legal advice]: Charlie Mitchell --[REQUESTS]-> information under the Official Information Act 1982 0.8730576634407043
+[seeking and receiving confidential legal advice]: Request made under the Official Information Act 1982 --[RESPONSE_DATE]-> 27 November 2018 0.8686705827713013
+[seeking and receiving confidential legal advice]: Request made under the Official Information Act 1982 --[REQUESTED]-> information under the Official Information Act 1982 0.8679190874099731
+[seeking and receiving confidential legal advice]: Request made under the Official Information Act 1982 --[ASSOCIATED_WITH]-> information under the Official Information Act 1982 0.8668056130409241

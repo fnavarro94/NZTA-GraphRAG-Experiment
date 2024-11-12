@@ -1,0 +1,29 @@
+How many times have the safety cameras in the Waterview Tunnel been found faulty in the past 36 months?
+None
+Seed: MINO -1042 Waterview Tunnel
+Seed: information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021
+Seed: information on traffic light cameras and speed cameras
+Seed: information on traffic light cameras
+[MINO -1042 Waterview Tunnel]: MINO -1042 Waterview Tunnel --[WARNING]-> 19 April 2024 0.8588340282440186
+[MINO -1042 Waterview Tunnel]: 19 April 2024 --[RELEASED]-> Released in full 0.7089424729347229
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.7959229350090027
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.7944238185882568
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.783266544342041
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[PROVIDES]-> information on speed cameras 0.7825753688812256
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[RECEIVED]-> no notifications of offences detected by speed cameras 0.7720046639442444
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: Waka Kotahi --[INVESTIGATES]-> breaches of rules or regulations 0.7708851099014282
+[information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021]: transport data --[PROVIDED_BY]-> Waka Kotahi 0.7699219584465027
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.7959229350090027
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.7944238185882568
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.783266544342041
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[PROVIDES]-> information on speed cameras 0.7825753688812256
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[RECEIVED]-> no notifications of offences detected by speed cameras 0.7720046639442444
+[information on traffic light cameras and speed cameras]: Waka Kotahi --[INVESTIGATES]-> breaches of rules or regulations 0.7708851099014282
+[information on traffic light cameras and speed cameras]: transport data --[PROVIDED_BY]-> Waka Kotahi 0.7699219584465027
+[information on traffic light cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras for the period of 1 January 2021 to 31 December 2021 0.7959229350090027
+[information on traffic light cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras 0.7944238185882568
+[information on traffic light cameras]: Waka Kotahi --[PROVIDES]-> information on traffic light cameras and speed cameras 0.783266544342041
+[information on traffic light cameras]: Waka Kotahi --[PROVIDES]-> information on speed cameras 0.7825753688812256
+[information on traffic light cameras]: Waka Kotahi --[RECEIVED]-> no notifications of offences detected by speed cameras 0.7720046639442444
+[information on traffic light cameras]: Waka Kotahi --[INVESTIGATES]-> breaches of rules or regulations 0.7708851099014282
+[information on traffic light cameras]: transport data --[PROVIDED_BY]-> Waka Kotahi 0.7699219584465027

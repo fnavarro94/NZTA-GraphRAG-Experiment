@@ -1,0 +1,13 @@
+In what year did the car-sharing service mentioned in the passage as a local initiative providing residents with flexible transportation options launch its car-sharing service in New Zealand?
+None
+Seed: Ride-sharing initiatives
+Seed: Limited public transport services in rural and isolated areas
+Seed: Car-sharing service
+Seed: Residents to share rides
+[Ride-sharing initiatives]: Ride-sharing initiatives --[Foster]-> Social connections 0.8247779607772827
+[Ride-sharing initiatives]: Ride-sharing initiatives --[Allow]-> Residents to share rides 0.8367809057235718
+[Ride-sharing initiatives]: Ride-sharing initiatives --[Reduce]-> Transport costs 0.8296337127685547
+[Ride-sharing initiatives]: Community transport services --[Include]-> Ride-sharing initiatives 0.8550734519958496
+[Limited public transport services in rural and isolated areas]: Volunteer driver programs --[Emerged in response to]-> Limited public transport services in rural and isolated areas 0.8336604833602905
+[Car-sharing service]: Mevo --[Is]-> Car-sharing service 0.8251420259475708
+[Residents to share rides]: Ride-sharing initiatives --[Allow]-> Residents to share rides 0.8367809057235718

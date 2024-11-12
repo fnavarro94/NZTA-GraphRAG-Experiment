@@ -1,0 +1,34 @@
+In what year did the organization that has focused on enhancing its bus rapid transit system to provide faster and more reliable public transport services become established?
+None
+Seed: Enhancing public transport systems
+Seed: Promoting public transport initiatives
+Seed: Renewed focus on public transport in recent decades
+Seed: Broader strategy to promote public transport as a viable alternative to private vehicle use
+[Enhancing public transport systems]: Public transport --[Underwent]-> Significant evolution 0.8534857034683228
+[Enhancing public transport systems]: Walking school bus --[Is]-> Innovative transport initiative 0.8461390733718872
+[Enhancing public transport systems]: Public transport integration --[Aims to]-> Promote use of public transport 0.8458309769630432
+[Enhancing public transport systems]: Sustainable urban transport --[Key component]-> Promoting public transit use 0.8427212834358215
+[Enhancing public transport systems]: Sustainable urban transport --[Key component]-> Comprehensive bus and train services 0.8394240736961365
+[Enhancing public transport systems]: Goal --[Is to create]-> More integrated and efficient transport system 0.8391314744949341
+[Enhancing public transport systems]: New zealand transport agency --[Is responsible for]-> Promoting public transport initiatives 0.8374068737030029
+[Promoting public transport initiatives]: Initiatives --[Include]-> Promotion of electric buses within the public transport system 0.856109619140625
+[Promoting public transport initiatives]: Ministry of transport --[Established in]-> 1962 0.8415425419807434
+[Promoting public transport initiatives]: New zealand transport agency --[Is responsible for]-> Promoting public transport initiatives 0.8374068737030029
+[Promoting public transport initiatives]: Sustainable urban transport --[Implemented]-> Initiatives 0.835000216960907
+[Promoting public transport initiatives]: New zealand transport agency --[Established in]-> 2008 0.8348211050033569
+[Promoting public transport initiatives]: Auckland transport --[Actively involved in]-> Promoting public transport use 0.8332837224006653
+[Promoting public transport initiatives]: New zealand transport agency --[Is]-> Forefront of promoting active transport 0.8312327265739441
+[Renewed focus on public transport in recent decades]: Public transport systems --[Prompted]-> Renewed focus on public transport in recent decades 0.8662749528884888
+[Renewed focus on public transport in recent decades]: Public transport systems --[Evolved]-> Since the late 19th century 0.8381059169769287
+[Renewed focus on public transport in recent decades]: Public transport systems --[Include]-> Buses and trains 0.8358457088470459
+[Renewed focus on public transport in recent decades]: Waka kotahi --[Promotes]-> Public transport initiatives 0.832190752029419
+[Renewed focus on public transport in recent decades]: Waka kotahi --[Promotes]-> Public transit 0.8297331929206848
+[Renewed focus on public transport in recent decades]: Waka kotahi --[Develops]-> Integrated transport solutions 0.8232622146606445
+[Renewed focus on public transport in recent decades]: Waka kotahi --[Plays crucial role in]-> Public transport systems 0.8219509720802307
+[Broader strategy to promote public transport as a viable alternative to private vehicle use]: Integrated ticketing system --[Part of]-> Broader strategy to promote public transport as a viable alternative to private vehicle use 0.8492244482040405
+[Broader strategy to promote public transport as a viable alternative to private vehicle use]: Integrated ticketing system --[Aims to]-> Enhance convenience and efficiency of public transport services 0.8479800820350647
+[Broader strategy to promote public transport as a viable alternative to private vehicle use]: Integrated ticketing system --[Driven by]-> Need to encourage greater use of sustainable transport options 0.8407860398292542
+[Broader strategy to promote public transport as a viable alternative to private vehicle use]: Integrated ticketing system --[Driven by]-> Need to improve public transport accessibility 0.8321698307991028
+[Broader strategy to promote public transport as a viable alternative to private vehicle use]: Auckland --[Has]-> Focus on expanding public transport networks 0.8304589986801147
+[Broader strategy to promote public transport as a viable alternative to private vehicle use]: Auckland --[Has]-> Invested in expanding public transport networks 0.8283330798149109
+[Broader strategy to promote public transport as a viable alternative to private vehicle use]: Auckland --[Promoting]-> Sustainable transport solutions 0.8256067633628845

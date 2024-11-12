@@ -1,0 +1,30 @@
+What is the annual accident rate on State Highway 16 (SH16) over the last decade for the 80km/h and 100km/h speed limits?
+None
+Seed: annual accident rate on SH16
+Seed: comparing the number of accidents under the 100km speed limit versus the current 80km speed rate
+Seed: vehicle accidents
+Seed: information on vehicle accidents
+[annual accident rate on SH16]: Debrin Foxcroft --[REQUESTS]-> annual accident rate on SH16 0.8697636723518372
+[annual accident rate on SH16]: Debrin Foxcroft --[INTERESTED_IN]-> comparing the number of accidents under the 100km speed limit versus the current 80km speed rate 0.8590115904808044
+[annual accident rate on SH16]: Debrin Foxcroft --[EMAILS]-> NZ Transport Agency 0.745874285697937
+[annual accident rate on SH16]: Debrin Foxcroft --[WRITES]-> email dated 30 April 2018 0.7282837629318237
+[annual accident rate on SH16]: Debrin Foxcroft --[REQUESTS]-> information under the Official Information Act 1982 0.7264496088027954
+[annual accident rate on SH16]: Debrin Foxcroft --[WRITES]-> email to the NZ Transport Agency 0.7236647009849548
+[annual accident rate on SH16]: Debrin Foxcroft --[LIVES]-> New Zealand 0.7006820440292358
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[REQUESTS]-> annual accident rate on SH16 0.8697636723518372
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[INTERESTED_IN]-> comparing the number of accidents under the 100km speed limit versus the current 80km speed rate 0.8590115904808044
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[EMAILS]-> NZ Transport Agency 0.745874285697937
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[WRITES]-> email dated 30 April 2018 0.7282837629318237
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[REQUESTS]-> information under the Official Information Act 1982 0.7264496088027954
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[WRITES]-> email to the NZ Transport Agency 0.7236647009849548
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[LIVES]-> New Zealand 0.7006820440292358
+[vehicle accidents]: vehicle accidents --[LOCATED]-> intersection of Kiddle Drive/Arrowsmith Ave 0.8030250072479248
+[vehicle accidents]: Data --[LIMITED]-> intersection of Kiddle Drive/Arrowsmith Ave 0.7781587839126587
+[vehicle accidents]: intersection of Kiddle Drive/Arrowsmith Ave --[CROSSES]-> Napier Road 0.749718427658081
+[information on vehicle accidents]: Crash Analysis --[PERFORMED_BY]-> Waka Kotahi NZ Transport Agency 0.8244447112083435
+[information on vehicle accidents]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.8169389963150024
+[information on vehicle accidents]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.810263454914093
+[information on vehicle accidents]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.8011813163757324
+[information on vehicle accidents]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.794112503528595
+[information on vehicle accidents]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.7922044396400452
+[information on vehicle accidents]: Road to Zero --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.790226936340332

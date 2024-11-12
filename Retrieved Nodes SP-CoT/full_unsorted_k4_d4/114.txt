@@ -1,0 +1,36 @@
+What is the second-busiest airport in New Zealand, serving as a key entry point for international travelers to the region known for its rugged terrain and stunning landscapes, particularly in the context of the two main islands of New Zealand where the transport system facilitates the movement of people and goods, in the context of Auckland and which city in New Zealand is mentioned as facing significant traffic congestion issues alongside Auckland and Wellington?
+None
+Seed: Crucial role in new zealand's transport infrastructure
+Seed: Busiest airport in new zealand
+Seed: Local economy and tourism industry
+Seed: Second-busiest airport in new zealand
+[Crucial role in new zealand's transport infrastructure]: Auckland airport --[Plays]-> Crucial role in new zealand's transport infrastructure 0.8937344551086426
+[Crucial role in new zealand's transport infrastructure]: Auckland airport --[Serves]-> As hub for domestic and international flights 0.8675599098205566
+[Crucial role in new zealand's transport infrastructure]: Auckland airport --[Is]-> Undergoing significant expansion 0.8633931279182434
+[Crucial role in new zealand's transport infrastructure]: Auckland airport --[Serves as]-> Primary international gateway for new zealand 0.8752033710479736
+[Crucial role in new zealand's transport infrastructure]: Auckland airport --[Committed]-> Sustainability 0.8280373811721802
+[Crucial role in new zealand's transport infrastructure]: Auckland ferry network --[Commitment to]-> Sustainability 0.7969494462013245
+[Crucial role in new zealand's transport infrastructure]: Auckland ferry network --[Operated by]-> Auckland transport 0.8207905292510986
+[Crucial role in new zealand's transport infrastructure]: Auckland ferry network --[Crucial element]-> New zealand's transport landscape 0.869024932384491
+[Crucial role in new zealand's transport infrastructure]: Auckland ferry network --[Enhancing]-> User convenience 0.7813707590103149
+[Crucial role in new zealand's transport infrastructure]: Auckland ferry network --[Focus on]-> Integrating with emerging technologies 0.8148009181022644
+[Crucial role in new zealand's transport infrastructure]: Auckland ferry network --[Origins]-> Date back to 19th century 0.8101485967636108
+[Crucial role in new zealand's transport infrastructure]: Auckland ferry network --[Set to undergo]-> Further enhancements 0.7848361134529114
+[Crucial role in new zealand's transport infrastructure]: Auckland ferry network --[Operates]-> Multiple routes 0.8324822783470154
+[Crucial role in new zealand's transport infrastructure]: Auckland ferry network --[First regular ferry service]-> Commenced in 1840 0.78524249792099
+[Crucial role in new zealand's transport infrastructure]: Auckland ferry network --[Part of]-> Auckland transport's broader strategy 0.8371468782424927
+[Crucial role in new zealand's transport infrastructure]: Auckland ferry network --[Known for]-> Reliability 0.8118048906326294
+[Crucial role in new zealand's transport infrastructure]: Auckland ferry network --[Integrated with]-> Other forms of public transport 0.8381433486938477
+[Crucial role in new zealand's transport infrastructure]: Auckland ferry network --[Consists of]-> Several routes 0.8269627690315247
+[Crucial role in new zealand's transport infrastructure]: Auckland ferry network --[Contributing to]-> Sustainability of urban transport 0.8341948986053467
+[Crucial role in new zealand's transport infrastructure]: Auckland ferry network --[Offering]-> Unique and picturesque travel experience 0.8360932469367981
+[Crucial role in new zealand's transport infrastructure]: Auckland ferry network --[Service]-> Popular during peak hours 0.8313348293304443
+[Crucial role in new zealand's transport infrastructure]: Auckland ferry network --[Is]-> Vital component of public transport system 0.8468572497367859
+[Crucial role in new zealand's transport infrastructure]: Auckland ferry network --[Services provided by]-> Several operators 0.8178788423538208
+[Crucial role in new zealand's transport infrastructure]: Auckland ferry network --[Connects]-> Central business district of auckland with destinations 0.8434853553771973
+[Crucial role in new zealand's transport infrastructure]: Auckland ferry network --[Plays]-> Significant role in alleviating road congestion 0.8649938106536865
+[Crucial role in new zealand's transport infrastructure]: Auckland ferry network --[Significant expansions and upgrades]-> Accommodate growing population and increasing demand 0.8179416060447693
+[Crucial role in new zealand's transport infrastructure]: Auckland ferry network --[Offers]-> Alternative mode of transport for commuters and tourists 0.8250422477722168
+[Crucial role in new zealand's transport infrastructure]: Auckland ferry network --[Poised to play]-> Increasingly important role in shaping future of public transport 0.8364237546920776
+[Crucial role in new zealand's transport infrastructure]: Auckland ferry network --[Fleet]-> Consists of various vessels 0.80192631483078
+[Crucial role in new zealand's transport infrastructure]: Auckland ferry network --[Improve]-> Public transport infrastructure 0.8259367942810059

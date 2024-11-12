@@ -1,0 +1,34 @@
+How are contractors paid to repair potholes on New Zealand highways?
+None
+Seed: request for pothole repair cost information
+Seed: pothole repair specifications
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+Seed: https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf
+[request for pothole repair cost information]: New Zealand Transport Agency --[CONSIDERS]-> request for pothole repair cost information 0.9117268323898315
+[request for pothole repair cost information]: New Zealand Transport Agency --[PROVIDES]-> funding for road maintenance 0.8825678825378418
+[request for pothole repair cost information]: New Zealand Transport Agency --[FUNDING]-> Road Maintenance 0.8817862272262573
+[request for pothole repair cost information]: New Zealand Transport Agency --[REFUSES]-> request for pothole repair cost information 0.8788819313049316
+[request for pothole repair cost information]: road maintenance --[PERFORMED_BY]-> New Zealand Transport Agency 0.8764835596084595
+[request for pothole repair cost information]: New Zealand Transport Agency --[RESPONSIBLE_FOR]-> road maintenance 0.8732290863990784
+[request for pothole repair cost information]: request for pothole repair cost information --[SUBJECT_TO]-> section 18(f) of the Act 0.8696950674057007
+[pothole repair specifications]: pothole repair specifications --[FROM]-> NZTA 0.8897546529769897
+[pothole repair specifications]: https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf --[ACCESS]-> pothole repair specifications 0.8849823474884033
+[pothole repair specifications]: website --[LINKS]-> https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf 0.8677428960800171
+[pothole repair specifications]: NZTA --[PROVIDES]-> maintenance specifications 0.8272696137428284
+[pothole repair specifications]: National Manager Infrastructure Delivery --[AT]-> NZTA 0.8239514827728271
+[pothole repair specifications]: NZTA --[RETAINS]-> toll revenue 0.8193081617355347
+[pothole repair specifications]: NZTA --[TOOK_OVER]-> road 0.8112130761146545
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) --[CONTRACTS]-> consultants 0.8585132956504822
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUESTS]-> detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) 0.8411082029342651
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[RESPONDS]-> Request made under the Official Information Act 1982 0.8248833417892456
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency --[RESPONDS_TO]-> Request made under the Official Information Act 1982 0.8231964707374573
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUESTS]-> New Zealand Transport Agency 0.8149751424789429
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: New Zealand Transport Agency Waka Kotahi --[ENGAGES]-> consultants 0.8036248683929443
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[OFFICIAL_INFORMATION]-> Thank you for your email of 28 July 2021 requesting information regarding occupancy protection and protection of cab cut out vehicles under the Official Information Act 1982 (the Act). 0.780349612236023
+[https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf]: pothole repair specifications --[FROM]-> NZTA 0.8897546529769897
+[https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf]: https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf --[ACCESS]-> pothole repair specifications 0.8849823474884033
+[https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf]: website --[LINKS]-> https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf 0.8677428960800171
+[https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8156793117523193
+[https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf]: maintenance specifications --[AVAILABLE]-> website 0.7834897041320801
+[https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf]: website --[LOCATED_AT]-> www.ombudsman.parliament.nz 0.7779948711395264
+[https://www.nzta.govt.nz/assets/resources/maint-specs-potholes/docs/maint-specs-potholes.pdf]: Waka Kotahi policy --[PUBLISHED]-> website 0.7597084641456604

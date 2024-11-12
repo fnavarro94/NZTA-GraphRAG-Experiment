@@ -1,0 +1,34 @@
+What is the crash history for the SH2/SH53 intersection in Featherston over the past 10 years?
+None
+Seed: SH2 and SH53 in Featherston
+Seed: intersection of SH2 and SH53
+Seed: Traffic Crash Reports
+Seed: traffic crash data
+[SH2 and SH53 in Featherston]: SH2 and SH53 in Featherston --[INTERSECTS]-> Road 0.922809898853302
+[SH2 and SH53 in Featherston]: Crash Data --[LIMITED_TO]-> SH2 and SH53 in Featherston 0.8665138483047485
+[SH2 and SH53 in Featherston]: Crash --[MUST_OCCUR]-> Road 0.8189182281494141
+[SH2 and SH53 in Featherston]: Crash Data --[RELATES_TO]-> Pedestrian and Cyclist Crashes 0.8188461065292358
+[SH2 and SH53 in Featherston]: Traffic Crash Report --[RECORDS]-> Crash Data 0.8093826174736023
+[SH2 and SH53 in Featherston]: Traffic Crash Report --[CONTAINS]-> Crash Data 0.8082147836685181
+[SH2 and SH53 in Featherston]: New Zealand Transport Agency Waka Kotahi --[PROVIDES]-> Crash Data 0.8071407079696655
+[intersection of SH2 and SH53]: intersection of SH2 and SH53 --[LOCATED_IN]-> Featherston 0.8975452184677124
+[intersection of SH2 and SH53]: no fatal, serious or minor injury crashes --[OCCURRED]-> intersection of SH2 and SH53 0.8890056610107422
+[intersection of SH2 and SH53]: accident or crash history --[RELATES_TO]-> intersection of SH2 and SH53 0.8879202604293823
+[intersection of SH2 and SH53]: Featherston --[RAISED_CROSSINGS]-> SH2 and SH53 0.8653592467308044
+[intersection of SH2 and SH53]: Featherston --[RAISED_CROSSINGS]-> one crossing near SH2/Lyon Street/Birdwood Street intersection 0.8615763783454895
+[intersection of SH2 and SH53]: Featherston --[HAS_SPEED_LIMIT]-> 40km/h 0.858863353729248
+[intersection of SH2 and SH53]: Featherston --[RANKING]-> not in the top 200 high risk intersections 0.8379446268081665
+[Traffic Crash Reports]: Crash Analysis System --[UPDATED]-> Traffic Crash Report 0.822274923324585
+[Traffic Crash Reports]: Transport Agency --[GETS_INFORMATION]-> Traffic Crash Reports 0.8154091238975525
+[Traffic Crash Reports]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.8153269290924072
+[Traffic Crash Reports]: Traffic Crash Reports --[CONTAINS]-> information on crash movements and causes 0.8129220008850098
+[Traffic Crash Reports]: Crash Analysis System --[UPDATES]-> Traffic Crash Report 0.8122432231903076
+[Traffic Crash Reports]: Crash Analysis System --[PROVIDES]-> traffic crash data 0.811935544013977
+[Traffic Crash Reports]: Traffic Crash Report --[ASSOCIATED_WITH]-> Crash Analysis System 0.8111668229103088
+[traffic crash data]: Crash Analysis System --[UPDATED]-> Traffic Crash Report 0.822274923324585
+[traffic crash data]: Crash Analysis System --[MAINTAINED_BY]-> Waka Kotahi NZ Transport Agency 0.8153269290924072
+[traffic crash data]: Crash Analysis System --[UPDATES]-> Traffic Crash Report 0.8122432231903076
+[traffic crash data]: Crash Analysis System --[PROVIDES]-> traffic crash data 0.811935544013977
+[traffic crash data]: Traffic Crash Report --[ASSOCIATED_WITH]-> Crash Analysis System 0.8111668229103088
+[traffic crash data]: Crash Analysis System --[UPDATES]-> Traffic Crash Reports 0.8108359575271606
+[traffic crash data]: 2020 --[FATAL_CRASHES]-> Crash Analysis System 0.8105828166007996

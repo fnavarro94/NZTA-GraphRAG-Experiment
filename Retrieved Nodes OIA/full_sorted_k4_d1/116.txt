@@ -1,0 +1,14 @@
+When was NZTA advised about the sale of VINZ, and what were the implications for vehicle inspection authority?
+None
+Seed: Sale of VINZ
+Seed: Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below.
+Seed: Vehicle Inspection
+Seed: bid for NZ Transport Agency funding
+[Sale of VINZ]: Transport Agency --[ADVISED_OF]-> Sale of VINZ 0.8939305543899536
+[Sale of VINZ]: Sale of VINZ --[DATE]-> March 2015 0.8474085927009583
+[Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below.]: New Zealand Transport Agency --[RESPONSE]-> Thank you for your email of 13 June 2022 requesting information about the Clean Car scheme under the Official Information Act 1982 (the Act). I will set out each of your questions and my responses below. 0.8354688286781311
+[Vehicle Inspection]: Vehicle Inspection --[CONDUCTED_BY]-> New Zealand Transport Agency 0.8666824698448181
+[Vehicle Inspection]: New Zealand --[REGULATES]-> Vehicle Inspection 0.8570104241371155
+[Vehicle Inspection]: Vehicle Inspection --[PROVIDES]-> Safety Information 0.822128415107727
+[Vehicle Inspection]: Vehicle Inspection --[Undertakes]-> Calculations 0.813369631767273
+[bid for NZ Transport Agency funding]: Auckland Transport --[SUBMITS]-> bid for NZ Transport Agency funding 0.8232093453407288

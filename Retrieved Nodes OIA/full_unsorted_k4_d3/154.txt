@@ -1,0 +1,36 @@
+What specific type of endorsement is mentioned in the OIA-2127 document?
+None
+Seed: applications for I endorsements
+Seed: standards for all licence endorsement holders
+Seed: I endorsement holders
+Seed: renewals of existing endorsement holders
+[applications for I endorsements]: Transport Agency --[ASSESS]-> applications for I endorsements 0.8482099175453186
+[applications for I endorsements]: www.ombudsman.parliament.nz --[PROVIDES]-> Transport Agency 0.8039979934692383
+[applications for I endorsements]: www.ombudsman.parliament.nz --[LINKS_TO]-> Ombudsman 0.8097286224365234
+[applications for I endorsements]: website --[LOCATED_AT]-> www.ombudsman.parliament.nz 0.7847328782081604
+[applications for I endorsements]: New Zealand Transport Agency --[PROVIDES]-> www.ombudsman.parliament.nz 0.8056407570838928
+[applications for I endorsements]: www.ombudsman.parliament.nz --[PROVIDES]-> New Zealand Transport Agency 0.802616536617279
+[applications for I endorsements]: Ombudsman --[LOCATED_AT]-> www.ombudsman.parliament.nz 0.7776104211807251
+[applications for I endorsements]: www.ombudsman.parliament.nz --[HOSTS]-> contact details for the Ombudsman 0.7946584224700928
+[applications for I endorsements]: contact details for the Ombudsman --[LOCATED_AT]-> www.ombudsman.parliament.nz 0.7758774757385254
+[applications for I endorsements]: contact details for the Ombudsman --[AVAILABLE_AT]-> www.ombudsman.parliament.nz 0.791420042514801
+[applications for I endorsements]: www.ombudsman.parliament.nz --[PROVIDES]-> contact details 0.7963154315948486
+[applications for I endorsements]: contact details --[LOCATED]-> www.ombudsman.parliament.nz 0.7789886593818665
+[applications for I endorsements]: Ombudsman --[IS]-> www.ombudsman.parliament.nz 0.8039727210998535
+[applications for I endorsements]: Website --[URL]-> www.ombudsman.parliament.nz 0.7973540425300598
+[applications for I endorsements]: contact details for the Ombudsman --[FOUND]-> www.ombudsman.parliament.nz 0.7925004959106445
+[applications for I endorsements]: Ombudsman --[LOCATED]-> www.ombudsman.parliament.nz 0.7912052869796753
+[applications for I endorsements]: Contact Details --[AVAILABLE]-> www.ombudsman.parliament.nz 0.78477942943573
+[applications for I endorsements]: www.ombudsman.parliament.nz --[PROVIDES]-> Ombudsman 0.8119022250175476
+[applications for I endorsements]: contact details for the Ombudsman --[LOCATED]-> www.ombudsman.parliament.nz 0.7791088819503784
+[applications for I endorsements]: www.ombudsman.parliament.nz --[ASSOCIATED]-> Ombudsman 0.8218123912811279
+[applications for I endorsements]: Ombudsman contact details --[LOCATED]-> www.ombudsman.parliament.nz 0.7777320146560669
+[applications for I endorsements]: Transport Agency --[PROVIDES]-> summary of survey results 0.772767186164856
+[applications for I endorsements]: Transport Agency --[PROVIDES]-> summary of exit interview results 0.7514997124671936
+[applications for I endorsements]: Transport Agency --[PROVIDES]-> summary of engagement survey results 0.7750245332717896
+[applications for I endorsements]: Transport Agency --[PROVIDES]-> contact details for the Ombudsman 0.7784302234649658
+[applications for I endorsements]: response --[CONTAINS]-> contact details for the Ombudsman 0.7739572525024414
+[applications for I endorsements]: New Zealand Transport Agency --[PROVIDES]-> contact details for the Ombudsman 0.7771986722946167
+[applications for I endorsements]: Jackie Smith --[PROVIDES]-> contact details for the Ombudsman 0.7668121457099915
+[applications for I endorsements]: response letter --[CONTAINS]-> contact details for the Ombudsman 0.7856670022010803
+[applications for I endorsements]: Transport Agency --[PROVIDES]-> EAP 0.783449649810791

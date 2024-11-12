@@ -1,0 +1,36 @@
+In what year did the airline that provides domestic air travel services between the North and South Islands of New Zealand and is crucial for the tourism sector become established?
+None
+Seed: Flagship airline of new zealand
+Seed: Airline's responsibility as a key player in the transport sector
+Seed: Flights within new zealand
+Seed: Local economy and tourism industry
+[Flagship airline of new zealand]: Air new zealand --[Is]-> Flagship airline of new zealand 0.8666887283325195
+[Flagship airline of new zealand]: Air new zealand --[Operates]-> Boeing 787 dreamliners 0.8381915092468262
+[Flagship airline of new zealand]: Air new zealand --[Member of]-> Star alliance 0.8434815406799316
+[Flagship airline of new zealand]: Air new zealand --[Operates]-> Modern fleet of aircraft 0.848160445690155
+[Flagship airline of new zealand]: Air new zealand --[Headquartered in]-> Auckland 0.8444938659667969
+[Flagship airline of new zealand]: Auckland --[Has]-> Public transport system 0.7880627512931824
+[Flagship airline of new zealand]: Auckland --[Has]-> Pedestrian-friendly projects 0.7605684399604797
+[Flagship airline of new zealand]: Auckland --[Has]-> Network of cycle lanes and shared paths 0.7614635229110718
+[Flagship airline of new zealand]: Auckland --[Has]-> Bus network with extensive coverage 0.7686436772346497
+[Flagship airline of new zealand]: Auckland --[Has]-> Rail network with several lines 0.7792280912399292
+[Flagship airline of new zealand]: Auckland --[Has]-> Growing population 0.7742407321929932
+[Flagship airline of new zealand]: Auckland --[Has]-> Transport infrastructure 0.793488085269928
+[Flagship airline of new zealand]: Auckland --[Has]-> Public transport services 0.7923887968063354
+[Flagship airline of new zealand]: Auckland --[Has]-> Rail network 0.7885552644729614
+[Flagship airline of new zealand]: Auckland --[Has]-> International airport 0.8313804864883423
+[Flagship airline of new zealand]: Auckland --[Has]-> Waterfront 0.7886213064193726
+[Flagship airline of new zealand]: Auckland --[Has]-> Motorways 0.7782585620880127
+[Flagship airline of new zealand]: Auckland --[Has]-> Traffic congestion 0.7535181045532227
+[Flagship airline of new zealand]: Auckland --[Has]-> Southern motorway and northern motorway 0.8048518896102905
+[Flagship airline of new zealand]: Auckland --[Has]-> Rideshare services 0.7911369800567627
+[Flagship airline of new zealand]: Auckland --[Has]-> Focus on improving road infrastructure 0.7634424567222595
+[Flagship airline of new zealand]: Auckland --[Has]-> Trains 0.7867307662963867
+[Flagship airline of new zealand]: Auckland --[Has]-> International and domestic flights 0.8546205759048462
+[Flagship airline of new zealand]: Auckland --[Has]-> Significant transport hub 0.7934395670890808
+[Flagship airline of new zealand]: Auckland --[Has]-> Ferries 0.7999666333198547
+[Flagship airline of new zealand]: Auckland --[Has]-> Buses 0.7814216613769531
+[Flagship airline of new zealand]: Auckland --[Has]-> Focus on expanding public transport networks 0.7749758362770081
+[Flagship airline of new zealand]: Auckland --[Has]-> Transport projects 0.782129168510437
+[Flagship airline of new zealand]: Auckland --[Has]-> City rail link 0.7740458846092224
+[Flagship airline of new zealand]: Auckland --[Has]-> Seen significant improvements in its cycling network 0.7411608695983887

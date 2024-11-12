@@ -1,0 +1,34 @@
+How much did NZTA spend on online advertising for road safety campaigns in 2017-2018?
+None
+Seed: cost of the current Road to Zero advertising campaign
+Seed: national, regional and local road safety promotion and education campaigns
+Seed: Road Safety Campaigns
+Seed: Advertising Media Spend 2017-2018
+[cost of the current Road to Zero advertising campaign]: NZ Transport Agency --[ADVERTISES]-> Road Safety Campaigns 0.8936610817909241
+[cost of the current Road to Zero advertising campaign]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8676730394363403
+[cost of the current Road to Zero advertising campaign]: Road Safety Campaigns --[USES]-> Online Platforms 0.8630467653274536
+[cost of the current Road to Zero advertising campaign]: Road To Zero campaign --[COST]-> cost of the current Road to Zero advertising campaign 0.8610615730285645
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency website --[PUBLISHES]-> safety interventions 0.8609538078308105
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[FUNDING]-> Road Maintenance 0.8600640296936035
+[cost of the current Road to Zero advertising campaign]: New Zealand Transport Agency --[PROVIDES]-> funding 0.8574216961860657
+[national, regional and local road safety promotion and education campaigns]: NZ Transport Agency --[ADVERTISES]-> Road Safety Campaigns 0.8936610817909241
+[national, regional and local road safety promotion and education campaigns]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8676730394363403
+[national, regional and local road safety promotion and education campaigns]: Road Safety Campaigns --[USES]-> Online Platforms 0.8630467653274536
+[national, regional and local road safety promotion and education campaigns]: Road To Zero campaign --[COST]-> cost of the current Road to Zero advertising campaign 0.8610615730285645
+[national, regional and local road safety promotion and education campaigns]: New Zealand Transport Agency website --[PUBLISHES]-> safety interventions 0.8609538078308105
+[national, regional and local road safety promotion and education campaigns]: New Zealand Transport Agency --[FUNDING]-> Road Maintenance 0.8600640296936035
+[national, regional and local road safety promotion and education campaigns]: New Zealand Transport Agency --[PROVIDES]-> funding 0.8574216961860657
+[Road Safety Campaigns]: NZ Transport Agency --[ADVERTISES]-> Road Safety Campaigns 0.8936610817909241
+[Road Safety Campaigns]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8676730394363403
+[Road Safety Campaigns]: Road Safety Campaigns --[USES]-> Online Platforms 0.8630467653274536
+[Road Safety Campaigns]: Road To Zero campaign --[COST]-> cost of the current Road to Zero advertising campaign 0.8610615730285645
+[Road Safety Campaigns]: New Zealand Transport Agency website --[PUBLISHES]-> safety interventions 0.8609538078308105
+[Road Safety Campaigns]: New Zealand Transport Agency --[FUNDING]-> Road Maintenance 0.8600640296936035
+[Road Safety Campaigns]: New Zealand Transport Agency --[PROVIDES]-> funding 0.8574216961860657
+[Advertising Media Spend 2017-2018]: NZ Transport Agency --[ADVERTISES]-> Road Safety Campaigns 0.8936610817909241
+[Advertising Media Spend 2017-2018]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.8676730394363403
+[Advertising Media Spend 2017-2018]: Road Safety Campaigns --[USES]-> Online Platforms 0.8630467653274536
+[Advertising Media Spend 2017-2018]: Road To Zero campaign --[COST]-> cost of the current Road to Zero advertising campaign 0.8610615730285645
+[Advertising Media Spend 2017-2018]: New Zealand Transport Agency website --[PUBLISHES]-> safety interventions 0.8609538078308105
+[Advertising Media Spend 2017-2018]: New Zealand Transport Agency --[FUNDING]-> Road Maintenance 0.8600640296936035
+[Advertising Media Spend 2017-2018]: New Zealand Transport Agency --[PROVIDES]-> funding 0.8574216961860657

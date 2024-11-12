@@ -1,0 +1,36 @@
+What are the key benefits of the National Ticketing System (NTS) for public transport users?
+None
+Seed: fares play an important role in helping cover the cost of public transport within available budgets
+Seed: wider impacts of fare policy on people and cities
+Seed: National Ticketing System
+Seed: review of public transport fare policy
+[fares play an important role in helping cover the cost of public transport within available budgets]: government's transport priorities --[INCLUDES]-> fares play an important role in helping cover the cost of public transport within available budgets 0.8508740663528442
+[fares play an important role in helping cover the cost of public transport within available budgets]: wider objectives in Regional Public Transport Plans --[CONTRIBUTES]-> government's transport priorities 0.8383309841156006
+[fares play an important role in helping cover the cost of public transport within available budgets]: fares play an important role in helping cover the cost of public transport within available budgets --[CONTRIBUTES]-> public transport budgets 0.8574234843254089
+[fares play an important role in helping cover the cost of public transport within available budgets]: public transport budgets --[MANAGED_BY]-> councils 0.8214406371116638
+[wider impacts of fare policy on people and cities]: wider impacts of fare policy on people and cities --[INCLUCES]-> national farebox recovery target 0.8550865054130554
+[wider impacts of fare policy on people and cities]: 2018-21 NLTP --[APPLIES]-> national farebox recovery target 0.8296048641204834
+[wider impacts of fare policy on people and cities]: national farebox recovery target --[REPLACED]-> 2018-21 NLTP 0.8033926486968994
+[wider impacts of fare policy on people and cities]: national farebox recovery target --[INTRODUCED]-> 2010 0.8169475793838501
+[wider impacts of fare policy on people and cities]: 2010 --[APPLIES]-> national farebox recovery target 0.8176039457321167
+[wider impacts of fare policy on people and cities]: national farebox recovery target --[REPLACED_BY]-> underlying principles of the current policy 0.8211339712142944
+[wider impacts of fare policy on people and cities]: public transport affordability --[RELATES_TO]-> wider impacts of fare policy on people and cities 0.8467555642127991
+[wider impacts of fare policy on people and cities]: councils with greater flexibility --[ADDRESS]-> public transport affordability 0.8207558393478394
+[National Ticketing System]: Request for National Ticketing System Documentation --[REQUESTS]-> National Ticketing System 0.8581976890563965
+[National Ticketing System]: Email --[CONTAINS]-> Request for National Ticketing System Documentation 0.8311738967895508
+[review of public transport fare policy]: New Zealand Transport Agency --[UNDERTAKES]-> review of public transport fare policy 0.8185232281684875
+[review of public transport fare policy]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7835739254951477
+[review of public transport fare policy]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7898557186126709
+[review of public transport fare policy]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7900479435920715
+[review of public transport fare policy]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7838712334632874
+[review of public transport fare policy]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7946037650108337
+[review of public transport fare policy]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7823219895362854
+[review of public transport fare policy]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.8098424077033997
+[review of public transport fare policy]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7964186668395996
+[review of public transport fare policy]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7935473322868347
+[review of public transport fare policy]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7717987298965454
+[review of public transport fare policy]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7690541744232178
+[review of public transport fare policy]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7907319068908691
+[review of public transport fare policy]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7998449802398682
+[review of public transport fare policy]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7827842235565186
+[review of public transport fare policy]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7840131521224976

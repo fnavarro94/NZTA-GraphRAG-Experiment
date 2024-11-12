@@ -1,0 +1,21 @@
+What is the abbreviation for The program that includes the expressway project aimed at improving freight transport efficiency in the region in the country known for its transport system innovation aimed at improving efficiency, sustainability, and accessibility in response to unique geographical challenges?
+None
+Seed: Efficiency of freight transport in region
+Seed: Driving innovation in freight transport sector
+Seed: Regional transport initiatives
+Seed: Enhancing safety and efficiency of transportation systems in new zealand
+[Efficiency of freight transport in region]: Waikato expressway --[Significantly enhances]-> Efficiency of freight transport in region 0.8661929965019226
+[Efficiency of freight transport in region]: Waikato expressway --[Is part of]-> National land transport programme 0.8318911790847778
+[Efficiency of freight transport in region]: Waikato expressway --[Aims to improve]-> Travel times and safety between auckland and hamilton 0.7979367971420288
+[Efficiency of freight transport in region]: Waikato expressway --[Includes]-> Several new sections of road and upgrades to existing routes 0.7903197407722473
+[Driving innovation in freight transport sector]: Collaborative approaches --[Played crucial role]-> Driving innovation in freight transport sector 0.8253429532051086
+[Driving innovation in freight transport sector]: Collaborative approaches --[Played crucial role]-> Among stakeholders 0.7442348599433899
+[Regional transport initiatives]: Local councils --[Contribute to]-> Regional transport initiatives 0.8160632848739624
+[Regional transport initiatives]: Local councils --[Develop]-> Regional land transport plans 0.800027072429657
+[Regional transport initiatives]: Regional transport committees --[Consist of]-> Local councils 0.7870370149612427
+[Regional transport initiatives]: Community transport services --[Operated by]-> Local councils 0.7843629121780396
+[Regional transport initiatives]: Local councils --[Contribute to]-> Transport funding 0.783104658126831
+[Regional transport initiatives]: Local councils --[Ensure]-> Compliance with road design guidelines 0.7735092639923096
+[Regional transport initiatives]: Local councils --[Implement]-> Tra 0.7733889818191528
+[Enhancing safety and efficiency of transportation systems in new zealand]: Road safety technologies --[Play crucial role in]-> Enhancing safety and efficiency of transportation systems in new zealand 0.8095881938934326
+[Enhancing safety and efficiency of transportation systems in new zealand]: Road safety technologies --[Include]-> Intelligent transport systems 0.7855185270309448

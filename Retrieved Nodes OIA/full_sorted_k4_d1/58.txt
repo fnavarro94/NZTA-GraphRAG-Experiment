@@ -1,0 +1,16 @@
+How is Waka Kotahi addressing corporate emissions as part of their sustainability efforts?
+None
+Seed: fuel from Waka Kotahi fleet vehicle emissions
+Seed: Waka Kotahi Senior Project Manager
+Seed: where people can easily learn about sustainability
+Seed: Waka Kotahi
+[fuel from Waka Kotahi fleet vehicle emissions]: Waka Kotahi --[PROVIDES]-> fuel from Waka Kotahi fleet vehicle emissions 0.8978778719902039
+[Waka Kotahi Senior Project Manager]: Waka Kotahi Senior Project Manager --[MANAGES]-> State Highway 25A Rebuild Project 0.8195472955703735
+[where people can easily learn about sustainability]: Waka Kotahi --[AIMS]-> where people can easily learn about sustainability 0.9164656400680542
+[Waka Kotahi]: Waka Kotahi --[AIMS]-> increase sustainability 0.9256365895271301
+[Waka Kotahi]: Waka Kotahi --[AIMS]-> create a sustainable future 0.9186813831329346
+[Waka Kotahi]: Waka Kotahi --[AIMS]-> where people can easily learn about sustainability 0.9164656400680542
+[Waka Kotahi]: Waka Kotahi --[USES]-> Toitû Envirocare Carbon Reduction programme 0.9159694910049438
+[Waka Kotahi]: Waka Kotahi --[AIMS]-> audit and certify our carbon footprint 0.9136168956756592
+[Waka Kotahi]: Waka Kotahi --[AIMS]-> support our carbon reduction programme 0.9125261306762695
+[Waka Kotahi]: Waka Kotahi --[WILL_CAPTURE]-> emissions from other corporate or internally focused activities 0.9105000495910645

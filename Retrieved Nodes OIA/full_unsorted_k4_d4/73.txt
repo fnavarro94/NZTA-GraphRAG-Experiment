@@ -1,0 +1,36 @@
+Who should be contacted to discuss the details of Waka Kotahi’s half-price fare advertising?
+None
+Seed: information to Waka Kotahi
+Seed: Waka Kotahi NZ Transport Agency
+Seed: opportunities to make an announcement regarding changes to the national farebox recovery policy
+Seed: Waka Kotahi N Z Transport Agency
+[information to Waka Kotahi]: New Zealand Transport Agency --[PROVIDES]-> information to Waka Kotahi 0.8473636507987976
+[information to Waka Kotahi]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 0.7716691493988037
+[information to Waka Kotahi]: New Zealand Transport Agency --[BASED]-> Wellington 0.7589446306228638
+[information to Waka Kotahi]: New Zealand Transport Agency --[LOCATED_IN]-> Private Bag 6995 0.7765288352966309
+[information to Waka Kotahi]: New Zealand Transport Agency --[LOCATED_IN]-> 50 Victoria Street 0.7889808416366577
+[information to Waka Kotahi]: New Zealand Transport Agency --[LOCATED_IN]-> Victoria Arcade 0.7758288383483887
+[information to Waka Kotahi]: New Zealand Transport Agency --[LOCATED_IN]-> Wellington 6141 0.7748631834983826
+[information to Waka Kotahi]: New Zealand Transport Agency --[LOCATED_IN]-> New Zealand 0.7692215442657471
+[information to Waka Kotahi]: New Zealand --[CONTAINS]-> New Zealand Transport Agency 0.7577871084213257
+[information to Waka Kotahi]: Auckland --[CONTAINS]-> New Zealand Transport Agency 0.7607477903366089
+[information to Waka Kotahi]: Private Bag 6995 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7806148529052734
+[information to Waka Kotahi]: OIA request --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7732201814651489
+[information to Waka Kotahi]: official.correspondence@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.780423104763031
+[information to Waka Kotahi]: contact details --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8154099583625793
+[information to Waka Kotahi]: website --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7801413536071777
+[information to Waka Kotahi]: email address --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7971965074539185
+[information to Waka Kotahi]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7712008953094482
+[information to Waka Kotahi]: oia-9223-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7779678702354431
+[information to Waka Kotahi]: Andrew McFarlane --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.772245466709137
+[information to Waka Kotahi]: Wellington City Council --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7626039981842041
+[information to Waka Kotahi]: andrew.knackstedt@nzta.govt.nz --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7996705174446106
+[information to Waka Kotahi]: Jacklyn Hankin --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7650145888328552
+[information to Waka Kotahi]: OIA-10423-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7775665521621704
+[information to Waka Kotahi]: oia-12115-response-letter.pdf --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7811057567596436
+[information to Waka Kotahi]: oia-6374-response --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.777195930480957
+[information to Waka Kotahi]: Phil Pennington --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7556918263435364
+[information to Waka Kotahi]: Scott Yeoman --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7748249769210815
+[information to Waka Kotahi]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7632379531860352
+[information to Waka Kotahi]: Mathew Dearnaley --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7652522325515747
+[information to Waka Kotahi]: Senior Engineer Vehicle Standard --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.7391427755355835

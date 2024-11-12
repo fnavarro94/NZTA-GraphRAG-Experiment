@@ -1,0 +1,36 @@
+What is the second-busiest airport in New Zealand, serving as a key entry point for international travelers to the region known for its rugged terrain and stunning landscapes, particularly in the context of the two main islands of New Zealand where the transport system facilitates the movement of people and goods, in the context of Auckland and which city in New Zealand is mentioned as facing significant traffic congestion issues alongside Auckland and Wellington?
+None
+Seed: Crucial role in new zealand's transport infrastructure
+Seed: Busiest airport in new zealand
+Seed: Local economy and tourism industry
+Seed: Second-busiest airport in new zealand
+[Crucial role in new zealand's transport infrastructure]: Auckland airport --[Plays]-> Crucial role in new zealand's transport infrastructure 0.8937344551086426
+[Crucial role in new zealand's transport infrastructure]: Auckland airport --[Serves]-> As hub for domestic and international flights 0.8675599098205566
+[Crucial role in new zealand's transport infrastructure]: Auckland airport --[Is]-> Undergoing significant expansion 0.8633931279182434
+[Crucial role in new zealand's transport infrastructure]: Auckland airport --[Serves as]-> Primary international gateway for new zealand 0.8752033710479736
+[Crucial role in new zealand's transport infrastructure]: Auckland airport --[Committed]-> Sustainability 0.8280373811721802
+[Crucial role in new zealand's transport infrastructure]: Auckland ferry network --[Commitment to]-> Sustainability 0.7969494462013245
+[Crucial role in new zealand's transport infrastructure]: Auckland ferry network --[Operated by]-> Auckland transport 0.8207905292510986
+[Crucial role in new zealand's transport infrastructure]: Auckland transport --[Has]-> Vision to support growth 0.8266088962554932
+[Crucial role in new zealand's transport infrastructure]: Auckland transport --[Has]-> Vision to minimize environmental impact 0.8230153918266296
+[Crucial role in new zealand's transport infrastructure]: Auckland transport --[Has]-> Vision to create efficient transport system 0.8380123376846313
+[Crucial role in new zealand's transport infrastructure]: Auckland transport --[Has]-> Vision to create integrated transport system 0.8273677229881287
+[Crucial role in new zealand's transport infrastructure]: Auckland transport --[Has]-> Long-term vision 0.8409039378166199
+[Crucial role in new zealand's transport infrastructure]: New zealand transport strategy --[Outlines]-> Long-term vision 0.82442706823349
+[Crucial role in new zealand's transport infrastructure]: Auckland transport --[Has]-> Vision to create safe transport system 0.8181533813476562
+[Crucial role in new zealand's transport infrastructure]: Auckland transport --[Focused on]-> Promoting active transport modes 0.8453621864318848
+[Crucial role in new zealand's transport infrastructure]: Auckland transport --[Focused on]-> Promoting cycling 0.830736517906189
+[Crucial role in new zealand's transport infrastructure]: Auckland transport --[Focused on]-> Promoting walking 0.8447165489196777
+[Crucial role in new zealand's transport infrastructure]: Auckland transport --[Is]-> Primary agency 0.8537651300430298
+[Crucial role in new zealand's transport infrastructure]: Waka kotahi --[Is]-> Primary agency 0.7263162732124329
+[Crucial role in new zealand's transport infrastructure]: Auckland transport --[Implemented]-> Cycling infrastructure projects 0.8242210149765015
+[Crucial role in new zealand's transport infrastructure]: Auckland transport --[Implemented]-> Dedicated bike lanes 0.8241918087005615
+[Crucial role in new zealand's transport infrastructure]: Sustainable urban transport --[Key component]-> Dedicated bike lanes 0.7682768106460571
+[Crucial role in new zealand's transport infrastructure]: Auckland transport --[Implemented]-> Cycleways 0.8329373598098755
+[Crucial role in new zealand's transport infrastructure]: Christchurch --[Served by]-> Cycleways 0.8064145445823669
+[Crucial role in new zealand's transport infrastructure]: Auckland transport --[Introduced]-> Auckland integrated ticketing system 0.8287166357040405
+[Crucial role in new zealand's transport infrastructure]: Auckland transport --[Responsible for]-> Managing public transport services 0.8375077247619629
+[Crucial role in new zealand's transport infrastructure]: Greater wellington regional council --[Responsible for]-> Managing public transport services 0.7977728843688965
+[Crucial role in new zealand's transport infrastructure]: Auckland transport --[Responsible for]-> Development 0.8411701321601868
+[Crucial role in new zealand's transport infrastructure]: Waka kotahi --[Plays crucial role in]-> Development 0.7251743674278259
+[Crucial role in new zealand's transport infrastructure]: Kiwirail --[Involved in]-> Development 0.7979093194007874

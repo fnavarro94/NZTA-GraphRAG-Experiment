@@ -1,0 +1,36 @@
+How does the proportion of 80km/h zone length compare to the 100km/h zone length on SH16?
+None
+Seed: comparing the number of accidents under the 100km speed limit versus the current 80km speed rate
+Seed: annual accident rate on SH16
+Seed: 100M
+Seed: Discuss this reply with the NZ Transport Agency
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[INTERESTED_IN]-> comparing the number of accidents under the 100km speed limit versus the current 80km speed rate 0.8331906795501709
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Debrin Foxcroft --[EMAILS]-> NZ Transport Agency 0.7453160285949707
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: NZ Transport Agency --[ASSOCIATED]-> Andrew Knackstedt 0.7352811694145203
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: response --[ASSOCIATED_WITH]-> Andrew Knackstedt 0.7575163841247559
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response 0.7782819271087646
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Waka Kotahi NZ Transport Agency --[LOCATED_IN]-> Wellington 0.7524709701538086
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on vehicle accidents 0.7533631324768066
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on LGWM construction contracts 0.7534399032592773
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> list of LGWM construction contracts 0.7427998781204224
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> public transport fare policy review 0.7489628791809082
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Road Traffic Crash Data 0.7837889194488525
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> information on Christchurch road deaths 0.7494121193885803
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> traffic counter sites on Hewletts Road 0.7649224400520325
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Waka Kotahi NZ Transport Agency --[PROVIDES]-> Open Data portal for information about daily traffic volumes on Hewletts Road 0.7760765552520752
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Waka Kotahi NZ Transport Agency --[FAX]-> F 64 4 894 6100 0.7650517225265503
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Andrew Knackstedt --[CONTACT]-> Waka Kotahi NZ Transport Agency 0.752578616142273
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Waka Kotahi NZ Transport Agency --[CONTACT]-> T 64 4 894 5400 0.7592372894287109
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Waka Kotahi NZ Transport Agency --[LOCATED]-> Wellington 0.7524932622909546
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Chris Marshall --[REQUESTS]-> Waka Kotahi NZ Transport Agency 0.749419093132019
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Waka Kotahi NZ Transport Agency --[PUBLISHES]-> response on website 0.7697230577468872
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Waka Kotahi NZ Transport Agency --[MAINTAINS]-> Crash Analysis System 0.7651499509811401
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Waka Kotahi NZ Transport Agency --[ANNOUNCED]-> Road to Zero 0.7660807371139526
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: national, regional and local road safety promotion and education campaigns --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.7672641277313232
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Road to Zero --[SUPPORTED_BY]-> Waka Kotahi NZ Transport Agency 0.7906184792518616
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Waka Kotahi NZ Transport Agency --[INVESTS]-> national, regional and local road safety promotion and education campaigns 0.7448909282684326
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Wellington --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7529565691947937
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: New Zealand --[HOME_OF]-> Waka Kotahi NZ Transport Agency 0.7554713487625122
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: Waka Kotahi NZ Transport Agency --[WEBSITE]-> www.nzta.govt.nz 0.7562803030014038
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: 50 Victoria Street --[OF]-> Waka Kotahi NZ Transport Agency 0.7552672624588013
+[comparing the number of accidents under the 100km speed limit versus the current 80km speed rate]: www.nzta.govt.nz --[OF]-> Waka Kotahi NZ Transport Agency 0.7661192417144775

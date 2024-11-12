@@ -1,0 +1,31 @@
+Under what inspecting organization (IO) authority did VINZ operate prior to and after March 2015?
+None
+Seed: Sale of VINZ
+Seed: own inspecting authority number
+Seed: Enforcement of regulatory role
+Seed: Review of regulatory role
+[Sale of VINZ]: VINZ --[OPERATED_UNDER]-> IO authority 0.8925390243530273
+[Sale of VINZ]: VINZ --[INSPECTING_ORGANISATION]-> RNZ 0.8635749816894531
+[Sale of VINZ]: RNZ --[INSPECTING_ORGANISATION]-> VINZ 0.8619085550308228
+[Sale of VINZ]: VINZ --[ASSOCIATED_WITH]-> IO authority 0.855731725692749
+[Sale of VINZ]: VINZ --[SOLD]-> March 2015 0.8535348773002625
+[Sale of VINZ]: IO authority --[ASSOCIATED_WITH]-> VINZ 0.852569043636322
+[Sale of VINZ]: VINZ --[ASSOCIATED_WITH]-> March 2015 0.8483397364616394
+[own inspecting authority number]: authorised IO --[REQUIRES]-> appointment as an inspecting organisation 0.8318110704421997
+[own inspecting authority number]: own inspecting authority number --[ENABLES]-> inspect vehicles 0.8223989009857178
+[own inspecting authority number]: appointment as an inspecting organisation --[LEADS_TO]-> own inspecting authority number 0.8217447996139526
+[own inspecting authority number]: mandatory requirements --[RELATES_TO]-> authorised IO 0.7749292850494385
+[Enforcement of regulatory role]: Vehicle Inspection --[CONDUCTED_BY]-> New Zealand Transport Agency 0.8214547038078308
+[Enforcement of regulatory role]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8138470649719238
+[Enforcement of regulatory role]: New Zealand --[REGULATES]-> Vehicle Inspection 0.8100658655166626
+[Enforcement of regulatory role]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8077965974807739
+[Enforcement of regulatory role]: Vehicle Inspection --[PROVIDES]-> Safety Information 0.8069441914558411
+[Enforcement of regulatory role]: New Zealand Transport Agency --[PROVIDES]-> Vehicle Inspection Data 0.8055633902549744
+[Enforcement of regulatory role]: Vehicle Inspection --[Undertakes]-> Calculations 0.8053665161132812
+[Review of regulatory role]: Vehicle Inspection --[CONDUCTED_BY]-> New Zealand Transport Agency 0.8214547038078308
+[Review of regulatory role]: oia-5142 --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8138470649719238
+[Review of regulatory role]: New Zealand --[REGULATES]-> Vehicle Inspection 0.8100658655166626
+[Review of regulatory role]: Mark Kinvig --[ASSOCIATED_WITH]-> New Zealand Transport Agency 0.8077965974807739
+[Review of regulatory role]: Vehicle Inspection --[PROVIDES]-> Safety Information 0.8069441914558411
+[Review of regulatory role]: New Zealand Transport Agency --[PROVIDES]-> Vehicle Inspection Data 0.8055633902549744
+[Review of regulatory role]: Vehicle Inspection --[Undertakes]-> Calculations 0.8053665161132812

@@ -1,0 +1,17 @@
+Who can be contacted to discuss the costs of improvements and maintenance on the Saddle Road?
+None
+Seed: information about Saddle Road
+Seed: information about Saddle Road works
+Seed: funding for road maintenance
+Seed: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)
+[information about Saddle Road]: New Zealand Transport Agency --[PROVIDES]-> information about Saddle Road 0.8631854057312012
+[information about Saddle Road]: Jono Galuszka --[REQUESTS]-> information about Saddle Road 0.8702811002731323
+[information about Saddle Road works]: New Zealand Transport Agency --[PROVIDES]-> information about Saddle Road works 0.8562840819358826
+[funding for road maintenance]: New Zealand Transport Agency --[APPROVES]-> funding for road maintenance 0.7954543232917786
+[funding for road maintenance]: New Zealand Transport Agency --[PROVIDES]-> funding for road maintenance 0.8203543424606323
+[funding for road maintenance]: funding for road maintenance --[FOR]-> State Highway 1 0.8395681977272034
+[funding for road maintenance]: Waka Kotahi NZ Transport Agency --[APPROVES]-> funding for road maintenance 0.7899481654167175
+[funding for road maintenance]: funding for road maintenance --[ASSOCIATED_WITH]-> State Highway 1 0.8342961072921753
+[funding for road maintenance]: New Zealand Transport Agency --[APPROVED]-> funding for road maintenance 0.7973228096961975
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: Request made under the Official Information Act 1982 --[REQUESTS]-> detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) 0.8295334577560425
+[detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie)]: detail on any contracting of consultants to work on the investigations of the long tunnel option for Wellington (Terrace to Kilbirnie) --[CONTRACTS]-> consultants 0.8113608956336975

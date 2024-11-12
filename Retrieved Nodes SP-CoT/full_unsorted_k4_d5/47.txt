@@ -1,0 +1,36 @@
+In what year did the organization that provides free emergency medical services to residents in the Wellington region first establish its services in New Zealand?
+None
+Seed: First free ambulance service
+Seed: Healthcare providers
+Seed: Emergency medical services
+Seed: Delivering high-quality pre-hospital care
+[First free ambulance service]: Wellington free ambulance --[Is]-> First free ambulance service 0.9068116545677185
+[First free ambulance service]: Wellington free ambulance --[Engages in]-> Community education programs 0.8765830397605896
+[First free ambulance service]: Wellington free ambulance --[Operates]-> Rapid response vehicles 0.8473877310752869
+[First free ambulance service]: Wellington free ambulance --[Offers]-> Services without charge 0.8735775351524353
+[First free ambulance service]: Wellington free ambulance --[Funded by]-> Grants 0.8789377808570862
+[First free ambulance service]: Wellington free ambulance --[Continues to]-> Evolve 0.8679842948913574
+[First free ambulance service]: Wellington free ambulance --[Collaborates with]-> Healthcare providers 0.8935640454292297
+[First free ambulance service]: Wellington free ambulance --[Promotes]-> Safety 0.8688491582870483
+[First free ambulance service]: Automated data collection --[Enhances]-> Safety 0.6856489181518555
+[First free ambulance service]: Automated data collection --[Is]-> Technology 0.6791579723358154
+[First free ambulance service]: Waka kotahi --[Leverages]-> Technology 0.7057495713233948
+[First free ambulance service]: Freight and logistics --[Utilizes]-> Automated data collection 0.6929428577423096
+[First free ambulance service]: Public transport --[Integrates]-> Automated data collection 0.7118166089057922
+[First free ambulance service]: Auckland transport --[Manages]-> Public transport 0.7753039598464966
+[First free ambulance service]: Wellington --[Relies heavily on]-> Public transport 0.7863954305648804
+[First free ambulance service]: New zealand transport strategy --[Promotes]-> Public transport 0.7627804279327393
+[First free ambulance service]: Auckland transport --[Oversees]-> Public transport 0.7672706842422485
+[First free ambulance service]: Ministry of transport --[Oversees]-> Public transport 0.7302504777908325
+[First free ambulance service]: Integrated transport strategies --[Promote]-> Public transport 0.7068355679512024
+[First free ambulance service]: Christchurch --[Has]-> Public transport 0.776304304599762
+[First free ambulance service]: Sustainable urban transport --[Key component]-> Public transport 0.7274832725524902
+[First free ambulance service]: Sustainability and resilience --[Includes]-> Public transport 0.7119948267936707
+[First free ambulance service]: New zealand --[Has]-> Public transport 0.7954527735710144
+[First free ambulance service]: Public transport innovations --[Transform]-> Public transport 0.7121422290802002
+[First free ambulance service]: Public transport --[Varies significantly]-> Between urban and rural areas 0.7143818140029907
+[First free ambulance service]: Public transport --[Characterized by]-> Transition 0.7239341139793396
+[First free ambulance service]: Public transport --[Underwent]-> Significant evolution 0.7372380495071411
+[First free ambulance service]: Automated data collection --[Faces challenges]-> Privacy concerns 0.6759435534477234
+[First free ambulance service]: Automated data collection --[Optimizes]-> Resource allocation 0.6692496538162231
+[First free ambulance service]: Automated data collection --[Improves]-> Decision-making 0.6639299392700195

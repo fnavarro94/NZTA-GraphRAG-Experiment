@@ -1,0 +1,36 @@
+How is the number of lives saved from Road to Zero investments calculated?
+None
+Seed: zero road deaths by 2050
+Seed: Road to Zero – Road safety promotion
+Seed: total amount approved for investment
+Seed: Road to Zero – Safety infrastructure
+[zero road deaths by 2050]: Sweden --[TARGETS]-> zero road deaths by 2050 0.8161327242851257
+[zero road deaths by 2050]: Sweden --[ACHIEVED]-> 50 percent reduction in deaths and serious injuries between 2007 and 2020 0.7667937874794006
+[zero road deaths by 2050]: Sweden --[ADOPTED]-> Vision Zero 0.784661591053009
+[zero road deaths by 2050]: A/RES/74/299 --[PROMOTES]-> Vision Zero 0.8111419677734375
+[zero road deaths by 2050]: United Nations General Assembly --[ADOPTED]-> A/RES/74/299 0.7559555768966675
+[zero road deaths by 2050]: United Nations General Assembly --[ADOPTED]-> resolution A/RES/74/299 0.7569177150726318
+[zero road deaths by 2050]: resolution A/RES/74/299 --[PROMOTES]-> Safe System approach 0.7620428800582886
+[zero road deaths by 2050]: international best-practice guide --[DISCUSSES]-> Vision Zero 0.809968113899231
+[zero road deaths by 2050]: Organisation for Economic Co-operation and Development --[PUBLISHED]-> international best-practice guide 0.7905833125114441
+[zero road deaths by 2050]: Vision Zero --[RECOMMENDED_BY]-> Organisation for Economic Co-operation and Development 0.803081750869751
+[zero road deaths by 2050]: Road to Zero strategy --[AIMS_TO]-> Vision Zero 0.839057207107544
+[zero road deaths by 2050]: Road to Zero strategy --[BASED_ON]-> Vision Zero 0.8143470287322998
+[zero road deaths by 2050]: Vision Zero --[TARGETS]-> zero deaths and serious injuries 0.8187092542648315
+[zero road deaths by 2050]: Vision Zero --[BASED_ON]-> ethical premise 0.7864447832107544
+[zero road deaths by 2050]: Road to Zero strategy --[REVIEWED_BY]-> MartinJenkins 0.8386743664741516
+[zero road deaths by 2050]: MartinJenkins --[CONDUCTED]-> Road Safety Investment and Delivery Review 0.804706871509552
+[zero road deaths by 2050]: Road Safety Investment and Delivery Review --[AVAILABLE_ON]-> Ministry of Transport website 0.8048763275146484
+[zero road deaths by 2050]: Ministry of Transport website --[HOSTS]-> Road Safety Investment and Delivery Review 0.7799032926559448
+[zero road deaths by 2050]: Ministry of Transport --[LEADS]-> Road to Zero strategy 0.8092195391654968
+[zero road deaths by 2050]: Road to Zero Strategy --[MONITORED_BY]-> Ministry of Transport 0.850044310092926
+[zero road deaths by 2050]: Road to Zero Strategy --[FUNDING]-> Road to Zero Strategy 0.8663261532783508
+[zero road deaths by 2050]: New Zealand Transport Agency --[DEVELOPS]-> Road to Zero Strategy 0.8412685394287109
+[zero road deaths by 2050]: New Zealand Transport Agency --[PROVIDES]-> Road to Zero Strategy 0.841543972492218
+[zero road deaths by 2050]: Road to Zero Strategy --[CONCLUDES]-> 2030 0.8309640288352966
+[zero road deaths by 2050]: Road to Zero Strategy --[CONCLUSION]-> 2030 0.831810474395752
+[zero road deaths by 2050]: Road to Zero Strategy --[DEVELOPMENT_FUNDING]-> expenditure breakdown 0.8509202003479004
+[zero road deaths by 2050]: Road to Zero Strategy --[AVAILABLE_ON]-> Ministry of Transport 0.834688663482666
+[zero road deaths by 2050]: New Zealand Transport Agency --[SPENDS_ON]-> Road to Zero Strategy 0.8545819520950317
+[zero road deaths by 2050]: Basis for Strategy --[DISCUSSES]-> Road to Zero Strategy 0.8377083539962769
+[zero road deaths by 2050]: Road to Zero Strategy --[PROVIDES]-> Ministry of Transport 0.8343690037727356

@@ -1,0 +1,25 @@
+In what year did the Onehunga Line get reintroduced, enhancing the connection between the two locations connected by the first railway line constructed in the country in 1873?
+None
+Seed: First railway line between auckland and onehunga in 1873
+Seed: Onehunga to the wider auckland rail network
+Seed: 1873
+Seed: Rich history of rail transport
+[First railway line between auckland and onehunga in 1873]: New zealand --[Had]-> First railway line between auckland and onehunga in 1873 0.9145550727844238
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Developing rail network 0.8074407577514648
+[First railway line between auckland and onehunga in 1873]: Wellington regional rail plan --[Developed in response to]-> Increasing urbanization 0.8045046329498291
+[First railway line between auckland and onehunga in 1873]: Auckland --[Has]-> Rail network with several lines 0.8028231859207153
+[First railway line between auckland and onehunga in 1873]: New zealand --[Has]-> Railways 0.8007805347442627
+[First railway line between auckland and onehunga in 1873]: Rail transport --[Has]-> Rich history dating back to 19th century 0.7986494302749634
+[First railway line between auckland and onehunga in 1873]: Rail transport --[Has]-> Rich history dating back to the 19th century 0.7977518439292908
+[Onehunga to the wider auckland rail network]: Onehunga line --[Connects]-> Onehunga to the wider auckland rail network 0.847040593624115
+[Onehunga to the wider auckland rail network]: Onehunga line --[Has]-> Been instrumental in alleviating road congestion 0.8463435769081116
+[Onehunga to the wider auckland rail network]: Onehunga line --[Has]-> Been instrumental in promoting public transport use 0.8435794115066528
+[Onehunga to the wider auckland rail network]: Onehunga line --[Has]-> Been instrumental in reducing travel times for commuters 0.8318623304367065
+[1873]: Railway line --[Opened]-> 1873 0.8723945021629333
+[Rich history of rail transport]: Rail network --[Facilitates]-> Movement of goods to and from the port of wellington 0.8031846284866333
+[Rich history of rail transport]: Auckland --[Has]-> Rail network 0.7955209612846375
+[Rich history of rail transport]: Wellington --[Has]-> Rail network 0.7930116057395935
+[Rich history of rail transport]: Wellington region --[Has]-> Rail network 0.7908071279525757
+[Rich history of rail transport]: Wellington region --[Has]-> Rich history of rail transport 0.7867205142974854
+[Rich history of rail transport]: Kiwirail --[Operates]-> Rail network 0.7804844379425049
+[Rich history of rail transport]: Rail network --[Connects]-> Major cities and industrial hubs 0.7789124846458435
