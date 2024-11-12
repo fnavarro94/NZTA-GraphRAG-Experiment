@@ -1,8 +1,7 @@
 # NZTA-GraphRAG-Experiment
 
-**Graph Retrieval Augmented Generative Chatbot Prototype**
+**Code to run the experiment that evaluate the RAG at node retrieval level and answer level. This code contains the data to load the Neo4j data bases and the code required for the evaluation.**
 
-A prototype chatbot developed for the New Zealand Transport Agency (NZTA), leveraging graph-based retrieval methods to provide intelligent and contextually relevant responses.
 
 ## Table of Contents
 
