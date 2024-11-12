@@ -65,6 +65,29 @@ First, install the required dependencies:
 pip install -r requirements.txt
 ```
 
+## Filling the Neo4j Databases
+
+Before proceeding, ensure that you have Neo4j installed and a database set up and running. For detailed setup instructions, please refer to the [Neo4j Setup Guide](https://github.com/fnavarro94/NZTA-GraphRAG/tree/main).
+
+### Loading Data into Neo4j
+
+This project requires **two separate Neo4j databases**: one for the **OIA** data and another for the **SP-CoT** data. You should load the data into each database **one at a time** using the provided Jupyter notebooks:
+
+- To upload the **OIA data**, run the notebook:
+
+  |||
+  kg_loader_oia.ipynb
+  |||
+
+- To upload the **SP-CoT data**, run the notebook:
+
+  |||
+  kg_loader_sp_cot.ipynb
+  |||
+
+Make sure your Neo4j instance is running and your `.env` file is correctly configured before executing these notebooks.
+
+
 
 
 
