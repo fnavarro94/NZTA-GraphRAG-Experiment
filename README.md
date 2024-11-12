@@ -57,3 +57,14 @@ NEO4J_URL=bolt://localhost:7687
 NEO4J_DATABASE=neo4j
 ```
 
+### Install Dependencies
+
+First, install the required dependencies:
+
+```{bash}
+pip install -r requirements.txt
+```
+
+
+
+
