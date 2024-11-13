@@ -103,3 +103,12 @@ This project requires **two separate Neo4j databases**: one for the **OIA** data
   ```
 
 Make sure your Neo4j instance is running and your `.env` file is correctly configured before executing these notebooks. Also, ensure you stop the current database and start the next when switching from uploading one dataset to another.
+
+## Generating Triplet Files for CSMR and Original Methods
+
+Before proceeding, ensure you have completed the previous setup steps.
+
+To generate the triplet files:
+
+- Open the Jupyter notebooks **`node_level_testing_oia.ipynb`** and **`node_level_testing_sp_cot.ipynb`**.
+- Run the notebooks to produce the triplet files for both the CSMR and original methods.
