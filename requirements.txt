@@ -57,7 +57,7 @@ llama-index-legacy==0.9.48.post3
 llama-index-llms-groq==0.2.0
 llama-index-llms-openai==0.2.9
 llama-index-llms-openai-like==0.2.0
-llama-index-llms-replicate==0.3.0
+llama-index-llms-replicate==0.2.1
 llama-index-multi-modal-llms-openai==0.2.1
 llama-index-program-openai==0.2.0
 llama-index-question-gen-openai==0.2.0
@@ -102,7 +102,7 @@ pytz==2024.2
 PyYAML==6.0.2
 pyzmq==26.2.0
 regex==2024.9.11
-replicate==1.0.3
+replicate==1.0.1
 requests==2.32.3
 safetensors==0.4.5
 scikit-learn==1.5.2
