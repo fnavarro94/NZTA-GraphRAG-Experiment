@@ -110,6 +110,7 @@ pyzmq==26.2.0
 regex==2024.9.11
 replicate==1.0.1
 requests==2.32.3
+rouge_score==0.1.2
 safetensors==0.4.5
 scikit-learn==1.5.2
 scipy==1.14.1
