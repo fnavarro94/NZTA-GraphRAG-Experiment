@@ -132,7 +132,20 @@ For answer-level evaluation:
 1. Ensure that the retrieval-level evaluation has been completed successfully.
    
 2. Run the following Jupyter notebooks:
+
    - `answer_level_tests_oia.ipynb` (for OIA data)
+
    - `answer_level_tests_sp_cot.ipynb` (for SP-CoT data)
 
-Follow the instructions inside each notebook to conduct the answer-level evaluation. This step will compare the generated answers with the ground truth and assess the performance of the RAG system at the answer generation level.
+
+
+**Important Note for Running the Original Version at Answer Level:**
+
+- To get results at the answer level using the original version of the code, you must revert the patch and reset the environment. To do this run `revert_patch.py`.  After reverting, proceed as described above.
+
+
+
+Following these steps will compare the generated answers with the ground truth and assess the performance of the RAG system at the answer generation level.
+
+
+
