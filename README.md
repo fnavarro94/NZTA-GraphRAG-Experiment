@@ -144,6 +144,26 @@ For answer-level evaluation:
 - To get results at the answer level using the original version of the code, you must revert the patch and reset the environment. To do this run `revert_patch.py`.  After reverting, proceed as described above.
 
 
+### Additional Instructions for Answer Level Tests
+
+When running the answer level tests, please note the following manual steps:
+
+1. **Modify the File Saving Block:**
+
+   In the Jupyter notebooks `answer_level_tests_oia.ipynb` and `answer_level_tests_sp_cot.ipynb`, locate **Block 5** which contains the line:
+
+   ```python
+   questions.to_csv(f"results_temp/evaluated_unsorted_k{similarity_top_k}_d{path_depth}.csv", index=False)
+   ```
+
+   - Change `evaluated_unsorted` to `evaluated_sorted` if using the new method, or keep it as `evaluated_unsorted` if using the original version. This change is not handled automatically and must be done manually.
+
+2. **Delete Temporary Answers File:**
+
+   After a successful full run, delete the `temp_answers.csv` file to allow running a new experiment with a different depth of retrieval type. This must be done manually.
+|
+
+3. The code that compares the different depths and methods must be run once all of the depths for both methods have been evaluated
 
 Following these steps will compare the generated answers with the ground truth and assess the performance of the RAG system at the answer generation level.
 
